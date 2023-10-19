@@ -1,0 +1,173 @@
+<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00410">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Johannes Tillich
+               <lb/>vom 14. Dezember 1914 </title>
+            <author ref="P01930">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/193(12)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="monograph" n="firstPrint">
+                        <monogr>
+                           <author>Paul Tillich</author>
+                           <title>Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge, Berichte</title>
+                           <edition>1. Auflage</edition>
+                           <imprint>
+                              <publisher>Renate Albrecht und Margot Hahl</publisher>
+                              <pubPlace ref="Stuttgart">Stuttgart</pubPlace>
+                                 <date when="1980">1980</date>
+                                    <biblScope>85-f.</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Gesammelte Werke. Ergänzungs- und Nachlaßbände</title>
+                           <biblScope>Band 5&gt;</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="P01930">Paul Tillich</persName>
+               <placeName ref="Bieuxy">Bieuxy</placeName>
+               <date when="1914-12-14">14. Dezember 1914</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="P01926">Johannes Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-06-14">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2023-09-26">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#Bieuxy" type="place">Bieuxy</rs>, d. <date when="1914-12-14">14.
+                     Dez.</date></dateline>
+               <salute>Lieber <rs ref="#P01926" type="person">Papa</rs>!</salute>
+            </opener>
+            <p>Noch 10 Tage und es ist Weihnachten, und ich bin nicht bei Euch, das
+               erste Mal in meinem Leben! Und doch werde ich bei Euch sein. Am 23<hi rend="sup">ten</hi> Abends werde ich in Deine Schlafstube gehen und unter <rs ref="#P01764" type="person">Elisabeths</rs> Hilfe die Baukästen herbeischleppen
+               und unter dem – ich weiß nicht wann – von <rs ref="#P01764" type="person">Elisabeth</rs> geschmückten Weihnachtsbaum auf Zeitungspapier ausschütten,
+               und dann werde ich eine Krippe bauen, im Stil eines zerschossenen französischen
+               Bauernhauses, so eins, worin ich wohne, und derweil wirst Du Klavier spielen, und mit
+               Bauplänen im Kopf werde ich einschlafen. Und am 24<hi rend="sup">ten</hi> Morgens
+               werde ich eiligst zu Ende bauen und die übrig gebliebenen blauen Steine in dem alten
+               Kasten unter den Weihnachtstisch stellen und dann schnell noch in die Oranienstraße gehn, um Dir den Lutherkalender zu kaufen. Und dann werde ich
+               Brühkartoffeln mit Euch essen und nach Tisch mich mit <rs ref="#P01764" type="person">Elisabeth</rs> über die Verteilung der Pralinées auf
+               die Teller veruneinen, dann in die Kirche stürmen und konstatieren, daß auch in
+               diesem Jahr am rechten Weihnachtsbaum 15, am linken 11 Lichter sind. Dann werde ich
+               mir von der eben entwischenden<pb n="2"/>
+               <rs ref="#P02533" type="person">Frau Schmidt</rs> ein gesegnetes Weihnachtsfest
+               wünschen lassen und nachher entweder mit <rs ref="#P01764" type="person">Elisabeth</rs> zur Potsdamer Brücke gehen, um für <rs ref="#P01927" type="person">Tante Grete</rs> Kraftschokolade zu kaufen – zurück
+               natürlich auf <rs ref="#P01764" type="person">Elisabeths</rs> Befehl, die es
+               bezahlen will, aber kein Geld bei sich hat – fahren; oder mit <rs ref="#P01764" type="person">Elisabeth</rs> eine Partie Schach spielen, bis es
+               klingelt und <rs ref="#P01932" type="person">Großmama</rs> und <rs ref="#P01927" type="person">Tante Grete</rs> kommen, und Du durch die Tür rufst:
+               Hier kann niemand mehr rein! Und dann sitzen wir in Deinem Zimmer und warten und
+               erzählen uns was und werden müde; und dann wirfst Du auch <rs ref="#P02089" type="person">Toni</rs> heraus, und sie kommt, und dann kommst Du
+               selbst und die Türen gehen auf und der seligste Moment des Jahres ist da, und Du
+               spielst: Vom Himmel hoch... <unclear cert="high">u.</unclear> 1 u. 2 und betest...
+               diesmal auch für den, der da draußen Weihnachten feiert... und dann gehts an die
+               Geschenke, <del rend="s">diesmal</del> in preußischer Ordnung vom Jüngsten
+               anfangend... aber ich habe schon längst mit einem Blick das Wesentliche erhascht und
+               wundre mich, daß diesmal mein Platz leer ist... und dann gehts in die gute Stube und
+               ich freue mich über den Kuß des Dankes... freilich weiß ich nicht recht, wofür –
+                  diesmal...<pb n="3"/> 3 und dann blase ich das Licht in der Krippe und die kleinen
+               Kerzen unten aus, und dann breitet <rs ref="#P02089" type="person">Tonichen</rs>
+               die Fülle ihrer Überraschungen aus, und dann geht man wieder an den
+               Weihnachtstisch... und dann wieder zurück... das Häppchen Neunauge, was jeder kosten
+               darf, hat Appetit gemacht... und dann....</p>
+            <p>Verzeih den Hauch der Sentimentalität, der über diesen Zeilen liegt; so schlimm ist
+               es nicht; denn während ich so mit Euch bin im Geist, werde ich auch hier Weihnachten
+               feiern, ein Weihnachten ohne gleichen in dem furchtbarsten aller Kriege unter dem
+               Donner der Kanonen in Feindesland, Offizier in der siegreichen deutschen Armee,
+               Träger des eisernen Kreuzes, und was mehr ist, Träger der Weihnachtsbotschaft an
+               Tausende von Herzen, die empfänglich sind, wie nie zu vor und nie wieder: Das ist so
+               groß und so erhebend, daß der Ton der Wehmut überklungen wird von den starken,
+               mächtigen Akkorden des Heldenkampfes rings um mich her.</p>
+            <p>Ein Bild freilich wird dazwischen aufzucken, ein drittes Weihnachtsbild, wie eine
+               Vision, noch zukünftig, wie <del rend="s">ich</del> in einer kleinen Wohnung in
+                  <rs ref="#Halle a. S." type="person">Halle</rs> 2 Menschen unter einem
+                  Weihnachtsbaum<pb n="4"/> stehen, ihrem ersten Weihnachtsbaum in ihrem Heim ....
+               Doch genug davon, damit der andere Ton nicht siegt.–</p>
+            <p>Und nun wünsche ich Dir ein schönes, wertvolles Weihnachtsfest; und wenn Du in diesen
+               Tagen nicht nur den <rs ref="#P01928" type="person">Vater</rs>, sondern auch den
+                  <rs ref="#P01930" type="person">Sohn</rs> zum ersten Mal vermißt, so sei doch
+               froh mit mir, daß ich all das Große so unmittelbar mitmachen kann. Und wenn dieses
+               Fest in diesem Jahr, wo eine Welt sich umdreht, etwas anders bei Euch ist als sonst,
+               so ist es doch wert, dieses Weihnachten in vollster Anteilnahme gefeiert zu haben,
+               von dem noch in Jahrhunderten die Rede sein wird.</p>
+            <p>Wann aber wird wahr werden, was die Engel singen: Friede auf Erden? Oft schon hat
+               mich die Sehnsucht nach Hause gepackt; alle Leute haben hier nur die eine Frage: Wann
+               wirds zu Ende sein? Und doch ist es unabsehbar! Sogar, und das ist mir ein großer
+               Schmerz, ist unabsehbar, wie lange wir hier noch liegen werden. Ich dränge nach
+               vorwärts und wärs in Rußland. Aber es geht nicht vorwärts. Der große Sieg, das ist
+               mein Weihnachtswunsch!</p>
+            <closer>
+               <signed>Dein <rs ref="#P01930" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

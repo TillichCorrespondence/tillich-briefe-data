@@ -1,0 +1,96 @@
+<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00402">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Elisabeth Tillich
+                    <lb/>vom 11. November 1914
+                </title>
+                <author ref="P01930">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Emil Lusser</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="Wien">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                        <idno>bMS 649/184(6)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Feldpostkarte, eigenhändig</p>
+                    </physDesc>   
+                </msDesc>       
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="P01930">Paul Tillich</persName>
+                    <placeName ref="Bieuxy">Bieuxy</placeName>
+                    <date when="1914-11-11">11.11.1914</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="Elisabeth Tillich">Elisabeth Tillich</persName>
+                    <placeName ref="Berlin">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="EL" when="2022-04-21">Intitale Auszeichnung des Transkripts</change>
+            <change who="GM" when="2023-09-26">Endabnahme</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession1">
+                <pb n="1"/>
+                <opener>
+                    <dateline>Bieuxy d. <date when="1914-11-11">11. November.</date></dateline>
+                    <salute>L. <rs ref="#P01764" type="person">E.</rs></salute>
+                </opener>
+                <p><rs ref="#P00641" type="person">Fredes</rs> Brief und Schokolade von <rs ref="#P02301" type="person">Eckhard</rs> nebst Brief erhalten. Zeitung kommt pünktlich an; sehr angenehm in verschiedenem Sinne. Für Deinen Brief herzlichen Dank! Er hat meine Seele sehr erquickt. Hier ist nichts los und wegkommen wir auch nicht; den Vorstoß bei <rs ref="#Soissons" type="place">S.<expan>oissons</expan></rs><note type="ea"><rs ref="#P01764" type="person">Elisabeth Tillich</rs> bezieht sich womöglich auf die Abend-Ausgabe der Vossischen Zeitung vom <date when="1914-11-09">09.11.1914</date>. Dort heißt es: <bibl n="2">Vossische Zeitung« Nr. 571. 09.11.1914»In der Gegend von <rs ref="#Soissons" type="place">Soissons</rs> meldet man einen bemerkenswerten Fortschritt unserer Kräfte, desgleichen in der Gegend von <rs ref="#Bailly" type="place">Bailly</rs>.«</bibl></note>haben nicht wir, sondern unser Nebenkorps gemacht. Ehe nichts Neues passiert, schreibe ich nur alle 3-4 Tage eine Postkarte. Gestern hatten wir den ersten Abendmahlsgottesdienst. Von nun an alle Tage; es ist recht anstrengend bei der Fülle der Menschen. Das Wetter ist <sic>ekelhalft</sic>. Für <pb n="2"/>Knabber-Sachen bin ich unbegrenzt empfänglich. Was macht Ihr, besonders <rs ref="#P00644" type="place">Wumming</rs>? Wenn es doch bald weiterginge! Aber wir denken schon an die Weihnachtsfeiern in <rs ref="#Bieuxy" type="place">Bieuxy</rs>. Gesundheit. gut.
+                </p>
+                <closer>
+                    <signed>Dein <rs ref="#P01930" type="person">Paul</rs>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>    
+</TEI>

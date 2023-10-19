@@ -1,0 +1,172 @@
+<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00404">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Johanna Tillich
+               <lb/>vom 20. November 1914 </title>
+            <author ref="P01930">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/143(13)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="P01930">Paul Tillich</persName>
+               <placeName ref="Bieuxy">Bieuxy</placeName>
+               <date when="1914-11-20">20. November 1914</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="P00644">Johanna Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-06-13">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2023-09-26">Endabnahme</change>
+
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#Bieuxy" type="place">Bieuxy</rs>, d. <date when="1914-11-20">20.Nov. 1914.</date></dateline>
+               <salute>Mein liebes, liebes <rs ref="#P00644" type="person">Wumming</rs>!</salute>
+            </opener>
+            <p>Als Wichtigstes muß ich Dir das Menü mitteilen, das ich gestern Abend nach Ankunft
+               von <rs ref="#P00643" type="person">Trudchens</rs> Karte mit <rs ref="#P00644" type="person">Wummmings</rs> Unterschrift gegessen und getrunken
+               habe nicht zu meinem, sondern zu <hi rend="u">seinem</hi> Wohl, obgleich es auch mir
+               recht wohl getan hat. [N.B. Es war eine <rs ref="#Exzellenz von Bonin" type="person">fremde Exzellenz</rs> da].</p>
+            <p>
+               <list rend="numbered">
+                  <item n="1">Königinnen-Suppe.-</item>
+                  <item n="2">Champignons mit Kalbszunge.-</item>
+                  <item n="3">Ente mit Rosenkohl und Apfelmus.-</item>
+                  <item n="4">Süße Speise.-</item>
+                  <item n="5">Butter und [Käse]</item>
+                  <item n="6">Kaffee.-</item>
+               </list></p>
+            <p>Dazu a) Weißwein.<space dim="horizontal"/>b)Sekt.</p>
+            <p>Mit letzterem hat meine Umgebung auf das Wohl von Deutschlands Zukunft getrunken.
+               Mehr konnte das Entrée des neu gewonnenen Weltbürgers nicht recht gefeiert werden,
+               wenigstens nicht in Frankreich. <bibl type="telegram">Mein Telegramm</bibl>, das
+               natürlich bezüglich der Taufe ernst gemeint ist, habt Ihr hoffentlich bekommen,
+               ebenso <bibl type="postcard">die reizende Karte</bibl> von <rs ref="#P00109" type="person">Backhaus</rs>.</p>
+            <p>Soweit das Formelle; nunmehr treten wir in die materielle Betrachtung der Sache ein,
+               die natürhlich allerhand<pb n="2"/> Seiten hat und wie alles Materielle, dialektisch
+               ist.</p>
+            <p>Dies letzte trifft nun freilich nicht zu für <rs ref="#P00641" type="person">Frede</rs>, der von jetzt an einen definitiven Ausdruck für seinen
+               schlechthinnigen Pessimismus gefunden hat, nämlich den: "Natürlich schon wieder
+               voll..."; was "voll" ist und womit, verbietet mir der Wohlanstand zu sagen.</p>
+            <p>Bei <rs ref="#P00644" type="person">Wumming</rs> dagegen ist die Sache
+               schon recht dialektisch. Denn einerseits muß sie mit <rs ref="#P00589" type="person">Fichte</rs> behaupten, daß die Sphäre des
+               Daseins in Bezug auf Hildebrand, Kunibert, Augustin Fritz (oder was für drei Silben
+               sonst sein Wesentliches bezeichnen sollen) erst mit dem Tage der ersten Ich-Sagung
+               beginnt, insofern sich dort erst beginnende Moralfähigkeit zeigt; andererseits wird
+               sie aus höchst eigener Erfahrung zugeben müssen, daß gewisse Anzeichen für die
+               Daseinssphäre besagten Kuniberts etc. sich schon erheblich geltend gemacht haben,
+               resp. in Form von kausalen Affektionen der Nasen- und Ohr-Nerven täglich neu geltend
+               machen. Somit stellt sich in obgenanntem Hildebrand od. drgl. ein <del rend="ow">N</del>nicht-seiendes Sein dar oder das Dialektische selbst.</p>
+            <p>Was nun <rs ref="#P01930" type="person">Onkel Paul</rs> betrifft, so ist er eben
+               Onkel und das sagt manches. Es sagt einerseits eine Negation aus, nämlich, daß er
+               nicht Vater ist, andererseits<pb n="3"/> eine Position, daß er die allgemeine
+               Generationsstufe des Vaters erreicht hat, zu den "Vätern" im potentiellen Sinne
+               gehört. Das letztere ist nun aber zugleich konkret gemeint, nämlich daß er denkt ‒ so
+               zu weilen wenn er die andere Seite der dialektischen Schaukel vergißt – er wäre
+               selbst der Vater, und dann, da er sich statt in <rs ref="#Berlin" type="place">Berlin</rs>, bei <rs ref="#Paris" type="place">Paris</rs> – wie sich das
+               für Onkels geziemt – befindet, nicht mit der Hand, aber im Geist besagten Augustin
+               etc. auf seine Arme nimmt, ihn in die <hi rend="aq">tabulas rasas</hi>seiner
+               hoffentlich dunkelblauen Kinderaugen <sic>kuckt</sic>, sich auf seinen Schimmel
+               schwingt, der ob der ungeheuren Mehrbelastung einen Galopp über die schneeglänzenden,
+               sonnigen Felder macht, und Onkel und Neffen der Unendlichkeit zuträgt--- Nur fürchte
+               ich, daß nach diesem Ritt die negative Seite meiner Onklichkeit sich dahin geltend
+               machen wird, daß ein entsetztes <rs ref="#P00644" type="person">Wumming</rs>
+               und ein grimmig blickender <rs ref="#P00641" type="person">Frede</rs> mir den
+               Geraubten energisch und für längere Zeit abfordern werden. Aber den Ritt über <hi rend="u"><rs ref="#Paris" type="place">Paris</rs></hi> und zur <hi rend="u">Unendlichkeit</hi> hat er doch mit mir gemacht und wird er nicht so leicht
+               vergessen... und wenn er gar meine Ohren hat...!</p>
+            <pb n="4"/>
+            <p>Aus diesen <unclear cert="high">Sprüngen</unclear> meiner Phantasie werdet Ihr
+               ermessen, wie vergnügt mich die Nachricht gemacht hat. Nur um <rs ref="#P00644" type="person">Wumming</rs> hab ich noch etwas Sorge und bitte,
+               solange es ihr noch minder gut geht, um tägliche Bulletins. Hier ist jetzt das
+               schönste Wetter geworden, genau am 14<hi rend="sup">ten</hi> Nachm. 4 Uhr fing es
+               natürlich an, da große Ereignisse ihr Licht weithin werfen; es ist so kalt, daß man
+               denkt in Rußland zu sein, Reif und Schnee bedecken die Felder und in der Ferne hört
+               man die Kanonen des III. Corps donnern.</p>
+            <p>Im übrigen habe ich drei Bitten.</p>
+            <p><list rend="numbered">
+                  <item n="1">Zu Weihnachten eine neue Reithose, genau wie die erste bei Peek und
+                     Cloppenburg; nur soll das Wildleder die ganzen Kniee bedecken.</item>
+                  <item n="2"><hi rend="u">Sofort</hi> Schuhöl von Salamander Friedrichstr. 2-3 Kapseln, zu fragen im Laden für braune Offiziersstiefel, dazu
+                     mehrere Büchsen gelber Schuhcrème.</item>
+                  <item n="3">Für die Weihnachtsbäume, für die wir sorgen müssen, 100 weiße Kerzen
+                     (unsere kleine Sorte), ebenso viel Halter und 12 Schachteln Engelshaar.</item>
+               </list></p>
+            <p>Und nun, liebes <rs ref="#P00644" type="person">Wumming</rs>, laß es Dir gut
+               gehn! Es freut sich mit Dir,</p>
+            <closer>
+               <signed>Dein ältester Junge!</signed>
+            </closer>
+            <postscript>
+               <p><bibl type="letter">Meinen Brief</bibl> an <rs ref="#P01764" type="person">Elis.</rs> soll auch <rs ref="#P01933" type="person">Greti</rs>
+                  bekommen.</p>
+            </postscript>
+
+         </div>
+      </body>
+   </text>
+</TEI>

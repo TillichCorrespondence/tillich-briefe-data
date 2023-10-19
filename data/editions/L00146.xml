@@ -1,0 +1,141 @@
+<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00146">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Herrmann Schafft an Paul Tillich <lb/>vom 10. März 1907 </title>
+            <author ref="P01697">Herrmann Schafft</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="Marburg">Marburg</settlement>
+                  <institution>Philipps-Universität Marburg</institution>
+                  <repository>Deutsches Paul-Tillich-Archiv</repository>
+                  <idno>008G</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="P01697">Herrmann Schafft</persName>
+               <placeName ref="Halle">Halle</placeName>
+               <date when="1907-03-10">10.03.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="P01930">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-08-17">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2023-10-02">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><date when="1907-03-10">Laetare: 07. 10. III.</date>
+                  <rs ref="#Halle" type="place">Halle</rs></dateline>
+               <salute>Lieber <rs ref="#P01930" type="person">Paul</rs>,</salute>
+            </opener>
+            <p>Du kommst - falls Du nicht mit dem Neffen im Dom warest oder Deine Sonntagsfeier auf
+               heute Nachmittag verschiebst - gerade wie <unclear cert="medium">Dalton</unclear>
+               her, der weilen ich mich mit <rs ref="#P00203" type="person">Lorenz</rs> an einer <rs ref="#P00672" type="person">P.... Gerhardt</rs> Predigt von <unclear cert="medium">Märenhof</unclear> erbaut habe!</p>
+            <p>Um diese Zeit hast Du sonst bei mir gesessen, deshalb schreibe ich Dir nochmal - der
+               letzte Brief vor meinem Examen. - <rs ref="#P01926" type="person">Dein lb. Vater</rs>
+               wird sich über Deine Wahl gefreut haben, wie wir auch. Hoffentlich ist es möglich <foreign xml:lang="grc">ἐν ἀγάπη</foreign> ohne das <foreign xml:lang="grc">αληθευειν</foreign> zu umgehen ein Semester zu haben nach Wunsch. In Betreff
+               Deiner Pauken schreibe ich dir noch dies: es kommt nicht nur darauf an, <hi rend="u">was</hi> man sagt, sondern auch auf das <hi rend="u">Wie</hi>! Jedermann soll es
+                  wissen<pb n="2"/> daß ein absoluter Ernst hinter der Sache steht und, daß es
+               wirklich schließlich darauf immer ankommt, ob man persönlich zu Christus steht oder
+               nicht - <hi rend="u">aber</hi>: Das läßt sich sagen - so daß man das <hi rend="u">Wort</hi> nicht braucht. Du weißt vielleicht selbst, daß ich gegen Prüderie,
+               solange sie ein Deckmantel von Halbheit, oder auch Unwille zur Förderung des andern
+               ist - durchaus abgeneigt bin; <hi rend="uu">aber</hi> in Reden ist sie gut! Denn man
+               kann Ärgernis geben! Man müßte das riskieren, wenn man eben nicht in andrer Form
+               dasselbe doch sagen könnte. Du verstehst mich vielleicht! Unsere Worte im Umgang
+               greifen sich ab - und wir wollen dazu nicht das letzte, was wir haben, brauchen. Den
+               "neuen Namen" erfährt in der Apocalypse <bibl type="bible" resp="Rev 2,17">2<hi rend="sub">17</hi></bibl> nur der, der ihn bekommt. -</p>
+            <p>Und noch ein anderes. Wir haben hier in <rs ref="#Halle" type="place">Halle</rs> eine Terminologie und <pb n="3"/>mit
+               solcher ist die Gefahr gegeben, daß sie formelhaft wirkt.- Daher ist das schon ganz
+               recht, wenn Du es anders wenden und angreifen willst als wir - persönlich, neu
+               erfassen etc - <del rend="s">ab</del> [nur eben nicht wie oben] Sonst kann die
+               vernichtendste Wahrheit stumpf sein. - Doch das sind nur Randglossen und
+               Kleinigkeiten. -</p>
+            <p><rs ref="#P00203" type="person">Lorenz</rs> findet sich schon wieder. Er hat es
+               heruntergeschluckt. Eine Freude war es nicht. Und ich muß sagen, daß es ungerecht
+               ist, wenn <rs ref="#P01708" type="person">Schetelig</rs> II u. <unclear cert="medium"><rs ref="#P02172" type="person">Schuster</rs></unclear> Füxe erziehen und er <hi rend="u">nicht</hi>. Ich finde die
+                  <unclear cert="medium">gg</unclear>Stellung gerade einiger Leute auch die ihn
+               näher kennen - nicht richtig. Er hat Fehler, die man sieht; das ist mir lieber als
+               anderes! Auch seine <unclear cert="low">Quertreiber</unclear> sind nicht gleichmäßig
+               freundlich und harmlos, was man <hi rend="u">immer</hi> wieder werden kann u. muß -
+               gewesen. Er ist ein gehetzter Mensch, nun schon Jahre lang. Seine Schuld freilich
+               größtenteils, aber <hi rend="u">nicht</hi> nur und das<pb n="4"/> macht es so schwer,
+               ihn davon zu überzeugen, daß wenn er versteht, was Christsein heißt - <hi rend="u">nichts</hi> ihn aus der Fassung bringt. Sieh zu, daß Du säuberlich mit ihm fährst
+               u. bringe auch andern bei, daß sie nicht mehr sind als er .. u. den infamen Klatsch
+               u. Schulmeister oder <sic>ärtzlichen</sic> Ton ihm gegenüber lassen, wenn es ihnen
+               nicht aufgetragen ist.</p>
+            <p>Der Abschied vom x wurde mir recht schwer. Bei dir habe ich noch nicht so die
+               Empfindung der definitiven Trennung u. nachher ist es <unclear cert="high">Mai</unclear>! - Aber es bedeutet doch etwas u. gerade, wo ich mit euch wirklich
+               zusammengelebt habe, wird mir klar, daß ein Stück Erdenreise nun aufhört u. ein neues
+               anfängt - Freilich hatte ja auch dies Stück nur die Aufgabe, die das ganze Leben hat
+               u. seinen Zweck nicht in den Verhältnissen - aber es war doch schön so und, wer weiß,
+               wie es nun für uns im Leben wird! - Vorläufig - schneller in die Zügel u. vorwärts in
+               scharfem Trab! -</p>
+            <closer>
+               <salute>Leb wohl mein lb. <rs ref="#P01930" type="person">Paul</rs>! Grüße den
+                  Neffen</salute>
+               <signed>- Dein tr. <rs ref="#P01697" type="person">H.</rs></signed>
+            </closer>
+            <postscript>
+               <p>Auch herzl. Gr. Deinen lb. Angehörigen......</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00425">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Johannes Tillich
+               <lb/>vom 31. März 1915
+            </title>
+            <author ref="P01930">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Leopold Potyka</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge">Cambridge</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library </repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/193(13)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  </physDesc>             
+            </msDesc>                     
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="P01930">Paul Tillich</persName>
+              <placeName ref="Bieuxy">Bieuxy</placeName>
+              <date when="1915-03-31">31.03.1915</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="P01926">Johannes Tillich</persName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="LP" when="2022-05-02">Intitale Auszeichnung des Transkripts</change>
+        <change who="GM" when="2023-10-03">Endabnahme</change>      
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <dateline><rs ref="#Bieuxy" type="place">Bieuxy</rs>, d. <date when="1915-03-31">31. März 1915.</date></dateline>
+           <salute>Lieber <rs ref="#P01926" type="person">Papa</rs>!</salute>
+        </opener>
+        <p>Urlaub ist genehmigt. Ich bin sehr glücklich! Für Deinen letzten Brief, der mir eine große Freude war, vielen herzlichen Dank! Er kreuzte sich mit meinem an Dich. <rs ref="#P02089" type="person">Tonis</rs> Paket ist längst angekommen, euch dafür vielen Dank!</p>
+           <p>Ich teile <rs ref="#Margarethe Wever" type="person">Greti</rs> den Urlaub durch Telegramm und Brief mit, bitte Euch aber für den Fall, daß beides nicht funktioniert, sofort nach Ankunft dieses Briefes nach <rs ref="#Butterfelde" type="place">Butterfelde</rs> <add place="superlinear">zu</add> telefonieren:
+              „<rs ref="#Paul Tillich" type="person">Paul</rs> lässt <rs ref="#P01933" type="person">Greti</rs> sagen – für den Fall, daß das Telegramm nicht angekommen und der Brief verspätet ist – daß der Urlaub genehmigt ist, und er Mittwoch den 7. April vorm. zwischen 12 und 1 in <rs ref="#Frankfurt a.M." type="place">Frankfurt a. M.</rs> von <rs ref="#Metz" type="place">Metz</rs> her ankommt. Treffpunkt Bahnhof oder Hotel Prinz Heinrich, falls wir uns am Zug verfehlen.“</p><pb n="2"/>
+           <p>Euch bitte ich, alle Post an die Adresse Hotel Prinz Heinrich zu richten, bis wir weiteres schreiben.
+              Vor mir liegt ein Berg: 15 Gottesdienste, darunter einer am ersten Ostertag, vor dem Kommandierenden <rs ref="#P02327" type="person">General von Gronau</rs>, und ca. 14 Lazarethandachten, in 6 Tagen.</p>
+           <p>Es geht mir aber gut und ich denke, ich werde es gut schaffen; die beiden Predigten liegen natürlich schon fertig da.</p>
+           <p>Nun muss ich schliessen. Fröhliche Ostern trotz alles Ernstes wünscht Euch von Herzen und grüßt Euch alle</p>
+        <closer>
+           <salute>Euer</salute>
+           <signed><rs ref="#P01930" type="person">Paul</rs>.</signed>
+        </closer>          
+     </div>
+    </body>
+  </text>
+</TEI>

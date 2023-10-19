@@ -1,0 +1,252 @@
+<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00252">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Otto Heller an Paul Tillich <lb/>vom 20. Dezember 1907</title>
+            <author ref="P02142">Otto Heller</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/151(56)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="P02142">Otto Heller</persName>
+               <placeName ref="Halle">Halle</placeName>
+               <date when="1907-12-20">20.12.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="P01930">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-02-24">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2023-09-20">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#Halle" type="place">Halle (Saale)</rs>, <date when="1907-12-20">20. XII.
+                     07.</date></dateline>
+               <salute>Mein liebes <rs ref="#P01930" type="person">Paulchen</rs>!</salute>
+            </opener>
+            <p>Für Deinen lieben Brief habe herzlichen Dank! Mehr als ein Monat ist schon vergangen,
+               seit ich ihn erhalten, u. da muss ich doch endlich antworten, resp. Deine
+               verschiedenen Fragen beantworten, die Du in ihm an mich stellst.</p>
+            <p>Die erste Frage bezog sich auf meine Umsattelung. Sie beantworten, hieße eine große
+               "Generalbeichte" ablegen über diesen bedeutsamen Schritt, den ich da getan. Es ginge
+               nicht in diesem Brief hinein alles, was ich Dir da zu sagen hätte. Sodann aber käme
+               es auch der Aufgabe gleich, eine wichtige, folgenreiche u. sehr bewegte Periode
+               meines ganzen Entwickelungsganges zu schildern.<pb n="2"/> Du wirst es verstehen,
+               wenn ich das jetzt noch nicht tue, am allerwenigsten mit dürren Worten in einem
+               Briefe. Das kann ich nicht; dazu liegt das alles noch nicht weit genug hinter mir!
+               –</p>
+            <p>Du fragst mich im Weiteren, nach m. Leben in der Verbindung, zunächst, ob ich der
+               Lösung des Problems vom vorigen Semester näher gekommen sei. –</p>
+            <p>Ich will versuchen, meine Gedanken über diesen Gegenstand, im allgemeinen wie im
+               speziellen, zu Papier zu bringen.</p>
+            <p>Ich glaube, daß die Hallenser Verbind. <hi rend="u">so wie sie ist</hi> (Du weißt,
+               daß ich damit kein abfälliges Urteil fällen will), nicht im Stande ist, bei einer <hi rend="aq">Activitas</hi> von <hi rend="u">68</hi>, die Aufgaben zu erfüllen, die
+               sie erfüllen sollte u. erfüllen <hi rend="u">möchte</hi>, an der Verbindung als
+               ganzem, sowie an den einzelnen, die dieses ganze bilden.</p>
+            <p>Warum? – Der Raum langt nicht, alle Gründe in
+                  extenso vorzubringen. Zunächst: wir haben zuviel jüngere Semester, u.
+                  <hi rend="u">es fehlt an älteren Semestern</hi>,<pb n="3"/> es ist Mangel an
+               Leuten, wie <rs ref="#P00310" type="person">Fr. Büchsel</rs>, <rs ref="#P01697" type="person">H.
+                  Schafft</rs>, <rs ref="#P01930" type="person">Paulchen Tillich</rs> (nicht zu
+               vergessen) u. a.</p>
+            <p>Für <hi rend="u">die</hi> Kräfte, die da sind, ist eine Activitas von <hi rend="u">68</hi> zu groß. Der einzelne widmet sich bald diesem, bald jenem, bald einem
+               dritten u. so fort, daß er ja Reih um komme, – die <hi rend="u">Arbeit</hi> bleibt
+               "Stückwerk".</p>
+            <p>Du wirst mir vielleicht an einem Beispiel das Gegenteil dartun wollen u. sagen: Wenn
+               ich mir einen zum Abendwimmel oder Kaffong etc. einlade, kann ich mich ihm doch 2-3
+               Stunden widmen, da kann man doch wahrhaftig genug reden, was willst Du denn mehr, das
+               genügt; so sehr kommt es nicht auf die "Quantität" des Verkehrs an! – Und doch!
+               Einem, mit dem ich oft zusammen bin, erschließe ich mich mehr u. spreche ich mich
+               mehr aus, als einem, mit dem ich vielleicht alle 3 Wochen einmal einen Abendwimmel
+               baue. – Es liegt gewiß ein <del rend="s">großes</del> Körnlein Wahrheit darin! –
+               Damit der einzelne in der Verbindung dem Bruder etwas sein kann, muß er ihn vor
+                  allen<pb n="4"/> Dingen <hi rend="u">kennen</hi> u. jener den anderen. Zum
+               Kennenlernen aber braucht man Zeit, der eine mehr, der andre weniger, je nach Alter
+               u. Lebenserfahrung u. dem Maße der Liebe zu den Mitmenschen. – Ich behaupte, in einer
+                  <hi rend="aq">Activitas</hi> von 68 hat man <hi rend="u">dazu</hi> nicht die
+               nötige Zeit. –</p>
+            <p>Die <hi rend="u">Consequenz</hi> ist also: wir dürfen nicht <hi rend="u">so
+                  viele</hi> aufnehmen. Wir sind doch kein Erziehungsheim für solche, die noch so
+               allerhand zu lernen haben, teils äußerlich, teils innerlich: – <del rend="ow">Ein
+                  Inaktiver</del>
+               <hi rend="sup"><rs ref="#P02095" type="person">Witte</rs></hi> sagte einmal hier auf
+               einem Kaffong zu Beginn des Semesters: "Kinder nehmt nur möglichst viel auf, daß wir
+               den Bund recht mit Hallenser "verseuchen"!" Ich glaube, von den <hi rend="u">vielen</hi>, die wir auf- nehmen, werden es immer <hi rend="u">nur einzelne</hi>
+               sein, die, wenn sie in den Bund hinauskommen, diesen nachhaltig nachhaltig
+               beeinflussen. – Lasst uns <hi rend="u">qualitativ</hi> wirken im Bunde, statt
+               quantitativ! Das erstere werden wir <hi rend="u">können</hi>, wenn wir uns im
+               kleineren Kreise <hi rend="u"><hi rend="aq">consolidieren</hi></hi>.-<pb n="5"/> Ich
+               habe im allgemeinen gesprochen; ich will nun auch von mir sprechen, weil Du danach
+               fragst. Ich fasse alles in den einen Satz zusammen. Ich <hi rend="u">erkenne</hi>
+               viele Aufgaben in der Verbindung, an deren Lösung ich <hi rend="u">mitarbeiten
+                  könnte</hi>; im jetzt verflossenen Quartal hatte ich nicht die moralische Kraft
+               dazu sowie die nötige Freudigkeit (eine Tatsache, die ich oftmals <hi rend="u">sehr</hi> schmerzlich empfand). Ich hoffe u. wünsche, daß es im kommenden
+               Quartal, den letzten 2 Monaten, die ich noch in <rs ref="#Halle" type="place">Halle</rs> bin,
+               besser gehen wird.</p>
+            <p>Die Activität in der Verbindung so wie <hi rend="u">wir</hi> sie auffassen (ich denke
+               jetzt nicht an die <hi rend="u">eine</hi> Seite, das Betrieb schieben, auf die
+               Inoffizielle gehen etc.) gehört mit zum <hi rend="u">Idealsten</hi>, was ich kenne;
+               besonders für die Theologen unter uns, aber auch die Juristen (beinahe hätte ich
+               gesagt: <hi rend="u">den</hi>) u. Philologen; sie ist keine treffliche Vorübung im
+               kleinen Kreise für die Arbeit die wir später, wenn wir im Amte sind, zu leisten
+               haben. –</p>
+            <p>Ich gehe nun auf D. weiteren Fragen ein: Du willst wissen, was<pb n="6"/> der Geist
+               in der Verb. macht. – Er ist gut! Wir haben überhaupt gutes <hi rend="u">Material</hi> von Leuten in der Verbindung. – Möchten viele, recht viele <hi rend="u">diesen</hi> Hallenser Wingolf als tüchtige Persönlichkeiten verlassen!
+               –</p>
+            <p>Wie ich mit dem xx u. xxx zufrieden bin? – In die Tätigkeit des xx besitze ich nicht
+               genug Einblick. Der xxx ist ein "<hi rend="u">Schlemmerkerl</hi>"! Ich hoffe Deinem
+               Widerpart bei der Wahl nicht un- recht zu tun, wenn ich sage, daß ich unsern
+               nunmehrigen xxx für <hi rend="sup">eine</hi> viel gereiftere Persönlichkeit halte,
+               als den vom A.–H.–C. vorgeschlagenen.- Ich ahnte schon damals, was in ihm steckte,
+               als <hi rend="u">ich</hi> ihn auf Biegen oder Brechen zum Confuxia-Ehrenphilister
+               haben wollte. Mit Hülfe von c.10 Kaffongs gelang mir ja dann auch die Sache glatt.
+               Mit dem Sprechen u. Redenhalten ging's beim xxx im vorigen Semester ja nicht so
+               hervorragend. Jetzt spricht er fließend, u. wirft einem nicht <hi rend="sup">mehr</hi> immer so einzelne Worte an den Kopf. – Die Füxe haben ihn sehr gern,
+               hörte ich neulich.<pb n="7"/> Über den x schreibe ich nichts; "denn über ihn steht ja
+               Dein Urteil a priori <hi rend="u">fest</hi>." – Was meine "Bezogenheit auf mein
+               Conhaus" betrifft, so ist das mit wenigen Worten gesagt. "Wir wohnen <hi rend="u">nebeneinander</hi>". Indessen <hi rend="u">keineswegs</hi> wie Hund u. Katze, wir
+               vertragen uns <hi rend="u">sehr</hi> gut u. ich schätze eine ganze Menge an ihm, was
+               schätzenswert ist; aber gerade besonders nahe stehen wir uns nicht.</p>
+            <p>Es liegt hier nahe, an mein Verhältnis zu <rs ref="#P02194" type="person">Spatz</rs> zu
+               denken. Obwohl Du nicht danach fragst, möchte ich doch auch darüber etwas sagen, weil
+               es hierher gehört. Ich weiß nicht, ob ich richtig urteile, wenn ich sage, wir sind
+               uns nicht näher gekommen in diesem Quartal, vielleicht etwas mehr auseinandergekommen. – <hi rend="u">Leider</hi>! – Ich hab ihn so gern.</p>
+            <p>Ich hatte gedacht, Du kämst zu unserer Weihnachtskneipe herüber, aber ihr hattet <hi rend="sup">wohl</hi> am selben Tage Kneipe. Überhaupt war ich so manches mal
+               enttäuscht, als falsche Gerüchte umgegangen waren, Du kämest. – Wie geht es in
+                  <rs ref="#Berlin" type="place">Berlin</rs>? Was macht <rs ref="#P01050" type="person">Albert
+                  Kilger</rs>? Wagner, mein Landsmann! <rs ref="#P02216" type="person">Graeber</rs> u. <rs ref="#P01593" type="person">Vater
+                  Rhein</rs>? –<pb n="8"/> Das Erbauungskränzchen an Weihnachten hielt L. u.
+                  <rs ref="#P02352" type="person">Weber</rs>. Es war eine treffl. <hi rend="u">Predigt</hi>. – Nun aber 2 Fragen: Hat es einmal überhaupt Zweck, vor <hi rend="u">Weihn</hi>. ein Erbauungskränzchen abzuhalten? Die Berechtigung eines
+               solchen Zuschlags u. Beginn des Semesters liegt auf der Hand: Zweitens hat es Zweck,
+               wenn es von einem Nichtwingolfiten gehalten wird; der dann eben eine <hi rend="u">Predigt</hi> hält, wie sie <hi rend="u">in der Kirche</hi> auch gehalten wird?
+               –</p>
+            <p>Eine andere Institution gibt auch noch Anlaß zu Erwägungen <hi rend="u">über ihre
+                  Berechtigung</hi>. Ich meine die Weihnachtsauctionskneipe. Ich will mich möglichst
+               kurz fassen:</p>
+            <p>1.) <hi rend="u">auf dieser W.auctionskneipe haben eine ganze Reihe über ihre Kräfte
+                  gesteigert.</hi> Leute, die von Stipendien leben müssen, einer, der nichts zu
+               Weihnachten geschenkt kriegt, weil's dazu nicht langt. Leute, die bei der
+               Jubiläumskasse Schulden haben u. sagen sie könnten's nicht bezahlen u.s.w. Ich kann
+               noch verschiedene Beispiele anführen.</p>
+            <p>2.) <hi rend="u">Es hat eine große Reihe gesteigert, in der Meinung, dies für einen
+                  guten Zweck zu tun u. nachher hörten sie, es sei zu 60% für die Hauskasse.</hi><pb n="9"/> Man gebe doch dem Kinde den rechten Namen, erhebe meinetwegen eine
+               Haussteuer proportional der Werkssteuer.</p>
+            <p>3.) Die <hi rend="u">Verbindung bestimmt</hi>, daß der Einzelne für <hi rend="u">mindestens 2 M.</hi> steigert. Also: Eine "Wohltätigkeits<hi rend="u">steuer</hi>"; ein Zwang zur Wohltätigkeit. Ich lasse es mir gefallen, wenn der Staat
+               eine solche etwa auf Luxusgegenstände erhebt, wie in Österreich auf die
+               Ansichtskarten. Als ich noch auf dem Pennal war, wohnte ich mal 1 Jahr bei einer
+               Pfarrerswitwe, die schrieb am Schluße jedes <del rend="s">Quar</del> Tertials ihren
+               Pensionairen u.a. 4 M. für Mission auf die Rechnung; als ich die erste erhielt, sagte
+               ich: Frau Pfarrer, erlauben Sie, daß ich erst mal meinen Vater frage, ob er damit
+               einverstanden ist. Als ich's nun meinem Vater erzählte, war er höchst erstaunt,
+               sagte: ich zahle in die u. die Missionsgesellschaft u. so u. soviel, unterstütze die
+               u. die wohltät. Unternehmen, das ist <hi rend="u">m</hi>. Sache, Du verdienst noch
+               kein Geld, die 4 M. zahlst Du nicht.<pb n="10"/> Mir kommt die Verbindung in diesem
+               Falle vor, wie jene Pfarrerswitwe.</p>
+            <p>Es schließt sich hier mein <hi rend="u">4</hi>. Punkt an: Es waren einzelne höchst
+               erfreut, über diese "<hi rend="u">allgem. Opferwilligkeit</hi>". War es das wirklich,
+               wenn die Leute 10, 20 ja 30 M. für einen guten Zweck <del rend="s">an</del> ihrem
+               Vater, der es event. gar nicht übrig hatte, aus der Tasche zogen? – (636 M.! gingen
+               im ganzen ein.) Ja, die Leute, die ihren bestimmten Wechsel haben, die können sich so
+               was ersparen u. haben nun auch <hi rend="u">das Recht, sich über das Opfer, das sie
+                  bringen, zu freuen</hi> – Die Tatsache aber, <sic>das</sic> ein großer Teil der
+               Verb. keinen festen Wechsel bezieht, macht das erstere gegenstandslos.</p>
+            <p>5. Die <hi rend="u">Bescherung</hi>: Ist sie nicht eine gewisse Art von <hi rend="u">Couleurvertretung</hi>? Wollen wir nicht als christl. Verb. uns da etwas vor der
+               Öffentlichkeit zeigen? Ein <hi rend="u">Bisschen</hi> mag dies Motiv mitspielen.
+               Einzelne sagen: ja, das macht mir<pb n="11"/> zu große Freude, wenn ich da all die
+               Kinder sehe, wie sie sich über die Geschenke freuen; dieses Vergnügen möchte ich
+               nicht missen. (so z.B. <rs ref="#P02194" type="person">Spatz</rs>.)</p>
+            <p>Der Grund dagegen kommt noch, ich möchte nur vorweg bemerken: Wer diese Freude haben
+               will, kann in Kirchen oder Schulen gehen am heiligen Abend oder vorher, da kann er
+               diese sich meinetwegen 3x an einem nachm. hintereinander verschaffen. Mit anderen
+               Worten: das angeführte Moment ist noch kein Grund für d. Sache. Nun aber: 6.) Ich
+               behaupte, die ganze Sache ist z. Teil ein "<hi rend="u">spectaculum</hi>", das wir
+               unseren Activen, Gästen, Damen u. Professoren etc. geben, u. die <hi rend="u">Eltern</hi> der Kinder fühlen sich bei uns in dieser feinen Gesellschaft (rings
+               an den Wänden die Activen in Gehröcken!) höchst unwohl. – Es ist ganz etwas anderes,
+               wenn so eine Bescherung in Schule oder Kirche, einem dem Volke wohlvertrauten Orte,
+               stattfindet, wo es gewohnt ist, sich zu bewegen; aber hier; – kannst Du Dich hinein
+               versetzen? Warum wollen wir immer gleich <hi rend="u">selber etwas davon haben</hi>,
+               wenn wir mal etwas Gutes getan? –<pb n="12"/> "Die rechte Hand soll nicht wissen, was
+               die linke tut", das Sprichwort hat seine guten <hi rend="u">Gründe</hi>. Man sammle
+               in irgendeiner Form, ohne einen Zwang auszuüben u. schicke das Ganze an die
+               Stadtmission oder P. Meinhof oder andere, mit Zweckbestimmung, und – <hi rend="uu">anonym</hi>! Jeder gebe nach Vermögen von seinem Ersparten u. er hat <hi rend="u">ein Recht, sich zu freuen</hi>. – Dies ist die Art, die <hi rend="u">mir</hi>
+               sympathisch wäre! –</p>
+            <p>Ich möchte schließen; es ist schon <formula notation="TeX">\frac{1}{4}</formula> 2
+               !</p>
+            <p>Die Ferien über bleibe ich hier, weil sich die weite Reise nach dem
+                  <rs ref="#Elsass" type="place">Elsass</rs> für die kurze Zeit nicht lohnt, u. ich ausserdem
+               eine ganze Masse Arbeit erledigen möchte.</p>
+            <p>Leb wohl u. sei herzlich gegrüßt, u. erfreu mich "<hi rend="u">zu Weihnachten</hi>"
+               mit einem Briefe!</p>
+            <closer>
+               <salute>In steter Dankbarkeit u. herzl. Zuneigung bleibe ich Dein getr.</salute>
+               <signed><rs ref="#P02142" type="person">O. Heller</rs>, stud. jur. et. can. <figure>
+                     <figDesc>Wingolfzirkel</figDesc>
+                  </figure></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

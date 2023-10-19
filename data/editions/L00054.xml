@@ -1,0 +1,116 @@
+<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00054">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Toni Winkler an Paul Tillich <lb/>vom 11. Mai 1905 </title>
+            <author ref="P02089">Toni Winkler</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambrdige">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/205(15)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="P02089">Toni Winkler</persName>
+               <placeName ref="Berlin">Berlin</placeName>
+               <date when="1905-05-11">11.05.1905</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="P01930">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-03-29">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2023-09-25">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#Berlin" type="place">Berlin</rs> d. <date when="1905-05-11">11. Mai 05.
+                  </date></dateline>
+               <salute>Mein lieber <rs ref="#P01930" type="person">Paul</rs>,</salute>
+            </opener>
+            <p>der Sonntagsgruß soll schon eher geschrieben werden, da wir morgen vorhaben nach
+                  <rs ref="#Lichterfelde" type="place">Lichterfelde</rs> zu fahren. Daraus siehst
+               Du, daß es <rs ref="#P01926" type="person">Papa</rs> leidlich gut geht, trotz
+               eines starken Schnupfens den er sich neulich im Dom bei der landeskirchlichen
+               Versammlung geholt hat. Die kleine <rs ref="#P01764" type="person">Elisabeth</rs> hat nicht nur reine Hände - sondern höre und staune, im
+               letzten Exercitium eine No. 1. Die Lehrerin hat sie sehr gelobt u. ist das kleine
+               Ding nun doppelt fleißig. Es ist überhaupt <pb n="2"/>rührend mit anzusehen, wie sie
+               versucht ihrem Papa das Fernsein seiner beiden ältesten Kinder, durch besondere
+               Zärtlichkeit zu ersetzen. Ihr fehlt uns natürlich sehr, aber doppelt viel Arbeit, die
+               man ja findet, wenn man sie sucht, helfen darüber hinweg, u. außerdem ist es ja nicht
+               für lange. Wie gehts denn mit dem Verbinden? Wann bekommst Du denn nun ein Pflaster:
+               Jetzt; wenn's warm ist, wirds Dir unangenehm heiß sein, solch einen Verband noch zu
+               haben. Heut schrieb <rs ref="#P00644" type="person">Johanna</rs> einen sehr
+               netten Brief, sie <pb n="3"/> treibt Italienisch u. Musik, u. reitet auch. Alle Tage
+               fahren sie in einem Ponny Fuhrwerk spazieren, sie schrieb, sie erholt sich sehr, ist
+               aber noch immer müde. Natürlich freut sie sich schon sehr auf die Reise, besonders
+               schön ist es, daß Ihr Euch so bald wieder sehen könnt. Uebrigens hat nun <rs ref="#P01926" type="person">Papa</rs> auch einen Hülfsprediger <rs ref="#P02258" type="person">"Höfer"</rs> mit Namen ich bin ja sehr neugierig wie er predigt,
+               er ist erst neulich ordiniert, u. sucht nun in der Nähe eine Wohnung. Ist schon 34
+               Jahr alt. <rs ref="#P01926" type="person">Papa</rs> will nun schreiben, so leb wohl für heut.</p>
+            <closer>
+               <salute>Gott befohlen,</salute> 
+               <signed>Deine Tante <rs ref="#P02089" type="person"/>Toni</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

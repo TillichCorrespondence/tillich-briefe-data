@@ -1,0 +1,165 @@
+<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00424">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Johannes Tillich
+                    <lb/>vom 9. März 1915
+                </title>
+                <author ref="P01930">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="Wien">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="Cambridge">Cambdridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                        <idno>bMS 649/193(13)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <biblStruct type="monograph" n="firstPrint">
+                                <monogr>
+                                    <author>Paul Tillich</author>
+                                    <editor>Renate Albrecht/Margot Hahl (Hg.)</editor>
+                                    <title>Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge, Berichte</title>
+                                    <edition>Erste Auflage</edition>
+                                    <imprint>
+                                        <publisher>Evangelisches Verlagswerk Stuttgart</publisher>
+                                        <pubPlace ref="Stuttgart">Stuttgart</pubPlace>
+                                        <date when="1980">1980</date>
+                                        <biblScope>87f.</biblScope>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>Ergänzungs- und Nachlassbände zu den Gesammelten Werken von Paul Tillich</title>
+                                    <biblScope>V</biblScope>
+                                </series>
+                            </biblStruct>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="P01930">Paul Tillich</persName>
+                    <placeName ref="Bieuxy">Bieuxy</placeName>
+                    <date when="1915-03-09">9. März 1915</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="P01926">Johannes Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2022-04-26">Initiale Auszeichnung des Transkripts</change>
+            <change who="FS" when="2022-05-17">Anpassungen auf Basis der Projektbesprechung vom 9.5.2022</change>
+            <change who="GM" when="2023-10-03">Endabnahme</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><rs ref="#Bieuxy" type="place">Bieuxy</rs>, d. <date when="1915-03-09">9. März. 1915</date></dateline>
+                    <salute>Lieber <rs ref="#P01926" type="person">Papa</rs>!</salute>
+                </opener>
+                <p>Daß Ihr schon drei Wochen keine Nachricht habt, kann ich mir kaum denken; 
+                    habt Ihr die <bibl type="letter" xml:id="unknown">Briefe</bibl> 
+                    nicht bekommen, die ich an <rs ref="#P02051" type="person">Eva <add place="superlinear">Wever</add></rs> 
+                    geschrieben habe; sonst fordert sie nach! Aber möglich ist es schon, daß man drei Wochen vergehen läßt 
+                    und weiß nicht, wo sie geblieben sind. Es liegt daran, daß hier der Krieg seit dieser Zeit vollständig 
+                    aufgehört hat. Die Franzosen haben ihre Batterien scheinbar größtenteils in 
+                    die <rs ref="#Champagne" type="place">Champagne</rs> gezogen; oder kriegen keine Munition; 
+                    jedenfalls schießen sie nicht. Wir ebenso wenig; so ist alles ruhig und gleichmäßig. Ein Tag vergeht 
+                    wie der andere, nichts hebt ihn heraus; es ist alles ein großes Warten, ein Warten auf den Osten und 
+                    seine Entscheidungen; aus dieser Stimmung heraus kam 
+                    meine <bibl type="letter" xml:id="L00422">Sehnsucht nach dem Osten</bibl>; 
+                    es war natürlich mehr poetisch als ernst gemeint; selbstverständlich wird hier ausgehalten, 
+                    bis man abberufen wird. Aber es ist viel schwerer als Ihr denkt für alle, Offiziere wie Mannschaften. 
+                    Der Aggressivgeist, der über alle Strapazen hinweghilft, schläft ein; wohin man kommt, die sehnsüchtige 
+                    Frage: Herr Pfarrer wird es bald Frieden geben? Entbehrungen und Strapazen sind viel leichter zu 
+                    ertragen als diese schlechthinnige Passivität 
+                    <unclear cert="high" reason="illegible">in feindlichem</unclear> Artilleriefeuer. 
+                    Stell Dir vor unsere Regimenter 27 und 36, die <rs ref="#Nouvron-Vingré" type="place">Nouvron</rs> 
+                    besetzt halten in 12tägigem Wechsel. Monatelang wußten sie ganz genau, daß von denen 
+                    die <unclear cert="high" reason="illegible">herein</unclear> gingen etwa 50 nicht gesund 
+                    herauskamen; die meisten schwer verwundet, viele tot, viele leicht verwundet, einige krank; Nachts 
+                    ziehen sie oft durch <rs ref="#Bieuxy" type="place">Bieuxy</rs> bei der Ablösung. Dunkle graue Reihen 
+                    mit hier und dort blitzenden Taschenlampen, ein dumpfes Murmeln, Warten, dann weiter, 
+                    in 3/4 Stunden kann schon der erste durch einen Feuerüberfall 
+                    hinweggerafft werden. Und wenn sie heraus kommen, <pb n="2"/> blaß, mager, grau das Gesicht, 
+                    lehmbraun der Anzug, viele verlaust, alle hustend, daß die Stimme des Redners kaum durchkommt. 
+                    Ein stilles wunderbares Heldentum, von dem wenig gesprochen wird, und das doch alles andere überragt....
+                    und dann hinten in den großen Orten, in 
+                    den <rs ref="#Santa Maria Capua Vetere" type="place">Kapuas</rs><note type="ea">Tillich spielt hier auf die angebliche Rolle der antiken und zu der Zeit stark prosperierende Stadt Capua an, die im zweiten Punischen Krieg (218 v. Chr. bis 201 v. Chr.) immer wieder Kriegsschauplatz zwischen Hannibals Truppen und den Römern gewesen sein soll. "Namentlich Kapua, die Stadt gefälliger Frauen, wo das Heer einen ganzen Winter lagerte, ist für solche Verweichlichung sprichwörtlich geworden.“ Aus: Wirth, A.: »Männer, Völker und Zeiten, Hamburg 1917.« Antike Quellen hierfür: Livius 23,18; Strabon 5,250; Diodor 26,14.</note> unserer Armee, der Gegensatz: Weib und 
+                    Wein, die untätige Ruhe, die groteske Langeweile, die Kleinlichkeit und andere üble Geister; 
+                    wir ragen nur mit wenig Dörfern bis an die Grenze dieser Zone; aber schwer genug ist es, 
+                    plötzlich aus der Sphäre des Heldentums in der der Zote zu sitzen. Und mancher traurige 
+                    Gedanke für die Zukunft wird lebendig. Die Größe des Krieges, das Begeisternde,
+                    Fortreißende der ersten Wochen, der Kämpfe im Osten, fehlt; so wird das Kleine und 
+                    Drückende, die ganze Last und Negativität des Krieges offenbar.</p>
+                    <p>Ich habe ja meine Arbeit, und wenn ich einen schönen Gottesdienst habe, ist alle Traurigkeit 
+                    fort vor dem Wehen des Gottesgeistes von Herz zu Herz; Nicht immer, lange nicht immer ist 
+                    es so, oft infolge von Äußerlichkeiten, aber doch noch oft genug; schwer dagegen ist die 
+                    Vorbereitung; der Gedankenkreis ist außerordentlich beschränkt; die Rücksicht auf das 
+                    Militärische, Vermeiden jedes negativen Tons wegen der Offiziere notwendig, auch sachlich 
+                    z.T. begründet, die Redezeit etwa 12 Min. Einiges ist unendlich wirksam; und es ist die 
+                    Aufgabe, das Wenige in unendlicher Variation zu wiederholen. Ich möchte jetzt nirgends 
+                    anders sein als an der Front, aber daß wir den Schmerz des Krieges in dieser Zeit so 
+                    real an uns selbst erleben, wie irgend einer in Wunden und Krankheit, das glaubt nur! 
+                    Und das ist ja gut so im letzten Grunde. Das ist das eigentliche Kriegserleben, nicht 
+                    äußere Eindrücke, wie ich es mir gewünscht hätte! Und das gibt uns den wahren 
+                    Predigtstoff!</p>
+                <p>Körperlich geht es mir dauernd gut. <rs ref="#P02089" type="person">Tonis</rs> Paket ist noch nicht da.
+                    Wenn ich mal länger nicht schreibe, liegt es an äußerem Erlebnismangel.</p> 
+                <closer>
+                    <salute>Leb wohl und sei vielmals gegrüßt von Deinem </salute><signed><rs ref="#P01930" type="person">Paul</rs></signed>!
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

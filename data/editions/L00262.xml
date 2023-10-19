@@ -1,0 +1,108 @@
+<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00262">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Wingolfbrüdern an Paul Tillich <lb/>vom 13. Januar 1908 [PS]</title>
+            <author ref="P01205">Ernst Lotz</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/209(2)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="P01205">Ernst Lotz</persName>
+               <placeName ref="Halle">Halle</placeName>
+               <date when="1908-01-13">13.01.1908</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="P01930">Paul Tillich</persName>
+               <placeName ref="Berlin">Berlin</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-04-25">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2023-09-20">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><salute>Lieber <rs ref="#P01930" type="person">(x)</rs>, [l. Lbb!]</salute></opener>
+            <p>Wundervoller Nachtbummel, Schnee,
+               Mondschein, "MohnGebläse", nett zusammen
+               mit <rs ref="#P01295" type="person">Phil. Meinhof</rs> samt
+               Damen u. Brautpaar, jetzt
+               fröhlich allein. Reiche Aussichten für schönen Heimweg
+               – – Und bei alledem
+               herzliches Gedenken an Dich
+               auf einsamem, aber doch
+               Genesungslager.
+               Zwar–Aber–<unclear>Alestendorf</unclear>
+            </p>
+            <closer>
+               <signed>Dein getr. <rs ref="#P01205" type="person">Lotz</rs></signed>
+               <signed><rs ref="#P00128" type="person">Hans ZA.</rs></signed><signed><rs ref="#P02041" type="person">Werdermann</rs></signed><lb/><signed><rs ref="#P02530" type="person">Claus</rs></signed><signed><rs ref="#P02211" type="person">Auel</rs></signed><signed><rs ref="#P02151" type="person">H Vethake</rs></signed><lb/>
+               <signed><rs ref="#P02161" type="person">Nickelby</rs></signed><signed><rs ref="#P02532" type="person">Hanker</rs></signed><signed><rs ref="#P02533" type="person">Weik</rs></signed>
+               <signed><rs ref="#P02339" type="person">Menschnigg</rs></signed><lb/><signed><unclear>¿¿¿</unclear></signed>
+               <lb/><signed><rs ref="#P02159" type="person">Voget</rs></signed><note type="ea">Die Unterschrift von Voget befindet sich verkehrt herum am Kopfende des Briefes.</note>
+               <lb/><signed><hi rend="uu b larger">Frau</hi></signed><note type="ea">Die Unterschrift befindet sich im ersten Drittel des Briefes am rechten Rand.</note>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

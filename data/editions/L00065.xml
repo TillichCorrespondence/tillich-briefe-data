@@ -1,0 +1,130 @@
+<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00065">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Johannes Tillich an Paul Tillich <lb/>vom 23. Juni 1905</title>
+            <author ref="P01926">Johannes Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/193</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="P01926">Johannes Tillich</persName>
+               <date when="1905-06-23">23.06.1905</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="P01930">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-08-29">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2023-10-28">Endabnahme</change>
+
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>D. <date when="1905-06-23">23.6.05.</date></dateline>
+               <salute>Mein <rs ref="#P01930" type="person">Herzenssohn</rs>!</salute>
+            </opener>
+            <p>Wieviel Hoffnung uns Deine heutige Depesche<note type="ea">Nicht überliefert.</note>
+               gegeben hat, kannst Du Dir denken! Hoffnung, daß die Operation vielleicht überhaupt
+               nicht nötig wird. Schon am Mittwoch waren <rs ref="#P02241" type="person">Großpapa</rs>
+               u. <rs ref="#P02089" type="person">Toni</rs> in der Klinik mit Deinem Brief; <rs ref="#P02180" type="person">Dr. Heine</rs> ist im Urlaub, aber <rs ref="#P02181" type="person">Dr.
+                  Sessow</rs>, der bei Deiner Operation zugegen war, war da u. sagte, nachdem
+               er nochmals das ganze Protokoll Deiner<pb n="2"/>
+               <sic>Deiner</sic> Krankheit durchgesehen hatte, es sei sicher unwahrscheinlich, daß
+               noch ein Eiterherd da sei, weil <hi rend="u">Du von Anfang an fieberfrei</hi> gewesen
+               seist. Es handle sich wohl nur um <hi rend="u">Narbenschmerzen</hi>, vielleicht
+               infolge von starker Anstrengung; das käme öfters vor.–</p>
+            <p><hi rend="u">Sage dies</hi> Deinem <hi rend="u">dortigen Arzt</hi> dessen Namen ich
+               Dich bitte, mir bei nächster Briefsendung oder per Karte mitzuteilen (auch die
+               Adresse Deiner Klinik).</p>
+            <p>Natürlich müssen wir nun alles Weitere<pb n="3"/> in Gottes Hand stellen, der auch
+               helfen wird, wenn Operation nötig wird. Nicht wahr, m. l. <rs ref="#P01930" type="person">Sohn</rs>, Du bleibst in jedem Fall so ruhig und getrost, wie Du damals
+               hier es warst. In der Prüfung bewährt sich der Glaube und bereichert sich die
+               christliche Erfahrung, die dem Theologen so not ist. Gott hat Dich lieb, daß er Dich
+               so in <hi rend="u">seine hohe Schule</hi> nimmt! Aber Du fühlst und schmeckst gewiß
+               auch den Trost Gottes, den Frieden im h. Geist, und ich erbitte Dir auch einen frohen
+               Mut. Gestern ließ ich <rs ref="#P02140" type="person">Kaumann</rs> um <hi rend="u">tägliche</hi><pb n="4"/> telegraphische Nachricht bitten. Das erwarte ich auch
+               jetzt noch. Nur wenn absolut nichts neues zu berichten ist, darf die Depesche
+               ausbleiben; aber auch dann lieber nicht! Spare nicht die 50 Pf täglich.-</p>
+            <p>Heute habe ich meinen Urlaub erhalten vom 3. Juli an. Es ist garnicht lange mehr bis
+               dahin. Wie werden wir uns freuen Dich wieder<hi rend="sup">zu</hi>sehen, auch wenn Du
+               noch in d. Klinik sein müßtest. Im Notfall würde natürlich einer von uns früher
+               kommen; aber hoffentlich bleibt "frühes Kommen überflüßig." – In Gottes treuen Schutz
+               befiehlt Dich mit vielen Gebeten,</p>
+            <closer>
+               <salute>Dein <rs ref="#01926" type="person">Vater</rs>, der Dich im Geist
+                  umarmt.</salute>
+            </closer>
+
+            <postscript>
+               <p><rs ref="#P02182" type="person">Tante Eug. D.</rs> kommt morgen auf 3 Tage zu uns,
+                  dann im Herbst einige Wochen.</p>
+               <p>Falls morgen kein Telegramm von Dir eintrifft, depeschiere jedenfalls <hi rend="u">Sonntag</hi>!</p>
+            </postscript>
+
+         </div>
+      </body>
+   </text>
+</TEI>

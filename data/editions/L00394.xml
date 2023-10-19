@@ -1,0 +1,111 @@
+<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L0394">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Hermann Schafft an Paul Tillich
+               <lb/>vom 5. Oktober 1914</title>
+            <author ref="P01697">Hermann Schafft</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/182(4)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="P01697">Hermann Schafft</persName>
+               <placeName ref="where">Bonn</placeName>
+               <date when="1914-10-05">5.10.1914</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="P01930">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-05-19">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2023-09-20">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#Bonn" type="place">Bonn</rs>
+                  <date when="1914-10-05">5. X. 14.</date></dateline>
+               <salute>Lieber Philister <rs ref="#P01930" type="person">Tillich</rs>!</salute>
+            </opener>
+            <p>Anbei schicke ich Dir eine Art Meldung mit der Frage, ob Du etwas tun kannst. Es
+               liegt mir nicht – wie Du wohl glaubst – an einer bequemen Stellung mit Burschen u.
+               Pferd, obschon ich reiten kann, sondern daran, daß die Not der Leute <hi rend="u">geistig</hi> u. geistlich gestillt wird. So ist's schlimm! Täglich 3-4 Tote. <hi rend="u">Kein</hi><pb n="2"/> Pastor in Sicht. Es ist ja garnicht möglich. Ich <hi rend="u">kann</hi> in meiner Stellung, in der ich vor jedem Unterarzt stramm
+               stehen muß nichts tun und halte es auch für falsch dann zu predigen: der
+               Standesachtung wegen. Vielleicht kannst Du etwas tun. Am besten wäre eine
+               telegraphische Berufung via <hi rend="u">Gouvernement
+                  <rs type="place">Brüssel</rs></hi>.<pb n="3"/> Comphil. <rs ref="#P02414" type="person">Königs</rs> soll wieder da sein – deutscher Pfarrer, dem könnte ich helfen.
+               Ich wäre Dir für Unterstützung sehr dankbar.</p>
+            <p>An <unclear>Koinbitz</unclear> geht via Professor <rs ref="#P02352" type="person">Weber</rs> dasselbe Schreiben ab.</p>
+            <closer>
+               <salute>Herzl. Gruß</salute>
+               <signed>D. <rs ref="#P01697" type="person">Schafft</rs></signed>
+            </closer>
+            <postscript>
+               <p>dzt. auf Verwundetentransport <rs ref="#Deutschland" type="place">Deutschland</rs><pb n="4"/> morgen zurück nach
+                     <rs ref="#Brüssel" type="place">Brüssel</rs>!</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

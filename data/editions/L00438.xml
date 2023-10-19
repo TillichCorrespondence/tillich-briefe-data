@@ -1,0 +1,102 @@
+<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00438">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Johannes Tillich
+                    <lb/>vom 31. Mai 1915
+                </title>
+                <author ref="P01930">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="Wien">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="Cambridge">Cambdridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                        <idno>bMS 649/193(13)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="P01930">Paul Tillich</persName>
+                    <placeName ref="Juvigny">Juvigny</placeName>
+                    <date when="1915-05-31">31. Mai 1915</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="P01926">Johannes Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2022-05-02">Initiale Auszeichnung des Transkripts</change>
+            <change who="FS" when="2022-05-18">Anpassungen auf Basis der Projektbesprechung vom 9.5.2022</change>
+            <change who="GM" when="2023-10-17">Endabnahme</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    
+                    <dateline><rs ref="#Juvigny" type="place">Juvigny</rs> d. <date when="1915-05-31">31. Mai 1915</date>.</dateline>
+                    
+                    <salute>Lieber <rs ref="#P01926" type="person">Papa</rs>!</salute>
+                    </opener> 
+                    <p>Die <bibl xml:id="L00436">versprochene Fortsetzung</bibl> meines Berichtes kann erst heut stattfinden, da ich jetzt Tag und Nacht zu arbeiten habe, wenigstens wenn man notwendige Tätigkeit Arbeit nennen will.</p>
+                <p>Es war an <date when="1915-05-13">Himmelfahrt</date> Nachmittag 5 Uhr; ich kam in meinem Dokart von einem hinteren Ort angefahren, wo ich Gottesdienst gehabt hatte. In <rs ref="#Bieuxy" type="place">Bieuxy</rs> sah ich alles in Gruppen mit etwas bedrippten Gesichtern herumstehen. <rs ref="#P00252" type="person">Exzellenz</rs> kam aus einer Höhle herausgekrochen. <rs ref="#P00109" type="person">Backhaus</rs> rief mir zu: Sie kommen gerade recht zur Beschießung; ich fuhr sehr friedlich in meinen Hof, ging dann heraus und hörte gerade noch, wie die letzte Granate dicht neben dem Lazareth niederging. Dann sah ich mir die Löcher im Obstgarten des Divisionsgebäudes an, hörte, daß die Wasserleitung kaput geschossen sei und hatte Vorahnungen, daß etwas geschehen würde. Und in der Tat wurden die nächsten Tage von den Stabsoffizieren benutzt, um <rs ref="#P00252" type="person">Exzellenz</rs> zur längst gewünschten Übersiedlung nach <hi rend="aq"><rs ref="#Crécy-au-Mont" type="place">Crécy au Mont</rs></hi> zu bewegen, einem herrlich gelegenen, gut erhaltenen Schloß. Dabei glaubte jeder, daß die Beschießung mehr Zufall als Absicht war, durch den Westwind veranlaßte Abweichungen einer sehr langen Flugbahn oder drgl; aber niemand durfte das aussprechen. So wurde <rs ref="#P00252" type="person">Exzellenz</rs> herumgekriegt; daß wir Pfarrer so weit zurück mitgingen war nicht gut möglich, zumal das Lazareth in <rs ref="#Bieuxy" type="place">Bieuxy</rs> blieb; so wurde befohlen, daß <rs ref="#P00109" type="person"><rs ref="#P02538" type="person"/>die beiden Divisionspfarrer</rs> in <rs ref="#Bieuxy" type="place">Bieuxy</rs> bleiben, und die beiden <rs ref="#P01930" type="person">Feldprediger</rs> zum Brigadestab kamen; es war dies zugleich eine Freundlichkeit <rs ref="#P02144" type="person">Pulkowskis</rs>, des Adjudanten gegen mich, da die Zuerteilung zur Brigade zweifellos das Angenehmere <pb n="2"/> war. – Am Dienstag war allgemeiner Umzug; um 9 Uhr fuhr der Lastwagen von der Brigade mit 6 Pferden und 1 Vorreiter vor mein Haus und <rs ref="#P01744" type="person">Schröder</rs> leitete das Aufladen. Ich selbst aber wandelte die Pfade der Räuber und Diebe und stahl aus dem Stabsgebäude eine riesige wundervolle Vase – die aus der Verrerie<note type="ea">Mit Verrerie ist wahrscheinlich entweder die Glashütte von Vauxrot (franz. Varrerie de Vauxrot) oder die Kapelle im nahegelegenen <rs ref="#Cuffies02880" type="place">Cuffies</rs> gemeint, die den Spitznamen La Verrerie trägt.</note> gestohlen war – mehrere Vorhänge, Sessel u.s.w. und ließ mit auf den Wagen bringen; als alles gepackt war, kam der <rs ref="#P02335" type="person">Kriegsgerichtsrat</rs>; ich stieg mit der Vase in der einen, mit dem Hund in der andern Hand hoch oben auf meine Möbel und wurde photographiert. Dann fuhr der Möbelwagen ab und ich verabschiedete mich von <rs ref="#P00252" type="person">Exzellenz</rs> und den übrigen Herren, stieg mit <rs ref="#P01744" type="person">Burschen</rs> und Hund in  meinen Dokart und fuhr dem Möbelwagen nach, den ich sehr bald, auf der Römerstraße einholte; und  dann fuhr ich Schritt für Schritt hinter meinen Möbeln her, ein seltsamer Umzug mitten im Krieg, und dachte der langen Monate hinter mir und meiner Sehnsucht, wegzukommen von <rs ref="#Bieuxy" type="place">Bieuxy</rs>, und wie es mir jetzt so schwer wurde, als es wirklich wegging. Es gibt kaum eine größere Kraft als die Gewohnheit, und ich stehe besonders in ihrer Gewalt. – So rumpelten wir in <rs ref="#Juvigny" type="place">Juvigny</rs> ein; auf der Terrasse hielt der Möbelwagen und mit Hilfe von 2 kräftigen Artilleristen räumte ich mein Zimmer ein… 3 Tage später zog ich ins Nebenzimmer, das besser tapeziert war und habe es im Lauf der Zeit so eingerichtet, wie ich neulich beschrieben habe. Es ist jetzt das Prunkzimmer des Hauses und sicher eines der schönsten in der Division. Wie es dazu kam, dann morgen mehr....</p>                    
+                    <closer>
+                        <salute>In Treue Dein</salute> <signed><rs ref="#P01930" type="person">Paul</rs></signed>.
+                    </closer>                   
+                    <postscript>
+                        <p>Rundlauf wie der erste Brief; schnell an <rs ref="#P01933" type="person">Greti</rs>!</p>
+                    </postscript>
+                    
+            </div>
+        </body>
+    </text>
+</TEI>

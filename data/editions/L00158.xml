@@ -1,0 +1,219 @@
+<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00158">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Hans Balke an Paul Tillich <lb/>vom 05. April 1907 </title>
+            <author ref="P00128">Hans Balke</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Julian Jöri</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/122(40)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="P00128">Hans Balke</persName>
+               <placeName ref="Neviges">Neviges</placeName>
+               <date when="1907-04-05">05.04.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="P01930">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="JJ" when="2022-05-25">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2023-10-02">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#Neviges" type="place">Neviges</rs>, den <date when="1907-04-05">5. April 1907.</date></dateline>
+               <salute>Lieber <rs ref="#P01930" type="person">Paul</rs>,</salute>
+            </opener>
+            <p>Hab herzlichen Dank für Deinen lb. Brief. Leider konnte ich nicht eher dazu kommen, 
+               ihn zu beantworten; aber ich hoffe, Du wirst mich auch jetzt noch in Gnaden 
+               ansehn.</p>
+            <p>Dass Du mit einer Erkältung zu Bett gelegen hast, tut mir furchtbar leid. 
+               Hoffentlich bist Du jetzt wiederhergestellt. Sonst lade ich Dich ein, schleunigst 
+               hierher zu kommen; in der prachtvollen Luft und dem schönen Sonnenschein bist 
+               Du garantiert in wenigen Tagen wieder ganz gesund. Das Wetter war in den letzten 
+               Tagen einfach herrlich. Ich war den ganzen Tag draussen. In unsrer geschützten 
+               Laube konnte ich schon ungestört sitzen in warmem Sonnenschein, rings umgeben 
+               von dem ersten Grün der Sträucher, das jetzt mit Macht hervorbricht. Nach Tisch 
+               hielt ich sogar in der Hängematte ein <pb n="2"/>Mittagsschläfchen; Du siehst, 
+               ich führe ein rechtes Ferienleben. Hoffentlich glückt es Dir auch in der Grossstadt, 
+               ab und zu einmal Luft zu schnappen und die vernünftige Welt manchmal zu sehn. 
+               Ich ziehe täglich mit meinen sieben Geschwistern los und mache die Wälder der 
+               Umgegend unsicher. Zu Versteck-spielen, Ballschlagen usw. bietet sich überall 
+               herrliche Gelegenheit. Nur für die schönen Wanderlieder kann ich bei meinen 
+               Geschwistern trotz aller Bemühungen kein rechtes Verständnis finden, doch hoffe ich, 
+               dass das später von selbst kommt, wenn sie mal erst grösser sind. Vor einigen Tagen 
+               besuchte mich <rs ref="#P02542" type="person">Phil. Nell</rs> hier und erzählte 
+               mir einige nicht sehr erfreuliche Dinge von <rs ref="#Bonn" type="place">Bonn</rs>, 
+               die beiden, die nach <rs ref="#Halle" type="place">Ha.</rs> kämen, seien sehr harmlos 
+               und würden uns keine Schwierigkeiten machen. Dass ich für Kirchengeschichte schon arbeite, 
+               brauchst Du nicht zu fürchten; ich besitze den den kl. <rs ref="#P01111" type="person">Kurtz</rs> 
+               noch garnicht. Auch bin ich froh, wenn ich <pb n="3"/>bei dem geplanten Pensum mit sehr 
+               häufigen Ausnahmen bleiben kann.</p>
+            <p>Ich habe mich kürzlich noch einmal etwas mit dem Prinzipsstreit befasst und habe 
+               auch jeden Rest von Freude an der Sache eingebüsst. Wir haben trotz aller 
+               Anstrengungen garnichts erreicht. Das einzig Positive ist das, dass jetzt jede 
+               dogmatische Engherzzigkeit, die auch vorher in der Praxis nicht geübt wurde, auch 
+               aus den Anmerkungen entfernt ist. Das ist alles wahrlich wenig genug. Ferner liegt 
+               nach meiner Überzeugung die Sache so: wie vor 3 Semestern, so stehen sich auch 
+               heute noch die Parteien ohne ganzes Verständnis gegenüber. Es schien uns in 
+               <rs ref="#Halle" type="place">Ha.</rs> nur so, als ob man im andern Lager ganz 
+               verstanden hätte, was wir wollten. Nach wie vor wirft man uns dogmatische Engherzigkeit 
+               und fanatisches Theologisieren vor. Ein Versuch, die Lage noch irgendwie zu klären, 
+               hat gar keinen Zweck, da der Kampf <pb n="4"/>allen zum Halse heraushängt. Sie erkennen 
+               die Differenzen und den Ernst der Entscheidung nicht. Ihnen fehlt jedes Verständnis 
+               für das biblische Christentum und die christliche Verbindungsgrundlage. Sie halten die 
+               in Deinem Artikel herausgearbeitete Gegenüberstellung für ein Hirngespinst. Die Konsequenzen 
+               ihrer Stellung vertreten sie meist noch nicht ganz und wollen sie überhaupt nicht 
+               anerkennen. Und wie steht es im praktischen Leben? Gewiss sieht es in vielen 
+               Verbindungen damit traurig aus, und doch sind noch in jeder Verbindung Leute, 
+               die auch nach aussen Ernst machen mit ihrem Christentum. Und wenn man die 
+               übrigen Korporationen ausser dem S.B. ansieht (ich habe sie aus einigen Broschüren 
+               etwas näher kennen gelernt) so fällt dort auf, wie weit doch noch die bei uns am 
+               weitesten links stehenden Kreise von allen andern Gruppen gehemmt sind, und dass 
+               doch noch viel Gemeinsames bleibt, besonders vor der<pb n="5"/> Aussenwelt. Die 
+               Sachlage ist, wie mir scheint, so kompliziert, dass wir, die wir im Kampfe stehen, 
+               nur kaum ein übersichtliches Bild gewinnen können. Es ist so furchtbar schwer, zu 
+               sehen, was in Zukunft geschehen wird und wieviel noch zu retten ist; es ist fast 
+               unmöglich, den richtigen Weg zu finden und seine Kräfte so anzuwenden, dass die 
+               Weiterentwickelung den bestmöglichen (verzeih das skandalöse Deutsch!) Gang nimmt. 
+               Weil ich so ratlos bin, halte ich es jetzt für das Beste, vorläufig den 
+               Aktivitätszwang aufzuheben, und dann das Boot eine Zeitlang ruhig treiben zu 
+               lassen; so schmerzlich es ja auch ist, nicht energisch mit Hand ans Ruder legen 
+               zu können. Wie unklar noch die Sache ist, wurde mir wieder von neuem klar durch 
+               die private Nachricht, dass <rs ref="#P02543" type="person">Bartels</rs> die Schuld an 
+               der verhängnisvollen Einfügung des "dadurch" u. "deren Mitglieder" trage und die 
+               Verbindung damit überrumpelt habe; so wird dann der Protest 
+               <rs ref="#Göttingen" type="place">Göttingens</rs> doch verständlich.
+               <pb n="6"/> Diese meine pessimistische Ansicht über den Bund wurde auf dem 
+               <rs ref="#Düsseldorf" type="place">Düsseldorfer</rs> Philistertag, 
+               an dem ich gestern teilnahm, nicht gerade verbessert. Auf dem Konvent wurde 
+               jede Berührung des Principkampfes von weitem abgehauen; (es herrschte fast 
+               ausschließlich der "Bonner Geist" vor) es muss doch sehr schlimm stehen, wenn 
+               Philister und Aktive von dem, was für den Bund die Lebensfrage ist, einfach 
+               nichts mehr wissen wollen, obwohl die Philister sämtlich eine Aufklärung sehr nötig 
+               gehabt hätten. Ich trat energisch für weitere Verbreitung inoffizieller 
+               Bibelkränze ein, drang aber nicht durch. Sie bestehen zur Zeit nur 
+               in <rs ref="#Halle" type="place">Ha.</rs>!! Ein Philister  betonte die von der 
+               D.C.S.V. uns drohende Gefahr, doch wollte man auch darauf nicht näher eingehen. 
+               <rs ref="#P02544" type="person">Ohl</rs> suchte energisch eine Resolution gegen 
+               den W. Bl. Ausschuss durchzubringen, um liberale Elemente hereinzukriegen, 
+               doch glückte ihm das <sic>glücklicherweise vorbei</sic>. 
+               Im S.S. wird <rs ref="#Bonn" type="place">Bonn</rs> mit<pb n="7"/> einem 
+               derartigen Antrag kommen. Es schien mir, als ob die anwesenden Philister doch meist 
+               auf unser Seite gestanden hätten und hatte grosse Lust, Einiges ihnen 
+               klarzuschneiden, aber es war leider garnichts zu machen. Doch nun genug davon; 
+               verzeih, dass ich meinem etwas bedrückten Herzen mal Luft gemacht habe.  
+               Ich fange an, an der Zukunft des Wingolfs zu verzweifeln, wenn nur die D.C.S.V. 
+               vernünftig wäre, vor ab ist da aber noch garnichts zu machen. Jedenfalls weg mit längerem 
+               Bundeskampf, ich glaube es ist Unrecht, noch mehr Zeit und Kraft daranzuwenden; draussen 
+               warten unser weit grössere Aufgaben. "Im engen Kreis verengert sich der Sinn"<note type="ea"><bibl type="book">Schiller, F.: »Prolog«, in: ders., »Wallenstein«.</bibl></note>.
+               Vielleicht zeigt <rs ref="#P01876" type="person">Stratmann</rs> uns einen Weg, der uns aus dem Labyrinth herausführt 
+               und wenigstens einige Trümmer rettet. – Die Kneipe in <rs ref="#Düsseldorf" type="place">Düsseldorf</rs> 
+               war für mich wenig erfreulich, am liebsten wäre ich wie <rs ref="#P02163" type="person">Nell</rs>
+               und <rs ref="#P02547" type="person">Bredt</rs>, sofort nach Hause gefahren, doch blieb ich 
+               wegen einiger<pb n="8"/> Philister noch etwas da. Erfreulicher als der Philistertag 
+               waren die beiden Konferenzen, die ihm vorangingen. Auf der Missionskonferenz hielt 
+               <rs ref="#P02548" type="person">lic. Warneck</rs> einen sehr interessanten Vortrag 
+               über die eingebornen Lehrer und Helfer unter den Batak, Missionsinspektor 
+               <rs ref="#P02549" type="person">Spicker</rs>, der gerade von einer 1 ½ jährigen Reise 
+               durch ganz Afrika zurückgekehrt war, berichtete von der grossartigen Sammelarbeit 
+               der rheinischen Missionare nach dem Kriege, man dürfe hoffen, dass aus den Trümmern ein 
+               um so schönerer Neubau entstünde, es hätten weit mehr Heidenchristen, als man erwartet hatte, 
+               Treue gehalten. – Mittwoch Abend sass ich mit einigen bekannten Philistern noch recht 
+               gemütlich zusammen. Donnerstag morgen hielt auf der Predigerkonferenz 
+               <rs ref="#P01713" type="person">Schlatter</rs> den Hauptvortrag über Recht 
+               und Geltung des Bekenntnisses, wo er die Interessen der Kirche wahrte und 
+               doch eine grossartige Weitherzigkeit an den Tag legte, weswegen er in 
+               der Discussion heftig angegriffen<pb n="9"/> wurde. Er demonstrierte 
+               absichtlich am Unservater. Bei der 2 stündigen erregten Discussion war der Ertrag 
+               sehr gering. Meine alte Vorliebe für <rs ref="#P01713" type="person">Schlatter</rs> wurde mir  bestärkt. Ich habe ihn 
+               auch kurz begrüsst, er freute sich, dass ich noch in <rs ref="#Halle" type="place">Halle</rs> bliebe. Die ganze 
+               gestrige Anregung in <rs ref="#Düsseldorf" type="place">Düsseldorf</rs> 
+               hat mir sehr wohl getan, man kann von solchen Tagen lange zehren. Als übrigens 
+               <rs ref="#P02548" type="person">lic. Warneck</rs> von den eingebornen Helfern 
+               erzählte, sie könnte stundenlang mit Verstocktheit und Dummheit der Leute 
+               disputieren, ohne sich aufzuregen oder es leid zu werden sah ich ihm Geiste 
+               Dich auf der <rs ref="#Wartburg" type="place">Wartburg</rs>. – Heute nachmittag 
+               gibt’s wieder eine sehr angenehme Unterhaltung des ruhigen Lebens: es kommen 
+               fünf Cousinen aus <rs ref="#Barmen" type="place">Barmen</rs> in meinem 
+               Alter zu Besuch, worauf ich mich sehr freue. Nächste Woche erscheinen dann 
+               <rs ref="#P02550" type="person">Schreiberle</rs> und 
+               <rs ref="#P02189" type="person">Johs Meyersieck</rs>. Bis dahin hoffe ich 
+               noch ein ganz klein wenig zu arbeiten, obwohl bei dem schönen Wetter die 
+               Versuchung oft gar zu gross ist.<pb n="10"/> Von <rs ref="#P00203" type="person">Lorenz</rs> erhielt ich einen 
+               sehr netten Brief, worin er sich über alles sehr nett aussprach; wir wollen ihm im 
+               nächsten Sommer sehr entgegenkommen; ich bin überzeugt, es wird weit besser mit 
+               ihm gehen. Es tut mir leid, dass er nicht Lbb. Berechtigt ist, obwohl er selbst 
+               es jetzt so für besser hält.</p>
+            <p>Doch nun Schluss. Verzeih bitte das grässliche Geschmiere, hoffentlich kannst 
+               Du es lesen.</p>
+            <p>An Deine lb. Hausgenossen einen herzlichen Gruss</p>
+            <closer>
+               <salute>In Treuen Dein</salute>
+               <signed><rs ref="#P00128" type="person">Hans B.</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

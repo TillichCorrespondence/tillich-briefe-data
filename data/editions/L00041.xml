@@ -1,0 +1,104 @@
+<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00041">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Marie Tillich an Paul Tillich<lb/>von 1905</title>
+            <author ref="P01932">Marie Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/193(20)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="P01932">Marie Tillich</persName>
+               <placeName ref="Friedrichshagen">Friedrichshagen</placeName>
+               <date when="1905">1905</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="P01930">Paul Tillich</persName>
+               <placeName ref="Berlin">Berlin</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-08-20">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2023-09-25">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <p>Kalt, unfreundlich in <rs ref="#Berlin" type="place">Berlin</rs>?<lb/> Während hier die Sonne
+               schien?<lb/> Und wir hier in <rs ref="#Friedrichshagen" type="place">Friedrichshagen</rs><lb/>
+               <unclear>Karten</unclear> in den warmen Tagen<lb/> Im Walde in der Sonne sitzen<lb/>
+               Ohne pelzbesetzte Mützen.<lb/> Gestern als die Sonne sank<lb/> Stand ich an des
+               Berges Hang<lb/> Schaute auf den Müggelsee<lb/> Schaute weiter in die Höh'<lb/>
+               Silbern fiel des Mondes Schein<lb/> In den weiten Wald hinein<lb/> Die Natur ist
+               immer schön<lb/> Der Städter kann es nur nicht seh'n<lb/> Wagt darum sich nicht
+               hinaus<lb/> Obgleich wir im warmen Haus<lb/> Ganz gemütlich Kaffee trinken<lb/> 4
+               Minuten von der Bahn <unclear>¿¿¿ ... ¿¿¿</unclear><lb/>
+               <pb n="2"/> Auf den Frühling wollen wir
+               warten<lb/> Bis wir dann in unserem Garten<lb/> Unter blühenden Fliederbaum<lb/> Wenn
+               nicht eher uns wieder schau'n<lb/> Heute früh war <rs ref="#P02089" type="person">Toni</rs> hier<lb/> Brachte <unclear><rs ref="#P00570" type="person"/>Muthchen</unclear> und mir<lb/> Eine schöne
+               Nachricht mit<lb/>
+               <unclear>Höre sollen Pr.</unclear> 
+               <rs ref="#P02533" type="person">Frau Schmidt</rs>
+               <lb/> Paul hat das <unclear>¿¿¿</unclear><lb/>Kurz!</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00260">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Otto Heller an Paul Tillich
+               <lb/>vom 11. Januar 1908</title>
+            <author ref="P02142">Otto Heller</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/151(56)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="P02142">Otto Heller</persName>
+               <placeName ref="Halle">Halle a. S.</placeName>
+               <date when="1908-01-11">11.01.1908</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="P01930">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-06-27">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2023-09-20">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><date when="1908-01-11">11.I.08.</date></dateline>
+                  <address><rs ref="#Halle" type="place">Halle (Saale).</rs>
+                     <street>Goebenstr. 21.</street></address>
+               <salute>Lieber <rs ref="#P01930" type="person">Paul</rs>!</salute>
+            </opener>
+            <p>Ich muß gestehen, ich bin sehr erschrocken bei der Nachricht von Deinem Kranksein;
+                  <rs ref="#P00128" type="person">Hans Balke</rs> teilte sie mir vorhin mit. – Was
+               fehlt Dir eigentlich, u. wie entwickelt sich die Krankheit? Ist es nur eine starke
+               Erkältung? – Ich würde mich freuen, wenn ich <hi rend="uu">bald</hi> darüber
+               genaueres hören könnte!</p>
+            <p>Hoffentlich geht alles rasch u. gut vorüber, sodaß Du nicht allzulange an's Bett
+               gebunden u. zur Untätigkeit gezwungen bist. Um Dir "in gewisser Weise" ein äußeres
+               Zeichen meiner Teilnahme zu geben u. Dir eine Freude zu machen, schicke ich Dir eine
+               Vergrößerung des Typs, das ich<pb n="2"/> von <rs ref="#P00310" type="person">Büchsel</rs>, <rs ref="#P01986" type="person">v. d. Smissen</rs> u. <rs ref="#P00853" type="person">Heinzelmann</rs> gemacht habe, mit. Es ist ziemlich geraten u.
+               haltbar; Du kannst Dir's einrahmen lassen. Wie alle Photographien darf es nicht zu
+               sehr dem Sonnenlicht ausgesetzt werden. Aufziehen darf es nur ein Photograph, da das
+               Bromsilber-Papier <hi rend="u">besonders</hi> behandelt sein will.</p>
+            <p>Für Deine freundl. Geburtstagswünsche sage ich Dir herzl. Dank; sie gehörten zu den
+               wenigen, die schon am 5. kamen.</p>
+            <p>Ich sollte Dir nun eigentlich noch auf Deinen <bibl type="letter" xml:id="L00252">"Weihnachtsbrief"</bibl> antworten u. auf das Einzelne eingehen, zumal Du am
+               Schluße jenes Briefes selber darum bittest.<pb n="3"/> Aber, Du wirst mich gewiß von
+               dieser Pflicht entbinden; es berührt mich alles zu persönlich, sodaß mir's schwer
+               würde, in aller Ruhe darüber zu discutieren, wie man etwa über das Wetter spricht u.
+               anderes ähnlicher Art. Ich weiß nicht, wie ich mich ausdrücken soll, Du wirst mich
+               aber gewiß verstehen.</p>
+            <p>Was Du sagst, ist gut u. richtig, nur geringe Ausstellungen habe ich dazu zu machen,
+               die ich bei Gelegenheit noch vorbringen werde.</p>
+            <p>Kurz gesagt: Über Deinen Weihnachtsbrief habe ich mich sehr gefreut, wie überhaupt
+               über jedes Lebenszeichen, das ich von Dir erhalte. <hi rend="u">Was</hi> Du mir
+               geschrieben hast, hat mir <hi rend="u">viel zu denken</hi> gegeben. Und<pb n="4"/>
+               somit war Dein Brief nicht vergebens geschrieben.</p>
+            <p>Ich will für heute nicht <hi rend="u">mehr</hi> schreiben, da mir meine <hi rend="uu">Arbeiten</hi> nicht die <hi rend="u">Zeit</hi> lassen; ich hätte überhaupt mit
+               dem Schreiben noch gewartet, wenn nicht plötzl. dieser äußere Anlaß gekommen
+               wäre.</p>
+            <p>Nun Schluß! – Ich habe nur den einen u. aufrichtigen Wunsch, daß Du recht bald wieder
+               ganz gesund u. munter sein <del rend="s">werdest</del> mögest, u. bleibe in Treue</p>
+            <closer>
+               <signed>Dein <rs ref="#P02142" type="person">O. Heller</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
