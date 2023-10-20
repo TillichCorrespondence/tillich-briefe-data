@@ -51,7 +51,3 @@ for x in files:
 
 
 shutil.rmtree(tmp_dir, ignore_errors=True)
-
-print("copy listperson")
-doc = TeiReader("https://raw.githubusercontent.com/TillichCorrespondence/TillichEdition/main/data/people.xml")
-doc.tree_to_file(os.path.join("data", "indices", "listperson.xml"))
