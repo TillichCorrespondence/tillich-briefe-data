@@ -26,10 +26,11 @@ for x in files:
 
 doc = TeiReader(listperson)
 for node in doc.any_xpath(".//tei:person"):
-    for node in doc.any_xpath(".//*[@ref]"):
+    for node in doc.any_xpath(".//tei:person"):
         try:
             new_ref_value = lookup_dict[f'#{node.attrib["{http://www.w3.org/XML/1998/namespace}id"]}']
             print(new_ref_value)
         except KeyError:
             continue
         node.attrib["{http://www.w3.org/XML/1998/namespace}id"] = new_ref_value[1:]
+doc.tree_to_file(listperson)
