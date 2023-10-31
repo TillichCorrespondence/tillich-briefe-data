@@ -1,0 +1,160 @@
+<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00889">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 12. August 1926 </title>
+            <author ref="P01930">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                  <idno>bMS 721/2(23)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="P01930">Paul Tillich</persName>
+               <placeName ref="Quiberon">Quiberon</placeName>
+               <date when="1926-08-12">12.08.1926</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="P01925">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-10-19">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2023-10-19">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+            </opener>
+            <p>Ich sitze auf dem Dampfer zwischen <rs ref="#Quiberon" type="place">Quiberon</rs> und
+               Belle-Ile, der mächtig schaukelt bei herrlichem blauem Wetter. Ich denke so viel an
+               Dich und unsere Meerfahrt und an die südlichen Buchten die hier schon anfangen. <bibl type="letter" xml:id="L00888">Der letzte Brief</bibl> war auf der Fahrt nach
+                  <rs ref="#Quiberon" type="place">Quiberon</rs> geschrieben. Die Ankunft war eine
+               große Enttäuschung: Herrliche Lage, aber völlig versaut durch Autos, Staub und
+               Schmutz. Mit Mühe fanden wir Zimmer und fuhren dann bei erstem Morgen herüber zur
+               Insel. Auch hier fanden wir zunächst<pb n="2"/> nicht, was wir suchten und wollten
+               zurückfahren, versäumten aber den letzten Dampfer und mußten nun dableiben.
+               Inzwischen kamen Telegramme von anderswo, die uns zwangen, bis zum 15<hi rend="sup">ten</hi> hier zu bleiben, und wir sind glücklich darüber. Denn es ist an sich
+               fabelhaft schön. Halb südlich, halb wildes Meer. Unerhörte Farben. Hier habe ich van
+               Gogh begriffen, besonders seine Hafenbilder. Die Segel <unclear cert="high" reason="illegible">braun</unclear> blau!, weiß, goldgelb. Die Schiffe rot,
+               schwarz, grün etc. Dann die bretonische Tracht. Die Frauen schwarze Kleider à la
+               Elisabeth von England.<pb n="3"/> (Jetzt schaukelt das Dämpferchen so, daß ich mich
+               kaum auf dem Sitz halten kann; gut, daß Du nicht mitfährst!) Die Schiffer haben
+               herrlich farbige orange-braune Hosen und Jacken. Die Farben der Insel sind fein und
+               südlich. Die Ufer ähnlich wie <rs ref="#Taormina" type="place">Taormina</rs>, nur
+               wüster. Jeden Morgen kommt der Dampfer mit Touristen, die im Autotaxi die Tour rings
+               um die Insel machen – Wir waren noch zu sparsam dazu – – –</p>
+            <p>Ich habe viele sehr merkwürdige Träume gehabt: In der ersten Nacht wollte ich
+                  <rs ref="#tillich_person_id__2356" type="person">Christian</rs> die Freundschaft kündigen, wenn er mir
+                  nicht<pb n="4"/> das (<rs ref="#tillich_person_id__2008" type="person">Eckart</rs>) geliehene Geld
+               zurückgeben würde. In der zweiten ging ich mit <rs ref="#tillich_person_id__2455" type="person">Spitta</rs> Arm in Arm als Liebespaar spazieren. In der dritten Nacht
+               fuhren <rs ref="#P02569" type="person">Kallen</rs> (?), <rs ref="#P02570" type="person">Frl.
+                  Große</rs> (Kallens Freundin), <rs ref="#tillich_person_id__2008" type="person">Eckart</rs> und
+               ich spazieren. <rs ref="#tillich_person_id__2008" type="person">Eckart</rs> machte einen mühsam von mir
+               abgewehrten Angriff auf mein Männlein, während die Frauen sich lieb hatten. In der
+               vierten Nacht wanderten <rs ref="#tillich_person_id__2008" type="person">Eckart</rs>, <rs ref="#tillich_person_id__2356" type="person">Christian</rs> und ich von <rs ref="#Florenz" type="place">Florenz</rs> nach <rs ref="#Rom" type="place">Rom</rs> über <rs ref="#Siena" type="place">Siena</rs>, <rs ref="#Orvieto" type="place">Orvieto</rs>. Dabei
+               kamen wir in einen Park, in den ich "groß" verschwinden wollte, aber keinen Platz
+               fand. Nachher begegnete ich mit einem fremden Mann zusammen <rs ref="#tillich_person_id__2356" type="person">Christian</rs>, der uns in einem weiten Bogen "beschiffte", was mir um des
+               anderen willen sehr peinlich war. Als ich es abwaschen wollte, war es klebrig und ich
+               wunderte mich, daß Christian so weit im Bogen "lieben" konnte. Dann gingen wir in
+                  die<pb n="5"/> Kirche, die alt-basilikal war. Am Hinterausgang fragte <rs ref="#tillich_person_id__2356" type="person">Christian</rs> einen Mönch, ob dort der Eingang wäre. Dieser
+               antwortete, daß er sich freue, daß <rs ref="#tillich_person_id__2356" type="person">Christian</rs> ihn
+               gleich deutsch anrede. Der Zugang aber sei an der andern Seite. Innen war alles
+               herrlich gelb gestrichen und in der Ecke eine gothische Verzierung abgeschlagen, ein
+               Überbleibsel der Gothisierung der alten Basilika, die man wieder beseitigt hatte. Ich
+               erklärte mit höchster Begeisterung, daß nur die basilikale Kirche gut war und alles
+               seit-dem Kitsch – – – – –</p>
+            <p>So weit die Träume. Ich führe sie darauf zurück, daß durch das Zusammensein mit
+                  <rs ref="#tillich_person_id__2008" type="person">Eckart</rs> am Meer die Kindheitssituation
+               wiederhergestellt ist, vor aller Frau, also<pb n="6"/> mit stark homosexueller und
+               analer Note, die übrigens <rs ref="#tillich_person_id__2008" type="person">Eckart</rs> gegenüber nie im
+               geringsten aktuell war. Vielleicht gibst Du dieses Material mal an <rs ref="#tillich_person_id__688" type="person">Heinrich</rs>. Es ist ja reichlich toll.</p>
+            <p>Wir wohnen jetzt also auf der Belle-Ile im Atlantischen Ozean in La Palais, dem
+               Hauptort. Gestern haben wir einen starken Westwind erlebt mit der Wirkung der Wellen
+               (Biskaya!!) auf die Felsen, die auf der Karte nebenbei abgebildet sind. Es war
+               grandios. Es spricht für <rs ref="#P02571" type="person">Sarah Bernhardt</rs>, daß sie
+               sich diese vielleicht schönste und wildeste Stelle von Frankreich ausgesucht hat, um
+               ihr Schloß zu bauen.<pb n="7"/> Morgen sind es genau 14 Tage, daß ich abgefahren bin
+               und noch <hi rend="uu">kein</hi> Wort von Dir!! Schicke doch einmal einen
+               eingeschriebenen Brief, damit ich wenigstens zum 20<hi rend="sup">ten</hi> etwas von
+               Dir gehört habe. Und zwar an die Adresse Le Palais <hi rend="u">Belle-Ile-en Mer
+                  Hotel du Commerce</hi>. Wir zahlen hier nur 37 Fr., also 5 M pro Tag. Der einzige
+               Fehler ist der, daß wir an der dem Festland zugewandten Seite der Insel wohnen und
+               darum keine starke See haben. Wir werden darum wahrscheinlich Montag weiter fahren.
+               Aber schreibe hierher!! <rs ref="#tillich_person_id__2356" type="person">Christian</rs> wird dann
+               abfahren. <rs ref="#tillich_person_id__2008" type="person">Eckart</rs> bleibt noch.</p>
+            <pb n="8"/>
+            <p>Menschen, besonders Frauen, lernen wir überhaupt nicht kennen. Das scheint nicht nur
+               an uns zu liegen, sondern ganz allgemein zu sein. Ich bedaure es nicht sehr. Für die
+               Erholung ist es so besser.</p>
+            <p>Da ich überhaupt nicht weiß, wie es bei Euch steht, kann ich auch nichts fragen;
+               höchstens, was der wilde Wein macht– – – –</p>
+            <p>Liebste, süße <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>! Daß wir so lange und so
+               radikal getrennt sind, ist bös!! Ich darf gar nicht daran denken!! Von Tag zu Tag
+               hoffe ich auf Dich und ein Wort von Dir. Ich selbst schreibe jeden Tag! In großer
+               Liebe!</p>
+            <closer>
+               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

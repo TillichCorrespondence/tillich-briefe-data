@@ -1,0 +1,118 @@
+<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00894">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 22. August 1926 </title>
+            <author ref="P01930">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                  <idno>bMS 721/2(23)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="P01930">Paul Tillich</persName>
+               <placeName ref="Le Conquet">Le Conquet</placeName>
+               <date when="1926-08-22">22.08.1926</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="P01925">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-10-19">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2023-10-19">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <rs ref="#Le Conquet" type="place">Le Conquet</rs>, le <date when="1926-08-22">22.8.1926</date></dateline>
+               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+            </opener>
+            <p>Wir hatten zwei böse Regen- und Nebeltage! Man kann sich gar nicht vorstellen, wie
+               dick hier der Nebel sein kann und wie ununterbrochen ein Gefussele vom Himmel fällt.
+               Wir sind trotzdem viel draußen gewesen und haben uns an den Wellen gefreut, die
+               freilich gebrochen durch die Tausend Klippen nicht so unmittelbar heranbrausen wie in
+                  <rs ref="#Kampen" type="place">Kampen</rs>. Aber es war auch kein sehr starker
+               Wind. Zu der äuße<pb n="2"/>ren Düsterkeit gesellte sich eine innere; wir waren
+               nämlich beide teils erkältet, teils erschöpft, und bei mir schlug das auf den Magen,
+               so daß ich einen Tag fasten mußte. Heut ist alles wieder gut, innen und außen,
+               strahlendes Wetter und voller Frische. – Gestern kam Dein Geburtstagsbrief<note type="ea">Nicht überliefert.</note> (<hi rend="sup">No.</hi> III!) mit den Briefen
+               von Büchsel, <rs ref="#tillich_person_id__757" type="person">Margot</rs>, <rs ref="#tillich_person_id__688" type="person">Heinrich</rs>, und der Nachricht seiner Anstellung. Die anderen folgen
+               hoffentlich nach. Wir haben noch mal (zum dritten Mal) an alle Postämter geschrieben.
+               Hab jedenfalls Tausend Dank für jeden Brief! Alles was Du schreibst, macht mich so
+               glücklich. Leider wird Deine Schrift immer schwerer zu lesen. Versuchs mal wieder! –
+               Heut haben wir uns eine kleine Schippe gekauft und richtig gegraben. Aber schon nach
+               2 Stunden hatte die Vollmond-Sprengflut alles weggerissen. Jetzt bauen wir auf der
+               Düne, der größten Seltenheit dieser Gegend. Heut gibt es sogar Badegäste weil Sonntag
+               Nachmittag ist. – Die Flut war fabelhaft, und dabei kaum Wind – das ist hier weit
+               stärker als an der Nordsee. – Diese Bilder und die Karten dabei sollen Dir unser
+               Chateau-Schlößchen zeigen! Leb wohl und schreib' mir oft!!</p>
+            <closer>
+               <salute>In großer Liebe</salute>
+               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+            <postscript>
+               <p/>
+            </postscript>
+         </div>
+
+      </body>
+   </text>
+</TEI>

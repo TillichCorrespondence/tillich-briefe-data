@@ -1,0 +1,134 @@
+<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00890">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 16. August 1926 </title>
+            <author ref="P01930">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                  <idno>bMS 721/2(23)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="P01930">Paul Tillich</persName>
+               <placeName ref="Brest">Brest</placeName>
+               <date when="1926-08-16">16.08.1926</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="P01925">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-10-19">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2023-10-19">Endabnahme</change>
+
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <date when="1926-08-16">D. 16.</date></dateline>
+               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+            </opener>
+            <p>An einem Tage kamen drei Briefe und das Telegramm<note type="ea">Nicht
+                  überliefert.</note>, Ich kann mich gar nicht von dem Entzücken über die 4 Worte
+               "tout va bien Jeanne" erholen. Hab 1000 Dank! Und dann für alles, was in den Briefen
+               steht und die Bilder von <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> – Ich freue mich
+               so über jedes Wort von Dir und ihr!</p>
+            <p>Es war gut und klug, daß Du <unclear cert="medium" reason="illegible">Kathrin</unclear> und Liesel eingeladen hast. Ich sorge mich nur, daß es Dir die
+               heißersehnte Zeit der Einsamkeit ganz nimmt. Jetzt sitze ich im Schnellzug nach
+                  <rs ref="#Brest" type="place">Brest</rs>. Heut früh um 5 3/4 (!!) haben wir unsere
+               Belle-Ile verlassen und fahren nun nach <hi rend="u">Le Conquet</hi>, Hotel
+               Beauséjour (<sic><rs ref="#Finistère" type="place">Finisterre</rs></sic>)</p>
+            <p>Der Fehler der letzten<pb n="2"/> Gegend war die dem offenen Meer abgewandte Seite
+               unseres Wohnortes <hi rend="aq">Le Palais</hi> und die Unmöglichkeit an der anderen
+               wilden Seite zu Wellen-Bädern zu kommen, weil die Klippen hoch, wild und gefährlich
+               sind. Jetzt kommen wir zu normalem Sandstrand, worauf wir uns sehr freuen.</p>
+            <p>Landschaftlich ist die Belle-Isle außerordentlich. Ich schicke Dir noch ein Album.
+               Der Kampf der schweren ozeanischen Wellen mit den Felsen, das Stürzen und Spritzen
+               und Klettern und Wieder-Eingeschlürftwerden der Wasser ist unbeschreiblich. Ich bin
+               sehr viel die Klippen herauf und herunter geklettert.</p>
+            <pb n="3"/>
+            <p>Die Gummisohlen der weißen Schuhe saugen sich an den Fels und ich bin ohne Mühe fast
+               senkrechte Wände herauf- und heruntergegangen. Ob das nicht auch für Bergsteiger
+               statt der Nagelschuhe einzuführen wäre? <rs ref="#tillich_person_id__2008" type="person">Eckart</rs> war
+               fabelhaft beweglich trotz seines Beines, <rs ref="#tillich_person_id__2356" type="person">Christian</rs>
+               sehr schwerfällig. Trotz alles Zuredens wollte er nicht mehr mit nach <hi rend="aq">Le Conquet</hi>. Aber wenigstens davon haben wir ihn abgebracht, daß er jetzt
+               noch zu <rs ref="#P02572" type="person">Hilde</rs> fährt. Ich soll sie Anfang Oktober
+               trauen. – Mit <rs ref="#tillich_person_id__2008" type="person">Eckart</rs> war ich bei einer fabelhaften,
+               mythologischen Höhle im Meer<pb n="4"/> viel großartiger als die blaue Grotte,
+               erfüllt von ungeheurem Wellengetöse, überdacht von riesigen Blöcken, an der Grenze
+               des Erträglichen vor Unheimlichkeit. Dabei wundervolle, Capri-hafte Farben.</p>
+            <p>Gestern sah ich eine Horde Thun-Fische und habe fast geweint im Gedanken an Dich.</p>
+            <p>Menschen haben wir gar nicht kennengelernt. Ich bin sehr froh über diese
+               Störungslosigkeit. Mit <rs ref="#tillich_person_id__2008" type="person">Eckart</rs> ist es entzückend zu
+               reisen. – Heut früh die Überfahrt im Morgennebel zwischen Fischerbooten ohne Wind mit
+               breiten, müden Wellen war herrlich!!</p>
+            <closer>
+               <salute>Ich liebe Dich und danke Dir</salute>
+               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+            <postscript>
+               <p>[In Le Conquet angekommen: Herrlich!]</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
