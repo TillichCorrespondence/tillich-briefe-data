@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00827">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von <persName ref="#tillich_person_id__1928">Paul Tillich</persName> an <persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
+               <lb/>vom <date when="1924-08-02">2. August 1924</date>
+            </title>
+            <author ref="Paul Tillich">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="Brief">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Archiv des Verlages J. C. B. Mohr (Paul Siebeck)</collection>
+                  <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>maschinenschriftlich</p>
+                  </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal" n="firstPrint">
+                        <monogr>
+                           <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
+                           <title>"Beweise einer unsichtbaren Beziehung". Die Korrespondenz zwischen Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace><pubPlace ref="#tillich_place_id__71">Boston, MA</pubPlace>
+                              <date when="2011">2011</date>
+                              <biblScope>237-407, hier: 265f.</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>International Yearbook for Tillich Research</title>
+                           <biblScope>Bd. 6, H. 1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <address><placeName ref="#tillich_place_id__280">Marburg a. d. L., Sybelstr. 6</placeName></address>
+              <date when="1924-08-02">02.08.1924</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="NH" when="2022-11-16">Intitale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2023-03-13">Ergänzenden Auszeichnungen</change>
+        <change who="FS" when="2023-10-31">Endabnahme</change>
+        
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <dateline><rs ref="#tillich_place_id__280" type="place">Marburg/Lahn</rs>, den  <date when="1924-08-02">2. 8. 24</date> Sybelstr. 6</dateline>
+           <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1780" type="person">Siebeck</rs>!</salute>
+        </opener>
+        <p>Herzlichen Dank für Ihren <bibl type="letter" resp="L00825">Brief</bibl> vom <date when="1924-07-19">19. 8.</date><note type="ea">Das Datum ist ein Irrtum Tillichs. Gemeint ist der 19. Juli.</note> Ich bin damit einverstanden, meinen <bibl type="article" resp="Tillich, Kirche und Kultur, Vortrag am 18.07.1924 vor dem Tübinger Jugendring, veröffentlicht als Tillich, Kirche und Kultur (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet Theologie und Religionsgeschichte, Nr. 111), Tübingen, Mohr 1924, 1-22">Tübinger Vortrag</bibl> Ihnen für die Sammlung gemeinverständlicher Vorträge zu überlassen. Der Vortrag ist ziemlich kurz, und wird, soweit ich schätze, den Umfang eines Bogens kaum überschreiten. Leider kann ich Ihnen das Manuskript erst im <date when="1924-11">November</date> zur Verfügung stellen, da ich übermorgen auf drei Monate ins Ausland verreise. Falls Sie mir etwas zu schreiben hätten, bitte ich, meine hiesige Adresse zu benutzen. Gleichzeitig bitte ich Sie, mir für Ende <date when="1924-10">Oktober</date> eine <bibl resp="L00831">unterschriebene Abmachung</bibl> zuzusenden.
+        </p>
+        <closer>
+           <salute>Mit vorzüglicher Hochachtung</salute>
+           <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
+        </closer>
+     </div>
+    </body>
+  </text>
+</TEI>

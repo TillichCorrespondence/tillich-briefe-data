@@ -1,10 +1,10 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00404">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00404">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Paul Tillich an Johanna Tillich
                <lb/>vom 20. November 1914 </title>
-            <author ref="P01930">Paul Tillich</author>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Paul Schömann</name>
@@ -22,7 +22,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -37,7 +37,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
@@ -61,12 +61,12 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="P01930">Paul Tillich</persName>
-               <placeName ref="Bieuxy">Bieuxy</placeName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__61">Bieuxy</placeName>
                <date when="1914-11-20">20. November 1914</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P00644">Johanna Tillich</persName>
+               <persName ref="#tillich_person_id__644">Johanna Tillich</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -85,7 +85,7 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline><rs ref="#Bieuxy" type="place">Bieuxy</rs>, d. <date when="1914-11-20">20.Nov. 1914.</date></dateline>
+               <dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, d. <date when="1914-11-20">20.Nov. 1914.</date></dateline>
                <salute>Mein liebes, liebes <rs ref="#tillich_person_id__644" type="person">Wumming</rs>!</salute>
             </opener>
             <p>Als Wichtigstes muß ich Dir das Menü mitteilen, das ich gestern Abend nach Ankunft
@@ -128,7 +128,7 @@
                Generationsstufe des Vaters erreicht hat, zu den "Vätern" im potentiellen Sinne
                gehört. Das letztere ist nun aber zugleich konkret gemeint, nämlich daß er denkt ‒ so
                zu weilen wenn er die andere Seite der dialektischen Schaukel vergißt – er wäre
-               selbst der Vater, und dann, da er sich statt in <rs ref="#Berlin" type="place">Berlin</rs>, bei <rs ref="#Paris" type="place">Paris</rs> – wie sich das
+               selbst der Vater, und dann, da er sich statt in <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, bei <rs ref="#tillich_place_id__343" type="place">Paris</rs> – wie sich das
                für Onkels geziemt – befindet, nicht mit der Hand, aber im Geist besagten Augustin
                etc. auf seine Arme nimmt, ihn in die <hi rend="aq">tabulas rasas</hi>seiner
                hoffentlich dunkelblauen Kinderaugen <sic>kuckt</sic>, sich auf seinen Schimmel
@@ -137,7 +137,7 @@
                ich, daß nach diesem Ritt die negative Seite meiner Onklichkeit sich dahin geltend
                machen wird, daß ein entsetztes <rs ref="#tillich_person_id__644" type="person">Wumming</rs>
                und ein grimmig blickender <rs ref="#tillich_person_id__641" type="person">Frede</rs> mir den
-               Geraubten energisch und für längere Zeit abfordern werden. Aber den Ritt über <hi rend="u"><rs ref="#Paris" type="place">Paris</rs></hi> und zur <hi rend="u">Unendlichkeit</hi> hat er doch mit mir gemacht und wird er nicht so leicht
+               Geraubten energisch und für längere Zeit abfordern werden. Aber den Ritt über <hi rend="u"><rs ref="#tillich_place_id__343" type="place">Paris</rs></hi> und zur <hi rend="u">Unendlichkeit</hi> hat er doch mit mir gemacht und wird er nicht so leicht
                vergessen... und wenn er gar meine Ohren hat...!</p>
             <pb n="4"/>
             <p>Aus diesen <unclear cert="high">Sprüngen</unclear> meiner Phantasie werdet Ihr

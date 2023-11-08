@@ -1,11 +1,11 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00269">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00269">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Postkarte von Albert Kilger und Spatz an Paul Tillich <lb/>
                vom 2. September 1908</title>
-            <author ref="P01050">Albert Kilger</author>
-            <author ref="P02194">Spatz</author>
+            <author ref="#tillich_person_id__1050">Albert Kilger</author>
+            <author ref="#tillich_person_id__2190">Spatz</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Paul Schömann</name>
@@ -23,7 +23,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -38,7 +38,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
@@ -62,12 +62,12 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="P01050">Albert Kilger</persName>
-               <placeName ref="Halle">Halle</placeName>
+               <persName ref="#tillich_person_id__1050">Albert Kilger</persName>
+               <placeName ref="#tillich_place_id__189">Halle</placeName>
                <date when="1908-09-02">02.09.1908</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P01930">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
             </correspAction>
          </correspDesc>
          <langUsage>

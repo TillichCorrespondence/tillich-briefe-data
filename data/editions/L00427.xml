@@ -1,11 +1,11 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="L00427">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="L00427">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Postkarte von Paul Tillich an Maria Tillich
                     <lb/>vom 13. März 1915
                 </title>
-                <author ref="P01930">Paul Tillich</author>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
                 <respStmt>
                     <resp>Editor</resp>
                     <name>Emil Lusser</name>
@@ -22,7 +22,7 @@
                     <address>
                         <street>Schenkenstraße 8-10</street>
                         <postCode>1010</postCode>
-                        <placeName ref="Wien">
+                        <placeName ref="#tillich_place_id__470">
                             <settlement>Wien</settlement>
                             <country>Österreich</country>
                         </placeName>
@@ -36,7 +36,7 @@
                 <msDesc type="typoscript">
                     <msIdentifier>
                         <country>USA</country>
-                        <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                        <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
                         <institution>Harvard University</institution>
                         <repository>Harvard Divinity School Library</repository>
                         <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
@@ -59,12 +59,12 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="P01930">Paul Tillich</persName>
-                    <placeName ref="Wiesbaden">Wiesbaden</placeName>
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__471">Wiesbaden</placeName>
                     <date when="1915-04-13">13.04.1915</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="P01932">Marie Tillich</persName>
+                    <persName ref="#tillich_person_id__1930">Marie Tillich</persName>
                 </correspAction>
             </correspDesc>
             <langUsage>
@@ -85,7 +85,7 @@
                 <opener>
                     <salute>L.<expan>iebe</expan> <rs ref="#tillich_person_id__1930" type="person">Großmama</rs>!</salute>
                 </opener>
-                <p>Aus dem <rs ref="#Wiesbaden" type="place">Wiesbadener</rs> Rathauskeller bei einem Glase offenen Mosel diesen Kriegsgruß. Mein Schimmel ist besser als ich auf dem Bilde.<note type="ea">Auf der Motivseite der Postkarte sieht man <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> in Uniform auf einem Schimmel reiten. Sein Bursche <rs ref="#tillich_person_id__1742" type="person">Schröder</rs> steht rechts neben dem Pferd. Im Hintergrund sieht man seine Unterkunft an der Front.</note> Unten steht mein Bursche <rs ref="#tillich_person_id__1742" type="person">Schröder</rs> der aber in Wirklichkeit intelligenter ist. Die beiden Fenster links gehören zu meinem Zimmer. Rechts eine bayerische Protze <note type="ea">Die Protze ist der Vorderwagen für bsw. eine Lafette, d.h. das Untergestell der Geschütze. Mit der Protze können die Geschütze angespannt und dadurch bewegt werden. Vgl. <bibl type="encyclopedia">Scheubert, J.: »Deutsches Militär-Lexikon.« 1897.</bibl></note> .... Hier aber ist es schöner.</p>
+                <p>Aus dem <rs ref="#tillich_place_id__471" type="place">Wiesbadener</rs> Rathauskeller bei einem Glase offenen Mosel diesen Kriegsgruß. Mein Schimmel ist besser als ich auf dem Bilde.<note type="ea">Auf der Motivseite der Postkarte sieht man <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> in Uniform auf einem Schimmel reiten. Sein Bursche <rs ref="#tillich_person_id__1742" type="person">Schröder</rs> steht rechts neben dem Pferd. Im Hintergrund sieht man seine Unterkunft an der Front.</note> Unten steht mein Bursche <rs ref="#tillich_person_id__1742" type="person">Schröder</rs> der aber in Wirklichkeit intelligenter ist. Die beiden Fenster links gehören zu meinem Zimmer. Rechts eine bayerische Protze <note type="ea">Die Protze ist der Vorderwagen für bsw. eine Lafette, d.h. das Untergestell der Geschütze. Mit der Protze können die Geschütze angespannt und dadurch bewegt werden. Vgl. <bibl type="encyclopedia">Scheubert, J.: »Deutsches Militär-Lexikon.« 1897.</bibl></note> .... Hier aber ist es schöner.</p>
                 <closer><salute>Herzlichen Gruß!</salute> Dein tr.<signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed> <salute>Herzl. Gruß</salute> <signed><rs ref="#tillich_person_id__1931" type="person">Greti</rs></signed></closer>
             </div>
         </body>

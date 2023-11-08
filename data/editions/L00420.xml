@@ -1,10 +1,10 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00420">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00420">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Feldpostkarte von Paul Tillich an Johannes Tillich
                <lb/>vom 12. Januar 1915 </title>
-            <author ref="P01930">Paul Tillich</author>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Paul Schömann</name>
@@ -22,7 +22,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -37,7 +37,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
@@ -62,11 +62,11 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="P=1930">Paul Tillich</persName>
-               <placeName ref="ohne Ort">ohne Ort</placeName>
+               <placeName ref="#tillich_place_id__484">ohne Ort</placeName>
                <date when="1915-01-12">12.01.1915</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P01926">Johannes Tillich</persName>
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -94,7 +94,7 @@
             <p>An <rs ref="#tillich_person_id__1227" type="person">Lütgert</rs> schreibe bitte! <hi rend="u"><rs ref="#tillich_person_id__1931" type="person">Greti</rs> wäre etwas unruhig wegen der
                   Zukunft und hätte Dich gebeten</hi>; auch mir würde es sicher eine Beruhigung
                sein. - Seine Adresse ist: <hi rend="u"><address>
-                     <rs ref="#Halle-Gröllwitz" type="place">Halle-Gröllwitz,</rs>
+                     <rs ref="#tillich_place_id__196" type="place">Halle-Gröllwitz,</rs>
                      <street>Hohenweg Nr. 3.</street>
                   </address></hi> - Wir haben jetzt wenig zu tun, da die lebhaften militärischen
                Operationen einen Gottesdienst nicht zulassen. Mir geht es infolgedessen sehr

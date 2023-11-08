@@ -1,11 +1,11 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00417">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00417">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Brief von Paul Tillich an Fritz Medicus
                     <lb/>vom 04. Januar 1915
                 </title>
-                <author ref="P01930">Paul Tillich</author>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
                 <respStmt>
                     <resp>Editor</resp>
                     <name>Emil Lusser</name>
@@ -22,7 +22,7 @@
                     <address>
                         <street>Schenkenstraße 8-10</street>
                         <postCode>1010</postCode>
-                        <placeName ref="Wien">
+                        <placeName ref="#tillich_place_id__470">
                             <settlement>Wien</settlement>
                             <country>Österreich</country>
                         </placeName>
@@ -54,7 +54,7 @@
                                     <edition>1. Auflage</edition>
                                     <imprint>
                                         <publisher>Renate Albrecht und Margot Hahl</publisher>
-                                        <pubPlace ref="Stuttgart">Stuttgart</pubPlace>
+                                        <pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
                                             <date when="1980">1980</date>
                                                 <biblScope>86f.</biblScope>
                                     </imprint>
@@ -94,12 +94,12 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="P01930">Paul Tillich</persName>
-                    <placeName ref="Bieuxy">Bieuxy-Aisne</placeName>
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__61">Bieuxy-Aisne</placeName>
                     <date when="1915-01-04">04.01.1915</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="P01291">Fritz Medicus</persName>
+                    <persName ref="#tillich_person_id__1291">Fritz Medicus</persName>
                 </correspAction>
             </correspDesc>
             <langUsage>
@@ -115,9 +115,9 @@
         <body>
             <div type="writingSession1">
                 <pb n="1"/>
-                <opener><dateline><rs ref="#Bieuxy" type="place">Bieuxy</rs>/<rs ref="#Aisne" type="place">Aisne</rs>, d.<date when="1915-01-04">4. Jan. 1915</date>.</dateline>
+                <opener><dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>/<rs ref="#tillich_place_id__8" type="place">Aisne</rs>, d.<date when="1915-01-04">4. Jan. 1915</date>.</dateline>
                     <salute>Hochverehrter lieber <rs ref="#tillich_person_id__1291" type="person">Herr Professor</rs>!</salute></opener>
-                <p>Als prot. Felddivisionspfarrer bin ich seit <date when="1915-10-11">11 Okt.</date> hier an der <rs ref="#Aisne" type="place">Aisne</rs>. Es geht in all diesen Gegenden weder  <unclear reason="illegible" cert="high">vorwärts</unclear> noch rückwärts! Hoffentlich bald endgültig vorwärts! Ich habe viel zu tun. Die Arbeit ist also wieder voll; besonders Weihnachten und Sylvester hatten wir herrliche Gottesdienste. Hier gibt es sehr viele und grosse Kalksteinhöhlen. In diesen <sic>Feiern</sic> wir, wenn irgend möglich, um gegen feindliches Feuer sicher zu sein. Sie können sich gar nicht denken, was für eine Begierde nach Religion in den Leuten wachgeworden ist und wie wirksam sich doch die substantielle Religiosität der Jugendzeit erweist, jetzt wo ein Anlaß da ist, sie aktuell<pb n="2"/>werden zu lassen. Man hat nur die echt evangelische Aufgabe, auszudrücken, was alle erleben. Man predigt nicht andern, wie so oft im Frieden. Was würde <rs ref="#tillich_person_id__589" type="person">Fichte</rs> zu unserer Zeit sagen! <sic>Unverdienter Weise</sic> habe ich auch das eiserne Kreuz <note type="ea">Tillich erhielt das Eiserne Kreuz 2. Klasse im Dezember 1914. Das Eiserne Kreuz 1. Klasse folgte am 9. Juni 1918 (vgl. <bibl type="monograph">Wilhelm und Marion Pauk, Paul Tillich. Sein Leben und Denken, Bd. I: Leben, Stuttgart/Frankfurt am Main (Evangelisches Verlagswerk/ Otto Lembeck) 1978, S.54 u. 66</bibl>).</note>bekommen. 
+                <p>Als prot. Felddivisionspfarrer bin ich seit <date when="1915-10-11">11 Okt.</date> hier an der <rs ref="#tillich_place_id__8" type="place">Aisne</rs>. Es geht in all diesen Gegenden weder  <unclear reason="illegible" cert="high">vorwärts</unclear> noch rückwärts! Hoffentlich bald endgültig vorwärts! Ich habe viel zu tun. Die Arbeit ist also wieder voll; besonders Weihnachten und Sylvester hatten wir herrliche Gottesdienste. Hier gibt es sehr viele und grosse Kalksteinhöhlen. In diesen <sic>Feiern</sic> wir, wenn irgend möglich, um gegen feindliches Feuer sicher zu sein. Sie können sich gar nicht denken, was für eine Begierde nach Religion in den Leuten wachgeworden ist und wie wirksam sich doch die substantielle Religiosität der Jugendzeit erweist, jetzt wo ein Anlaß da ist, sie aktuell<pb n="2"/>werden zu lassen. Man hat nur die echt evangelische Aufgabe, auszudrücken, was alle erleben. Man predigt nicht andern, wie so oft im Frieden. Was würde <rs ref="#tillich_person_id__589" type="person">Fichte</rs> zu unserer Zeit sagen! <sic>Unverdienter Weise</sic> habe ich auch das eiserne Kreuz <note type="ea">Tillich erhielt das Eiserne Kreuz 2. Klasse im Dezember 1914. Das Eiserne Kreuz 1. Klasse folgte am 9. Juni 1918 (vgl. <bibl type="monograph">Wilhelm und Marion Pauk, Paul Tillich. Sein Leben und Denken, Bd. I: Leben, Stuttgart/Frankfurt am Main (Evangelisches Verlagswerk/ Otto Lembeck) 1978, S.54 u. 66</bibl>).</note>bekommen. 
                 </p>
                 <closer><salute>Es grüsst Sie herzlich Ihr dankbar ergebener</salute> <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed></closer>
             </div>

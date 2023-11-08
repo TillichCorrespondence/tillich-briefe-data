@@ -1,9 +1,9 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00252">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00252">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Otto Heller an Paul Tillich <lb/>vom 20. Dezember 1907</title>
-            <author ref="P02142">Otto Heller</author>
+            <author ref="#tillich_person_id__2138">Otto Heller</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Paul Schömann</name>
@@ -21,7 +21,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -36,7 +36,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
@@ -60,12 +60,12 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="P02142">Otto Heller</persName>
-               <placeName ref="Halle">Halle</placeName>
+               <persName ref="#tillich_person_id__2138">Otto Heller</persName>
+               <placeName ref="#tillich_place_id__189">Halle</placeName>
                <date when="1907-12-20">20.12.1907</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P01930">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -83,7 +83,7 @@
             <pb n="1"/>
             <opener>
                <dateline>
-                  <rs ref="#Halle" type="place">Halle (Saale)</rs>, <date when="1907-12-20">20. XII.
+                  <rs ref="#tillich_place_id__189" type="place">Halle (Saale)</rs>, <date when="1907-12-20">20. XII.
                      07.</date></dateline>
                <salute>Mein liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
             </opener>
@@ -144,7 +144,7 @@
                viele Aufgaben in der Verbindung, an deren Lösung ich <hi rend="u">mitarbeiten
                   könnte</hi>; im jetzt verflossenen Quartal hatte ich nicht die moralische Kraft
                dazu sowie die nötige Freudigkeit (eine Tatsache, die ich oftmals <hi rend="u">sehr</hi> schmerzlich empfand). Ich hoffe u. wünsche, daß es im kommenden
-               Quartal, den letzten 2 Monaten, die ich noch in <rs ref="#Halle" type="place">Halle</rs> bin,
+               Quartal, den letzten 2 Monaten, die ich noch in <rs ref="#tillich_place_id__189" type="place">Halle</rs> bin,
                besser gehen wird.</p>
             <p>Die Activität in der Verbindung so wie <hi rend="u">wir</hi> sie auffassen (ich denke
                jetzt nicht an die <hi rend="u">eine</hi> Seite, das Betrieb schieben, auf die
@@ -176,7 +176,7 @@
                uns nicht näher gekommen in diesem Quartal, vielleicht etwas mehr auseinandergekommen. – <hi rend="u">Leider</hi>! – Ich hab ihn so gern.</p>
             <p>Ich hatte gedacht, Du kämst zu unserer Weihnachtskneipe herüber, aber ihr hattet <hi rend="sup">wohl</hi> am selben Tage Kneipe. Überhaupt war ich so manches mal
                enttäuscht, als falsche Gerüchte umgegangen waren, Du kämest. – Wie geht es in
-                  <rs ref="#Berlin" type="place">Berlin</rs>? Was macht <rs ref="#tillich_person_id__1050" type="person">Albert
+                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs>? Was macht <rs ref="#tillich_person_id__1050" type="person">Albert
                   Kilger</rs>? Wagner, mein Landsmann! <rs ref="#tillich_person_id__2212" type="person">Graeber</rs> u. <rs ref="#tillich_person_id__1592" type="person">Vater
                   Rhein</rs>? –<pb n="8"/> Das Erbauungskränzchen an Weihnachten hielt L. u.
                   <rs ref="#tillich_person_id__2347" type="person">Weber</rs>. Es war eine treffl. <hi rend="u">Predigt</hi>. – Nun aber 2 Fragen: Hat es einmal überhaupt Zweck, vor <hi rend="u">Weihn</hi>. ein Erbauungskränzchen abzuhalten? Die Berechtigung eines
@@ -236,7 +236,7 @@
             <p>Ich möchte schließen; es ist schon <formula notation="TeX">\frac{1}{4}</formula> 2
                !</p>
             <p>Die Ferien über bleibe ich hier, weil sich die weite Reise nach dem
-                  <rs ref="#Elsass" type="place">Elsass</rs> für die kurze Zeit nicht lohnt, u. ich ausserdem
+                  <rs ref="#tillich_place_id__134" type="place">Elsass</rs> für die kurze Zeit nicht lohnt, u. ich ausserdem
                eine ganze Masse Arbeit erledigen möchte.</p>
             <p>Leb wohl u. sei herzlich gegrüßt, u. erfreu mich "<hi rend="u">zu Weihnachten</hi>"
                mit einem Briefe!</p>

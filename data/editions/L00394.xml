@@ -1,10 +1,10 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L0394">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L0394">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Hermann Schafft an Paul Tillich
                <lb/>vom 5. Oktober 1914</title>
-            <author ref="P01697">Hermann Schafft</author>
+            <author ref="#tillich_person_id__1696">Hermann Schafft</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Paul Schömann</name>
@@ -22,7 +22,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -37,7 +37,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
@@ -61,12 +61,12 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="P01697">Hermann Schafft</persName>
-               <placeName ref="where">Bonn</placeName>
+               <persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
+               <placeName ref="#tillich_place_id__485">Bonn</placeName>
                <date when="1914-10-05">5.10.1914</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P01930">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -84,7 +84,7 @@
             <pb n="1"/>
             <opener>
                <dateline>
-                  <rs ref="#Bonn" type="place">Bonn</rs>
+                  <rs ref="#tillich_place_id__68" type="place">Bonn</rs>
                   <date when="1914-10-05">5. X. 14.</date></dateline>
                <salute>Lieber Philister <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>!</salute>
             </opener>
@@ -102,8 +102,8 @@
                <signed>D. <rs ref="#tillich_person_id__1696" type="person">Schafft</rs></signed>
             </closer>
             <postscript>
-               <p>dzt. auf Verwundetentransport <rs ref="#Deutschland" type="place">Deutschland</rs><pb n="4"/> morgen zurück nach
-                     <rs ref="#Brüssel" type="place">Brüssel</rs>!</p>
+               <p>dzt. auf Verwundetentransport <rs ref="#tillich_place_id__122" type="place">Deutschland</rs><pb n="4"/> morgen zurück nach
+                     <rs ref="#tillich_place_id__78" type="place">Brüssel</rs>!</p>
             </postscript>
          </div>
       </body>

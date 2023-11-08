@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00081">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Toni Winkler an Paul Tillich <lb/>vom 31. Juli 1905 </title>
+            <author ref="#tillich_person_id__2085">Toni Winkler</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/205(16)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2085">Toni Winkler</persName>
+               <placeName ref="#tillich_place_id__415">Stendal</placeName>
+               <date when="1905-07-31">31.07.1905</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-04-05">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2023-10-30">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>Zwischen <rs ref="#tillich_place_id__60" type="place">[Bielefeld]<note type="ea">Der Text in eckigen Klammern ist auf die Postkarte gedruckt.</note></rs> u. <rs ref="#tillich_place_id__37" type="place">Berlin</rs> d. <date when="1905-07-31">31/7.
+                     05.</date></dateline>
+               <salute>L. <rs ref="#tillich_person_id__1928" type="person">P.</rs></salute>
+            </opener>
+            <p>Auf der Heimreise begriffen, senden wir Dir viele innige Grüße. <rs ref="#tillich_person_id__1762" type="person">Elis.</rs> hat in den 3 Wochen 4 K <pb n="2"/>
+               zugenommen, ich 2. <rs ref="#tillich_person_id__1924" type="person">Papa</rs> u. <rs ref="#tillich_person_id__644" type="person">Johanna</rs> kommen Morgen Abend in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> an. Vielen Dank f. den l. Brief, Gott Lob gehts
+               Dir wieder gut. Wir freuen uns <hi rend="uu">sehr</hi> des baldigen Wiedersehens mit
+               Dir. Gott behüte Dich. </p>
+            <closer>
+               <salute>In treuer Liebe D.</salute>
+               <signed>Tante <rs ref="#tillich_person_id__2085" type="person">Toni</rs></signed>
+            </closer>
+            <postscript>
+               <p>(Im D.Zug!)</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

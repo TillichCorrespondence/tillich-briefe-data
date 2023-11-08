@@ -1,10 +1,10 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Paul Tillich an Familie: Johannes Tillich, Marie Tillich-Scheidemantel, Margarete Tillich, Alfred Fritz
                <lb/>1914.12.27.</title>
-            <author ref="P01930">Paul Tillich</author>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Andreas Burri</name>
@@ -22,7 +22,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -38,7 +38,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
@@ -63,15 +63,15 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="P01930">Paul Tillich</persName>
-               <placeName ref="ohne Ort">ohne Ort</placeName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__484">ohne Ort</placeName>
                <date when="1914-12-27">27. Dezember 1914</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P01926">Johannes Tillich</persName>
-               <persName ref="P01932">Marie Tillich-Scheidemantel</persName>
-               <persName ref="P01927">Margarete Tillich</persName>
-               <persName ref="P00641">Alfred Fritz</persName>
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+               <persName ref="#tillich_person_id__1930">Marie Tillich-Scheidemantel</persName>
+               <persName ref="#tillich_person_id__1925">Margarete Tillich</persName>
+               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -99,56 +99,56 @@
                </row>
                <row>
                   <cell/>
-                  <cell><rs ref="#Épagny" type="place">Epagny</rs>:</cell>
+                  <cell><rs ref="#tillich_place_id__486" type="place">Epagny</rs>:</cell>
                   <cell>4° nachm. Feldscheune im Hofe der Brigade neben dem Wohnhaus für Stab der Brigade und Inf. R. 27 und II./27.</cell>
                   <cell>Pfarrer <rs ref="#tillich_person_id__109" type="person">Backhaus</rs></cell>
                </row>
                <row>
                   <cell/>
-                  <cell><rs ref="#Vézaponin" type="place">Vezaponin</rs>:</cell>
+                  <cell><rs ref="#tillich_place_id__464" type="place">Vezaponin</rs>:</cell>
                   <cell>5 ½° nachm. Kirche für Sanitätskomp. 4.</cell>
                   <cell/>
                </row>
                <row>
                   <cell/>
-                  <cell><rs ref="#Bieuxy" type="place">Bieuxy</rs>:</cell>
+                  <cell><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>:</cell>
                   <cell>7° nachm. Scheunenkirche für Divisionsstab usw. rein allsonntägl.</cell>
                   <cell/>
                </row>
                <row>
                   <cell/>
-                  <cell><rs ref="#Ferme de Mareuille" type="place">Mareuille F<hi rend="uu">e</hi></rs>:</cell>
+                  <cell><rs ref="#tillich_place_id__138" type="place">Mareuille F<hi rend="uu">e</hi></rs>:</cell>
                   <cell>10° vorm. Hof oder Feldscheune für I./27 und Div. Br. Tr. 7.</cell>
                   <cell>Pfarrer Dr. <rs ref="#tillich_person_id__1928" type="person">Tillich</rs></cell>
                </row>
                <row>
                   <cell/>
-                  <cell><rs ref="#Épagny" type="place">Epagny</rs>:</cell>
+                  <cell><rs ref="#tillich_place_id__486" type="place">Epagny</rs>:</cell>
                   <cell>12° mittags Feldscheune im Hofe der Brigade für III./27.</cell>
                   <cell/>
                </row>
                <row>
                   <cell>◯</cell>
-                  <cell><rs ref="#Cuisy-en-Almont" type="place">Cuisy en Almont</rs>:</cell>
+                  <cell><rs ref="#tillich_place_id__117" type="place">Cuisy en Almont</rs>:</cell>
                   <cell>6° abend, <del rend="s">Höhle</del><add place="superlinear" resp="P01930">Kirche.</add> für 1 Komp. Jäger 4, ½ Komp. 27, ½ Battr. 2. Gd. Fußa. 2, und Stäbe.</cell>
                   <cell/>
                </row>
                <row>
                   <cell/>
-                  <cell><rs ref="#Tartiers" type="place">Tartiers</rs>:</cell>
+                  <cell><rs ref="#tillich_place_id__432" type="place">Tartiers</rs>:</cell>
                   <cell>7° abends, Höhle der 5. Battr. Felda. R. 7, für 4. u. 5. Battr.</cell>
                   <cell/>
                </row>
                <row>
                   <cell/>
-                  <cell><rs ref="#Montécouvé" type="place">Montécouve F<hi rend="uu">e</hi></rs>:</cell>
+                  <cell><rs ref="#tillich_place_id__300" type="place">Montécouve F<hi rend="uu">e</hi></rs>:</cell>
                   <cell>11° vorm. für leichte Mun. Kol. I. u. II. Höhle.</cell>
                   <cell>Feldlazarettpfarrer <rs ref="#tillich_person_id__2533" type="person">Förster</rs></cell>
                </row>
                <row>
                   <cell/>
-                  <cell><rs ref="#Juvigny" type="place">Juvigny</rs>:</cell>
-                  <cell>4° nachm. Kirche für 21cm Mörser Fußa. R. 4 und was in <rs ref="#Juvigny" type="place">Juvigny</rs> liegt.</cell>
+                  <cell><rs ref="#tillich_place_id__227" type="place">Juvigny</rs>:</cell>
+                  <cell>4° nachm. Kirche für 21cm Mörser Fußa. R. 4 und was in <rs ref="#tillich_place_id__227" type="place">Juvigny</rs> liegt.</cell>
                   <cell/>
                </row>
             </table>
@@ -168,31 +168,31 @@
                </row>
                <row>
                   <cell/>
-                  <cell><rs ref="#Vauxrezis" type="place">Vaurezis</rs>:</cell>
+                  <cell><rs ref="#tillich_place_id__457" type="place">Vaurezis</rs>:</cell>
                   <cell>5° nachm. für Stab d. Brigade u. Regtl. 66, Stab II./66 <lb/> 2 Komp. II./66. und Pioniere.</cell>
                   <cell/>
                </row>
                <row>
                   <cell/>
-                  <cell><rs ref="#Raucourt" type="place">Raucourt</rs>:</cell>
+                  <cell><rs ref="#tillich_place_id__363" type="place">Raucourt</rs>:</cell>
                   <cell>6<hi rend="u"><hi rend="sup">30</hi></hi> nachm. Höhle für Protzen der 4. Battr. Felda. R. 7.</cell>
                   <cell/>
                </row>
                <row>
                   <cell>⚹</cell>
-                  <cell><rs ref="#Leury" type="place">Leury</rs>:</cell>
+                  <cell><rs ref="#tillich_place_id__263" type="place">Leury</rs>:</cell>
                   <cell><add place="intralinear" resp="P01930">[⚹</add> 4<hi rend="sup">30</hi>, 5<hi rend="sup">30</hi>, 6<hi rend="sup">30</hi> nachm. Höhle für I./72 u. Stab I. Feldr. R. 7 und 3 Batterien Feldart. R. 7.<add place="intralinear" resp="P01930">]</add></cell>
                   <cell>Pfarrer Dr. <rs ref="#tillich_person_id__1928" type="person">Tillich</rs></cell>
                </row>
                <row>
                   <cell/>
-                  <cell><rs ref="#Bieuxy" type="place">Bieuxy</rs>:</cell>
+                  <cell><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>:</cell>
                   <cell>10° vorm. Scheunenkirche für Divisionsstab usw.</cell>
                   <cell>Lazarettpf. <rs ref="#tillich_person_id__2533" type="person">Förster</rs>.</cell>
                </row>
                <row>
                   <cell/>
-                  <cell><rs ref="#Chavigny" type="place">Chavigny</rs>:</cell>
+                  <cell><rs ref="#tillich_place_id__100" type="place">Chavigny</rs>:</cell>
                   <cell>11<hi rend="sup">30</hi> Hof für Regtl. Stab 72, 1 Komp. 72, 2 Komp. 66, 2 Battr., Feldart. R. 7., 21cm Mörser Fußa. R. 4.</cell>
                   <cell/>
                </row>
@@ -207,49 +207,49 @@
                </row>
                <row>
                   <cell/>
-                  <cell><rs ref="#Champs" type="place">Champs</rs><!--Vorsicht für das Register: Ort nicht gefunden -->:</cell>
+                  <cell><rs ref="#tillich_place_id__91" type="place">Champs</rs><!--Vorsicht für das Register: Ort nicht gefunden -->:</cell>
                   <cell>11<hi rend="sup">30</hi> mittags, Große Bagage.</cell>
                   <cell>Pfarrer <rs ref="#tillich_person_id__109" type="person">Backhaus</rs></cell>
                </row>
                <row>
                   <cell/>
-                  <cell><rs ref="#Cuisy-en-Almont" type="place">Cuisy en Almont</rs>:</cell>
+                  <cell><rs ref="#tillich_place_id__117" type="place">Cuisy en Almont</rs>:</cell>
                   <cell>6° nachm. Höhle für 1 Jäger-Komp., ½ Komp. 27, ½ Battr. 2. Gd. Fußa. R. 2.</cell>
                   <cell/>
                </row>
                <row>
                   <cell/>
-                  <cell><rs ref="#Tartiers" type="place">Tartiers</rs>:</cell>
+                  <cell><rs ref="#tillich_place_id__432" type="place">Tartiers</rs>:</cell>
                   <cell>7° nachm. Höhle für 6. Battr. Felda. R. 7.</cell>
                   <cell/>
                </row>
                <row>
                   <cell/>
-                  <cell>Höhe v. <rs ref="#Pasly" type="place">Pasly</rs>:</cell>
+                  <cell>Höhe v. <rs ref="#tillich_place_id__344" type="place">Pasly</rs>:</cell>
                   <cell>10<hi rend="sup">30</hi>, 11<hi rend="sup">30</hi> vorm. Höhle für III./72.</cell>
                   <cell>Pfarrer Dr. <rs ref="#tillich_person_id__1928" type="person">Tillich</rs></cell>
                </row>
                <row>
                   <cell>➕</cell>
-                  <cell><rs ref="#Pasly" type="place">Pasly</rs>:</cell>
+                  <cell><rs ref="#tillich_place_id__344" type="place">Pasly</rs>:</cell>
                   <cell>4°, 5° nachm. Kirche für I./66.</cell>
                   <cell/>
                </row>
                <row>
                   <cell/>
-                  <cell><rs ref="#Crécy-au-Mont" type="place">Crecy le Paradis</rs></cell>
+                  <cell><rs ref="#tillich_place_id__113" type="place">Crecy le Paradis</rs></cell>
                   <cell>10<hi rend="sup">30</hi>vorm. Regtl. Stab u. 1. Schwadr. Schw. Res. R. R1.</cell>
                   <cell>Feldlazarettpf. <rs ref="#tillich_person_id__2533" type="person">Förster</rs></cell>
                </row>
                <row>
                   <cell/>
-                  <cell><rs ref="#Leuilly-sous-Coucy" type="place">Leuilly</rs>:</cell>
+                  <cell><rs ref="#tillich_place_id__261" type="place">Leuilly</rs>:</cell>
                   <cell>12° mittags für Lazarett u. Inf. Mun. Kol. Kirche</cell>
                   <cell/>
                </row>
                <row>
                   <cell/>
-                  <cell><rs ref="#Le Mont de Guny" type="place">Mont de Guny</rs>:</cell>
+                  <cell><rs ref="#tillich_place_id__255" type="place">Mont de Guny</rs>:</cell>
                   <cell>4° nachm. Stab u. Munitionskolonnen.</cell>
                   <cell/>
                </row>
@@ -260,7 +260,7 @@
                <add place="right"><hi rend="u">wenden</hi></add></p>
             <pb n="2"/>
             <p>⚹ fielen aus wegen französischen Artillerieangriffs auf das III. Krps. Dafür
-               einen Vormittagsgottesdienst in <rs ref="#Bieuxy" type="place">B.</rs>, unserm Nachbardorf bei einer
+               einen Vormittagsgottesdienst in <rs ref="#tillich_place_id__61" type="place">B.</rs>, unserm Nachbardorf bei einer
                Munitionskolonne.</p>
             <p>◯ War vollkommen schön und gewissermaßen <hi rend="u">mein</hi> Weihnachtsgottesdienst; die Jäger sind meine <unclear cert="high" reason="illegible">besonderen</unclear> Freunde.</p>
             <p>➕ Orgelbegleitung in Form von Granatfeuer und Antwort unserer Ringkanonen: Höllenlärm; Einschläge in ziemlicher Nähe! Dazu Stille Nacht!</p>

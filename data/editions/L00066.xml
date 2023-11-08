@@ -1,10 +1,10 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00066">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00066">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Postkarte von Johannes Tillich u. a. an Paul Tillich <lb/>vom 24. Juni 1905
                [PS]</title>
-            <author ref="P01926">Johannes Tillich</author>
+            <author ref="#tillich_person_id__1924">Johannes Tillich</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Paul Schömann</name>
@@ -22,7 +22,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -37,7 +37,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
@@ -61,13 +61,13 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="P01926">Johannes Tillich</persName>
-               <placeName ref="Berlin">Berlin</placeName>
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
                <date when="1905-06-24">24.06.1905</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P01930">Paul Tillich</persName>
-               <placeName ref="Tübingen">Tübingen</placeName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__449">Tübingen</placeName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -90,7 +90,7 @@
                d. Operation glücklich überstanden, wenn sie nun doch einmal stattfinden mußte; u.
                gewiß ist es besser so; Wir sind ruhig u. getrost. Gott helfe weiter.- Nun aber
                täglich Depesche!! Da ich Montag 2 Uhr mit <rs ref="#tillich_person_id__2224" type="person">Onkel
-                  Paul</rs> nach <rs ref="#Greifswald" type="place">Greifswald</rs> reise,
+                  Paul</rs> nach <rs ref="#tillich_place_id__181" type="place">Greifswald</rs> reise,
                bitte jedenfalls Depesche vorher, also um 12 Uhr spätestens <hi rend="u">absenden</hi>! Gott gebe Dir viel frohen Mut, wir sind im Geiste bei Dir.</p>
             <closer>
                <signed>D. tr. <rs ref="#tillich_person_id__1924" type="person">Vater</rs></signed>

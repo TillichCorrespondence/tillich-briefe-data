@@ -1,9 +1,9 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00076">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00076">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Postkarte von Margarete Tillich an Paul Tillich <lb/>vom 16. Juli 1905 </title>
-            <author ref="P01927">Margarete Tillich</author>
+            <author ref="#tillich_person_id__1925">Margarete Tillich</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Paul Schömann</name>
@@ -21,7 +21,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -36,7 +36,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
@@ -60,13 +60,13 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="P01927">Margarete Tillich</persName>
-               <placeName ref="Berlin">Berlin</placeName>
+               <persName ref="#tillich_person_id__1925">Margarete Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
                <date when="1905-07-16">16.07.1905</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P01930">Paul Tillich</persName>
-               <placeName ref="Tübingen">Tübingen</placeName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__449">Tübingen</placeName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -85,14 +85,14 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline><rs ref="#Hohen Neuendorf" type="place">H-Neuendorf</rs>
+               <dateline><rs ref="#tillich_place_id__213" type="place">H-Neuendorf</rs>
                   <date when="1905-07-16">16/7. 05.</date></dateline>
                <salute>L. <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
             </opener>
             <p>Gern möchten wir wissen, wie es Dir geht, <rs ref="#tillich_person_id__1930" type="person">Großmama</rs>
                <hi rend="u">sorgt</hi> sich und eine Zeile Deiner Hand würde sie erfreuen und
                beruhigen. Gott gebe, daß die Heilung gut verläuft. Frl. Otto reist jetzt in Deiner
-               Nähe umher, <rs ref="#tillich_person_id__2237" type="person"><rs ref="#tillich_person_id__2238" type="person">Dürselens</rs></rs> sind in <rs ref="#Bertrich" type="place">Bertrich</rs> u. die Kinder mit <rs ref="#tillich_person_id__1926" type="person">Opapa</rs>
+               Nähe umher, <rs ref="#tillich_person_id__2237" type="person"><rs ref="#tillich_person_id__2238" type="person">Dürselens</rs></rs> sind in <rs ref="#tillich_place_id__57" type="place">Bertrich</rs> u. die Kinder mit <rs ref="#tillich_person_id__1926" type="person">Opapa</rs>
                hier, letzterer ist <hi rend="u">sehr</hi> munter. Wir haben Deine erste theolog.
                   Arbeit<note type="ea">Tillich hat in frühen Jahren an einer Theologie des Wingolf
                   gearbeitet. Diese Schrift wird im Briefwechsel vor allem mit Studienkollegen

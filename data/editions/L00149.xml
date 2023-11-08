@@ -1,9 +1,9 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00149">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00149">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Alfred Fritz an Paul Tillich <lb/>vom 19. März 1907 </title>
-            <author ref="P00641">Alfred Fritz</author>
+            <author ref="#tillich_person_id__641">Alfred Fritz</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Paul Schömann</name>
@@ -21,7 +21,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -36,7 +36,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>Deutschland</country>
-                  <settlement ref="Marburg">Marburg</settlement>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
                   <institution>Philipps-Universität Marburg</institution>
                   <repository>Deutsches Paul-Tillich-Archiv</repository>
                   <idno>008C</idno>
@@ -59,12 +59,12 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="P00641">Alfred Fritz</persName>
-               <placeName ref="Stuttgart">Stuttgart</placeName>
+               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+               <placeName ref="#tillich_place_id__420">Stuttgart</placeName>
                <date when="1907-03-19">19.03.1907</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P01930">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -81,7 +81,7 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline><rs ref="#Stuttgart" type="place">Stuttgart</rs>. <date when="1907-03-19">19. III. 07</date></dateline>
+               <dateline><rs ref="#tillich_place_id__420" type="place">Stuttgart</rs>. <date when="1907-03-19">19. III. 07</date></dateline>
                <salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
             </opener>
             <p>Nur geschwind will ich Dir ein paar Worte schreiben, alldieweil u. sintemalen ich
@@ -91,12 +91,12 @@
                Wissen u. Gewissen so gehässig beurteilt wird, wie <unclear cert="high">dies</unclear> geschieht. Aber nun haben wirs ja oft genug gepredigt, daß es
                nicht aufs Urteil irgendwelcher Leute ankommt, sondern auf etwas Anderes. Allerdings
                mußt Du im Tun wohl noch etwas<pb n="2"/> zulernen. Es wurde mir von verschiedenen
-               Seiten gesagt, als ich weggewesen sei, habe man doch gemerkt, wie es in <rs ref="#Halle" type="place">Halle</rs> eigentlich aussehe. Jedenfalls ist jetzt genug
+               Seiten gesagt, als ich weggewesen sei, habe man doch gemerkt, wie es in <rs ref="#tillich_place_id__189" type="place">Halle</rs> eigentlich aussehe. Jedenfalls ist jetzt genug
                geredet, es wird am besten sein, wenn man gleich zu Anfang des neuen Sem. den <del rend="s">A</del> Antrag auf Aufhebung des Aktivitätszwangs stellt, "weil man eben
                doch auf eine rechte Einigkeit verzichten müsse u. um die vorigen Reibereien
                wegzuschaffen." Schmerzlich aber wahr.</p>
             <p> Ich fühle mich recht behaglich fern von den Geschäften. Bin froh den Stumpfsinn
-               loszuhaben. Bis vor 2 Tagen war ich in <rs ref="#Heidelberg" type="place">Heidelberg</rs> u. mit meiner Mutter zusammen. Dort will der Frühling
+               loszuhaben. Bis vor 2 Tagen war ich in <rs ref="#tillich_place_id__203" type="place">Heidelberg</rs> u. mit meiner Mutter zusammen. Dort will der Frühling
                schon mächtig kommen, aber dies Mal macht er mehr Weh u. Schmerz. Wenn überall das
                Leben erwacht u. das Liebste bleibt tot. Doch was sage ich es lebt ja. Aber<pb n="3"/>so heidnische Gedanken kommen einem eben; jedenfalls je schöner die Welt sein will;
                desto mehr fühle ich, daß das Schönste darin mir fehlt. Ich wollte es ja schon

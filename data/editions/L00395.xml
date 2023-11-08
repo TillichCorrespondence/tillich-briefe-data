@@ -1,11 +1,11 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00395">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00395">
   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Paul Tillich an Toni Winkler
                <lb/>vom 8. Oktober 1914
             </title>
-            <author ref="P01930">Paul Tillich</author>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Leopold Potyka</name>
@@ -22,7 +22,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -36,7 +36,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="Cambrigde, MA">Cambrigde, MA</settlement>
+                  <settlement ref="#tillich_place_id__86">Cambrigde, MA</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
@@ -59,12 +59,12 @@
      <profileDesc>
         <correspDesc>
            <correspAction type="sent">
-              <persName ref="P01930">Paul Tillich</persName>
-              <placeName ref="o.O.">ohne Ort [Westfront]</placeName>
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__483">ohne Ort [Westfront]</placeName>
               <date when="1914-10-08">8. Oktober 1914</date>
            </correspAction>
            <correspAction type="received">
-              <persName ref="P02089">Toni Winkler</persName>
+              <persName ref="#tillich_person_id__2085">Toni Winkler</persName>
            </correspAction>
         </correspDesc>
         <langUsage>
@@ -86,10 +86,10 @@
         </opener>
         <p>Gestern Abend habe ich die Grenze 
            überschritten und heute Nacht im 
-           Pferdewagen auf Stroh <rs ref="#Belgien" type="place">Belgien</rs> 
-           bis vor <rs ref="#Namur" type="place">Namür</rs> durchfahren. 
+           Pferdewagen auf Stroh <rs ref="#tillich_place_id__33" type="place">Belgien</rs> 
+           bis vor <rs ref="#tillich_place_id__309" type="place">Namür</rs> durchfahren. 
            Jetzt sitze ich mit 3 Offizieren 
-           im Koupé I<hi rend="sup">te</hi> Klasse; wir haben auf jeder Station durchschnittlich 20‒30 Min. Aufenthalt. Der Anblick der zerschossenen Häuser ist gräulich, der gefangenen Franzosen tragisch, unserer Verwundeten erhebend. In <rs ref="#Aachen" type="place">Aachen</rs> war ich 3 Stunden mit <rs ref="#tillich_person_id__1696" type="person">Schafft</rs> zusammen. Er hat <rs ref="#tillich_person_id__1924" type="person">Papa</rs> geschrieben.           
+           im Koupé I<hi rend="sup">te</hi> Klasse; wir haben auf jeder Station durchschnittlich 20‒30 Min. Aufenthalt. Der Anblick der zerschossenen Häuser ist gräulich, der gefangenen Franzosen tragisch, unserer Verwundeten erhebend. In <rs ref="#tillich_place_id__4" type="place">Aachen</rs> war ich 3 Stunden mit <rs ref="#tillich_person_id__1696" type="person">Schafft</rs> zusammen. Er hat <rs ref="#tillich_person_id__1924" type="person">Papa</rs> geschrieben.           
         </p>
         <closer>
            <salute>Herzl. Gruß </salute>

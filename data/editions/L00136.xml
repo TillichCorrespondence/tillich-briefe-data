@@ -1,10 +1,10 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00136">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00136">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Paul Tillich an Alfred Fritz
                <lb/>von 1907 (Frühling)</title>
-            <author ref="P01930">Paul Tillich</author>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Andreas Burri</name>
@@ -22,7 +22,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -37,7 +37,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>Deutschland</country>
-                  <settlement ref="Marburg">Marburg</settlement>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
                   <institution>Philipps-Universität Marburg</institution>
                   <repository>Deutsches Paul-Tillich-Archiv</repository>
                   <idno>008C</idno>
@@ -60,11 +60,11 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="P01930">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
                <date notBefore="1907-03-01" notAfter="1907-04-01">1907 (Frühling)</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P00641">Alfred Fritz</persName>
+               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -91,17 +91,17 @@
                war <rs ref="#tillich_person_id__1738" type="person">Schreiber</rs> da. Soweit ich mich an die Tage, die
                ich in einem Zustande totaler Betäubung infolge der letzten Anstrengungen des
                Semesters verlebte, <del rend="s">bes</del> erinnern kann, waren sie sehr nett; zwar
-               war das Interesse mehr am Objekt (<rs ref="#Berlin" type="place">Berlin</rs>), als
+               war das Interesse mehr am Objekt (<rs ref="#tillich_place_id__37" type="place">Berlin</rs>), als
                wechselseitig am Subjekt, aber trotzdem kann das ja auch "verbindend" wirken. Sehr
                viel wacher war ich schon in den Tagen mit
                <rs ref="#tillich_person_id__1050" type="person">Albert</rs>, wenigstens relativ. Es war ganz famos,
                vor allem als Gelegenheit, das im Semester Versäumte etwas nachzuholen. Das taten wir
-               dann auch gründlich, ohne <rs ref="#Berlin" type="place">Berlin</rs>
+               dann auch gründlich, ohne <rs ref="#tillich_place_id__37" type="place">Berlin</rs>
                <add place="superlinear">zu kurz</add>
                <del rend="s">nach</del>kommen zu lassen. Die Glanzpunkte waren (da ich die 1<formula notation="TeX">\frac{1}{2}</formula> Stunden im Regen vor dem Schloß<pb n="2"/> dem Erfolg, einige hübsche Botschafter-<unclear>¿¿¿</unclear>-Uniformen zu sehen, nicht, wie
                <rs ref="#tillich_person_id__1050" type="person">Albert</rs>, dafür nehmen kann) der Abend in
                "Rheingold" und "Karmen" im Opernhaus. (Ersteres nicht die Oper, sondern das größte
-               und neueste Weinrestaurant <rs ref="#Berlin" type="place">Berlins</rs>, eine
+               und neueste Weinrestaurant <rs ref="#tillich_place_id__37" type="place">Berlins</rs>, eine
                Sehenswürdigkeit ersten Ranges) Von unserem dortigen Schlemmereien zu erzählen,
                überlasse ich <rs ref="#tillich_person_id__1050" type="person">Albert</rs>. Leider war der Schluß
                etwas
@@ -123,7 +123,7 @@
                unser Eintreten für <rs ref="#tillich_person_id__2184" type="person">Kalfhaus</rs>
                sei!<!--Tillich bezieht sich hier auf die am Rand der letzten Seite eingetragene Bemerkung Hanffstengels in dessen Brief an Paul Tillich vom 22.03.1907. Den vorliegenden Brief Tillichs also können wir zumindest auf Frühjahr 1907 datieren.-->
                Mein <rs ref="#tillich_person_id__1924" type="person">Vater</rs> beruft nächstens einen Konvent der
-               Berliner Philister. Sie wollen eine Resolution im Sinne "<rs ref="#Halle" type="place">Halle</rs>" (natürlich mit Aufhebung des Aktivitätszwanges) in den
+               Berliner Philister. Sie wollen eine Resolution im Sinne "<rs ref="#tillich_place_id__189" type="place">Halle</rs>" (natürlich mit Aufhebung des Aktivitätszwanges) in den
                Wingolfsblättern veröffentlichen. Doch genug von "Geschäften".<lb/> Für die Zusendung
                des Nachrufes für Deinen <rs ref="#tillich_person_id__642" type="person">Vater</rs> herzlichen
                Dank. Welche Fülle von Trost muß in der Liebe und Verehrung liegen, die so viele für

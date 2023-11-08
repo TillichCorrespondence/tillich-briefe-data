@@ -1,9 +1,9 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00187">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00187">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Lorenz Bertheau an Paul Tillich <lb/>vom 19. August 1907</title>
-            <author ref="P00203">Lorenz Bertheau</author>
+            <author ref="#tillich_person_id__203">Lorenz Bertheau</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Paul Schömann</name>
@@ -21,7 +21,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -36,7 +36,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>Deutschland</country>
-                  <settlement ref="Marburg">Marburg</settlement>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
                   <institution>Philipps-Universität Marburg</institution>
                   <repository>Deutsches Paul-Tillich-Archiv</repository>
                   <idno>008B</idno>
@@ -59,12 +59,12 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="P00203">Lorenz Bertheau</persName>
-               <placeName ref="Bethel bei Bielefeld">Bethel bei Bielefeld</placeName>
+               <persName ref="#tillich_person_id__203">Lorenz Bertheau</persName>
+               <placeName ref="#tillich_place_id__59">Bethel bei Bielefeld</placeName>
                <date when="1907-08-19">19.08.1907</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P01930">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -82,17 +82,17 @@
             <pb n="1"/>
             <opener>
                <dateline>
-                  <rs ref="#Bethel" type="place">Bethel b/Bielefeld</rs>
+                  <rs ref="#tillich_place_id__58" type="place">Bethel b/Bielefeld</rs>
                   <date when="1907-08-19">19. 8. 07.</date> 8 <formula notation="TeX">\frac{1}{2}</formula> vorm.</dateline>
                <salute>Mein liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
             </opener>
             <p>Eben sind wir mit schruppen fertig, denn heute fängt die Schule an, und so sind wir
                schon seit 5 im Gange. Doch nun zuerst einen herzl. Glückwünsch zu Deinem Geburtstag.
                Ich wünsche Dir noch eine schöne Studienzeit u. auch Studentenzeit in
-                  <rs ref="#Berlin" type="place">Be</rs>. Hoffentl. triffst Du es nett in der Verbindung.
+                  <rs ref="#tillich_place_id__37" type="place">Be</rs>. Hoffentl. triffst Du es nett in der Verbindung.
                Immerhin bist Du da ja zu Hause u. hast so immer noch einen Rückzugsort. Ich gehe
-               mit etw. geteilten Gefühlen nach <rs ref="#Tübingen" type="place">Tü</rs>. Einerseits freue ich mich
-               auf <rs ref="#tillich_person_id__1712" type="person">Schlatter</rs> u. <rs ref="#tillich_person_id__641" type="person">Fritz</rs>, andrerseits will mir der Abschied v <rs ref="#Halle" type="place">Ha</rs> u.
+               mit etw. geteilten Gefühlen nach <rs ref="#tillich_place_id__449" type="place">Tü</rs>. Einerseits freue ich mich
+               auf <rs ref="#tillich_person_id__1712" type="person">Schlatter</rs> u. <rs ref="#tillich_person_id__641" type="person">Fritz</rs>, andrerseits will mir der Abschied v <rs ref="#tillich_place_id__189" type="place">Ha</rs> u.
                d. vielen Kerlen, d. man gern hatte, noch garnicht recht eingehen. Hier habe ich
                jetzt viel z tun u. wäh<pb n="2"/>rend der Arbeit kommt man nicht zum Nachdenken,
                jedenfalls ich nicht. Du würdest vielleicht dabei philosophieren. Es ist schade, daß
@@ -118,10 +118,10 @@
                11 z Bett. Und man wird v diesem Schuften immer müd. Außerdem fühlt man sich doch
                recht einsam unter diesen "Brüdern", d eben einem doch nicht das bieten, was man
                sucht. Ach Mann! ich möchte wohl mal einen Tag b Euch i
-                  <rs ref="#Misdroy" type="place">Misdroy</rs> sein!! Wie fein muß es da sein! Grüß mir <rs ref="#tillich_person_id__1227" type="person">Schmuhl</rs> u. Deinen <rs ref="#tillich_person_id__1295" type="person">Lbfx</rs>
+                  <rs ref="#tillich_place_id__294" type="place">Misdroy</rs> sein!! Wie fein muß es da sein! Grüß mir <rs ref="#tillich_person_id__1227" type="person">Schmuhl</rs> u. Deinen <rs ref="#tillich_person_id__1295" type="person">Lbfx</rs>
                herzl v. mir! - Gestern war ich bei <rs ref="#tillich_person_id__2185" type="person">Meyersiecks</rs> in
-               <rs ref="#Ubbedissen" type="place">Ubbedissen</rs> b
-                  <rs ref="#Hillegossen" type="place">Hillegossen</rs>. Es regnete leider den
+               <rs ref="#tillich_place_id__451" type="place">Ubbedissen</rs> b
+                  <rs ref="#tillich_place_id__210" type="place">Hillegossen</rs>. Es regnete leider den
                ganzen Tag. Aber es war recht ge<pb n="5"/>mütl. dort. D. Eltern sind richtig nett,
                bes. d. Mutter so fein u. freundl. Es war eine nette Abwechslung, von diesem Einerlei
                unter d. Blöden. D. Morgen mußte ich mit d. Vernünftigen zur Kirche, wo <unclear>P.
@@ -137,7 +137,7 @@
                sonst furchtbar, man muß sich enorm in Acht nehmen. D. Karte haben wir jetzt endl.
                gefunden. Irgend etw. zu lesen, oder sonst vernünftiges zu tun, habe ich wenig Zt. u.
                Not. Ich freue mich wüst auf zu Hause! Wenn ich nur noch mal nach
-                  <rs ref="#Halle" type="place">Halle</rs> könnte! Nun leb wohl! mein Lieber! Ich wünsche Dir
+                  <rs ref="#tillich_place_id__189" type="place">Halle</rs> könnte! Nun leb wohl! mein Lieber! Ich wünsche Dir
                nochmals v. Herzen alles Gute für Dein kommendes inhaltreiches Lebensjahr! Grüße mir
                Heini recht herzl., ich schreibe<pb n="7"/> ihm erst, wenn er mir ordentl. schreibt.
                   <rs ref="#tillich_person_id__1227" type="person">Schmuhl</rs> indessen werde ich demnächst schreiben.

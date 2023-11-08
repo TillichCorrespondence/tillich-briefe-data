@@ -1,11 +1,11 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00432">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00432">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Brief von Paul Tillich an Johannes Tillich
                     <lb/>vom 4. Mai 1915
                 </title>
-                <author ref="P01930">Paul Tillich</author>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
                 <respStmt>
                     <resp>Editor</resp>
                     <name>Friedrich Schumann</name>
@@ -22,7 +22,7 @@
                     <address>
                         <street>Schenkenstraße 8-10</street>
                         <postCode>1010</postCode>
-                        <placeName ref="Wien">
+                        <placeName ref="#tillich_place_id__470">
                             <settlement>Wien</settlement>
                             <country>Österreich</country>
                         </placeName>
@@ -36,7 +36,7 @@
                 <msDesc type="manuscript">
                     <msIdentifier>
                         <country>USA</country>
-                        <settlement ref="Cambridge">Cambdridge, MA</settlement>
+                        <settlement ref="#tillich_place_id__84">Cambdridge, MA</settlement>
                         <institution>Harvard University</institution>
                         <repository>Harvard Divinity School Library</repository>
                         <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
@@ -59,13 +59,13 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="P01930">Paul Tillich</persName>
-                    <placeName ref="Bieuxy">Bieuxy</placeName>
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__61">Bieuxy</placeName>
                     <date when="1915-05-04">04.05.1915</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="P01926">Johannes Tillich</persName>
-                    <placeName ref="Berlin">Berlin</placeName>
+                    <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+                    <placeName ref="#tillich_place_id__37">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <langUsage>
@@ -83,25 +83,25 @@
             <div type="writingSession">
                 <pb n="1"/>
                 <opener>
-                    <dateline><rs ref="#Bieuxy" type="place">Bieuxy</rs> d. <date when="1915-05-04">4. Mai. 1915</date>.</dateline>
+                    <dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs> d. <date when="1915-05-04">4. Mai. 1915</date>.</dateline>
                     <salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
                 </opener>
                 <p>Beiliegend schicke ich meinen 
                     <bibl type="letter" xml:id="L00433">kurzen Bericht an den Feldpropst</bibl>. Du kannst daraus ersehen, was wir so zu weilen schuften 
                     müssen. Nu<unclear cert="high">r</unclear> <date when="1915-05-23">Pfingsten</date> noch mal ein mächtiger Anlauf und 
                     dann in ruhigem Gleise weiter. Gestern Nachmittag kam die erste Nachricht von dem Durchbruch 
-                    in <rs ref="#Galizien" type="place">Galizien</rs><note type="ea"><rs ref="#tillich_person_id__1928" type="person">Tillich</rs> nimmt Bezug auf den den Erfolg der Mittelmächte bei <rs ref="#Gorlice" type="place">Gorlice</rs> und <rs ref="#Tarnow" type="place">Tarnów</rs> Anfang Mai an der Ostfront.</note>; 
+                    in <rs ref="#tillich_place_id__172" type="place">Galizien</rs><note type="ea"><rs ref="#tillich_person_id__1928" type="person">Tillich</rs> nimmt Bezug auf den den Erfolg der Mittelmächte bei <rs ref="#tillich_place_id__179" type="place">Gorlice</rs> und <rs ref="#tillich_place_id__431" type="place">Tarnów</rs> Anfang Mai an der Ostfront.</note>; 
                     hoffentlich ist es das, was wir hier alle denken, der Anfang vom Ende; näheres ist bis jetzt noch nicht 
                     bekannt. – Es sind hier herrliche Tage; die Natur unvergleichlich schön; aber das Beste fehlt – – – 
                     Von unserer Reise<note type="ea"><rs ref="#tillich_person_id__1928" type="person">Tillich</rs> war vom 7. bis 28. April war Heimaturlaub und nutze die Zeit für eine Reise nach Frankfurt (vgl. <bibl xml:id="L00426">Brief vom 06. April 1915</bibl>.) mit seiner Frau <rs ref="#tillich_person_id__1931" type="person">Greti</rs>.</note> wird Dir 
                     ja <rs ref="#tillich_person_id__1924" type="person">Greti</rs> erzählen. Jeder Tag war etwas 
                     Besonderes und das Ganze ein Traum, so schön, daß es kaum Wirklichkeit sein kann. Am Rhein dachte 
                     ich immer wieder an unsere damalige Reise; 
-                    von <rs ref="#Rüdesheim am Rhein" type="place">Rüdesheim</rs> sah ich herüber 
-                    nach <rs ref="#Bingerbrück" type="place">Bingerbrück</rs>, wo wir damals 
+                    von <rs ref="#tillich_place_id__379" type="place">Rüdesheim</rs> sah ich herüber 
+                    nach <rs ref="#tillich_place_id__63" type="place">Bingerbrück</rs>, wo wir damals 
                     Ohligsberger tranken. – – – <pb n="2"/>  
                     Daß <rs ref="#tillich_person_id__1931" type="person">Greti</rs> jetzt 
-                    in <rs ref="#Freiburg im Breisgau" type="place">Freiburg</rs>
+                    in <rs ref="#tillich_place_id__167" type="place">Freiburg</rs>
                     ist, wird Dir wohl Freude machen. Ich ängstige mich etwas wegen der Fliegerbomben. 
                     Sie hat Dich sehr lieb und viel Vertrauen zu Dir. Das ist mir eine sehr große Freude.</p>
                     <p>Mein Geist ist eingetrocknet wie eine Pfütze; ich weiß nicht, was das noch werden soll; 

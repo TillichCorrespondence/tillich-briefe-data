@@ -1,11 +1,11 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00399">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00399">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Brief von Paul Tillich an Johannes Tillich
                     <lb/>vom 22. Oktober 1914
                 </title>
-                <author ref="P01930">Paul Tillich</author>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
                 <respStmt>
                     <resp>Editor</resp>
                     <name>Emil Lusser</name>
@@ -22,7 +22,7 @@
                     <address>
                         <street>Schenkenstraße 8-10</street>
                         <postCode>1010</postCode>
-                        <placeName ref="Wien">
+                        <placeName ref="#tillich_place_id__470">
                             <settlement>Wien</settlement>
                             <country>Österreich</country>
                         </placeName>
@@ -59,12 +59,12 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="P01930">Paul Tillich</persName>
-                    <placeName ref="Bieuxy">Bieuxy</placeName>
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__61">Bieuxy</placeName>
                     <date when="1914-10-22">22.10.1914</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="P01926">Johannes Tillich</persName>
+                    <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
                 </correspAction>
             </correspDesc>
             <langUsage>
@@ -83,7 +83,7 @@
             <div type="writingSession1">
                 <pb n="1"/>
                 <opener>
-                    <dateline><rs ref="#Bieuxy" type="place">Bieuxy</rs>, den <date when="1914-10-22">22.Okt.</date></dateline>
+                    <dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, den <date when="1914-10-22">22.Okt.</date></dateline>
                 </opener>
                 <p>Eben vor <rs ref="#tillich_person_id__2322" type="person">Exzellenz</rs> und 5 Pastoren unter dem Donner der Kanonen, der die Fenster erzittern ließ, ein Referat über die religiöse Bedeutung der Mystik gehalten und angegriffen worden. Nachherr Besprechungen über praktische Fragen. Sonst alles beim Alten. Heut wieder helles Wetter. Gestern zwei Gottesdienste. Immer zu Roß. Gaul vortrefflich.
                 </p>

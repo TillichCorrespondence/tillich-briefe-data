@@ -1,11 +1,11 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00418">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00418">
   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Paul Tillich an Johannes Tillich
                <lb/>vom 8. Januar 1915
             </title>
-            <author ref="P01930">Paul Tillich</author>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Leopold Potyka</name>
@@ -22,7 +22,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -36,7 +36,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="Cambridge">Cambridge</settlement>
+                  <settlement ref="#tillich_place_id__84">Cambridge</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library </repository>
                   <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
@@ -59,11 +59,11 @@
      <profileDesc>
         <correspDesc>
            <correspAction type="sent">
-              <persName ref="P01930">Paul Tillich</persName>
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
               <date when="1915-01-08">08.01.1915</date>
            </correspAction>
            <correspAction type="received">
-              <persName ref="P01926">Johannes Tillich</persName>
+              <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
            </correspAction>
         </correspDesc>
         <langUsage>

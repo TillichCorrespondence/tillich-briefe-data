@@ -1,11 +1,11 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00400">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00400">
   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Karl Hartz an Paul Tillich
                <lb/>vom 23. Oktober 1914
             </title>
-            <author ref="P00742">Karl Hartz</author>
+            <author ref="#tillich_person_id__742">Karl Hartz</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Leopold Potyka</name>
@@ -22,7 +22,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -36,7 +36,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="Cambridge">Cambridge</settlement>
+                  <settlement ref="#tillich_place_id__84">Cambridge</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
@@ -59,12 +59,12 @@
      <profileDesc>
         <correspDesc>
            <correspAction type="sent">
-              <persName ref="P00742">Karl Hartz</persName>
-              <placeName ref="Polen">Westpolnische Front</placeName>
+              <persName ref="#tillich_person_id__742">Karl Hartz</persName>
+              <placeName ref="#tillich_place_id__351">Westpolnische Front</placeName>
               <date when="1914-10-23">23.10.1914</date>
            </correspAction>
            <correspAction type="received">
-              <persName ref="P01930">Paul Tillich</persName>
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
            </correspAction>
         </correspDesc>
         <langUsage>
@@ -82,7 +82,7 @@
      <div type="writingSession">
         <pb n="1"/>
         <opener>
-           <dateline> <rs ref="#Polen" type="place">Auf dem Felde</rs><note type="ea">Karl Hartz war Soldat an der Ostfront in Westpolen. Das ergibt sich aus der <bibl type="letter" xml:id="L00413">Postkarte von Karl Hartz an Paul Tillich vom 27. Dezember 1914</bibl>.</note> am <date when="1914-10-23">23.10.14.</date></dateline>
+           <dateline> <rs ref="#tillich_place_id__351" type="place">Auf dem Felde</rs><note type="ea">Karl Hartz war Soldat an der Ostfront in Westpolen. Das ergibt sich aus der <bibl type="letter" xml:id="L00413">Postkarte von Karl Hartz an Paul Tillich vom 27. Dezember 1914</bibl>.</note> am <date when="1914-10-23">23.10.14.</date></dateline>
            <salute>Herr <rs ref="#tillich_person_id__1928" type="person">Konsistorialrat Tillich</rs>!</salute>
         </opener>
         <p>Sage hiermit meinen herzlichsten Dank für Ihre Liebe die Sie mir erwiesen haben. Freute mich sehr das ich wieder Tabak hatte konnte schon 3 Tage nicht mehr rauchen und das ist sehr schlimm, wenn man schon 9 Tage im Gefecht liegt und <del rend="s">muß</del> so schmachten muß, wenn wir in Kartoffeln gelegen hätten hätte ich Kartoffelkraut geraucht aber auch das war nicht vorhanden. Aber der liebe Gott sorgt doch immer wieder für uns und das <add place="superlinear">man</add> sein Walten hier im Kriege eher merkt als im Frieden habe ich auch schon gemerkt. Der Krieg ist garnicht so schlecht, nur darf er nicht so lange dauern man kommt sich garnicht mehr so vor als ein Mensch wenn man immer im <sic>Schützgraben</sic> Tag und Nacht liegen muß und nicht richtig zu eßen hat nur des Abends wenn es dunkel wird muß man 1 Stunde lang gehen und sich im Kochgeschirr von der Feldküche<pb n="2"/>

@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00841">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Verlag Mohr Siebeck
+               <lb/>vom 30. November 1924
+            </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="Postkarte">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Archiv des Verlages J. C. B. Mohr (Paul Siebeck)</collection>
+                  <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>   
+               </msIdentifier>
+               <physDesc>
+                  <p>handschriftlich</p>
+                  </physDesc>   
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal" n="firstPrint">
+                        <monogr>
+                           <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
+                           <title>"Beweise einer unsichtbaren Beziehung". Die Korrespondenz zwischen Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace><pubPlace ref="#tillich_place_id__71">Boston, MA</pubPlace>
+                              <date when="2011">2011</date>
+                              <biblScope>237-407, hier: 273</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>International Yearbook for Tillich Research</title>
+                           <biblScope>Bd. 6, H. 1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__280">Marburg a. d. L.</placeName>
+              <date when="1924-11-30">30.11.1924</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__2440">Verlag Mohr Siebeck</persName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="SK" when="2023-06-27">Intitale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2023-11-02">Endabnahme</change>
+        
+     </revisionDesc>
+  </teiHeader>
+  <text type="postcard">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <p><rs ref="#tillich_place_id__280" type="place">Marbg. Sybelstr. 6</rs></p><pb n="2"/>
+        <p><rs ref="#tillich_place_id__280" type="place">Marburg, Rotenberg 11a</rs></p>
+        <p>Die zwei ersten Freiexemplare erhielt ich, und bitte gleichzeitig um Zusendung der übrigen 18 an meine Adresse.
+        </p>
+        <closer>
+           <salute>Mit ergebenstem Dank,</salute>
+           <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich.</rs></signed>
+           <lb/><add place="sublinear">angew. <date when="1924-12-01">1. XII. 24.</date></add><note type="ea">handschriftliche Notiz</note> 
+        </closer>     
+      
+     </div>
+    </body>
+  </text>
+</TEI>

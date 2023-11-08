@@ -1,9 +1,9 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00258">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00258">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Gilbert van der Smissen an Paul Tillich <lb/>vom 1. Januar 1908</title>
-            <author ref="P01986">Gilbert van der Smissen</author>
+            <author ref="#tillich_person_id__1982">Gilbert van der Smissen</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Paul Schömann</name>
@@ -21,7 +21,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -36,7 +36,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
@@ -60,12 +60,12 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="P01986">Gilbert van der Smissen</persName>
-               <placeName ref="Stellingen">Stellingen</placeName>
+               <persName ref="#tillich_person_id__1982">Gilbert van der Smissen</persName>
+               <placeName ref="#tillich_place_id__414">Stellingen</placeName>
                <date when="1908-01-01">01.01.1908</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P01930">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -83,24 +83,24 @@
             <pb n="1"/>
             <opener>
                <dateline>
-                  <rs ref="#Stellingen" type="place">Stellingen</rs>, d. <date when="1908-01-01">1. I.
+                  <rs ref="#tillich_place_id__414" type="place">Stellingen</rs>, d. <date when="1908-01-01">1. I.
                   08.</date></dateline>
                <salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
             </opener>
             <p>Wenn ich mich über einen Brief freue, pflege ich ihn möglichst schnell zu
                beantworten. Also ich danke Dir vielmals. Also vom Reisen über
-                  <rs ref="#Berlin" type="place">Berlin</rs> ist nicht die Rede, hingegen fahre ich über
-                  <rs ref="#Hildesheim" type="place">Hildesheim</rs> und treffe dort mit <rs ref="#tillich_person_id__2147" type="person">H.
+                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs> ist nicht die Rede, hingegen fahre ich über
+                  <rs ref="#tillich_place_id__209" type="place">Hildesheim</rs> und treffe dort mit <rs ref="#tillich_person_id__2147" type="person">H.
                   Vethake</rs> zusammen, den ich auf diese vornehme Weise zu genießen denke.
-               Zwar kenne ich <rs ref="#Hildesheim" type="place">Hildesheim</rs> vom vorigen Ostern her (<rs ref="#tillich_person_id__2091" type="person">Witte</rs>, <rs ref="#tillich_person_id__128" type="person">Balke</rs>), aber das
+               Zwar kenne ich <rs ref="#tillich_place_id__209" type="place">Hildesheim</rs> vom vorigen Ostern her (<rs ref="#tillich_person_id__2091" type="person">Witte</rs>, <rs ref="#tillich_person_id__128" type="person">Balke</rs>), aber das
                Nest ist so begabt, wo jedes Gebaute der Ausdruck der eigenen inneren Überzeugung
                usw. (s. Dogmatik <rs ref="#tillich_person_id__2091" type="person">Witte</rs>) Was Du schriebst: ist es
                deshalb weil Du glaubst, daß ich es besonders nötig habe, ich glaube es ist so daß Du
-               über <rs ref="#Halle" type="place">Halle</rs> allmählich als über etwas außerhalb Dir seiendes
+               über <rs ref="#tillich_place_id__189" type="place">Halle</rs> allmählich als über etwas außerhalb Dir seiendes
                nachdenkst, und da manche Fehler entdeckst, die das ganze Bild trüben wollen.
                Merkwürdigerweise bist Du nicht der einzige, es gibt viele solche Leute in
-               <rs ref="#Halle" type="place">Ha</rs>, die immer deutlicher sehen, daß bei allem vielen, was
-               sich der Kosten schon lohnt, das man aus <rs ref="#Halle" type="place">Ha</rs> mitnimmt, man
+               <rs ref="#tillich_place_id__189" type="place">Ha</rs>, die immer deutlicher sehen, daß bei allem vielen, was
+               sich der Kosten schon lohnt, das man aus <rs ref="#tillich_place_id__189" type="place">Ha</rs> mitnimmt, man
                abgeschnitten lebt von der europäischen Kultur, ich meine wenn wir uns mit China
                vergleichen, das auch eine ausgeprägte Kultur hat aber jede Produktivität ist
                verloren. Doch ich will Deinen Brief nicht wiederkäuen. Der Boden den Du bei mir
@@ -118,29 +118,29 @@
                andrerseits der andern Fakultät wegen 3) weil er überhaupt ganz anders die Sache
                anfaßt d.h. er hat eine zu gründliche Vorbildung, um zu sehen, wo ich mit meinen
                unerhört geringen Voraussetzungen anfangen muß. Ob ich diesen Zustand in
-               <rs ref="#Halle" type="place">Ha</rs> noch überwinde, ist mir mehr als fraglich, die Luft in
-               <rs ref="#Halle" type="place">Ha</rs> ist dazu nicht gut. Vielleicht macht da was die berühmte
+               <rs ref="#tillich_place_id__189" type="place">Ha</rs> noch überwinde, ist mir mehr als fraglich, die Luft in
+               <rs ref="#tillich_place_id__189" type="place">Ha</rs> ist dazu nicht gut. Vielleicht macht da was die berühmte
                Berliner Luft, "Berliner" unterstrichen. Auf Wiedersehen im nächsten Semester! Das
-               Verhältnis der Punkte von <rs ref="#Tübingen" type="place">Tübingen</rs> u.
-                  <rs ref="#Berlin" type="place">Berlin</rs> bewegt sich im Quadrat d. Entfernung des
+               Verhältnis der Punkte von <rs ref="#tillich_place_id__449" type="place">Tübingen</rs> u.
+                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs> bewegt sich im Quadrat d. Entfernung des
                Semesterschlusses immer schneller von 100:1 bis 1:100. Also wenn ich im nächsten Sem.
-               nach <rs ref="#Berlin" type="place">Berlin</rs> komme? In <rs ref="#Halle" type="place">Ha</rs> habe ich für
+               nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> komme? In <rs ref="#tillich_place_id__189" type="place">Ha</rs> habe ich für
                meine Dekanatsprüfungen (14 Tage wissenschaftlicher !! Arbeit) die nötige materielle
-               Unterstützung genossen, so daß ich recht gut auskam. In <rs ref="#Berlin" type="place">Berlin</rs>
-               fällt manches fort, oder gibt es in <rs ref="#Berlin" type="place">Be</rs>. auch solche Institute.
+               Unterstützung genossen, so daß ich recht gut auskam. In <rs ref="#tillich_place_id__37" type="place">Berlin</rs>
+               fällt manches fort, oder gibt es in <rs ref="#tillich_place_id__37" type="place">Be</rs>. auch solche Institute.
                Wenn Du darüber etwas weißt, so kannst Du mir das mal schreiben Bedingungen usw? Ob
                ich deswegen aktiv werden kann ist die Frage. Voraussichtl. werde ich es wieder in
-                  <rs ref="#Kiel" type="place">Kiel</rs> wo ich (<foreign xml:lang="lat">me miserum</foreign>!)
+                  <rs ref="#tillich_place_id__238" type="place">Kiel</rs> wo ich (<foreign xml:lang="lat">me miserum</foreign>!)
                landen muß. Es ist mir eigentlich nicht gerade angenehm im S.8. nach
-                  <rs ref="#Berlin" type="place">Be.</rs> zu gehen<pb n="3"/> aber von <rs ref="#Halle" type="place">Ha</rs> muß ich ich fort, daß
-               ist mir außerordentlich klar und in <rs ref="#Tübingen" type="place">Tü.</rs> glaube ich bekommt man
+                  <rs ref="#tillich_place_id__37" type="place">Be.</rs> zu gehen<pb n="3"/> aber von <rs ref="#tillich_place_id__189" type="place">Ha</rs> muß ich ich fort, daß
+               ist mir außerordentlich klar und in <rs ref="#tillich_place_id__449" type="place">Tü.</rs> glaube ich bekommt man
                nicht viel Neues, womit ich nicht <rs ref="#tillich_person_id__1712" type="person">Schlatter</rs> meine,
                aber überhaupt. China!! Was du auf der letzten Seite Deines Briefs sagst, war mir
                eigentlich neu, s. nur Ausdruck dafür, wofür man einen Begriff suchte: daß man auch
                für sein persönlichstes Leben als Voraussetzung Arbeit, die ihr Recht hat, haben muß.
                Aber das Wie?</p>
             <p>Tatsachen: Eigentlich habe ich bis jetzt nur über Tatsachen geschrieben. Aus
-                  <rs ref="#Halle" type="place">Halle</rs> wirst du voraussichtlich neulich von <rs ref="#tillich_person_id__128" type="person">Hans Balke</rs> genug erfahren haben, er beurteilt im
+                  <rs ref="#tillich_place_id__189" type="place">Halle</rs> wirst du voraussichtlich neulich von <rs ref="#tillich_person_id__128" type="person">Hans Balke</rs> genug erfahren haben, er beurteilt im
                allgemeinen wohl günstiger. Der Kerl als Konhaus ist rührend. Sonst ist alles was ich
                berichten könnte nur, daß endlich Eis ist und ich meine langen Beine kräftig um die
                Gegend schwenke auf dem Teich des hiesigen Krüppelheims, wo außer mir diejenigen
@@ -162,7 +162,7 @@
                sehnt. Abgesehen von dieser Eigenschaft des Verursachers <hi rend="sup">vieler
                   Feiern</hi>, wie er sein soll ein "Techniker" - der diesbezügl. Bräutigam nämlich.
                Wenn Du Dich dazu aufschwingen kannst, so schreibe mal wieder u. komme im Semester
-               mal nach <rs ref="#Halle" type="place">Halle</rs>, wo die Braven gedeihen.</p>
+               mal nach <rs ref="#tillich_place_id__189" type="place">Halle</rs>, wo die Braven gedeihen.</p>
             <closer>
                <salute>Grüß die Bande! <foreign xml:lang="lat">Vivas, crescas, floreas!</foreign></salute>
                <signed>Herzlich Dein <rs ref="#tillich_person_id__1982" type="person">Gysbert</rs>.</signed>

@@ -1,9 +1,9 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00152">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00152">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Postkarte von Hermann Schafft an Paul Tillich <lb/>vom 26. März 1907 </title>
-            <author ref="P01697">Hermann Schafft</author>
+            <author ref="#tillich_person_id__1696">Hermann Schafft</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Paul Schömann</name>
@@ -21,7 +21,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -36,7 +36,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>Deutschland</country>
-                  <settlement ref="Marburg">Marburg</settlement>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
                   <institution>Philipps-Universität Marburg</institution>
                   <repository>Deutsches Paul-Tillich-Archiv</repository>
                   <idno>008G</idno>
@@ -59,11 +59,11 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="P01697">Hermann Schafft</persName>
+               <persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
                <date when="1907-03-26">26.03.1907</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P01930">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -91,7 +91,7 @@
             <opener>L. <rs ref="#tillich_person_id__1928" type="person">P.</rs>-</opener>
             <p>Meine Absicht bis heute mit dem Absenden der Karte zu warten - ist belohnt.. Es ist
                nett, daß Du schreibst.. <hi rend="uu">Schon</hi> Dich doch nur ja sehr!!!! Hier ist
-               herrlicher Frühling - beinahe wird man faul!.. Daß <rs ref="#tillich_person_id__1050" type="person">Albert</rs> nach <rs ref="#Berlin" type="place">Be.</rs> geht halte ich in einer Art <hi rend="u">für ausgezeichnet</hi>, doch sind Bedenken da: <foreign xml:lang="lat">pecunia</foreign> pp. Das ist doch
+               herrlicher Frühling - beinahe wird man faul!.. Daß <rs ref="#tillich_person_id__1050" type="person">Albert</rs> nach <rs ref="#tillich_place_id__37" type="place">Be.</rs> geht halte ich in einer Art <hi rend="u">für ausgezeichnet</hi>, doch sind Bedenken da: <foreign xml:lang="lat">pecunia</foreign> pp. Das ist doch
                nicht so einfach zu machen. Auch ist ihm u. dem Berliner Wingolf das "Dort-Sein"
                nicht <hi rend="u">schädlich</hi>. Freilich ist Gesundheit bei ihm u. nicht zu große
                Borstigkeit auf der andern Seite - nötig. Sonst ist das x werden immer mal sehr

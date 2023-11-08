@@ -1,10 +1,10 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00416">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00416">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Postkarte von Paul Tillich an Margarete Tillich
                <lb/>vom Mai/Juni 1915 </title>
-            <author ref="P01930">Paul Tillich</author>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Paul Schömann</name>
@@ -22,7 +22,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -37,7 +37,7 @@
             <msDesc type="typoscript">
                <msIdentifier>
                   <country>Deutschland</country>
-                  <settlement ref="Marburg">Marburg</settlement>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
                   <institution>Philipps-Universität Marburg</institution>
                   <repository>Deutsches Paul-Tillich-Archiv</repository>
                   <idno>008 A</idno>
@@ -60,12 +60,12 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="P01930">Paul Tillich</persName>
-               <placeName ref="ohne Ort">ohne Ort</placeName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__484">ohne Ort</placeName>
                <date notBefore="1915-05-01" notAfter="1915-06-30">Mai/Juni 1915</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P01927">Margarete Tillich</persName>
+               <persName ref="#tillich_person_id__1925">Margarete Tillich</persName>
             </correspAction>
          </correspDesc>
          <langUsage>

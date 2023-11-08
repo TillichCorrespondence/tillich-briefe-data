@@ -1,9 +1,9 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00055">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00055">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Johannes Tillich an Paul Tillich <lb/>vom 12. Mai 1905</title>
-            <author ref="P01926">Johannes Tillich</author>
+            <author ref="#tillich_person_id__1924">Johannes Tillich</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Paul Schömann</name>
@@ -21,7 +21,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -36,7 +36,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
@@ -60,11 +60,11 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="P01926">Johannes Tillich</persName>
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
                <date when="1905-05-12">12.05.1905</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P01930">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -89,7 +89,7 @@
                sonst in d. späteren Semestern ins Gedränge. – Der eine <unclear><rs ref="#tillich_person_id__2037" type="person">Werdermann</rs></unclear> hat vor 2 Jahren
                Besuch bei mir gemacht. Ich konnte ihn nicht einladen, da <rs ref="#tillich_person_id__1929" type="person">Mama</rs> bald darauf krank
                wurde. Sage ihm das mit meinem Gruß.- Macht Ihr schon Pläne für d. Wartburgreise? Bei
-               Dir findet diesmal die Eisenacher Konferenz<note type="ea">Die Eisenacher Konferenzen zwischen 1902 und 1904 dienten der Verständigung und Vernetzung der Gnadauer Bewegung mit den Landeskirchen. Auf dieser Grundlage wurde 1905 die Eisenacher Bewegung initiiert, welche aus einem Zusammenschluss modern-positiver Pfarrer und Professoren bestand, welche sich u.a. kritisch mit der angloamerikanischen Heiligkeitsbewegung auseinandersetzten. Zu den Hauptakteuren der Bewegung bis ins Jahr 1912 zählen, neben <rs ref="#tillich_person_id__1924" type="person">Johannes Tillich</rs>, auch <rs ref="#tillich_person_id__1928" type="person">Paul Tillichs</rs> akademische Lehrer <rs ref="#tillich_person_id__1712" type="person">Adolf Schlatter</rs>, <rs ref="#tillich_person_id__1227" type="person">Wilhelm Lütgert</rs>, <rs ref="#tillich_person_id__1013" type="person">Martin Kähler</rs> und <rs ref="#tillich_person_id__258" type="person">Karl Bornhäuser</rs>. Vgl. <bibl type="book">Ferderer, E.: »Vernetzungen im konservativ-erwecklichen Protestantismus um 1900 – Ein netzwerkanalytischer Beitrag zur Neupietismusforschung«, in: Lüdke, F. (Hg.)/Schmidt, N. (Hg.), »Kopf und Herz vereint zusammen. Grundlinien pietistischer Hochschulbildung«, Darmstadt 2023, 52–71.</bibl></note> in <rs ref="#Kösen" type="place">Kösen</rs> statt. So weiß ich noch
+               Dir findet diesmal die Eisenacher Konferenz<note type="ea">Die Eisenacher Konferenzen zwischen 1902 und 1904 dienten der Verständigung und Vernetzung der Gnadauer Bewegung mit den Landeskirchen. Auf dieser Grundlage wurde 1905 die Eisenacher Bewegung initiiert, welche aus einem Zusammenschluss modern-positiver Pfarrer und Professoren bestand, welche sich u.a. kritisch mit der angloamerikanischen Heiligkeitsbewegung auseinandersetzten. Zu den Hauptakteuren der Bewegung bis ins Jahr 1912 zählen, neben <rs ref="#tillich_person_id__1924" type="person">Johannes Tillich</rs>, auch <rs ref="#tillich_person_id__1928" type="person">Paul Tillichs</rs> akademische Lehrer <rs ref="#tillich_person_id__1712" type="person">Adolf Schlatter</rs>, <rs ref="#tillich_person_id__1227" type="person">Wilhelm Lütgert</rs>, <rs ref="#tillich_person_id__1013" type="person">Martin Kähler</rs> und <rs ref="#tillich_person_id__258" type="person">Karl Bornhäuser</rs>. Vgl. <bibl type="book">Ferderer, E.: »Vernetzungen im konservativ-erwecklichen Protestantismus um 1900 – Ein netzwerkanalytischer Beitrag zur Neupietismusforschung«, in: Lüdke, F. (Hg.)/Schmidt, N. (Hg.), »Kopf und Herz vereint zusammen. Grundlinien pietistischer Hochschulbildung«, Darmstadt 2023, 52–71.</bibl></note> in <rs ref="#tillich_place_id__246" type="place">Kösen</rs> statt. So weiß ich noch
                garnicht, wie es mit meiner Pfingstreise werden wird. – Den Sommer-Reiseplan habe ich
                weiter überlegt. <rs ref="#tillich_person_id__2240" type="person">Onkel Walz</rs> u. <rs ref="#tillich_person_id__644" type="person">Johanna</rs> werden 14 Tage sich anschließen. – Im Garten
                sprenge ich jetzt; Tante <rs ref="#tillich_person_id__2085" type="person">Toni</rs> streicht die <unclear>Umgebung</unclear>. Behüte dich Gott mein Junge <unclear>ja unser</unclear>; Wir freuen uns auf d. Brief. – </p>

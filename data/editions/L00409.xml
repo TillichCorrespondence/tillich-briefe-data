@@ -1,11 +1,11 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00409">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00409">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Brief von Paul Tillich an Johannes Tillich
                     <lb/>vom 05. Dezember 1914
                 </title>
-                <author ref="P01930">Paul Tillich</author>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
                 <respStmt>
                     <resp>Editor</resp>
                     <name>Friedrich Schumann</name>
@@ -22,7 +22,7 @@
                     <address>
                         <street>Schenkenstraße 8-10</street>
                         <postCode>1010</postCode>
-                        <placeName ref="Wien">
+                        <placeName ref="#tillich_place_id__470">
                             <settlement>Wien</settlement>
                             <country>Österreich</country>
                         </placeName>
@@ -36,7 +36,7 @@
                 <msDesc type="manuscript">
                     <msIdentifier>
                         <country>USA</country>
-                        <settlement ref="Cambridge">Cambdridge, MA</settlement>
+                        <settlement ref="#tillich_place_id__84">Cambdridge, MA</settlement>
                         <institution>Harvard University</institution>
                         <repository>Harvard Divinity School Library</repository>
                         <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
@@ -59,11 +59,11 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="P01930">Paul Tillich</persName>
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
                     <date when="1914-12-05">05. Dezember 1914</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="P01926">Johannes Tillich</persName>
+                    <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
                 </correspAction>
             </correspDesc>
             <langUsage>
@@ -82,7 +82,7 @@
                 <pb n="1"/>
                 <opener><salute>L. <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!<note type="eb">Das Datum des Briefes bezieht sich auf eine Notiz auf dem abgetippten Typoskript im Deutschen Tillich-Archiv in Marburg: „Datum des Umschlags 5.12.(1914)“ Der Umschlag liegt allerdings nicht vor!</note></salute></opener>
                     <p>Eben nach 10-stündiger Arbeit zurück. Schicke schnell noch die Unterschrift. 
-                        Drei Abendmahlsfeiern in einer Höhle hinter den Schützengräben vor <rs ref="#Soissons" type="place">Soissons</rs>. 
+                        Drei Abendmahlsfeiern in einer Höhle hinter den Schützengräben vor <rs ref="#tillich_place_id__404" type="place">Soissons</rs>. 
                         Die Mitte kreisförmig eingestürzt bildete eine Kuppel mit dem Himmel als Abschluß. Der Einsturzhaufe war in eine prachtvolle Kanzel verwandelt. 
                         Und rings herum in den Grotten zwischen den gewaltigen Pfeilern die Soldaten. Was ist der Dom <pb n="2"/> gegen dieses Gottesdiensthaus? 
                             Wir hatten um 10 12 und 3 je eine Feier, im Ganzen 1000 Mann; sie konnten nur immer <formula notation="TeX">\frac{1}{3}</formula> 

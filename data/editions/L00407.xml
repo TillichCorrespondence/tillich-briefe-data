@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00407">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00407">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -22,7 +22,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -37,7 +37,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
@@ -62,11 +62,11 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="Paul Tillich">Paul Tillich</persName>
-               <placeName ref="Bieuxy">Bieuxy</placeName>
+               <placeName ref="#tillich_place_id__61">Bieuxy</placeName>
                <date when="1914-12-12">12. Dezember 1914</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P01926">Johannes Tillich</persName>
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -83,15 +83,15 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline><rs ref="#Bieuxy" type="place">Bieuxy</rs>, d. <date when="1914-12-12">12.
+               <dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, d. <date when="1914-12-12">12.
                      Dez. 1914</date><note type="ea">Das Datum ist nicht deutlich zu lesen. Die Karte könnte auch vom <date when="1914-12-02">2. Dezember</date> sein.</note></dateline>
                <salute>L. <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
             </opener>
             <p>Wie <rs ref="#tillich_person_id__1762" type="person">El.</rs> schreibt, bist Du in die
                Generalsynode gewählt. Ich freue mich sehr darüber und gratuliere Dir herzlich! Ich
                möchte die positiven und liberalen Parteischreier einmal nehmen, über das
-               Granatenfeld bei <rs ref="#Pasly" type="place">Pasly</rs> führen, und dann in die
-               Höhle von <rs ref="#Nouvron" type="place">Nouvron</rs>, vor die 36<hi rend="sup">er</hi> stellen, nachdem sie 20 Stunden lang stündlich 1000 Granaten bekommen
+               Granatenfeld bei <rs ref="#tillich_place_id__344" type="place">Pasly</rs> führen, und dann in die
+               Höhle von <rs ref="#tillich_place_id__325" type="place">Nouvron</rs>, vor die 36<hi rend="sup">er</hi> stellen, nachdem sie 20 Stunden lang stündlich 1000 Granaten bekommen
                haben; ich glaube, da würde manchen manches vergehen und sich zeigen, was in
                Wirklichkeit <hi rend="aq">articulus stantis et cadentis ecclesiae</hi> ist! Sicher
                nicht das, was diese Schreier meinen! Nichts gar nichts als die heilige und

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00824">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von <persName ref="#tillich_person_id__1928">Paul Tillich</persName> an <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                    <lb/>vom <date when="1924-07-18">18. Juli 1924 [PS]</date>
+                </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Emil Lusser</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="Postkarte">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                        <idno>bMS 721/2(20)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>handschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__449">Tübingen</placeName>
+                    <date when="1924-07-18">18.07.1924</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                    <address><placeName ref="#tillich_place_id__280">Marburg a. d. L.
+                        <lb/>Sybelstr. 6</placeName></address>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="EL" when="2023-07-11">Intitale Auszeichnung des Transkripts</change>
+            <change who="FS" when="2023-10-30">Endabnahme</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="postcard">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebster <rs ref="#tillich_person_id__1923" type="person">Matz</rs>!<note type="ea">Siehe auch den <bibl type="letter" resp="L00822">Brief</bibl> Paul Tillichs an Hannah Tillich vom 5. Juli 1924.</note></salute>
+                </opener>
+                <p>Das erste was mich hier empfing, war Dein Telegramm<note type="ea">Dieses Telegramm ist nicht erhalten.</note> und – <rs ref="#tillich_person_id__1516" type="person">Pölchau</rs>. Er hat sich zu meinem Manager herangebildet, bestimmt mit einem Notizbuch die Verwendung jeder Stunde bis <del rend="s">morgen</del><add place="superlinear">Sonntag</add>früh! Dazu Schlafen und Essen. Eben hat er mich sogar abgelichtet! – – –</p>
+                <p>Hier umgeben mich merkwürdige Erinnerungen von vor 20 Jahren<note type="ea">Tillich hatte im Wintersemester 1905 in Tübingen studiert.</note>; und dann – finde ich es so merkwürdig und so herrlich, daß Du <pb n="2"/>da bist! - - Also <date when="1924-07-20">Sonntag</date> <unclear>Ab<abbr>en</abbr>d</unclear> um 12! – 
+                </p>
+                <closer>
+                    D. <signed><rs ref="#tillich_person_id__1928" type="person">P..<abbr>aulch</abbr>en</rs></signed><lb/>
+                    <salute>Herzl. Gruß</salute><note type="ea">In anderer (Harald Poelchaus) Handschrift.</note><lb/>
+                    <signed><rs ref="#tillich_person_id__1516" type="person">Harald Poelchau</rs></signed>.
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

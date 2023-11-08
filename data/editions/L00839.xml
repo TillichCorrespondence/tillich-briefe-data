@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00839">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich  an den Verlag Vandenhoeck &amp; Ruprecht
+               <lb/>vom 21. November 1924
+            </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="Postkarte">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <repository>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Archiv des Verlages Vandenhoeck &amp; Ruprecht - Autorenkorrespondenz/G 1888-1936</collection>
+                  <idno>Nachl. 494, G 1923. 138; 493-517</idno>   
+               </msIdentifier>
+               <physDesc>
+                  <p>maschinenschriftlich, Unterstreichungen des Empfängers</p>
+                  </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal">
+                        <monogr>
+                           <author>Friedrich Wilhelm Graf</author>
+                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__53">Berlin/Boston</pubPlace>
+                              <date when="2020">2020</date>
+                              <biblScope>S. 26–170, hier: 141f.</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Zeitschrift für Neuere Theologiegeschichte</title>
+                           <biblScope>27/1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>               
+            </msDesc>            
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__37">Berlin</placeName>
+              <date when="1924-11-21">21.11.1924</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__2301">Verlag Vandenhoeck &amp; Ruprecht</persName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="SK" when="2023-03-17">Intitale Auszeichnung des Transkripts</change>
+        <change who="SK" when="2023-04-04">Referenznummer für Instiution(Verlag Vandenhoeck &amp; Ruprecht) eingetragen</change>
+        <change who="FS" when="2023-10-31">Endabnahme</change>       
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+
+        <p>Darf ich Sie bitten, auf meine Rechnung ein Exemplar meines <bibl type="monograph" resp="Tillich, Das System der Wissenschaften nach Gegenständen und Methoden. Ein Entwurf von Paul Tillich, Göttingen (Vandenhoeck &amp; Ruprecht) 1923, bzw. Tillich, Das System der Wissenschaften nach Gegenständen und Methoden, in ders., Frühe Hauptwerke (Gesammelte Werke I), Stuttgart, 2. Auflage 1959, 109-293">Systems der Wissenschaften</bibl> zu senden an Frl. <hi rend="u"><rs ref="#tillich_person_id__2085" type="person">Toni Winckler</rs></hi>, bei Geheimrat <rs ref="#tillich_person_id__2296" type="person">Neumeister</rs> <rs ref="#tillich_place_id__416" type="place">Stettin</rs>, Arndtstrasse 25. Gleichzeitig bitte ich um Zusendung von 2 Exemplaren an mich, <rs ref="#tillich_place_id__280" type="place"><hi rend="u">Marburg</hi> a.d. Lahn</rs> Rotenberg 11 a.         
+        </p>
+        <closer>
+           <salute>Ergebenst</salute>
+           <signed>Professor <rs ref="#tillich_person_id__1928" type="person">Dr. Tillich</rs></signed><lb/><add place="right" resp="unknown">5,50 3 x 3,57
+              Verfasserpr[eis] 10,71 [+ 0,20 0,30 Summe] 11.21.</add>
+        </closer>
+     </div>
+    </body>
+  </text>
+</TEI>

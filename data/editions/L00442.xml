@@ -1,10 +1,10 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00442">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00442">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Paul Tillich an Marie Tillich und Margarete Tillich <lb/>vom 27. Juni
                1915 </title>
-            <author ref="P01930">Paul Tillich</author>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Leopld Potyka</name>
@@ -22,7 +22,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -37,7 +37,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library </repository>
                   <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
@@ -61,13 +61,13 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="P01930">Paul Tillich</persName>
-               <placeName ref="Juvigny (Aisne)">Juvigny</placeName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__228">Juvigny</placeName>
                <date when="1915-06-27">27.06.1915</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P01932">Marie Tillich</persName>
-               <persName ref="P01927">Margarete Tillich</persName>
+               <persName ref="#tillich_person_id__1930">Marie Tillich</persName>
+               <persName ref="#tillich_person_id__1925">Margarete Tillich</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -84,7 +84,7 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline><rs ref="#Juvigny (Aisne)" type="place">Juvigny</rs> d.<date when="1915-06-27">27. Juni 1915</date>.</dateline>
+               <dateline><rs ref="#tillich_place_id__228" type="place">Juvigny</rs> d.<date when="1915-06-27">27. Juni 1915</date>.</dateline>
                <salute>Mein liebes <rs ref="#tillich_person_id__1930" type="person">Großmütterlein</rs>, liebe <rs ref="#tillich_person_id__1925" type="person">Tante Grete</rs>!</salute>
             </opener>
             <p>Zwei großer Sünden bin ich mir inzwischen bewußt geworden, zweier Sünden, die ich
@@ -95,7 +95,7 @@
                nur dadurch erinnert wurde, daß ich pünktlich 3 Tage vorher eine Nachricht bekam:
                Also nun schreibe Deinen Geburtstagsbrief an mich! Als vorsichtige Leute hättet Ihr
                das auch so machen sollen dann wäre pünktlich die Antwort gekommen… na nächstes Jahr,
-               wenn wir hoffentlich 20 km näher an <rs ref="#Paris" type="place">Paris</rs> stehen,
+               wenn wir hoffentlich 20 km näher an <rs ref="#tillich_place_id__343" type="place">Paris</rs> stehen,
                macht Ihrs so…</p>
             <p>Aus meinen Briefen werdet Ihr ersehen haben, daß es mir schloßherrlich geht: Ich habe
                ein Château zur Wohnung, einen Salon, ein mit Kunstgegenständen volles Wohnzimmer,
@@ -112,15 +112,15 @@
             <p>Ich will Euch sagen, was ich noch mehr will: Im Autobus Nr. 14 in der Lindenstr.
                einsteigen nach langem <pb n="3"/>vergeblichen Warten, die Nase voll Benzin, mich
                schütteln und rütteln lassen, am Alexanderplatz hinstürmend zwischen einer
-               Wagenstockung ein Billet nach <rs ref="#Berlin-Friedrichshagen" type="place">Friedrichshagen</rs> nehmen, in einem Koupée III Klasse als 17<hi rend="sup">ter</hi> zwischen den Bänken stehen, Geruchsorgien in Schweiß und
-               Kohledreck feiern, in <rs ref="#Berlin-Friedrichshagen" type="place">Friedrichshagen</rs> eilends die große Treppe heruntersausen mit mehreren
+               Wagenstockung ein Billet nach <rs ref="#tillich_place_id__39" type="place">Friedrichshagen</rs> nehmen, in einem Koupée III Klasse als 17<hi rend="sup">ter</hi> zwischen den Bänken stehen, Geruchsorgien in Schweiß und
+               Kohledreck feiern, in <rs ref="#tillich_place_id__39" type="place">Friedrichshagen</rs> eilends die große Treppe heruntersausen mit mehreren
                Rempelungen, rechts um die Ecke biegen und dann links Nr. 15 eine enge Holztreppe
                hinauf herzklopfen; der <rs ref="#tillich_person_id__1930" type="person">Großmama</rs>, die erschreckt
                ist, weil der Kaffeetisch noch nicht gedeckt ist, in die Arme fallen, dann <rs ref="#tillich_person_id__1925" type="person">Gretsch</rs>, die hinzukommt, einen erheblichen Kuß aufdrücken,
                Kaffee trinken in unsäglichen Quantitäten, Kuchen essen… dann <rs ref="#tillich_person_id__1930" type="person">Großmama</rs> in die Elektrische setzen und mit <rs ref="#tillich_person_id__1925" type="person">Gretsch</rs> im Schnellschritt wieder nach Bellevüe… eine Wasserfahrt,
                "mang die Badenden"… haarige Wassergreise steigen auf; <rs ref="#tillich_person_id__1925" type="person">Gretsch</rs> schreit und schirmbeschwingt eilt das Boot nach dem
                schützenden Hafen zurück, wo Groß<pb n="4"/>mütterlein uns längst aufgegeben hat..
-               und dann erzähle ich von meinem ersten Kolleg in <rs ref="#Halle a.S." type="place">Halle</rs> und von dem großen Erfolg, daß zu dem 11<hi rend="sup">ten</hi>
+               und dann erzähle ich von meinem ersten Kolleg in <rs ref="#tillich_place_id__193" type="place">Halle</rs> und von dem großen Erfolg, daß zu dem 11<hi rend="sup">ten</hi>
                Studenten sich ein 12<hi rend="sup">ter</hi> hinzugefunden hat… und dann entwickle
                ich die Grundlagen meiner Religionsphilosophie, <rs ref="#tillich_person_id__1930" type="person">Großmütterlein</rs> staunend und grinsend, <rs ref="#tillich_person_id__1925" type="person">Gretsch</rs> es höchst interessant findend.… und dazu der See und die
                Schiffe und die Musik und die kalte Platte und das Dunkle… und der Hauch der alten
@@ -130,7 +130,7 @@
                so wert, wie alter Liebe Hauch?"</p>
             <p>Daß es mir äußerlich gut geht und daß meine Sehnsucht nie aufhört, und daß auch Ihr
                zu denen gehört, nach denen ich mich ganz besonders sehne… das soll Euch dieser Gruß
-               aus <rs ref="#Frankreich" type="place">Frankreich</rs> sagen. </p>
+               aus <rs ref="#tillich_place_id__161" type="place">Frankreich</rs> sagen. </p>
             <closer>
                <salute>In alter Liebe und Treue! </salute>
                <signed>Euer <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>

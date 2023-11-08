@@ -1,10 +1,10 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00411">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00411">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Paul Tillich an Marie Tillich-Scheidemantel und Margarete Tillich
                <lb/>vom 17. Dezember 1914</title>
-            <author ref="P01930">Paul Tillich</author>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Andreas Burri</name>
@@ -22,7 +22,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -38,7 +38,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
@@ -62,13 +62,13 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="P01930">Paul Tillich</persName>
-               <placeName ref="Bieuxy">Bieuxy</placeName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__61">Bieuxy</placeName>
                <date when="1914-12-17">17.12.1914</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P01932">Marie Tillich</persName>
-               <persName ref="P01933">Margarete Tillich</persName>
+               <persName ref="#tillich_person_id__1930">Marie Tillich</persName>
+               <persName ref="#tillich_person_id__1931">Margarete Tillich</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -94,8 +94,8 @@
                Lieblichkeiten, was ich Euch danke; denn jedwede Post, von Hause entsendet, macht
                Freude in fernem Land. Auch wenn sie inhaltlich mit
                guten Dingen verbunden ist, würde niemand hierzulande sie verachten. Wie wärs, kleine liebe
-                  <rs ref="#tillich_person_id__1930" type="person">Großmama</rs>, wenn Du Dich im <rs ref="#Müggelsee" type="place">Müggelsee</rs> auf ein Flugzeug setztest, mit
-               Zwischenlandungen nach <rs ref="#Nogent" type="place">Nogent</rs> zu unserer
+                  <rs ref="#tillich_person_id__1930" type="person">Großmama</rs>, wenn Du Dich im <rs ref="#tillich_place_id__304" type="place">Müggelsee</rs> auf ein Flugzeug setztest, mit
+               Zwischenlandungen nach <rs ref="#tillich_place_id__322" type="place">Nogent</rs> zu unserer
                Fliegerstation flögst, und von dort von mir auf meinem Schimmel abgeholt würdest! Er
                ist stark genug Dich noch zu tragen! Schlafen würdest Du in meinem Schrank-Bett, das
                ich mit keinem Bett vertauschen möchte! Und dann würde ich Dir alles zeigen, zu Fuß,
@@ -119,10 +119,10 @@
                schwere französische Granate explodiert ist. Dann würde ich sagen: Nun kehrt! Denn es
                ist 10 Uhr. Die Luft ist klar, gleich werden die Franzosen anfangen. Kaum gesagt,
                würde ein mächtiger Krach losgehen, Du würdest Todesschreck kriegen; ich aber lachen
-               und sagen: das sind ja unsere schweren bei <rs ref="#Tartiers" type="place">Tartiers</rs>, da drüben: Wenn es <hi rend="u">so</hi> zischt, dann sind
+               und sagen: das sind ja unsere schweren bei <rs ref="#tillich_place_id__432" type="place">Tartiers</rs>, da drüben: Wenn es <hi rend="u">so</hi> zischt, dann sind
                es unsere. Auf einmal ein Gerumpele und gleich nachher 3 scharfe Knalle. Ich würde
                Dir drei Rauchwolken zeigen und sagen, dahinten: drei feindliche Granaten in den
-               Schützengräben bei <rs ref="#Nouvron-Vingré" type="place">Nouvron</rs>; die vierte
+               Schützengräben bei <rs ref="#tillich_place_id__326" type="place">Nouvron</rs>; die vierte
                war ein Blindgänger, <pb n="3"/> der nicht explodiert ist, wie so viele französische.
                Da wird noch manch Bauer beim Pflügen in die Luft gehn! Auf einmal siehst Du einen
                kleinen Blitz in der Luft und dann ein weißes Wölkchen, das immer größer wird. Und
@@ -132,10 +132,10 @@
                Dich plötzlich an der Hand und <del rend="s">¿¿¿</del><add place="superlinear">renne</add> mit Dir an die Wegböschung und rufe: „ducken“; ich habe ein Zischen
                gehört, und Du auch, gemein, angreifend, teuflisch, eine feindliche Granate, die auf
                dem Rübenfeld einschlägt, wo wir herkommen. Ich bleibe geduckt bis die nächste Ladung
-               vorbei ist, dann gehen wir nach <rs ref="#Bieuxy" type="place">Bieuxy</rs> zurück. Du
+               vorbei ist, dann gehen wir nach <rs ref="#tillich_place_id__61" type="place">Bieuxy</rs> zurück. Du
                fragst mich, was das für ein Hämmern ist und Knacken; ich horche und begreife
                endlich, daß Du das französische Maschinengewehr und die Patrouillenschießerei bei
-                  <rs ref="#Nouvron-Vingré" type="place">Nouvron</rs> meinst, das man Tag und Nacht
+                  <rs ref="#tillich_place_id__326" type="place">Nouvron</rs> meinst, das man Tag und Nacht
                hört. – <lb/> Dann ruhst Du Dich in meinem Zimmer aus von der angreifenden
                Expedition, findest aber, daß die ca. 400 Fliegenleichen nunmehr zu Weihnachten von
                den <pb n="4"/> Wänden entfernt werden könnten, nimmst Dir einen Stuhl und reibst sie
@@ -146,7 +146,7 @@
                Dann führe ich Dich zu dem Gutshof, wo wir Mittag essen. <rs ref="#tillich_person_id__2322" type="person">Exzellenz</rs> führt Dich zu Tisch und plaudert mit
                Dir über die 70er Jahre; er hat sein Eisernes Kreuz 2<hi rend="sup">ter</hi>
                damals<note type="ea">Hans von Gronau hat das Eisernes Kreuz II. Klasse nach dem Deutsch-Französischen Krieg von 1870/71 verliehen bekommen.</note> als Leutnant verdient. Es gibt Champignons aus der
-               Höhle gegenüber <rs ref="#Soissons" type="place">Soissons</rs>, wo wir beide am
+               Höhle gegenüber <rs ref="#tillich_place_id__404" type="place">Soissons</rs>, wo wir beide am
                nächsten Tag hinfahren und Sekt, den letzten in ganz
                Nordfrankreich. Denn es ist ja Weihnachten. … Wie wärs, liebes <rs ref="#tillich_person_id__1930" type="person">Großmampilein</rs>! Hättest Du nicht Lust? Es wird mir eigentlich recht
                schwer, ein Weihnachten mir vorzustellen, wo ich nicht an Deiner rechten Seite sitze!

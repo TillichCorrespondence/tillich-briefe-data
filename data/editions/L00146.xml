@@ -1,9 +1,9 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00146">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00146">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Herrmann Schafft an Paul Tillich <lb/>vom 10. März 1907 </title>
-            <author ref="P01697">Herrmann Schafft</author>
+            <author ref="#tillich_person_id__1696">Herrmann Schafft</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Paul Schömann</name>
@@ -21,7 +21,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -36,7 +36,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>Deutschland</country>
-                  <settlement ref="Marburg">Marburg</settlement>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
                   <institution>Philipps-Universität Marburg</institution>
                   <repository>Deutsches Paul-Tillich-Archiv</repository>
                   <idno>008G</idno>
@@ -59,12 +59,12 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="P01697">Herrmann Schafft</persName>
-               <placeName ref="Halle">Halle</placeName>
+               <persName ref="#tillich_person_id__1696">Herrmann Schafft</persName>
+               <placeName ref="#tillich_place_id__189">Halle</placeName>
                <date when="1907-03-10">10.03.1907</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P01930">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -82,7 +82,7 @@
             <pb n="1"/>
             <opener>
                <dateline><date when="1907-03-10">Laetare: 07. 10. III.</date>
-                  <rs ref="#Halle" type="place">Halle</rs></dateline>
+                  <rs ref="#tillich_place_id__189" type="place">Halle</rs></dateline>
                <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
             </opener>
             <p>Du kommst - falls Du nicht mit dem Neffen im Dom warest oder Deine Sonntagsfeier auf
@@ -101,7 +101,7 @@
                dasselbe doch sagen könnte. Du verstehst mich vielleicht! Unsere Worte im Umgang
                greifen sich ab - und wir wollen dazu nicht das letzte, was wir haben, brauchen. Den
                "neuen Namen" erfährt in der Apocalypse <bibl type="bible" resp="Rev 2,17">2<hi rend="sub">17</hi></bibl> nur der, der ihn bekommt. -</p>
-            <p>Und noch ein anderes. Wir haben hier in <rs ref="#Halle" type="place">Halle</rs> eine Terminologie und <pb n="3"/>mit
+            <p>Und noch ein anderes. Wir haben hier in <rs ref="#tillich_place_id__189" type="place">Halle</rs> eine Terminologie und <pb n="3"/>mit
                solcher ist die Gefahr gegeben, daß sie formelhaft wirkt.- Daher ist das schon ganz
                recht, wenn Du es anders wenden und angreifen willst als wir - persönlich, neu
                erfassen etc - <del rend="s">ab</del> [nur eben nicht wie oben] Sonst kann die

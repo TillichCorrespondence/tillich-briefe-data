@@ -1,9 +1,9 @@
-<?xml-model href="https://raw.githubusercontent.com/GerritMauritz/Edition-Paul-Tillich-s-Correspondence/main/scheme/tei_tillichcorrespondence_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00897">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00897">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 25. August 1926 </title>
-            <author ref="P01930">Paul Tillich</author>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Paul Schömann</name>
@@ -21,7 +21,7 @@
                <address>
                   <street>Schenkenstraße 8-10</street>
                   <postCode>1010</postCode>
-                  <placeName ref="Wien">
+                  <placeName ref="#tillich_place_id__470">
                      <settlement>Wien</settlement>
                      <country>Österreich</country>
                   </placeName>
@@ -36,7 +36,7 @@
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
@@ -60,12 +60,12 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="P01930">Paul Tillich</persName>
-               <placeName ref="Le Conquet">Le Conquet</placeName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__253">Le Conquet</placeName>
                <date when="1926-08-25">25.08.1926</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="P01925">Hannah Tillich</persName>
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -88,8 +88,8 @@
                <salute>Liebe süße <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
             </opener>
             <p>Was vorher Mangel war ist jetzt Fülle: Heute kamen 4 Briefe<note type="ea">Nicht
-                  überliefert</note> von <rs ref="#Quiberon" type="place">Quiberon</rs> und
-                  <rs ref="#Le Palais" type="place">Le Palais</rs>, darunter die Bilder von Dir und
+                  überliefert</note> von <rs ref="#tillich_place_id__361" type="place">Quiberon</rs> und
+                  <rs ref="#tillich_place_id__257" type="place">Le Palais</rs>, darunter die Bilder von Dir und
                   <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs>, die mich, wie alles was Du schreibst,
                sehr glücklich machen. – Du beklagst Dich, daß ich so wenig von hier berichte. Aber
                es ist kaum etwas zu berichten. Die Natur hat nicht die Inhalte und die Dialektik wie
@@ -126,7 +126,7 @@
                Zeitung ist jeden Tag irgend eine Bosheit zu lesen. Ich habe mich in Italien keinen
                Augenblick so als Fremder, Schutzloser, fast Gedrückter gefühlt, wie jetzt hier.</p>
             <p>Im Übrigen ist die französische Provinz, mit der wir bis jetzt<pb n="4"/> fast
-               ausschließlich zu tun hatten, genau wie die Straßenbilder von <rs ref="#Utrillo" type="place">Utrillo</rs>: Kleinbürgerliche Langeweile, graziöses, sehr
+               ausschließlich zu tun hatten, genau wie die Straßenbilder von <rs ref="#tillich_place_id__453" type="place">Utrillo</rs>: Kleinbürgerliche Langeweile, graziöses, sehr
                enges Spießertum. Viele Kinder, alle Frauen handarbeitend; und doch nicht die
                Plumpheit des Berliner oder Dresdner Spießers. Absolute Herrschaft der bürgerlichen
                Konvention im Guten und Schlechten. Dabei folgende Beobachtung: Die Engländerinnen,
