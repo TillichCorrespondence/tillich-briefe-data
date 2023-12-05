@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00866">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hendrik de Man 
+               <lb/>vom 9. März 1926 [PS]
+            </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Niederlande</country>
+                  <settlement ref="#tillich_place_id__12">Amsterdam</settlement>
+                  <institution>Koninklijke Nederlandse Akademie van Wetenschappen</institution>
+                  <repository>Internationaal Instituut voor Sociale Geschiedenis</repository>
+                  <collection>Archief Hendrik de Man ARCH00449</collection>
+                  <idno>Inv.nr.195</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+                  </physDesc>             
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__126">Dresden</placeName>
+              <date when="1926-03-09">09.03.1926</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__438">Hendrik de Man</persName>
+              <placeName ref="#tillich_place_id__490">Eberstadt Kr. Darmstadt</placeName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="SK" when="2023-04-03">Intitale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2023-11-10">Endabnahme</change>
+        
+       
+     </revisionDesc>
+  </teiHeader>
+   <text type="postcard">
+     <body>
+        <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <salute>Sehr geehrter <rs ref="#tillich_person_id__438" type="person">Herr De Man</rs>!</salute>
+        </opener>
+           <p>Haben Sie herzlichen Dank für Ihren Brief<note type="ea">Dieser Brief liegt nicht vor.</note>! Ich antworte zunächst damit dass ich Ihnen meine für Sie wichtigsten Sachen schicke. Leider muss ich Sie bitten mir <hi rend="u">alles zurückzusenden da</hi> manches davon nur in diesem einen Exemplar existiert. An Ihr <rs ref="#tillich_work_id__16" type="work">Buch</rs> habe ich mich mit grösstem Interesse gemacht und werde sofort schreiben, wenn ich fertig damit bin. <hi rend="u">Das Gleiche hoffe ich von Ihnen bez. meiner Schriften.</hi>
+        </p>
+        <pb n="2"/>
+        <closer>
+           <salute>Mit bestem Gruss! Ihr sehr ergebener</salute>
+           <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
+           <rs ref="#tillich_place_id__126" type="place">Dresden</rs>, Elisenstr.
+               11.</closer>      
+      
+     </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00886">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Paul Tillich an Hannah Tillich
+                    <lb/>vom 2. August 1926 [PS]
+                </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                        <idno>bMS 721/2(22)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__343">Paris</placeName>
+                    <date when="1926-08-02">02.08.1926</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                    <placeName ref="#tillich_place_id__126">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2023-04-24">Initiale Auszeichnung des Transkripts</change>
+            <change who="FS" when="2023-11-24">Endabnahme</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="postcard">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebes <rs ref="#tillich_person_id__1923" type="person">Hannahchen</rs>!</salute>
+                </opener>
+                <p>Noch habe ich nicht die richtige Einfühlung in <rs ref="#tillich_place_id__343" type="place">Paris</rs>! Es hat gegen <date when="1911">1911</date> sehr an Mythos für mich verloren. Es gibt unzählige schöne Frauen, aber keine gewinnt Bedeutung. In aller Grazie liegt doch ein Hauch von Langweile über den Kaffees. <rs ref="#tillich_place_id__299" type="place">Montmartre</rs> kam gegen <rs ref="#tillich_place_id__411" type="place">St. Pauli in Hamburg</rs> nicht an. Sehr viel Spießertum. Von den <hi rend="aq">petites cocottes</hi> von 1911 keine Spur mehr. Was da ist, ohne Grazie wie in <rs ref="#tillich_place_id__37" type="place">Berlin</rs>. Heut Versuch von Einkäufen, bis jetzt ohne Erfolg. Preise schon recht hoch. – Morgen ans Meer! Ich bin glücklich darüber! <pb n="2"/></p>
+<p>Was macht <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs>? Ich merke hier, wie sehr sie in mir sitzt. Mit den <rs ref="#tillich_person_id__2041" type="person"><rs ref="#tillich_person_id__1887" type="person"><rs ref="#tillich_person_id__2356" type="person">drei anderen</rs></rs></rs> ist es nett aber bedeutungslos. Im <date when="1926-09">Sept.</date> werde ich mich ganz auf die Russen u. a. werfen.
+                </p>
+                <closer>
+                    <salute>In viel Liebe!</salute>
+                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00901">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Paul Tillich an Hannah Tillich,
+                    <lb/>zwischen <date from="1926-09-10" to="1926-09-13">10. und 13. September 1926</date>
+                </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                        <idno>bMS 721/2(22)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__343">Paris</placeName>
+                    <date from="1926-09-10" to="1926-09-13">10.09.1926-13.09.1926</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                    <placeName ref="#tillich_place_id__126">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2023-09-07">Initiale Auszeichnung des Transkripts</change>
+            <change who="FS" when="2023-11-27">Endabnahme</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="postcard">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+<dateline>D.26<unclear><hi rend="sup">ten</hi></unclear></dateline>
+                    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>.</salute>
+                </opener>
+                <p>Ich arbeite an einem <rs xml:id="L00916">Brief</rs> an Dich. Da er aber nicht schnell genug fertig ist, schicke ich<pb n="2"/> diese Karte voraus: Ich wohne nicht in dem alten Hotel, sondern in einem etwas besseren. Dicht dabei: <hi rend="aq"><hi rend="u">Paris VI<hi rend="sup">e</hi>, Rue Jean Bart</hi>, <hi rend="u">Hotel Jean Bart</hi></hi>. Bitte teile es doch <rs ref="#tillich_person_id__2513" type="person"><unclear>Nora</unclear></rs> und <rs ref="#tillich_person_id__2514" type="person">Frau Kaden</rs> (bei <rs ref="#tillich_person_id__2515" type="person">Bondi</rs>, <address><rs ref="#tillich_place_id__126" type="place">Commeniusstr.</rs></address>) mit. – Gestern Abend im Café du Dome natürlich: <rs ref="#tillich_person_id__2436" type="person">Hamburger</rs>. Heut mit ihm und <rs ref="#tillich_person_id__2437" type="person">Malla</rs> im Café de la Paix. <rs ref="#tillich_person_id__1829" type="person"><rs ref="#tillich_person_id__1830" type="person">Spiegelbergs</rs></rs> heut ab nach <rs ref="#tillich_place_id__253" type="place">Le Conquet</rs>. – – –</p>
+                <closer>
+                    <salute>Bald mehr.</salute>
+                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

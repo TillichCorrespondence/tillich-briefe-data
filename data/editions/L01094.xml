@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01094">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Paul Tillich an Hannah Tillich
+                    <lb/>vom 4. März 1931 [PS]
+                </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                        <idno>bMS 721/3(1)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__107">Clausthal-Zellerfeld</placeName>
+                    <date when="1931-03-04">04.03.1931</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                    <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2023-04-19">Initiale Auszeichnung des Transkripts</change>
+            <change who="FS" when="2023-11-29">Endabnahme</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="postcard">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+                </opener>
+                <p>Gestern Abend erster Vortrag,<note type="ea">Es dürfte sich hierbei um den am <date when="1931-03-02">2. März 1931</date> in <rs ref="#tillich_place_id__274" type="place">Lübeck</rs> gehaltenen Vortrag "<rs ref="#tillich_work_id__20" type="work">Über gläubigen Realismus</rs>" handeln (vgl. dazu die <rs xml:id="L01093" type="letter">Karte Paul Tillichs an Hannah Tillich desselben Datums</rs>). Der Poststempel der vorliegenden Karte trägt die Uhrzeit "5-6 V", verfasst wurde sie von daher vermutlich bereits am <date when="1931-03-03">3. März 1931</date>.</note> voller Saal, nachher im kleinen Kreis erstklassige Diskussion. Ich völlig frisch infolge der Seewanderung. Zum Schluß war das Meer so metaphysisch kalt, daß meine Nerven es fast nicht mehr ertrugen. In der Nacht herrlich geschlafen. Dann lange Fahrt mit Eilzug nach <rs ref="#tillich_place_id__180" type="place">Goslar</rs>. Dann hoch in den <rs ref="#tillich_place_id__201" type="place">Harz</rs> nach <rs ref="#tillich_place_id__106" type="place">Clausthal</rs> (wo <rs ref="#tillich_person_id__757" type="person">Margot Faust</rs> gewohnt hat). Alles in tiefstem Märchenschnee. Mit dem Leiter der Sache<note type="ea">Nicht ermittelt.</note> einen schönen Schneespaziergang. Schnee, schwarze Tannen, grauer Himmel, rötlicher Mond. Aber nicht so kalt wie <pb n="2"/>das Meer. Ich freue mich, endlich was vom <rs ref="#tillich_place_id__201" type="place">Harz</rs> gesehen zu haben. Ich wohne in dem alten Hotel zur Krone, wo auch <rs ref="#tillich_person_id__847" type="person">Heine</rs> gewohnt hat. Der Ort ist alt und interessant! Gleich zum Vortrag<note type="ea">Zum Thema "Philosophie der Macht" (vgl. die <rs xml:id="L01095" type="letter">Karte Paul Tillichs an Hannah Tillich vom 4. März 1931</rs>. Tillich hatte beispielsweise bereits im <rs ref="#tillich_work_id__61" type="work">November 1929 in Stuttgart</rs> darüber gesprochen).</note>!
+                </p>
+                <closer>
+                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
