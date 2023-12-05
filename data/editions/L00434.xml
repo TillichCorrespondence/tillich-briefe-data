@@ -1,10 +1,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00434">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Brief von Paul Tillich an Elisabeth Tillich
-               <lb/>vom 16. Mai 1915
-            </title>
+            <title>Brief von Paul Tillich an Elisabeth Tillich <lb/>vom 16. Mai 1915 </title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -13,7 +11,8 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -29,8 +28,9 @@
                </address>
             </publisher>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc type="manuscript">
@@ -44,53 +44,69 @@
                </msIdentifier>
                <physDesc>
                   <p>Brief, eigenhändg</p>
-                  </physDesc>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__61">Bieuxy</placeName>
-              <date when="1915-05-16">16.05.1915</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1762">Elisabeth Tillich</persName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="AB" when="2022-05-01">Intitale Auszeichnung des Transkripts</change>
-        <change who="??" when="2022-05-01">Überprüfung und Ergänzung der Auszeichnungen</change>
-        <change who="GM" when="2023-10-10">Endabnahme</change>    
-     </revisionDesc>
-  </teiHeader>
-  <text type="letter">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-               <dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, den <date when="1915-05-16">16. Mai 1915</date></dateline>
-           <salute>L.<rs ref="#tillich_person_id__1762" type="person">E.</rs></salute>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__61">Bieuxy</placeName>
+               <date when="1915-05-16">16.05.1915</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1762">Elisabeth Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="AB" when="2022-05-01">Intitale Auszeichnung des Transkripts</change>
+         <change who="??" when="2022-05-01">Überprüfung und Ergänzung der Auszeichnungen</change>
+         <change who="GM" when="2023-10-10">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, d. <date
+                     when="1915-05-16">16. Mai 1915</date></dateline>
+               <salute>L.<rs ref="#tillich_person_id__1762" type="person">E.</rs></salute>
             </opener>
-        <p>Nachdem infolge von 5 Granaten, die am <date when="1915-05-13">Himmelfahrtstage</date> Nachmittag in den Obstgarten des Stabsgebäudes geflogen sind, die Division ihren Umzug nach <rs ref="#tillich_place_id__113" type="place">Crécy au Mont</rs> beschlossen und auf übermorgen festgesetzt hat, bin ich der 14. Infanterie-Brigade in <rs ref="#tillich_place_id__227" type="place">Juvigny</rs> zugeteilt. Brigade-General ist Exz. <rs ref="#tillich_person_id__252" type="person">von Bonin</rs>. <rs ref="#tillich_person_id__109" type="person">Backhaus</rs> bleibt in <rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>. Dienstag ziehe auch ich um. Ein Abschnitt in meinem Kriegsleben! <pb n="2"/> Näheres weiß ich noch nicht. Der Ort ist wundervoll gelegen. Die Gefährdung nicht viel größer als <rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>. Die Trennung von der Division wird mir sehr schwer. Meine Adresse ist jetzt IV. Res.-Korps. 7. Res.-Div. 14. Inf. = Brigade. ‒ Herzlichen für Deinen sehr lieben Brief! Nach <date when="1915-05-23">Pfingsten</date> antworte ich; jetzt sind schwere, unruhige und aufregende Tage für mich.</p>
-        <closer>
-           <salute>In Treue Dein Bruder</salute>
-           <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-        </closer>
-     </div>
-    </body>
-  </text>
+            <p>Nachdem infolge von 5 Granaten, die am <date when="1915-05-13"
+                  >Himmelfahrtstage</date> Nachmittag in den Obstgarten des Stabsgebäudes geflogen
+               sind, die Division ihren Umzug nach <rs ref="#tillich_place_id__113" type="place"
+                  >Crécy au Mont</rs> beschlossen und auf übermorgen festgesetzt hat, bin ich der
+               14. Infanterie-Brigade in <rs ref="#tillich_place_id__227" type="place">Juvigny</rs>
+               zugeteilt. Brigade-General ist <rs ref="#tillich_person_id__252" type="person"
+                  >Exz. von Bonin</rs>. <rs ref="#tillich_person_id__109" type="person">Backhaus</rs>
+               bleibt in <rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>. Dienstag ziehe
+               auch ich um. Ein Abschnitt in meinem Kriegsleben! <pb n="2"/> Näheres weiß ich noch
+               nicht. Der Ort ist wundervoll gelegen. Die Gefährdung nicht viel größer als <rs
+                  ref="#tillich_place_id__61" type="place">Bieuxy</rs>. Die Trennung von der
+               Division wird mir sehr schwer. Meine Adresse ist jetzt IV. Res.-Korps. 7. Res.-Div.
+               14. Inf. = Brigade. ‒ Herzlichen für Deinen sehr lieben Brief! Nach <date
+                  when="1915-05-23">Pfingsten</date> antworte ich; jetzt sind schwere, unruhige und
+               aufregende Tage für mich.</p>
+            <closer>
+               <salute>In Treue Dein Bruder</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>
