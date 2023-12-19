@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00987">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich
+               <lb/>vom 6. September 1928 [PS]
+            </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement>Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                  <idno>bMS 721/2(25)</idno>
+               </msIdentifier> 
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+                  </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__306">München [PS]</placeName>
+              <date when="1928-09-06">06.09.1928</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+              <placeName ref="#tillich_place_id__532">Kloster (Hiddensee)</placeName>
+              
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="NH" when="2023-08-28">Initiale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2023-12-19">Endabnahme</change>
+        
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="postcard">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+        </opener>
+        <p>Heut früh erhielt ich Deinen Brief!<note type="ea">Dieser Brief liegt nicht vor.</note> Vielen herzlichen Dank! <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> habe ich schon viel herumgereicht. Die Wirkung des Vortrages<note type="ea">Nicht ermittelt, vgl. auch die <rs xml:id="L00986" type="letter">Karte von Paul Tillich an Hannah Tillich vom 5. September 1928</rs>.</note> hat sich als bedeutender herausgestellt als ich dachte. Heut Mittag habe ich <rs ref="#tillich_place_id__23" type="place">Reichenhall</rs> verlassen und bin mit <rs ref="#tillich_person_id__1760" type="person"><rs ref="#tillich_person_id__1761" type="person">Seebergs</rs></rs> im Auto zum <rs ref="#tillich_place_id__533" type="place">Königssee</rs> gefahren, der wirklich herrlich ist. Der Watzmann (3000M) war den ganzen Tag frei. Aber sein kann man hier nur, wenn man täglich Touren macht. Die Orte (<rs ref="#tillich_place_id__534" type="place">Berchtesgaden</rs>) sind dumpf, voller Autos und Menschen. Die Luft überhaupt etwas drückend. Nichts auf die Dauer. Wenn, dann sehr viel höher-rauf! Die Unterhaltungen mit <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs> waren <pb n="2"/> sehr lebendig. Ich denke, er wird tun, was er kann! Jetzt sitze ich in der Bahn nach <rs ref="#tillich_place_id__327" type="place">Nürnberg</rs>, treffe heut Nacht um 1 Uhr ein. Kann wegen <rs ref="#tillich_place_id__126" type="place">Dresden</rs> erst Montag kommen!
+        </p>
+        <closer>
+           <salute>Gruß und Kuß! Dir und <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs>!</salute>
+           <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+        </closer>
+     </div>
+    </body>
+  </text>
+</TEI>

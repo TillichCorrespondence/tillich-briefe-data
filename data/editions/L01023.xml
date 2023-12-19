@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01023">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 10. Mai 1929<note type="ea"
+                  >Datum durch Kontext ermittelt.</note></title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                  <idno>bMS 721/2(27)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1929-05-10">10.05.1929</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-12-09">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2023-12-09">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
+                  >Hannah</rs>!</salute>
+            </opener>
+            <p>Herzlichen Dank für Deine Karten.<note type="ea">Diese Karten sind nicht
+                  erhalten.</note> Wie ich eben von Herrn Ament höre, haben die Tapezierer
+               Donnerstag durchgearbeitet, so dass sie sicher Sonnaben<del tend="s">aben</del>d
+               fertig werden. Eine Aufwischfrau arbeitet ununterbrochen, so dass wir auf alle Fälle
+               eine saubere Wohnung finden. Der Mietsvertrag, der schon bei mir liegt, läuft vom
+               16., auch wenn wir früher einziehen. Ich habe auch mit Delliehausen telefoniert, er
+               wird für Nachsendung der vergessenen Sachen sorgen. Noch ist der Waggon nicht hier.
+               Er rechnet aber sehr damit, dass er spätestens morgen kommt.</p>
+            <p>Das Kommen wird wohl nicht möglich sein. Sonntagabend habe ich eine Zusammenkunft mit
+                  <rs type="person" ref="#tillich_person_id__1537">Pater Przywara</rs>, wo ich unter
+               keinen Umständen fehlen kann, und dann wird es zu kurz. Ausserdem ist möglich, dass
+               Du schon Sonntagabend kommen musst und Sonnabend und Montag sind andere Dinge,
+               Besprechungen usw. die es unmöglichmachen. Ich bin dafür, dass wir in den
+               Pfingstferien einmal herüberfahren.</p>
+            <closer>
+               <salute>Liebste süße <rs type="person" ref="#tillich_person_id__1923">Hannah</rs>!
+                  Ich freue mich so, wenn Du schreibst! Tu's oft!</salute>
+               <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

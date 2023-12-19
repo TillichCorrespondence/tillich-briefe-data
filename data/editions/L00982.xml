@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00982">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 31. Mai 1928<note type="ea"
+                  >Datum durch Kontext ermittelt.</note></title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                  <idno>bMS 721/2(25)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1928-05-31">31.05.1928</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <placeName ref="#tillich_place_id__279">Margburg an der Lahn</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-11-29">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2023-11-29">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
+                  >Hannah</rs>!</salute>
+            </opener>
+            <p>Morgens 7 Uhr Bahnhof <rs type="place" ref="#tillich_place_id__143">Frankfurt</rs>.
+               Schöne Schlafwagenfahrt. Um 9 in <hi rend="u"><rs type="place"
+                     ref="#tillich_place_id__206">Heppenheim</rs> (Bergstraße) Parkhotel "Halber
+                  Mond"</hi>. Bitte schreibe dorthin. Ich kann erst Sonntag fahren. Dein Brief war
+               das Schönste von Pfingsten und überhaupt. Hab tausend Dank!! – Frau <unclear
+                  cert="medium" reason="illegible">Hirsekorn</unclear> hat zugeschrieben: 2 Zimmer
+               mit Kinderbett. Für jeden von uns 7,50 M, für <rs type="person"
+                  ref="#tillich_person_id__570">Erdmuthe</rs> 3,50 M. Ich habe sofort bestellt. Der
+               Tag in <rs type="place" ref="#tillich_place_id__126">Dresden</rs> war schrecklich
+               gehetzt. Der Kongreß matt (auch meine Diskussions<unclear cert="medium"
+                  reason="illegible">rede</unclear>). Mit Frau <unclear cert="medium"
+                  reason="illegible">Bienert</unclear> langes Telephongespräch. Sie war nicht über
+               mich, aber über Frau Möller <unclear cert="medium" reason="illegible">van
+                  Bruck</unclear> böse. Es geht ihr schlecht mit dem Magen. Ich traure über die
+               verlorenen schönen Tage, die ich in Konferenzen zubringen muß. Und doch hätte ich
+               kein gutes Gewissen gehabt, wäre ich nicht hierher gefahren. Also auf Wiedersehn am
+               Sonntag!!</p>
+            <closer>
+               <salute>Dankbar und lieb</salute>
+               <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs></signed>
+            </closer>
+            <postscript>
+               <p><unclear cert="low">Hanno</unclear>
+                  <hi rend="u">leider</hi> vergessen</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
