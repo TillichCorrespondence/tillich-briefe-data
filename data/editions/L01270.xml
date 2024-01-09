@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01270">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Hannah Tillich
+                    <lb/>vermutlich vom 4. August 1933<note type="ea">Der Brief ist mit keinem Datum versehen. Die hier vorgenommene Datierung ergibt sich aus dem Kontext. Er wurde an einem Freitag und aller Wahrscheinlichkeit nach in zeitlicher Nähe zu den Briefen Paul Tillichs an Hannah Tillich von Ende Juli bzw. Anfang August 1933 verfasst. Eine letzte Unsicherheit die Datierung betreffend stellt hingegen die Wiedervereinigung Tillichs mit seiner Tochter Erdmuthe da, die sich zeitlich nicht mit der Erinnerung Margot Hahls deckt (vgl. die entsprechende Anmerkung unten).</note>
+                </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                        <idno>bMS 721/3(3)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1933-08-04">04.08.1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                    <placeName ref="#tillich_place_id__389">Sassnitz (Rügen)</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2023-06-06">Initiale Auszeichnung des Transkripts</change>
+            <change who="FS" when="2023-12-07">Endabnahme</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><add>Rügen <date when="1933">1933</date></add><note type="ea">Mit rotem Kugelschreiber von fremder Hand. Vermutlich eine wesentlich spätere Hinzufügung.</note></dateline>
+                    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+                </opener>
+                <p>Also: <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> kommt <date when="1933-08-05">morgen</date>, Sonnabend früh um 7 hier an.<note type="ea">Erdmuthe Tillich hatte einige Monate bei einer Freundin der Familie, <rs ref="#tillich_person_id__757" type="person">Margot Müller</rs> (bzw. Margot Hahl), in <rs ref="#tillich_place_id__382" type="place">Saarbrücken</rs> verbracht. Die Wiedervereinigung Tillichs mit seiner Tochter in Berlin fand in der Erinnerung Hahls erst in der dritten Oktoberwoche 1933 statt. Dies steht in Spannung zu der hier angenommenen Datierung des vorliegenden Briefes (vgl. zu Hahl <rs ref="#tillich_work_id__67" type="work" n="25">Graf, Tillich im Exil, 25</rs>).</note> Ich dachte erst, es wäre besser, sie einen Tag ausruhen zu lassen; aber sowohl <rs ref="#tillich_person_id__757" type="person">Margot</rs>, mit der ich telephoniert habe, als auch <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> haben beschlossen, daß es wichtiger ist, gleich weiter zu fahren und ihr auf dem Schiff eine Schlafkabine zu nehmen. <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> wußte von ihrer Fahrt, daß das möglich ist. Das ist besser als das Hin- und Her in <rs ref="#tillich_place_id__37" type="place">Berlin</rs>. Also morgen, Sonnabend Abend 7 Uhr 45 am Bollwerk<note type="ea">Meint vermuttlich das Baaber Bollwerk in <rs ref="#tillich_place_id__517" type="place">Sellin bzw. Baaber Hafen</rs> auf Rügen.</note>. Ich bin ganz voll von Unge<pb n="2"/>duld nach ihr.</p>
+                <p>Vor <rs ref="#tillich_person_id__1307" type="person"><rs ref="#tillich_person_id__1923" type="person">Euch</rs></rs><note type="ea">Es ist nicht ganz sicher, welche Personen hier genau gemeint sind. Neben Hannah Tillich sicherlich auch Carl Mennicke, der sich ebenfalls auf Rügen aufhielt.</note>dagegen habe ich nach Euren Briefen<note type="ea">Diese Briefe liegen nicht vor.</note> etwas Angst. Ich habe das Gefühl, daß <rs xml:id="L01243" type="letter"><rs xml:id="L01244" type="letter">meine Briefe</rs></rs> es in keiner Weise vermocht haben deutlich zu machen, wie die Dinge liegen, auch mein <rs xml:id="L01244" type="letter">zweiter</rs> nicht.</p>
+                <p>1) Von einer Überredung durch <rs ref="#tillich_person_id__1498" type="person"><rs ref="#tillich_person_id__1499" type="person"><rs ref="#tillich_person_id__1211" type="person"><rs ref="#tillich_person_id__1212" type="person">die Küssel-Leute</rs></rs></rs></rs> ist schon deswegen keine Rede, weil sie dagegen waren, daß ich zu <rs ref="#tillich_person_id__2421" type="person">G.</rs> ging und dagegen, daß ich den Urlaub einreiche. Nur darum drehte sich die Unterhaltung mit ihnen. Denn daß ich ohne Entscheidung nicht wegfahre, das war mir so selbstverständlich, daß wir darüber gar nicht gesprochen haben. Ich habe in bewußtem Gegensatz zu ihnen gehandelt.</p>
+                <p>2) Der Begriff "Revol..." scheint Dir wirk<lb n="3"/>lich etwas dunkel zu sein. Keiner, der unter ihn fällt, ist je in der Welt weggegangen, ehe er mußte. Gestern Abend war unser Kreis bei mir, darunter einige, auf die der Begriff 100%ig zutrifft. Sie waren alle ausnahmslos genau für meine Verfahren; und jeder brachte einen neuen Grund dazu. Vor allem auch um deswillen, was anders werden soll. Die draußen werden überhaupt nicht gewürdigt. Vom Standpunkt der Revol dürfte ich nicht raus und wenn ich hier verhungerte.</p>
+                <p>3) Für meinen Geist brauchst Du nicht zu fürchten. Er hat sich noch nicht halten lassen und wird sich nie halten lassen, wenn er angegriffen ist. Politisches Handeln aber ist draußen überhaupt unmöglich. Dies ist die <pb n="4"/> einzige Bedingung, die in <rs ref="#tillich_person_id__2316" type="person">Emils</rs> Sache gestellt wird. Dort kann ich nur Professor sein.</p>
+                <p>Lies meinen <rs xml:id="L01244" type="letter">zweiten Brief</rs> genau; er enthält alles, was Du vernünftiger Weise fordern kannst. Und es gab in ganz <rs ref="#tillich_place_id__37" type="place">Berlin</rs> niemanden einschließlich die wildesten Leute, die auch nur einen Augenblick anderer Meinung waren.</p> 
+                <p>Alles andere mündlich! Auf Wiedersehen!</p>
+                <p>Anbei mein Brief an <rs ref="#tillich_person_id__2316" type="person">Lederer</rs> ins Unreine und eine Anfrage von <rs ref="#tillich_person_id__1498" type="person">Lilly</rs> an <rs ref="#tillich_person_id__1307" type="person">Carolus</rs>.
+                </p>
+                <closer>
+<salute>Ich liebe Dich!</salute>
+                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

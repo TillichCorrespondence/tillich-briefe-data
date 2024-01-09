@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00849">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Gottfried Salomon
+               <lb/>vom 24. Mai 1925 [PS]
+            </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Niederlande</country>
+                  <settlement>Amsterdam</settlement>
+                  <institution>Koninklijke Nederlandse Akademie van Wetenschappen</institution>
+                  <repository>Internationaal Instituut voor Sociale Geschiedenis</repository>
+                  <collection>Gottfried Salomon-Delatour Papers, ARCH[01231]</collection>
+                  <idno>Inv.nr. 1172/6</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, maschinenschriftlich</p>
+                  </physDesc>
+
+            </msDesc>
+
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <date when="1925-05-24">24.05.1925</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1678">Gottfried Salomon</persName>
+              <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="NH" when="2022-10-27">Intitale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2023-04-11">Ergänzende Auszeichnungen</change>
+        <change who="FS" when="2023-11-10">Endabnahme</change>
+        
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="postcard">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <salute>Lieber <rs ref="#tillich_person_id__1678" type="person">Salomon</rs>!</salute>
+        </opener>
+        <p>Erst heute antworte ich auf Ihre Karte<note type="ea">Diese Karte liegt nicht vor.</note>, weil es nun ziemlich sicher ist, dass wir die Pfingstferien hier bleiben. Doch ist es immerhin möglich, dass wir bei gutem Wetter eine Tagestour machen. Ich bitte Sie darum, sich etwa zwei Tage vorher anzumelden und auch den Zug zu schreiben, mit dem Sie kommen. Ich kann mich dann danach einrichten. Ihren <rs ref="#tillich_work_id__13" type="work">Vico</rs> habe ich erhalten und danke Ihnen herzlich dafür. Zum Lesen bin ich leider noch nicht gekommen:            
+        </p>
+        <closer>
+           <salute>Ich freue mich Sie wiederzusehen und grüsse Sie und Ihre <rs ref="#tillich_person_id__2304" type="person">Frau</rs> herzlich</salute>
+           <signed>Ihr <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
+        </closer>
+        
+     </div>
+    </body>
+  </text>
+</TEI>

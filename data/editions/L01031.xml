@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01031">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 19. Oktober 1929</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                  <idno>bMS 721/2(26)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1929-10-19">19.10.1929</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-12-09">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2023-12-09">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebste süße <rs type="person" ref="#tillich_person_id__1923"
+                  >Hannah</rs>!</salute>
+            </opener>
+            <p>Kurz vor <rs type="place" ref="#tillich_place_id__37">Berlin</rs>! – Gestern 11-3
+               Ausfahrt mit <rs type="person" ref="#tillich_person_id__217">Frau Bienert</rs> nach
+                  <rs type="place" ref="#tillich_place_id__498">Schmilka bei Schandau</rs>. Der Weg
+               wo ich <rs type="person" ref="#tillich_person_id__570">Erdmuthe</rs> auf dem Rücken
+               zurückgetragen habe. Herrliche Fahrt. Sachsen <hi rend="u">doch</hi> sehr schön.
+               Gespräche über <rs type="person" ref="#tillich_person_id__688">Heinrich</rs> u. s. w.
+                  <unclear cert="medium">Forellen</unclear> Dann Elisenstr. 11. Ich gehe mit Zittern
+               rein. Es war schrecklich aufregend. Wenige aber gute Veränderungen der Farbe: Flur
+               und rosa Zimmer. Flur gelblich, Decke blau. Rosa Zimmer Goldbraun. Allmählich
+               beruhige ich mich: Es ist <rs type="person" ref="#tillich_person_id__1829"
+                  >Spiegelbergs</rs> Wohnung. Die Vergangenheit ist weg. Kaffee und lange
+               Unterhaltungen. Sie sind durch die Wohnung viel tiefer verbunden. – Einsamer Gang
+               durch die Straßen von <rs type="place" ref="#tillich_place_id__126">Dresden</rs>.
+               Umziehen zur Abend-Gesellschaft: <rs type="person" ref="#tillich_person_id__1829"
+                  >Spiegelbergs</rs>, <rs type="person" ref="#tillich_person_id__1699"><rs
+                     type="person" ref="#tillich_person_id__2403">Schairers</rs></rs>, Natascha mit
+               Bruder, junge Fürst, <rs type="person" ref="#tillich_person_id__2596">Margrit</rs>,
+                  <rs type="person" ref="#tillich_person_id__2597">Jenenski</rs> . <hi rend="u"
+                  >Sehr</hi> nett. Heut um 6 auf. <rs type="person" ref="#tillich_place_id__42"
+                  >Lichterfelde</rs>-Ost</p>
+            <closer>
+               <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

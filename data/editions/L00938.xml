@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00938">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul und Hannah Tillich an Bruno Goetz <lb/>vom 16. Mai 1927</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author><author ref="#tillich_person_id__1923">Hannah Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Andreas Burri</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Schweiz</country>
+                  <settlement ref="#tillich_place_id__480">Zürich</settlement>
+                  <institution>Universität Zürich</institution>
+                  <repository>Zentralbibliothek Zürich</repository>
+                  <collection>Nachl. B. Goetz 1-35</collection>
+                  <idno>17</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, von <rs
+                     ref="#tillich_person_id__1923" type="person">Hannah Tillichs</rs> Hand</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+
+               <date when="1927-05-16">16.05.1927</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__691">Bruno Goetz</persName>
+
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="AB" when="2023-11-15">Intitale Auszeichnung des Transkripts</change>
+         <change who="AB" when="2023-11-20">Endabnahme</change>
+         <change who="FS" when="2023-11-23">Kontrolle der Endabnahme</change>
+         
+         
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>16.5.27</dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__691" type="person">Bruno
+                  Goetz</rs>!</salute>
+            </opener>
+            <p>Es gibt nur <hi rend="u">ein</hi>
+               <rs ref="#tillich_work_id__27" type="work">Reich ohne Raum</rs> (Sie sehen, wie <hi
+                  rend="u">Sie</hi> selbst Ihren Bewundern bei Ihren neuesten Arbeiten ein Licht
+               stehen) aber Ihre neue <rs ref="#tillich_work_id__31" type="work">Novelle</rs>, für
+               die wir Ihnen herzlich danken, ist sehr lesenswert – Die Fabel von der <rs
+                  ref="#tillich_person_id__2606" type="person">Lotte</rs> finde ich so schön, dass
+               ich fast bedaure, dass sie nicht auch räumlich mehr im Mittelpunkt steht, und das
+               schlechte Menschliche ist so gut und richtig getroffen, dass es nicht wirklicher sein
+               könnte –</p>
+            <p>Ich persönlich finde Sie am schönsten in der Schilderung der traumhaften
+               Zwischenzustände und würde mir das Lange (wenn ich etwas zu wünschen hätte) etwas
+               kompakter denken – Aber das sind Nuancen – Ich habe grosse Freude und menschliche
+               Nähe beim Lesen ihres <rs ref="#tillich_work_id__31" type="work">göttlichen
+                  Gesichtes</rs> empfun<pb n="2"/>den und danke Ihnen sehr dafür –</p>
+            <p>Ich lege ein Bild der damals gemachten Aufnahme bei, <del rend="s">eine</del> <add place="superlinear">die
+               zweite</add> Aufnahme will auch geglückt sein und wird bald folgen –</p>
+            <p>Bitte grüssen Sie Ihre <rs ref="#tillich_person_id__2609" type="person">Frau</rs>
+               schön von uns –</p>
+            <closer>
+               <salute>Mit herzlichem Gruß</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person"><rs
+                        ref="#tillich_person_id__1923" type="person">Paul u. Hannah
+                     Tillich</rs></rs>
+               </signed>
+            </closer>
+
+         </div>
+      </body>
+   </text>
+</TEI>

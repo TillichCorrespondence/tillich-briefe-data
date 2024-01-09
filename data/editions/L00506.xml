@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich und Greti Tillich an Mathilde Wever <lb/>vom 15.
+               September 1916 [PS] </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <author ref="#tillich_person_id__1931">Greti Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard Univeristy</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/209(3)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte (Motiv: Cochem von Haus Krein gesehen), eigenhändig</p>
+               </physDesc>
+
+            </msDesc>
+
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1931">Greti Tillich</persName>
+               <placeName ref="#tillich_place_id__110">Cochem</placeName>
+               <date when="1916-09-15">15.09.1916</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__2049">Mathilde Wever</persName>
+               <placeName ref="#tillich_place_id__80">Butterfelde</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-05-30">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2023-12-12">Endabnahme></change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="PaulTillich">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebe <rs ref="#tillich_person_id__2049" type="person">Mutter</rs>!</salute>
+            </opener>
+            <p>Es ist höchste Zeit, daß ich schreibe, denn eben kommt die dritte halbe <unclear
+                  cert="high">Tasse Mosel</unclear> und was dann kommt, weiß niemand --- Morgen ist
+               der letzte Tag! Es war der schönste Urlaub!</p>
+            <closer>
+               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+         <div type="MargareteTillich">
+            <opener><salute>L. <rs ref="#tillich_person_id__2049" type="person"
+               >M.</rs></salute></opener>
+            <p>Deinen Brief bekam ich heute, ich habe mich sehr dazu gefreut! Sonnab- ist nun
+               Schluss. Ich möchte noch etwas in <rs ref="#tillich_place_id__236" type="place"
+                  >Cassel</rs> bleiben, fahre dann nach <rs ref="#tillich_place_id__37" type="place"
+                  >Berlin</rs>, weiter reicht mein Geld nicht. In <rs ref="#tillich_place_id__18"
+                  type="place">Bertrich</rs>regnete es, da reisten wir ab hier ist es besonders
+               schön. Aber einmal muss ja auch Schluß sein.</p>
+            <closer><salute>Herzl. Gruss v. </salute><signed><rs ref="#tillich_person_id__1931" type="person"
+                  >Greti</rs></signed></closer>
+         </div>
+      </body>
+   </text>
+</TEI>

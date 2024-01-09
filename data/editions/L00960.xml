@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00960">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich
+               <lb/>vom 11. Februar 1928 [PS]
+            </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement>Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                  <idno>bMS 721/2(25)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+                  </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__470">Wien</placeName>
+              <date when="1928-02-11">11.02.1928</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="NH" when="2023-08-15">Initiale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2023-10-18">Ergänzungen</change>
+        <change who="FS" when="2023-11-13">Endabnahme</change>
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="postcard">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+        </opener>
+        <p>Von 12-<formula notation="TeX">\frac{1}{2}</formula> 9 herrlich im Zug geschlafen! Dann angezogen, rasiert (allein im Kupée) gefrühstückt und – ausgestiegen. Abgeholt von dem Studenten. Dann Gang zum Dom, Treffen mit <rs ref="#tillich_person_id__2556" type="person">Wagner</rs> und einigen Künstlern. Galerie: 20 herrliche <rs ref="#tillich_person_id__295" type="person">Breughels</rs>. (Bis jetzt das Beste in <rs type="place">Wien</rs>). Mittag (Makkaroni), wieder durch die Stadt. Jetzt im Kaffee<unclear reason="illegible">. "<hi rend="u">D¿¿¿</hi></unclear>" Vortrag hören und Fest. Befinden <hi rend="u">viel</hi> besser <pb facs="2"/> Die andere Luft wirkt Wunder. | <rs ref="#tillich_place_id__470" type="place">Wien</rs> als Stadt noch nicht sehr überwältigend, weder die Stadt noch die Menschen. | Mehr Dürftigkeit als selbst <rs ref="#tillich_place_id__126" type="place">Dresden</rs> | 
+        </p>
+        <closer>
+           <salute>Mit viel Liebe</salute>
+           <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+        </closer>
+     </div>
+    </body>
+  </text>
+</TEI>

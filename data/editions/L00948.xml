@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00948">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 12. Oktober 1927
+               [PS]</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                  <idno>bMS 721/2(24)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__493">Dresden</placeName>
+               <date when="1927-10-12">12.10.1927</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <placeName ref="#tillich_place_id__494">Rotenburg</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-11-14">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2023-11-14">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
+                  >Hannah</rs>!</salute>
+            </opener>
+            <p>1. Das <rs type="person" ref="#tillich_person_id__570">Erdmuthe</rs>-Paket ist längst
+               da.</p>
+            <p>2. <rs type="person" ref="#tillich_person_id__2586">Lisel</rs> und
+                  <unclear>Lux</unclear> waren nun eine Stunde da, um <rs type="person"
+                  ref="#tillich_person_id__570">Erdmuthe</rs> zu sehen.</p>
+            <p>3. Frl. Mariechen geht es gut. Wir schonen sie nach Kräften. Die letzten Tage war
+               große Wäsche mit Frau Theobald (Bitte schreib der doch noch eine Karte!)</p>
+            <p>4. Die 1000 M von Arnold kommen. Sie reichen genau, um Bank, <rs type="person"
+                  ref="#tillich_person_id__688">Heinrich</rs> und Zahnarzt glatt zu machen. Alles
+               was ich Dir schicke, schafft schon ein Minus-Konto. (Also, entscheide Du, wieviel und
+               wohin!</p>
+            <p>5. Heut fährt <rs type="person" ref="#tillich_person_id__570">Erdmuthe</rs> mit <rs
+                  type="person" ref="#tillich_person_id__1972">Ilse</rs> aus.</p>
+            <p>6. und 7. Ich liebe Dich und freue mich, daß Du schreibst, wenn es auch schwer zu
+               lesen ist!</p>
+            <closer>
+               <salute>Sei tausendmal gegrüßt von</salute>
+               <signed>Deinem <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
+            </closer>
+            <postscript>
+               <p/>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

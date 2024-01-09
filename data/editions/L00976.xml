@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00976">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Fritz und Clara Medicus
+               <lb/>vom 19. April 1928 [PS]
+            </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Schweiz</country>
+                  <settlement>Zürich</settlement>
+                  <institution>Eidgenössische Technische Hochschule</institution>
+                  <repository> Hochschularchiv der ETH Zürich</repository>
+                  <collection>Nachlass Fritz Medicus</collection>
+                  <idno>Hs. 1377:699</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig             
+                  </p>
+                  </physDesc>      
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal" n="firstPrint">
+                        <monogr>
+                           <author>Friedrich Wilhelm Graf/Alf Christophersen</author>
+                           <title>Die Korrespondenz zwischen Fritz Medicus und Paul Tillich</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                              <date when="2004">2004</date>
+                              <biblScope>126-147, hier: 131</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Zeitschrift für neuere Theologiegeschichte</title>
+                           <biblScope>Bd. 11, H. 1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__251">Laigueglia</placeName>
+              <date when="1928-04-19">19.04.1928</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1291">Fritz Medicus</persName>
+              <persName ref="#tillich_person_id__2353">Clara Medicus</persName>
+              <placeName ref="#tillich_place_id__381">Rüschlikon-Zürich</placeName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="SK" when="2023-04-10">Initiale Auszeichnung des Transkripts</change>
+        <change who="SK" when="2023-04-14">Änderrung des Original-Archiv: Hochschularchiv der ETH Zürich zum Archiv der Kopie</change>
+        <change who="SK" when="2023-04-14">texttype nun als postcard deklariert</change>
+        <change who="SK" when="2023-04-19">Ausbesserung des Titels, Ausbesserung der Namensordnung, hinzufügen von Clara Medicus zu corr.action</change>
+        <change who="FS" when="2023-11-23">Endabnahme</change>        
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="postcard">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <salute>Liebe <rs ref="#tillich_person_id__1291" type="person"><rs ref="#tillich_person_id__2353" type="person">Freunde</rs></rs>!</salute>
+        </opener>
+        <p>Herzliche Grüße sende ich Ihnen auch im Namen meiner <rs ref="#tillich_person_id__1923" type="person">Frau</rs> von diesem besseren Lande! Ich bin sehr froh, daß wir – zum ersten Male – so lange und intensiv zusammen sein konnten. Inzwischen habe ich sehr viel gearbeitet. Diese Landschaft zwingt zur Gestaltung. Ende der Woche leider Abschied in die Kälte!
+        </p>
+        <closer>
+           <salute>Ihr</salute>
+           <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
+        </closer>
+      
+     </div>
+    </body>
+  </text>
+</TEI>

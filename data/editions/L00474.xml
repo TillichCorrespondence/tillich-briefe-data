@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00474">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Marie Tillich <lb/>vom 29. Februar 1916 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/193(21)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__328">ohne Ort</placeName>
+               <date when="1916-02-29">29.02.1916</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1930">Marie Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-05-16">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2023-11-29">Endabnahme</change>
+
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>D. <date when="1916-02-29">29. II. 16</date></dateline>
+               <salute>Liebe <rs ref="#tillich_person_id__1930" type="person"
+                  >Großmama</rs>!</salute>
+            </opener>
+            <p>In den nächsten Tagen hast Du Deinen Geburtstag, wie mir auf fast wunderbare Weise
+               ins Gedächtnis gekommen ist, und ich freue mich, Dir sagen zu können, daß ich sehr
+               viel öfter, als ich schreibe – was ja etwas kümmerlich ausfällt – an Euch denke. Heut
+               Nacht habe ich sogar von Euch geträumt, als fast einzigen Besuchern meines künftigen
+               Kollegs. – Nun, was ich Dir wünsche, ist ja klar: daß Du diese betrüblichen Zeiten
+               frisch und gut durchlebst und wir einmal wieder alle zusammen um unsern Eßtisch
+               sitzen; ich neben Dir, und von der bösen Welt und Kirchenpolitik und Theologie<pb
+                  n="2"/> reden, und Du über alles staunst und immer eine neue originelle Idee hast!
+               Was war das alles gemütlich! Minder hoch im Ansehen stand ja Deine Geburtstagsfeier
+               mit Frau "Licht, Luft und Sonnenschein"... aber es roch immer so schön nach
+               Hyazinthen. -- Wir wandern jetzt, hier ein paar Wochen, da ein paar Tage; es ist viel
+               Unruhe und Erwartung. Aber ich liebe das ja mehr, als das lange Festliegen an einem
+               Punkt. – Viele herzliche Grüße an <rs ref="#tillich_person_id__1925" type="person"
+                  >Tante Grete</rs>, die immer so nette lange Briefe schreibt. Sie soll m<del
+                  rend="ow">a</del>ir recht viel vom Müggelsee erzählen. Habt Ihr <rs
+                  ref="#tillich_person_id__1931" type="person">Greti</rs> schon gesehen? War <rs
+                  ref="#tillich_person_id__641" type="person">Alfred</rs> bei Euch? – Hier ist ein
+               rauschender Mühlbach, über dem wir wohnen --- </p>
+            <closer>
+               <salute>Viele Segenswünsche in treuer Liebe!</salute>
+               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

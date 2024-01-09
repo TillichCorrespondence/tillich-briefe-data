@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00857">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Gottfried Salomon
+               <lb/>vom 14. Dezember 1925 [PS]
+            </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Niederlande</country>
+                  <settlement>Amsterdam</settlement>
+                  <institution>Koninklijke Nederlandse Akademie van Wetenschappen</institution>
+                  <repository>Internationaal Instituut voor Sociale Geschiedenis</repository>
+                  <collection>Gottfried Salomon-Delatour Papers, ARCH[01231]</collection>
+                  <idno>Inv.nr. 1172/7</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+                  </physDesc>
+
+            </msDesc>
+
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <date when="1925-12-14">14.12.1925</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1678">Gottfried Salomon</persName>
+              <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="NH" when="2022-11-03">Intitale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2023-04-11">Ergänzende Auszeichnungen</change>
+        <change who="FS" when="2023-04-17">Weitere Überarbeitungen</change>
+        <change who="FS" when="2023-11-10">Endabnahme</change>
+        
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="postcard">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+
+           <salute>Lieber <rs ref="#tillich_person_id__1678" type="person">Salomon</rs>!</salute>
+        </opener>
+        <p>
+           Herzlichen Dank für Ihre Einladung! Aber seit dem Sommer bin ich a. o.  Professor der Religionswissenschaft an der kulturwissenschaftlichen Abteilung der Technischen Hochschule in <rs ref="#tillich_place_id__126" type="place">Dresden</rs> - trotz eines Rufes nach <rs ref="#tillich_place_id__126" type="place">Gießen</rs>.<note type="ea">In Gießen war der Lehrstuhl für Systematische Theologie nachzubesetzen gewesen, den bis dahin <rs ref="#tillich_person_id__1286" type="person">Emil Walter Mayer</rs> innegehabt hatte. Am <date when="1925-05-29">29. Mai 1925</date> hatte sich der Gesamtsenat der Universität Gießen für Tillich entschieden, der sich jedoch seinerseits stattdessen für die ordentliche Professur für Religionswissenschaften in der Allgemeinen Abteilung der Technischen Hochschule Dresden entschied. (Vgl. <rs ref="#tillich_work_id__11" type="work">Danz/Schüßler, Paul Tillich in Dresden, 2</rs>.</note></p> 
+           <p>Meine Wohnung ist <address><rs ref="#tillich_place_id__126" type="place"><hi rend="u">Dresden-Elisenstr. 11.</hi></rs></address> Wir hoffen, daß wir Sie bald einmal hier <pb n="2"/> werden begrüßen können.
+        </p>
+        <closer>
+           <salute>Herzliche Grüße!</salute>
+           <signed>Ihr <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
+        </closer>
+     </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00507">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Toni Winkler <lb/>vom 22. September 1916</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/205(15)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Feldpostkarte nach Berlin, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1916-09-22">22.09.1916</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="tillich_person_id__2085">Toni Winkler</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-05-17">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2023-12-12">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>D. <date when="1916-09-22">22. Sept. 1916.</date></dateline>
+               <salute>Liebes <rs ref="#tillich_person_id__2085" type="person">Tonichen</rs>!</salute>
+            </opener>
+            <p>Nun bin ich wieder zurück von diesen schönsten Tagen mit <rs ref="#tillich_person_id__1931"
+                  type="person">Greti</rs> zusammen, die ich dem Zufall und der Güte von <rs
+                  ref="#Exzellenz von Bonin" type="person">Exzellenz</rs>verdanke: <rs
+                  ref="#tillich_place_id__442" type="place">Trier</rs>, <rs
+                  ref="#tillich_place_id__56" type="place">Bernkastel</rs>, <rs
+                  ref="#tillich_place_id__441" type="place">Trarbach</rs>, <rs
+                  ref="#tillich_place_id__57" type="place">Bertrich</rs>, <rs
+                  ref="#tillich_place_id__110" type="place">Cochem</rs>... es war ganz herrlich. Nun
+               sitze ich in einem elenden Loch mit Lehmfußboden mit <rs ref="#tillich_person_id__2547"
+                  type="person">Kapell</rs> zusammen ohne Burschen und Sachen, aber noch weit ab von
+               vorn. Ich bin sehr frisch und körperlich einigermaßen gerüstet für die kommenden
+               schweren Aufgaben. – Ich freue mich sehr für <rs ref="#tillich_person_id__644"
+                  type="person">Johanna</rs> und <rs ref="#tillich_person_id__641" type="person">Alfred</rs>
+               und denke viel an Euch alle. Hoffentlich ist <rs ref="#tillich_person_id__1924"
+                  type="person">Papa</rs> nun ganz frisch! </p>
+            <closer>
+               <salute>Viele herzliche Grüße!</salute>
+               <signed>Euer treuer <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

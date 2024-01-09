@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00989">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich
+               <lb/>vom 7. September 1928 [PS]
+            </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement>Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                  <idno>bMS 721/2(25)</idno>
+               </msIdentifier> 
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+                  </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__327">Nürnberg</placeName>
+              <date when="1928-09-07">07.09.1928</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+              <placeName ref="#tillich_place_id__532">Kloster (Hiddensee)</placeName>
+              
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="NH" when="2023-08-29">Initiale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2023-12-19">Endabnahme</change>
+        
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+        </opener>
+        <p>Seit gestern Nacht bin ich in <rs ref="#tillich_place_id__327" type="place">Nürnberg</rs>. Da ich kein Hotelzimmer mehr bekam (Nachts um 2) wurde ich in ein Privatquartier gewiesen (Mutter mit Tochter). Und nun das Merkwürdige: Sie führen einen Prozeß teils gegen teils mit <rs ref="#tillich_person_id__1792" type="person">Hugo Simons</rs> – <rs ref="#tillich_place_id__130" type="place">Düsseldorf</rs> als Anwalt: So rund ist die Welt. Ich habe einen langen Besichtigungstag hinter mir. Interessant, schön, aber nicht berauschend. Ein fabelhafter Obstmarkt. Ich dachte an Dich. Morgen das Germanische Museum. Nachts nach <rs ref="#tillich_place_id__126" type="place">Dresen</rs>. Ich <hi rend="u">glaube</hi> (?), ich habe <rs ref="#tillich_person_id__705" type="person">Albert G.</rs> einer Mädchenschulklasse das Sebaldusgrab erklären sehen – – – – <pb n="2"/> Ich sehne mich bei dem heißen Wetter mächtig nach <rs ref="#tillich_place_id__535" type="place">Hiddensee</rs>!
+        </p>
+        <closer>
+           <salute>Sei sehr sehr herzlich gegrüßt von</salute>
+           <signed>Deinem <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+        </closer>
+     </div>
+    </body>
+  </text>
+</TEI>

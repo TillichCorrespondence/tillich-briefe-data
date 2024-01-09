@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01014">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Fritz Medicus
+               <lb/>vom 29. April 1929 [PS]
+            </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Schweiz</country>
+                  <settlement>Zürich</settlement>
+                  <institution>Eidgenössische Technische Hochschule</institution>
+                  <repository> Hochschularchiv der ETH Zürich</repository>
+                  <collection>Nachlass Fritz Medicus</collection>
+                  <idno>Hs. 1377:700</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, maschinenschriftlich</p>
+                  </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal" n="firstPrint">
+                        <monogr>
+                           <author>Friedrich Wilhelm Graf/Alf Christophersen</author>
+                           <title>Die Korrespondenz zwischen Fritz Medicus und Paul Tillich</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                              <date when="2004">2004</date>
+                              <biblScope>126-147, hier: 131f. </biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Zeitschrift für neuere Theologiegeschichte</title>
+                           <biblScope>Bd. 11, H. 1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+              <date when="1929-04-29">29.04.1929</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1291">Fritz Medicus</persName>
+              <placeName ref="#tillich_place_id__381">Rüschlikon bei Zürich</placeName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="NH" when="2023-06-03">Initiale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2023-11-14">Endabnahme</change>
+        
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="postcard">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Haben Sie herzlichen Dank für Ihren Brief<note type="ea">Dieser Brief liegt nicht vor.</note> und Ihre Zusendung. Ich bin eben von <rs ref="#tillich_place_id__242" type="place">Korsika</rs> aus in <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> eingetroffen, und weiss infolgedessen über die <rs ref="#tillich_place_id__126" type="place">Dresdener</rs> Dinge noch nichts.<note type="ea">Vgl. hierzu auch die Briefe Paul Tillichs an Fritz Medicus vom <rs xml:id="L01016" type="letter">1. Mai 1929</rs> sowie vom <rs xml:id="L01024" type="letter">22. Mai 1929</rs>.</note> Ich gebe Ihnen Nachricht, sobald ich selbst von <rs ref="#tillich_place_id__126" type="place">Dresden</rs> Nachricht habe. Ich habe in der ganzen Sache nicht an Sie geschrieben, aber wie ich dazu stehe, werden Sie sich denken kønnen. --- Herzlichen Dank für die amüsante Plauderei über <rs ref="#tillich_place_id__119" type="place">Davos</rs>. Es war das erste, was ich darüber hørte. Gestern næheres von <rs ref="#tillich_person_id__1610" type="person">Dr. Riezler</rs>. Von ihrem <rs ref="tillich_work_id__14" type="work">Aufsatz</rs> über mich hørte ich unterwegs, er liegt wahrscheinlich bei meinen Drucksachen in <rs ref="#tillich_place_id__126" type="place">Dresden</rs>. Andernfalls schreibe ich noch. Auch dafür herzlichsten Dank.
+        </p>
+        <closer>
+           <salute>Viele Grüsse, auch an Ihre <rs ref="#tillich_person_id__2353" type="person">Frau</rs>
+              in grosser Eile Ihr
+           </salute>
+           <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
+        </closer>
+     </div>
+    </body>
+  </text>
+</TEI>
