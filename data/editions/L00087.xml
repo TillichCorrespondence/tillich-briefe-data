@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00070">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00087">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Johannes Tillich an Paul Tillich <lb/>vom 28. Juni 1905</title>
-            <author ref="#tillich_person_id__1924">Johannes Tillich</author>
+            <title>Postkarte von W. Nell an Paul Tillich <lb/>vom 20. August 1905 </title>
+            <author ref="#tillich_person_id__2159">W. Nell</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Paul Schömann</name>
@@ -40,7 +40,7 @@
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/205(16)</idno>
+                  <idno>bMS 649/209(4)</idno>
                </msIdentifier>
                <physDesc>
                   <p>Postkarte, eigenhändig</p>
@@ -60,13 +60,12 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1905-06-28">28.06.1905</date>
+               <persName ref="#tillich_person_id__2159">W. Nell</persName>
+               <placeName ref="#tillich_place_id__452">Ulm</placeName>
+               <date when="1905-08-20">20.08.1905</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__448">Tübingen</placeName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -74,9 +73,8 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="approved">
-         <change who="PS" when="2022-10-16">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2023-10-18">Endabnahme</change>
-         <change who="EL" when="2024-01-16">Korrektur</change>
+         <change who="PS" when="2022-08-23">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2024-01-17">Endabnahme</change>
       </revisionDesc>
    </teiHeader>
    <text type="postcard">
@@ -84,20 +82,23 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <salute>M. l. <rs ref="#tillich_person_id__1928" type="person">S</rs>.!</salute>
+               <salute>L. <rs type="person" ref="#tillich_person_id__1928">Tillich</rs>!</salute>
+               <dateline><rs ref="#tillich_place_id__452" type="place">Ulm a. D.</rs>, d. <date when="1905-08-20">20.
+                     Aug. 05</date></dateline>
             </opener>
-            <p>Gottlob, daß d. Verlauf bisher gut ist, wie wir nach Deinen Telegrammen<note type="ea">Diese Telegramme und Depeschen – teils von Studienkollegen an die Familie geschickt – sind nicht überliefert.</note> hoffen
-               dürfen.– Vielleicht reisen <rs ref="#tillich_person_id__1924" type="person"><rs ref="#tillich_person_id__2224" type="person">wir</rs></rs> der Hitze wegen schon Sonntag Abend ab u. fahren d.
-               Nacht durch, würden dann im Lauf d. Montags dort sein. Jedenfalls telegraphiere am
-               Sonntag schon eine <unclear cert="low">Mitteilung</unclear>! Genaure Nachricht sende
-               ich noch, auch von <unclear cert="low"><rs type="person" ref="#tillich_person_id__2723">Fuchs</rs></unclear>.– Gott helfe weiter.</p>
+            <p>An Deinem heutigen Geburtstag nehme ich mit herzl. Freude u. den besten Wünschen für
+               Dein körperl. u. geistiges Wohl Anteil! – Wir sind seit gestern hier u. die großen
+               Übungen der Brigade, Division u. des Manövers stehen uns bevor. Dazu haben wir jetzt
+               fast 3 Tage geruht, resp. gereist. Heute Mittag
+               waren wir auf dem Münsterturm: <hi rend="aq">ex profundis ad extra</hi>! Das zeigt,
+               dazu begeistert uns die Gothik. Erhaben über der Erde, doch noch auf der Erde. Selten
+               habe ich einen solchen gewaltigen Eindruck von der Schönheit der Tausenden Fialen u.
+               Türmchen, die nach oben streben gehabt, als von dieser Spitze aus herab auf die
+               unzähligen! - </p>
             <closer>
-               <salute>Gr. u. Kuß</salute>
-               <signed>D. tr. <rs ref="#tillich_person_id__1924" type="person">V.</rs></signed>
+               <salute>Grüße bitte D. l. <rs type="person" ref="#tillich_person_id__1924">Vater</rs>. In Tr. D. <rs ref="#tillich_person_id__2159" type="person">W.
+                  Nell</rs></salute>
             </closer>
-            <postscript>
-               <p><date when="1905-06-28">28/6. 05.</date></p>
-            </postscript>
          </div>
       </body>
    </text>

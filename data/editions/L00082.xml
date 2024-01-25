@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00070">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00082">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Johannes Tillich an Paul Tillich <lb/>vom 28. Juni 1905</title>
-            <author ref="#tillich_person_id__1924">Johannes Tillich</author>
+            <title>Postkarte von Johanna Tillich an Paul Tillich <lb/>vom 31. Juli 1905 </title>
+            <author ref="#tillich_person_id__644">Johanna Tillich</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Paul Schömann</name>
@@ -40,7 +40,7 @@
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/205(16)</idno>
+                  <idno>bMS 649/193</idno>
                </msIdentifier>
                <physDesc>
                   <p>Postkarte, eigenhändig</p>
@@ -60,9 +60,9 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1905-06-28">28.06.1905</date>
+               <persName ref="#tillich_person_id__644">Johanna Tillich</persName>
+               <placeName ref="#tillich_place_id__420">Stuttgart</placeName>
+               <date when="1905-07-31">31.07.1905</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
@@ -75,8 +75,7 @@
       </profileDesc>
       <revisionDesc status="approved">
          <change who="PS" when="2022-10-16">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2023-10-18">Endabnahme</change>
-         <change who="EL" when="2024-01-16">Korrektur</change>
+         <change who="EL" when="2024-01-17">Endabnahme</change>
       </revisionDesc>
    </teiHeader>
    <text type="postcard">
@@ -84,20 +83,24 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <salute>M. l. <rs ref="#tillich_person_id__1928" type="person">S</rs>.!</salute>
+               <dateline><date when="1905-07-31">31 <del rend="ow">August</del>Juli
+                  05.</date></dateline>
             </opener>
-            <p>Gottlob, daß d. Verlauf bisher gut ist, wie wir nach Deinen Telegrammen<note type="ea">Diese Telegramme und Depeschen – teils von Studienkollegen an die Familie geschickt – sind nicht überliefert.</note> hoffen
-               dürfen.– Vielleicht reisen <rs ref="#tillich_person_id__1924" type="person"><rs ref="#tillich_person_id__2224" type="person">wir</rs></rs> der Hitze wegen schon Sonntag Abend ab u. fahren d.
-               Nacht durch, würden dann im Lauf d. Montags dort sein. Jedenfalls telegraphiere am
-               Sonntag schon eine <unclear cert="low">Mitteilung</unclear>! Genaure Nachricht sende
-               ich noch, auch von <unclear cert="low"><rs type="person" ref="#tillich_person_id__2723">Fuchs</rs></unclear>.– Gott helfe weiter.</p>
+            <p>Hier sitzen wir | 3 Stunden, von Dir, | wäre O Geld nicht so dünn | so können wir
+               hin, | nun aber weiter | geht's ziemlich heiter. Morgen nach Hause aber erst einmal
+               Pause. | Am Mittwoch abend | O wie erlabend Neuenburgerstraße dann wieder bei Casse</p>
             <closer>
-               <salute>Gr. u. Kuß</salute>
-               <signed>D. tr. <rs ref="#tillich_person_id__1924" type="person">V.</rs></signed>
+               <salute>Viele Grüße von</salute>
+               <signed>Deiner Schwester <rs ref="#tillich_person_id__644" type="person">Johanna</rs></signed>
             </closer>
             <postscript>
-               <p><date when="1905-06-28">28/6. 05.</date></p>
+               <p>Deine Karte vom Sonntag hier
+                  erhalten.<note type="ea">Die Karte ist nicht überliefert.</note></p>
             </postscript>
+         </div>
+         <div>
+            <p>1000 Grüße. Schicke Geld von <rs type="place" ref="#tillich_place_id__37">Berlin</rs>,</p>
+            <closer><signed><rs ref="#tillich_person_id__1924" type="person">Papa</rs></signed></closer>
          </div>
       </body>
    </text>
