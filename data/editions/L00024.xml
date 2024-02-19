@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00024" xmlns="http://www.tei-c.org/ns/1.0" >
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Glückwunschkarte von Käte an Paul Tillich <lb/>vom 22. März 1902</title>
+<author ref="#tillich_person_id__2196">Käte</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Anna Rüther</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS649/218(1)</idno>
+</msIdentifier>
+<physDesc>
+<p>Glückwunschkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2196">Käte</persName>
+<placeName ref="where">Berlin</placeName>
+<date when="1902-03-22">22.03.1902</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Tillich, Paul</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-12-01" who="AR">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__37" type="place">Berlin</rs>
+   , den 
+   <date when="1902-03-22">22.03.1902</date>
+</dateline>
+</opener>
+<p> Herzlichen Glückwunsch zur Confirmation
+Er wird Deinen Fuss nicht gleiten lassen;
+und der Dich behütet, schläft nicht. <rs ref="Ps-121,3" type="bible">ps. 121,3.</rs>
+</p>
+<pb n="2"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__37" type="place">Berlin</rs>
+   , den 
+   <date when="1902-03-22">22.03.1902</date>
+</dateline>
+</opener>
+<p>Schütze und geleite Dich Gott, mein
+Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!
+</p>
+<closer>
+<salute>Mit innigster Liebe betet für Dich</salute>
+<signed>Deine treue <rs ref="#tillich_person_id__2196" type="person">Tante Käthe</rs>.</signed>
+</closer>
+<postscript>
+<p>Berlin, den 22./3.02.</p>
+</postscript>
+</div>
+</body>
+</text>
+</TEI>
