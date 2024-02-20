@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00192">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Hans Vethake an Paul Tillich <lb/>vom 19. August 1907 </title>
+            <author ref="#tillich_person_id__2147">Hans Vethake</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/209(2)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Posktarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2147">Hans Vethake</persName>
+               <placeName ref="#tillich_place_id__187">Gütersloh</placeName>
+               <date when="1907-08-19">19.08.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-08-17">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-02-06">Vorbereitende Endabnahme</change>
+         <change who="EL" when="2024-02-20">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">(<hi rend="b"
+                     >x</hi>)</rs>!</salute>
+            </opener>
+            <p><hi rend="u">Zwar</hi> solltest Du eigentlich einen Brief erhalten <hi rend="u"
+                  >aber</hi> es langt nicht! Warum? <hi rend="u">Zwar</hi> könnte ich fleißiges
+               Arbeiten vorschützen, nein – sogar ernsthaft behaupten, <hi rend="u">aber</hi>
+               richtiger ists schon wenn ich mangelnde Energie, Unlust etc zugestehe. Außerdem würde
+               es auch nichts vernünftiges und Du könntest den Unsinn nicht mal logisch zersägen
+               oder nur hinterher. Da ists schon gut wenn ich jetzt mit einem herzlichen Glück- und
+               Segenswunsch schließe</p>
+            <p>Inkonsequent ist diese Karte ja schon, im Schreiben habe ich die anfängliche
+               "Zwar-Aber" Disputation ganz vergessen! Schadet nichts!</p>
+            <closer>
+               <salute>Mit herzlichem Brudergruß</salute>
+               <signed>Dein tr. <rs type="person" ref="#tillich_person_id__2147">Hans Vethake</rs>
+                  <figure>
+                     <figDesc>Wingolfszirkel</figDesc>
+                  </figure>!</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
