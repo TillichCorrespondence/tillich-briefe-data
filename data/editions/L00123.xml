@@ -1,98 +1,98 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00123">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Hermann Schafft an Paul Tillich <lb/>vom 7. September 1906</title>
-            <author ref="#tillich_person_id__1696">Hermann Schafft</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00123" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Hermann Schafft an Paul Tillich <lb/>vom 7. September 1906</title>
+<author ref="#tillich_person_id__1696">Hermann Schafft</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008G</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008G</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
-               <placeName ref="#tillich_place_id__208">Hersfeld</placeName>
-               <date when="1906-09-07">07.09.1906</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-03-07">Intitale Auszeichnung des Transkripts</change>
-         <change who="NH" when="2024-02-01">Vorbereitung/Korrektur für die Endabnahme</change>
-         <change who="EL" when="2024-02-12">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__208" type="place"/>, den <date when="1906-09-07">7. 9.
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
+<placeName ref="#tillich_place_id__208">Hersfeld</placeName>
+<date when="1906-09-07">07.09.1906</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-03-07" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-02-01" who="NH">Vorbereitung/Korrektur für die Endabnahme</change>
+<change when="2024-02-12" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__208" type="place"/>, den <date when="1906-09-07">7. 9.
                   06.</date></dateline>
-               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Junge</rs>!</salute>
-            </opener>
-            <p>Vor mir sämmtliche Kirchenväter bis auf <rs ref="#tillich_person_id__899" type="person">Hilarius</rs>...
+<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Junge</rs>!</salute>
+</opener>
+<p>Vor mir sämmtliche Kirchenväter bis auf <rs ref="#tillich_person_id__899" type="person">Hilarius</rs>...
                grüße ich Dich an meinem massiven Stehpult stehend – fehlt nur noch Sammetjacke – als
                freiwilliger Mitarbeiter für Anstellung positiver Licentiaten durch den
                   b K. R.. mit gebührender Ehrfurcht –</p>
-            <p><foreign xml:lang="grc">πρωτον μεν ευχαριστω</foreign> für Deinen Brief<note type="ea">Nicht überliefert.</note>
+<p><foreign xml:lang="grc">πρωτον μεν ευχαριστω</foreign> für Deinen Brief<note type="ea">Nicht überliefert.</note>
                mit der zarten Glosse am Schluß, die ein späterer Εxeget,
                Deiner Briefe – ich denke daran, wie wir es augenblicklich mit denen von <rs ref="#tillich_person_id__2291" type="person"><hi rend="u">Firmilian</hi> v. <hi rend="u">Caeserea</hi></rs>
                machen – sicherlich für unecht erklärt, da<pb n="2"/> die bescheidene Anfrage nach
@@ -100,52 +100,52 @@
                Dogmengeschichte – <rs ref="#tillich_person_id__2291" type="person"><hi rend="u">Firmilian</hi></rs> und
                etwa den Presbyter – "<rs ref="#tillich_person_id__2292" type="person">Malchion</rs>" abgerechnet, – noch
                keine ähnliche Art vorgekommen.</p>
-            <p>Und nun gar das kirchenpolitische Manöver. <rs ref="#tillich_person_id__2293" type="person">Zänker</rs> verlegt in den Beiträgen – ist einigermaßen positiv, obwohl er
+<p>Und nun gar das kirchenpolitische Manöver. <rs ref="#tillich_person_id__2293" type="person">Zänker</rs> verlegt in den Beiträgen – ist einigermaßen positiv, obwohl er
                ganz froh war in Erlangen, auf die Bekenntnisse (<abbr>F<expan>ormula</expan>C<expan>oncordiae</expan></abbr><unclear>¿¿¿ ¿¿¿</unclear> pp.)
                nicht <hi rend="aq"><foreign xml:lang="lat">quia</foreign></hi> sondern <hi rend="aq"><foreign xml:lang="lat">quatenus</foreign></hi> verpflichtet zu werden.
                Seine Arbeit war <hi rend="aq"><foreign xml:lang="fr">autant que je sais</foreign></hi> Kirchengeschichtlich. Im
                übrigen hat er sich wohl viel mit der altlutherschen <hi rend="u">Orthodoxie</hi>
-               herumgeschlagen.<pb n="3"/> Er ist in <rs type="place" ref="#tillich_place_id__614"><hi rend="u">Godesberg</hi></rs> glücklich verheiratet. Seine Frau kenne ich nur dem
+               herumgeschlagen.<pb n="3"/> Er ist in <rs ref="#tillich_place_id__614" type="place"><hi rend="u">Godesberg</hi></rs> glücklich verheiratet. Seine Frau kenne ich nur dem
                Namen nach. –</p>
-            <p>Na, genug des Daddelns –</p>
-            <p>Also: positiv, abkömmlich, – hie in
-               <rs type="place" ref="#tillich_place_id__136">Erlangen</rs>, begabt, – weder moderne positive Theologie, noch
+<p>Na, genug des Daddelns –</p>
+<p>Also: positiv, abkömmlich, – hie in
+               <rs ref="#tillich_place_id__136" type="place">Erlangen</rs>, begabt, – weder moderne positive Theologie, noch
                Theologie des alten Glaubens sondern Hallenser z. T. <rs ref="#tillich_person_id__1227" type="person">Schmuel</rs>-<rs ref="#tillich_person_id__408" type="person">Kremer</rs>
-               <rs ref="#tillich_person_id__1712" type="person">Schlatter</rs>. – Natürlich, alles soweit ich ihn kenne!
+<rs ref="#tillich_person_id__1712" type="person">Schlatter</rs>. – Natürlich, alles soweit ich ihn kenne!
                Jedenfalls diesseits des Glaubens cf. seine Aufstellung gegen den liberalen
                Römer.–</p>
-            <p>Doch davon genug! Ein wenig noch zu Dir. – Deine Arbeit macht mir von ferne Freude;
+<p>Doch davon genug! Ein wenig noch zu Dir. – Deine Arbeit macht mir von ferne Freude;
                nur bitte ich Dich energisch, mir Deine neue Rechtfertigungslehre<!--<note type="ea">Rechtfertigungslehre</note>--> schleunig
                mitzuteilen. Mit solcher oberflächlichen Eleganz <rs ref="#tillich_person_id__1227" type="person">Schmul</rs> abtun – kann<pb n="5"/> jeder. Bitte aber dringend um die
                Position àla <rs ref="#tillich_person_id__1928" type="person">Paul T</rs>:.. – Ich habe zu solchen Tiefen keine Zeit. Das wirst Du an
                meiner Arbeit deutlich merken. Zu einem vorherigen Durcharbeiten des Epheserbriefes rate ich dir in meinem Interesse
                nicht. – Fast freue ich mich, wenn ich Dich etwas mit Nachschlagen quälen kann. –
-               Heute hat meine <rs type="person" ref="#tillich_person_id__1697">Mutter</rs> einige Tage von den gräßlichsten Schmerzen geplagt sich einige
+               Heute hat meine <rs ref="#tillich_person_id__1697" type="person">Mutter</rs> einige Tage von den gräßlichsten Schmerzen geplagt sich einige
                Zähne reißen lassen – Menschenskind (in Narkose – ) wie habe ich an Dich denken
                müssen. – Ein Häufchen Unglück lagst Du vor mir damals vor der Metzelei in
-               <rs type="place" ref="#tillich_place_id__448"><hi rend="u">Tübingen</hi></rs>. Eigentlich mußt Du sehr
+               <rs ref="#tillich_place_id__448" type="place"><hi rend="u">Tübingen</hi></rs>. Eigentlich mußt Du sehr
                dankbar sein für das verflossene Lebensjahr! Laß Dich aber doch hin u. wieder
                untersuchen. So ganz sorglos zu sein, ist nicht recht.<pb n="6"/> Im übrigen ist's
-               mit meiner <rs type="person" ref="#tillich_person_id__1697">Mutter</rs> pp. gut gegangen – freilich hat sie noch Fieber. – Daß Dir der x –
+               mit meiner <rs ref="#tillich_person_id__1697" type="person">Mutter</rs> pp. gut gegangen – freilich hat sie noch Fieber. – Daß Dir der x –
                reizende Karten schreibt, oft ja sehr nett – mir hat er auch eine geschrieben, worauf
                er mitteilt, daß er statt über mich zu reisen – den <hi rend="u">Rheinweg</hi> wählt.
                Na schön.. Dafür kommt <rs ref="#tillich_person_id__1743" type="person">Daniel Schubert</rs>. Meine
                Arbeiten – ach <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs> – Na ich freue mich auf die
                entlegene Bude.. Heute Nacht komme ich nicht vor 2 in die Falle. Es wird <hi rend="u">Birnenmuß</hi> gerührt. So könntest du <figure>
-                  <figDesc>Hermann Schafft rührt an seinem Birnenmus</figDesc>
-               </figure> mich vor unserem Waschkessel in dem die Birnen brodeln rührend im wahrsten
+<figDesc>Hermann Schafft rührt an seinem Birnenmus</figDesc>
+</figure> mich vor unserem Waschkessel in dem die Birnen brodeln rührend im wahrsten
                Sinne stehen sehen. S' wär noch netter wie ein Bummel, <hi rend="u">das</hi>
                gemeinsam tun zu<pb n="7"/> können. Die Nachtstunden streichen langsam dahin –
                herrliche Düfte aus dem Kessel umgaukeln die Nase – dazu dann träumt man allerlei
                Zwangsvorstellungen durch das immer gerührter werdende Mus veranlaßt. –</p>
-            <p>Ja, überhaupt mein Junge, Dir wäre es viel besser statt in so abgelebten Bädern
+<p>Ja, überhaupt mein Junge, Dir wäre es viel besser statt in so abgelebten Bädern
                herumzukultivieren mal hier <hi rend="u">Landbrot</hi> zu essen u. <hi rend="u">Milch</hi> zu trinken – in den Wäldern – nicht nur im Gärtchen zu leben etc. Wenn
                ich mein Examen bestehen sollte – <hi rend="u">mußt</hi> Du mal hier her, Du wirst
                dann von mir zu dem Deinigen eingepauckt.<pb n="8"/> Im übrigen bist Du dann – übers
                Jahr 7tes Semester!! – Wenn ich denke, daß ich 8tes bin so graut mir ganz
                entsetzlich. Es müssen Wunder geschehen. –</p>
-            <p>Die <hi rend="u">Historiografie</hi> habe ich dankend erhalten – u. pflichtschuldigst
-               korrigiert.<note type="ea">Hermann Schafft bezieht sich auf ein nicht überliefertes Antwortschreiben auf <rs type="letter" ref="L000120">Brief von Hermann Schafft an Paul Tillichvom 26. August 1906</rs>.</note> NB sind hoffentlich die <hi rend="u">Schlatter</hi>predigten bei Dir angekommen? Von dem X und mir, in
+<p>Die <hi rend="u">Historiografie</hi> habe ich dankend erhalten – u. pflichtschuldigst
+               korrigiert.<note type="ea">Hermann Schafft bezieht sich auf ein nicht überliefertes Antwortschreiben auf <rs ref="L000120" type="letter">Brief von Hermann Schafft an Paul Tillichvom 26. August 1906</rs>.</note> NB sind hoffentlich die <hi rend="u">Schlatter</hi>predigten bei Dir angekommen? Von dem X und mir, in
                aller Bescheidenheit <foreign xml:lang="grc">δόσις ὀλίγη τε φίλη</foreign>.– Beinahe hätte ich Dir noch ein Bild der
                Laokoongruppe zugeschenkt. <hi rend="u">Der Geburtstag des ersten schreibt: schon
                      <unclear>¿¿¿</unclear> auf sächsischem <unclear>¿¿¿</unclear> ist am 26
@@ -156,27 +156,27 @@
                das schön geschmückte Haus der alte Teufel mit 7 Geistern seiner Art behaglich
                zurückgekehrt... Was kann ich Armer <hi rend="u">Examens</hi>kandidat denn noch tun –
                hoffentlich hast Du Mitleid und kommst recht geschraubt und geölt nach
-               <rs type="place" ref="#tillich_place_id__189">Ha</rs>! – Gestern war <rs type="person" ref="#tillich_person_id__2849">D <unclear>Eike</unclear></rs>
-               (<rs type="place" ref="#tillich_place_id__68">Bonn</rs>) hier, wollte mit mir kirchengeschichtlich sich
+               <rs ref="#tillich_place_id__189" type="place">Ha</rs>! – Gestern war <rs ref="#tillich_person_id__2849" type="person">D <unclear>Eike</unclear></rs>
+               (<rs ref="#tillich_place_id__68" type="place">Bonn</rs>) hier, wollte mit mir kirchengeschichtlich sich
                unterhalten – nb. weißt Du (<hi rend="aq"><foreign xml:lang="lat">silentium</foreign></hi>!!!) vielleicht irgend einen liberalen
-               Licentiaten – ich meine.... na – also – wegen bestimmter Zwecke.... die <rs type="person" ref="#tillich_person_id__2849"><unclear>Eike</unclear></rs> u. ich
+               Licentiaten – ich meine.... na – also – wegen bestimmter Zwecke.... die <rs ref="#tillich_person_id__2849" type="person"><unclear>Eike</unclear></rs> u. ich
                gemeinsam verfolgen.... Na, lieber <del rend="s">L</del>
-               <rs ref="#tillich_person_id__1928" type="person">Paul</rs>, nun schreib' mir bitte schnell mal einen
+<rs ref="#tillich_person_id__1928" type="person">Paul</rs>, nun schreib' mir bitte schnell mal einen
                reizenden Brief, damit ich sehe, daß Du mich ein bisschen bemitleidest oder so was
                ähnliches... Dazu: Themen für die Arbeit fällig in 14-21 Tagen. Meine neue "Ref.
                lehre" v. <rs ref="#tillich_person_id__1928" type="person">P Till..</rs>
-            </p>
-            <closer>
-               <salute>Leb' wohl mein <rs ref="#tillich_person_id__1928" type="person">boy</rs>! Mensch denk' an <rs type="place" ref="#tillich_place_id__448">Tübingen</rs> u. sei
+</p>
+<closer>
+<salute>Leb' wohl mein <rs ref="#tillich_person_id__1928" type="person">boy</rs>! Mensch denk' an <rs ref="#tillich_place_id__448" type="place">Tübingen</rs> u. sei
                   dankbar! Was haben wir's so gut </salute>
-               <signed>Dein tr. <rs ref="#tillich_person_id__1696" type="person">Herm</rs></signed>
-            </closer>
-            <postscript>
-               <p>PS 1<formula notation="TeX">\frac{1}{4}</formula> h: eben vom Rühren kommend noch
-                  gute Nacht – habe deinen Dickens in Auswahl vorgelesen: <rs type="work" ref="#tillich_work_id__210" n="213–239">Podsnapperei</rs> u.
+<signed>Dein tr. <rs ref="#tillich_person_id__1696" type="person">Herm</rs></signed>
+</closer>
+<postscript>
+<p>PS 1<formula notation="TeX">\frac{1}{4}</formula> h: eben vom Rühren kommend noch
+                  gute Nacht – habe deinen Dickens in Auswahl vorgelesen: <rs n="213–239" ref="#tillich_work_id__210" type="work">Podsnapperei</rs> u.
                      <unclear>¿¿¿</unclear> (glänzend!) </p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

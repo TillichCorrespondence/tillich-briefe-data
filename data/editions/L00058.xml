@@ -1,92 +1,92 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00058">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Johannes Tillich an Paul Tillich <lb/>vom 1. Juni 1905. </title>
-            <author ref="#tillich_person_id__1924">Johannes Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00058" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Johannes Tillich an Paul Tillich <lb/>vom 1. Juni 1905. </title>
+<author ref="#tillich_person_id__1924">Johannes Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/205(15)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/205(15)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1905-06-01">01.06.1905</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-08-30">Intitale Auszeichnung des Transkripts</change>
-         <change who="EL" when="2024-01-15">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="ersteHandschrift">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>, <date when="1905-06-01"
-                     >Himmelfahrt 1905</date></dateline>
-               <salute>Mein Herzensjunge!</salute>
-            </opener>
-            <p>Nun habe ich dich zum 1. Mal an meinem Geburtstag nicht bei mir.
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1905-06-01">01.06.1905</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-08-30" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-01-15" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="ersteHandschrift">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>, <date when="1905-06-01">Himmelfahrt 1905</date></dateline>
+<salute>Mein Herzensjunge!</salute>
+</opener>
+<p>Nun habe ich dich zum 1. Mal an meinem Geburtstag nicht bei mir.
                Da will ich denn etwas länger schreiben. Am Dienstag fand schon d. übliche Feier in
                der biblischen Besprechung statt. Die Jungfrauen schenkten mir e. Phonographen, wie
                ich ihn zum Diktieren schon lange gewünscht habe. Das Diktieren mittelst des Apparats
@@ -94,37 +94,35 @@
                Musikstücke und macht uns allen Freude. Am <date when="1905-06-03">3. Juni</date> Nachmittag 5 Uhr findet der Einzug
                d. <rs ref="#tillich_person_id__2718" type="person">Kronprinzen</rs> hier statt; wir werden versuchen, etwas zu sehen, doch wird es
                   <unclear cert="medium">wohl schwer halten</unclear></p>
-         </div>
-         <div type="zweiteHandschrift">
-            <p>(ich soll weiter schreiben, damit du besser lesen kannst) Die Studentenschaft ist
+</div>
+<div type="zweiteHandschrift">
+<p>(ich soll weiter schreiben, damit du besser lesen kannst) Die Studentenschaft ist
                   <sic>offiziel</sic> bei d. Einholung nicht beteiligt. Dafür bringt sie Sonntag
                Abend einen Fackelzug. Wir werden nichts davon sehen, weil gleichzeitig
                Geburtstagsfeier bei uns stattfindet. Dies ist Sonnabend nicht möglich wegen der
                Pfingstbetstunde. Ich lege dir ein <sic>Program</sic> der Betstunden bei, damit du
                   täglich<pb n="3"/> aus der Ferne etwas teilnehmen kannst.–</p>
-            <p>Daß deine Wunde<note type="ea">Paul Tillich hatte während des Sommersemesters 1905 in Tübingen wiederholt eine Ohrenerkankung. Vgl. <rs type="letter" ref="L00056">Brief von Toni Winkler an Paul Tillich vom 19. Mai 1905</rs>, <rs type="letter" ref="L00059">Brief von Toni Winkler an Paul Tillich vom 05. Juni 1905</rs>, <rs type="letter" ref="L00065">Brief von Johannes Tillich an Paul Tillich vom 23. Juni 1905</rs>, <rs type="letter" ref="L00067">Brief von Gerich an Paul Tillich vom 26. Juni 1905</rs>, sowie <rs type="work" ref="#tillich_work_id__97" n="541">GW XIII, 541</rs>;<rs type="work" ref="#tillich_work_id__96" n="26">EW V, 26</rs>.</note> nicht schneller heilt, ist mir nicht lieb. Schreibe mir noch einmal
+<p>Daß deine Wunde<note type="ea">Paul Tillich hatte während des Sommersemesters 1905 in Tübingen wiederholt eine Ohrenerkankung. Vgl. <rs ref="L00056" type="letter">Brief von Toni Winkler an Paul Tillich vom 19. Mai 1905</rs>, <rs ref="L00059" type="letter">Brief von Toni Winkler an Paul Tillich vom 05. Juni 1905</rs>, <rs ref="L00065" type="letter">Brief von Johannes Tillich an Paul Tillich vom 23. Juni 1905</rs>, <rs ref="L00067" type="letter">Brief von Gerich an Paul Tillich vom 26. Juni 1905</rs>, sowie <rs n="541" ref="#tillich_work_id__97" type="work">GW XIII, 541</rs>;<rs n="26" ref="#tillich_work_id__96" type="work">EW V, 26</rs>.</note> nicht schneller heilt, ist mir nicht lieb. Schreibe mir noch einmal
                   <hi rend="u">ausdrücklich</hi>, ob die Heilung <hi rend="u">wenigstens normal</hi>
                verläuft. <del rend="s">Ich</del>
-               <hi rend="sup">Und</hi> teile <del rend="s">Dir</del> mir zugleich mit, ob die Reise
-               nach <rs type="place" ref="#tillich_place_id__132"><hi rend="aq"><sic>Eisengach</sic></hi></rs><note type="ea">Vom 13. bis 16. Juni 1905 fand die vierte Eisenacher Konferenz statt. Vgl. <rs type="work" ref="#tillich_work_id__120">Vorstand des Eisenacher Bundes: Verhandlungen der Vierten Eisenacher Konferenz (1905)</rs>.</note>
-               endgültig aufzugeben ist. Diese Nachrichten sende mir bitte <hi rend="u"
-                  >umgehend</hi>, da sie für meine eigenen Entschließungen maßgebend sind. Ich denke
-               nicht zur <rs type="place" ref="#tillich_place_id__467">Wartburg</rs><note type="ea">Gemeint ist das jährlich stattfindende Wartburgfest.</note> zu reisen, wenn Du nicht dort bist. Wir würden uns dann, so Gott
-               will, kaum 3 Wochen später in <rs type="place" ref="#tillich_place_id__448"><hi rend="aq">Tübingen</hi></rs>
+<hi rend="sup">Und</hi> teile <del rend="s">Dir</del> mir zugleich mit, ob die Reise
+               nach <rs ref="#tillich_place_id__132" type="place"><hi rend="aq"><sic>Eisengach</sic></hi></rs><note type="ea">Vom 13. bis 16. Juni 1905 fand die vierte Eisenacher Konferenz statt. Vgl. <rs ref="#tillich_work_id__120" type="work">Vorstand des Eisenacher Bundes: Verhandlungen der Vierten Eisenacher Konferenz (1905)</rs>.</note>
+               endgültig aufzugeben ist. Diese Nachrichten sende mir bitte <hi rend="u">umgehend</hi>, da sie für meine eigenen Entschließungen maßgebend sind. Ich denke
+               nicht zur <rs ref="#tillich_place_id__467" type="place">Wartburg</rs><note type="ea">Gemeint ist das jährlich stattfindende Wartburgfest.</note> zu reisen, wenn Du nicht dort bist. Wir würden uns dann, so Gott
+               will, kaum 3 Wochen später in <rs ref="#tillich_place_id__448" type="place"><hi rend="aq">Tübingen</hi></rs>
                sehen.</p>
-            <pb n="4"/>
-            <p>Für meine Reisepläne fällt auch ins Gewicht, daß heute eine Einladung von Herrn <rs type="person" ref="#tillich_person_id__800"><hi rend="aq">Harder</hi></rs> zur Hochzeit für mich kam,
+<pb n="4"/>
+<p>Für meine Reisepläne fällt auch ins Gewicht, daß heute eine Einladung von Herrn <rs ref="#tillich_person_id__800" type="person"><hi rend="aq">Harder</hi></rs> zur Hochzeit für mich kam,
                der ich, wenn möglich, doch folgen muß (<date when="1905-06-21">21 Juni</date>).</p>
-            <p>Vorgestern schickte ich 100 M. an Dich, sie werden vorläufig reichen.–</p>
-            <p>Was du über d. Theologie <rs type="person" ref="#tillich_person_id__1227"><hi rend="aq"
-                  >Lütgerts</hi></rs> schreibst, ist mir verständlich; es scheint dabei
-               dasjenige zu fehlen, was <rs type="person" ref="#tillich_person_id__484"><hi rend="aq">Dorner</hi></rs>
-               in seiner von Dir gelesenen <rs type="work" ref="#tillich_work_id__121">Einleitung zur <hi rend="aq">Dogmatik</hi></rs> hat.
+<p>Vorgestern schickte ich 100 M. an Dich, sie werden vorläufig reichen.–</p>
+<p>Was du über d. Theologie <rs ref="#tillich_person_id__1227" type="person"><hi rend="aq">Lütgerts</hi></rs> schreibst, ist mir verständlich; es scheint dabei
+               dasjenige zu fehlen, was <rs ref="#tillich_person_id__484" type="person"><hi rend="aq">Dorner</hi></rs>
+               in seiner von Dir gelesenen <rs ref="#tillich_work_id__121" type="work">Einleitung zur <hi rend="aq">Dogmatik</hi></rs> hat.
                Allerdings muß ja der Theologe als solcher von gegebenen Größen ausgehen und hat
                ihren Inhalt zu entwickeln und als vernunftgemäß zu begründen. Die rein induktive
-               Methode führt nie zur Evidenz, vergl. <rs type="person" ref="#tillich_person_id__1020">Kants</rs> Kritik
-               d. Gottesbeweise<note type="ea">Vgl. <rs type="work" ref="#tillich_work_id__122" n="668–699">Immanuel Kant: Kritik der reinen Vernunft (1781), 668–699</rs>.</note>;<note type="ea">An dieser Stelle endet der Brief abrupt.</note></p>
-         </div>
-      </body>
-   </text>
+               Methode führt nie zur Evidenz, vergl. <rs ref="#tillich_person_id__1020" type="person">Kants</rs> Kritik
+               d. Gottesbeweise<note type="ea">Vgl. <rs n="668–699" ref="#tillich_work_id__122" type="work">Immanuel Kant: Kritik der reinen Vernunft (1781), 668–699</rs>.</note>;<note type="ea">An dieser Stelle endet der Brief abrupt.</note></p>
+</div>
+</body>
+</text>
 </TEI>

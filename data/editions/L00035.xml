@@ -1,100 +1,101 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00035">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Gustav Dürselen an Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00035" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Gustav Dürselen an Paul Tillich
                <lb/>vom 19. August 1904 [PS]
             </title>
-            <author ref="#tillich_person_id__2237">Gustav Dürselen</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Sebastian Kueffner</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                  <idno>bMS 649/137(46)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-                  </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__2237">Gustav Dürselen</persName>
-              <placeName ref="#tillich_place_id__37">Berlin</placeName>
-              <date when="1904-08-19">19.08.1904</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="SK" when="2023-12-20">Initiale Auszeichnung des Transkripts</change>
-        <change who="SK" when="2023-12-20">rs ID der Schwestern Tillichs nachgebessert</change>
-        <change who="EL" when="2024-01-09">Endabnahme</change>
-     </revisionDesc>
-  </teiHeader>
-  <text type="postcard">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>       
-           <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
-        </opener>
-        <p>
+<author ref="#tillich_person_id__2237">Gustav Dürselen</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Sebastian Kueffner</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS 649/137(46)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2237">Gustav Dürselen</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1904-08-19">19.08.1904</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-12-20" who="SK">Initiale Auszeichnung des Transkripts</change>
+<change when="2023-12-20" who="SK">rs ID der Schwestern Tillichs nachgebessert</change>
+<change when="2024-01-09" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+</opener>
+<p>
            Meinen herzlichsten Glück und Segenswunsch
            zu Deinem <date from="1886-08-20" to="1904-08-20">Geburtstage</date> aber noch besonders
            für Dich mein l. <rs ref="#tillich_person_id__1928" type="person">P.</rs> in dieser für Dich so erregten
-           Zeit.</p> 
-        <closer>
-           <salute>Mit herzl. Grüßen an Deinen <rs ref="#tillich_person_id__1924" type="person">lieben Vater</rs>
+           Zeit.</p>
+<closer>
+<salute>Mit herzl. Grüßen an Deinen <rs ref="#tillich_person_id__1924" type="person">lieben Vater</rs>
               und <rs ref="#tillich_person_id__644" type="person"><rs ref="#tillich_person_id__1762" type="person">Schwestern</rs></rs> verbleibt Dein tr. <rs ref="#tillich_person_id__2237" type="person">Großvater</rs></salute>
-           <signed><rs ref="#tillich_person_id__2237" type="person">Gustav Dürselen</rs>.</signed>
-        </closer>
-     </div>
-    </body>
-  </text>
+<signed><rs ref="#tillich_person_id__2237" type="person">Gustav Dürselen</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

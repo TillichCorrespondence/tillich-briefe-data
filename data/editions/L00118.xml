@@ -1,95 +1,94 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00118">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Alfred Fritz an Paul Tillich <lb/>vom 21. August 1906 </title>
-            <author ref="#tillich_person_id__641">Alfred Fritz</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00118" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Alfred Fritz an Paul Tillich <lb/>vom 21. August 1906 </title>
+<author ref="#tillich_person_id__641">Alfred Fritz</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/143(10)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/143(10)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
-               <placeName ref="#tillich_place_id__58">Bethel</placeName>
-               <date when="1906-08-21">21.08.1906</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="1886-08-20">Intitale Auszeichnung des Transkripts</change>
-         <change who="GM" when="2023-03-22">Ergänzung der Personen IDs</change>
-         <change who="PS" when="2024-01-23">Vorbereitung zur Endabnahme</change>
-         <change who="EL" when="2024-02-07">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__58" type="place">Bethel</rs>. <date
-                     when="1906-08-21">21. Aug. 06.</date></dateline>
-               <salute>Mein liebes <rs ref="#tillich_person_id__1928" type="person"
-                  >Paulchen</rs>!</salute>
-            </opener>
-            <p>Nun hätte ich Deinen Geburtstag beinahe vergessen. Ich lebe eben in einer ganz
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+<placeName ref="#tillich_place_id__58">Bethel</placeName>
+<date when="1906-08-21">21.08.1906</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="1886-08-20" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-03-22" who="GM">Ergänzung der Personen IDs</change>
+<change when="2024-01-23" who="PS">Vorbereitung zur Endabnahme</change>
+<change when="2024-02-07" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__58" type="place">Bethel</rs>. <date when="1906-08-21">21. Aug. 06.</date></dateline>
+<salute>Mein liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+</opener>
+<p>Nun hätte ich Deinen Geburtstag beinahe vergessen. Ich lebe eben in einer ganz
                anderen Welt. So hohle ich es hiermit von ganzem Herzen nach. Ich weiß ja nichts
                Besonderes Dir zu wünschen. Aber ich wünsche Dir eben alles Gute u. was für uns beide
                wichtig ist, guten Fortgang des Studiums in jeder Beziehung. Besonders daß Du immer
@@ -102,14 +101,12 @@
                u. um <formula notation="TeX">\frac{1}{2}</formula>6<hi rend="sup">h</hi> die Jungens
                geweckt. Ich habe etwa 14 Jungens, die durch die vielen Anfälle ziemlich verblödet
                sind. Die meisten sind ganz hilflos, so müssen sie angezogen u. gewaschen werden. Um
-                  <formula notation="TeX">\frac{1}{2}</formula>7<hi
-                  rend="sup">h</hi> ist Kaffee. Dann gehen die, die noch einigermaßen denken können,
+                  <formula notation="TeX">\frac{1}{2}</formula>7<hi rend="sup">h</hi> ist Kaffee. Dann gehen die, die noch einigermaßen denken können,
                in die Schule. 3 sind so, daß sie auch in diese Schule, wo ja die mindesten Ansprüche
                gestellt werden, nicht gehen können. Inzwischen muß ich den Schlafsaal aufwischen u.
                bürsten, die Betten machen die natürlich teilweise naß sind u.
                   es sitzt auch etwas wohlriechendes meistens drin.<pb n="3"/> Da wird
-               geputzt u. abgestaubt, das ist eine Freude. Nachher um <formula notation="TeX"
-                  >\frac{1}{2}</formula>9<hi rend="sup">h</hi> ist
+               geputzt u. abgestaubt, das ist eine Freude. Nachher um <formula notation="TeX">\frac{1}{2}</formula>9<hi rend="sup">h</hi> ist
                wieder Kaffee. Man sollte denken, daß man mit diesen unappetitlichen Jünglingen
                zusammen nicht gut essen kann, aber solche Flausen verlieren sich rasch u. ich habe
                noch nie so viel gegessen wie hier. Ich glaube ich könnte es sogar an Eurem Tisch in
@@ -121,8 +118,7 @@
                man muß neben ihm knien, ihn stützen den Schaum u. Blut abwischen, u. ihn halten,
                sonst rennt er durch, inzwischen haben sich die Anderen zerstreut u. man muß sie
                wieder zusammenbringen, kurz es ist eine arge Rennerei. Nachher ist Kaffee u. um
-                  <formula notation="TeX">\frac{1}{2}</formula>7<hi
-                  rend="sup">h</hi> Nachtessen u. dann gehen die Jungens ins Bett. Die Station muß
+                  <formula notation="TeX">\frac{1}{2}</formula>7<hi rend="sup">h</hi> Nachtessen u. dann gehen die Jungens ins Bett. Die Station muß
                noch aufgeschrubt werden, dann habe ich frei. Es ist also ein ungewohntes
                Leben, aber doch sehr schön. Die Vernünftigeren der Jungens sind sehr dankbar, Andere
                sind ja viel zu dumm dazu, u. vor u. nach den Anfällen<del rend="s">,</del> sind sie
@@ -131,15 +127,15 @@
                zusammen gegen das Elend dieser Kinder, die unter einem elenden Leben nur immer mehr
                verblöden, u. doch sagen sie am liebsten: "Gott ist die Liebe, er liebt auch mich"
                Das ist Theologie der Blöden.</p>
-            <closer>
-               <salute>Es grüßt herzlich</salute>
-               <signed>Dein <rs ref="#tillich_person_id__641" type="person">Alfred</rs></signed>
-            </closer>
-            <postscript>
-               <p>Eine herzliche Empfehlung an Deinen <rs type="person" ref="#tillich_person_id__1924">Vater</rs>, <rs type="person" ref="#tillich_person_id__644">Schwester</rs> u. Fräulein.</p>
-               <p>Entschuldige die Eile ich muß gleich zum Dienst.</p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+<closer>
+<salute>Es grüßt herzlich</salute>
+<signed>Dein <rs ref="#tillich_person_id__641" type="person">Alfred</rs></signed>
+</closer>
+<postscript>
+<p>Eine herzliche Empfehlung an Deinen <rs ref="#tillich_person_id__1924" type="person">Vater</rs>, <rs ref="#tillich_person_id__644" type="person">Schwester</rs> u. Fräulein.</p>
+<p>Entschuldige die Eile ich muß gleich zum Dienst.</p>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

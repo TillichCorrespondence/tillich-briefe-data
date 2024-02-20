@@ -1,89 +1,90 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00064">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Schwester Therese an Paul Tillich <lb/>vom 21. Juni 1905 </title>
-            <author ref="#tillich_person_id__2192">Schwester Therese</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00064" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Schwester Therese an Paul Tillich <lb/>vom 21. Juni 1905 </title>
+<author ref="#tillich_person_id__2192">Schwester Therese</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/192(11)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/192(11)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__2192">Schwester Therese</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1905-06-21">21.06.1905</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-03-29">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2023-10-18">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener> </opener>
-            <p>
-               <lb/>Ihr herzlicher Gruß hat mich sehr erfreut <lb/>Und möcht ich denselben
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2192">Schwester Therese</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1905-06-21">21.06.1905</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-03-29" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-10-18" who="PS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener> </opener>
+<p>
+<lb/>Ihr herzlicher Gruß hat mich sehr erfreut <lb/>Und möcht ich denselben
                   <sic>erwiedern</sic> nun heut. <lb/>Zuvor aber bitt ich den Herrn Philosophen
                   <lb/><hi rend="u">Allein</hi> sich zu amüsieren über die holprigen Strophen —
                <lb/>Wenn er es nicht thut, blamiert er sich selbst <lb/>Weil er mit <hi rend="u">solch</hi> einer dummen Freundschaft noch hält. <lb/>Gedanken, nicht gebunden an
@@ -94,7 +95,7 @@
                hat sicher auch Ihnen gelehrt: <lb/>Wie einsam sein und die eigne Gesellschaft lieben
                <lb/>Zuweilen sehr nöthig und heilsam ist. <lb/>Doch doppelt gefreut dafür hab ich
                wirklich mich <lb/>Als ich vernommen, daß Ihr Allgemeinbefinden ein gutes ist.<pb n="2"/>
-               <lb/>Von Herzen wünsch ich, daß es so bleibt <lb/>Wodurch wird erhöht des
+<lb/>Von Herzen wünsch ich, daß es so bleibt <lb/>Wodurch wird erhöht des
                Wiederseh'ns Freud'. <lb/>Ein Weilchen muß freilich ich noch harren darauf <lb/>Kann
                sehen derweil noch manch Wässerlein laufen bergab und bergauf - <lb/>Ja mehr noch -
                mit Schrecken seh ich kommen den Tag <lb/>An welchen ich heut noch nicht denken mag.
@@ -106,11 +107,11 @@
                <lb/>Und hat mein <rs ref="#tillich_person_id__1928" type="person">Paul</rs> einst wieder Lust und Zeit
                <lb/>Weiß ich, daß durch ein paar Zeilen er gern wieder erfreut <lb/>Die nun bald
                einsam hier weilende <lb/><rs ref="#tillich_person_id__2192" type="person">Schwester Therese</rs>
-            </p>
-            <postscript>
-               <p><rs ref="#tillich_place_id__37" type="place">Berlin</rs> 21. Juni 1905</p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+</p>
+<postscript>
+<p><rs ref="#tillich_place_id__37" type="place">Berlin</rs> 21. Juni 1905</p>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

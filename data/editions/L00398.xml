@@ -1,114 +1,113 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00398">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Alfred Fritz
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00398" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Alfred Fritz
                     <lb/>vom 17. Oktober 1914
                 </title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name>Emil Lusser</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>        
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                        <idno>bMS 649/184(6)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig</p>
-                    </physDesc>
-                    <additional>
-                        <listBibl>
-                            <biblStruct type="monograph" n="firstPrint">
-                                <monogr>
-                                    <author>Paul Tillich</author>
-                                    <title>Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge, Berichte</title>
-                                    <edition>1. Auflage</edition>
-                                    <imprint>
-                                        <publisher>Renate Albrecht und Margot Hahl</publisher>
-                                        <pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
-                                            <date when="1980">1980</date>
-                                                <biblScope>81f.</biblScope>
-                                    </imprint>
-                                </monogr>
-                                <series>
-                                    <title>Gesammelte Werke. Ergänzungs- und Nachlaßbände</title>
-                                    <biblScope>Band 5&gt;</biblScope>
-                                </series>
-                            </biblStruct>
-                        </listBibl>
-                    </additional>
-                </msDesc>       
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc> 
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__61">Bieuxy</placeName>
-                    <date when="1914-10-17">17.10.1914</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change who="EL" when="2022-04-14">Intitale Auszeichnung des Transkripts</change>
-            <change who="GM" when="2023-09-25">Endabnahme</change>
-            
-            
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession1">
-                <pb n="1"/>
-                <opener>
-                    <dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, d. <date when="1994-10-14">14.Oktober 1914</date>.</dateline>
-                    <salute>Lieber <rs ref="#tillich_person_id__641" type="person">Frede</rs>!</salute>
-                </opener>
-                <p>Ich hoffe, daß Du von allerhand Winkeln her allerhand über mich gehört hast, von den unruhigen Tagen in <rs ref="#tillich_place_id__275" type="place">Magdeburg</rs>, von der 8 tägigen Reise unter mancherlei Abenteuern, Quartieren und <rs ref="#tillich_person_id__1696" type="person">Hermann Schafft</rs> durch <rs ref="#tillich_place_id__33" type="place">Belgien</rs> und <rs ref="#tillich_place_id__161" type="place">Frankreich</rs>; von dem stolzen ersten Ritt von der letzte Eisenbahnstation 13 km durch die Lande bis zu meiner Division; von der relativen Ruhe, die hier herrscht und auch durch die andauernde Kanonade nicht wesentlich gestört wird. So bleibt denn nicht viel Neues zu erzählen. Über die allgemeine kriegerische Lage bist Du besser orientiert als ich. Heut sagte der Generalstabs-Offizier, es könnte noch 14 Tage <unclear cert="high" reason="damage">und</unclear> länger dauern, ehe eine Änderung eintritt. Wir wünschen alle, daß es bald vorwärts geht. Die VII. Reserve-Division, die bei dem berühmten Einmarsch in <rs ref="#tillich_place_id__33" type="place">Belgien</rs> <unclear cert="high" reason="damage">und</unclear> <rs ref="#tillich_place_id__161" type="place">Frankreich</rs> immer voran war, liegt jetzt eingegraben in die Schützengräben und hat kaum etwas anderes zu tun als zu hören, wie die Granaten <unclear cert="high" reason="damage">und</unclear> Schrapnells drüber hinsausen ohne Schaden zu tun. Ich glaube kaum, daß es mir möglich sein wird, einmal in die Schützengräben zu kommen Es geht nur Nachts <unclear cert="high" reason="damage">und</unclear> gerade dann wird viel geschossen.<pb n="2"/>Die Umgebung des Dorfes, wie der meisten andern ist wüst <unclear cert="high" reason="damage">und</unclear> scheußlich, das unausgedroschene Getreide liegt faulend umher, dazwischen zerbrochene Wagen, Fahrräder, Kisten und dergl; plötzlich ein penetranter Gestank: Ein Pferd, das nicht tief genug <del rend="s">verb</del> vergraben ist, eine sehr häufige Erscheinung. Im Übrigen ist die ganze Umgebung der Häuser eine große Bedürfnisanstalt, was auch nicht zur Erhöhung der Reize dient. <sic>ein</sic> paar Schritt von unsrem Hause entfernt sind etwa 20 Soldaten begraben, aus irgend einem früheren Gefecht, einfache Holzkreuze mit Laub; Name und Datum bei einigen eingebrannt. Auf dem Grab der Helm. – Heute war ich auf dem Kirchhof in <rs ref="#tillich_place_id__432" type="place">Tartiers</rs>, weit vorn, dunkle Tannen, eine Mauer aus Quadersteinen; von dort einen wundervollen Blick auf das <rs ref="#tillich_place_id__8" type="place">Aisnetal</rs>, von dem Granaten <unclear cert="high" reason="damage">und</unclear> Schrapnells angeflogen kamen und 2 km entfernt platzen, 2 Schrapnell sogar noch näher; ein dünner Blitz <unclear cert="high" reason="damage">und</unclear> ein weißes Wölkchen in der Luft zeigt den Ort an. Wenn die Kanonen von den Seiten ertönen – wir liegen im Halbkreis nach vorn, dann wird mir manchmal unheimlich zu Mut, ob wir die Stellung werden halten können.<pb n="3"/>Kriegsbilder gibt es <del rend="s">dann</del> natürlich trotzdem genug. Alle Dörfer sind besetzt mit Kolonnen, Stäben, Reserven, letztere allerdings in lächerlich geringer Zahl. Franzosen sieht man selten, nur ganz alte Männer, alle anderen werden weggetrieben; teilweise unter Bedeckung zur Arbeit gezwungen: Dreschen und Kartoffelhacken. Frauen sind noch eine ganze Menge da, die von uns verpflegt werden müssen, da sie sonst längst verhungert wären; das Land ist bis zum Äußersten ausgesogen. In einer großen Scheune lagen <sic>mehr</sic> 100 alte Männer, Frauen und Kinder auf Stroh, aus den beschossenen Dörfern, ein jammervolles Bild, besonders ein alter zittriger Curé von 80 Jahren und eine uralte völlig verschrumpfte Frau. Am tragischsten berührt mich die reiche Ernte, die auf den Feldern steht und ganz verdirbt. In der Gegend werden fast nur Rüben gepflanzt und gedeihen großartig, dazwischen etwas <sic>Weitzen</sic>. Beides ist verloren. Armes Land! Die Häuser sind natürlich zum großen Teil wüst und leer, <sic>als</sic> weggenommen und zerbrochen; wir selbst haben schon zwei Herde aus anderen Häusern requiriert, d. h. einfach genommen, da niemand da war, der <sic>ein</sic> Bon empfing. Betten, Schränke, alles ist weg. –<pb n="4"/>Merkwürdig ist oft der Gegensatz der Ruhe auf den Feldern, nur hier und da in der nebligen Dämmerung ein Reiter, und dem ungeheuren Geschehen, was auf diesen Feldern täglich sich vollzieht. Diese einsamen Umschaus sind das Großartigste der mancherlei Erlebnisse. – Meine geistliche Tätigkeit beläuft sich auf 4-5 Gottesdienste die Woche, je  <formula notation="TeX">(\frac{1}{2})</formula> St lang. Ich rede kräftig, aggressiv, aber immer stark mystisch-religiös und das verstehen sie nach dem, was ich bis jetzt erfahren habe. Ein Oberstleutnant, der vorher sehr schnodderig war, kam nach drei Tagen und bat um einen neuen Gottesdienst. Ich habe bis jetzt geredet vor der Bagage, einer Jägerkompagnie, einem Reservebataillon, morgen, Sonntag <unclear reason="damage" cert="high">eine</unclear> andere Jägerkompagnie und ein Kürassierregiment. Bei den Jägern hatte ich auf meine Bitte eine Kollekte von 180 M für die Ostpreußen, massenhaft 1 und 2 M-Stücke. Die geistliche Versorgung ist übrigens jetzt völlig ausreichend. Öfter als 8 Tage kann man unter keinen Umständen an dieselben Leute. Die Lazarette, auch das hier im Dorf, haben einen eigenen Geistlichen. Dazu kommen wir also gar nicht. Einzelseelsorge ist kaum möglich. Daß es vorher überhaupt nicht viel Möglichkeiten gab, lag an den Märschen. Das Geschrei ist also nicht ganz begründet gewesen. Und doch solltest Du hier sein! Grüß mein liebes liebes <rs ref="#tillich_person_id__644" type="person">Wumming</rs>! Lies den Brief <rs ref="#tillich_person_id__1931" type="person">Greti</rs> vor und schicke ihn an <rs ref="#tillich_person_id__1924" type="person">Papa</rs> und <rs ref="#tillich_person_id__1930" type="person">Großmamma</rs>! </p><closer>Dein tr. <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed></closer>
-            </div>
-        </body>
-    </text>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Emil Lusser</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/184(6)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct n="firstPrint" type="monograph">
+<monogr>
+<author>Paul Tillich</author>
+<title>Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge, Berichte</title>
+<edition>1. Auflage</edition>
+<imprint>
+<publisher>Renate Albrecht und Margot Hahl</publisher>
+<pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
+<date when="1980">1980</date>
+<biblScope>81f.</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Gesammelte Werke. Ergänzungs- und Nachlaßbände</title>
+<biblScope>Band 5&gt;</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__61">Bieuxy</placeName>
+<date when="1914-10-17">17.10.1914</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-04-14" who="EL">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-09-25" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession1">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, d. <date when="1994-10-14">14.Oktober 1914</date>.</dateline>
+<salute>Lieber <rs ref="#tillich_person_id__641" type="person">Frede</rs>!</salute>
+</opener>
+<p>Ich hoffe, daß Du von allerhand Winkeln her allerhand über mich gehört hast, von den unruhigen Tagen in <rs ref="#tillich_place_id__275" type="place">Magdeburg</rs>, von der 8 tägigen Reise unter mancherlei Abenteuern, Quartieren und <rs ref="#tillich_person_id__1696" type="person">Hermann Schafft</rs> durch <rs ref="#tillich_place_id__33" type="place">Belgien</rs> und <rs ref="#tillich_place_id__161" type="place">Frankreich</rs>; von dem stolzen ersten Ritt von der letzte Eisenbahnstation 13 km durch die Lande bis zu meiner Division; von der relativen Ruhe, die hier herrscht und auch durch die andauernde Kanonade nicht wesentlich gestört wird. So bleibt denn nicht viel Neues zu erzählen. Über die allgemeine kriegerische Lage bist Du besser orientiert als ich. Heut sagte der Generalstabs-Offizier, es könnte noch 14 Tage <unclear cert="high" reason="damage">und</unclear> länger dauern, ehe eine Änderung eintritt. Wir wünschen alle, daß es bald vorwärts geht. Die VII. Reserve-Division, die bei dem berühmten Einmarsch in <rs ref="#tillich_place_id__33" type="place">Belgien</rs> <unclear cert="high" reason="damage">und</unclear> <rs ref="#tillich_place_id__161" type="place">Frankreich</rs> immer voran war, liegt jetzt eingegraben in die Schützengräben und hat kaum etwas anderes zu tun als zu hören, wie die Granaten <unclear cert="high" reason="damage">und</unclear> Schrapnells drüber hinsausen ohne Schaden zu tun. Ich glaube kaum, daß es mir möglich sein wird, einmal in die Schützengräben zu kommen Es geht nur Nachts <unclear cert="high" reason="damage">und</unclear> gerade dann wird viel geschossen.<pb n="2"/>Die Umgebung des Dorfes, wie der meisten andern ist wüst <unclear cert="high" reason="damage">und</unclear> scheußlich, das unausgedroschene Getreide liegt faulend umher, dazwischen zerbrochene Wagen, Fahrräder, Kisten und dergl; plötzlich ein penetranter Gestank: Ein Pferd, das nicht tief genug <del rend="s">verb</del> vergraben ist, eine sehr häufige Erscheinung. Im Übrigen ist die ganze Umgebung der Häuser eine große Bedürfnisanstalt, was auch nicht zur Erhöhung der Reize dient. <sic>ein</sic> paar Schritt von unsrem Hause entfernt sind etwa 20 Soldaten begraben, aus irgend einem früheren Gefecht, einfache Holzkreuze mit Laub; Name und Datum bei einigen eingebrannt. Auf dem Grab der Helm. – Heute war ich auf dem Kirchhof in <rs ref="#tillich_place_id__432" type="place">Tartiers</rs>, weit vorn, dunkle Tannen, eine Mauer aus Quadersteinen; von dort einen wundervollen Blick auf das <rs ref="#tillich_place_id__8" type="place">Aisnetal</rs>, von dem Granaten <unclear cert="high" reason="damage">und</unclear> Schrapnells angeflogen kamen und 2 km entfernt platzen, 2 Schrapnell sogar noch näher; ein dünner Blitz <unclear cert="high" reason="damage">und</unclear> ein weißes Wölkchen in der Luft zeigt den Ort an. Wenn die Kanonen von den Seiten ertönen – wir liegen im Halbkreis nach vorn, dann wird mir manchmal unheimlich zu Mut, ob wir die Stellung werden halten können.<pb n="3"/>Kriegsbilder gibt es <del rend="s">dann</del> natürlich trotzdem genug. Alle Dörfer sind besetzt mit Kolonnen, Stäben, Reserven, letztere allerdings in lächerlich geringer Zahl. Franzosen sieht man selten, nur ganz alte Männer, alle anderen werden weggetrieben; teilweise unter Bedeckung zur Arbeit gezwungen: Dreschen und Kartoffelhacken. Frauen sind noch eine ganze Menge da, die von uns verpflegt werden müssen, da sie sonst längst verhungert wären; das Land ist bis zum Äußersten ausgesogen. In einer großen Scheune lagen <sic>mehr</sic> 100 alte Männer, Frauen und Kinder auf Stroh, aus den beschossenen Dörfern, ein jammervolles Bild, besonders ein alter zittriger Curé von 80 Jahren und eine uralte völlig verschrumpfte Frau. Am tragischsten berührt mich die reiche Ernte, die auf den Feldern steht und ganz verdirbt. In der Gegend werden fast nur Rüben gepflanzt und gedeihen großartig, dazwischen etwas <sic>Weitzen</sic>. Beides ist verloren. Armes Land! Die Häuser sind natürlich zum großen Teil wüst und leer, <sic>als</sic> weggenommen und zerbrochen; wir selbst haben schon zwei Herde aus anderen Häusern requiriert, d. h. einfach genommen, da niemand da war, der <sic>ein</sic> Bon empfing. Betten, Schränke, alles ist weg. –<pb n="4"/>Merkwürdig ist oft der Gegensatz der Ruhe auf den Feldern, nur hier und da in der nebligen Dämmerung ein Reiter, und dem ungeheuren Geschehen, was auf diesen Feldern täglich sich vollzieht. Diese einsamen Umschaus sind das Großartigste der mancherlei Erlebnisse. – Meine geistliche Tätigkeit beläuft sich auf 4-5 Gottesdienste die Woche, je  <formula notation="TeX">(\frac{1}{2})</formula> St lang. Ich rede kräftig, aggressiv, aber immer stark mystisch-religiös und das verstehen sie nach dem, was ich bis jetzt erfahren habe. Ein Oberstleutnant, der vorher sehr schnodderig war, kam nach drei Tagen und bat um einen neuen Gottesdienst. Ich habe bis jetzt geredet vor der Bagage, einer Jägerkompagnie, einem Reservebataillon, morgen, Sonntag <unclear cert="high" reason="damage">eine</unclear> andere Jägerkompagnie und ein Kürassierregiment. Bei den Jägern hatte ich auf meine Bitte eine Kollekte von 180 M für die Ostpreußen, massenhaft 1 und 2 M-Stücke. Die geistliche Versorgung ist übrigens jetzt völlig ausreichend. Öfter als 8 Tage kann man unter keinen Umständen an dieselben Leute. Die Lazarette, auch das hier im Dorf, haben einen eigenen Geistlichen. Dazu kommen wir also gar nicht. Einzelseelsorge ist kaum möglich. Daß es vorher überhaupt nicht viel Möglichkeiten gab, lag an den Märschen. Das Geschrei ist also nicht ganz begründet gewesen. Und doch solltest Du hier sein! Grüß mein liebes liebes <rs ref="#tillich_person_id__644" type="person">Wumming</rs>! Lies den Brief <rs ref="#tillich_person_id__1931" type="person">Greti</rs> vor und schicke ihn an <rs ref="#tillich_person_id__1924" type="person">Papa</rs> und <rs ref="#tillich_person_id__1930" type="person">Großmamma</rs>! </p><closer>Dein tr. <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed></closer>
+</div>
+</body>
+</text>
 </TEI>

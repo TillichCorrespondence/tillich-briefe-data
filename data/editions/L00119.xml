@@ -1,111 +1,112 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00119">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Hermann Schafft an Paul Tillich <lb/>vom 23. August 1906</title>
-            <author ref="#tillich_person_id__1696">Hermann Schafft</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00119" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Hermann Schafft an Paul Tillich <lb/>vom 23. August 1906</title>
+<author ref="#tillich_person_id__1696">Hermann Schafft</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008G</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008G</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
-               <placeName ref="#tillich_place_id__485">Hersfeld</placeName>
-               <date when="1906-08-23">23.08.1906</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-03-02">Intitale Auszeichnung des Transkripts</change>
-         <change who="NH" when="2024-02-01">Vorbereitung/Korrektur für die Endabnahme</change>
-         <change who="EL" when="2024-02-12">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="postcard">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__208" type="place">Hersfeld</rs>, den <date when="1906-08-23">23. VIII.</date></dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
-            </opener>
-            <p>d. <date when="1906-08-05">5. 8.</date>: Karte v. Familienabend: Als Vorbereitung für einen sher langen Brief herzl Gruß!!</p>
-            <p>den <date when="1906-08-08">8.VIII.</date> Brief d. <rs ref="#tillich_person_id__644" type="person">Schwester</rs>: <rs type="person" ref="#tillich_person_id__1928">Paul</rs> Schreibt demnächst</p>
-            <p>den <date when="1906-08-15">15. VIII.</date>: "  "  " wird bald schreiben</p>
-            <p>den <date when="1906-08-22">22. VIII</date>: "   "  " schreibt bald.</p>
-            <p>den...</p>
-            <p>den...</p>
-            <p>den...</p>
-            <p><rs type="bible" ref="Sir-20,7-8">Sirach 20 7 u 8</rs></p>
-            <closer>
-               <salute>Herzl. Gruß</salute>
-               <signed><rs ref="#tillich_person_id__1696" type="person">H.</rs></signed>
-            </closer>
-            <postscript>
-               <p>Schreibe bald!!</p>
-               <p>Schreibe bald!!</p>
-               <p>Schreibe bald!!</p>
-               <p>Liegen geblieben!!</p>
-               <p>Schreibe bald!!</p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
+<placeName ref="#tillich_place_id__485">Hersfeld</placeName>
+<date when="1906-08-23">23.08.1906</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-03-02" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-02-01" who="NH">Vorbereitung/Korrektur für die Endabnahme</change>
+<change when="2024-02-12" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__208" type="place">Hersfeld</rs>, den <date when="1906-08-23">23. VIII.</date></dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+</opener>
+<p>d. <date when="1906-08-05">5. 8.</date>: Karte v. Familienabend: Als Vorbereitung für einen sher langen Brief herzl Gruß!!</p>
+<p>den <date when="1906-08-08">8.VIII.</date> Brief d. <rs ref="#tillich_person_id__644" type="person">Schwester</rs>: <rs ref="#tillich_person_id__1928" type="person">Paul</rs> Schreibt demnächst</p>
+<p>den <date when="1906-08-15">15. VIII.</date>: "  "  " wird bald schreiben</p>
+<p>den <date when="1906-08-22">22. VIII</date>: "   "  " schreibt bald.</p>
+<p>den...</p>
+<p>den...</p>
+<p>den...</p>
+<p><rs ref="Sir-20,7-8" type="bible">Sirach 20 7 u 8</rs></p>
+<closer>
+<salute>Herzl. Gruß</salute>
+<signed><rs ref="#tillich_person_id__1696" type="person">H.</rs></signed>
+</closer>
+<postscript>
+<p>Schreibe bald!!</p>
+<p>Schreibe bald!!</p>
+<p>Schreibe bald!!</p>
+<p>Liegen geblieben!!</p>
+<p>Schreibe bald!!</p>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

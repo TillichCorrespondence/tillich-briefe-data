@@ -1,148 +1,89 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00464">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Maria Klein <lb/>vom 11. Januar 1916 </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Leopold Potyka</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00464" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Maria Klein <lb/>vom 11. Januar 1916 </title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Leopold Potyka</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                  <idno>bMS 649/178(8)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS 649/178(8)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date when="1916-01-11">11.01.1916</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1594">Maria Klein</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="LP" when="2022-05-16">Intitale Auszeichnung des Transkripts</change>
-         <change who="GM" when="2023-11-28">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>den <date when="1916-01-11">11. Januar 1916</date></dateline>
-               <salute>Liebe <rs ref="#tillich_person_id__1594" type="person">Maria</rs>!</salute>
-            </opener>
-            <p>Dein Brief hat mich lebhaft bewegt. Selbstverständlich erfährt niemand, auch <rs
-                  ref="#tillich_person_id__1931" type="person">Greti</rs> nicht, von allen Dingen,
-               die das Innenleben eines anderen betreffen und vertraulich sind, nichts; auch <rs
-<<<<<<< Updated upstream
-                  type="letter" ref="unknown">Dein Brief</rs> ist vernichtet – und nun die <hi
-=======
-                  type="letter">Dein Brief</rs><note type="ea">Brief liegt nicht vor.</note> ist vernichtet – und nun die <hi
->>>>>>> Stashed changes
-                  rend="u">Sache</hi> selbst: Nach meiner Meinung ist die Alternative, die Du
-               stellst, verkehrt. Entweder Verlobung oder auseinander, das ist nicht richtig,
-               sondern Du mußt an Dich selbst die Alternative stellen: Entweder in Freundschaft
-               weiter, oder wenn das nicht geht, Schluß. Nicht ihm, sondern Dir selbst mußt Du die
-               Alternative stellen.</p>
-            <p>Mancherlei Gründe liegen dazu vor; zunächst der, daß es im innersten Wesen des
-               Verkehrs der beiden Geschlechter begründet ist, daß <hi rend="u">die aktive Frau den
-                  Mann zurückstößt</hi>. Das Stellen einer Alternative ist eine Aktivität, die einen
-               stark männlich empfindenden Mann unbewußt, abgesehen von allen Gründen, dazu bringen
-               würde, die Alternative negativ zu entscheiden. Das ist nicht Konvention, sondern <hi
-                  rend="u">Natur</hi>, genau wie es Natur ist, daß der <hi rend="u">aggressive Mann
-                  von der Frau gewünscht wird</hi>.</p>
-            <p>Aber er hätte auch recht, nein zu sagen. Euer beiderseitiges Leben ist viel zu reich,
-               als daß in dem jetzigen Stadium schon eine definitive Entscheidung an dem
-               wesentlichsten und lebendigsten Punkte fallen dürfte. Ihr beide habt eine fast
-               7-jährige Zeit vor Euch, ehe Ihr heiraten könnt, und zwar Eure sieben innerlich
-               bewegtesten Jahre, und in denen Ihr beide zahllose Menschen sehen und vielleicht
-               lieben lernen werdet. Soll diese ganze Entwicklung von vornherein durch ein halbes
-                  Gelübde,<pb n="2"/> wie es die Verlobung ist, schief und gewaltsam werden; die
-               Jahre der höchsten Entwicklungsfreiheit kommen für ihn. Könntest Du es verantworten,
-               diese Entwicklung zu belasten?</p>
-            <p>Und nun angenommen, Ihr wäret verlobt, meinst Du der Zustand der Verlobung ist
-               weniger zwiespältig als der jetzige? Du könntest innigere Briefe schreiben, es
-               könnten tiefere und leidenschaftlichere Töne mitklingen, aber das erträgt man nicht
-               lange; frage selbst die kurz Verlobten, wie sie unter dem Zwiespalt gelitten haben,
-               und nun 7 Jahre! Das ist eine psychologische Unmöglichkeit, zumal bei Deinem
-               Temperament. Du deutest darum psychologisch richtig die Idee der freien Liebe an. Die
-               hat aber nur ein sittliches Recht, wenn sie eine ebenso starke Bindung ist wie die
-               wirkliche Ehe; und eine solche Bindung ist für Euch nicht möglich. Außerdem ist
-               dieser Gedanke praktisch unmöglich, da er den Beruf aufgeben und Du das Elternhaus
-               verlassen müßtest!</p>
-            <p>Du als Frau mußt die Selbstbeherrschung haben, Deine Liebe in die Form einer tiefen
-               geistigen Freundschaft zu ergießen; das ist ihre Kraftprobe. Zersprengst Du diese
-               Form, dann ist eines Tages die Liebe verschüttet. Ich freue mich, daß <rs
-                  type="person" ref="#tillich_person_id__374">Dein Freund</rs><note>Wahrscheinlich
-                  ist <rs type="person" ref="#tillich_person_id__374">Hans
-                     Christiansen</rs> gemeint. Vgl. Briefe vom <rs type="letter" ref="L00523"
-                     >27. November 1916</rs> und <rs type="letter" ref="L00532">26. März
-                     1917</rs>.</note> das gesehen hat. Und wenn Du von der Tiefe seiner Empfindung
-               sprichst, so hast Du ja darin die Garantie, daß sie eines Tages zur vollen
-               Gemeinschaft führen kann, nach Jahren williger <hi rend="u">innerer</hi>
-               gegenseitiger Freiheit. </p>
-            <p>Ich rate Dir also: Zeige die Kraft Deiner Liebe darin, daß Du Gefühl und Temperament
-               im Zaum hältst und vor allem jetzt nicht den, den Du liebst und der es schwer genug
-               hat, vor eine qualvolle Alternative stellst. Sei dankbar, daß Du einen hast, der in
-               dieser Zeit in Liebe an Dich denkt und gönne ihm vor allem denselben Trost!</p>
-            <closer>
-               <salute>In alter Freundschaft</salute>
-               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
-</TEI>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1916-01-11">11.01.1916</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1594">Maria Klein</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-05-16" who="LP">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-11-28" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>den <date when="1916-01-11">11. Januar 1916</date></dateline>
+<salute>Liebe <rs ref="#tillich_person_id__1594" type="person">Maria</rs>!</salute>
+</opener>
+<p>Dein Brief hat mich lebhaft bewegt. Selbstverständlich erfährt niemand, auch <rs ref="#tillich_person_id__1931" type="person">Greti</rs> nicht, von allen Dingen,
+               die das Innenleben eines anderen betreffen und vertraulich sind, nichts; auch <rs/></p></div></body></text></TEI>

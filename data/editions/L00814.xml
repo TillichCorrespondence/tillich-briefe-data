@@ -1,113 +1,114 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00814">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich an Wilhelm Ruprecht
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00814" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Wilhelm Ruprecht
                <lb/>vom 24. Februar 1924
             </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Niklas von Hülsen</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="typescript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement>Berlin</settlement>
-                  <repository>Verlagsarchiv Vandenhoeck &amp; Ruprecht</repository>
-                  <collection>Autorenkorrespodenz</collection>
-                  <idno>G 1923.138</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, maschinenschriftlich. Korrekturen eigenhändig</p>
-                  </physDesc>
-               <additional>
-                  <listBibl>
-                     <biblStruct type="journal">
-                        <monogr>
-                           <author>Friedrich Wilhelm Graf</author>
-                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-                           <imprint>
-                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
-                              <date when="2020">2020</date>
-                              <biblScope>S. 27–170, hier: 140</biblScope>
-                           </imprint>
-                        </monogr>
-                        <series>
-                           <title>Zeitschrift für Neuere Theologiegeschichte</title>
-                           <biblScope>27/1</biblScope>
-                        </series>
-                     </biblStruct>
-                  </listBibl>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__37">Berlin-Friedenau</placeName>
-              <date when="1924-02-24">24.02.1924</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="NH" when="2023-07-14">Intitale Auszeichnung des Transkripts</change>
-        <change who="FS" when="2023-10-25">Endabnahme</change>
-     </revisionDesc>
-  </teiHeader>
-  <text type="postcard">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <dateline><rs ref="#tillich_place_id__37" type="place">Berlin-Friedenau</rs>, den <date when="1924-02-24">24. II. 1924</date> Taunusstr. 1.</dateline>
-        </opener>
-        <p>Schon bevor ich Ihre Karte vom <date when="2024-02-22">22.II.</date><note type="ea">Diese Karte liegt nicht vor.</note> erhielt, beabsichtigte ich, am <date when="1924-02-29">29.II.</date>, dem Tag, wo ich einen Teil meines Märzgehaltes bekomme, den Betrag von 13,75 Mark zu übersenden. Gleichzeitig möchte ich zwei neue Exemplare <rs ref="#tillich_work_id__1" type="work">meines Buches</rs> bestellen und Ihnen demgemäss an dem besagten Termin den Betrag von 21 Mark zusenden. Ich nehme an, dass damit nicht nur die Verpackungs- und Portokosten für die beiden neuen Exemplare, sondern auch die 5 Pfennig für die Mahnkarte, sowie etwaiger Zinsverlust bezahlt sind.
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Niklas von Hülsen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="typescript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement>Berlin</settlement>
+<repository>Verlagsarchiv Vandenhoeck &amp; Ruprecht</repository>
+<collection>Autorenkorrespodenz</collection>
+<idno>G 1923.138</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, maschinenschriftlich. Korrekturen eigenhändig</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct type="journal">
+<monogr>
+<author>Friedrich Wilhelm Graf</author>
+<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+<imprint>
+<pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+<date when="2020">2020</date>
+<biblScope>S. 27–170, hier: 140</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Zeitschrift für Neuere Theologiegeschichte</title>
+<biblScope>27/1</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__37">Berlin-Friedenau</placeName>
+<date when="1924-02-24">24.02.1924</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-07-14" who="NH">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-10-25" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__37" type="place">Berlin-Friedenau</rs>, den <date when="1924-02-24">24. II. 1924</date> Taunusstr. 1.</dateline>
+</opener>
+<p>Schon bevor ich Ihre Karte vom <date when="2024-02-22">22.II.</date><note type="ea">Diese Karte liegt nicht vor.</note> erhielt, beabsichtigte ich, am <date when="1924-02-29">29.II.</date>, dem Tag, wo ich einen Teil meines Märzgehaltes bekomme, den Betrag von 13,75 Mark zu übersenden. Gleichzeitig möchte ich zwei neue Exemplare <rs ref="#tillich_work_id__1" type="work">meines Buches</rs> bestellen und Ihnen demgemäss an dem besagten Termin den Betrag von 21 Mark zusenden. Ich nehme an, dass damit nicht nur die Verpackungs- und Portokosten für die beiden neuen Exemplare, sondern auch die 5 Pfennig für die Mahnkarte, sowie etwaiger Zinsverlust bezahlt sind.
         </p>
-        <closer>
-           <salute>Hochachtungsvoll</salute>
-           <signed>Dr. <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
-        </closer>
-     </div>
-    </body>
-  </text>
+<closer>
+<salute>Hochachtungsvoll</salute>
+<signed>Dr. <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

@@ -1,93 +1,94 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00175">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Hermann Schafft an Paul Tillich <lb/>vom 13. Juli 1907</title>
-            <author ref="#tillich_person_id__1696">Hermann Schafft</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00175" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Hermann Schafft an Paul Tillich <lb/>vom 13. Juli 1907</title>
+<author ref="#tillich_person_id__1696">Hermann Schafft</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008 G</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008 G</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
-               <placeName ref="#tillich_place_id__485">Hersfeld</placeName>
-               <date when="1907-07-13">13.07.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-03-31">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2024-02-06">Vorbereitende Endabnahme</change>
-         <change who="EL" when="2024-02-20">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__208" type="place">Hersfeld</rs>, den <date when="1907-07-13">13.
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
+<placeName ref="#tillich_place_id__485">Hersfeld</placeName>
+<date when="1907-07-13">13.07.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-03-31" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-02-06" who="PS">Vorbereitende Endabnahme</change>
+<change when="2024-02-20" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__208" type="place">Hersfeld</rs>, den <date when="1907-07-13">13.
                      Juli 07. <hi rend="u">Sonnabend - Abend</hi></date></dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
-            </opener>
-            <p>heute Morgen ist <rs ref="#tillich_person_id__641" type="person">er</rs> nach Süden weitergedampft, der
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
+</opener>
+<p>heute Morgen ist <rs ref="#tillich_person_id__641" type="person">er</rs> nach Süden weitergedampft, der
                   <hi rend="aq">tertius</hi> – und wir zwei beide sind nun in gleicher Situation.
                Das Gefühl der Leere, nachdem es gerade wieder so schön war – erfüllt uns und man
                schwingt sich höchstens zu <sic>tragikkomischen</sic> Reflexionen über die Idealität
@@ -95,7 +96,7 @@
                nicht hinnehmen und deshalb schreibe ich Dir und versuche Deine Hand<pb n="2"/> zu
                haschen um die Stimmung nicht nutzlos zu verbrauchen, sondern mit Dir sie zuzubringen
                u. zu verschwätzen – zumal ich einiges auf dem Herzen habe.</p>
-            <p><rs ref="#tillich_person_id__641" type="person">Sein</rs> Hiersein – war für mich eine große Freude. Das
+<p><rs ref="#tillich_person_id__641" type="person">Sein</rs> Hiersein – war für mich eine große Freude. Das
                Wetter infam. – Donnerstag Abend gingen wir noch zum Garten auf dem Berge und hockten
                auf einer Bank. 200 Meter weiter hinter Erbsenbeeten unsichtbar auch eine andre
                unserer Abschiedfeiernden Schwestern! Abends haben wir im roten Zimmer bei 3 Lampions
@@ -119,19 +120,19 @@
                das interessiert dich ja<pb n="5"/> garnicht an sich – nur falls Deine <rs ref="#tillich_person_id__644" type="person">Schwester</rs> das,
                wie ich annehme – empfunden hat u. vielleicht ausgesprochen – wollte ich Dir das
                erklären – Freitag früh haben <rs ref="#tillich_person_id__641" type="person">Frede</rs> und ich in
-               aller Gemütsruhe erzählenderweise zugebracht, – auch den <rs type="letter" ref="L00176">Brief</rs> an Dich geschrieben u.
+               aller Gemütsruhe erzählenderweise zugebracht, – auch den <rs ref="L00176" type="letter">Brief</rs> an Dich geschrieben u.
                s. w. dann zur Bahn. Der Abschied litt unter meiner Beschaffenheit. Ich mußte heim.
                Der Arzt hat auch glücklich einen beginnenden Leistenbruch konstatiert! Nächste Woche
                muß ich nach <unclear>Cettel</unclear>, um mir ein Bruchband
                anmessen zu lassen. Die (früh vorübergegangenen) Schmerzen haben uns gestern erst ein
-               wenig gestört. Dann haben wir noch zusammen "<rs type="work" ref="#tillich_work_id__183">Die
+               wenig gestört. Dann haben wir noch zusammen "<rs ref="#tillich_work_id__183" type="work">Die
                   Furcht vor dem Denken</rs>" gelesen<pb n="6"/> ein famoses Büchlein.–
                Nachher langte es neben dem Plaudern noch zu einigen Kapiteln von den
                   <unclear>¿¿¿</unclear>. Sie sind z. T. scheinbar wirklich fein. Ich lese sie mit
                Freude. Abends nach Tisch sind wir oben gewesen. Unter meinen Schwestern, <rs ref="#tillich_person_id__641" type="person">Frede</rs> u. ich. Dämmerstunde – ein Lampion. Dazu Musik.
                Nachher <rs ref="#tillich_person_id__641" type="person">Frede</rs> u. ich solo im Zimmer – geplaudert
                bis 11. Der arme liebe Kerl! Wie leid tut er mir immer wieder! Wie leid auch, daß er
-               so zusehen müßte, wie meine Schwestern meinen <rs type="person" ref="#tillich_person_id__1698">Vater</rs> herzten! Das ist doch sicher ihm
+               so zusehen müßte, wie meine Schwestern meinen <rs ref="#tillich_person_id__1698" type="person">Vater</rs> herzten! Das ist doch sicher ihm
                schwer gewesen.– Am Morgen 7 <hi rend="sup">46</hi> habe ich dann mal wieder das
                   Nachsehen<pb n="7"/> gehabt – Wann sehen wir uns wieder. – Du hast diese Freude
                schon bald. Ich gönn' sie Dir ohne Neid; denn Du mußt in all<del rend="s">e</del> der
@@ -148,7 +149,7 @@
                man so unterwegs aufgehockt bekommt. Also– nimm' Dich vor mir nicht zu sehr in Acht!
                Sonst weiß ich schließlich garnicht recht, wie ich Dich behandeln soll. Dies war eine
                Randglosse.</p>
-            <p>Du bist vielleicht garnicht zum Lesen solcher Epistel aufgelegt – das Predigt
+<p>Du bist vielleicht garnicht zum Lesen solcher Epistel aufgelegt – das Predigt
                arbeiten u. lernen nimmt Dich ja ganz<del rend="s">s</del> in Anspruch - aber ich
                mußte Dir mal schreiben. Hoffentlich findest du Zeit u. Ruhe mal zu antworten.
                Eigentlich müßte<pb n="9"/> ich Dir auftragen. Dienstag von 8-10 setztest Du Dich hin
@@ -170,17 +171,17 @@
                   <unclear>¿¿¿</unclear> gesellte das Studium die des Intellektes – Man lächelt zu
                beiden u. doch ist's verzweifelt schwierig, weil ein Arbeiten mit dem Gedanken das zu
                hoch – wie <del rend="s">Heugelei</del>
-               <hi rend="sup">Heuchelei</hi> scheinen muß. – Das sind so Sorgen. Heute habe ich für
-               meinen <rs type="person" ref="#tillich_person_id__1698">Vater</rs> 300 mal geschrieben: "Nichts zu erinnern." – Das ist tröstlich
+<hi rend="sup">Heuchelei</hi> scheinen muß. – Das sind so Sorgen. Heute habe ich für
+               meinen <rs ref="#tillich_person_id__1698" type="person">Vater</rs> 300 mal geschrieben: "Nichts zu erinnern." – Das ist tröstlich
                langweilig!.. Entschuldige diesen Brief. Ich wollte Dir nur sagen daß ich eben so
                gerne helfe als Hülfe habe u. daß wir unsren Weg gemeinsam gehen wollen. Mein Wunsch
                für Dich und mich ist – daß wir ein – immer fröhlich Herz u. edlen Frieden geschenkt
                bekommen mögen und wie es in der Strophe<note type="ea">Vgl. Nun danket alle Gott, Strophe 2.</note> weiter heißt!</p>
-            <closer>
-               <salute><unclear>¿¿¿</unclear> grüße ich Dich nun im Begriff ins Bett zu gehen
+<closer>
+<salute><unclear>¿¿¿</unclear> grüße ich Dich nun im Begriff ins Bett zu gehen
                   herzlich u. bleibe D. tr. <rs ref="#tillich_person_id__1696" type="person">H.</rs></salute>
-            </closer>
-         </div>
-      </body>
-   </text>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

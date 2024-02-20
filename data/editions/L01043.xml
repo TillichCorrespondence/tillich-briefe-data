@@ -1,117 +1,112 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01043">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich und Emmy Sachs an Hannah Tillich <lb/>vom 9. Dezember
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01043" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich und Emmy Sachs an Hannah Tillich <lb/>vom 9. Dezember
                1929 [PS]</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <author ref="#tillich_person_id__1672">Emmy Sachs</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<author ref="#tillich_person_id__1672">Emmy Sachs</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="Wien">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="Wien">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
-                  <idno>bMS 721/2(26)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+<idno>bMS 721/2(26)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <persName ref="#tillich_person_id__1672">Emmy Sachs</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1929-12-09">09.12.1929</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-12-09">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2023-12-09">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="postcard">
-      <body>
-         <div type="erstehandschrift">
-            <pb n="1"/>
-            <opener>
-               <salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
-                  >Hannah</rs>!</salute>
-            </opener>
-            <p>Heut warst Du beim Arzt: Ich bin sehr gespannt. Gestern Abend ging es noch bis 12
-               Abends mit <rs type="person" ref="#tillich_person_id__846">Heimann</rs> etc. Dann ein
-               ruhiger Schlaf. Besprechung im Ministerium mit <rs type="person"
-                  ref="#tillich_person_id__1059">Klatt</rs> und <rs type="person"
-                  ref="#tillich_person_id__1571">Reichwein</rs>, Besprechung im Furche – Montag,
-               Mittagessen mit <rs type="person" ref="#tillich_person_id__1924">Vaterchen</rs>, der
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<persName ref="#tillich_person_id__1672">Emmy Sachs</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1929-12-09">09.12.1929</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+<placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-12-09" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-12-09" who="PS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="erstehandschrift">
+<pb n="1"/>
+<opener>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Heut warst Du beim Arzt: Ich bin sehr gespannt. Gestern Abend ging es noch bis 12
+               Abends mit <rs ref="#tillich_person_id__846" type="person">Heimann</rs> etc. Dann ein
+               ruhiger Schlaf. Besprechung im Ministerium mit <rs ref="#tillich_person_id__1059" type="person">Klatt</rs> und <rs ref="#tillich_person_id__1571" type="person">Reichwein</rs>, Besprechung im Furche – Montag,
+               Mittagessen mit <rs ref="#tillich_person_id__1924" type="person">Vaterchen</rs>, der
                schon gut italienisch spricht, in <unclear cert="medium">Giorneria</unclear>. Kaffee
-               mit ihm. Haarschneiden im 'Figaro'. Im Kaffee mit <rs type="person"
-                  ref="#tillich_person_id__2589">Veronika</rs>. Umziehen. Jetzt Abfahrt zum Minister
+               mit ihm. Haarschneiden im 'Figaro'. Im Kaffee mit <rs ref="#tillich_person_id__2589" type="person">Veronika</rs>. Umziehen. Jetzt Abfahrt zum Minister
                – Morgen Abend <del rend="s">10</del> 11<hi rend="sup">06</hi></p>
-            <closer>
-               <salute>Ich liebe Dich!</salute>
-               <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
-            </closer>
-         </div>
-         <div type="zweitehandschrift">
-            <opener><salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
-                  >Hannah</rs>!</salute></opener>
-            <p>ich freue mich, daß <rs type="person" ref="#tillich_person_id__1928">Paulus</rs> bei
+<closer>
+<salute>Ich liebe Dich!</salute>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+<div type="zweitehandschrift">
+<opener><salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute></opener>
+<p>ich freue mich, daß <rs ref="#tillich_person_id__1928" type="person">Paulus</rs> bei
                mir wohnt aber ich <hi rend="u">sehe</hi> ihn kaum.</p>
-            <closer><signed>D. <rs type="person" ref="#tillich_person_id__1672"
-               >Emmy</rs>.</signed></closer>
-         </div>
-      </body>
-   </text>
+<closer><signed>D. <rs ref="#tillich_person_id__1672" type="person">Emmy</rs>.</signed></closer>
+</div>
+</body>
+</text>
 </TEI>

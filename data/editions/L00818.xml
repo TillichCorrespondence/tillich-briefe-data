@@ -1,104 +1,102 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00818">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Gottfried Salomon an Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00818" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Gottfried Salomon an Paul Tillich
                <lb/>vom 7. April 1924
             </title>
-            <author ref="#tillich_person_id__1678">Gottfried Salomon</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Niklas von Hülsen</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="typescript">
-               <msIdentifier>
-                  <country>Niederlande</country>
-                  <settlement>Amsterdam</settlement>
-                  <institution>Koninklijke Nederlandse Akademie van Wetenschappen</institution>
-                  <repository>Internationaal Instituut voor Sociale Geschiedenis</repository>
-                  <collection>Gottfried Salomon-Delatour Papers, ARCH[01231]</collection>
-                  <idno>Inv.nr. 1172/2</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, maschinenschriftlich (Durchschlag)</p>
-                  </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1678">Gottfried Salomon</persName>
-              <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
-              <date when="1924-04-07">07.04.1924</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="NH" when="2022-10-15">Initiale Auszeichnung des Transkripts</change>
-        <change who="FS" when="2023-04-17">Ergänzende Auszeichnungen</change>
-        <change who="FS" when="2023-11-24">Endabnahme</change>
-        
-
-     </revisionDesc>
-  </teiHeader>
-  <text type="letter">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <dateline><rs ref="#tillich_place_id__143" type="place">Frankfurt/Main</rs>, den <date when="1924-04-07">7. April 1924</date>
-           <lb/>Sophienstrasse 42</dateline>
-           <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>,</salute>
-        </opener>
-        <p>Vielen Dank für Ihren <rs ref="L00816" type="letter">Brief</rs> und allerherzlichste Glückwünsche zur Heirat. Ich freue mich, Sie beide im Sommer öfter zu sehen. Da <rs ref="#tillich_person_id__306" type="person">Buber</rs> hier ist und viel<unclear cert="high" reason="damage">e</unclear> romantische Katholiken, so kann ja die theologische Diskussio<unclear cert="high" reason="damage">n</unclear> lebhaft werden.</p>
-        <p>Ich habe für das <rs ref="#tillich_work_id__7" type="work">Jahrbuch</rs> schon eine Menge Zusagen, aber ich werde Sie trotzdem nicht freilassen. Sie müssen mir etwas über christliche Sozialaethik oder eine nähere Darlegung des Eschatologie- und Kairosgedankens geben.</p>
-        <p>Die <rs ref="#tillich_work_id__37" type="work">Festschrift</rs> <rs ref="#tillich_person_id__1426" type="person">Oppenheimer</rs> ist Gott sei Dank erschienen, nachdem ich 8 Wochen wie ein Perserker geschuftet habe. Die Sonderdrucke werden in dieser Woche fertig, ich schicke Ihnen einen zu.
+<author ref="#tillich_person_id__1678">Gottfried Salomon</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Niklas von Hülsen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="typescript">
+<msIdentifier>
+<country>Niederlande</country>
+<settlement>Amsterdam</settlement>
+<institution>Koninklijke Nederlandse Akademie van Wetenschappen</institution>
+<repository>Internationaal Instituut voor Sociale Geschiedenis</repository>
+<collection>Gottfried Salomon-Delatour Papers, ARCH[01231]</collection>
+<idno>Inv.nr. 1172/2</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, maschinenschriftlich (Durchschlag)</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1678">Gottfried Salomon</persName>
+<placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+<date when="1924-04-07">07.04.1924</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-10-15" who="NH">Initiale Auszeichnung des Transkripts</change>
+<change when="2023-04-17" who="FS">Ergänzende Auszeichnungen</change>
+<change when="2023-11-24" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__143" type="place">Frankfurt/Main</rs>, den <date when="1924-04-07">7. April 1924</date>
+<lb/>Sophienstrasse 42</dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>,</salute>
+</opener>
+<p>Vielen Dank für Ihren <rs ref="L00816" type="letter">Brief</rs> und allerherzlichste Glückwünsche zur Heirat. Ich freue mich, Sie beide im Sommer öfter zu sehen. Da <rs ref="#tillich_person_id__306" type="person">Buber</rs> hier ist und viel<unclear cert="high" reason="damage">e</unclear> romantische Katholiken, so kann ja die theologische Diskussio<unclear cert="high" reason="damage">n</unclear> lebhaft werden.</p>
+<p>Ich habe für das <rs ref="#tillich_work_id__7" type="work">Jahrbuch</rs> schon eine Menge Zusagen, aber ich werde Sie trotzdem nicht freilassen. Sie müssen mir etwas über christliche Sozialaethik oder eine nähere Darlegung des Eschatologie- und Kairosgedankens geben.</p>
+<p>Die <rs ref="#tillich_work_id__37" type="work">Festschrift</rs> <rs ref="#tillich_person_id__1426" type="person">Oppenheimer</rs> ist Gott sei Dank erschienen, nachdem ich 8 Wochen wie ein Perserker geschuftet habe. Die Sonderdrucke werden in dieser Woche fertig, ich schicke Ihnen einen zu.
         </p>
-        <closer>
-           <salute>Herzlichen Gruss
+<closer>
+<salute>Herzlichen Gruss
               <lb/>Ihr alter<note type="ea">[Unterschrift fehlt]</note>
-              </salute>
-        </closer>
-        
-     </div>
-    </body>
-  </text>
+</salute>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

@@ -1,100 +1,98 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01240">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Hannah Tillich 
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01240" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich 
                <lb/>vom 30. Juli 1933<note type="ea">Das Briefmanuskript ist undatiert. Der Kontext ermöglicht die Datierung.</note></title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Niklas von Hülsen</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>           
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82" type="place">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
-                  <idno>bMS 721/3(3)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig. Briefpapier ist auf dem Briefkopf bedruckt: "Das Haus auf dem Küssel. <rs ref="#tillich_place_id__356" type="place">Potsdam</rs>, Küsselstraße 40-41, Fernruf 5034"</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__356">Potsdam</placeName>
-              <date when="1933-07-30">30.07.1933</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="NH" when="2023-09-07">Intitale Auszeichnung des Transkripts</change>
-        <change who="NH" when="2023-11-22">Korrekturen zur Übung für Endabnahme</change>
-        <change who="FS" when="2023-12-06">Endabnahme</change>
-        
-        
-       
-     </revisionDesc>
-  </teiHeader>
-  <text type="letter">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener><dateline>Sonntag Nachm.</dateline>
-           <salute>Liebste <rs type="person" ref="#tillich_person_id__1923">Hannah</rs>!</salute>
-        </opener>
-        <p>Inzwischen deine beiden Telegramme erhalten!<note type="ea">Diese Telegramme liegen nicht vor.</note> Das erste war verstümmelt. <rs ref="#tillich_person_id__1823" type="person">Dr. Sp.</rs> ist gestern hier angekommen und ich konferiere mit ihm <date when="1933-07-31">Montag</date> früh.<note type="ea">Hintergrund ist die mögliche Mitarbeit Tillichs an der New Yorker "University in Exile", vgl. den <rs ref="L01239">Brief von Paul Tillich an Hannah Tillich vom 29. Juli 1933</rs>.</note> Er spricht über die technischen Einzelheiten mit mir. <date when="1933-07-29">Sonnabend</date> habe ich erst stundenlang telephoniert, dann den Koffer nach <rs ref="#tillich_place_id__49" type="place">Tempelhof</rs> gebracht (dank <rs ref="#tillich_person_id__2041" type="person">M.L's</rs> Schlüssel); dann war ich zum Mittagessen <pb n="2"/> bei <rs ref="#tillich_person_id__718" type="person"><rs ref="#tillich_person_id__2408" type="person">Grim.<expan>me</expan>'s</rs></rs>; er hat noch einiges Gesparte. Von <date when="1933-11-01">1. Nov.</date> ab <hi rend="u">nichts</hi> mehr. Er ist der allerdringendste Fall. Ich habe gedacht, daß er mit <rs ref="#tillich_person_id__1307" type="person">Carolus</rs> zusammen vielleicht ein Volksschulheim irgendwo aufmachen soll. <rs ref="#tillich_person_id__1307" type="person">Carolus</rs> soll sich das mal durch den Kopf gehen lassen. – Hans<note type="ea">Identität nicht gesichert, es dürfte sich aber um <rs ref="#tillich_person_id__1845" type="person">Hans Staudinger</rs> handeln. Dieser war von Mitte Juni bis Mitte Juli 1933 in Schutzhaft gesessen.</note> geht es nicht gut; er hat sehr Schweres erlebt. Er ist da, wo er ist, durch die Tapferkeit und unermüdliche Energie seiner Frau<note type="ea">Vermutlich <rs ref="#tillich_person_id__1844" type="person">Else Staudinger</rs> (vgl. auch die <rs ref="L01239" type="letter">Karte Paul Tillichs an Hannah Tillich vom 29. Juli 1933</rs>).</note>. Immerhin ist er restlos ausgeschaltet, darf sich nicht rühren, kann nicht weg und ist mit den Nerven ganz am Ende. – <rs ref="#tillich_person_id__718" type="person">Grim<expan>me</expan></rs> kommt zu uns, wenn wir ihn ganz einladen, was ich tat. – Zwischendurch <pb n="3"/> eine halbe Stunde mit <rs ref="#tillich_person_id__2655" type="person">Evamaria Klotz</rs>, die sehr fein und gewieft ist und in vollster Empörung. –</p>
-        <p>Dann im Küssel;<note type="ea">Gemeint ist das "Haus auf dem Küssel", in dem <rs ref="#tillich_person_id__1211" type="person">Claire</rs> und <rs ref="#tillich_person_id__1212" type="person">Günther Löwenfeld</rs> bzw. <rs ref="#tillich_person_id__1499" type="person">Fritz</rs> und <rs ref="#tillich_person_id__1498" type="person">Lily Pincus</rs> lebten. Die Wohngemeinschaft bestand seit 1925, im Jahr 1931 war das Haus um einen modernen Zubau nach Entwurf des Architekten <rs ref="#tillich_person_id__2406" type="person">Stephan Hirzel</rs> erweitert worden, den Tillich mit einem Vortrag über "<rs ref="#tillich_work_id__63" type="work">Das Wohnen, der Raum und die Zeit</rs>" eingeweiht hatte.</note> dort allerhand Jungens vom Kunstdienst<note type="ea"><rs ref="#tillich_person_id__2406" type="person">Stephan Hirzel</rs>, der Architekt des Hauses auf dem Küssel, war ein Mitbegründer des "Kunstdienstes der evangelischen Kirche" gewesen.</note>. Vor dem Abendbrot allgemeines Baden (so daß ich keinen Tag ausgesetzt habe) Am Abend mit den 4 Besprechung des <rs ref="#tillich_person_id__2316" type="person">Emilschen</rs> Prospektes.<note type="ea">Siehe hierzu auch die <rs ref="L01239" type="letter">Karte von Paul Tillich an Hannah Tillich vom 29. Juli 1933</rs>.</note> Starke Kritik an der Besetzung, die in der Tat infolge des Fehlens der Frankfurter recht fragwürdig ist. Darum ist das zweite Telegramm sehr wichtig. Diese Kombination kann sehr gut sein. Trotzdem wie zu erwarten, im <pb n="4"/> Küssel stärkste Tendenz für Hierbleiben. Heut früh Rudern mit <rs ref="#tillich_person_id__2020" type="person">Dox</rs>, dem Entlassung ohne Pension droht und der höchst deprimiert ist. Unter Umständen muß man auch für ihn was tun. Dann wieder Baden und Abfahrt zu <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs>, von dem ich jetzt komme, um zu <rs ref="#tillich_person_id__641" type="person">Frede</rs> zu fahren (dazwischen im Kaffe Vaterland den Brief schreibend.) <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs> über alles sehr pessimistisch, hält den Ruf nach draußen für eine Fügung, um dem kommenden Unheil zu entgehen (Weitere Weltwirtschaftskrise wegen Scheiterns der Verständigungen). Meint, daß ich hier auf einer bindenden Zusage bestehen müßte. – <date when="1933-07-31">Morgen</date> Nachmittag <rs ref="#tillich_person_id__2600" type="person">Schneider</rs> <pb n="5"/> vom Kunstdienst, der sehr viel weiß, auch daß man sich über mich sehr den Kopf zerbricht. – <rs ref="#tillich_person_id__1887" type="person">Eckart</rs> zu einer Ausgrabung gereist, reist <date when="1933-07-31">Montag</date> an. – Man hat hier das Gefühl, daß die stärkste Negativität bei großen Massen eingesetzt hat. – Auf Bahnhof <rs ref="#tillich_place_id__183" type="place">Grunewald</rs> traf ich auf 5 Min. <rs ref="#tillich_person_id__1809" type="person">Sohn-Rethel</rs>, mit einem Mitglied des Blätterkreises<note type="ea">Gemeint sind die <rs ref="#tillich_work_id__66" type="work">Neuen Blätter für den Sozialismus</rs>.</note>, der mir sagte, er hätte gehört, daß <rs ref="#tillich_place_id__516" type="place">Leiden, Holland</rs>, mich als Professor haben wolle. Ich weiß nichts davon. – Das Exposé ist sehr schwungvoll und <pb n="6"/> gut. Die Sache sieht auch sicher aus. Wenn nur bessere Leute dabei wären! - - Über <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> noch nichts gehört; vielleicht muß ich <date when="1933-08-02">Mittwoch</date> doch noch bleiben.
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Niklas von Hülsen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82" type="place">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+<idno>bMS 721/3(3)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig. Briefpapier ist auf dem Briefkopf bedruckt: "Das Haus auf dem Küssel. <rs ref="#tillich_place_id__356" type="place">Potsdam</rs>, Küsselstraße 40-41, Fernruf 5034"</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__356">Potsdam</placeName>
+<date when="1933-07-30">30.07.1933</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-07" who="NH">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-11-22" who="NH">Korrekturen zur Übung für Endabnahme</change>
+<change when="2023-12-06" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline>Sonntag Nachm.</dateline>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Inzwischen deine beiden Telegramme erhalten!<note type="ea">Diese Telegramme liegen nicht vor.</note> Das erste war verstümmelt. <rs ref="#tillich_person_id__1823" type="person">Dr. Sp.</rs> ist gestern hier angekommen und ich konferiere mit ihm <date when="1933-07-31">Montag</date> früh.<note type="ea">Hintergrund ist die mögliche Mitarbeit Tillichs an der New Yorker "University in Exile", vgl. den <rs ref="L01239">Brief von Paul Tillich an Hannah Tillich vom 29. Juli 1933</rs>.</note> Er spricht über die technischen Einzelheiten mit mir. <date when="1933-07-29">Sonnabend</date> habe ich erst stundenlang telephoniert, dann den Koffer nach <rs ref="#tillich_place_id__49" type="place">Tempelhof</rs> gebracht (dank <rs ref="#tillich_person_id__2041" type="person">M.L's</rs> Schlüssel); dann war ich zum Mittagessen <pb n="2"/> bei <rs ref="#tillich_person_id__718" type="person"><rs ref="#tillich_person_id__2408" type="person">Grim.<expan>me</expan>'s</rs></rs>; er hat noch einiges Gesparte. Von <date when="1933-11-01">1. Nov.</date> ab <hi rend="u">nichts</hi> mehr. Er ist der allerdringendste Fall. Ich habe gedacht, daß er mit <rs ref="#tillich_person_id__1307" type="person">Carolus</rs> zusammen vielleicht ein Volksschulheim irgendwo aufmachen soll. <rs ref="#tillich_person_id__1307" type="person">Carolus</rs> soll sich das mal durch den Kopf gehen lassen. – Hans<note type="ea">Identität nicht gesichert, es dürfte sich aber um <rs ref="#tillich_person_id__1845" type="person">Hans Staudinger</rs> handeln. Dieser war von Mitte Juni bis Mitte Juli 1933 in Schutzhaft gesessen.</note> geht es nicht gut; er hat sehr Schweres erlebt. Er ist da, wo er ist, durch die Tapferkeit und unermüdliche Energie seiner Frau<note type="ea">Vermutlich <rs ref="#tillich_person_id__1844" type="person">Else Staudinger</rs> (vgl. auch die <rs ref="L01239" type="letter">Karte Paul Tillichs an Hannah Tillich vom 29. Juli 1933</rs>).</note>. Immerhin ist er restlos ausgeschaltet, darf sich nicht rühren, kann nicht weg und ist mit den Nerven ganz am Ende. – <rs ref="#tillich_person_id__718" type="person">Grim<expan>me</expan></rs> kommt zu uns, wenn wir ihn ganz einladen, was ich tat. – Zwischendurch <pb n="3"/> eine halbe Stunde mit <rs ref="#tillich_person_id__2655" type="person">Evamaria Klotz</rs>, die sehr fein und gewieft ist und in vollster Empörung. –</p>
+<p>Dann im Küssel;<note type="ea">Gemeint ist das "Haus auf dem Küssel", in dem <rs ref="#tillich_person_id__1211" type="person">Claire</rs> und <rs ref="#tillich_person_id__1212" type="person">Günther Löwenfeld</rs> bzw. <rs ref="#tillich_person_id__1499" type="person">Fritz</rs> und <rs ref="#tillich_person_id__1498" type="person">Lily Pincus</rs> lebten. Die Wohngemeinschaft bestand seit 1925, im Jahr 1931 war das Haus um einen modernen Zubau nach Entwurf des Architekten <rs ref="#tillich_person_id__2406" type="person">Stephan Hirzel</rs> erweitert worden, den Tillich mit einem Vortrag über "<rs ref="#tillich_work_id__63" type="work">Das Wohnen, der Raum und die Zeit</rs>" eingeweiht hatte.</note> dort allerhand Jungens vom Kunstdienst<note type="ea"><rs ref="#tillich_person_id__2406" type="person">Stephan Hirzel</rs>, der Architekt des Hauses auf dem Küssel, war ein Mitbegründer des "Kunstdienstes der evangelischen Kirche" gewesen.</note>. Vor dem Abendbrot allgemeines Baden (so daß ich keinen Tag ausgesetzt habe) Am Abend mit den 4 Besprechung des <rs ref="#tillich_person_id__2316" type="person">Emilschen</rs> Prospektes.<note type="ea">Siehe hierzu auch die <rs ref="L01239" type="letter">Karte von Paul Tillich an Hannah Tillich vom 29. Juli 1933</rs>.</note> Starke Kritik an der Besetzung, die in der Tat infolge des Fehlens der Frankfurter recht fragwürdig ist. Darum ist das zweite Telegramm sehr wichtig. Diese Kombination kann sehr gut sein. Trotzdem wie zu erwarten, im <pb n="4"/> Küssel stärkste Tendenz für Hierbleiben. Heut früh Rudern mit <rs ref="#tillich_person_id__2020" type="person">Dox</rs>, dem Entlassung ohne Pension droht und der höchst deprimiert ist. Unter Umständen muß man auch für ihn was tun. Dann wieder Baden und Abfahrt zu <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs>, von dem ich jetzt komme, um zu <rs ref="#tillich_person_id__641" type="person">Frede</rs> zu fahren (dazwischen im Kaffe Vaterland den Brief schreibend.) <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs> über alles sehr pessimistisch, hält den Ruf nach draußen für eine Fügung, um dem kommenden Unheil zu entgehen (Weitere Weltwirtschaftskrise wegen Scheiterns der Verständigungen). Meint, daß ich hier auf einer bindenden Zusage bestehen müßte. – <date when="1933-07-31">Morgen</date> Nachmittag <rs ref="#tillich_person_id__2600" type="person">Schneider</rs> <pb n="5"/> vom Kunstdienst, der sehr viel weiß, auch daß man sich über mich sehr den Kopf zerbricht. – <rs ref="#tillich_person_id__1887" type="person">Eckart</rs> zu einer Ausgrabung gereist, reist <date when="1933-07-31">Montag</date> an. – Man hat hier das Gefühl, daß die stärkste Negativität bei großen Massen eingesetzt hat. – Auf Bahnhof <rs ref="#tillich_place_id__183" type="place">Grunewald</rs> traf ich auf 5 Min. <rs ref="#tillich_person_id__1809" type="person">Sohn-Rethel</rs>, mit einem Mitglied des Blätterkreises<note type="ea">Gemeint sind die <rs ref="#tillich_work_id__66" type="work">Neuen Blätter für den Sozialismus</rs>.</note>, der mir sagte, er hätte gehört, daß <rs ref="#tillich_place_id__516" type="place">Leiden, Holland</rs>, mich als Professor haben wolle. Ich weiß nichts davon. – Das Exposé ist sehr schwungvoll und <pb n="6"/> gut. Die Sache sieht auch sicher aus. Wenn nur bessere Leute dabei wären! - - Über <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> noch nichts gehört; vielleicht muß ich <date when="1933-08-02">Mittwoch</date> doch noch bleiben.
         </p>
-        <closer>
-           <salute>Leb wohl, liebste, süße <rs type="person" ref="#tillich_person_id__1923">Hannah</rs>! 
+<closer>
+<salute>Leb wohl, liebste, süße <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>! 
               <lb/>Grüß die andern!</salute>
-           <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paulus</rs></signed>
-        </closer>
-     </div>
-    </body>
-  </text>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paulus</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

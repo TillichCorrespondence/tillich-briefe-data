@@ -1,99 +1,100 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00908">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 22. September 1926</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00908" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 22. September 1926</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
-                  <idno>bMS 721/2(23)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+<idno>bMS 721/2(23)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__343">Paris</placeName>
-               <date when="1926-09-22">22.09.1926</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-10-25">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2023-10-25">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener><dateline>
-                  <date when="1926-09-22">d. 22ten</date></dateline>
-               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-            </opener>
-            <p>Nun ist endlich ungefähr zu übersehen, wann ich komme. Ich muß nach 2 Monaten zurück,
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__343">Paris</placeName>
+<date when="1926-09-22">22.09.1926</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-10-25" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-10-25" who="PS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline>
+<date when="1926-09-22">d. 22ten</date></dateline>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Nun ist endlich ungefähr zu übersehen, wann ich komme. Ich muß nach 2 Monaten zurück,
                sonst kostet es 50M. Also am 1. oder 2. <del rend="s">August</del>
-               <hi rend="sup">Oktober</hi> muß ich abfahren. Dann will ich eine Nacht bei <rs ref="#tillich_person_id__1794" type="person">Simons</rs> in <rs ref="#tillich_place_id__130" type="place">Düsseldorf</rs> bleiben und die Gesolei<note type="ea">Eine Ausstellung in
+<hi rend="sup">Oktober</hi> muß ich abfahren. Dann will ich eine Nacht bei <rs ref="#tillich_person_id__1794" type="person">Simons</rs> in <rs ref="#tillich_place_id__130" type="place">Düsseldorf</rs> bleiben und die Gesolei<note type="ea">Eine Ausstellung in
                   Düsseldorf für Gesundheitspflege, soziale Fürsorge und Leibesübungen.</note>
                ansehen; also am 3 oder 4. in <rs ref="#tillich_place_id__126" type="place">Dresden</rs>. Genaues
                telegraphiere ich noch von<pb n="2"/>
-               <rs ref="#tillich_place_id__130" type="place">Düsseldorf</rs> aus. Es ist schwer, <rs ref="#tillich_place_id__343" type="place">Paris</rs> zu verlassen, aber es ist leicht und schön und
+<rs ref="#tillich_place_id__130" type="place">Düsseldorf</rs> aus. Es ist schwer, <rs ref="#tillich_place_id__343" type="place">Paris</rs> zu verlassen, aber es ist leicht und schön und
                befriedigend, nach Haus zu kommen zu Dir und <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs>.</p>
-            <p>Und eine Bitte, die mehr ist als eine Bitte: Sei allein wenn ich komme und nicht nur
+<p>Und eine Bitte, die mehr ist als eine Bitte: Sei allein wenn ich komme und nicht nur
                an dem Abend, sondern ein paar Tage vorher und nachher. Ich will zu Dir kommen, nur
                zu Dir, und dann erst <rs ref="#tillich_person_id__688" type="person">Heinrich</rs> – der das verstehen
                wird – und alle andern. Ich sehne mich nach Dir und nur nach Dir – – –<pb n="3"/>
@@ -104,7 +105,7 @@
                werde ich sie kaum mehr. Gestern Abend mit <rs ref="#tillich_person_id__2515" type="person">Bondis</rs>
                   (<hi rend="aq">Commeniusstr</hi>) und Frau <unclear cert="medium" reason="illegible">Knaden</unclear> und <rs ref="#tillich_person_id__2008" type="person">Eckart</rs>
                im Carmen. Ganz herrlich; zu Logen<pb n="4"/> plätzen eingeladen.</p>
-            <p>Gestern die ersten Einkäufe mit Malla: Mantel für Dich und mich, Hut für Dich und
+<p>Gestern die ersten Einkäufe mit Malla: Mantel für Dich und mich, Hut für Dich und
                mich, zusammen 94M!! Mein Mantel ist zweireihig, schwarz-grau, weit und etwas Taille.
                Wir sind alle drei, auch <rs ref="#tillich_person_id__2008" type="person">Eckart</rs> als Schiedsrichter
                sehr zufrieden (65M). Dann eine komische Sache, Dein Mantel in einem
@@ -114,9 +115,9 @@
                   Endlich<pb n="5"/> für Dich einen Hut aus grünem Seidenstoff in sehr schöner
                Farbe, zusammen etwa 20M. Es sind also noch 100M für Anzug und Kleid übrig, und wir
                sitzen jetzt im Kaffee um uns für diese Probleme zu stärken.</p>
-            <p>Vorvorgestern waren wir in einem Boulevardtheater, jüdisch-politisch, wo man uns für
+<p>Vorvorgestern waren wir in einem Boulevardtheater, jüdisch-politisch, wo man uns für
                Amerikaner hielt. Doch ich habe wohl schon davon erzählt.</p>
-            <p>Heut habe ich mittelalterliche Plastik besichtigt und habe mich um den Sinn der
+<p>Heut habe ich mittelalterliche Plastik besichtigt und habe mich um den Sinn der
                archaischen Verschlossenheit bemüht. Sie<pb n="6"/> ist sehr schwer zu durchschauen.
                Ich möchte sie von meinem Begriff der "Verschlossenheit Gottes" aus deuten. Diese
                Wesen repräsentieren in ihrer Verschlossenheit das unbedingte Verschlossene (das
@@ -125,11 +126,11 @@
                verbittert oder drgl. aber nie Träger gottheitlicher Verschlossenheit. – – – Die
                Verdrängung macht eine Straße, einen Baum, eine Maschine zum Gegenstand, den man
                "streicheln" möchte. Sie läßt das innere Feuer alles Seins aufleuchten!</p>
-            <closer>
-               <salute>In Freude aufs Wiedersehen</salute>
-               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<salute>In Freude aufs Wiedersehen</salute>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

@@ -1,102 +1,101 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00826">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Gottfried Salomon
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00826" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Gottfried Salomon
                <lb/>vom 2. August 1924
             </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Niklas von Hülsen</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="typescript">
-               <msIdentifier>
-                  <country>Niederlande</country>
-                  <settlement>Amsterdam</settlement>
-                  <institution>Koninklijke Nederlandse Akademie van Wetenschappen</institution>
-                  <repository>Internationaal Instituut voor Sociale Geschiedenis</repository>
-                  <collection>Gottfried Salomon-Delatour Papers, ARCH[01231]</collection>
-                  <idno>Inv.nr. 1172/3</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, maschinenschriftlich</p>
-                  </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__279">Marburg a. d. L.</placeName>
-              <date when="1924-08-02">02.08.1924</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1678">Gottfried Salomon</persName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="NH" when="2022-10-18">Intitale Auszeichnung des Transkripts</change>
-        <change who="FS" when="2023-04-11">Ergänzende Auszeichnungen</change>
-        <change who="FS" when="2023-04-17">Weitere Überarbeitungen</change>
-        <change who="FS" when="2023-10-30">Endabnahme</change>
-       
-     </revisionDesc>
-  </teiHeader>
-  <text type="letter">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <dateline><rs ref="#tillich_place_id__279" type="place">Marburg/Lahn</rs>, den <date when="1924-08-02">2.8.24</date> Sybelstr. 6</dateline>
-           <salute>Lieber <rs ref="#tillich_person_id__1678" type="person">Salomon</rs>!</salute>
-        </opener>
-        <p>Mein Freund, <rs ref="#tillich_person_id__2094" type="person">Dr. Wolfers</rs>, von dem ich Ihnen erzählte, der in diesen Tagen hier war, hat den Wunsch, Sie in <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> aufzusuchen Er lässt nun durch mich fragen, wann Sie während der Ferien in <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> sind. Für ihn kommt vor allem in Frage die <date from="1924-08-25" to="1924-08-31">letzte Woche des August</date> und der <date when="1924-09">September</date>. Soweit ich übersehe, würde er für Ihre <rs ref="#tillich_work_id__7" type="work">Zeitschrift</rs> von entscheidender Bedeutung sein können. Er selbst ist Schweizer, hat starke Beziehungen nach England wo er in den nächsten Wochen hin fährt und geht Ende <date when="1924-10">Oktober</date> auf mehrere Monate nach Amerika. Da ich selbst infolge meiner Italienreise gegenwärtig schwierig zu erreichen bin, wäre ich Ihnen dankbar, wenn Sie direkt an ihn schrieben, und wenn Sie ihm mitteilten, wann Sie für ihn zu sprechen wären, und wo Sie in den Zwischenzeiten sind. Seine Adresse ist bis zum <date when="1924-08-10">10. August</date>:</p>
-           <p><rs ref="#tillich_place_id__37" type="place">Berlin N.W. Mittelstr. 5 Christliches Hospiz</rs>.</p>
-        <p>Ich denke gern an den Nachmittag bei Ihnen zurück und hoffe, dass der Winter Gelegenheit zu häufigeren Zusammenkünften geben wird.</p>
-        <closer>
-           <salute>Herzliche Grüsse an Sie und Ihre <rs ref="#tillich_person_id__2304" type="person">Frau</rs>
-           </salute>
-           <signed>Ihr <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
-        </closer>
-      
-     </div>
-    </body>
-  </text>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Niklas von Hülsen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="typescript">
+<msIdentifier>
+<country>Niederlande</country>
+<settlement>Amsterdam</settlement>
+<institution>Koninklijke Nederlandse Akademie van Wetenschappen</institution>
+<repository>Internationaal Instituut voor Sociale Geschiedenis</repository>
+<collection>Gottfried Salomon-Delatour Papers, ARCH[01231]</collection>
+<idno>Inv.nr. 1172/3</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, maschinenschriftlich</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__279">Marburg a. d. L.</placeName>
+<date when="1924-08-02">02.08.1924</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1678">Gottfried Salomon</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-10-18" who="NH">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-04-11" who="FS">Ergänzende Auszeichnungen</change>
+<change when="2023-04-17" who="FS">Weitere Überarbeitungen</change>
+<change when="2023-10-30" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__279" type="place">Marburg/Lahn</rs>, den <date when="1924-08-02">2.8.24</date> Sybelstr. 6</dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1678" type="person">Salomon</rs>!</salute>
+</opener>
+<p>Mein Freund, <rs ref="#tillich_person_id__2094" type="person">Dr. Wolfers</rs>, von dem ich Ihnen erzählte, der in diesen Tagen hier war, hat den Wunsch, Sie in <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> aufzusuchen Er lässt nun durch mich fragen, wann Sie während der Ferien in <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> sind. Für ihn kommt vor allem in Frage die <date from="1924-08-25" to="1924-08-31">letzte Woche des August</date> und der <date when="1924-09">September</date>. Soweit ich übersehe, würde er für Ihre <rs ref="#tillich_work_id__7" type="work">Zeitschrift</rs> von entscheidender Bedeutung sein können. Er selbst ist Schweizer, hat starke Beziehungen nach England wo er in den nächsten Wochen hin fährt und geht Ende <date when="1924-10">Oktober</date> auf mehrere Monate nach Amerika. Da ich selbst infolge meiner Italienreise gegenwärtig schwierig zu erreichen bin, wäre ich Ihnen dankbar, wenn Sie direkt an ihn schrieben, und wenn Sie ihm mitteilten, wann Sie für ihn zu sprechen wären, und wo Sie in den Zwischenzeiten sind. Seine Adresse ist bis zum <date when="1924-08-10">10. August</date>:</p>
+<p><rs ref="#tillich_place_id__37" type="place">Berlin N.W. Mittelstr. 5 Christliches Hospiz</rs>.</p>
+<p>Ich denke gern an den Nachmittag bei Ihnen zurück und hoffe, dass der Winter Gelegenheit zu häufigeren Zusammenkünften geben wird.</p>
+<closer>
+<salute>Herzliche Grüsse an Sie und Ihre <rs ref="#tillich_person_id__2304" type="person">Frau</rs>
+</salute>
+<signed>Ihr <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

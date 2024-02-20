@@ -1,111 +1,109 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00181">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Alfred Fritz an Paul Tillich <lb/>vom 27. Juli 1907 </title>
-            <author ref="#tillich_person_id__641">Alfred Fritz</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00181" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Alfred Fritz an Paul Tillich <lb/>vom 27. Juli 1907 </title>
+<author ref="#tillich_person_id__641">Alfred Fritz</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/143(11)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/143(11)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
-               <placeName ref="#tillich_place_id__448">Tübingen</placeName>
-               <date when="1907-07-27">27.07.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__189">Halle</placeName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-09-22">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2024-02-06">Vorbereitende Endabnahme</change>
-         <change who="EL" when="2024-02-20">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="postcard">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__448" type="place">Tübingen</rs>
-                  <date when="1907-07-27">27. VII. 07.</date></dateline>
-               <salute>Liebes <rs ref="#tillich_person_id__1928" type="person"
-                  >Paulchen</rs>!</salute>
-            </opener>
-            <p>Nun seid Ihr wohl wieder im lieblichen Hafen vereint. Ich freue mich, daß Ihr so
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+<placeName ref="#tillich_place_id__448">Tübingen</placeName>
+<date when="1907-07-27">27.07.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__189">Halle</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-09-22" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-02-06" who="PS">Vorbereitende Endabnahme</change>
+<change when="2024-02-20" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__448" type="place">Tübingen</rs>
+<date when="1907-07-27">27. VII. 07.</date></dateline>
+<salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+</opener>
+<p>Nun seid Ihr wohl wieder im lieblichen Hafen vereint. Ich freue mich, daß Ihr so
                schöne Tage gehabt habt. <rs ref="#tillich_person_id__2197" type="person">Mein
-                  Bruder</rs> ist auf dem Wege zur Besserung. <rs ref="#tillich_person_id__2198"
-                  type="person">Banzhafs Bruder</rs> ist sein Vertreter. Ich hoffe Du bleibst
+                  Bruder</rs> ist auf dem Wege zur Besserung. <rs ref="#tillich_person_id__2198" type="person">Banzhafs Bruder</rs> ist sein Vertreter. Ich hoffe Du bleibst
                vollends gesund, um dann glücklich in die heißersehnte, lange Ruhezeit einzumünden.
                Ich habe in den letzten Tagen wahnsinnig geschafft Ich wollte mal sehen, ob ich es
                nicht so gut wie <rs ref="#tillich_person_id__1201" type="person">Loofs</rs>
-               <unclear cert="medium">13 Std.</unclear> fertig bringe. Wenn die Mitglieder des
-               Rundbriefs in spe in <rs type="place" ref="#tillich_place_id__189">Halle</rs>
+<unclear cert="medium">13 Std.</unclear> fertig bringe. Wenn die Mitglieder des
+               Rundbriefs in spe in <rs ref="#tillich_place_id__189" type="place">Halle</rs>
                eingestimmt haben, dann teile es bitte mit, dann laß ich ihn los. </p>
-            <closer>
-               <salute>Mit herzlichem Gruß an <rs ref="#tillich_person_id__128" type="person"
-                     >Hans</rs> u <rs ref="#tillich_person_id__1295" type="person">Dein
+<closer>
+<salute>Mit herzlichem Gruß an <rs ref="#tillich_person_id__128" type="person">Hans</rs> u <rs ref="#tillich_person_id__1295" type="person">Dein
                   Lfxlein</rs></salute>
-               <signed>Dein <rs ref="#tillich_person_id__641" type="person">Alfred</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<signed>Dein <rs ref="#tillich_person_id__641" type="person">Alfred</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

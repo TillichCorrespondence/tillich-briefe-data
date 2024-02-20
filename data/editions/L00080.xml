@@ -1,100 +1,101 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00080">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Gustav Dürselen an Paul Tillich <lb/>vom 22. Juli 1905 </title>
-            <author ref="#tillich_person_id__2237">Gustav Dürselen</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00080" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Gustav Dürselen an Paul Tillich <lb/>vom 22. Juli 1905 </title>
+<author ref="#tillich_person_id__2237">Gustav Dürselen</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/137(46)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/137(46)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__2237">Gustav Dürselen</persName>
-               <placeName ref="#tillich_place_id__213">Hohen Neuendorf</placeName>
-               <date when="1905-07-22">22.07.1905</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-07-22">Intitale Auszeichnung des Transkripts</change>
-         <change who="EL" when="2023-10-31">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="postcard">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__213" type="place">Hohenneuendorf</rs>, den <date when="1905-07-22"><hi rend="sup">22</hi>/7 05.</date></dateline>
-               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
-            </opener>
-            <p>Eben empfing ich hier Deine Karte und habe <sic>ich</sic> sehr darüber gefreut. Wie Du denken kannst, erkundige ich mich täglich bei
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2237">Gustav Dürselen</persName>
+<placeName ref="#tillich_place_id__213">Hohen Neuendorf</placeName>
+<date when="1905-07-22">22.07.1905</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-07-22" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-10-31" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__213" type="place">Hohenneuendorf</rs>, den <date when="1905-07-22"><hi rend="sup">22</hi>/7 05.</date></dateline>
+<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+</opener>
+<p>Eben empfing ich hier Deine Karte und habe <sic>ich</sic> sehr darüber gefreut. Wie Du denken kannst, erkundige ich mich täglich bei
                den Großeltern Tillich ob etwas Nachricht gekommen und freue ich mich immer sehr,
                wenn sie gut sind <sic>Wie</sic> ich mit innigster Theilnahme
                immer nach Nachricht von Dir gesehnt, kannst Du Dir denken. Mir geht es Gottlob zur
                Zufriedenheit in meinem so hohen Alter, hoffend auf immer gute Nachrichten verbleibe
                mit herzl. Gruß Dein tr. Großpapa <rs ref="#tillich_person_id__2237" type="person">Dürselen</rs>.</p>
-            <postscript>
-               <p>Viele Grüße a. d. Großeltern Tillich x Tante <rs ref="#tillich_person_id__1925" type="person">Grethe</rs></p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+<postscript>
+<p>Viele Grüße a. d. Großeltern Tillich x Tante <rs ref="#tillich_person_id__1925" type="person">Grethe</rs></p>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

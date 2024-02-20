@@ -1,94 +1,95 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00158">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Hans Balke an Paul Tillich <lb/>vom 05. April 1907 </title>
-            <author ref="#tillich_person_id__128">Hans Balke</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Julian Jöri</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00158" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Hans Balke an Paul Tillich <lb/>vom 05. April 1907 </title>
+<author ref="#tillich_person_id__128">Hans Balke</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Julian Jöri</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/122(40)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/122(40)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__128">Hans Balke</persName>
-               <placeName ref="#tillich_place_id__318">Neviges</placeName>
-               <date when="1907-04-05">05.04.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="JJ" when="2022-05-25">Intitale Auszeichnung des Transkripts</change>
-         <change who="EL" when="2023-10-02">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__318" type="place">Neviges</rs>, den <date when="1907-04-05">5. April 1907.</date></dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
-            </opener>
-            <p>Hab herzlichen Dank für Deinen lb. Brief. Leider konnte ich nicht eher dazu kommen, 
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__128">Hans Balke</persName>
+<placeName ref="#tillich_place_id__318">Neviges</placeName>
+<date when="1907-04-05">05.04.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-05-25" who="JJ">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-10-02" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__318" type="place">Neviges</rs>, den <date when="1907-04-05">5. April 1907.</date></dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
+</opener>
+<p>Hab herzlichen Dank für Deinen lb. Brief. Leider konnte ich nicht eher dazu kommen, 
                ihn zu beantworten; aber ich hoffe, Du wirst mich auch jetzt noch in Gnaden 
                ansehn.</p>
-            <p>Dass Du mit einer Erkältung zu Bett gelegen hast, tut mir furchtbar leid. 
+<p>Dass Du mit einer Erkältung zu Bett gelegen hast, tut mir furchtbar leid. 
                Hoffentlich bist Du jetzt wiederhergestellt. Sonst lade ich Dich ein, schleunigst 
                hierher zu kommen; in der prachtvollen Luft und dem schönen Sonnenschein bist 
                Du garantiert in wenigen Tagen wieder ganz gesund. Das Wetter war in den letzten 
@@ -110,7 +111,7 @@
                brauchst Du nicht zu fürchten; ich besitze den den kl. <rs ref="#tillich_person_id__1111" type="person">Kurtz</rs> 
                noch garnicht. Auch bin ich froh, wenn ich <pb n="3"/>bei dem geplanten Pensum mit sehr 
                häufigen Ausnahmen bleiben kann.</p>
-            <p>Ich habe mich kürzlich noch einmal etwas mit dem Prinzipsstreit befasst und habe 
+<p>Ich habe mich kürzlich noch einmal etwas mit dem Prinzipsstreit befasst und habe 
                auch jeden Rest von Freude an der Sache eingebüsst. Wir haben trotz aller 
                Anstrengungen garnichts erreicht. Das einzig Positive ist das, dass jetzt jede 
                dogmatische Engherzzigkeit, die auch vorher in der Praxis nicht geübt wurde, auch 
@@ -206,14 +207,14 @@
                nächsten Sommer sehr entgegenkommen; ich bin überzeugt, es wird weit besser mit 
                ihm gehen. Es tut mir leid, dass er nicht Lbb. Berechtigt ist, obwohl er selbst 
                es jetzt so für besser hält.</p>
-            <p>Doch nun Schluss. Verzeih bitte das grässliche Geschmiere, hoffentlich kannst 
+<p>Doch nun Schluss. Verzeih bitte das grässliche Geschmiere, hoffentlich kannst 
                Du es lesen.</p>
-            <p>An Deine lb. Hausgenossen einen herzlichen Gruss</p>
-            <closer>
-               <salute>In Treuen Dein</salute>
-               <signed><rs ref="#tillich_person_id__128" type="person">Hans B.</rs></signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<p>An Deine lb. Hausgenossen einen herzlichen Gruss</p>
+<closer>
+<salute>In Treuen Dein</salute>
+<signed><rs ref="#tillich_person_id__128" type="person">Hans B.</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

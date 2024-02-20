@@ -1,115 +1,109 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00943">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 5. Oktober 1927
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00943" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 5. Oktober 1927
                [PS]</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="Wien">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="Wien">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
-                  <idno>bMS 721/2(24)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+<idno>bMS 721/2(24)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__493">Dresden</placeName>
-               <date when="1927-10-05">05.10.1927</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-               <placeName ref="#tillich_place_id__472">Wippershain</placeName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-11-14">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2023-11-14">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="postcard">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
-                  >Hannah</rs>!</salute>
-            </opener>
-            <p>In Eile die erste Nachricht: <rs type="person" ref="#tillich_person_id__570"
-                  >Erdmuthe</rs> geht es gut, sogar sehr gut. Sie lächelte mich süß und erkennend
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__493">Dresden</placeName>
+<date when="1927-10-05">05.10.1927</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+<placeName ref="#tillich_place_id__472">Wippershain</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-11-14" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-11-14" who="PS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>In Eile die erste Nachricht: <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> geht es gut, sogar sehr gut. Sie lächelte mich süß und erkennend
                an, als ich da war. <unclear>Mariechen</unclear> ist völlig hingegeben in der Pflege.
-                  <rs type="person" ref="#tillich_person_id__570">Erdmuthe</rs> ist verändert. Ich
+                  <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> ist verändert. Ich
                weiß noch nicht in welcher Richtung. Jedenfalls ist sie süß wie immer.</p>
-            <p>Der Vortrag war ein sehr großer Erfolg, wie die fast 3-stündige Diskussion zeigte.
-                  <rs type="person" ref="#tillich_person_id__2592">Rade</rs> verglich den Eindruck
-               mit dem der berühmten Eisenacher Rede <rs type="person" ref="#tillich_person_id__694"
-                  >Gogartens</rs>. Er sagte zugleich, daß meine Methode aufbauend, sammelnd wäre und
-               nicht zerspaltend wie die dialektische. – <rs type="person"
-                  ref="#tillich_person_id__688">Heinrich</rs> hatte leider verschlafen. Mit
-                  <unclear>Ernsts</unclear> ist es sehr nett. <rs type="person"
-                  ref="#tillich_person_id__1099">Kroner</rs> war auch da. Vielleicht kommt er heut
+<p>Der Vortrag war ein sehr großer Erfolg, wie die fast 3-stündige Diskussion zeigte.
+                  <rs ref="#tillich_person_id__2592" type="person">Rade</rs> verglich den Eindruck
+               mit dem der berühmten Eisenacher Rede <rs ref="#tillich_person_id__694" type="person">Gogartens</rs>. Er sagte zugleich, daß meine Methode aufbauend, sammelnd wäre und
+               nicht zerspaltend wie die dialektische. – <rs ref="#tillich_person_id__688" type="person">Heinrich</rs> hatte leider verschlafen. Mit
+                  <unclear>Ernsts</unclear> ist es sehr nett. <rs ref="#tillich_person_id__1099" type="person">Kroner</rs> war auch da. Vielleicht kommt er heut
                   <unclear cert="high" reason="damaged">Abend noch</unclear> zu uns.</p>
-            <p>Deinen Brief<note type="ea">Nicht überliefert.</note> habe ich erhalten und bin sehr
+<p>Deinen Brief<note type="ea">Nicht überliefert.</note> habe ich erhalten und bin sehr
                glücklich, daß Du es schön hast. – Daß Du heut nicht dabei warst, war mir der einzige
-               Schmerz. Das Geld ist nach <rs type="place" ref="#tillich_place_id__208"
-                  >Hersfeld</rs> abgeschickt, auch ein Brief von <rs type="person"
-                  ref="#tillich_person_id__2564">Kallen</rs>. Ich liebe Dich!</p>
-            <closer>
-               <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+               Schmerz. Das Geld ist nach <rs ref="#tillich_place_id__208" type="place">Hersfeld</rs> abgeschickt, auch ein Brief von <rs ref="#tillich_person_id__2564" type="person">Kallen</rs>. Ich liebe Dich!</p>
+<closer>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

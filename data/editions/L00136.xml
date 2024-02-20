@@ -1,89 +1,90 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00136">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Alfred Fritz
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00136" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Alfred Fritz
                <lb/>von 1907 (Frühling)</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Andreas Burri</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Andreas Burri</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008C</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008C</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date notBefore="1907-03-01" notAfter="1907-04-01">1907 (Frühling)</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="AB" when="2022-12-12">Intitale Auszeichnung des Transkripts</change>
-         <change who="AB" when="2023-01-16">Überprüfung und Ergänzung der Auszeichnungen</change>
-         <change who="EL" when="2023-09-26">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <salute>Lieber <rs ref="#tillich_person_id__641" type="person">Alfred</rs>!</salute></opener>
-            <p>Endlich soweit! Nämlich im Stande, Dir auf Karte und Brief zu antworten. Daß ich
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date notAfter="1907-04-01" notBefore="1907-03-01">1907 (Frühling)</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-12-12" who="AB">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-01-16" who="AB">Überprüfung und Ergänzung der Auszeichnungen</change>
+<change when="2023-09-26" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Lieber <rs ref="#tillich_person_id__641" type="person">Alfred</rs>!</salute></opener>
+<p>Endlich soweit! Nämlich im Stande, Dir auf Karte und Brief zu antworten. Daß ich
                bisher nicht war, wird Dir <rs ref="#tillich_person_id__1050" type="person">Albert</rs> bezeugen
                können. Aber um den Rechtsgrundsatz: <foreign xml:lang="lat">audiatur et altera
                   pars</foreign> nicht zu verletzen, will ich Dir doch auch meinerseits einiges aus
@@ -97,8 +98,8 @@
                <rs ref="#tillich_person_id__1050" type="person">Albert</rs>, wenigstens relativ. Es war ganz famos,
                vor allem als Gelegenheit, das im Semester Versäumte etwas nachzuholen. Das taten wir
                dann auch gründlich, ohne <rs ref="#tillich_place_id__37" type="place">Berlin</rs>
-               <add place="superlinear">zu kurz</add>
-               <del rend="s">nach</del>kommen zu lassen. Die Glanzpunkte waren (da ich die 1<formula notation="TeX">\frac{1}{2}</formula> Stunden im Regen vor dem Schloß<pb n="2"/> dem Erfolg, einige hübsche Botschafter-<unclear>¿¿¿</unclear>-Uniformen zu sehen, nicht, wie
+<add place="superlinear">zu kurz</add>
+<del rend="s">nach</del>kommen zu lassen. Die Glanzpunkte waren (da ich die 1<formula notation="TeX">\frac{1}{2}</formula> Stunden im Regen vor dem Schloß<pb n="2"/> dem Erfolg, einige hübsche Botschafter-<unclear>¿¿¿</unclear>-Uniformen zu sehen, nicht, wie
                <rs ref="#tillich_person_id__1050" type="person">Albert</rs>, dafür nehmen kann) der Abend in
                "Rheingold" und "Karmen" im Opernhaus. (Ersteres nicht die Oper, sondern das größte
                und neueste Weinrestaurant <rs ref="#tillich_place_id__37" type="place">Berlins</rs>, eine
@@ -109,7 +110,7 @@
                immer Patient, insofern mir die Erkältung noch im Kopfe sitzt, so daß jede
                vernünftige Geistestätigkeit bis vor kurzem ausgeschlossen war. Ob dieser Brief schon
                unter jene Kategorie fallen kann, ist <del rend="s">Mir</del>
-               <add place="superlinear">mir</add> zweifelhaft, doch überlasse ich Dir das Urteil
+<add place="superlinear">mir</add> zweifelhaft, doch überlasse ich Dir das Urteil
                darüber. Das Schlimmste aber ist, daß das Ohr dabei in beständiger Gefahr schwebt, und dies augenblicklich
                durch ein intensives Sausen bestätigt. Da aber die übrigen Merkmale noch fehlen, so
                hoffe ich, daß die Sache so vorübergehen wird. Ebenfalls versuchte ich mich schon
@@ -123,7 +124,7 @@
                unser Eintreten für <rs ref="#tillich_person_id__2184" type="person">Kalfhaus</rs>
                sei!<!--Tillich bezieht sich hier auf die am Rand der letzten Seite eingetragene Bemerkung Hanffstengels in dessen Brief an Paul Tillich vom 22.03.1907. Den vorliegenden Brief Tillichs also können wir zumindest auf Frühjahr 1907 datieren.-->
                Mein <rs ref="#tillich_person_id__1924" type="person">Vater</rs> beruft nächstens einen Konvent der
-               Berliner Philister. Sie wollen eine Resolution im Sinne "<rs ref="#tillich_place_id__189" type="place">Halle</rs>" <note type="ea">Vgl. <rs type="work" ref="#tillich_work_id__191">Anonym: Ratifizierungen der Beschlüsse des Chargierten-Konventes (1906)</rs>: "Resolution Tillich. Die im Bunde vereinigten Verbindungen sprechen die Hoffnung aus, daß der gegenwärtig festgestellte Zwiespalt in der Prinzipauffassung und die Lockerung der Bundesverfassung, soweit sie durch ihn erfordert wurde, nur ein vorübergehender Zustand ist."</note> (natürlich mit Aufhebung des Aktivitätszwanges) in den
+               Berliner Philister. Sie wollen eine Resolution im Sinne "<rs ref="#tillich_place_id__189" type="place">Halle</rs>" <note type="ea">Vgl. <rs ref="#tillich_work_id__191" type="work">Anonym: Ratifizierungen der Beschlüsse des Chargierten-Konventes (1906)</rs>: "Resolution Tillich. Die im Bunde vereinigten Verbindungen sprechen die Hoffnung aus, daß der gegenwärtig festgestellte Zwiespalt in der Prinzipauffassung und die Lockerung der Bundesverfassung, soweit sie durch ihn erfordert wurde, nur ein vorübergehender Zustand ist."</note> (natürlich mit Aufhebung des Aktivitätszwanges) in den
                Wingolfsblättern veröffentlichen. Doch genug von "Geschäften".<lb/> Für die Zusendung
                des Nachrufes für Deinen <rs ref="#tillich_person_id__642" type="person">Vater</rs> herzlichen
                Dank. Welche Fülle von Trost muß in der Liebe und Verehrung liegen, die so viele für
@@ -132,15 +133,15 @@
                <rs ref="#tillich_person_id__2168" type="person">Daniel</rs> oder sage
                <rs ref="#tillich_person_id__1050" type="person">Albert</rs>, er solle es tun.
             </p>
-            <closer>
-               <salute>Herzlichsten Gruß</salute>
-               <signed>Dein treuer <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.
+<closer>
+<salute>Herzlichsten Gruß</salute>
+<signed>Dein treuer <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.
                  </signed>
-            </closer>
-            <postscript>
-               <p><rs ref="#tillich_person_id__644" type="person">Johanna</rs> läßt Dich herzlich grüßen</p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+</closer>
+<postscript>
+<p><rs ref="#tillich_person_id__644" type="person">Johanna</rs> läßt Dich herzlich grüßen</p>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

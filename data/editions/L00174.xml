@@ -1,161 +1,147 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00174">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Alfred Fritz und Hermann Schafft an Paul Tillich <lb/>vom 13. Juli
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00174" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Alfred Fritz und Hermann Schafft an Paul Tillich <lb/>vom 13. Juli
                1907</title>
-            <author ref="#tillich_person_id__641">Alfred Fritz</author>
-            <author ref="#tillich_person_id__1696">Hermann Schafft</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<author ref="#tillich_person_id__641">Alfred Fritz</author>
+<author ref="#tillich_person_id__1696">Hermann Schafft</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008 G</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008 G</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
-               <persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
-               <placeName ref="#tillich_place_id__485">Hersfeld</placeName>
-               <date when="1907-07-13">13.07.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-03-29">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2024-02-06">Vorbereitende Endabnahme. Streichung des zweiten
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+<persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
+<placeName ref="#tillich_place_id__485">Hersfeld</placeName>
+<date when="1907-07-13">13.07.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-03-29" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-02-06" who="PS">Vorbereitende Endabnahme. Streichung des zweiten
             Briefteils weil dieser offensichtlich nicht dazugehört und auf weit später
             datiert.</change>
-         <change who="EL" when="2024-02-20">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="AlfredFritz">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__208" type="place">Hersfeld</rs>. <date
-                     when="1907-07-13">13. VII 07.</date></dateline>
-               <salute>Liebes <rs ref="#tillich_person_id__1928" type="person"
-                  >Paulchen</rs>!</salute>
-            </opener>
-            <p>Nur noch ein paar Abschiedsworte aus de<del rend="ow">m</del>r <del rend="s"
-                  >Tru</del> Ruhe in den Trubel, denn viel Ruhe wirst Du ja jetzt doch nicht finden.
+<change when="2024-02-20" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="AlfredFritz">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__208" type="place">Hersfeld</rs>. <date when="1907-07-13">13. VII 07.</date></dateline>
+<salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+</opener>
+<p>Nur noch ein paar Abschiedsworte aus de<del rend="ow">m</del>r <del rend="s">Tru</del> Ruhe in den Trubel, denn viel Ruhe wirst Du ja jetzt doch nicht finden.
                Daß ich mich sehr freute Dich hier zu sehen, weißt Du. Es wird ja jetzt wohl immer
                seltener vorkommen bis wir schließlich 2 verschiedenen Erdkreisen angehören. Doch es
                ist ja so schön, daß wenigstens hier Raum u. Zeit nicht die letzten Realitäten sind.
                Für Deine weitere Arbeit in der Verbindung wünsche ich Dir frischen Mut. Ich hoffe Du
                giebst Deine Grillen von der Unzulänglichkeit auf. Daß immer viel fehlt bis zum Ideal
                wissen wir ja. Wir wollen auch hier <del rend="s">k</del> nicht die
-               "Sündlosigkeitsbewegung" mitmachen. – An Deinem <rs type="person" ref="#tillich_person_id__1295">Lfx</rs>
+               "Sündlosigkeitsbewegung" mitmachen. – An Deinem <rs ref="#tillich_person_id__1295" type="person">Lfx</rs>
                wirst Du sicher noch manche Freude erleben. Leider habe ich ihn nicht recht gesehen.
                Aber ich freue mich für Dich. Um ihm etwas zu sein brauchst Du<pb n="2"/> ja nicht
                Dich besonders anzustrengen, Du brauchst Dich nur ganz zu geben, denn eben so will er
                Dich.</p>
-            <p>Hier ist's natürlich fein. Deine Fr <rs ref="#tillich_person_id__644" type="person"
-                  >Schwester</rs> hat sich gut erholt, wie Du <hi rend="aq">in natura</hi> sehen
-               kannst. Heute Mittag lesen wir "<rs type="work" ref="#tillich_work_id__183">Die
+<p>Hier ist's natürlich fein. Deine Fr <rs ref="#tillich_person_id__644" type="person">Schwester</rs> hat sich gut erholt, wie Du <hi rend="aq">in natura</hi> sehen
+               kannst. Heute Mittag lesen wir "<rs ref="#tillich_work_id__183" type="work">Die
                   Furcht vor dem Denken</rs>." "Eine Gemeinschaft – – –
                –"<note type="ea">Nicht ermittelt.</note>
-            </p>
-            <closer>
-               <salute>Also leb wohl auf baldiges Wiedersehen,</salute>
-               <signed> Dein tr. <rs ref="#tillich_person_id__641" type="person"
-                  >Alfred</rs></signed>
-            </closer>
-            <postscript>
-               <p>Bitte grüße <rs ref="#tillich_person_id__2198" type="person">Banzhaf</rs>
+</p>
+<closer>
+<salute>Also leb wohl auf baldiges Wiedersehen,</salute>
+<signed> Dein tr. <rs ref="#tillich_person_id__641" type="person">Alfred</rs></signed>
+</closer>
+<postscript>
+<p>Bitte grüße <rs ref="#tillich_person_id__2198" type="person">Banzhaf</rs>
                   besonders, ich habe ihn vernachlässigt u. er ist eingeschnappt. Ich hoffe ihn bald
                   im <unclear cert="low">Schweizer</unclear> zu sehen. Natürlich grüße vielmals
                      <unclear cert="low">Conhaus</unclear>
-                  <rs ref="#tillich_person_id__2162" type="person">Lorenz</rs>. u alle anderen
+<rs ref="#tillich_person_id__2162" type="person">Lorenz</rs>. u alle anderen
                   Burschen..: Es <unclear cert="low">war</unclear> sehr schön-</p>
-            </postscript>
-         </div>
-         <div type="HermannSchafft">
-            <opener><salute>Lieber <rs ref="#tillich_person_id__1928" type="person"
-                  >Paul</rs></salute></opener>
-            <p>Es zuckt mir in allen Fingern die scheinbar oben angebrachten Prolesen zu studieren
+</postscript>
+</div>
+<div type="HermannSchafft">
+<opener><salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs></salute></opener>
+<p>Es zuckt mir in allen Fingern die scheinbar oben angebrachten Prolesen zu studieren
                aber der Mensch sitzt daneben und paßt auf wie ein Schießhund.– Im übrigen wollte ich
-               nur noch einmal herzlich danken für alles, was ich in <rs type="place"
-                  ref="#tillich_place_id__189">Halle</rs> (aus meiner <unclear cert="medium"
-                  >Sicht</unclear>) genießen durfte. Es ist mir eine große Freude gewesen u. s. w.
+               nur noch einmal herzlich danken für alles, was ich in <rs ref="#tillich_place_id__189" type="place">Halle</rs> (aus meiner <unclear cert="medium">Sicht</unclear>) genießen durfte. Es ist mir eine große Freude gewesen u. s. w.
                hier fiel mir noch ein, daß ich da war u. abgereist und<pb n="3"/> daß ich garnicht
-               alles betont hatte, was ich wollte. z.B. habe ich Deinen <rs type="person" ref="#tillich_person_id__1295">Lbfxen</rs> doch nicht
+               alles betont hatte, was ich wollte. z.B. habe ich Deinen <rs ref="#tillich_person_id__1295" type="person">Lbfxen</rs> doch nicht
                gesprochen, was mir eigentlich sehr leid tut.. Grüß den bitte viele male von mir..
                Einliegende Typs besorge bitte an ihre Adressen. Sorge zugleich dann für möglichst
-               prompte Zusendung von einigen Abzügen unserer Aufnahmen; daneben von Dir und <rs
-                  ref="#tillich_person_id__2190" type="person">Spatz</rs>. Außerdem besorge
+               prompte Zusendung von einigen Abzügen unserer Aufnahmen; daneben von Dir und <rs ref="#tillich_person_id__2190" type="person">Spatz</rs>. Außerdem besorge
                ordentlich Grüße an <rs ref="#tillich_person_id__2162" type="person">Lorenz</rs>,
-                  <unclear cert="low">Clb</unclear>, dann die beiden Hessen, <rs
-                  ref="#tillich_person_id__2190" type="person">Spatz</rs> – sonderlich aber an <rs
-                  ref="#tillich_person_id__128" type="person">Hans</rs>, dem diese Epistel
-               meinerseits eigentlich gilt – aber ihr seid ja wohl vertauschbar (cf. <unclear
-                  cert="low">Consento</unclear>); – dem <rs ref="#tillich_person_id__128"
-                  type="person">Hans</rs> also danke ich tränenden Auges für seinen rührenden
+                  <unclear cert="low">Clb</unclear>, dann die beiden Hessen, <rs ref="#tillich_person_id__2190" type="person">Spatz</rs> – sonderlich aber an <rs ref="#tillich_person_id__128" type="person">Hans</rs>, dem diese Epistel
+               meinerseits eigentlich gilt – aber ihr seid ja wohl vertauschbar (cf. <unclear cert="low">Consento</unclear>); – dem <rs ref="#tillich_person_id__128" type="person">Hans</rs> also danke ich tränenden Auges für seinen rührenden
                   <unclear cert="medium">Schlag</unclear>. Hoffentlich hütet er nun wieder in
                Gemütsruh sein Bett und schläft ordentlich. Im übrigen lebt recht wohl!!</p>
-            <closer><salute>Dein treuer <rs ref="#tillich_person_id__1696" type="person"
-                  >H.</rs></salute></closer>
-            <postscript>
-               <p>Bitte schreib' mir wie Du Deine <rs ref="#tillich_person_id__644" type="person"
-                     >Schwester</rs> findest</p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+<closer><salute>Dein treuer <rs ref="#tillich_person_id__1696" type="person">H.</rs></salute></closer>
+<postscript>
+<p>Bitte schreib' mir wie Du Deine <rs ref="#tillich_person_id__644" type="person">Schwester</rs> findest</p>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

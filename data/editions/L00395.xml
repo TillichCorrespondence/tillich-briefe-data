@@ -1,101 +1,102 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00395">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Toni Winkler
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00395" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Toni Winkler
                <lb/>vom 8. Oktober 1914
             </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Leopold Potyka</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambrigde, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                  <idno>bMS 649/205(15)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-                  </physDesc>              
-            </msDesc>                      
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__328">ohne Ort [Westfront]</placeName>
-              <date when="1914-10-08">8. Oktober 1914</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__2085">Toni Winkler</persName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="LP" when="2022-05-11">Intitale Auszeichnung des Transkripts</change>
-        <change who="GM" when="2023-09-20">Endabnahme</change>  
-     </revisionDesc>
-  </teiHeader>
-  <text type="postcard">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <dateline><date when="1914-10-08">Donnerstag<note type="ea">Exaktes Datum ergibt sich aus dem <rs type="letter" ref="L00396">Brief</rs>  an Johannes Tillich vom 10. Oktober 1914.</note></date></dateline>
-           <salute>Liebes <rs ref="#tillich_person_id__2085" type="person">Tonichen</rs>!</salute>
-        </opener>
-        <p>Gestern Abend habe ich die Grenze 
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Leopold Potyka</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambrigde, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS 649/205(15)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__328">ohne Ort [Westfront]</placeName>
+<date when="1914-10-08">8. Oktober 1914</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__2085">Toni Winkler</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-05-11" who="LP">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-09-20" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><date when="1914-10-08">Donnerstag<note type="ea">Exaktes Datum ergibt sich aus dem <rs ref="L00396" type="letter">Brief</rs>  an Johannes Tillich vom 10. Oktober 1914.</note></date></dateline>
+<salute>Liebes <rs ref="#tillich_person_id__2085" type="person">Tonichen</rs>!</salute>
+</opener>
+<p>Gestern Abend habe ich die Grenze 
            überschritten und heute Nacht im 
            Pferdewagen auf Stroh <rs ref="#tillich_place_id__33" type="place">Belgien</rs> 
            bis vor <rs ref="#tillich_place_id__309" type="place">Namür</rs> durchfahren. 
            Jetzt sitze ich mit 3 Offizieren 
            im Koupé I<hi rend="sup">te</hi> Klasse; wir haben auf jeder Station durchschnittlich 20‒30 Min. Aufenthalt. Der Anblick der zerschossenen Häuser ist gräulich, der gefangenen Franzosen tragisch, unserer Verwundeten erhebend. In <rs ref="#tillich_place_id__4" type="place">Aachen</rs> war ich 3 Stunden mit <rs ref="#tillich_person_id__1696" type="person">Schafft</rs> zusammen. Er hat <rs ref="#tillich_person_id__1924" type="person">Papa</rs> geschrieben.           
         </p>
-        <closer>
-           <salute>Herzl. Gruß </salute>
-           <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-        </closer>
-     </div>
-    </body>
-  </text>
+<closer>
+<salute>Herzl. Gruß </salute>
+<signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

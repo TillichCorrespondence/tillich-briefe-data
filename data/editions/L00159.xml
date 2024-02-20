@@ -1,108 +1,109 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00159">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Lorenz Bertheau an Paul Tillich <lb/>vom 11. April 1907 </title>
-            <author ref="#tillich_person_id__203">Lorenz Bertheau</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00159" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Lorenz Bertheau an Paul Tillich <lb/>vom 11. April 1907 </title>
+<author ref="#tillich_person_id__203">Lorenz Bertheau</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008B</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008B</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__203">Lorenz Bertheau</persName>
-               <placeName ref="#tillich_place_id__189">Halle</placeName>
-               <date when="1907-04-11">11.04.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-11-04">Intitale Auszeichnung des Transkripts</change>
-         <change who="NH" when="2024-02-04">Vorbereitung/Korrektur für die Endabnahme</change>
-         <change who="EL" when="2024-02-13">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="postcard">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__189" type="place">Halle a/S.</rs>
-                  <date when="1907-04-11">11.4.07.</date></dateline>
-               <address>
-                  <street>Göbenstr. 21.</street>
-               </address>
-               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
-            </opener>
-            <p>vielen Dank für Deine Karte<note type="ea">Nicht überliefert.</note>, deren Prolese ich nicht in ihrer ganzen Tiefe capiere.
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__203">Lorenz Bertheau</persName>
+<placeName ref="#tillich_place_id__189">Halle</placeName>
+<date when="1907-04-11">11.04.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-11-04" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-02-04" who="NH">Vorbereitung/Korrektur für die Endabnahme</change>
+<change when="2024-02-13" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__189" type="place">Halle a/S.</rs>
+<date when="1907-04-11">11.4.07.</date></dateline>
+<address>
+<street>Göbenstr. 21.</street>
+</address>
+<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+</opener>
+<p>vielen Dank für Deine Karte<note type="ea">Nicht überliefert.</note>, deren Prolese ich nicht in ihrer ganzen Tiefe capiere.
                Aber wir werden ja sehen, wie es nächstes Sem. wird. Ich hoffe, daß es Dir wieder
                ganz gut geht! Du hast uns einen argen Schrecken eingejagt. Nun habe ich die
                Paukstunden auf Mo-Mi 9-10 und die Turnstunden auf Mo 6-7 Mi 6-8 u. Do 6-7 gelegt. Ob
                es fest ist, kann erst Di 16. 4. entschieden werden. <rs ref="#tillich_person_id__2235" type="person">Hessel</rs> will von weniger zahlen
                nichts wissen: wir seien die einzigen, die nicht 6 Tage paukten. Dabei wird auch
-               <rs type="person" ref="#tillich_person_id__2858">Robert</rs> nichts machen können, doch kann ich es ja versuchen. Von 9-10 liegt <rs type="person" ref="#tillich_person_id__1036">Kautzsch's</rs>
+               <rs ref="#tillich_person_id__2858" type="person">Robert</rs> nichts machen können, doch kann ich es ja versuchen. Von 9-10 liegt <rs ref="#tillich_person_id__1036" type="person">Kautzsch's</rs>
                   Genesis, auch können wir es schwer zum Winter ändern. <rs ref="#tillich_person_id__2235" type="person">Hessel</rs> sagte, daß sich alle um
                die Zeit von 2-3 rissen. - Doch nun leb wohl.</p>
-            <closer>
-               <salute>Auf Wiedersehen.</salute>
-               <signed>Herzl. Dein <rs ref="#tillich_person_id__203" type="person">Lorenz</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<salute>Auf Wiedersehen.</salute>
+<signed>Herzl. Dein <rs ref="#tillich_person_id__203" type="person">Lorenz</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

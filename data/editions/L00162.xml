@@ -1,162 +1,154 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00162">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Daniel Schubert an Paul Tillich <lb/>vom 21. April 1907 </title>
-            <author ref="#tillich_person_id__1743">Daniel Schubert</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00162" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Daniel Schubert an Paul Tillich <lb/>vom 21. April 1907 </title>
+<author ref="#tillich_person_id__1743">Daniel Schubert</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/183</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/183</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1743">Daniel Schubert</persName>
-               <placeName ref="#tillich_place_id__420">Stuttgart</placeName>
-               <date when="1907-04-21">21.04.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-09-22 ">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2024-02-06">Vorbereitende Endabnahme</change>
-         <change who="EL" when="2024-02-14">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__420" type="place">Stuttgart</rs>, den <date
-                     when="1907-04-21">21. April. 1907.</date></dateline>
-               <salute>Liebes <rs ref="#tillich_person_id__1928" type="person"
-                  >Paulchen</rs>!</salute>
-            </opener>
-            <p><unclear>Chs</unclear> u. ich haben mehr als einmal an Euch und bes. an Dich gedacht
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1743">Daniel Schubert</persName>
+<placeName ref="#tillich_place_id__420">Stuttgart</placeName>
+<date when="1907-04-21">21.04.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-09-22 " who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-02-06" who="PS">Vorbereitende Endabnahme</change>
+<change when="2024-02-14" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__420" type="place">Stuttgart</rs>, den <date when="1907-04-21">21. April. 1907.</date></dateline>
+<salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+</opener>
+<p><unclear>Chs</unclear> u. ich haben mehr als einmal an Euch und bes. an Dich gedacht
                am Freitag. Wie jetzt alte u. neue l.l. B.B. in der Göben etc Straße herumstehen sich
                vorstellen, Buden suchen; wie die alten die neuen über die Person der neuen
                Chargierten bes. des x informieren, – soweit das noch nötig ist – etc pp.</p>
-            <p>Und bei alledem wären wir nun gern dabei gewesen. Die nackte Wirklichkeit ist aber
-               anders: Gestern hat mich <unclear>Chs</unclear> verlassen. <rs
-                  ref="#tillich_person_id__641" type="person">Fritz</rs>, der mich fast täglich
-               besuchte, ist mit ihm nach <rs type="place" ref="#tillich_place_id__448"
-                  >Tübingen</rs> gereist. Und so liege ich allein im Bett; die andern sind eben zur
+<p>Und bei alledem wären wir nun gern dabei gewesen. Die nackte Wirklichkeit ist aber
+               anders: Gestern hat mich <unclear>Chs</unclear> verlassen. <rs ref="#tillich_person_id__641" type="person">Fritz</rs>, der mich fast täglich
+               besuchte, ist mit ihm nach <rs ref="#tillich_place_id__448" type="place">Tübingen</rs> gereist. Und so liege ich allein im Bett; die andern sind eben zur
                Kirche gegangen.</p>
-            <p>Nun kommen aber heute Morgen 2 Karten von der<pb n="2"/> Hallenser Antrittskneipe. Da
+<p>Nun kommen aber heute Morgen 2 Karten von der<pb n="2"/> Hallenser Antrittskneipe. Da
                habe ich mich beinahe unmäßig gefreut, wie ich alle die lieben Namen wieder las u.
                auf der andern Seite Haus u. Kneipsaal! <hi rend="aq"><foreign xml:lang="lat">O tempora o mores</foreign></hi>.</p>
-            <p>So lange ich noch auf war in diesen Ferien habe ich Römerbrief etwas gelesen. Und als
-               ich zu <rs type="bible" ref="Röm-3,8">Kap. 3 V 8</rs> kam, da dachte ich, das müßte ich <del rend="s">Dich</del> Dir
+<p>So lange ich noch auf war in diesen Ferien habe ich Römerbrief etwas gelesen. Und als
+               ich zu <rs ref="Röm-3,8" type="bible">Kap. 3 V 8</rs> kam, da dachte ich, das müßte ich <del rend="s">Dich</del> Dir
                schreiben, daß ich da in meines Herzens Bösartigkeit an Dich gedacht habe; ich habe
-               auch gleich folgende Moralpredigt daraus gemacht: <foreign xml:lang="grc"
-                  >βλασφημούμεθα</foreign> durch den Bund <foreign xml:lang="grc">ὅτι Ποιήσωμεν τὰ
+               auch gleich folgende Moralpredigt daraus gemacht: <foreign xml:lang="grc">βλασφημούμεθα</foreign> durch den Bund <foreign xml:lang="grc">ὅτι Ποιήσωμεν τὰ
                   κακὰ ἵνα ἔλθῃ τὰ ἀγαθά</foreign>; was
-               doch der Hallenser Wingolf nicht will sond. nur das <rs
-                  ref="#tillich_person_id__1928" type="person">Paulchen</rs>, von welchem der
+               doch der Hallenser Wingolf nicht will sond. nur das <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>, von welchem der
                Apostel schreibt <foreign xml:lang="grc">ὧν τὸ κρίμα ἔνδικόν
                ἐστιν</foreign>. Da sieht man's:
                man braucht den Satz dieser jesuitischen Moral gar nicht schlau widerlegen; man
                   braucht<pb n="3"/> bloß sehen, daß zur Zeit über den Hallenser W. ein <foreign xml:lang="grc">κρίμα</foreign>
                ergeht, u. dann zu vernehmen, daß dies <foreign xml:lang="grc">κρίμα ἔνδικόν</foreign> ist, weil man doppelte Moral
                pflegte. Ich hoffe daß Du die Bundespolitik also deixelst, daß nicht die Philister
-               auf der <rs type="place" ref="#tillich_place_id__467">Wartburg</rs> unisono rufen: <foreign xml:lang="grc">ὧν τὸ κρίμα ἔνδικόν ἐστιν</foreign>.-</p>
-            <p>Das wollte ich Dir schreiben; <del rend="s">damit</del> darum habe ich aus der großen
+               auf der <rs ref="#tillich_place_id__467" type="place">Wartburg</rs> unisono rufen: <foreign xml:lang="grc">ὧν τὸ κρίμα ἔνδικόν ἐστιν</foreign>.-</p>
+<p>Das wollte ich Dir schreiben; <del rend="s">damit</del> darum habe ich aus der großen
                Namenliste auf der Postkarte gerade den Deinen ausgewählt. – Es ist nicht
                ausgeschlossen, daß ich Euch um vollständige Inaktivierung bitte. Ich werde genötigt
                sein, jeden Abend um 18 Uhr in die Falle zu kriechen u. auch sonst sehr vorsichtig zu
                leben. Es ist doch ein wahres Glück, daß ich die Krankheit nicht schon vor einem
                Semester kriegte. Man hat wirklich zu danken.<pb n="4"/></p>
-            <p>Mein <unclear>Chs</unclear> hat mir viel vorgelesen; wir haben ihn sehr gerne hier
+<p>Mein <unclear>Chs</unclear> hat mir viel vorgelesen; wir haben ihn sehr gerne hier
                gehabt. Die geplanten vielen Ausflüge konnte ich natürlich nicht mit ihm machen.
-               Dafür ist er oft in's Schwimmbad gegangen, hat schwimmen gelernt u. <rs
-                  ref="#tillich_person_id__641" type="person">Fritz</rs> hat ihm das Wichtigste von
-                  <rs type="place" ref="#tillich_place_id__420">Stuttgart</rs> gezeigt. Wann ich
-               nach <rs type="place" ref="#tillich_place_id__448">Tübingen</rs> darf weiß ich noch
+               Dafür ist er oft in's Schwimmbad gegangen, hat schwimmen gelernt u. <rs ref="#tillich_person_id__641" type="person">Fritz</rs> hat ihm das Wichtigste von
+                  <rs ref="#tillich_place_id__420" type="place">Stuttgart</rs> gezeigt. Wann ich
+               nach <rs ref="#tillich_place_id__448" type="place">Tübingen</rs> darf weiß ich noch
                nicht. Ich darf jetzt täglich ein bisschen aufstehen, fühle mich dabei aber ziemlich
                schwach.</p>
-            <p>Mein Bild für die Kneipe schicke ich mit. Gib es bitte dem Bilderdax, damit ich nicht
+<p>Mein Bild für die Kneipe schicke ich mit. Gib es bitte dem Bilderdax, damit ich nicht
                verdonnert werde.</p>
-            <p>Nun grüße mir die ganze Gesellschaft. <add><hi rend="sup">Die Examenskandidaten
-                     viel.</hi></add>Ich kann ja nicht alle Namen nennen. Deine Conchargierten, <rs
-                  ref="#tillich_person_id__2168" type="person">Schuster</rs>
-               <rs ref="#tillich_person_id__2195" type="person">Häfele</rs>
-               <rs ref="#tillich_person_id__203" type="person">Lorenz</rs>
-               <rs ref="#tillich_person_id__2155" type="person">Voget</rs>
-               <unclear><rs type="person">Cramer</rs></unclear>
-               <rs type="person">Jonas</rs>
-               <rs type="person">Claus</rs>
-               <rs ref="#tillich_person_id__1738" type="person">Schreiber</rs>
-               <rs ref="#tillich_person_id__2190" type="person">Spatz</rs> einfach die alten
+<p>Nun grüße mir die ganze Gesellschaft. <add><hi rend="sup">Die Examenskandidaten
+                     viel.</hi></add>Ich kann ja nicht alle Namen nennen. Deine Conchargierten, <rs ref="#tillich_person_id__2168" type="person">Schuster</rs>
+<rs ref="#tillich_person_id__2195" type="person">Häfele</rs>
+<rs ref="#tillich_person_id__203" type="person">Lorenz</rs>
+<rs ref="#tillich_person_id__2155" type="person">Voget</rs>
+<unclear><rs type="person">Cramer</rs></unclear>
+<rs type="person">Jonas</rs>
+<rs type="person">Claus</rs>
+<rs ref="#tillich_person_id__1738" type="person">Schreiber</rs>
+<rs ref="#tillich_person_id__2190" type="person">Spatz</rs> einfach die alten
                Burschen alle.</p>
-            <closer>
-               <salute>Herzl. grüßt Dich mit einer stillen Wehmuts-Neides-Mitleids etc
+<closer>
+<salute>Herzl. grüßt Dich mit einer stillen Wehmuts-Neides-Mitleids etc
                   Thräne</salute>
-               <signed>Dein <rs ref="#tillich_person_id__1743" type="person">Daniel</rs>.</signed>
-               <figure>
-                  <figDesc>Zirkel des Hallenser Wingolf</figDesc>
-               </figure>
-            </closer>
-            <postscript>
-               <p>Kommt ein <rs ref="#tillich_person_id__1295" type="person">Meinhof</rs> nach <rs
-                     type="place" ref="#tillich_place_id__448">Tübingen</rs>??</p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+<signed>Dein <rs ref="#tillich_person_id__1743" type="person">Daniel</rs>.</signed>
+<figure>
+<figDesc>Zirkel des Hallenser Wingolf</figDesc>
+</figure>
+</closer>
+<postscript>
+<p>Kommt ein <rs ref="#tillich_person_id__1295" type="person">Meinhof</rs> nach <rs ref="#tillich_place_id__448" type="place">Tübingen</rs>??</p>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

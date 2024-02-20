@@ -1,89 +1,90 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00103">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Hermann Schafft an Paul Tillich <lb/>vom 5. April 1906 </title>
-            <author ref="#tillich_person_id__1696">Hermann Schafft</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00103" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Hermann Schafft an Paul Tillich <lb/>vom 5. April 1906 </title>
+<author ref="#tillich_person_id__1696">Hermann Schafft</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008 G</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008 G</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
-               <date when="1906-04-05">05.04.1906</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-02-22">Intitale Auszeichnung des Transkripts</change>
-         <change who="EL" when="2024-02-07">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>H. d. <date when="1906-04-05">V. IV. 06.</date></dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
-            </opener>
-            <p>Natürlich keinen faulen Frieden! Aber die Schwierigkeit ist eben die, daß die
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
+<date when="1906-04-05">05.04.1906</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-02-22" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-02-07" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>H. d. <date when="1906-04-05">V. IV. 06.</date></dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+</opener>
+<p>Natürlich keinen faulen Frieden! Aber die Schwierigkeit ist eben die, daß die
                Differenz nach dem These II angenommen ist, eigentlich in Nominalismus u.
                geschichtslosem Subjektivismus der M<expan>ar</expan>b<expan>ur</expan>ger liegt u. die Trennung von einer Menge im
                Bunde partout nicht begriffen werden wird. Ratifiziert ist <hi rend="uu">alles</hi>!!!, außer dem einen Teilantrag: der Aktivitätszwang bleibt<!--<note type="ea">Aktivitätszwang</note>-->.– Was läßt
@@ -94,13 +95,13 @@
                E. entweder ohne Zweck oder unmöglich. Daher ist der Weg: Aufnahme der
                Wartburgresolution 05 in die Statuten ebenso der These I u. II nebst Antrag <rs ref="#tillich_person_id__310" type="person">Büchsel</rs> nun Ziel, für das sich zunächst die Möglichkeit
                des Gelingens bietet. Natürlich unter der deutlichen Konstatierung, daß Göttingen u.
-               Marburg sich von <rs type="person" ref="#tillich_person_id__2538">Bartels</rs> <!--<note type="ea">Bezieht sich auf einen Artikel von Bartel in den Wingolfs-Blättern</note>-->u. der Tradition lossagen
+               Marburg sich von <rs ref="#tillich_person_id__2538" type="person">Bartels</rs> <!--<note type="ea">Bezieht sich auf einen Artikel von Bartel in den Wingolfs-Blättern</note>-->u. der Tradition lossagen
                – respektive einsehen, daß sie einseitig gewesen sind. – das hoffe ich, wird eine
                größere Leichtigkeit sein als ein Herauswerfen u. wir bleiben mächtiger als durch
                Austritt. Dann laß' sie meinetwegen auch wieder kneifen. Auf den nächsten
                Wartburgfesten sind wir dabei u. können den Finger <foreign xml:lang="lat"><hi rend="aq">occatione data</hi></foreign>
                fester darauflegen.</p>
-            <p>Also wohlverstanden, <hi rend="u">nur</hi> in dem Sinn will ich Frieden halten. Das
+<p>Also wohlverstanden, <hi rend="u">nur</hi> in dem Sinn will ich Frieden halten. Das
                habe ich auch m. E. an <rs ref="#tillich_person_id__2091" type="person">Witte</rs> geschrieben.<pb n="3"/> – hier lege ich dir noch einen eben während des IIten Frühstücks (2 Eier, 5/10
                Milch) produzierten Brief bei. Mich juckt es näm- lich, daß das <foreign xml:lang="lat"><hi rend="aq">vulgus</hi></foreign> denkt, wir wären rechtlich verstummt. Wenn Dein <rs ref="#tillich_person_id__1924" type="person">Vater</rs> ihn
                nicht zu unverschämt findet u. Du seine sachliche Richtigkeit (habe nämlich den
@@ -113,19 +114,19 @@
                die Menschen blind machen ... Im übrigen sitzest Du, was Scheußlichkeit der Klaue
                betrifft in einem Glashause.... So nun definitv "nur aus der
                Luft"!</p>
-            <p>Ich vergrabe mich auch in <rs ref="#tillich_person_id__2027" type="person">Weiß</rs>, <rs ref="#tillich_person_id__890" type="person">Hermann</rs> obwohl ich eigentlich konstant in Reitstiefeln
+<p>Ich vergrabe mich auch in <rs ref="#tillich_person_id__2027" type="person">Weiß</rs>, <rs ref="#tillich_person_id__890" type="person">Hermann</rs> obwohl ich eigentlich konstant in Reitstiefeln
                umherstolziere u. sämtliche Gebirge in Unordnung bringe indem ich vom einem z. andern
                so viel Dreck an meinen Stiefeln mitbringe u. die Höhenlage verschiebe, jedenfalls
                wird eine neue Verkoppelung <add place="above">Weißt Du was das is?</add> nötig
                sein. Nun lebwohl Du Kücken! Laß Dir Ostern nicht d. den Bund stören;- oder mir doch
                noch eine Karte!! </p>
-            <closer>
-               <signed>Tr. Gruß d. <rs ref="#tillich_person_id__1696" type="person">H</rs>.</signed>
-            </closer>
-            <postscript>
-               <p>Natürlich der ganzen Familie.</p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+<closer>
+<signed>Tr. Gruß d. <rs ref="#tillich_person_id__1696" type="person">H</rs>.</signed>
+</closer>
+<postscript>
+<p>Natürlich der ganzen Familie.</p>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

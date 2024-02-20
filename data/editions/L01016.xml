@@ -1,119 +1,118 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01016">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich an Fritz Medicus
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01016" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Fritz Medicus
                <lb/>vom 1. Mai 1929 [PS]
             </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Niklas von Hülsen</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="typescript">
-               <msIdentifier>            
-                  <country>Schweiz</country>
-                  <settlement>Zürich</settlement>
-                  <institution>Eidgenössische Technische Hochschule</institution>
-                  <repository> Hochschularchiv der ETH Zürich</repository>
-                  <collection>Nachlass Fritz Medicus</collection>
-                  <idno>Hs. 1377:701</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, maschinenschriftlich mit eigenhändigen Korrekturen</p>
-                  </physDesc>
-               <additional>
-                  <listBibl>
-                     <biblStruct type="journal" n="firstPrint">
-                        <monogr>
-                           <author>Friedrich Wilhelm Graf/Alf Christophersen</author>
-                           <title>Die Korrespondenz zwischen Fritz Medicus und Paul Tillich</title>
-                           <imprint>
-                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
-                              <date when="2004">2004</date>
-                              <biblScope>126-147, hier: 132</biblScope>
-                           </imprint>
-                        </monogr>
-                        <series>
-                           <title>Zeitschrift für neuere Theologiegeschichte</title>
-                           <biblScope>Bd. 11, H. 1</biblScope>
-                        </series>
-                     </biblStruct>
-                  </listBibl>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
-              <date when="1929-05-01">01.05.1929</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1291">Fritz Medicus</persName>
-              <placeName ref="#tillich_place_id__381">Rüschlikon bei Zürich</placeName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="NH" when="2023-06-07">Initiale Auszeichnung des Transkripts</change>
-        <change who="FS" when="2023-11-14">Endabnahme</change>
-        
-       
-     </revisionDesc>
-  </teiHeader>
-  <text type="postcard">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <dateline><rs ref="#tillich_place_id__143" type="place">Frankfurt/Main</rs>, <date when="1929-05-01">1.Mai 29</date></dateline>
-           <salute>Lieber Freund!</salute>
-        </opener>
-        <p>Eben erhalte ich die Nachricht aus <rs ref="#tillich_place_id__126" type="place">Dresden</rs>, daß <rs ref="#tillich_person_id__158" type="person">Bäumler</rs> berufen ist. Ich weiß nicht, ob es mir um Ihretwillen leid tun soll. Wäre ich noch in <rs ref="#tillich_place_id__126" type="place">Dresden</rs>, so würde ich es um meinetwillen <add resp="vf">aufs Tiefste</add> bedauern. Ich habe getan, was ich konnte und nicht nur ich. Aber ich glaube, die finanziellen Gründe haben in diesem Fall alle andern erschlagen. Auf Ihren <rs ref="#tillich_work_id__14" type="work">Artikel</rs> bin ich gespannt und schreibe Ihnen noch einmal ausführlich, wenn ich ihn gelesen habe. Wie gern bäte ich Sie jetzt in mancherlei Philosophica um Ihren Rat<add resp="vf">!!</add>
-        </p>
-        <closer>
-           <salute>Viele herzliche Grüße
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Niklas von Hülsen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="typescript">
+<msIdentifier>
+<country>Schweiz</country>
+<settlement>Zürich</settlement>
+<institution>Eidgenössische Technische Hochschule</institution>
+<repository> Hochschularchiv der ETH Zürich</repository>
+<collection>Nachlass Fritz Medicus</collection>
+<idno>Hs. 1377:701</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, maschinenschriftlich mit eigenhändigen Korrekturen</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct n="firstPrint" type="journal">
+<monogr>
+<author>Friedrich Wilhelm Graf/Alf Christophersen</author>
+<title>Die Korrespondenz zwischen Fritz Medicus und Paul Tillich</title>
+<imprint>
+<pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+<date when="2004">2004</date>
+<biblScope>126-147, hier: 132</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Zeitschrift für neuere Theologiegeschichte</title>
+<biblScope>Bd. 11, H. 1</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+<date when="1929-05-01">01.05.1929</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1291">Fritz Medicus</persName>
+<placeName ref="#tillich_place_id__381">Rüschlikon bei Zürich</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-06-07" who="NH">Initiale Auszeichnung des Transkripts</change>
+<change when="2023-11-14" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__143" type="place">Frankfurt/Main</rs>, <date when="1929-05-01">1.Mai 29</date></dateline>
+<salute>Lieber Freund!</salute>
+</opener>
+<p>Eben erhalte ich die Nachricht aus <rs ref="#tillich_place_id__126" type="place">Dresden</rs>, daß <rs ref="#tillich_person_id__158" type="person">Bäumler</rs> berufen ist. Ich weiß nicht, ob es mir um Ihretwillen leid tun soll. Wäre ich noch in <rs ref="#tillich_place_id__126" type="place">Dresden</rs>, so würde ich es um meinetwillen <add resp="vf">aufs Tiefste</add> bedauern. Ich habe getan, was ich konnte und nicht nur ich. Aber ich glaube, die finanziellen Gründe haben in diesem Fall alle andern erschlagen. Auf Ihren <rs ref="#tillich_work_id__14" type="work">Artikel</rs> bin ich gespannt und schreibe Ihnen noch einmal ausführlich, wenn ich ihn gelesen habe. Wie gern bäte ich Sie jetzt in mancherlei Philosophica um Ihren Rat<add resp="vf">!!</add>
+</p>
+<closer>
+<salute>Viele herzliche Grüße
            <lb/>Ihr</salute>
-           <signed><rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs>.</signed>
-        </closer>
-     </div>
-    </body>
-  </text>
+<signed><rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

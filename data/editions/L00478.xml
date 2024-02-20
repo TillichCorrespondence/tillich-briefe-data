@@ -1,132 +1,87 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00478">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Johannes Tillich <lb/>vom 1. Mai 1916 </title>
-                <author ref="#tillich_person_id__1928">Paul Tillich </author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name>Friedrich Schumann</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00478" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Johannes Tillich <lb/>vom 1. Mai 1916 </title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Friedrich Schumann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement ref="#tillich_place_id__82">Cambdridge, MA</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                        <idno>bMS 649/193(14)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambdridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS 649/193(14)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__328">ohne Ort</placeName>
-                    <date when="1916-05-01">01.05.1916</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change who="FS" when="2022-05-19">Initiale Auszeichnung des Transkripts</change>
-            <change who="GM" when="2023-11-29">Endabnahme</change>
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener><dateline>D. <date when="1916-05-01">1. Mai 1916</date>.</dateline>
-                    <salute>Lieber <rs ref="#tillich_person_id__1924" type="person"
-                        >Papa</rs>!</salute></opener>
-<<<<<<< Updated upstream
-                <p>Herzlichen Dank für die Zusendung Deines Operntextes und den <rs type="letter"
-                        ref="unknown">Ostergruß</rs>! Ich habe Dein Stück mehrfach und mit großer
-=======
-                <p>Herzlichen Dank für die Zusendung Deines Operntextes und den <rs type="letter">Ostergruß</rs>!<note type="ea">Brief liegt nicht vor.</note> Ich habe Dein Stück mehrfach und mit großer
->>>>>>> Stashed changes
-                    Freude und Spannung gelesen; die Verse sind vorzüglich, an <rs
-                        ref="#tillich_person_id__2146" type="person">Wagner</rs> anklingend,
-                    prägnant und klingend, allerdings unberührt von der modernen lyrischen
-                    Entwicklung der letzten Zeit; falls Du wieder ähnliches schreibst, müßtest Du
-                    mal eine Auswahl moderner Lyrik (bei Reklam zu haben) durchstudieren. Am besten
-                    haben mir die lyrischen Szenen gefallen, das Nachtlied, die Bleicherinnen, das
-                    Berglied, der Morgen u. s. w. Zweifellos liegt darin der Wert der Dichtung. Die
-                    Handlung ist spannend. Ich habe das beim jedesmaligen Durchlesen empfunden, und
-                    damit hast Du ja vielen Modernen Erhebliches voraus. Aber ihre katastrophalen
-                    Ereignisse sind mir zu sehr äußere Vorgänge, die als solche den Stempel einer
-                    gewissen Zufälligkeit tragen. Sowohl <unclear cert="high">Maras</unclear> wie
-                        <unclear cert="high">Lichtkrauts</unclear><note>Bei Mara und Lichtkraut
-                            handelt es sich offensichtlich um fiktive Figuren aus <rs ref="#tillich_person_id__1924" type="person">Johannes Tillichs</rs>
-                        Libretto.</note> Sturz hätten auch nicht vorkommen können, resp. einen
-                    andern Ausgang nehmen können. Vielleicht ist das zu streng nach der älteren
-                    Dramaturgie gedacht, aber sie entspricht meiner persönlichen Empfindung. Im
-                    Lyrischen, Charakterisierenden ist jede Zufälligkeit nicht nur erlaubt, sondern
-                    sogar erwünscht, im Dramatischen <pb n="2"/> scheint mir die Notwendigkeit
-                    herrschen zu müssen; ich meine beides innerhalb eines Dramas. – Und dann noch
-                    etwas, was ja wohl bei uns Reflexionsmenschen unvermeidlich ist, das Verhältnis
-                    von Idee und Handlung. Der Ton wird bei uns immer auf der Idee liegen; wir haben
-                    im letzten Grunde nicht die Kraft der Unmittelbarkeit, bei uns wird die Handlung
-                    um der Idee willen da sein; das tut aber dem Künstlerischen Abbruch. Am ehesten
-                    gelingt uns noch das Unmittelbare im Lyrischen; so kommt es, dass Deine Musik
-                    eminent lyrisch ist, und wie Du ja weißt, mir gerade darin so zusagend. Die
-                    „Woge“ ist im Grunde auch nur eine Zusammenstellung von lyrischen Szenen, die
-                    Idee ist so stark im Hintergrunde gehalten, bricht nur in dem letzten
-                    Erlösungsschrei durch, daß das Ganze einen absolut künstlerischen Eindruck
-                    hinterläßt. Hier scheint mir Deine Kraft zu liegen: Lyrik mit einer den kaum
-                    erkennbaren Hintergrund bildenden Idee. – Nach dem was Du mir sagtest ist ja das
-                    Stück auch ähnlich beurteilt worden; ich freue mich, auf diese Weise geistig an
-                    dem schönen Abend teilgenommen zu haben. Im <sic>übrigen</sic> glaube ich auch,
-                    daß Du vieles daraus musikalisch verwerten kannst. – Hier ist herrliches Wetter
-                    und viel Arbeit und wenig Krieg. Gestern war ich mit dem ganzen Brigadestab zum
-                    Abendmahl; es war sehr feierlich.</p>
-                <closer><salute>In Liebe und Treue</salute> Dein <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>.</closer>
-            </div>
-        </body>
-    </text>
-</TEI>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__328">ohne Ort</placeName>
+<date when="1916-05-01">01.05.1916</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-05-19" who="FS">Initiale Auszeichnung des Transkripts</change>
+<change when="2023-11-29" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline>D. <date when="1916-05-01">1. Mai 1916</date>.</dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute></opener>
+</div></body></text></TEI>

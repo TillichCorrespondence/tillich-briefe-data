@@ -1,98 +1,99 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00176">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Alfred Fritz an Paul Tillich <lb/>vom 14. Juli 1907 </title>
-            <author ref="#tillich_person_id__641">Alfred Fritz</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00176" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Alfred Fritz an Paul Tillich <lb/>vom 14. Juli 1907 </title>
+<author ref="#tillich_person_id__641">Alfred Fritz</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008C</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008C</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
-               <placeName ref="#tillich_place_id__448">Tübingen</placeName>
-               <date when="1907-07-14">14.07.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-12-04">Intitale Auszeichnung des Transkripts</change>
-         <change who="NH" when="2024-02-13">Vorbereitung/Korrektur für die Endabnahme</change>
-         <change who="EL" when="2024-02-20">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__448" type="place">Tübingen</rs>. <date when="1907-07-14">14.07.VII.</date></dateline>
-               <salute>Mein liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
-            </opener>
-            <p>Also ich komme. Es verreißt mich halt doch, das <unclear>Nähere</unclear>: wann
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+<placeName ref="#tillich_place_id__448">Tübingen</placeName>
+<date when="1907-07-14">14.07.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-12-04" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-02-13" who="NH">Vorbereitung/Korrektur für die Endabnahme</change>
+<change when="2024-02-20" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__448" type="place">Tübingen</rs>. <date when="1907-07-14">14.07.VII.</date></dateline>
+<salute>Mein liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+</opener>
+<p>Also ich komme. Es verreißt mich halt doch, das <unclear>Nähere</unclear>: wann
                   <unclear>¿¿¿ ¿¿¿</unclear> ist noch nicht entschieden. Es war zwar ein harter
                Entschluß, aber die Sehnsucht Euch liebe Leutchen mal wieder zu sehen, ist zu groß.
                Die einzige Bedingung ist, daß Du nicht wieder über "stirb u. werde" paukst, sondern
                Dir gefälligst einen neuen Gedanken u. ein neues Wort auf Typs zu schreiben
                aussuchst. – Die Charge nach <rs ref="#tillich_place_id__418" type="place">Straßburg</rs> nehme ich mit Wonne an,
                u. freue mich riesig mit Euch mal wieder meinen lieben Wichs zu tragen.</p>
-            <p>Eben kam nun Dein Brief<note type="ea">Nicht überliefert.</note> u. ich möchte gleich darauf
+<p>Eben kam nun Dein Brief<note type="ea">Nicht überliefert.</note> u. ich möchte gleich darauf
                antworten. Was Du von "Leere" schreibst, kann ich wunderschön mitfühlen. Du erinnerst
                Dich mit welcher Müdigkeit ich zuweilen<pb n="2"/> auf Deine Bude kam. Es ist ja
                nicht in erster Linie körperliche Müdigkeit, sondern der <sic>Bankrot</sic> den jeder
@@ -105,7 +106,7 @@
                Mittel haben wir ja, das nie versagt, das ist die Nase ins NT. zu stecken u. die paar
                stillen Minuten, in denen man den Tag überdenkt u. sich sammelt. Gerade aus dem Magen
                eines Hallenser-Chargiertenlebens heraus habe ich das besonders schätzen gelernt.</p>
-            <p>Nebenher gilt es aber auch ruhig die Beschränktheit seiner Kräfte einzusehen u. nicht
+<p>Nebenher gilt es aber auch ruhig die Beschränktheit seiner Kräfte einzusehen u. nicht
                "über die Kraft" arbeiten wollen. Man kann sich nicht oft genug sagen, daß man
                absolut nicht unent<pb n="3"/>behrlich ist.– Ich hoffe Du kommst nächstes Sem. auch
                so schön zur Ruhe, wie ich jetzt. Es ist nötig, daß wir nach den inhaltsreichen
@@ -117,7 +118,7 @@
                dafür. Im Übrigen schreibe aber nichts, daß ich Dir das berichtet habe. Du hast doch
                mal gesagt, er könne bei Dir essen. Dann braucht er doch den saudummen Convicte
                nicht.</p>
-            <p>Deinen Pessimismus in Bez. auf den Bund<pb n="4"/> teile ich in gewisser Beziehung,
+<p>Deinen Pessimismus in Bez. auf den Bund<pb n="4"/> teile ich in gewisser Beziehung,
                nämlich wenn man Ideal u. Realität vergleicht; nicht aber wenn man Wingolf u. übrige
                Studentschaft vergleicht. Es sind bei uns überall noch gute starke Kräfte, wie auch
                oft schlummernd u. ein rechter Wille, wenn auch oft unbewußt. Darum wäre es ein
@@ -130,8 +131,8 @@
                ich sehe auch hier manches nette Füxlein, das mal in <rs ref="#tillich_place_id__189" type="place">Halle</rs>
                eine tüchtige Kraft werden wird. Darum dürfen wir uns solchen Zuzug nicht
                abschneiden.</p>
-            <pb n="5"/>
-            <p>Wir müssen eben in <rs ref="#tillich_place_id__189" type="place">Halle</rs> immer die Kraft haben solche Leute an
+<pb n="5"/>
+<p>Wir müssen eben in <rs ref="#tillich_place_id__189" type="place">Halle</rs> immer die Kraft haben solche Leute an
                ihren Posten zu stellen u. unser Ideal hat besiegende Kraft für jeden, der dessen
                wert ist. Also solange sich noch wenige zum <foreign xml:lang="grc">εις</foreign><note type="ea">Es geht um das Bekenntnis zu Jesu als dem einen Sohn Gottes.</note> bekennen, werden
                wir siegen. – Dem Bund gegenüber gilt es: weniger Kritik mehr Position. Wir wollen v.
@@ -142,29 +143,29 @@
                <foreign xml:lang="grc">εις</foreign> Kämpfenden stellen. Also werde kein Sektierer. Es ist wohl
                einfacher sich von der bösen Welt u. dem bösen Bund ins Kloster zum hl. <rs ref="#tillich_person_id__1013" type="person">Kähler</rs> zu verkriechen, aber evangelisch ist es nicht. Sie
                sollen uns haben, solange sie uns tragen wollen.</p>
-            <p>Ich freue mich, von Eurem geistig reg<pb n="6"/>samen Leben zu hören. Wir haben es
+<p>Ich freue mich, von Eurem geistig reg<pb n="6"/>samen Leben zu hören. Wir haben es
                hier still. Menschen, von denen man geistig nehmen könnte, sind nur sehr wenig da.
                <rs ref="#tillich_person_id__1696" type="person">Hermann</rs>
                fehlt mir oft. Dir wohl auch? <hi rend="aq"><rs ref="#tillich_person_id__1050" type="person">Albert</rs></hi> ist eigentlich der Einzige u. mit ihm verkehre ich viel.
                Sonst sind es eben Bücher. <rs ref="#tillich_person_id__2248" type="person">Raabe</rs> lese ich mit viel
                Freude, er ähnelt in Vielem <rs ref="#tillich_person_id__460" type="person">Dickens</rs>. Sonst studiere
                ich Dogmengeschichte u. besonders AT. Um <rs ref="#tillich_person_id__1013" type="person">Kählers</rs>
-               <rs type="work" ref="#tillich_work_id__182">Ethik</rs> beneide ich Euch, die muß mächtig sein. In den letzten
+<rs ref="#tillich_work_id__182" type="work">Ethik</rs> beneide ich Euch, die muß mächtig sein. In den letzten
                Tagen habe ich mich mit <rs ref="#tillich_person_id__845" type="person">Heims</rs>
-               <rs type="work" ref="#tillich_work_id__242">"Weltbild"</rs> beschäftigt, könnte aber nicht sagen, daß ichs
+<rs ref="#tillich_work_id__242" type="work">"Weltbild"</rs> beschäftigt, könnte aber nicht sagen, daß ichs
                kapiert hätte.</p>
-            <p>Ich freue mich mächtig, Dich bald zu sehen. Um Deine Gesundheit sorge ich mich
+<p>Ich freue mich mächtig, Dich bald zu sehen. Um Deine Gesundheit sorge ich mich
                manchmal. Gelt Du bedenkst, daß Du Deine Kraft noch zu Manchem brauchen wirst. Wir
                fangen erst an, zu leben. Grüße deinen lb. <unclear>Scherling</unclear>. Daß Du an
                ihm viel Freude erlebst, sah ich voraus. Grüße Deine Frau Gemahlin. </p>
-            <closer>
-               <signed>Dein <rs ref="#tillich_person_id__641" type="person">Alfred</rs>.</signed>
-            </closer>
-            <postscript>
-               <p><rs ref="#tillich_person_id__203" type="person">Lorenz</rs> u xx danke ich für die Briefe. Ich will
+<closer>
+<signed>Dein <rs ref="#tillich_person_id__641" type="person">Alfred</rs>.</signed>
+</closer>
+<postscript>
+<p><rs ref="#tillich_person_id__203" type="person">Lorenz</rs> u xx danke ich für die Briefe. Ich will
                   bald mal antworten. Grüße <rs ref="#tillich_person_id__1707" type="person">Scheteligs</rs></p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

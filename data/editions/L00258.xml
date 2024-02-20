@@ -1,93 +1,94 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00258">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Gilbert van der Smissen an Paul Tillich <lb/>vom 1. Januar 1908</title>
-            <author ref="#tillich_person_id__1982">Gilbert van der Smissen</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00258" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Gilbert van der Smissen an Paul Tillich <lb/>vom 1. Januar 1908</title>
+<author ref="#tillich_person_id__1982">Gilbert van der Smissen</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/186(49)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/186(49)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1982">Gilbert van der Smissen</persName>
-               <placeName ref="#tillich_place_id__414">Stellingen</placeName>
-               <date when="1908-01-01">01.01.1908</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-05-10">Intitale Auszeichnung des Transkripts</change>
-         <change who="EL" when="2023-09-20">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__414" type="place">Stellingen</rs>, d. <date when="1908-01-01">1. I.
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1982">Gilbert van der Smissen</persName>
+<placeName ref="#tillich_place_id__414">Stellingen</placeName>
+<date when="1908-01-01">01.01.1908</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-05-10" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-09-20" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__414" type="place">Stellingen</rs>, d. <date when="1908-01-01">1. I.
                   08.</date></dateline>
-               <salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
-            </opener>
-            <p>Wenn ich mich über einen Brief freue, pflege ich ihn möglichst schnell zu
+<salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+</opener>
+<p>Wenn ich mich über einen Brief freue, pflege ich ihn möglichst schnell zu
                beantworten. Also ich danke Dir vielmals. Also vom Reisen über
                   <rs ref="#tillich_place_id__37" type="place">Berlin</rs> ist nicht die Rede, hingegen fahre ich über
                   <rs ref="#tillich_place_id__209" type="place">Hildesheim</rs> und treffe dort mit <rs ref="#tillich_person_id__2147" type="person">H.
@@ -139,7 +140,7 @@
                eigentlich neu, s. nur Ausdruck dafür, wofür man einen Begriff suchte: daß man auch
                für sein persönlichstes Leben als Voraussetzung Arbeit, die ihr Recht hat, haben muß.
                Aber das Wie?</p>
-            <p>Tatsachen: Eigentlich habe ich bis jetzt nur über Tatsachen geschrieben. Aus
+<p>Tatsachen: Eigentlich habe ich bis jetzt nur über Tatsachen geschrieben. Aus
                   <rs ref="#tillich_place_id__189" type="place">Halle</rs> wirst du voraussichtlich neulich von <rs ref="#tillich_person_id__128" type="person">Hans Balke</rs> genug erfahren haben, er beurteilt im
                allgemeinen wohl günstiger. Der Kerl als Konhaus ist rührend. Sonst ist alles was ich
                berichten könnte nur, daß endlich Eis ist und ich meine langen Beine kräftig um die
@@ -156,18 +157,18 @@
                u. arbeiten auch wirklich so begabte Sachen daß es erstaunlich ist, nur weil sie
                gegenseitig ihr Leiden gar<pb n="4"/> nicht mehr empfinden, wie sie es zu Hause
                müßten. Arbeit infolge von Gemeinschaft?</p>
-            <p>Die Pointe meiner geheimnisvollen Frankfurter Reise: Verlobigung meiner ältesten
+<p>Die Pointe meiner geheimnisvollen Frankfurter Reise: Verlobigung meiner ältesten
                Schwester, was jetzt in den Weihnachtstagen der Gegenstand war, um den sich alles
                konzentrierte, u. zwar so daß man nach all den Feiern sich wieder nach etwas anderem
                sehnt. Abgesehen von dieser Eigenschaft des Verursachers <hi rend="sup">vieler
                   Feiern</hi>, wie er sein soll ein "Techniker" - der diesbezügl. Bräutigam nämlich.
                Wenn Du Dich dazu aufschwingen kannst, so schreibe mal wieder u. komme im Semester
                mal nach <rs ref="#tillich_place_id__189" type="place">Halle</rs>, wo die Braven gedeihen.</p>
-            <closer>
-               <salute>Grüß die Bande! <foreign xml:lang="lat">Vivas, crescas, floreas!</foreign></salute>
-               <signed>Herzlich Dein <rs ref="#tillich_person_id__1982" type="person">Gysbert</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<salute>Grüß die Bande! <foreign xml:lang="lat">Vivas, crescas, floreas!</foreign></salute>
+<signed>Herzlich Dein <rs ref="#tillich_person_id__1982" type="person">Gysbert</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

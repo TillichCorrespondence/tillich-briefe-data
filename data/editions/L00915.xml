@@ -1,91 +1,92 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00915">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 29. September 1926</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00915" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 29. September 1926</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
-                  <idno>bMS 721/2(23)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+<idno>bMS 721/2(23)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__343">Paris</placeName>
-               <date when="1926-09-29">29.09.1926</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-10-31">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2023-10-31">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener><dateline>
-                  <date when="1926-09-29">D. 29)</date></dateline>
-               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-            </opener>
-            <p>Heut habe ich das Billet für Sonntag bis <rs ref="#tillich_place_id__130" type="place">Düsseldorf</rs> genommen. Dienstag Abend, so weit ich sehe um 11 bin ich
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__343">Paris</placeName>
+<date when="1926-09-29">29.09.1926</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-10-31" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-10-31" who="PS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline>
+<date when="1926-09-29">D. 29)</date></dateline>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Heut habe ich das Billet für Sonntag bis <rs ref="#tillich_place_id__130" type="place">Düsseldorf</rs> genommen. Dienstag Abend, so weit ich sehe um 11 bin ich
                in <rs ref="#tillich_place_id__126" type="place">Dresden</rs>. Sei da zu Haus! Das ist besser als
                auf dem Bahnhof. Und sei von 8 Uhr an zu Haus! Denn es ist nicht ganz unmöglich, daß
                auch schon um 8 ein Zug in Frage kommt. – <rs ref="#tillich_person_id__1794" type="person">Simons</rs>
@@ -98,13 +99,13 @@
                Schlips, Anzug, Mantel, Hut. Sehr gern würde ich noch ein paar Halbschuhe mitnehmen,
                weil die hier weniger als halb so teuer sind. Das hängt davon ab, ob noch irgendwo
                her Geld kommt. Sei aber nicht zu erwartungsvoll:<pb n="3"/>
-               <unclear>¿¿¿</unclear> ist <hi rend="u">ganz</hi> gut. Aber alles besser als das was
+<unclear>¿¿¿</unclear> ist <hi rend="u">ganz</hi> gut. Aber alles besser als das was
                ich hatte. Für die <unclear cert="low" reason="illegible">Wintersaison</unclear>
                jedenfalls versorgt und mehr kann man für 120M nicht verlangen. – – –</p>
-            <p>Dein Kleid und Hut werden einstimmig gerühmt. Der Mantel ist höchst fragwürdig und
+<p>Dein Kleid und Hut werden einstimmig gerühmt. Der Mantel ist höchst fragwürdig und
                ich wünschte, es kämen zu guter Letzt noch rettende 500 Fr. = 60M wofür man schon
                wunderbare Dinge haben kann.</p>
-            <p>Gestern habe ich aus Versailles geschrieben. Der Abend wurde dann noch sehr
+<p>Gestern habe ich aus Versailles geschrieben. Der Abend wurde dann noch sehr
                romantisch. Wir waren in einem Apachen<pb n="4"/>tanzlokal, das mir <rs ref="#tillich_person_id__2560" type="person">Ullis</rs> Freund empfohlen hatte. Schon nach 1. Stunde wurden
                drei Leute von der Polizei abgeführt. Dann kamen Bekannte von <rs ref="#tillich_person_id__2437" type="person">Malla</rs>, mit denen ein ehemaliger Freund von "Lothar dem Kind" war, der
                auch <rs ref="#tillich_person_id__2560" type="person">Ulli</rs> und alle seine Freunde kannte. Dann gab
@@ -113,10 +114,10 @@
                Rolläden fast zerbrachen. Dann drückten wir uns und erlebten nur noch, wie eine
                völlig betrunkene Dame in ein Auto geladen wurde. <rs ref="#tillich_place_id__343" type="place">Paris</rs> hat unendliche Tiefen, die niemand ganz kennt. – Ich hab Dich
                lieb, sehr lieb.</p>
-            <closer>
-               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

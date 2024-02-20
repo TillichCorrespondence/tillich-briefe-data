@@ -1,104 +1,102 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00418">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Johannes Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00418" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Johannes Tillich
                <lb/>vom 8. Januar 1915
             </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Leopold Potyka</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library </repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                  <idno>bMS649/193(13)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-                  </physDesc>              
-            </msDesc>                    
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <date when="1915-01-08">08.01.1915</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="LP" when="2022-05-02">Intitale Auszeichnung des Transkripts</change>
-        <change who="GM" when="2023-09-29">Endabnahme</change>
-        
-       
-     </revisionDesc>
-  </teiHeader>
-  <text type="letter">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <dateline> d. <date when="1915-01-08">8. Jan.</date></dateline>
-           <salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
-        </opener>
-        <p>Anbei das Konzept meines Berichtes.<note type="eb">Der Bericht ist nicht erhalten.</note> Gleichzeitig habe ich an <rs ref="#tillich_person_id__2085" type="person">Toni</rs> eine Postkarte geschickt mit der Bitte um 
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Leopold Potyka</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library </repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS649/193(13)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1915-01-08">08.01.1915</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-05-02" who="LP">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-09-29" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline> d. <date when="1915-01-08">8. Jan.</date></dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
+</opener>
+<p>Anbei das Konzept meines Berichtes.<note type="eb">Der Bericht ist nicht erhalten.</note> Gleichzeitig habe ich an <rs ref="#tillich_person_id__2085" type="person">Toni</rs> eine Postkarte geschickt mit der Bitte um 
            <lb/>1) Briefumschläge
            <lb/>2) Zahnpulver
            <lb/>3) Leder für <sic>Schusohlen</sic>
-           <lb/>4) Viele Dosen gelben Schuhcreme.
+<lb/>4) Viele Dosen gelben Schuhcreme.
            Bitte alles möglichst umgehend in <hi rend="u">Päckchen</hi>, nicht in einem Paket!<pb n="2"/>
            Mir geht es gut. Ich fühle mich wieder recht frisch. Hoffentlich hast Du die Festtagsarbeit überstanden. 
         </p>
-        <closer>
-           <salute>In Treue</salute>
-           <signed>Dein <rs ref="#P=1930" type="person">Paul</rs></signed>
-        </closer>
-             
-     </div>
-    </body>
-  </text>
+<closer>
+<salute>In Treue</salute>
+<signed>Dein <rs ref="#P=1930" type="person">Paul</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

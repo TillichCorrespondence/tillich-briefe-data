@@ -1,128 +1,110 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00519">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Marie Tillich <lb/>vom 16. November 1916 </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00519" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Marie Tillich <lb/>vom 16. November 1916 </title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/193(21)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/193(21)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date when="1916-11-16">16.11.1916</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1930">Marie Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-05-31">Intitale Auszeichnung des Transkripts</change>
-         <change who="GM" when="2023-12-19">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>D. <date when="1916-11-16">16. November 1916</date></dateline>
-               <salute>Mein liebes <rs ref="#tillich_person_id__1930" type="person"
-                     >Großmütterlein</rs>!</salute>
-            </opener>
-            <p>Nachdem ich nun mehr seit August keine Nachricht mehr von der Neuenburgerstr.<note
-                  type="ea">In der Neuenburger Straße 3 in <rs ref="#tillich_place_id__37"
-                     type="place">Berlin</rs> war das Pfarrhaus von <rs
-                     ref="#tillich_person_id__1924" type="person">Johannes Tillich</rs>.</note>
-               bekommen habe, wohl aber einen Brief von <rs ref="#tillich_person_id__1925"
-                  type="person">Tante Grete</rs> aus <rs ref="#tillich_place_id__416" type="place"
-                  >Stettin</rs>Stettin, will ich meine Zuflucht zu Dir nehmen. Denn ich weiß, daß
-               wenn auch <rs ref="#tillich_person_id__1924" type="person">Vater</rs> und <rs
-                  ref="#tillich_person_id__2085" type="person">Pflegemutter</rs>, <rs
-                  ref="#tillich_person_id__644" type="person">Schwester</rs> und <rs
-                  ref="#tillich_person_id__641" type="person">Schwager</rs> einen vergessen, die <rs
-                  ref="#tillich_person_id__1930" type="person">Großmutter</rs> doch immer des <rs
-                  ref="#Paul Tillich" type="person">Enkels</rs> gedenkt, der <hi rend="u">sie</hi>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1916-11-16">16.11.1916</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1930">Marie Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-05-31" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-12-19" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>D. <date when="1916-11-16">16. November 1916</date></dateline>
+<salute>Mein liebes <rs ref="#tillich_person_id__1930" type="person">Großmütterlein</rs>!</salute>
+</opener>
+<p>Nachdem ich nun mehr seit August keine Nachricht mehr von der Neuenburgerstr.<note type="ea">In der Neuenburger Straße 3 in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> war das Pfarrhaus von <rs ref="#tillich_person_id__1924" type="person">Johannes Tillich</rs>.</note>
+               bekommen habe, wohl aber einen Brief von <rs ref="#tillich_person_id__1925" type="person">Tante Grete</rs> aus <rs ref="#tillich_place_id__416" type="place">Stettin</rs>Stettin, will ich meine Zuflucht zu Dir nehmen. Denn ich weiß, daß
+               wenn auch <rs ref="#tillich_person_id__1924" type="person">Vater</rs> und <rs ref="#tillich_person_id__2085" type="person">Pflegemutter</rs>, <rs ref="#tillich_person_id__644" type="person">Schwester</rs> und <rs ref="#tillich_person_id__641" type="person">Schwager</rs> einen vergessen, die <rs ref="#tillich_person_id__1930" type="person">Großmutter</rs> doch immer des <rs ref="#Paul Tillich" type="person">Enkels</rs> gedenkt, der <hi rend="u">sie</hi>
                und <hi rend="u">den</hi> sie auf den Armen getragen hat! Ich freue mich, daß Du in
                der Neuenburgerstr. bist; es ist mir ein lieber Gedanke, Euch alle zusammen zu wissen, und ich
-               sehe ordentlich die Gemütlichkeit vergangener Zeiten, von denen ich hoffe, daß sie<pb
-                  n="2"/> auch jetzt nicht fehlt. Ich beneide den oder die, der den Platz zu Deiner
+               sehe ordentlich die Gemütlichkeit vergangener Zeiten, von denen ich hoffe, daß sie<pb n="2"/> auch jetzt nicht fehlt. Ich beneide den oder die, der den Platz zu Deiner
                Rechten hat, meinen Stammplatz, den ich wohl noch einmal einnehmen möchte! Ich habe
                mich etwas geängstigt, als ich hörte, daß es Dir nicht ganz gut ginge, und ich freue
                mich um so mehr, daß <add resp="PS">Du</add> nun wieder in Ordnung bist, meine liebe
-               junge <rs ref="#tillich_person_id__1930" type="person">Großmama</rs>! – Ist <rs
-                  ref="#tillich_person_id__1925" type="person">Tante Grete</rs> noch in <rs
-                  ref="#tillich_place_id__416" type="place">Stettin</rs>? Sie liebt diese große
+               junge <rs ref="#tillich_person_id__1930" type="person">Großmama</rs>! – Ist <rs ref="#tillich_person_id__1925" type="person">Tante Grete</rs> noch in <rs ref="#tillich_place_id__416" type="place">Stettin</rs>? Sie liebt diese große
                Kleinstadt ja sehr, wie ich auch, sie wegen der Menschen, ich wegen der Schiffe! --
-               Über <rs ref="#tillich_person_id__641" type="person">Alfred</rs> und <rs
-                  ref="#tillich_person_id__644" type="person">Johanna</rs> habe ich nicht mal einen
-               dunklen Begriff. Ob <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, <rs
-                  ref="#tillich_place_id__80" type="place">Butterfelde</rs><pb n="3"/> oder <rs
-                  ref="#tillich_place_id__74" type="place">Bremen</rs> ist mir völlig unbekannt. Ob
+               Über <rs ref="#tillich_person_id__641" type="person">Alfred</rs> und <rs ref="#tillich_person_id__644" type="person">Johanna</rs> habe ich nicht mal einen
+               dunklen Begriff. Ob <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, <rs ref="#tillich_place_id__80" type="place">Butterfelde</rs><pb n="3"/> oder <rs ref="#tillich_place_id__74" type="place">Bremen</rs> ist mir völlig unbekannt. Ob
                <rs ref="#tillich_person_id__641" type="person">Frede</rs> zurück ist und sonstige
                neugierige Fragen darf man wohl gar nicht mehr stellen.</p>
-            <p>Ich wohne in einem netten Blockhäuschen im <rs ref="#tillich_place_id__9"
-                  type="place">Aisnetal</rs>, nicht weit von den <rs ref="#tillich_place_id__13"
-                  type="place">Argonnen</rs>. Es ist ruhig und friedlich hier, infolgedessen viel
+<p>Ich wohne in einem netten Blockhäuschen im <rs ref="#tillich_place_id__9" type="place">Aisnetal</rs>, nicht weit von den <rs ref="#tillich_place_id__13" type="place">Argonnen</rs>. Es ist ruhig und friedlich hier, infolgedessen viel
                Predigtarbeit, aber auch viel Zeit; so daß ich sogar noch etwas zu wissenschaftlichen
                Sachen komme, was dem Geist wie der erste Tropfen Milch dem Heißhungrigen ist. Aber
                man muß langsam essen, so entwöhnt ist man der reinen Vernunft.</p>
-            <p>Daß wir die <rs ref="#tillich_place_id__406" type="place">Somme</rs> hinter uns
+<p>Daß wir die <rs ref="#tillich_place_id__406" type="place">Somme</rs> hinter uns
                   haben,<pb n="4"/> hast Du wohl gehört; es waren schwere Tage für die Truppen und
                ernste Tage für uns. Hoffentlich bleiben wir noch lange hier in der ruhigen Stellung.
                   <rs ref="#tillich_place_id__459" type="place">Verdun</rs> war ein schwerer Schlag
@@ -133,10 +115,10 @@
                gern würde ich mit Dir über all das reden, oder vielmehr Deine temperamentvollen
                Fragen hören, wenn <rs ref="#tillich_person_id__1924h" type="person">Papa</rs> und ich reden
                --- Es war einmal, alles war einmal.</p>
-            <closer>
-               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">treuer Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">treuer Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

@@ -1,131 +1,128 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00494">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Ernst von Dobschütz <lb/>vom 27. Juni 1916 </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00494" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Ernst von Dobschütz <lb/>vom 27. Juni 1916 </title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="Wien">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="Wien">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="Halle a. S.">Halle a. S.</settlement>
-                  <institution>Martin-Luther-Universität Halle-Wittenberg</institution>
-                  <repository>Universitätsarchiv Halle-Wittenberg</repository>
-                  <collection>Rep. 27 (Theologische Fakultät)</collection>
-                  <idno>Nr. 876 (25)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-               <additional>
-                  <listBibl>
-                     <biblStruct type="journal" n="firstPrint">
-                        <monogr>
-                           <author>Erdmann Sturm</author>
-                           <title>An der engen Pforte der historischen Methode vorbeit. Paul
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="Halle a. S.">Halle a. S.</settlement>
+<institution>Martin-Luther-Universität Halle-Wittenberg</institution>
+<repository>Universitätsarchiv Halle-Wittenberg</repository>
+<collection>Rep. 27 (Theologische Fakultät)</collection>
+<idno>Nr. 876 (25)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct n="firstPrint" type="journal">
+<monogr>
+<author>Erdmann Sturm</author>
+<title>An der engen Pforte der historischen Methode vorbeit. Paul
                               Tillichs Habilitation in Halle (1916) und seine Umhabilitierungen nach
                               Berlin (1919) und Marburg (1924).</title>
-                           <imprint>
-                              <pubPlace ref="Berlin/Boston">Berlin/Boston</pubPlace>
-                              <date when="2015">2015</date>
-                              <biblScope>310</biblScope>
-                           </imprint>
-                        </monogr>
-                        <series>
-                           <title>International Yearbook for Tillich Research</title>
-                           <biblScope>Bd. 10/1</biblScope>
-                        </series>
-                     </biblStruct>
-                  </listBibl>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+<imprint>
+<pubPlace ref="Berlin/Boston">Berlin/Boston</pubPlace>
+<date when="2015">2015</date>
+<biblScope>310</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>International Yearbook for Tillich Research</title>
+<biblScope>Bd. 10/1</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date when="1916-06-27">27.06.1916</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__2626">Ernst von Dobschütz</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-05-31">Intitale Auszeichnung des Transkripts</change>
-         <change who="GM" when="2023-12-05">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>Brigadestabsquartier d. <date when="1916-06-27">27. <hi rend="sup">ten</hi>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1916-06-27">27.06.1916</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__2626">Ernst von Dobschütz</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-05-31" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-12-05" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>Brigadestabsquartier d. <date when="1916-06-27">27. <hi rend="sup">ten</hi>
                      Juni 1916.</date> 7. Res-Div. 14. Res-Brig.</dateline>
-               <salute>Hochverehrter <rs ref="#tillich_person_id__2626" type="person">Herr
+<salute>Hochverehrter <rs ref="#tillich_person_id__2626" type="person">Herr
                      Professor</rs>!</salute>
-            </opener>
-            <p>Die Lage hat sich so gestaltet, daß, wenn nichts dazwischen kommt, ich etwa am 1 Juli
+</opener>
+<p>Die Lage hat sich so gestaltet, daß, wenn nichts dazwischen kommt, ich etwa am 1 Juli
                meinen Urlaub antreten kann; ich hoffe auch, daß es mir möglich sein wird, 3 Wochen
-               zu erlangen. Ich habe <del rend="ow">3</del>4 Wochen <rs ref="#tillich_place_id__459"
-                  type="place">Verdun</rs> hinter mir und bin körperlich und seelisch ziemlich
+               zu erlangen. Ich habe <del rend="ow">3</del>4 Wochen <rs ref="#tillich_place_id__459" type="place">Verdun</rs> hinter mir und bin körperlich und seelisch ziemlich
                herunter. Trotzdem will ich mich an die Vorlesungen heranwagen und freue mich darauf,
                einmal wieder in meinem <unclear cert="high">eigentsten</unclear> Beruf tätig zu
-               sein. Ich bitte Sie, wenn irgend möglich zu erwirken, daß der Termin der <rs
-                  ref="#tillich_work_id__47" type="work">Probevorlesung</rs> auf den Tag nach meiner
+               sein. Ich bitte Sie, wenn irgend möglich zu erwirken, daß der Termin der <rs ref="#tillich_work_id__47" type="work">Probevorlesung</rs> auf den Tag nach meiner
                Ankunft in <rs ref="#tillich_place_id__189" type="place">Halle</rs> festgesetzt wird,
-               damit ich keine Zeit für die Erholung am Meer und Ausarbeitung der <rs
-                  ref="#tillich_work_id__50" type="work">Antrittsvorlesung</rs> verliere. Ich werde
+               damit ich keine Zeit für die Erholung am Meer und Ausarbeitung der <rs ref="#tillich_work_id__50" type="work">Antrittsvorlesung</rs> verliere. Ich werde
                den Termin meiner Ankunft telegraphisch bekannt geben. Höchst wahrscheinlich wird es
-               Sonntag der <date when="1916-07-02">2 Juli</date> sein, so daß vielleicht <date
-                  when="1916-07-03">Montag d. 3 Juli</date> die Vorlesung stattfinden könnte.</p>
-            <closer>
-               <salute>Ihr sehr ergebener</salute>
-               <signed><hi rend="aq"><rs ref="#tillich_person_id__1928" type="person">Dr. Paul Tillich. Lic. theol.</rs></hi> z. Z. Feldprediger.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+               Sonntag der <date when="1916-07-02">2 Juli</date> sein, so daß vielleicht <date when="1916-07-03">Montag d. 3 Juli</date> die Vorlesung stattfinden könnte.</p>
+<closer>
+<salute>Ihr sehr ergebener</salute>
+<signed><hi rend="aq"><rs ref="#tillich_person_id__1928" type="person">Dr. Paul Tillich. Lic. theol.</rs></hi> z. Z. Feldprediger.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

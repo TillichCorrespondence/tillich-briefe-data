@@ -1,100 +1,98 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01093">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich an Hannah Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01093" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Hannah Tillich
                <lb/>vom 2. März 1931 [PS]
             </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Niklas von Hülsen</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement>Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                  <idno>bMS 721/3(1)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__274">Lübeck [PS]</placeName>
-              <date when="1931-03-02">02.03.1931</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-              <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="NH" when="2023-09-04">Initiale Auszeichnung des Transkripts</change>
-        <change who="FS" when="2023-11-29">Endabnahme</change>        
-       
-     </revisionDesc>
-  </teiHeader>
-  <text type="postcard">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-        </opener>
-        <p>Eine sehr lange, sehr mühselige Fahrt in überfülltem Zug. Gearbeitet, gegessen, geschlafen. Dann 2 schöne Stunden mit <rs ref="#tillich_person_id__1154" type="person">Kurt</rs> im Kaffee. Er arbeitet viel und ist gut in Form. Trotz dem schon um <formula notation="TeX">\frac{1}{2}</formula> 8 auf, um ans Meer zu kommen. Erst strahlende Sonne, dann graue, nordische Wolken. Hier ist alles in Eis und Schnee. Herrliche holländische Farben. Von <rs ref="#tillich_place_id__507" type="place">Travemünde</rs> bis <rs ref="#tillich_place_id__508" type="place">Niendorf</rs> 1 <formula notation="TeX">\frac{1}{2}</formula> Stunde ganz allein oben an einer schneeverwehten Steilküste mit Blick auf die braun-weißen Küsten und das kalt-graue Meer. Dabei kalter Wind und herrliche Luft. Jetzt sitze ich in dem einzigen offnen Hotel, esse <pb n="2"/> Mittag und trinke <unclear>Grock</unclear> und denke, daß auch der Süden schön ist. Nachher am Strand zurück. Um 6 Abfahrt nach <rs ref="#tillich_place_id__274" type="place">Lübeck</rs> zum Vortrag<note type="ea">Die Ausgabe der <rs ref="#tillich_work_id__60" type="work">Lübeckischen Blätter zum 1. März 1931</rs> druckte auf S. 155 einen Auszug aus Tillichs "<rs ref="#tillich_work_id__19" type="work">Religiöser Verwirklichung</rs>" und überschrieb den Text mit "Über gläubigen Realismus. Von Paul Tillich. Zum Vortrag am 2. März 1931". Demnach dürfte Tillich eine Version <rs ref="#tillich_work_id__20" type="work">jenes Aufsatzes</rs> vorgetragen haben (vgl. auch die entsprechende Anmerkung in der <rs ref="L00932" type="letter">Postkarte Paul Tillichs an Hannah Tillich vom 11. Februar 1927</rs>).</note>.
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Niklas von Hülsen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement>Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/3(1)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__274">Lübeck [PS]</placeName>
+<date when="1931-03-02">02.03.1931</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+<placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-04" who="NH">Initiale Auszeichnung des Transkripts</change>
+<change when="2023-11-29" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Eine sehr lange, sehr mühselige Fahrt in überfülltem Zug. Gearbeitet, gegessen, geschlafen. Dann 2 schöne Stunden mit <rs ref="#tillich_person_id__1154" type="person">Kurt</rs> im Kaffee. Er arbeitet viel und ist gut in Form. Trotz dem schon um <formula notation="TeX">\frac{1}{2}</formula> 8 auf, um ans Meer zu kommen. Erst strahlende Sonne, dann graue, nordische Wolken. Hier ist alles in Eis und Schnee. Herrliche holländische Farben. Von <rs ref="#tillich_place_id__507" type="place">Travemünde</rs> bis <rs ref="#tillich_place_id__508" type="place">Niendorf</rs> 1 <formula notation="TeX">\frac{1}{2}</formula> Stunde ganz allein oben an einer schneeverwehten Steilküste mit Blick auf die braun-weißen Küsten und das kalt-graue Meer. Dabei kalter Wind und herrliche Luft. Jetzt sitze ich in dem einzigen offnen Hotel, esse <pb n="2"/> Mittag und trinke <unclear>Grock</unclear> und denke, daß auch der Süden schön ist. Nachher am Strand zurück. Um 6 Abfahrt nach <rs ref="#tillich_place_id__274" type="place">Lübeck</rs> zum Vortrag<note type="ea">Die Ausgabe der <rs ref="#tillich_work_id__60" type="work">Lübeckischen Blätter zum 1. März 1931</rs> druckte auf S. 155 einen Auszug aus Tillichs "<rs ref="#tillich_work_id__19" type="work">Religiöser Verwirklichung</rs>" und überschrieb den Text mit "Über gläubigen Realismus. Von Paul Tillich. Zum Vortrag am 2. März 1931". Demnach dürfte Tillich eine Version <rs ref="#tillich_work_id__20" type="work">jenes Aufsatzes</rs> vorgetragen haben (vgl. auch die entsprechende Anmerkung in der <rs ref="L00932" type="letter">Postkarte Paul Tillichs an Hannah Tillich vom 11. Februar 1927</rs>).</note>.
         </p>
-        <closer>
-           <salute>Sei nicht traurig; ich liebe dich!</salute>
-           <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-        </closer>
-        
-        <postscript><p>Am tollsten sind die Löcher d. alten Burgen <unclear>mit</unclear> Schnee.</p></postscript>
-      
-     </div>
-    </body>
-  </text>
+<closer>
+<salute>Sei nicht traurig; ich liebe dich!</salute>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+</closer>
+<postscript><p>Am tollsten sind die Löcher d. alten Burgen <unclear>mit</unclear> Schnee.</p></postscript>
+</div>
+</body>
+</text>
 </TEI>

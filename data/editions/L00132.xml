@@ -1,116 +1,112 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00132">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brieffragment von Friedrich Büchsel an Paul Tillich <lb/>von 1907 </title>
-            <author ref="#tillich_person_id__310">Friedrich Büchsel</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00132" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brieffragment von Friedrich Büchsel an Paul Tillich <lb/>von 1907 </title>
+<author ref="#tillich_person_id__310">Friedrich Büchsel</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/127</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brieffragment, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/127</idno>
+</msIdentifier>
+<physDesc>
+<p>Brieffragment, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__310">Friedrich Büchsel</persName>
-               <date when="1907">1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-12-04">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2024-01-31">Vorbereitende Endabnahme</change>
-         <change who="EL" when="2024-02-13">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <p>Wenn ich an seine Stellung im Principstreit<!--<note type="ea">Prinzipienstreit</note>--> denke, obwohl ich mich ihrer leider auch
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__310">Friedrich Büchsel</persName>
+<date when="1907">1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-12-04" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-01-31" who="PS">Vorbereitende Endabnahme</change>
+<change when="2024-02-13" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<p>Wenn ich an seine Stellung im Principstreit<!--<note type="ea">Prinzipienstreit</note>--> denke, obwohl ich mich ihrer leider auch
                nur ungenau entsinne, so hat er ohne Heftigkeit zu uns "Hallensern" gestanden bezw
-               wir haben von ihm gelernt. Ich fürchte diese Angaben werden kaum genügen, aber <rs
-                  ref="#tillich_person_id__1013" type="person">Kähler</rs> würde bessere geben ob er
-               in <rs type="place" ref="#tillich_place_id__189">Halle</rs> ist, weiß ich freilich
+               wir haben von ihm gelernt. Ich fürchte diese Angaben werden kaum genügen, aber <rs ref="#tillich_person_id__1013" type="person">Kähler</rs> würde bessere geben ob er
+               in <rs ref="#tillich_place_id__189" type="place">Halle</rs> ist, weiß ich freilich
                nicht <rs ref="#tillich_person_id__1227" type="person">Lütgert</rs> ist aber m. W.
                da.</p>
-            <p>Für Deinen lieben Brief<note type="ea">Nicht überliefert.</note> besten Dank. Ich habe
+<p>Für Deinen lieben Brief<note type="ea">Nicht überliefert.</note> besten Dank. Ich habe
                sonst von den lb. Brr. wenig genug gehört. Ich bin nun schon 45 Tage hier, komme aber
-               noch nicht fort. Meinem <rs type="person" ref="#tillich_person_id__2275">Vater</rs> geht es leider noch immer nicht gut. Vor 3 Wochen
+               noch nicht fort. Meinem <rs ref="#tillich_person_id__2275" type="person">Vater</rs> geht es leider noch immer nicht gut. Vor 3 Wochen
                entwickelten sich zu dem Karbunkel Verdauungs u. dergl. -Leiden, die ihn sehr
                aufhalten an der Genesung. Er ist wieder bettlägerig und kommt nur schlecht voran.
                Die Wund freilich ist jetzt schon halb zu. Ich wollte eigentlich fort, bleibe aber
-               unter diesen Umständen noch hier. Nach <rs type="place" ref="#tillich_place_id__189"
-                  >Halle</rs> ko<pb n="2"/>mme ich natürlich wieder. In <rs type="place"
-                  ref="#tillich_place_id__293">Misdroy</rs> sähe ich Dich gern, ich komme auch gern
+               unter diesen Umständen noch hier. Nach <rs ref="#tillich_place_id__189" type="place">Halle</rs> ko<pb n="2"/>mme ich natürlich wieder. In <rs ref="#tillich_place_id__293" type="place">Misdroy</rs> sähe ich Dich gern, ich komme auch gern
                (noch früher müßte es freilich sein) auf einige Zeit hin. Doch bin ich vielleicht
-               auch dann gerade in Vorpommern, wo meine <rs type="person" ref="#tillich_person_id__2277"><rs type="person" ref="#tillich_person_id__2278"><rs type="person" ref="#tillich_person_id__2279">Brüder</rs></rs></rs> sind. Meine Adresse ist jedenfalls:
-               St. Kronenhofstr 17a. Zum Arbeiten komme ich nur sehr wenig am wenigsten an der <hi
-                  rend="aq">apoc.</hi>. Augenblicklich lese ich <rs type="person"
-                  ref="#tillich_person_id__890">Herrmanns</rs>
-               <rs type="work" ref="#tillich_work_id__175">Ethik</rs> bin aber durch ihren
+               auch dann gerade in Vorpommern, wo meine <rs ref="#tillich_person_id__2277" type="person"><rs ref="#tillich_person_id__2278" type="person"><rs ref="#tillich_person_id__2279" type="person">Brüder</rs></rs></rs> sind. Meine Adresse ist jedenfalls:
+               St. Kronenhofstr 17a. Zum Arbeiten komme ich nur sehr wenig am wenigsten an der <hi rend="aq">apoc.</hi>. Augenblicklich lese ich <rs ref="#tillich_person_id__890" type="person">Herrmanns</rs>
+<rs ref="#tillich_work_id__175" type="work">Ethik</rs> bin aber durch ihren
                "Atheismus" sehr abgestoßen. Diese autonome Ethik ist doch ein ziemlich kümmerlichs
                Zeug, doch ich bin noch nicht zu Ende. </p>
-            <closer>
-               <salute>Mit herzlichem Gruß</salute>
-               <signed>Dein getr. <rs ref="#tillich_person_id__310" type="person">F.
+<closer>
+<salute>Mit herzlichem Gruß</salute>
+<signed>Dein getr. <rs ref="#tillich_person_id__310" type="person">F.
                   Büchsel</rs></signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

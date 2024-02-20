@@ -1,100 +1,98 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00458">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Marie Tillich und Margarete Tillich <lb/>vom 18.
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00458" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Marie Tillich und Margarete Tillich <lb/>vom 18.
                Dezember 1915 </title>
-            <author ref="#tillich_person_id__1928">Tillich, Paul</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Niklas von Hülsen</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Niklas von Hülsen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__485">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                  <idno>bMS 649/193(21)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__485">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS 649/193(21)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date when="1915-12-18">18.12.1915</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1930">Marie Tillich</persName>
-               <persName ref="#tillich_person_id__1925">Margarete Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="NH" when="2022-05-09">Intitale Auszeichnung des Transkripts</change>
-         <change who="GM" when="2023-11-28">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="2"/>
-            <pb facs="1"/>
-            <opener>
-               <dateline>d.<date when="1915-12-18">18. Dez. 1915</date></dateline>
-               <salute>Liebe <rs ref="#tillich_person_id__1930" type="person">Großmama</rs> und <rs
-                  ref="#tillich_person_id__1925" type="person"/>Tante Grete!</salute>
-            </opener>
-            <p>Von <rs ref="#tillich_place_id__24" type="place">Schönfließ</rs> an wart Ihr
-               eigentlich die Hauptsache bei Weihnachten; daß Ihr kommt, aus <rs
-                  ref="#tillich_place_id__37" type="place">Berlin,</rs> dem mystischen Ungeheuer
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1915-12-18">18.12.1915</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1930">Marie Tillich</persName>
+<persName ref="#tillich_person_id__1925">Margarete Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-05-09" who="NH">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-11-28" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="2"/>
+<pb facs="1"/>
+<opener>
+<dateline>d.<date when="1915-12-18">18. Dez. 1915</date></dateline>
+<salute>Liebe <rs ref="#tillich_person_id__1930" type="person">Großmama</rs> und <rs ref="#tillich_person_id__1925" type="person"/>Tante Grete!</salute>
+</opener>
+<p>Von <rs ref="#tillich_place_id__24" type="place">Schönfließ</rs> an wart Ihr
+               eigentlich die Hauptsache bei Weihnachten; daß Ihr kommt, aus <rs ref="#tillich_place_id__37" type="place">Berlin,</rs> dem mystischen Ungeheuer
                meiner Kinderphantasie, dem Ort aller Herrlichkeiten der Welt, das versetzte uns in
                höchste Spannung, und wenn aus dem alten Rumpelomnibus außer drei lieben Gesichtern
-               auch zahllose Pakete sprangen – aus <rs ref="#tillich_place_id__37" type="place"
-                  >Berlin</rs>! – dann stieg die vorweihnachtliche Spannung auf den Siedepunkt. --
+               auch zahllose Pakete sprangen – aus <rs ref="#tillich_place_id__37" type="place">Berlin</rs>! – dann stieg die vorweihnachtliche Spannung auf den Siedepunkt. --
                Und dann in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> wenn wir im
                Studierzimmer warteten, und beim Klingeln alle hinsprangen, um noch einen Blick auf
                die Pakete zu erwischen... und dann der Heilig-Abend mit den gemütlichen Familien – und
@@ -109,8 +107,7 @@
                Traurigkeit sind tiefer geworden und lassen das Weihnachtslicht nur gebrochen
                hindurch. Dennoch leuchtet das Licht in der Finsternis; aber es ist jetzt schwer, es
                zu sehen; Ihr solltet doch Euch meine Briefe geben lassen; ich will, daß Ihr alle,
-               jeder in seinem Kreise, ständig das Ungeheure vor Augen habt, was hier draußen <hi
-                  rend="u">täglich</hi> von unseren Leuten ertragen wird, was sie denken und fühlen
+               jeder in seinem Kreise, ständig das Ungeheure vor Augen habt, was hier draußen <hi rend="u">täglich</hi> von unseren Leuten ertragen wird, was sie denken und fühlen
                und von Euch verlangen! Der falsche Optimismus der Heimat muß zerbrochen werden. Ein
                Blick auf die französischen Drahthindernisse mit den seit 2 Monaten unbeerdigten
                Leichen unserer Soldaten, an die man nicht herankann, enthält mehr Wahrheit, als
@@ -119,11 +116,11 @@
                ein Wagnis ist, vor allem der Weihnachtsglaube. In ihm wollen wir ausruhen und im
                Geist uns wieder sammeln unterm Weihnachtsbaum, wie einst --- im Geist und in der
                Liebe.</p>
-            <closer>
-               <salute>Euer treuer</salute>
-               <signed><rs type="person" ref="#tillich_person_id__1928">Paul</rs></signed>!
+<closer>
+<salute>Euer treuer</salute>
+<signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>!
             </closer>
-         </div>
-      </body>
-   </text>
+</div>
+</body>
+</text>
 </TEI>

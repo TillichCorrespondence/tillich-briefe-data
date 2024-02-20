@@ -1,101 +1,99 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00931">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich an Gottfried Salomon
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00931" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Gottfried Salomon
                <lb/>vom 28. Januar 1927 [PS]
             </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Niklas von Hülsen</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Niederlande</country>
-                  <settlement>Amsterdam</settlement>
-                  <institution>Koninklijke Nederlandse Akademie van Wetenschappen</institution>
-                  <repository>Internationaal Instituut voor Sociale Geschiedenis</repository>
-                  <collection>Gottfried Salomon-Delatour Papers, ARCH[01231]</collection>
-                  <idno>Inv.nr. 1172/9</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-                  </physDesc>
-
-            </msDesc>
-
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__126">Dresden</placeName>
-              <date when="1927-01-28">28.01.1927</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1678">Gottfried Salomon</persName>
-              <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="NH" when="2022-11-09">Intitale Auszeichnung des Transkripts</change>
-        <change who="FS" when="2023-04-17">Ergänzende Auszeichnungen</change>
-        <change who="FS" when="2023-11-10">Endabnahme</change>
-       
-     </revisionDesc>
-  </teiHeader>
-  <text type="potcard">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <salute>Lieber <rs ref="#tillich_person_id__1678" type="person">Salomon</rs></salute>
-        </opener>
-        <p>Ihr <rs ref="L00930" type="letter">Wunsch</rs> ist erfüllt, hoffentl. mit Erfolg! Vielen Dank für die Zusendung der <rs ref="#tillich_work_id__7" type="work">Jahrbücher</rs>, eine Sitte, für deren Fortführung ich Ihnen sehr dankbar wäre! Ich denke, daß
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Niklas von Hülsen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Niederlande</country>
+<settlement>Amsterdam</settlement>
+<institution>Koninklijke Nederlandse Akademie van Wetenschappen</institution>
+<repository>Internationaal Instituut voor Sociale Geschiedenis</repository>
+<collection>Gottfried Salomon-Delatour Papers, ARCH[01231]</collection>
+<idno>Inv.nr. 1172/9</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__126">Dresden</placeName>
+<date when="1927-01-28">28.01.1927</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1678">Gottfried Salomon</persName>
+<placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-11-09" who="NH">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-04-17" who="FS">Ergänzende Auszeichnungen</change>
+<change when="2023-11-10" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="potcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Lieber <rs ref="#tillich_person_id__1678" type="person">Salomon</rs></salute>
+</opener>
+<p>Ihr <rs ref="L00930" type="letter">Wunsch</rs> ist erfüllt, hoffentl. mit Erfolg! Vielen Dank für die Zusendung der <rs ref="#tillich_work_id__7" type="work">Jahrbücher</rs>, eine Sitte, für deren Fortführung ich Ihnen sehr dankbar wäre! Ich denke, daß
            ich bald einmal nach <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> komme und wir uns sehen können!
         </p>
-        <closer>
-           <salute>Herzlichen Gruß Ihnen und Ihrer <rs ref="#tillich_person_id__2304" type="person">Frau</rs></salute>
-           <signed>Ihr <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
-        </closer>      
-     </div>
-    </body>
-  </text>
+<closer>
+<salute>Herzlichen Gruß Ihnen und Ihrer <rs ref="#tillich_person_id__2304" type="person">Frau</rs></salute>
+<signed>Ihr <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

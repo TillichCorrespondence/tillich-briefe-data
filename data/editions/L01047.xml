@@ -1,118 +1,112 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01047">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom Herbst 1930</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01047" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom Herbst 1930</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="Wien">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="Wien">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
-                  <idno>bMS 721/2(27)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+<idno>bMS 721/2(27)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1930">1930</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-12-09">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2023-12-09">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="postcard">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
-                  >Hannah</rs>!</salute>
-            </opener>
-            <p>Zwei Karten von Dir:<note type="ea">Karten nicht überliefert.</note> Tausend Dank!
-               Gestern Vorm. <rs type="person" ref="#tillich_person_id__658">Gaugin</rs>. Sehr
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1930">1930</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-12-09" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-12-09" who="PS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Zwei Karten von Dir:<note type="ea">Karten nicht überliefert.</note> Tausend Dank!
+               Gestern Vorm. <rs ref="#tillich_person_id__658" type="person">Gaugin</rs>. Sehr
                schwach! Dann ein Höhepunkt. Gang durch den Tiergarten. Im Rosengarten Stimmung wie
-               im Luxemburg in <rs type="place" ref="#tillich_place_id__343">Paris</rs>. Mittagessen
-               mit <rs type="person" ref="#tillich_person_id__2657">Heiner</rs> und Dagma. Er in
+               im Luxemburg in <rs ref="#tillich_place_id__343" type="place">Paris</rs>. Mittagessen
+               mit <rs ref="#tillich_person_id__2657" type="person">Heiner</rs> und Dagma. Er in
                glänzender Stimmung: Austern etc. Mit <unclear cert="medium">Hanno</unclear>
                telephoniert. Sie war erst bös, ließ sich leicht versöhnen. Verabredung zu Freitag
-               mit <rs type="person" ref="#tillich_person_id__2657">Heiner</rs> (Er bezahlte alles!)
-               Nachmittag mit <rs type="person" ref="#tillich_person_id__1664">Rüstow</rs> bei <rs
-                  type="person" ref="#tillich_person_id__2094">Wolfers</rs>. Sehr wichtige
-               Besprechung im Sinne von <rs type="person" ref="#tillich_person_id__1307"
-                  >Carolus</rs>. Am Abend im Renaissancetheater. Fabelhaftes und grauenvolles Stück.
-               ("Ton in des Töpfers Hand".) Mit <rs type="person" ref="#tillich_person_id__1307"
-                  >Carolus</rs>' Freundin; Nachher Treffen mit Mischi und ihrem Freund. Sie sah
+               mit <rs ref="#tillich_person_id__2657" type="person">Heiner</rs> (Er bezahlte alles!)
+               Nachmittag mit <rs ref="#tillich_person_id__1664" type="person">Rüstow</rs> bei <rs ref="#tillich_person_id__2094" type="person">Wolfers</rs>. Sehr wichtige
+               Besprechung im Sinne von <rs ref="#tillich_person_id__1307" type="person">Carolus</rs>. Am Abend im Renaissancetheater. Fabelhaftes und grauenvolles Stück.
+               ("Ton in des Töpfers Hand".) Mit <rs ref="#tillich_person_id__1307" type="person">Carolus</rs>' Freundin; Nachher Treffen mit Mischi und ihrem Freund. Sie sah
                glänzend aus und schien sehr glücklich. Er ihr nicht ganz gemäß, aber sehr nett. –
-               Heute (Mittwoch) Vorm. <rs type="person" ref="#tillich_person_id__1583">Renoir</rs>
-               bei <rs type="person" ref="#tillich_person_id__2658">Flechtheim</rs>. <hi rend="u"
-                  >Viel besser</hi>. Nachm. mit <rs type="person" ref="#tillich_person_id__1672"
-                  >Emmy</rs> und <rs type="person" ref="#tillich_person_id__2349">Frau Behrens</rs>
-               auf dem Funkturm. <rs type="person" ref="#tillich_person_id__1672">Emmys</rs> Urteil
-               über <rs type="person" ref="#tillich_person_id__2349">Fr. B.</rs>: Fabelhaft schön
-               und gänzlich unzuverlässig." Auch auf dem Funkturm fühlte ich mich wie in <rs
-                  type="place" ref="#tillich_place_id__343">Paris</rs>.</p>
-            <closer>
-               <salute>Viele Grüße und Küsse!</salute>
-               <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+               Heute (Mittwoch) Vorm. <rs ref="#tillich_person_id__1583" type="person">Renoir</rs>
+               bei <rs ref="#tillich_person_id__2658" type="person">Flechtheim</rs>. <hi rend="u">Viel besser</hi>. Nachm. mit <rs ref="#tillich_person_id__1672" type="person">Emmy</rs> und <rs ref="#tillich_person_id__2349" type="person">Frau Behrens</rs>
+               auf dem Funkturm. <rs ref="#tillich_person_id__1672" type="person">Emmys</rs> Urteil
+               über <rs ref="#tillich_person_id__2349" type="person">Fr. B.</rs>: Fabelhaft schön
+               und gänzlich unzuverlässig." Auch auf dem Funkturm fühlte ich mich wie in <rs ref="#tillich_place_id__343" type="place">Paris</rs>.</p>
+<closer>
+<salute>Viele Grüße und Küsse!</salute>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

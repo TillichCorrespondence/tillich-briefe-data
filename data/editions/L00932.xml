@@ -1,97 +1,97 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00932">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Postkarte von Paul Tillich an Hannah Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00932" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Hannah Tillich
                     <lb/>vom 11. Februar 1927 [PS]
                 </title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name>Friedrich Schumann</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>        
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement>Cambridge, MA</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                        <idno>bMS 721/2(24)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Postkarte, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc> 
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__448">Tübingen</placeName>
-                    <date when="1927-02-11">11.02.1927</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-                    <placeName ref="#tillich_place_id__126">Dresden</placeName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change who="FS" when="2023-07-10">Initiale Auszeichnung des Transkripts</change>
-            <change who="FS" when="2023-11-10">Endabnahme</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    <text type="postcard">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener>
-                    <salute>Liebste süße <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-                </opener>
-                <p>Nachts habe ich immerzu von Dir geträumt und Tags immerzu an Dich gedacht – in Liebe und Sorge! Süße liebe <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>, wärst Du hier!! Sonst war die Fahrt angenehm; ich allein im Schlafabteil und meistens allein im Wach-Abteil. Es war auch nötig! Ich habe von <formula notation="TeX">\frac{1}{2}</formula> 9 bis <formula notation="TeX">\frac{1}{2}</formula> 5 ohne Unterbrechung am Vortrag<note type="ea">Wahrscheinlich handelte es sich um eine Version des Vortrags "Über gläubigen Realismus", den Tillich im Laufe des Jahres 1927 an den Universitäten Marburg, Tübingen und Halle hielt. Er wurde <rs ref="#tillich_work_id__18" type="work">1928 in den "Theologischen Blättern" veröffentlicht</rs> und zwei Jahre später in der <rs ref="#tillich_work_id__19" type="work">"Religiösen Verwirklichung"</rs> neu abgedruckt. In den Gesammelten Werken Paul Tillichs, Bd. IV, S. 88–106, ist er unter dem Titel <rs ref="#tillich_work_id__20" type="work">"Gläubiger Realismus II"</rs> abgedruckt.</note> gearbeitet. Draußen herrliche Sonnenlandschaft. In 10 Min. holt mich der Student zum Vortrag ab. Morgen den ganzen Vor<pb n="2"/>mittag Diskussion. – Ich fühle, daß Du mir hilfst.</p>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Friedrich Schumann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement>Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/2(24)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__448">Tübingen</placeName>
+<date when="1927-02-11">11.02.1927</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+<placeName ref="#tillich_place_id__126">Dresden</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-07-10" who="FS">Initiale Auszeichnung des Transkripts</change>
+<change when="2023-11-10" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Liebste süße <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Nachts habe ich immerzu von Dir geträumt und Tags immerzu an Dich gedacht – in Liebe und Sorge! Süße liebe <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>, wärst Du hier!! Sonst war die Fahrt angenehm; ich allein im Schlafabteil und meistens allein im Wach-Abteil. Es war auch nötig! Ich habe von <formula notation="TeX">\frac{1}{2}</formula> 9 bis <formula notation="TeX">\frac{1}{2}</formula> 5 ohne Unterbrechung am Vortrag<note type="ea">Wahrscheinlich handelte es sich um eine Version des Vortrags "Über gläubigen Realismus", den Tillich im Laufe des Jahres 1927 an den Universitäten Marburg, Tübingen und Halle hielt. Er wurde <rs ref="#tillich_work_id__18" type="work">1928 in den "Theologischen Blättern" veröffentlicht</rs> und zwei Jahre später in der <rs ref="#tillich_work_id__19" type="work">"Religiösen Verwirklichung"</rs> neu abgedruckt. In den Gesammelten Werken Paul Tillichs, Bd. IV, S. 88–106, ist er unter dem Titel <rs ref="#tillich_work_id__20" type="work">"Gläubiger Realismus II"</rs> abgedruckt.</note> gearbeitet. Draußen herrliche Sonnenlandschaft. In 10 Min. holt mich der Student zum Vortrag ab. Morgen den ganzen Vor<pb n="2"/>mittag Diskussion. – Ich fühle, daß Du mir hilfst.</p>
 <p>Ich habe auch versucht, Dir zu helfen!
                 </p>
-                <closer>
-                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-                </closer>
-            </div>
-        </body>
-    </text>
+<closer>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

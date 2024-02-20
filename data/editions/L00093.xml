@@ -1,136 +1,137 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00093">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Daniel Schuster, Christoph Rhein, Martin Stosch, Alfred Fritz,
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00093" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Daniel Schuster, Christoph Rhein, Martin Stosch, Alfred Fritz,
                Gottfried von Hanffstengel, H. Voget und Anton von Ganden(?) an Paul Tillich
                <lb/>1906</title>
-            <author ref="#tillich_person_id__2168">Daniel Schuster</author>
-            <author ref="#tillich_person_id__1591">Christoph Rhein</author>
-            <author ref="#tillich_person_id__2154">Martin Stosch</author>
-            <author ref="#tillich_person_id__641">Alfred Fritz</author>
-            <author ref="#tillich_person_id__788">Gottfried von Hanffstengel</author>
-            <author ref="#tillich_person_id__2155">H. Voget</author>
-            <author ref="#tillich_person_id__2226">Anton von Ganden (?)</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<author ref="#tillich_person_id__2168">Daniel Schuster</author>
+<author ref="#tillich_person_id__1591">Christoph Rhein</author>
+<author ref="#tillich_person_id__2154">Martin Stosch</author>
+<author ref="#tillich_person_id__641">Alfred Fritz</author>
+<author ref="#tillich_person_id__788">Gottfried von Hanffstengel</author>
+<author ref="#tillich_person_id__2155">H. Voget</author>
+<author ref="#tillich_person_id__2226">Anton von Ganden (?)</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/205(15)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/205(15)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__2168">Daniel Schuster</persName>
-               <persName ref="#tillich_person_id__1591">Christoph Rhein</persName>
-               <persName ref="#tillich_person_id__2154">Martin Stosch</persName>
-               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
-               <persName ref="#tillich_person_id__788">Gottfried von Hanffstengel</persName>
-               <persName ref="#tillich_person_id__2155">H. Voget</persName>
-               <persName ref="#tillich_person_id__2226">Anton von Ganden (?)</persName>
-               <placeName ref="#tillich_place_id__137">Feldberg</placeName>
-               <date when="1906">1906</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__448">Tübingen</placeName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-10-31">Intitale Auszeichnung des Transkripts</change>
-         <change who="EL" when="2024-02-06">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="postcard">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <p>Die herzlichsten Grüße vom Pfingstbummel sendet Dir Dein Conhaus <rs ref="#tillich_person_id__2168" type="person">Schuster</rs>. </p>
-         </div>
-         <div>
-            <p>ebenso <rs ref="#tillich_person_id__1591" type="person">C. Rhein</rs>, <figure>
-                  <figDesc>Wingolfssymbol</figDesc>
-               </figure>!</p>
-         </div>
-         <div>
-            <p><rs ref="#tillich_person_id__2154" type="person">Martin Stosch</rs>
-               <figure>
-                  <figDesc>Wingolfssymbol</figDesc>
-               </figure>!</p>
-         </div>
-         <div>
-            <p>Dein Schlatter<unclear>¿¿¿</unclear> L. B. <rs ref="#tillich_person_id__641" type="person">A.
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2168">Daniel Schuster</persName>
+<persName ref="#tillich_person_id__1591">Christoph Rhein</persName>
+<persName ref="#tillich_person_id__2154">Martin Stosch</persName>
+<persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+<persName ref="#tillich_person_id__788">Gottfried von Hanffstengel</persName>
+<persName ref="#tillich_person_id__2155">H. Voget</persName>
+<persName ref="#tillich_person_id__2226">Anton von Ganden (?)</persName>
+<placeName ref="#tillich_place_id__137">Feldberg</placeName>
+<date when="1906">1906</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__448">Tübingen</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-10-31" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-02-06" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<p>Die herzlichsten Grüße vom Pfingstbummel sendet Dir Dein Conhaus <rs ref="#tillich_person_id__2168" type="person">Schuster</rs>. </p>
+</div>
+<div>
+<p>ebenso <rs ref="#tillich_person_id__1591" type="person">C. Rhein</rs>, <figure>
+<figDesc>Wingolfssymbol</figDesc>
+</figure>!</p>
+</div>
+<div>
+<p><rs ref="#tillich_person_id__2154" type="person">Martin Stosch</rs>
+<figure>
+<figDesc>Wingolfssymbol</figDesc>
+</figure>!</p>
+</div>
+<div>
+<p>Dein Schlatter<unclear>¿¿¿</unclear> L. B. <rs ref="#tillich_person_id__641" type="person">A.
                Fritz</rs>, <figure>
-                  <figDesc>Wingolfssymbol</figDesc>
-               </figure>!</p>
-         </div>
-         <div>
-            <p><rs ref="#tillich_person_id__2226" type="person">Anton von <unclear>¿¿¿</unclear></rs>. <figure>
-                  <figDesc>Wingolfssymbol</figDesc>
-               </figure>!</p>
-         </div>
-         <div>
-            <p><rs ref="#tillich_person_id__788" type="person">G. v. Hanffstengel</rs>
-               <figure>
-                  <figDesc>Wingolfssymbol</figDesc>
-               </figure>!</p>
-         </div>
-         <div>
-            <p><rs ref="#tillich_person_id__2155" type="person">H. Voget</rs>. <figure>
-                  <figDesc>Wingolfssymbol</figDesc>
-               </figure>!</p>
-         </div>
-      </body>
-   </text>
+<figDesc>Wingolfssymbol</figDesc>
+</figure>!</p>
+</div>
+<div>
+<p><rs ref="#tillich_person_id__2226" type="person">Anton von <unclear>¿¿¿</unclear></rs>. <figure>
+<figDesc>Wingolfssymbol</figDesc>
+</figure>!</p>
+</div>
+<div>
+<p><rs ref="#tillich_person_id__788" type="person">G. v. Hanffstengel</rs>
+<figure>
+<figDesc>Wingolfssymbol</figDesc>
+</figure>!</p>
+</div>
+<div>
+<p><rs ref="#tillich_person_id__2155" type="person">H. Voget</rs>. <figure>
+<figDesc>Wingolfssymbol</figDesc>
+</figure>!</p>
+</div>
+</body>
+</text>
 </TEI>

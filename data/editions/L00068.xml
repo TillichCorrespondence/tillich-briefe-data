@@ -1,100 +1,101 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00068">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brieffragment von Johanna Tillich an Paul Tillich <lb/>vom 26. Juni 1905</title>
-            <author ref="#tillich_person_id__644">Johanna Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00068" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brieffragment von Johanna Tillich an Paul Tillich <lb/>vom 26. Juni 1905</title>
+<author ref="#tillich_person_id__644">Johanna Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/193</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig, fragmentarisch überliefert</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/193</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig, fragmentarisch überliefert</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__644">Johanna Tillich</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1905-06-26">26.06.1905</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-01-16">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2023-10-18">Endabnahme</change>
-         <change who="EL" when="2024-01-16">Korrektur</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>
-                  <date when="1905-06-26">26/Juni 05.</date></dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
-            </opener>
-            <p>heute sollst Du nun etwas längere Briefe von uns haben. Wiedermals danken wir Dir für
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__644">Johanna Tillich</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1905-06-26">26.06.1905</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-01-16" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-10-18" who="PS">Endabnahme</change>
+<change when="2024-01-16" who="EL">Korrektur</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>
+<date when="1905-06-26">26/Juni 05.</date></dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
+</opener>
+<p>heute sollst Du nun etwas längere Briefe von uns haben. Wiedermals danken wir Dir für
                die heutige Depesche<note type="ea">Der Brief von Paul Tillich ist nicht überliefert.</note> und danken auch
                   <rs ref="#tillich_person_id__2136" type="person"><hi rend="aq">E. Kaumann</hi></rs> recht sehr für
                seine Depesche am Sonntag und seinen ausführlichen Brief. Wir sind so froh, daß wir
                immer Nachricht durch ihn haben können. Nur, was wird aus Deinem Artikel, den Du doch
                in das<pb n="2"/> Jünglingsvereinsblatt setzen lassen wolltest? <rs ref="#tillich_person_id__2136" type="person"><hi rend="aq">E. Kaumann</hi></rs> hat mir kein Blatt mehr
                geschickt!</p>
-            <p>Heute Nachmittag ist <rs ref="#tillich_person_id__1924" type="person"><hi rend="aq">Papa</hi></rs> nach
+<p>Heute Nachmittag ist <rs ref="#tillich_person_id__1924" type="person"><hi rend="aq">Papa</hi></rs> nach
                   <rs ref="#tillich_place_id__181" type="place">Greifswald</rs> abgereist, nachdem er uns
                gestern Abend <del rend="s">uns</del> von der Disputation viel erzählt hat. <rs ref="#tillich_person_id__2224" type="person"><hi rend="aq">Onkel Paul</hi></rs> hat doch 9 Thesen
                aufestellt, von denen eine <rs ref="#tillich_person_id__1924" type="person"><hi rend="aq">Papa</hi></rs>,
@@ -104,21 +105,21 @@
                nennen. Es wird gewiß für <rs ref="#tillich_person_id__1924" type="person"><hi rend="aq">Papa</hi></rs>
                sehr interessant werden, Du wirst ja – hoffentlich – in der nächsten Woche mündlich
                davon hören.</p>
-            <p><rs ref="#tillich_person_id__2260" type="person"><hi rend="aq">Conrad</hi></rs> predigte über: Gott ist
+<p><rs ref="#tillich_person_id__2260" type="person"><hi rend="aq">Conrad</hi></rs> predigte über: Gott ist
                die Liebe u. s. w. sehr kurz u. schön, <rs ref="#tillich_person_id__1924" type="person"><hi rend="aq">Papa</hi></rs> hatte einen alttestamentlichen Text, seine Einteilung war 1.
                der Regenbogen ein <del rend="s">und</del>Bogen des Friedens,</p>
-            <p>2. Ein Bund Bogen d. Gnade</p>
-            <p>3. " " Verheißung. der Text steht in <rs type="bible" resp="Gen-9,9-16">1. Mose 9.
+<p>2. Ein Bund Bogen d. Gnade</p>
+<p>3. " " Verheißung. der Text steht in <rs resp="Gen-9,9-16" type="bible">1. Mose 9.
                   9-16</rs> .<pb n="4"/> Heute wollte <unclear>Stantha</unclear> zu uns kommen, sie
                ist jetzt allein, da Hanna mit Mann u. Kindern nach der See gereist ist. Donnerstag
                hat <rs ref="#tillich_person_id__2236" type="person">Tante Else</rs> hier Geburtstag, wir sind
                eingeladen, auch die Großeltern, Schmidts, Arndts.</p>
-            <p>Es ist gut, daß Du nicht einsam bist und so viel "liebe Brüder" hast, die dich
+<p>Es ist gut, daß Du nicht einsam bist und so viel "liebe Brüder" hast, die dich
                aufmuntern. Mußt Du lange liegen? Wenn es nur nicht so heiß für Dich ist, wie hier in
                      <rs type="place"><hi rend="aq">Berlin</hi></rs>. Ich freue mich, daß es bald
                weg geht! <hi rend="u">Hoffentlich</hi> wird es in <rs type="place"><hi rend="aq">Tübingen</hi></rs> hübsch, daß es Dir dann einigermaßen gut geht!</p>
-            <note type="ea">Es lässt sich im Archiv keinen Anschluss für den Brief finden.</note>
-         </div>
-      </body>
-   </text>
+<note type="ea">Es lässt sich im Archiv keinen Anschluss für den Brief finden.</note>
+</div>
+</body>
+</text>
 </TEI>

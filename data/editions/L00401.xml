@@ -1,96 +1,95 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00401">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Toni Winkler
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00401" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Toni Winkler
                     <lb/>vom 30. Oktober 1914
                 </title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name>Emil Lusser</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>        
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement>Cambridge, MA</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                        <idno>bMS 649/205(15)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig</p>
-                    </physDesc>
-                </msDesc>       
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc> 
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__61">Bieuxy</placeName>
-                    <date when="1914-10-30">30.10.1914</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__2085">Toni Winkler</persName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change who="EL" when="2022-04-19">Intitale Auszeichnung des Transkripts</change>
-            <change who="GM" when="2023-09-25"/>
-            
-            
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession1">
-                <pb n="1"/>
-                <opener>
-                    <dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, den <date when="1914-10-30">30.Okt. 1914.</date></dateline>
-                    <salute>Liebes <rs ref="#tillich_person_id__2085" type="person">Tonichen</rs>!</salute>
-                </opener>
-                <p>Es sind jetzt trübe Tage. Gestern bekam ich die Nachricht vom Tode <rs ref="#tillich_person_id__2050" type="person">Wolffs</rs>. <rs ref="#tillich_person_id__1931" type="person">Greti</rs> hatte mir schon von der schweren Verwundung geschrieben; noch hatte ich Hoffnung; da kam gestern durch <rs ref="#tillich_person_id__641" type="person">Alfred</rs> die Todesnachricht. Ein schwerer Druck lastet auf mir. Armes <rs ref="#tillich_person_id__1931" type="person">Gret</rs>, arme <rs ref="#tillich_person_id__2049" type="person">Mutter</rs>! Und doch ist es so groß, einen Tod zu haben, der Tat ist und Hingabe, daß man nicht kläglich trauern darf, sondern erschüttert stehen muß vor der Größe und der Tragik des Lebens.
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Emil Lusser</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement>Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS 649/205(15)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__61">Bieuxy</placeName>
+<date when="1914-10-30">30.10.1914</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__2085">Toni Winkler</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-04-19" who="EL">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-09-25" who="GM"/>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession1">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, den <date when="1914-10-30">30.Okt. 1914.</date></dateline>
+<salute>Liebes <rs ref="#tillich_person_id__2085" type="person">Tonichen</rs>!</salute>
+</opener>
+<p>Es sind jetzt trübe Tage. Gestern bekam ich die Nachricht vom Tode <rs ref="#tillich_person_id__2050" type="person">Wolffs</rs>. <rs ref="#tillich_person_id__1931" type="person">Greti</rs> hatte mir schon von der schweren Verwundung geschrieben; noch hatte ich Hoffnung; da kam gestern durch <rs ref="#tillich_person_id__641" type="person">Alfred</rs> die Todesnachricht. Ein schwerer Druck lastet auf mir. Armes <rs ref="#tillich_person_id__1931" type="person">Gret</rs>, arme <rs ref="#tillich_person_id__2049" type="person">Mutter</rs>! Und doch ist es so groß, einen Tod zu haben, der Tat ist und Hingabe, daß man nicht kläglich trauern darf, sondern erschüttert stehen muß vor der Größe und der Tragik des Lebens.
                     </p>
-                <p>Trübe sind auch die Nachrichten, die wir bekommen: Der Rückzug <unclear reason="damage" cert="high">der</unclear> Deutschen bei <rs ref="#tillich_place_id__466" type="place">Warschau</rs>; <unclear reason="damage" cert="high">der</unclear> russische Vormarsch auf <rs ref="#tillich_place_id__440" type="place">Thorn</rs>; die furchtbaren und doch wenig schaffenden Kämpfe im Westen an unserm rechten Flügel; und hier das ewige Warten und Festliegen. Diese ununterbrochene Kanonade, die doch nichts ändert; das Wetter trübe und regnerisch; der Lehm so tief, daß man selbst auf den Chausseen kaum durchkommt und die Pferde sich beim Reiten sehr quälen müssen. Nur ich selbst bin frisch und gesund wie selten, und die Arbeit ist und bleibt schön; <del rend="s">ha</del> Neulich drei Andachten vorn in den Artillerieschützengräben. Ich habe in einem Brief an <rs ref="#tillich_person_id__2296" type="person">Eckhardt</rs>, der mir Schokolade geschickt hat, näheres geschrieben; er wird ihn Euch [R<expan>eihenfolge</expan>: <rs ref="#tillich_person_id__2085" type="person">Toni</rs> – <rs ref="#tillich_person_id__1930" type="person">Großmama</rs> – <rs ref="#tillich_person_id__641" type="person">Alfred</rs> – <rs ref="#tillich_person_id__1931" type="person">Greti</rs> – <rs ref="#tillich_person_id__2085" type="person">Toni</rs>]<pb n="2"/>bringen. – Für heut die Schilderung des gestrigen Teilangriffs. Schon seit einigen Tagen wurde geflüstert, daß etwas am Werke sei<del rend="s">n</del>. Vier schwere Batterien waren angekommen, unsere wichtigste Waffe im gegenwärtigen Stellungskampf. Der Tag, der in Aussicht genommen war, verging ohne wesentliche Schießerei; der folgende fing neblig an, so daß Exzellenz bei Tisch seine Zweifel aussprach, daß was zu machen wäre; immerhin wurde mein Gottesdienst bei der VI. Batterie abgesagt. Als ich von zwei anderen Gottesdiensten zurückkam, war kein Zweifel mehr; heut Nacht gehts los. 12 Uhr Artillerie, 12 Uhr 30 Infanterieangriff. Ich beschloß natürlich, mit dem Stabe aufzubleiben. Wir saßen und tranken Bier; die Unterhaltung wurde stockend; Exzellenz, der sonst immer im <del rend="s">???</del> Mittelpunkt der Unterhaltung steht, sitzt einsilbig da. Zuletzt warten wir mit der Uhr in der Hand auf den Glockenschlag 12 – wie Sylvester, sagt der 1<hi rend="sup">te</hi> Adjudant mit Recht –. Exzellenz fragt mich, ob ich müde bin; ich sage, nicht mehr, ich wolle aufbleiben und eventuell nach <unclear><rs ref="#tillich_place_id__464" type="place">Ves.<expan>aponin</expan></rs></unclear>... zum Hauptverbandsplatz reiten zu Sterbenden, „wenn Eure Exzellenz gestatten“, wie die unvermeidliche Phrase lautet.<pb n="3"/>Endlich ist es so weit. Wir treten in den Hof. Mondschein und Sternenhimmel. Plötzlich klirren alle Fenster und auf die Ohren legt sich ein Druck, der nicht weichen will; von allen Seiten, von den Wänden zurückgeworfen, der Knall, das Rollen, das Dröhnen, das entsetzliche Zischen; es drängt sich zwischen den Ställen durch; es wälzt sich die Straße entlang; es hallt <sic>wieder</sic> von den Höhen; es schlägt klatschend immer von neuem ans Ohr; und dabei stehen die nächsten „schweren“ 4 km entfernt. <sic>Stum</sic> <unclear reason="damage" cert="high">und</unclear> <del rend="s">s</del> ernst steht der ganze Stab nebeneinander und horcht. Mich packt ein ähnliches Entsetzen, wie am Tage der Mobilisierung. Jetzt in jedem dieser Augenblicke <sic>sausend</sic> 100<hi rend="sup">te</hi> von Zentnern Eisen auf die <del rend="s">über</del> Schützengräben der Franzosen; wo sie hinschlagen, werden metertiefe Löcher gerissen und eine Feuer-Rauch-und-<del rend="s">???</del>Eisensäule von 10 m und mehr erhebt sich. In diesem Augenblick stehen wir hier und sehen, wie dort hinten Menschen wie wir die Hölle bereitet wird; und jeder von uns freut sich über jeden Zerrissenen und Verstümmelten den dieses Donnerwetter, das viel schlimmer ist, als alle die Gott machen kann, zu Stande bringt. Ich reiße mich<pb n="4"/>los und gehe zu meinem <rs ref="#tillich_person_id__1742" type="person">Burschen</rs>, wecke ihn und lasse ihn satteln; gepackt im Falle etwaigen Aufbruchs nach vorn oder hinten, hatten wir schon vorher; dann gehe ich auf die Höhe und sehe den ganzen Horizont einen dunkelroten Blitz nach dem andern aufleuchten, ein grandioses Schauspiel für Augen und Ohren. Ein Schauspiel, und die Mitspieler sind Blutende und Sterbende. Dann gehe ich zurück. Die Kanonade war in den oberen Oktaven begleitet worden durch ununterbrochene Infanteriesalven. Plötzlich hören diese auf; es ist 12 <hi rend="sup"><hi rend="u">30</hi></hi>, der Sturm beginnt. Dann <sic>gehn</sic> wir ins Zimmer und warten auf Nachrichten. Exzellenz spricht im Stabszimmer mit dem Generalstäbler. Im Eßzimmer folgt die Reaktion: Man bespricht kriegsgerichtliche Fälle zweideutigen Charakters mit ziemlich zynischer Offenheit, was ich bis daher noch nicht erlebt hatte. Endlich höre ich von 13 Verwundeten; es ist also kein Grund, wegzureiten und ich gehe ins Bett, etwa 2 Uhr. Morgens schlafe ich bis 10, höre, daß ein Erfolg nicht errungen ist; man kennt nur die feindlichen Positionen besser. Heut donnert es den ganzen Tag weiter. Verwundet sind etwa 50; werden nunmehr vom <unclear>Lazarettpfarrer</unclear> versorgt. – So endete das erste Gefecht, das ich erlebt habe. –</p>
-                <closer><salute>Es grüßt Dich herzlich.</salute>Dein tr. <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed></closer>
-            </div>
-        </body>
-    </text> 
+<p>Trübe sind auch die Nachrichten, die wir bekommen: Der Rückzug <unclear cert="high" reason="damage">der</unclear> Deutschen bei <rs ref="#tillich_place_id__466" type="place">Warschau</rs>; <unclear cert="high" reason="damage">der</unclear> russische Vormarsch auf <rs ref="#tillich_place_id__440" type="place">Thorn</rs>; die furchtbaren und doch wenig schaffenden Kämpfe im Westen an unserm rechten Flügel; und hier das ewige Warten und Festliegen. Diese ununterbrochene Kanonade, die doch nichts ändert; das Wetter trübe und regnerisch; der Lehm so tief, daß man selbst auf den Chausseen kaum durchkommt und die Pferde sich beim Reiten sehr quälen müssen. Nur ich selbst bin frisch und gesund wie selten, und die Arbeit ist und bleibt schön; <del rend="s">ha</del> Neulich drei Andachten vorn in den Artillerieschützengräben. Ich habe in einem Brief an <rs ref="#tillich_person_id__2296" type="person">Eckhardt</rs>, der mir Schokolade geschickt hat, näheres geschrieben; er wird ihn Euch [R<expan>eihenfolge</expan>: <rs ref="#tillich_person_id__2085" type="person">Toni</rs> – <rs ref="#tillich_person_id__1930" type="person">Großmama</rs> – <rs ref="#tillich_person_id__641" type="person">Alfred</rs> – <rs ref="#tillich_person_id__1931" type="person">Greti</rs> – <rs ref="#tillich_person_id__2085" type="person">Toni</rs>]<pb n="2"/>bringen. – Für heut die Schilderung des gestrigen Teilangriffs. Schon seit einigen Tagen wurde geflüstert, daß etwas am Werke sei<del rend="s">n</del>. Vier schwere Batterien waren angekommen, unsere wichtigste Waffe im gegenwärtigen Stellungskampf. Der Tag, der in Aussicht genommen war, verging ohne wesentliche Schießerei; der folgende fing neblig an, so daß Exzellenz bei Tisch seine Zweifel aussprach, daß was zu machen wäre; immerhin wurde mein Gottesdienst bei der VI. Batterie abgesagt. Als ich von zwei anderen Gottesdiensten zurückkam, war kein Zweifel mehr; heut Nacht gehts los. 12 Uhr Artillerie, 12 Uhr 30 Infanterieangriff. Ich beschloß natürlich, mit dem Stabe aufzubleiben. Wir saßen und tranken Bier; die Unterhaltung wurde stockend; Exzellenz, der sonst immer im <del rend="s">???</del> Mittelpunkt der Unterhaltung steht, sitzt einsilbig da. Zuletzt warten wir mit der Uhr in der Hand auf den Glockenschlag 12 – wie Sylvester, sagt der 1<hi rend="sup">te</hi> Adjudant mit Recht –. Exzellenz fragt mich, ob ich müde bin; ich sage, nicht mehr, ich wolle aufbleiben und eventuell nach <unclear><rs ref="#tillich_place_id__464" type="place">Ves.<expan>aponin</expan></rs></unclear>... zum Hauptverbandsplatz reiten zu Sterbenden, „wenn Eure Exzellenz gestatten“, wie die unvermeidliche Phrase lautet.<pb n="3"/>Endlich ist es so weit. Wir treten in den Hof. Mondschein und Sternenhimmel. Plötzlich klirren alle Fenster und auf die Ohren legt sich ein Druck, der nicht weichen will; von allen Seiten, von den Wänden zurückgeworfen, der Knall, das Rollen, das Dröhnen, das entsetzliche Zischen; es drängt sich zwischen den Ställen durch; es wälzt sich die Straße entlang; es hallt <sic>wieder</sic> von den Höhen; es schlägt klatschend immer von neuem ans Ohr; und dabei stehen die nächsten „schweren“ 4 km entfernt. <sic>Stum</sic> <unclear cert="high" reason="damage">und</unclear> <del rend="s">s</del> ernst steht der ganze Stab nebeneinander und horcht. Mich packt ein ähnliches Entsetzen, wie am Tage der Mobilisierung. Jetzt in jedem dieser Augenblicke <sic>sausend</sic> 100<hi rend="sup">te</hi> von Zentnern Eisen auf die <del rend="s">über</del> Schützengräben der Franzosen; wo sie hinschlagen, werden metertiefe Löcher gerissen und eine Feuer-Rauch-und-<del rend="s">???</del>Eisensäule von 10 m und mehr erhebt sich. In diesem Augenblick stehen wir hier und sehen, wie dort hinten Menschen wie wir die Hölle bereitet wird; und jeder von uns freut sich über jeden Zerrissenen und Verstümmelten den dieses Donnerwetter, das viel schlimmer ist, als alle die Gott machen kann, zu Stande bringt. Ich reiße mich<pb n="4"/>los und gehe zu meinem <rs ref="#tillich_person_id__1742" type="person">Burschen</rs>, wecke ihn und lasse ihn satteln; gepackt im Falle etwaigen Aufbruchs nach vorn oder hinten, hatten wir schon vorher; dann gehe ich auf die Höhe und sehe den ganzen Horizont einen dunkelroten Blitz nach dem andern aufleuchten, ein grandioses Schauspiel für Augen und Ohren. Ein Schauspiel, und die Mitspieler sind Blutende und Sterbende. Dann gehe ich zurück. Die Kanonade war in den oberen Oktaven begleitet worden durch ununterbrochene Infanteriesalven. Plötzlich hören diese auf; es ist 12 <hi rend="sup"><hi rend="u">30</hi></hi>, der Sturm beginnt. Dann <sic>gehn</sic> wir ins Zimmer und warten auf Nachrichten. Exzellenz spricht im Stabszimmer mit dem Generalstäbler. Im Eßzimmer folgt die Reaktion: Man bespricht kriegsgerichtliche Fälle zweideutigen Charakters mit ziemlich zynischer Offenheit, was ich bis daher noch nicht erlebt hatte. Endlich höre ich von 13 Verwundeten; es ist also kein Grund, wegzureiten und ich gehe ins Bett, etwa 2 Uhr. Morgens schlafe ich bis 10, höre, daß ein Erfolg nicht errungen ist; man kennt nur die feindlichen Positionen besser. Heut donnert es den ganzen Tag weiter. Verwundet sind etwa 50; werden nunmehr vom <unclear>Lazarettpfarrer</unclear> versorgt. – So endete das erste Gefecht, das ich erlebt habe. –</p>
+<closer><salute>Es grüßt Dich herzlich.</salute>Dein tr. <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed></closer>
+</div>
+</body>
+</text>
 </TEI>

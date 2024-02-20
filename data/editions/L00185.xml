@@ -1,114 +1,109 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00185">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Friedrich Banzhaf an Paul Tillich <lb/>vom 18. August 1907 </title>
-            <author ref="#tillich_person_id__131">Friedrich Banzhaf</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00185" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Friedrich Banzhaf an Paul Tillich <lb/>vom 18. August 1907 </title>
+<author ref="#tillich_person_id__131">Friedrich Banzhaf</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/122(49)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/122(49)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__131">Friedrich Banzhaf</persName>
-               <placeName ref="#tillich_place_id__241">Korntal</placeName>
-               <date when="1907-08-18">18.08.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-09-13">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2024-02-06">Vorbereitende Endabnahme</change>
-         <change who="EL" when="2024-02-20">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__241" type="place">Korntal b/Stuttg.</rs> d.
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__131">Friedrich Banzhaf</persName>
+<placeName ref="#tillich_place_id__241">Korntal</placeName>
+<date when="1907-08-18">18.08.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-09-13" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-02-06" who="PS">Vorbereitende Endabnahme</change>
+<change when="2024-02-20" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__241" type="place">Korntal b/Stuttg.</rs> d.
                      <date when="1907-08-18">18. Aug. 1907.</date></dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person"
-                  >Tillich</rs>!</salute>
-            </opener>
-            <p>Wenn mir mein Philistertestament richtig Bescheid sagt, so hast Du am <date when="1907-08-20">20. d. M.
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>!</salute>
+</opener>
+<p>Wenn mir mein Philistertestament richtig Bescheid sagt, so hast Du am <date when="1907-08-20">20. d. M.
                Geburtstag</date>. Da möchte ich nun auch unter denjenigen nicht fehlen, die Dich zu diesem
                Tage beglückwünschen. Ich wünsche Dir für Dein neues Lebensjahr reichen Gottessegen.
-               Vor allem hoffe ich, daß Du Dich gesundheitlich so erholst, daß Du ohne Gefahr <rs
-                  type="place" ref="#tillich_place_id__37">Berlin</rs> mit seiner rauchigen u.
+               Vor allem hoffe ich, daß Du Dich gesundheitlich so erholst, daß Du ohne Gefahr <rs ref="#tillich_place_id__37" type="place">Berlin</rs> mit seiner rauchigen u.
                stickigen Luft wieder aufsuchen kannst, um dort dann aus Büchern groß und klein
                Deinen Weisheitsdurst zu stillen; denn der muß ja nach der großen Statutenrevision
                groß riesengroß sein. Wenn ich nur auch etwas von Deinem großen Wissensdurst besäße.
-               Ich glaube fast wenn ich nach <rs type="place" ref="#tillich_place_id__37"
-                  >Berlin</rs> käme, ich würde meinen Durst mit dem guten Berliner Weißbier stillen
+               Ich glaube fast wenn ich nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> käme, ich würde meinen Durst mit dem guten Berliner Weißbier stillen
                und einer von Deinen Berliner Weißbierphilistern werden, anstatt<pb n="2"/> in den
                   <unclear cert="high">kirchlichen</unclear> Verhandlungen Deiner "Berliner
                Weißbierphilister" meinen engen "schwäbischen Horizont" zu weiten.</p>
-            <p>So gehe ich eben im nächsten Semester nach <rs type="place"
-                  ref="#tillich_place_id__448">Tübingen</rs>, um dort nach Kräften die Aufgabe
+<p>So gehe ich eben im nächsten Semester nach <rs ref="#tillich_place_id__448" type="place">Tübingen</rs>, um dort nach Kräften die Aufgabe
                auszuführen, die dort meiner harrt. Wie bang mir ist und wie schwer ich an die Sache
-               hinblicke habe ich Dir ja schon in <rs type="place" ref="#tillich_place_id__189">Ha</rs> gesagt, als Du mir
-               zusprachst nach <rs type="place" ref="#tillich_place_id__448">T.</rs> zu gehen. Ich
-               sehe etwas froher in die Zukunft, seit ich vorigen Montag in <rs type="place"
-                  ref="#tillich_place_id__448">Tüb.</rs> war und mit <unclear cert="medium"><rs
-                     ref="#tillich_person_id__2190" type="person">Spatz</rs></unclear> besonders
+               hinblicke habe ich Dir ja schon in <rs ref="#tillich_place_id__189" type="place">Ha</rs> gesagt, als Du mir
+               zusprachst nach <rs ref="#tillich_place_id__448" type="place">T.</rs> zu gehen. Ich
+               sehe etwas froher in die Zukunft, seit ich vorigen Montag in <rs ref="#tillich_place_id__448" type="place">Tüb.</rs> war und mit <unclear cert="medium"><rs ref="#tillich_person_id__2190" type="person">Spatz</rs></unclear> besonders
                aber mit <unclear cert="medium">Beck</unclear> Rücksprache nahm. Aber das ist ja
                nicht mehr als in der Ordnung, daß mir meine Schwäche u. das Gefühl meiner großen
                Verantwortung ins Bewußtsein kommt, wenn ich auf die stattliche Zahl meiner Füxe sehe
@@ -118,7 +113,7 @@
                   als<pb n="3"/> ein schwankend Rohr hin und hergetrieben werden. Daß sie Menschen
                werden, die auf die Frage: Wozu sind wir da? die richtige befriedigende Antwort
                finden, die sie dauernd befriedigt.</p>
-            <p>Wenn ich mir dieses überlege bin ich froh, daß ich <hi rend="u">ohne mein Zutun</hi>
+<p>Wenn ich mir dieses überlege bin ich froh, daß ich <hi rend="u">ohne mein Zutun</hi>
                Tübinger Fuxm. geworden bin. Aber ich will meiner Aufgabe getrost und mit gutem Mut
                ins Auge sehen. Denn ich sage mir zum christlichen Charakter kann niemand den andern
                   <hi rend="u">machen</hi>, vor allem darf sich ein Fuxmajor nicht als Schulmeister
@@ -131,19 +126,18 @@
                dieser Beziehung verspreche ich mir für mich selber auch den höchsten Gewinn, wenn es
                mir gelingen sollte, den Füxen ordentlich nahe zu kommen und mit ihnen auf diese
                Weise zu arbeiten. Für "freundliche" Ratschläge in dieser Beziehung bin ich sehr
-               empfänglich, denn ich weiß daß Du ein "freundliches" Herz auch gegen den neuen <hi
-                  rend="u"><rs type="place" ref="#tillich_place_id__448">Tüb.</rs> XX</hi> hast. –
+               empfänglich, denn ich weiß daß Du ein "freundliches" Herz auch gegen den neuen <hi rend="u"><rs ref="#tillich_place_id__448" type="place">Tüb.</rs> XX</hi> hast. –
                An meinem Conch.<expan>argierten</expan>
-               <rs ref="#tillich_person_id__2193" type="person">Gaiser</rs> hoffe ich einen Freund
+<rs ref="#tillich_person_id__2193" type="person">Gaiser</rs> hoffe ich einen Freund
                zu gewinnen, mit dem ich durch Dick und Dünn gehen kann. Das ist mir eine große
                Beruhigung. Ich habe ihn schon besucht.</p>
-            <closer>
-               <salute>Im übrigen wünsche ich Dir nochmals alles Gute für Dein neues Lebensjahr und
+<closer>
+<salute>Im übrigen wünsche ich Dir nochmals alles Gute für Dein neues Lebensjahr und
                   verbleibe Dein </salute>
-               <signed>getr. <rs ref="#tillich_person_id__131" type="person">Friedr.
+<signed>getr. <rs ref="#tillich_person_id__131" type="person">Friedr.
                   Banzhaf</rs></signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

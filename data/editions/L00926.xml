@@ -1,111 +1,102 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00926">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 8. Januar 1927 [PS]</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00926" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 8. Januar 1927 [PS]</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="Wien">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="Wien">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
-                  <idno>bMS 721/2(24)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+<idno>bMS 721/2(24)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1927-01-08">08.01.1927</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-               <placeName ref="#tillich_place_id__126">Dresden</placeName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-11-14">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2023-11-14">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="postcard">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
-                  >Hannah</rs>!</salute>
-            </opener>
-            <p>Gestern ein wichtiges Gespräch mit <rs type="person" ref="#tillich_person_id__445"
-                  >Deißmann</rs>. Er ahnte nichts von meiner theologischen Arbeit in <rs
-                  type="place" ref="#tillich_place_id__493">Dresden</rs>; und anscheinend nicht nur
-               er. Dann viel mit <rs type="person" ref="#tillich_person_id__2444"><rs type="person"
-                     ref="#tillich_person_id__2447">Thurmanns</rs></rs> über <rs type="person"
-                  ref="#tillich_person_id__2564">Kallen</rs>, die gestern Abend gekommen ist. Dann
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1927-01-08">08.01.1927</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+<placeName ref="#tillich_place_id__126">Dresden</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-11-14" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-11-14" who="PS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Gestern ein wichtiges Gespräch mit <rs ref="#tillich_person_id__445" type="person">Deißmann</rs>. Er ahnte nichts von meiner theologischen Arbeit in <rs ref="#tillich_place_id__493" type="place">Dresden</rs>; und anscheinend nicht nur
+               er. Dann viel mit <rs ref="#tillich_person_id__2444" type="person"><rs ref="#tillich_person_id__2447" type="person">Thurmanns</rs></rs> über <rs ref="#tillich_person_id__2564" type="person">Kallen</rs>, die gestern Abend gekommen ist. Dann
                   <unclear>Christians</unclear> und <unclear>M. L.</unclear> Alles in Ordnung! Dann
-               mit <rs type="person" ref="#tillich_person_id__2560">Ulli</rs> Theater (und
+               mit <rs ref="#tillich_person_id__2560" type="person">Ulli</rs> Theater (und
                dazwischen noch <unclear>Heiner Otto</unclear>) – – Heut den ganzen Tag Sitzung. Sie
-               haben mir ein <unclear cert="low">Sturm</unclear>-Billet geschenkt und <unclear
-                  cert="low">Genuß</unclear> etwas hingehen. <rs type="person"
-                  ref="#tillich_person_id__2094">Wolfers</rs> ist krank: Grippe. Morgen bei <rs
-                  type="person" ref="#tillich_person_id__1307">Mennicke</rs>, am Abend <rs
-                  type="person" ref="#tillich_person_id__1924">Vaterchen</rs> und dann noch eine
-               Nacht und dann – <rs type="person" ref="#tillich_person_id__1923">Hannah</rs> und <rs
-                  type="person" ref="#tillich_person_id__570">Erdmuthe</rs>.</p>
-            <closer>
-               <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+               haben mir ein <unclear cert="low">Sturm</unclear>-Billet geschenkt und <unclear cert="low">Genuß</unclear> etwas hingehen. <rs ref="#tillich_person_id__2094" type="person">Wolfers</rs> ist krank: Grippe. Morgen bei <rs ref="#tillich_person_id__1307" type="person">Mennicke</rs>, am Abend <rs ref="#tillich_person_id__1924" type="person">Vaterchen</rs> und dann noch eine
+               Nacht und dann – <rs ref="#tillich_person_id__1923" type="person">Hannah</rs> und <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs>.</p>
+<closer>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

@@ -1,101 +1,97 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00501">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich an Margarete Tillich <lb/>vom 12. August 1916 [PS] </title>
-            <author><persName ref="#tillich_person_id__1928">Paul Tillich</persName></author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Andreas Burri</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00501" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Margarete Tillich <lb/>vom 12. August 1916 [PS] </title>
+<author>Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Andreas Burri</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Briefe</collection>
-                  <idno>bMS 649/237</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig, fragmentarisch überliefert</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Briefe</collection>
+<idno>bMS 649/237</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig, fragmentarisch überliefert</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date when="1916-08-12">12.08.1916</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1925">Margarete Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="AB" when="2022-07-19">Intitale Auszeichnung des Transkripts</change>
-         <change who="AB" when="2022-07-19">Überprüfung und Ergänzung der Auszeichnungen</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="postcard">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <p> Wetter vorzüglich. Ich wohne an ei<unclear cert="high" reason="damage" resp="AB"
-                  >nem</unclear> Bergabhang mit herrlichem Blick <unclear reason="damage">¿¿¿ …
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1916-08-12">12.08.1916</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1925">Margarete Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-07-19" who="AB">Intitale Auszeichnung des Transkripts</change>
+<change when="2022-07-19" who="AB">Überprüfung und Ergänzung der Auszeichnungen</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<p> Wetter vorzüglich. Ich wohne an ei<unclear cert="high" reason="damage" resp="AB">nem</unclear> Bergabhang mit herrlichem Blick <unclear reason="damage">¿¿¿ …
                   ¿¿¿</unclear><lb/>
-               D<unclear reason="damage">¿¿¿ … ¿¿¿</unclear><lb/><note type="ea"
-                  >Die Karte wurde nachträglich an beiden Seiten beschnitten, so dass das
+               D<unclear reason="damage">¿¿¿ … ¿¿¿</unclear><lb/><note type="ea">Die Karte wurde nachträglich an beiden Seiten beschnitten, so dass das
                   quadratische Motiv auf der Vorderseite keinen Rand hat. Dadurch wurde ein großteil
-                  des Textes entfernt. Auf der Vorderseite sieht man <rs
-                     ref="#tillich_person_id__1928" type="person">Tillich</rs> zu Pferd. Rechts
-                  daneben seht sein Bursche <rs ref="#tillich_person_id__1742" type="person"
-                     >Schröder</rs>.</note>
-            </p>
-            <closer>
-               <salute>Viele herzliche Grüße! Dir und <rs ref="#tillich_person_id__1930"
-                     type="person">Großmama</rs><unclear>¿¿¿ … ¿¿¿</unclear></salute>
-            </closer>
-         </div>
-      </body>
-   </text>
+                  des Textes entfernt. Auf der Vorderseite sieht man <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> zu Pferd. Rechts
+                  daneben seht sein Bursche <rs ref="#tillich_person_id__1742" type="person">Schröder</rs>.</note>
+</p>
+<closer>
+<salute>Viele herzliche Grüße! Dir und <rs ref="#tillich_person_id__1930" type="person">Großmama</rs><unclear>¿¿¿ … ¿¿¿</unclear></salute>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

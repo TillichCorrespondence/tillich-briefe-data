@@ -1,128 +1,129 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00260">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Otto Heller an Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00260" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Otto Heller an Paul Tillich
                <lb/>vom 11. Januar 1908</title>
-            <author ref="#tillich_person_id__2138">Otto Heller</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<author ref="#tillich_person_id__2138">Otto Heller</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/151(56)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/151(56)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__2138">Otto Heller</persName>
-               <placeName ref="#tillich_place_id__189">Halle a. S.</placeName>
-               <date when="1908-01-11">11.01.1908</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-06-27">Intitale Auszeichnung des Transkripts</change>
-         <change who="EL" when="2023-09-20">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><date when="1908-01-11">11.I.08.</date></dateline>
-                  <address><rs ref="#tillich_place_id__189" type="place">Halle (Saale).</rs>
-                     <street>Goebenstr. 21.</street></address>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
-            </opener>
-            <p>Ich muß gestehen, ich bin sehr erschrocken bei der Nachricht von Deinem Kranksein;
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2138">Otto Heller</persName>
+<placeName ref="#tillich_place_id__189">Halle a. S.</placeName>
+<date when="1908-01-11">11.01.1908</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-06-27" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-09-20" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><date when="1908-01-11">11.I.08.</date></dateline>
+<address><rs ref="#tillich_place_id__189" type="place">Halle (Saale).</rs>
+<street>Goebenstr. 21.</street></address>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+</opener>
+<p>Ich muß gestehen, ich bin sehr erschrocken bei der Nachricht von Deinem Kranksein;
                   <rs ref="#tillich_person_id__128" type="person">Hans Balke</rs> teilte sie mir vorhin mit. – Was
                fehlt Dir eigentlich, u. wie entwickelt sich die Krankheit? Ist es nur eine starke
                Erkältung? – Ich würde mich freuen, wenn ich <hi rend="uu">bald</hi> darüber
                genaueres hören könnte!</p>
-            <p>Hoffentlich geht alles rasch u. gut vorüber, sodaß Du nicht allzulange an's Bett
+<p>Hoffentlich geht alles rasch u. gut vorüber, sodaß Du nicht allzulange an's Bett
                gebunden u. zur Untätigkeit gezwungen bist. Um Dir "in gewisser Weise" ein äußeres
                Zeichen meiner Teilnahme zu geben u. Dir eine Freude zu machen, schicke ich Dir eine
                Vergrößerung des Typs, das ich<pb n="2"/> von <rs ref="#tillich_person_id__310" type="person">Büchsel</rs>, <rs ref="#tillich_person_id__1982" type="person">v. d. Smissen</rs> u. <rs ref="#tillich_person_id__853" type="person">Heinzelmann</rs> gemacht habe, mit. Es ist ziemlich geraten u.
                haltbar; Du kannst Dir's einrahmen lassen. Wie alle Photographien darf es nicht zu
                sehr dem Sonnenlicht ausgesetzt werden. Aufziehen darf es nur ein Photograph, da das
                Bromsilber-Papier <hi rend="u">besonders</hi> behandelt sein will.</p>
-            <p>Für Deine freundl. Geburtstagswünsche sage ich Dir herzl. Dank; sie gehörten zu den
+<p>Für Deine freundl. Geburtstagswünsche sage ich Dir herzl. Dank; sie gehörten zu den
                wenigen, die schon am 5. kamen.</p>
-            <p>Ich sollte Dir nun eigentlich noch auf Deinen <rs type="letter" ref="L00252">"Weihnachtsbrief"</rs>  antworten u. auf das Einzelne eingehen, zumal Du am
+<p>Ich sollte Dir nun eigentlich noch auf Deinen <rs ref="L00252" type="letter">"Weihnachtsbrief"</rs>  antworten u. auf das Einzelne eingehen, zumal Du am
                Schluße jenes Briefes selber darum bittest.<pb n="3"/> Aber, Du wirst mich gewiß von
                dieser Pflicht entbinden; es berührt mich alles zu persönlich, sodaß mir's schwer
                würde, in aller Ruhe darüber zu discutieren, wie man etwa über das Wetter spricht u.
                anderes ähnlicher Art. Ich weiß nicht, wie ich mich ausdrücken soll, Du wirst mich
                aber gewiß verstehen.</p>
-            <p>Was Du sagst, ist gut u. richtig, nur geringe Ausstellungen habe ich dazu zu machen,
+<p>Was Du sagst, ist gut u. richtig, nur geringe Ausstellungen habe ich dazu zu machen,
                die ich bei Gelegenheit noch vorbringen werde.</p>
-            <p>Kurz gesagt: Über Deinen Weihnachtsbrief habe ich mich sehr gefreut, wie überhaupt
+<p>Kurz gesagt: Über Deinen Weihnachtsbrief habe ich mich sehr gefreut, wie überhaupt
                über jedes Lebenszeichen, das ich von Dir erhalte. <hi rend="u">Was</hi> Du mir
                geschrieben hast, hat mir <hi rend="u">viel zu denken</hi> gegeben. Und<pb n="4"/>
                somit war Dein Brief nicht vergebens geschrieben.</p>
-            <p>Ich will für heute nicht <hi rend="u">mehr</hi> schreiben, da mir meine <hi rend="uu">Arbeiten</hi> nicht die <hi rend="u">Zeit</hi> lassen; ich hätte überhaupt mit
+<p>Ich will für heute nicht <hi rend="u">mehr</hi> schreiben, da mir meine <hi rend="uu">Arbeiten</hi> nicht die <hi rend="u">Zeit</hi> lassen; ich hätte überhaupt mit
                dem Schreiben noch gewartet, wenn nicht plötzl. dieser äußere Anlaß gekommen
                wäre.</p>
-            <p>Nun Schluß! – Ich habe nur den einen u. aufrichtigen Wunsch, daß Du recht bald wieder
+<p>Nun Schluß! – Ich habe nur den einen u. aufrichtigen Wunsch, daß Du recht bald wieder
                ganz gesund u. munter sein <del rend="s">werdest</del> mögest, u. bleibe in Treue</p>
-            <closer>
-               <signed>Dein <rs ref="#tillich_person_id__2138" type="person">O. Heller</rs></signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<signed>Dein <rs ref="#tillich_person_id__2138" type="person">O. Heller</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

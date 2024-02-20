@@ -1,127 +1,113 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00508">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Maria Klein <lb/>vom Oktober 1916 </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00508" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Maria Klein <lb/>vom Oktober 1916 </title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/178(5)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-
-            </msDesc>
-
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/178(5)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__328">ohne Ort</placeName>
-               <date notBefore="1916-10-01" notAfter="1916-10-31">10.1916</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1594">Maria Klein</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-05-10">Intitale Auszeichnung des Transkripts</change>
-         <change who="GM" when="2023-12-13">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <salute>Liebe <rs ref="#tillich_person_id__1594" type="person">Maria</rs>!</salute>
-            </opener>
-            <p>Herzlichen Dank für Deine Briefe und Photographien. Ich freue mich sehr für Dich,
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__328">ohne Ort</placeName>
+<date notAfter="1916-10-31" notBefore="1916-10-01">10.1916</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1594">Maria Klein</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-05-10" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-12-13" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Liebe <rs ref="#tillich_person_id__1594" type="person">Maria</rs>!</salute>
+</opener>
+<p>Herzlichen Dank für Deine Briefe und Photographien. Ich freue mich sehr für Dich,
                dass Du <rs ref="#tillich_person_id__374" type="person">Deinen Freund</rs> hast sehen
-               können; er sieht auf dem Bilde ungleich männlicher aus als früher, wo ich ihn in <rs
-                  ref="#tillich_place_id__41" type="place">Lichtenrade</rs> sah. Das Bild von <rs
-                  ref="#tillich_person_id__2020" type="person">Dox</rs> ist hervorragend. Du siehst
+               können; er sieht auf dem Bilde ungleich männlicher aus als früher, wo ich ihn in <rs ref="#tillich_place_id__41" type="place">Lichtenrade</rs> sah. Das Bild von <rs ref="#tillich_person_id__2020" type="person">Dox</rs> ist hervorragend. Du siehst
                auf beiden Bildern zu sehr in die Wolken. – Heut Nacht habe ich von Euch allen
                geträumt und zwar im Anschluss an die Karte aus dem neuen Kaffee am Potsdamer Platz.
                Ihr befandet Euch auf einer Galerie, und es war aus irgend einem Grunde schwer für
                mich, an Euch zu kommen. Aber Eure Gesichter sah ich alle ganz deutlich, und das ist
                mir jetzt noch eine Freude, wo ich dran denke. So genügsam wird man hier. – Durch
-               einen Zufall war es mir möglich, mich mit <rs ref="#tillich_person_id__1931"
-                  type="person">Greti</rs> drei Tage in <rs ref="#tillich_place_id__442"
-                  type="place">Trier</rs> zu treffen; am zweiten Abend kam ein Telegramm von <rs
-                  ref="#tillich_person_id__252" type="person">Exzellenz</rs>, daß noch 8 Tage
+               einen Zufall war es mir möglich, mich mit <rs ref="#tillich_person_id__1931" type="person">Greti</rs> drei Tage in <rs ref="#tillich_place_id__442" type="place">Trier</rs> zu treffen; am zweiten Abend kam ein Telegramm von <rs ref="#tillich_person_id__252" type="person">Exzellenz</rs>, daß noch 8 Tage
                bewilligt sind, ohne daß ich darum bat; es lag daran, daß wir immerzu hin- und
                herzogen, so daß Gottesdienste doch nicht möglich waren. So machte ich denn eine
-               entzückende Moseltour nach <rs ref="#tillich_place_id__56" type="place"
-                  >Bernkastel</rs>,<pb n="2"/>
-               <rs ref="#tillich_place_id__441" type="place">Trarbach</rs>, <rs
-                  ref="#tillich_place_id__57" type="place">Bertrich</rs>, <rs
-                  ref="#tillich_place_id__110" type="place">Cochem</rs> --- und erlebte so durch
+               entzückende Moseltour nach <rs ref="#tillich_place_id__56" type="place">Bernkastel</rs>,<pb n="2"/>
+<rs ref="#tillich_place_id__441" type="place">Trarbach</rs>, <rs ref="#tillich_place_id__57" type="place">Bertrich</rs>, <rs ref="#tillich_place_id__110" type="place">Cochem</rs> --- und erlebte so durch
                Zufall eigentlich den schönsten Urlaub überhaupt. Nun gehts in das Allerwüsteste, das
                es gibt, das kostet wieder Blut und Nerven, mehr noch als das, was ich Euch erzählte.
                Aber es ist auch etwas Großes, immer an den entscheidensten Stellen zu stehen.
                ---</p>
-            <p>Gestern las ich ein paar Artikel von <rs ref="#tillich_person_id__1954" type="person"
-                  >Troeltsch</rs> in der Christlichen Welt über <rs ref="#tillich_work_id__71"
-                  type="work"><rs ref="#tillich_work_id__72" type="work"><rs
-                        ref="#tillich_work_id__73" type="work">"Konservativ und
+<p>Gestern las ich ein paar Artikel von <rs ref="#tillich_person_id__1954" type="person">Troeltsch</rs> in der Christlichen Welt über <rs ref="#tillich_work_id__71" type="work"><rs ref="#tillich_work_id__72" type="work"><rs ref="#tillich_work_id__73" type="work">"Konservativ und
                   Liberal"</rs></rs></rs>; sie regten mich mal wieder zu allerhand Gedanken und
                Entwürfen an, ein lang entbehrter Genuß. Er ist immer sehr interessant und sehr
                entwicklungsbedürftig; es ist alles halbfertig gärend bei ihm. Aber ich habe gedacht,
                daß es vielleicht ein guter Anknüpfungspunkt für uns ist. – Was macht Euer Studium?
-               Schreibt mal wieder was, besonders wenn Ihr gute Kollegs besucht habt. Deine <rs
-                  ref="#tillich_work_id__74" type="work">Rektoratsrede</rs> von <rs
-                  ref="#tillich_person_id__1954" type="person">Troeltsch</rs> habe ich damals mit
+               Schreibt mal wieder was, besonders wenn Ihr gute Kollegs besucht habt. Deine <rs ref="#tillich_work_id__74" type="work">Rektoratsrede</rs> von <rs ref="#tillich_person_id__1954" type="person">Troeltsch</rs> habe ich damals mit
                Hochgenuß gelesen;<note type="ea">Wahrscheinlich ist die Rede vom 27. Januar 1916,
                   die <rs ref="#tillich_person_id__1954" type="person">Troeltsch</rs> im Auftrage
                   des Rektors der Humboldt Universität hielt, gemeint. Alle anderen Rektoratsreden
@@ -130,12 +116,10 @@
                   Vgl. <rs ref="L00481" type="letter">Brief vom 16. Mai 1916.</rs></note> schicke
                mir öfter so etwas. Und alle Briefe und Photographien von Dir und Euch allen sind mir
                immer eine große Freude! </p>
-            <closer>
-               <salute>Sei herzlich gegrüßt von Deinem <rs ref="#tillich_person_id__1928"
-                     type="person">Paul</rs> und grüße <rs ref="#tillich_person_id__1063"
-                     type="person">Mutti</rs> und alle anderen. --</salute>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<salute>Sei herzlich gegrüßt von Deinem <rs ref="#tillich_person_id__1928" type="person">Paul</rs> und grüße <rs ref="#tillich_person_id__1063" type="person">Mutti</rs> und alle anderen. --</salute>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

@@ -1,109 +1,105 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01046">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom Herbst 1930</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01046" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom Herbst 1930</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="Wien">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="Wien">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
-                  <idno>bMS 721/2(27)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+<idno>bMS 721/2(27)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1930">1930</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-12-09">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2023-12-09">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="postcard">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
-                  >Hannah</rs>!</salute>
-            </opener>
-            <p>Eben mit <rs type="person" ref="#tillich_person_id__1672">Emmy</rs> gefrühstückt.
-               Jetzt telephoniert sie ins Unendliche. Gestern Abend war ich mit <rs type="person"
-                  ref="#tillich_person_id__2349">Frau Behrens</rs> in der Haller-Revue. Sie ist
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1930">1930</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-12-09" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-12-09" who="PS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Eben mit <rs ref="#tillich_person_id__1672" type="person">Emmy</rs> gefrühstückt.
+               Jetzt telephoniert sie ins Unendliche. Gestern Abend war ich mit <rs ref="#tillich_person_id__2349" type="person">Frau Behrens</rs> in der Haller-Revue. Sie ist
                recht schlecht gegen die früheren, die ich dort gesehen habe; und immer dasselbe
-               Überlebte Sache. <rs type="person" ref="#tillich_person_id__2349">Frau Behrens</rs>
+               Überlebte Sache. <rs ref="#tillich_person_id__2349" type="person">Frau Behrens</rs>
                war sehr niedergeschlagen. Ihre Lage ist völlig verzweifelt. Sie sucht jetzt Kino,
-               Theater und was es gibt. Heut oder morgen bringe ich sie mit <rs type="person"
-                  ref="#tillich_person_id__1672">Emmy</rs> zusammen, die ihr einige Werbedinge
-               verschaffen kann. – Nach der Revue waren wir noch eine Stunde mit <rs type="person"
-                  ref="#tillich_person_id__1307">Carolus</rs> und seiner Freundin zusammen. Dann
-               sauste mit der letzten Elektrischen zu ihrem Kranken <unclear cert="low"
-                  >Doctor</unclear>. Sie hat es wirklich schwer und sagte mir, sie hätte einen Bruch
+               Theater und was es gibt. Heut oder morgen bringe ich sie mit <rs ref="#tillich_person_id__1672" type="person">Emmy</rs> zusammen, die ihr einige Werbedinge
+               verschaffen kann. – Nach der Revue waren wir noch eine Stunde mit <rs ref="#tillich_person_id__1307" type="person">Carolus</rs> und seiner Freundin zusammen. Dann
+               sauste mit der letzten Elektrischen zu ihrem Kranken <unclear cert="low">Doctor</unclear>. Sie hat es wirklich schwer und sagte mir, sie hätte einen Bruch
                in sich durch all die Dinge. – Ich warte gespannt auf Nachricht von Dir! – Anbei eine
                Dienstmädchen-Karte. – Hier ist herrliches Herbstwetter.</p>
-            <closer>
-               <salute>Viele herzliche Grüße!</salute>
-               <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<salute>Viele herzliche Grüße!</salute>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

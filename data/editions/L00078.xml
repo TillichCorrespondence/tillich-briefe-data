@@ -1,95 +1,96 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00078">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Marlen Kandeler an Paul Tillich <lb/>vom 19. Juli 1905 </title>
-            <author ref="#tillich_person_id__1017">Marlen Kandeler</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00078" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Marlen Kandeler an Paul Tillich <lb/>vom 19. Juli 1905 </title>
+<author ref="#tillich_person_id__1017">Marlen Kandeler</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008E</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008E</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1017">Marlen Kandeler</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1905-07-19">19.07.1905</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName>Tübingen</placeName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-08-20">Intitale Auszeichnung des Transkripts</change>
-         <change who="EL" when="2024-01-17">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__37" type="place">B.</rs> d. <date when="1905-07-19">19. VII.
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1017">Marlen Kandeler</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1905-07-19">19.07.1905</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName>Tübingen</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-08-20" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-01-17" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__37" type="place">B.</rs> d. <date when="1905-07-19">19. VII.
                      05.</date></dateline>
-               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Freund</rs>!</salute>
-            </opener>
-            <p>Wie lieb von Dir, daß Du feurige Kohlen auf mein Haupt sammelst und mir trotz meines
+<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Freund</rs>!</salute>
+</opener>
+<p>Wie lieb von Dir, daß Du feurige Kohlen auf mein Haupt sammelst und mir trotz meines
                Schweigens wieder schreibst. Ich komme Dir einen Hochachtungsschluck (in Kaffee!) –
                Von Herzen freue ich mich, daß es Dir schon besser geht und ebenso herzlich wünsche
-               ich Dir baldige, völlige Genesung!<note type="ea">Paul Tillich hatte während des Sommersemesters 1905 in Tübingen wiederholt eine Ohrenerkankung. Vgl. <rs type="letter" ref="L00056">Brief von Toni Winkler an Paul Tillich vom 19. Mai 1905</rs>, <rs type="letter" ref="L00065">Brief von Johannes Tillich an Paul Tillich vom 23. Juni 1905</rs>, <rs type="letter" ref="L00067">Brief von Gerich an Paul Tillich vom 26. Juni 1905</rs>, sowie <rs type="work" ref="#tillich_work_id__97" n="541">GW XIII, 541</rs>;<rs type="work" ref="#tillich_work_id__96" n="26">EW V, 26</rs>.</note> Wenn es Dich nicht zu sehr<pb n="2"/> anstrengt,
+               ich Dir baldige, völlige Genesung!<note type="ea">Paul Tillich hatte während des Sommersemesters 1905 in Tübingen wiederholt eine Ohrenerkankung. Vgl. <rs ref="L00056" type="letter">Brief von Toni Winkler an Paul Tillich vom 19. Mai 1905</rs>, <rs ref="L00065" type="letter">Brief von Johannes Tillich an Paul Tillich vom 23. Juni 1905</rs>, <rs ref="L00067" type="letter">Brief von Gerich an Paul Tillich vom 26. Juni 1905</rs>, sowie <rs n="541" ref="#tillich_work_id__97" type="work">GW XIII, 541</rs>;<rs n="26" ref="#tillich_work_id__96" type="work">EW V, 26</rs>.</note> Wenn es Dich nicht zu sehr<pb n="2"/> anstrengt,
                würde ich mich <hi rend="u">sehr</hi> über einen ausführlichen Bericht von Dir u.
                Deinem jetzigem Leben freuen. Ich habe gehört, daß Du schon Andachten dem Druck
                übergeben hast. Wie gern würde ich mal eine davon haben. Du denkst
@@ -97,31 +98,31 @@
                im ganzen Wert erfassen. Nun, ich meine, da Deine <sic>Schreiften</sic> religiösen
                Inhaltes sind, wird das Verständnis des Herzens da einsetzen wo<pb n="3"/> mein
                schwacher Geist zurückbleibt. - -</p>
-            <p>Mein <rs type="person" ref="#tillich_person_id__2728">Vater</rs> war 6 Wochen von Amts wegen in <rs type="place" ref="#tillich_place_id__260">Leipzig</rs> um Vorträge
-               über seine Schule mit anzuhören. Da fuhr <rs type="person" ref="#tillich_person_id__2729">Mutter</rs> mit den drei Bubis nach einem Gut
-               Falkenwalde bei <rs type="place" ref="#tillich_place_id__545">Ravenstein i. P.</rs> Jetzt ist die ganze Familie
-               in <rs type="place" ref="#tillich_place_id__424">Swinemünde</rs>. Ich muß natürlich, da ich im ersten Jahr keinen
+<p>Mein <rs ref="#tillich_person_id__2728" type="person">Vater</rs> war 6 Wochen von Amts wegen in <rs ref="#tillich_place_id__260" type="place">Leipzig</rs> um Vorträge
+               über seine Schule mit anzuhören. Da fuhr <rs ref="#tillich_person_id__2729" type="person">Mutter</rs> mit den drei Bubis nach einem Gut
+               Falkenwalde bei <rs ref="#tillich_place_id__545" type="place">Ravenstein i. P.</rs> Jetzt ist die ganze Familie
+               in <rs ref="#tillich_place_id__424" type="place">Swinemünde</rs>. Ich muß natürlich, da ich im ersten Jahr keinen
                Urlaub bekomme, hierbleiben. Ich esse jetzt mittags immer<pb n="4"/> mit Tante R.
-               <rs type="person" ref="#tillich_person_id__2736">Wiechel</rs> zusammen. Ich sagte ihr Deine Adr. Sie wird Dir auch schreiben.<note type="ea">Es ist keine Korrespondenz überliefert.</note> Die Kinder
+               <rs ref="#tillich_person_id__2736" type="person">Wiechel</rs> zusammen. Ich sagte ihr Deine Adr. Sie wird Dir auch schreiben.<note type="ea">Es ist keine Korrespondenz überliefert.</note> Die Kinder
                sind nun schon bald 5 Wochen fort. Der Abschied ist mir sehr schwer geworden. Es ist
                doch drollig, daß wir Männchen beide zum Liebling haben. -</p>
-            <p>Nun bekommst Du ja sehr bald Ferien nicht? Ich freue mich schon auf das Wiedersehen.
+<p>Nun bekommst Du ja sehr bald Ferien nicht? Ich freue mich schon auf das Wiedersehen.
                Hoffentlich hat Deine Würde als Tübinger Student Dich so gebessert, daß Du mich nicht
                wie sonst braun u. blau zwickst, sondern, daß man in Vernunft mal reden kann? - Lege
-               doch, bitte, bei <rs type="person" ref="#tillich_person_id__644">Hanna</rs> ein gutes Wort für mich ein. Sie ist mir Recht böse, weil ich
+               doch, bitte, bei <rs ref="#tillich_person_id__644" type="person">Hanna</rs> ein gutes Wort für mich ein. Sie ist mir Recht böse, weil ich
                vor ihrer Abreise nicht kam, obgleich ich es vorher versprochen hatte. Entschuldige,
                bitte, die Schmiererei, aber ich habe nicht viel Zeit u. sonst wirds wieder nichts
                mit ein paar Zeilen für Dich. </p>
-            <closer>
-               <salute>Mit herzlichem Gruß bin ich in alter Freundschaft u. Treue </salute>
-               <signed>Deine <rs ref="#tillich_person_id__1017" type="person">M. Kandeler</rs></signed>
-            </closer>
-            <postscript>
-               <p>Es ist recht drollig, daß ich einem Studenten ein Stückchen Schokolade schicke.
+<closer>
+<salute>Mit herzlichem Gruß bin ich in alter Freundschaft u. Treue </salute>
+<signed>Deine <rs ref="#tillich_person_id__1017" type="person">M. Kandeler</rs></signed>
+</closer>
+<postscript>
+<p>Es ist recht drollig, daß ich einem Studenten ein Stückchen Schokolade schicke.
                   Aber ich weiß Du isst sie gern u. deshalb hoffe ich, daß du mich nicht zu sehr
                   auslachst. - </p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

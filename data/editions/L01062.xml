@@ -1,96 +1,95 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01062">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich an Hannah Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01062" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Hannah Tillich
                <lb/>vom 10. März 1930 [PS]
             </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Friedrich Schumann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="Wien">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                  <idno>bMS 721/2(27)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte (Motiv: Eine Frau und drei Kinder in niederländischer Tracht, dazu die Motivunterschrift: <rs ref="#tillich_place_id__525" type="place">Volendam</rs>), eigenhändig</p>
-                  </physDesc>
-            </msDesc>     
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__527">Groningen [PS]</placeName>
-              <date when="1930-03-10">10.03.1930</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-              <placeName ref="#tillich_place_id__37">Frankfurt a. M.</placeName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="FS" when="2023-12-13">Initiale Auszeichnung des Transkripts und Endabnahme</change>
-        
-       
-     </revisionDesc>
-  </teiHeader>
-  <text type="postcard">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>   
-           <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-        </opener>
-        <p>Ich schwimme auf dem <rs ref="#tillich_place_id__528" type="place">Zuidersee</rs>, leider ohne Wellen, alles Grau in Grau, herrlich für mich, nichts für Dich! <date when="1930-03-09">Gestern</date> Abend mit <hi rend="aq"><unclear><rs ref="#tillich_person_id__2664" type="person">Rivera</rs></unclear></hi> durch <rs ref="#tillich_place_id__12" type="place">Amsterdam</rs> gegangen. Ich komme, falls kein Gegentelegramm, <hi rend="u"><date when="1930-03-12">Mittwoch</date> Abend 22 45 ungefähr</hi>.</p>
-        <closer><salute>Auf Wiedersehen,</salute>
-           <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-        </closer>
-        <postscript><p><pb n="2"/>für <hi rend="aq">Erdmuthe</hi><note type="ea">Bezieht sich auf das Kartenmotiv.</note></p></postscript>
-     </div>
-    </body>
-  </text>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Friedrich Schumann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="Wien">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS 721/2(27)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte (Motiv: Eine Frau und drei Kinder in niederländischer Tracht, dazu die Motivunterschrift: <rs ref="#tillich_place_id__525" type="place">Volendam</rs>), eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__527">Groningen [PS]</placeName>
+<date when="1930-03-10">10.03.1930</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+<placeName ref="#tillich_place_id__37">Frankfurt a. M.</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-12-13" who="FS">Initiale Auszeichnung des Transkripts und Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Ich schwimme auf dem <rs ref="#tillich_place_id__528" type="place">Zuidersee</rs>, leider ohne Wellen, alles Grau in Grau, herrlich für mich, nichts für Dich! <date when="1930-03-09">Gestern</date> Abend mit <hi rend="aq"><unclear><rs ref="#tillich_person_id__2664" type="person">Rivera</rs></unclear></hi> durch <rs ref="#tillich_place_id__12" type="place">Amsterdam</rs> gegangen. Ich komme, falls kein Gegentelegramm, <hi rend="u"><date when="1930-03-12">Mittwoch</date> Abend 22 45 ungefähr</hi>.</p>
+<closer><salute>Auf Wiedersehen,</salute>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+<postscript><p><pb n="2"/>für <hi rend="aq">Erdmuthe</hi><note type="ea">Bezieht sich auf das Kartenmotiv.</note></p></postscript>
+</div>
+</body>
+</text>
 </TEI>

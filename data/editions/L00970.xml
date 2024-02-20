@@ -1,111 +1,107 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00970">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Hannah Tillich an Paul Tillich <lb/>vom 16. März 1928 [PS]</title>
-            <author ref="P01925">Hannah Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00970" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Hannah Tillich an Paul Tillich <lb/>vom 16. März 1928 [PS]</title>
+<author ref="P01925">Hannah Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="Wien">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="Wien">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="Marburg">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul Tillich Archiv</repository>
-                  <idno>023 Rollfilm Nr. 3</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="Marburg">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul Tillich Archiv</repository>
+<idno>023 Rollfilm Nr. 3</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-               <placeName ref="#tillich_place_id__251">Laigueglia</placeName>
-               <date when="1928-03-16">16.03.1928</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-08-23">Intitale Auszeichnung des Transkripts</change>
-         <change who="FS" when="2023-11-14">Endabnahme</change>
-
-
-      </revisionDesc>
-   </teiHeader>
-   <text type="postcard">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paulus</rs>!</salute>
-            </opener>
-            <p>Wir sitzen auf dem Bahnhof <rs ref="#tillich_place_id__174" type="place">Genova</rs> Sampierdarena und warten auf den Zug. Es ist so
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+<placeName ref="#tillich_place_id__251">Laigueglia</placeName>
+<date when="1928-03-16">16.03.1928</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-08-23" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-11-14" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paulus</rs>!</salute>
+</opener>
+<p>Wir sitzen auf dem Bahnhof <rs ref="#tillich_place_id__174" type="place">Genova</rs> Sampierdarena und warten auf den Zug. Es ist so
                warm, dass mir in der schattigen Halle mein Kostüm und Mantel zu warm ist.
                Wintermantel Gottseidank nicht mitgenommen.</p>
-            <p>Und jetzt ist es abend und wir haben die
+<p>Und jetzt ist es abend und wir haben die
                lange Fahrt im Bummelzug an der Riviera entlang hinter uns. <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> liegt im Bett und schläft und ich bin bereits mit H.<note type="ea">Meint vermutlich <rs ref="#tillich_person_id__688" type="person">Heinrich Goesch</rs>.</note> 20
                Minuten am Meer entlang gegangen, das sehr schönen Sandstrand hat – Unterkunft im
                einzigen Hotel direkt am Meer, Zimmer im ersten Stock, Fenster auf das Meer –
                Adresse: Albagio Laiguelgia – <rs ref="#tillich_place_id__251" type="place"><hi rend="u">Laiguelgia</hi></rs> Riviera Ponente Italia. –
                Ich hoffe Du wirst mit uns zufrieden sein. Preis 26 Lire – Schreibe bald, ich denke
                sehr an Dich.</p>
-            <closer>
-               <signed>D. <rs ref="#tillich_person_id__1923" type="person">H.</rs></signed>
-            </closer>
-
-            <postscript>
-               <p>Wir waren heut im Wartesaal, eine Eisenbahn lief ein, <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> rief laut Eisenbahn, ich komme gleich! Centralheizung,
+<closer>
+<signed>D. <rs ref="#tillich_person_id__1923" type="person">H.</rs></signed>
+</closer>
+<postscript>
+<p>Wir waren heut im Wartesaal, eine Eisenbahn lief ein, <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> rief laut Eisenbahn, ich komme gleich! Centralheizung,
                   blühende Apfel- und Pfirsichbäume.</p>
-            </postscript>
-
-         </div>
-
-      </body>
-   </text>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

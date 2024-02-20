@@ -1,120 +1,120 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00835">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Ministerialrat Prof. Werner Richter  
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00835" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Ministerialrat Prof. Werner Richter  
                <lb/>vom 10. November 1924
             </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Sebastian Kueffner</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="typescript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
-                  <institution>Stiftung Preußischer Kulturbesitz</institution>
-                  <repository>Geheimes Staatsarchiv Preußischer Kulturbesitz</repository>
-                  <collection>I. HA Rep. 76 Va</collection>
-                  <idno>Sekt. 2 Tit IV Nr. 44 Bd. 8 Bl. 314.</idno>
-               </msIdentifier>
-            <physDesc>
-               <p>Brief, maschinenschriftlich</p>
-            </physDesc>
-               <additional> 
-                  <listBibl>
-                     <biblStruct type="journal" n="firstPrint">
-                        <monogr>
-                           <author>Erdmann Sturm</author>
-                           <title>An der engen Pforte der historischen Methode vorbei… Paul Tillichs Habilitation in Halle (1916) und seine Umhabilitierungen nach Berlin (1919) und Marburg (1924)</title>
-                           <imprint>
-                              <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace><pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
-                              <date when="2015">2015</date>
-                              <biblScope>273–332, hier: 331.</biblScope>
-                           </imprint>
-                        </monogr>
-                        <series>
-                           <title>International Yearbook for Tillich Research. Ethics and Eschatology</title>
-                           <biblScope>Bd. 10, H. 1</biblScope>
-                        </series>
-                     </biblStruct>  
-                  </listBibl>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich </persName>
-              <placeName ref="#tillich_place_id__37">Berlin-Friedenau</placeName>
-              <date when="1924-11-10">10.11.1924</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1602">Werner Richter</persName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="SK" when="2023-02-15">Intitale Auszeichnung des Transkripts</change>
-        <change who="SK" when="2023-04-19">Ausbesserung zu Namensordnung, hinzufügen zu weiter persName zu Richter, Anpassung der Ort tags an das exakte</change>
-        <change who="SK" when="2023-05-17">Hanschriftlich nun durch Notitz festgehalten nicht durch Hand Attribut</change>
-        <change who="FS" when="2023-10-31">Endabnahme</change>        
-       
-     </revisionDesc>
-  </teiHeader>
-  <text type="letter">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <dateline><rs ref="#tillich_place_id__37" type="place">Berlin-Friedenau</rs>, Taunusstr. 1 
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Sebastian Kueffner</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="typescript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__37">Berlin</settlement>
+<institution>Stiftung Preußischer Kulturbesitz</institution>
+<repository>Geheimes Staatsarchiv Preußischer Kulturbesitz</repository>
+<collection>I. HA Rep. 76 Va</collection>
+<idno>Sekt. 2 Tit IV Nr. 44 Bd. 8 Bl. 314.</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, maschinenschriftlich</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct n="firstPrint" type="journal">
+<monogr>
+<author>Erdmann Sturm</author>
+<title>An der engen Pforte der historischen Methode vorbei… Paul Tillichs Habilitation in Halle (1916) und seine Umhabilitierungen nach Berlin (1919) und Marburg (1924)</title>
+<imprint>
+<pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace><pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+<date when="2015">2015</date>
+<biblScope>273–332, hier: 331.</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>International Yearbook for Tillich Research. Ethics and Eschatology</title>
+<biblScope>Bd. 10, H. 1</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__37">Berlin-Friedenau</placeName>
+<date when="1924-11-10">10.11.1924</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1602">Werner Richter</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-02-15" who="SK">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-04-19" who="SK">Ausbesserung zu Namensordnung, hinzufügen zu weiter persName zu Richter, Anpassung der Ort tags an das exakte</change>
+<change when="2023-05-17" who="SK">Hanschriftlich nun durch Notitz festgehalten nicht durch Hand Attribut</change>
+<change when="2023-10-31" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__37" type="place">Berlin-Friedenau</rs>, Taunusstr. 1 
               <lb/>den <date when="1924-11-10">10.11.1924</date></dateline>
-           <salute>Hochverehrter Herr <rs ref="#tillich_person_id__1602" type="person">Ministerialrat</rs>!</salute>
-        </opener>
-        <p>Hierdurch möchte ich Ihnen mitteilen, dass ich mich nun definitiv für <rs ref="#tillich_place_id__279" type="place">Marburg</rs> entschieden habe. Ihre gestrige Unterredung mit <rs ref="#tillich_person_id__1761" type="person">Herrn Geheimrat Seeberg</rs>, deren Inhalt er mir telefonisch mitgeteilt hat, hat endgültig den Ausschlag gegeben. Ich hoffe, dass Sie mir wegen meines vielleicht allzulangen Zögerns nicht zürnen. Es war keine ganz leichte Entscheidung.</p> 
-        <p>Zugleich aber wage ich, gleichfalls auf Grund der Unterhaltung mit <rs ref="#tillich_person_id__1761" type="person">Herrn Geheimrat Seeberg</rs>, noch mit einer Bitte an Sie heranzutreten. Am <date when="1924-11-07">Freitag</date> teilte mir die "Notgemeinschaft der deutschen Wissenschaft" mit, dass mein Forschungsstipendium am <date when="1924-04-01">1. April</date> abgelaufen sei. Gleichzeitig muss ich infolge des bevorstehenden Umzuges auf die Vermietung eines ziemlich hochwertigen Zimmers verzichten. Aus diesen Gründen wäre ich sehr dankbar, wenn mein Lehrauftrag noch etwas heraufgesetzt werden könnte. Da ich mich noch vor dem Sommersemester zu verheiraten gedenke, wäre ich Ihnen für die Gewährung meines Wunsches außerordentlich dankbar.
+<salute>Hochverehrter Herr <rs ref="#tillich_person_id__1602" type="person">Ministerialrat</rs>!</salute>
+</opener>
+<p>Hierdurch möchte ich Ihnen mitteilen, dass ich mich nun definitiv für <rs ref="#tillich_place_id__279" type="place">Marburg</rs> entschieden habe. Ihre gestrige Unterredung mit <rs ref="#tillich_person_id__1761" type="person">Herrn Geheimrat Seeberg</rs>, deren Inhalt er mir telefonisch mitgeteilt hat, hat endgültig den Ausschlag gegeben. Ich hoffe, dass Sie mir wegen meines vielleicht allzulangen Zögerns nicht zürnen. Es war keine ganz leichte Entscheidung.</p>
+<p>Zugleich aber wage ich, gleichfalls auf Grund der Unterhaltung mit <rs ref="#tillich_person_id__1761" type="person">Herrn Geheimrat Seeberg</rs>, noch mit einer Bitte an Sie heranzutreten. Am <date when="1924-11-07">Freitag</date> teilte mir die "Notgemeinschaft der deutschen Wissenschaft" mit, dass mein Forschungsstipendium am <date when="1924-04-01">1. April</date> abgelaufen sei. Gleichzeitig muss ich infolge des bevorstehenden Umzuges auf die Vermietung eines ziemlich hochwertigen Zimmers verzichten. Aus diesen Gründen wäre ich sehr dankbar, wenn mein Lehrauftrag noch etwas heraufgesetzt werden könnte. Da ich mich noch vor dem Sommersemester zu verheiraten gedenke, wäre ich Ihnen für die Gewährung meines Wunsches außerordentlich dankbar.
         </p>
-        <closer>
-           <salute>Mit herzlichem Dank für Ihr Entgegenkommen<lb/>bin ich<lb/>Ihr sehr ergebener<lb/></salute>
-           <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed><lb/><add place="sublinear" resp="P01603">90%</add><note type="ea">Notiz Werner Richters.</note>
-        </closer>
-     </div>
-    </body>
-  </text>
+<closer>
+<salute>Mit herzlichem Dank für Ihr Entgegenkommen<lb/>bin ich<lb/>Ihr sehr ergebener<lb/></salute>
+<signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed><lb/><add place="sublinear" resp="P01603">90%</add><note type="ea">Notiz Werner Richters.</note>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

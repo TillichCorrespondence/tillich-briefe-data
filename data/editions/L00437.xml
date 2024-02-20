@@ -1,114 +1,115 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00437">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Johannes Tillich <lb/>vom 30. Mai 1915 </title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name>Friedrich Schumann</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00437" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Johannes Tillich <lb/>vom 30. Mai 1915 </title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Friedrich Schumann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement ref="#tillich_place_id__82">Cambdridge, MA</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                        <idno>bMS 649/193(13)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig</p>
-                    </physDesc>
-                    <additional>
-                        <listBibl>
-                            <biblStruct type="monograph" n="firstPrint">
-                                <monogr>
-                                    <author>Paul Tillich</author>
-                                    <title>Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge,
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambdridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS 649/193(13)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct n="firstPrint" type="monograph">
+<monogr>
+<author>Paul Tillich</author>
+<title>Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge,
                                         Berichte</title>
-                                    <edition>1. Auflage</edition>
-                                    <imprint>
-                                        <publisher>Renate Albrecht und Margot Hahl</publisher>
-                                        <pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
-                                        <date when="1980">1980</date>
-                                        <biblScope>125</biblScope>
-                                    </imprint>
-                                </monogr>
-                                <series>
-                                    <title>Gesammelte Werke. Ergänzungs- und Nachlaßbände</title>
-                                    <biblScope>Band 5&gt;</biblScope>
-                                </series>
-                            </biblStruct>
-                        </listBibl>
-                    </additional>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+<edition>1. Auflage</edition>
+<imprint>
+<publisher>Renate Albrecht und Margot Hahl</publisher>
+<pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
+<date when="1980">1980</date>
+<biblScope>125</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Gesammelte Werke. Ergänzungs- und Nachlaßbände</title>
+<biblScope>Band 5&gt;</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__328">ohne Ort</placeName>
-                    <date when="1915-05-30">30. Mai 1915</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change who="FS" when="2022-04-27">Initiale Auszeichnung des Transkripts</change>
-            <change who="FS" when="2022-05-18">Anpassungen auf Basis der Projektbesprechung vom
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__328">ohne Ort</placeName>
+<date when="1915-05-30">30. Mai 1915</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-04-27" who="FS">Initiale Auszeichnung des Transkripts</change>
+<change when="2022-05-18" who="FS">Anpassungen auf Basis der Projektbesprechung vom
                 9.5.2022</change>
-            <change who="GM" when="2023-10-17">Endabnahme</change>
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener>
-                    <salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
-                </opener>
-                <p><date when="1915-06-03">In 4 Tagen</date> ist Dein Geburtstag und so will ich Dir
+<change when="2023-10-17" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
+</opener>
+<p><date when="1915-06-03">In 4 Tagen</date> ist Dein Geburtstag und so will ich Dir
                     heut schon schreiben, daß ich in meinen Gedanken bei Dir sein werde und mit
                     meiner Liebe zu Dir eilen wollen und Dir sagen wie ich mich über alles freue,
                     was ich von Dir gelesen habe während der langen Zeit und wie froh es mich immer
@@ -138,10 +139,10 @@
                     ich bitte Dich dabei <add place="superlinear">zu</add> bleiben, auch wenn sich
                     noch größere Schwierigkeiten finden sollten. – – – Vielen, vielen Dank dafür – –
                     – – – </p>
-                <closer><salute>Und nun leb wohl und nimm als Geburtstagsgeschenk aus dem Felde die
+<closer><salute>Und nun leb wohl und nimm als Geburtstagsgeschenk aus dem Felde die
                         drei Briefe von <rs ref="L00436">neulich</rs> , heut und <rs ref="L00438">morgen!</rs> <lb/> Herzlichen Segenswunsch!<lb/> In
                         Liebe und Dankbarkeit Dein Sohn </salute><signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>!</closer>
-            </div>
-        </body>
-    </text>
+</div>
+</body>
+</text>
 </TEI>

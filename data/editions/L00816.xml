@@ -1,99 +1,99 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00816">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich an Gottfried Salomon
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00816" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Gottfried Salomon
                <lb/>vom 28. März 1924
             </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Niklas von Hülsen</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="typescript">
-               <msIdentifier>
-                  <country>Niederlande</country>
-                  <settlement>Amsterdam</settlement>
-                  <institution>Koninklijke Nederlandse Akademie van Wetenschappen</institution>
-                  <repository>Internationaal Instituut voor Sociale Geschiedenis</repository>
-                  <collection>Gottfried Salomon-Delatour Papers, ARCH[01231]</collection>
-                  <idno>Inv.nr. 1172/1</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, maschinenschriftlich. Korrekturen eigenhändig</p>
-                  </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__37">Berlin-Friedenau</placeName>
-              <date when="1924-03-24">24.03.1924</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1678">Gottfried Salomon</persName>
-              <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="NH" when="2022-10-12">Intitale Auszeichnung des Transkripts</change>
-        <change who="FS" when="2023-03-13">Überarbeitung; Ergänzung von Personen-IDs, Bibl-Titeln, Archivangabe</change>
-       <change who="FS" when="2023-04-17">Weitere Überarbeitungen</change>
-        <change who="FS" when="2023-10-25">Endabnahme</change>
-        
-     </revisionDesc>
-  </teiHeader>
-  <text type="postcard">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <salute><del rend="ow">Lieber Salomon!</del><add>Lieber Salomon!</add><note type="ea">Der maschinenschriftliche Gruß wurde nachträglich von Tillich durch einen handschriftlichen ersetzt.</note></salute>
-        </opener>
-        <p>Herzlichen Dank für Ihren Brief<note type="ea">Dieser Brief liegt nicht vor.</note>! Ich beantworte ihn erst heute, da ich am <date when="1924-03-24">Montag</date> geheiratet habe. Sie kennen ja meine <rs ref="#tillich_person_id__1923" type="person">Frau</rs> schon vom romanischen Kaffee<note type="ea">Das Romanische Café war ein beliebter Berliner Künstler- und Intellektuellentreff.</note> her. Sie lässt herzlich grüssen. Ich freue mich auf Ihren Beitrag. Meine Mitarbeit an dem <rs ref="#tillich_work_id__7" type="work">Jahrbuch</rs> kann ich nur grundsätzlich, aber nicht empirisch in Aussicht stellen. Bis zum nächsten Winter bin ich vollkommen besetzt und kann nichts mehr versprechen. Für die erste Nummer würde ich also wohl ausfallen. Sehr gern will ich mich dagegen für die Zukunft verpflichten. Ich freue mich, dass Sie etwas derartiges in die Hand bekommen haben. Es ist nun fast sicher, dass ich im Sommer in <rs ref="#tillich_place_id__279" type="place">Marburg</rs> lese<note type="ea">Tillich lehrte ab dem Sommersemester 1924 drei Semester lang als außerordentlicher Professor in Marburg.</note> und da ich <rs ref="#tillich_place_id__279" type="place">Marburg</rs> als Vorort von <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> betrachte, so hoffe ich, dass wir uns oft sehen werden.
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Niklas von Hülsen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="typescript">
+<msIdentifier>
+<country>Niederlande</country>
+<settlement>Amsterdam</settlement>
+<institution>Koninklijke Nederlandse Akademie van Wetenschappen</institution>
+<repository>Internationaal Instituut voor Sociale Geschiedenis</repository>
+<collection>Gottfried Salomon-Delatour Papers, ARCH[01231]</collection>
+<idno>Inv.nr. 1172/1</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, maschinenschriftlich. Korrekturen eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__37">Berlin-Friedenau</placeName>
+<date when="1924-03-24">24.03.1924</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1678">Gottfried Salomon</persName>
+<placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-10-12" who="NH">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-03-13" who="FS">Überarbeitung; Ergänzung von Personen-IDs, Bibl-Titeln, Archivangabe</change>
+<change when="2023-04-17" who="FS">Weitere Überarbeitungen</change>
+<change when="2023-10-25" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute><del rend="ow">Lieber Salomon!</del><add>Lieber Salomon!</add><note type="ea">Der maschinenschriftliche Gruß wurde nachträglich von Tillich durch einen handschriftlichen ersetzt.</note></salute>
+</opener>
+<p>Herzlichen Dank für Ihren Brief<note type="ea">Dieser Brief liegt nicht vor.</note>! Ich beantworte ihn erst heute, da ich am <date when="1924-03-24">Montag</date> geheiratet habe. Sie kennen ja meine <rs ref="#tillich_person_id__1923" type="person">Frau</rs> schon vom romanischen Kaffee<note type="ea">Das Romanische Café war ein beliebter Berliner Künstler- und Intellektuellentreff.</note> her. Sie lässt herzlich grüssen. Ich freue mich auf Ihren Beitrag. Meine Mitarbeit an dem <rs ref="#tillich_work_id__7" type="work">Jahrbuch</rs> kann ich nur grundsätzlich, aber nicht empirisch in Aussicht stellen. Bis zum nächsten Winter bin ich vollkommen besetzt und kann nichts mehr versprechen. Für die erste Nummer würde ich also wohl ausfallen. Sehr gern will ich mich dagegen für die Zukunft verpflichten. Ich freue mich, dass Sie etwas derartiges in die Hand bekommen haben. Es ist nun fast sicher, dass ich im Sommer in <rs ref="#tillich_place_id__279" type="place">Marburg</rs> lese<note type="ea">Tillich lehrte ab dem Sommersemester 1924 drei Semester lang als außerordentlicher Professor in Marburg.</note> und da ich <rs ref="#tillich_place_id__279" type="place">Marburg</rs> als Vorort von <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> betrachte, so hoffe ich, dass wir uns oft sehen werden.
         </p>
-        <closer>
-           <salute>Viele herzliche Grüsse</salute>
-           <signed>Ihr <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
-        </closer>
-     </div>
-    </body>
-  </text>
+<closer>
+<salute>Viele herzliche Grüsse</salute>
+<signed>Ihr <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

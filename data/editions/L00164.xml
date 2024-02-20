@@ -1,99 +1,100 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00164">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Johannes Bertheau an Paul Tillich<lb/>vom 6. Mai 1907</title>
-            <author ref="#tillich_person_id__204">Johannes Bertheau</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00164" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Johannes Bertheau an Paul Tillich<lb/>vom 6. Mai 1907</title>
+<author ref="#tillich_person_id__204">Johannes Bertheau</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marbug</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008B</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marbug</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008B</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__204">Johannes Bertheau</persName>
-               <placeName ref="#tillich_place_id__198">Hamburg</placeName>
-               <date when="1907-05-06">06.05.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-03-13">Intitale Auszeichnung des Transkripts</change>
-         <change who="EL" when="2023-09-26">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__198" type="place">Hamburg</rs> 3, <date when="1907-05-06">6.V.07.</date>
-                  <address>
-                     <street>Pastorenstr. 13</street>
-                  </address></dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">x</rs>,</salute>
-            </opener>
-            <p>Eben lese ich Deinen Artikel in den <abbr>W.<expan>ingolfs</expan></abbr>-<abbr>Bl.<expan>ättern</expan></abbr>, und möchte Dir daraufhin kurz schreiben.
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__204">Johannes Bertheau</persName>
+<placeName ref="#tillich_place_id__198">Hamburg</placeName>
+<date when="1907-05-06">06.05.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-03-13" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-09-26" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__198" type="place">Hamburg</rs> 3, <date when="1907-05-06">6.V.07.</date>
+<address>
+<street>Pastorenstr. 13</street>
+</address></dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">x</rs>,</salute>
+</opener>
+<p>Eben lese ich Deinen Artikel in den <abbr>W.<expan>ingolfs</expan></abbr>-<abbr>Bl.<expan>ättern</expan></abbr>, und möchte Dir daraufhin kurz schreiben.
                Die Sachlage ist ja nachgerade so verworren, daß man als Philister keinen Überblick
                darüber hat, d. h. was die einzelnen Anträge, Vorschläge etc. angeht. Aber wenn dies,
                was Du schreibst, das Resultat der ganzen Sache für "<rs ref="#tillich_place_id__189" type="place">Halle</rs>"
                ist, dann muß es allerdings trübe aussehen.</p>
-            <p>Mir scheint, daß wenn man jetzt den Activitätszwang aufhebt, dies einfach einem
+<p>Mir scheint, daß wenn man jetzt den Activitätszwang aufhebt, dies einfach einem
                Nachgeben in der ganzen Principsache gleichkommt. Mehr hat die "liberale" Sorte - wir
                sind ja unter uns u können uns kurz ausdrücken - nie gewollt. Der ganze Ansturm hat
                sich darauf gerichtet, "liberalen" oder "farblosen" Principien in den Bund zu
@@ -121,7 +122,7 @@
                Ton daselbst etwas hinabgestimmt hat. Aber dergleichen ist hier ja gleichgültig: Hier
                handelt es sich um einen Lebens- und Tonunterschied, der mit dem principiellen
                Unterschied Hand in Hand geht.</p>
-            <p>Bisher nun war die Sachlage die, daß von den beiden "Richtungen" nur die Hallenser im
+<p>Bisher nun war die Sachlage die, daß von den beiden "Richtungen" nur die Hallenser im
                Bunde berechtigt war, weil sie ohne Frage der alte Wingolf ist, während die "neue
                Richtung" eben etwas neues wollte. <pb n="3"/>In den alten Bundessatzungen, <hi rend="u">vor</hi> dem <abbr>Ch.-C.<expan>Chargierten-Convent</expan></abbr> in
                   <rs ref="#tillich_place_id__189" type="place">Halle</rs>, war dem genuin-wingolfitischen Teil, auch wenn er
@@ -138,8 +139,8 @@
                durchsetzen wollte, ist wieder gleichgültig] Der Kampf um die neue Richtung wurde ein
                Kampf um das Princip, und mußte es werden, weil hier allein, nämlich in dem oben
                genannten § der Bundessatzungen, einer <del rend="s">Handhabe</del>
-               <hi rend="sup">Gelegenheit</hi> war, den Änderungen entgegenzutreten.</p>
-            <p>Man ist nun in <rs ref="#tillich_place_id__189" type="place">Ha.</rs> immer darauf aus gewesen die "neue
+<hi rend="sup">Gelegenheit</hi> war, den Änderungen entgegenzutreten.</p>
+<p>Man ist nun in <rs ref="#tillich_place_id__189" type="place">Ha.</rs> immer darauf aus gewesen die "neue
                Richtung" zu bekämpfen, den Wingolf als das zu erhalten, was er war u ist. Daß das
                immer nur möglich war dadurch, daß man in Principfragen seine Macht gebraucht, war
                peinlich genug, und ist ja auch als peinlich empfunden worden. Daß die einzelnen
@@ -147,15 +148,15 @@
                Princip endeten anstatt den Austritt<pb n="4"/> der betr. Leute zu veranlassen oder
                den Austritt ganzer Verbb. aus dem Bunde herbeizuführen, hat man in
                   <rs ref="#tillich_place_id__189" type="place">Ha.</rs> immer bedauert. Ich entsinne mich noch deutlich, wie
-               mir ein Berliner auf der <rs type="place" ref="#tillich_place_id__467">Wartburg</rs> 03.<note type="ea">Gemeint ist das Wartburgfest <date when="1903">1903</date>.</note> als der Fall <rs ref="#tillich_person_id__2531" type="person">Vogt</rs> eben passiert war, als sicher
+               mir ein Berliner auf der <rs ref="#tillich_place_id__467" type="place">Wartburg</rs> 03.<note type="ea">Gemeint ist das Wartburgfest <date when="1903">1903</date>.</note> als der Fall <rs ref="#tillich_person_id__2531" type="person">Vogt</rs> eben passiert war, als sicher
                u gewiß prophezeite, daß <rs ref="#tillich_person_id__2531" type="person">Vogt</rs> nach dieser Entscheidung <del rend="s">e</del>
                austreten werde, - und heute liest man <rs ref="#tillich_person_id__2531" type="person">Vogt</rs> unter der Erklärung von <rs ref="#tillich_person_id__2530" type="person">Kühn</rs> u
                Genossen!</p>
-            <p>So hat sich durch dauerndes Kneifen die "neue Richtung" im Bunde gehalten - u jetzt
+<p>So hat sich durch dauerndes Kneifen die "neue Richtung" im Bunde gehalten - u jetzt
                will man sie als gleichberechtigt anerkennen und ihr zuliebe die Corridore im Hause
                erweitern (um mit <rs ref="#tillich_person_id__1227" type="person">Ltgt</rs> zu reden), anstatt sie vor
                die Thüre zu setzen?</p>
-            <p>Als auf dem <abbr>Ch.-C.<expan>Chargierten-Convent</expan></abbr> in <rs ref="#tillich_place_id__189" type="place">Halle</rs> der Activitätszwang aufgehoben
+<p>Als auf dem <abbr>Ch.-C.<expan>Chargierten-Convent</expan></abbr> in <rs ref="#tillich_place_id__189" type="place">Halle</rs> der Activitätszwang aufgehoben
                wurde, hatte damit die neue Richtung gesiegt. Weil die Verschiedenheit zu groß war,
                um eng zusammenhalten zu können, machte man den Zusammenhang loser. Vor dem <abbr>Ch.-C.<expan>Chargierten-Convent</expan></abbr> war man sich in <rs ref="#tillich_place_id__189" type="place">Ha.</rs> ganz klar darüber, daß man die Neuerer vor
                die Thür setzen wolle. Die Verhältnisse sind ja im Laufe des Streites sehr viel
@@ -171,7 +172,7 @@
                Ereignisse der Tage damals sind ja in aller Gedächtnis. Nach meiner Ansicht hätte man
                auch jenen Principriegel, der in den alten Bundessatzungen enthalten war, nicht
                preisgeben sollen.</p>
-            <p>Wollen wir einen wirklichen Wingolf haben, so kann er nur aus
+<p>Wollen wir einen wirklichen Wingolf haben, so kann er nur aus
                   <rs ref="#tillich_place_id__189" type="place">Halle</rs> u <rs ref="#tillich_place_id__189" type="place">Halles</rs> Anhängern bestehen.
                Es fragt sich nur, ob die Kräfte in der Philisterschaft, die zum größten Teil im
                Grunde auf unserer Seite steht, sich gewinnen u nutzbar machen lassen. Solange
@@ -182,7 +183,7 @@
                gute Sache, weil ihnen von dem Lärm des "Principienstreites" die <pb n="6"/>Ohren
                sausen, aber mit dem Zögern wegen dieser Befürchtung haben wir schon viel zu viel
                Zeit verloren.</p>
-            <p>Was Du dagegen erreichst, wenn Du den Activitätszwang aufhebst u das Band löst, ist
+<p>Was Du dagegen erreichst, wenn Du den Activitätszwang aufhebst u das Band löst, ist
                nicht etwa ein neutraler Zwischenzustand, wie man nach Deinen letzten Sätzen denken
                könnte, aus dem sich später derselbe Wingolf wieder entwickeln könnte, sondern eine
                   <unclear>Comission</unclear> in die "neue Richtung", die sich nie wieder gut
@@ -194,7 +195,7 @@
                Verbb. u sie sind alle Wingolfe, d. h. den Wingolf aufgeben, den man m. E., wenn auch
                nur mit wenigen, noch aufrecht erhalten u. durch diese schwere Krisis hindurch retten
                   <del rend="s">würd</del> könnte.</p>
-            <p>Und das ist nicht gerade Theorie. Wird der Win<pb n="7"/>golf gelockert, so verliert
+<p>Und das ist nicht gerade Theorie. Wird der Win<pb n="7"/>golf gelockert, so verliert
                er seinen Charakter und sein Erbe tritt unweigerlich die D. C. S. V. an. Sind uns
                nicht jetzt schon, gerade in <rs ref="#tillich_place_id__189" type="place">Ha</rs>, viele brauchbare Füxe
                verloren gegangen, weil sie "Marburger Wingolfiten kannten u von ihnen gehört hatten,
@@ -203,7 +204,7 @@
                   <rs ref="#tillich_place_id__279" type="place">Ma.</rs>, <rs ref="#tillich_place_id__186" type="place">Gö</rs>,
                         <rs ref="#tillich_place_id__198" type="place">Hg</rs>, verloren
                gehen, weil die Sache so jammervoll vertreten ist! -</p>
-            <p>Und nun stell Dir doch mal das neue Wingolfsbund vor, wie es nach Aufhebung des
+<p>Und nun stell Dir doch mal das neue Wingolfsbund vor, wie es nach Aufhebung des
                Activitätszwanges sein wird. Von einer Glaubensgemeinschaft kann dann natürlich nicht
                mehr die Rede sein, und die ideale tief innerliche Seite des alten Wingolf ist ganz
                weg. Die berühmten <rs ref="#tillich_person_id__1013" type="person">Kähler</rs>-Reden u all dergl. würden
@@ -217,21 +218,21 @@
                   <unclear>Z/fg</unclear> mit so anders gerichteten Verbb.? In den oben genannten
                Fällen war <rs ref="#tillich_place_id__279" type="place">Marb.</rs> nicht eben ein Reklameschild für
                   <rs ref="#tillich_place_id__189" type="place">Ha.</rs> gewesen. –</p>
-            <p>Doch ich stecke in Examensarbeit u habe große Eile. Das wollte ich Dir nur gern in
+<p>Doch ich stecke in Examensarbeit u habe große Eile. Das wollte ich Dir nur gern in
                Kürze auf Deinen Artikel hin geschrieben haben. Wenn es an wenigen Stellen <hi rend="aq"><foreign xml:lang="lat">panto animosius</foreign></hi> geschrieben ist, so wirst Du Dich nicht daran
                stoßen, u ich darf wohl darauf rechnen, daß es in Zwar-Aber bleibt. - Mir wäre es das
                Liebste, wenn es endlich zur Gründung oder vielmehr Errettung eines echten Wingolf
                käme - mit oder ohne Namen u Horten-. Man sollte einfach mit den alten
                Bundessatzungen und den alten Principien <unclear>geweilen</unclear>, und wem's nicht
                paßt, der mag draußen bleiben.</p>
-            <closer>
-               <salute>Viel herzlichen Gruß</salute>
-               <signed>Dein <rs ref="#tillich_person_id__204" type="person">Joh. Bertheau</rs>
-                  <figure>
-                     <figDesc>Wingolfszirkel</figDesc>
-                  </figure> (x)</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<salute>Viel herzlichen Gruß</salute>
+<signed>Dein <rs ref="#tillich_person_id__204" type="person">Joh. Bertheau</rs>
+<figure>
+<figDesc>Wingolfszirkel</figDesc>
+</figure> (x)</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

@@ -1,97 +1,97 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01171">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Postkarte von Paul Tillich an Hannah Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01171" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Hannah Tillich
                     <lb/>vom 06. Dezember 1932 [PS]
                 </title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name>Friedrich Schumann</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>        
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement>Cambridge, MA</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                        <idno>bMS 721/3(2)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Postkarte, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc> 
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__31">Basel</placeName>
-                    <date when="1932-12-05">05.12.1932</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-                    <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change who="FS" when="2023-05-10">Intitale Auszeichnung des Transkripts</change>
-            <change who="FS" when="2023-11-16">Endabnahme</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener>
-                    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-                </opener>
-                <p>Die letzte Karte noch vor dem Basler Vortrag<note type="ea">Tillich sprach auf Einladung der Basler Studentenschaft und Kantgesellschaft über "<rs ref="#tillich_work_id__22" type="work">Der deutsche Idealismus und das proletarische Schicksal</rs>".</note>. Die Stimme scheint mit Hilfe von Pastillen besser geworden zu sein. Ich wohne hier sehr nett bei der <rs ref="#tillich_person_id__2385" type="person">Mutter</rs> von <rs ref="#tillich_person_id__2384" type="person">Herrn Mislin</rs>. Getroffen habe ich noch die <rs ref="#tillich_person_id__246" type="person">Salome Boller</rs> von <rs ref="#tillich_place_id__401" type="place">Sils Maria</rs>, die wirklich ein sehr netter Mensch ist. Mittag gegessen habe ich bei der alten <rs ref="#tillich_person_id__621" type="person">Freundin</rs> von <rs ref="#tillich_person_id__644" type="person">Johanna</rs>, deren <rs ref="#tillich_person_id__620" type="person">Mann</rs> ein <pb n="2"/> berühmter Pianist ist. Auf Wiedersehen <date when="1932-12-07">morgen</date> um 8!
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Friedrich Schumann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement>Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/3(2)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__31">Basel</placeName>
+<date when="1932-12-05">05.12.1932</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+<placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-05-10" who="FS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-11-16" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Die letzte Karte noch vor dem Basler Vortrag<note type="ea">Tillich sprach auf Einladung der Basler Studentenschaft und Kantgesellschaft über "<rs ref="#tillich_work_id__22" type="work">Der deutsche Idealismus und das proletarische Schicksal</rs>".</note>. Die Stimme scheint mit Hilfe von Pastillen besser geworden zu sein. Ich wohne hier sehr nett bei der <rs ref="#tillich_person_id__2385" type="person">Mutter</rs> von <rs ref="#tillich_person_id__2384" type="person">Herrn Mislin</rs>. Getroffen habe ich noch die <rs ref="#tillich_person_id__246" type="person">Salome Boller</rs> von <rs ref="#tillich_place_id__401" type="place">Sils Maria</rs>, die wirklich ein sehr netter Mensch ist. Mittag gegessen habe ich bei der alten <rs ref="#tillich_person_id__621" type="person">Freundin</rs> von <rs ref="#tillich_person_id__644" type="person">Johanna</rs>, deren <rs ref="#tillich_person_id__620" type="person">Mann</rs> ein <pb n="2"/> berühmter Pianist ist. Auf Wiedersehen <date when="1932-12-07">morgen</date> um 8!
                 </p>
-                <closer>
-                    <salute>Ich freue mich</salute>
-                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-                </closer>
-            </div>
-        </body>
-    </text>
+<closer>
+<salute>Ich freue mich</salute>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>
