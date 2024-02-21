@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00815">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Wilhelm Ruprecht an Paul Tillich <lb/>vom 26. Februar 1924</title>
+            <author ref="#tillich_person_id__2569">Wilhelm Ruprecht</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement>Berlin</settlement>
+                  <repository>Verlagsarchiv Vandenhoeck Ruprecht</repository>
+                  <collection>Autorenkorrespodenz</collection>
+                  <idno>G 1923.138</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
+               <date when="1924-02-26">26.02.1924</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Friedenau</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="NH" when="2023-07-17">Intitale Auszeichnung des Transkripts</change>
+         <change who="NH" when="2023-12-21">Vorbereitung/Korrektur für die Endabnahme</change>
+         <change who="PS" when="2024-01-05">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#tillich_person_id__1928" type="person">Herrn Privatdozent Dr. P.
+                     Tillich</rs>, <rs ref="#tillich_place_id__37" type="place"
+                  >Friedenau</rs>.</dateline>
+               <salute>Hochgeehrter <rs ref="#tillich_person_id__1928" type="person">Herr
+                     Doktor!</rs></salute>
+            </opener>
+            <p>Erst durch Ihre <rs type="letter" ref="L00814">Karte</rs> erfahre ich, daß Ihnen
+               ungeschickter Weise wegen eines kleinen rückständigen Posten ein gewöhnliches
+               Mahnformular zugeschickt worden ist. Das war von uns selbstverständlich nicht
+               beabsichtigt. Haben Sie nur die Freundlichkeit, sobald es Ihnen paßt, den
+               Gesamtbetrag, welcher auf der Ihnen heute mit den zwei Exemplaren zugehenden Rechnung
+               vermerkt wird, gelegentlich auf unser Postscheckkonto Hannover Nr. 6729
+               einzuzahlen.</p>
+            <p>Mit <rs type="person">Herrn Dr. Dietrich</rs> habe ich neulich wieder angeknüpft. Er
+               wollte uns schon längst ausführlich schreiben, ist aber leider noch immer nicht dazu
+               gekommen. </p>
+            <closer>
+               <salute>Mit hochachtungsvollem Gruße</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
