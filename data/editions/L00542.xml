@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00542">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Maria Klein <lb/>vom 26. Juli 1917 [PS]</title>
+            <author><persName ref="#tillich_person_id__1928">Paul Tillich</persName></author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Andreas Burri</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/178(9)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__328">ohne Ort</placeName>
+               <date when="1917-07-26">26.07.1917</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Maria Klein</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="AB" when="2022-07-14">Intitale Auszeichnung des Transkripts</change>
+         <change who="AB" when="2022-07-19">Überprüfung und Ergänzung der Auszeichnungen</change>
+         <change who="GM" when="2024-01-16">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>L. <rs ref="#tillich_person_id__1594" type="person">M.</rs></salute>
+            </opener>
+            <p><unclear reason="illegible">¿¿¿</unclear><note type="eb">Es folgen zwei bis 4
+                  unleserliche, weil durchgestrichene bzw. überschriebene Worte.</note> bitte
+                  d<unclear reason="illegible">¿¿¿(¿)</unclear>ster gegen <unclear cert="high"
+                  reason="illegible" resp="AB">Abend</unclear> an: <hi rend="u"><rs
+                     ref="#tillich_place_id__42" type="place">Lichterfelde</rs> 3<unclear cert="low"
+                     reason="illegible">9</unclear>44</hi>. Ich kann wahrscheinlich Donnerstag
+               Nachm. 4-5 Kaffee. <unclear>¿¿¿</unclear> mit dir zusammen sein falls du Lust hast.
+               Dienstag hier ab. Freitag ab nach <rs ref="#tillich_place_id__74" type="place"
+                  >Bremen</rs>; Sonntag ab dort!<lb/></p>
+            <closer>
+               <salute>Auf Wiedersehen. Gruß an <rs ref="#tillich_person_id__1063" type="person"
+                     >Mutter</rs> und <rs ref="#tillich_person_id__1062" type="person"
+                  >Lisa</rs>!</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">Dein Paul</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

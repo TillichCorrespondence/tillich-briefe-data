@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00560">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Johannes Tillich <lb/>vom 9. Januar 1918 </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambdridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                        <idno>bMS 649/193(16)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1918-01-09">09.01.1918</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+                    <placeName ref="#tillich_place_id__37">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2022-04-20">Initiale Auszeichnung des Transkripts</change>
+            <change who="FS" when="2022-05-17">Anpassungen auf Basis der Projektbesprechung vom
+                9.5.2022</change>
+            <change who="GM" when="2024-02-09">Endabnahme</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="postcard">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><hi rend="print">Geschrieben, den</hi>
+                        <date when="1918-01-09">9. I. <hi rend="print">191</hi>8</date></dateline>
+                    L. <rs ref="#tillich_person_id__1924" type="person">P.</rs>! </opener>
+                <p>Herzlichen Dank für Deine Briefe! Der Hase ist natürlich umsonst, wir haben ihn
+                    ja selbst geschossen. Daß Du im Konsistorium bleibst, freut mich <hi rend="u"
+                        >sehr</hi>! – Ich denke, vom 15<hi rend="sup">ten</hi> ab in <rs
+                        ref="#tillich_place_id__37" type="place">Berlin</rs> zu sein. Verabredungen
+                    telephonisch!</p>
+                <closer>
+                    <salute>Auf Wiedersehen!</salute> Dein <signed><rs
+                            ref="#tillich_person_id__1928" type="person">Paul</rs></signed>.
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

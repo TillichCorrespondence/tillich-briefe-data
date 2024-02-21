@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00579">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Karl Koch an Paul Tillich <lb/>vom 14. September 1918 </title>
+            <author ref="#tillich_person_id__1074">Karl Koch</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Gerrit Mauritz</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement>Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/Box 159(3)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Feldpostbrief, handschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1074">Karl Koch</persName>
+               <date when="1918-09-14">14.09.1918</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="GM" when="2023-03-06">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2024-02-09">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>Sonnabend den <date when="1918-09-14">14.9.18</date></dateline>
+               <salute>Hochwürdiger <rs ref="#tillich_person_id__1928" type="person">Herr
+                     Pfarrer!</rs></salute>
+            </opener>
+            <p>Den lieben Brief von <rs ref="#tillich_person_id__1928" type="person">Herrn
+                  Pfarrer</rs> mit bestem Dank erhalten. Hier ist soweit noch alles beim alten. <rs
+                  ref="#tillich_person_id__2285" type="person">Herr Pfarrer Grimm</rs> ist auf
+               Urlaub und bekam in Tegernsee das <ptr/>E.K.<note type="ea">Gemeint ist
+                  wahrscheinlich das Eiserne Kreuz</note> Der Herr <unclear reason="illegible"
+                  >[...]</unclear> ist auch auf Urlaub, Herr<unclear reason="illegible"
+                  >Jeritratzki</unclear> ist bei den 66 abkommandiert, Herr <unclear
+                  reason="illegible">Locherried/Bocherried</unclear> ist bei uns in Feldlazarett 22.
+               Wir liegen jetzt an der <rs ref="#tillich_place_id__33" type="place">belgischen</rs>
+               Grenze in Ruhe seit Montag wir haben die schwierige Tour zu Fuß gemacht von unten
+               rauf, immer hübsche Märsche den letzten Tag 39 kilm. Aber es sind bloß noch ein paar
+               Tage dann kommen wir wieder in die Gegend wo der <rs ref="#tillich_person_id__1928"
+                  type="person">Pfarrer</rs> Abschied genommen hat. Für mich ist auch eine
+               Reklamation eingereicht worden von zu Hause und wenn ich vielleicht Glück habe dann
+               bin ich den Winter auch zu Hause. Wir liegen in einem Ort hier, da liegt ein jedes
+               Haus 5 bis 10 Minuten weit entfernt. Der Schimmel befindet sich wohl. Die Sohlen sind
+               in <sic>den</sic> großen Koffer unten gewesen wo der Honig und die anderen Sachen
+               waren.</p>
+            <closer>
+               <salute>Viele Grüße sendet Ihnen nebst <rs ref="#tillich_person_id__1931"
+                     type="person">Gemahlin</rs><lb/>Ihr früherer Bursche </salute>
+               <signed><rs ref="#tillich_person_id__1074" type="person">Koch</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

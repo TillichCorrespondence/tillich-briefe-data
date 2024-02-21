@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00567">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Max Wölfing an Paul Tillich <lb/>vom 1. Mai 1918 </title>
+            <author ref="#tillich_person_id__2098">Max Wölfing</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Leopold Potyka</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library </repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/218(9)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändnig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2098">Max Wölfing</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1918-05-01">01.05.1918</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="LP" when="2022-04-16">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2024-02-09">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>Evangelischer Feldpropst der Armee <rs ref="#tillich_place_id__37"
+                     type="place">Berlin C2 Hinter der Garnisonskirche 1</rs>, den <date
+                     when="1918-05-01">1. Mai 1918.</date></dateline>
+               <salute>An Herren Feldgeistlichen Lic. Dr. <rs ref="#tillich_person_id__1928"
+                     type="person">Tillich</rs>, Hochehrwürden 7. Reserve Division</salute>
+            </opener>
+            <p>Auf Euer Hochehrwürden Bericht vom <date when="1918-04-23">23. d. Mts.</date> teile
+               ich Ihnen mit, daß Ihre Reklamation aus Mangel an verfügbarem Ersatz hat abgelehnt
+               werden müssen und eine Entlassung auch bis auf weiteres nicht in Frage kommen kann.
+               Sofern euer Hochehrwürden mit Ihrem Gesundheitszustand den Anforderungen in des
+               Felddienstes nicht mehr gewachsen sind, bin ich bei Gelegenheit bereit<pb n="2"/>
+               <sic>bereit</sic>, Sie in der <unclear>Etappe</unclear> bezw. im Inlande zu verwenden
+               und erwarte Ihre Stellungnahme hierzu. </p>
+            <closer>
+               <signed><rs ref="#tillich_person_id__2098" type="person">Wölfing</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

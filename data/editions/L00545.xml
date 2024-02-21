@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00545">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Richard Wegener <lb/>vom 26. August 1917 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Leopold Potyka</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="transscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
+                  <institution>Philipps-Universität Marburg</institution>
+                  <repository>Deutsches Paul-Tillich-Archiv</repository>
+                  <idno>008 H</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="monograph" n="firstPrint">
+                        <monogr>
+                           <author>Paul Tillich</author>
+                           <editor>Renate Albrecht/René Trautmann (Hg.)</editor>
+                           <title>Briefwechsel und Streitschriften. Theologische, philosophische und
+                              politische Stellungnahmen und Gespräche</title>
+                           <edition>Erste Auflage</edition>
+                           <imprint>
+                              <publisher>De Gruyter</publisher>
+                              <pubPlace ref="#tillich_place_id__143">Frankfurt a.M.</pubPlace>
+                              <date when="1983">1983</date>
+                              <biblScope>89-94</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Ergänzungs- und Nachlassbände zu den gesammelten Werken von Paul
+                              Tillich</title>
+                           <biblScope>VI</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1917-08-26">26.08.1917</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__2020">Richard Wegener</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="LP" when="2022-06-29">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2024-01-17">Endabnahme></change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><date when="1917-08-26">26. 8. 1917</date></dateline><note type="eb">Die
+                  erklärenden Anmerkungen zu vorliegendem Brief wurden (ggf. geringfügig
+                  abgewandelt) aus seiner Erstveröffentlichung übernommen.</note>
+               <salute>Lieber <rs ref="#tillich_person_id__2020" type="person">Dox</rs></salute>
+            </opener>
+            <p>Zuerst meinen herzlichen Dank für Deine Bemühungen in <rs
+                  ref="#tillich_place_id__317" type="place">Neu-Kölln</rs>! Das sieht ja glänzend
+               aus! Ist es aber wohl nicht in dem Maße, wie mein Mißtrauen gegen so undefinierbare
+               Arbeiten, wie die des Pfarrers, mir sagt. Immerhin ist dadurch eine wertvolle Ultima
+               ratio, was meine Stimmung wesentlich gehoben hat. Spruchreif ist die Sache für mich
+               erst dann, wenn ich merke, es geht hier nicht mehr so wie es gehen müßte; und zu
+               diesem "muß" gehört auch ausreichende Zeit zu wissenschaftlicher Arbeit. In diesen
+               drei Wochen habe ich sie gehabt und von früh bis spät ausgenutzt, so daß ich gestern
+               schon mit dem ganzen <rs ref="#tillich_person_id__946" type="person">Husserl</rs>
+               fertig wurde!<note type="ea">In dem <rs type="letter" xml:id="L00543">Brief an die
+                     Wingolffreunde</rs> schreibt <rs ref="#tillich_person_id__1928" type="person"
+                     >Tillich</rs>, dass er sich intensiv mit Logik beschäftigt. Wahrscheinlich sind
+                  an dieser Stelle <rs ref="#tillich_person_id__946" type="person">Husserls</rs>
+                  dreibändigen <rs ref="#tillich_work_id__130" type="work"><rs
+                        ref="#tillich_work_id__131" type="work"><rs ref="#tillich_work_id__132"
+                           type="work">Logische Untersuchungen, 1900f.</rs></rs></rs>
+                  gemeint.</note> Ich habe mancherlei dadurch gelernt; zuerst und vor allem die
+               ganze Tiefe meines Nicht-Wissens in Bezug auf die Probleme und Methoden und auch <hi
+                  rend="u">wirklichen Leistungen</hi> unserer Philosophie. Da heißt es, Ungeheures
+               nachholen, wenn ich überhaupt mitreden will, und das kann man doch sogar von einem
+               wissenschaftlichen Theologen verlangen, geschweige denn einem modernen Philosophen.
+               Etwas anderes, es Kennen, etwas anderes, Abhängig-Sein; und diejenige Abhängigkeit,
+               die man "Stehen in der Zeit" nennt, ist doch wohl zu verlangen, schon damit man
+               verstanden wird. --- Weiter habe ich gelernt, den Begriff der "wissenschaftlichen
+               Philosophie" in seiner ganzen Bedeutung zu erfassen! Das ist wirklich
+               Schulwissenschaft und sogar in bestem Sinne Scholastik, nämlich Begriffsklärung.</p>
+            <pb n="2"/>
+            <p>Besonders gilt das für die Phänomenologen, die ihre ganze Arbeit den "Bedeutungen"
+               der aktuellen Begriffe zuwenden; die Kantianer<note type="ea"><rs
+                     ref="#tillich_person_id__1928" type="person">Tillich</rs> denkt hier an den
+                  Neukantianismus mit solchen Vertretern wie <rs ref="#tillich_person_id__2082"
+                     type="person">Wilhelm Windelband</rs>, <rs ref="#tillich_person_id__2135"
+                     type="person">Heinrich Rickert</rs> u. ä.</note> dagegen sind von einer
+               erschütternden formalistischen Klarheit und Inhaltslosigkeit. <rs
+                  ref="#tillich_person_id__946" type="person">Husserl</rs> nennt alle zitierten
+               Leute "Forscher", was mich merkwürdig anmutete, da man diese Formulierung bisher bei
+               der Maikäfer-Forschung bevorzugte. Was bleibt nun übrig? Philosophische Forschung und
+               Philosophie trennen? Was macht dann aber die schöpferische, gesetzgebende
+               Philosophie? Ist sie bloß Literatur? Muß man philosophische Wissenschaft und
+               philosophische Literatur unterscheiden? Oder gibt es ein drittes, aus dem Inbegriff
+               der Forschungen eine Schöpfung im alten Sinne erstehen zu lassen, die Wissenschaft
+               und Schöpfung ist und - von der Wissenschaft als unreinlich verworfen wird? Man kann
+               sich das ja an den sogenannten norma- tiven Wissenschaften klarmachen: sind sie
+               Forschung, so sind sie nur angewandte Theorie; sie enthalten keine neuen Schöpfungen,
+               sondern lediglich normativ gewendete Wesenssätze der technischen und geistigen
+               Funktionen. Also Theorie des Schiffsbaus und des Denkens und des Handelns ohne
+               Schöpferisches; das Denken wäre dann überhaupt nur schöpferisch in seinem eigenen
+               Gebiet, d. h. in der Methode oder der Gegenstandsbetrachtung. Eine neue Methode oder
+               eine neue Entdeckung, Analog einer neuen Malweise oder einem neuen Bild - der
+               Gegenstand wäre also immer Seiendes, nie Sein-Sollendes, höchstens die <hi rend="u"
+                  >Seins-Wurzelung</hi>
+               <hi rend="u">des Sollenden</hi>. --- Das Schaffen wäre in der Wissenschaft immer ein
+               Finden, als Resultat eines Suchens oder Forschens. Ist mit dieser Beschreibung nun
+               die Sachlage bei den großen, schöpferischen Philosophen getroffen? Oder haben diese
+               ganz anderes gewollt? </p>
+            <pb n="3"/>
+            <p>Ich glaube fast! <rs ref="#tillich_person_id__1227" type="person">Lütgert</rs> sagt
+               in seiner <rs ref="#tillich_work_id__133" type="work">Rektoratsrede</rs>: "Methoden
+               machen Schule, Ideen Geschichte!" <rs ref="#tillich_person_id__1020" type="person"
+                  >Kant's</rs> Kritizismus hat Schule, seine Freiheitsidee Geschichte gemacht. <rs
+                  ref="#tillich_person_id__839" type="person">Hegel's</rs> Dialektik Schule, seine
+               Staatsidee Geschichte! Dann machte also der Philosoph durch Ideen Geschichte, der
+               Forscher durch Methoden oder Entdeckungen Schule! Wie verhalten sich nun Ideen und
+               Entdeckungen? Sind Ideen wissenschaftlich entdeckt? Sicher nicht, aber meistens auch
+               nicht ohne Wissenschaft. Behandelt die Wissenschaft Ideen? Sicherlich! Aber hat sie
+               ein Recht dazu, sie anders als objektivierend, als Tatbestand, zu behandeln? Fragen
+               über Fragen! Doch ich will noch nicht antworten, ich will noch in die Schule gehen
+               und - meine Ideen zur Klarheit und Sicherheit bringen! --- Theologische Themata
+               strömen mir nur so zu. Die Beschäftigung mit der katholischen Theologie (z. Zt. <rs
+                  ref="#tillich_person_id__1336" type="person">Möhler</rs>) ist äußerst anregend.
+               Sie treffen in ihrer Kritik fast immer das Richtige und stehen doch weit unter den
+               Kritisierten. Die ganze Dialektik des Protestantismus ist eminent interessant, jetzt,
+               wo wir im Wesentlichen Jenseits des historischen Protestantismus stehen. --- Die
+               Arbeit über das Formalprinzip ist sicher sehr ergiebig. Es wäre vielleicht nötig,
+               hier den Begriff der "Weisheit" einzuführen; die innere Antinomie zwischen Wahrheit
+               und Weisheit im katholischen System ist bei der Behandlung jedes Problems
+               nachweisbar. Weiter wäre ein interessantes Thema "Theologien der Wahrscheinlichkeit",
+               darunter könnten zusammengefaßt werden:<lb/> 1) die Veritabilia der katholischen
+               Apologethik, (die hinreichenden Gründe zur Annahme einer Offenbarung),<lb/> 2) die
+               Heils-Wahrscheinlichkeit der katholischen Dogmatik,<lb/> 3) der
+               dogmatisch-historische Wahrscheinlichkeitsbeweis <pb n="4"/> der älteren
+                  Supranaturalisten.<note type="ea">Der Supranaturalismus rezipiert Elemente der
+                  vernünftigen Orthodoxie, der Neologie und der pietistischen Bewegung des 18.
+                  Jahrhunderts und verbindet sich mit der Erweckungsbewegung. Der ältere
+                  Supranaturalismus gedieh hauptsächlich in Württemberg (<rs
+                     ref="#tillich_person_id__1871" type="person">Gottlieb Christian Storr</rs>). In
+                  Norddeutschland war <rs ref="#tillich_person_id__1576" type="person">Franz Volkmar
+                     Reinhard</rs> ein bedeutender Vertreter dieser Richtung. In kurzschlüssiger
+                  Apologetik machten sich die Supranaturalisten <rs ref="#tillich_person_id__1020"
+                     type="person">Kants</rs> Beschränkung der Vernunft zu eigen und leiteten daraus
+                  die Notwendigkeit einer biblischen Offenbarung ab. Die Bibel ist wahr, weil sie
+                  der natürlichen Vernunft widerstreitet. Der Glaube sagt in der Bekehrung der
+                  Hybris der Vernunft ab und anerkennt die Autorität der göttlichen
+                  Offenbarung.</note><lb/> 4) Der historische Beweis der Ritschlianer<lb/> 5) Die
+               relative Religion von <rs ref="#tillich_person_id__1954" type="person"
+               >Troeltsch</rs>.<lb/> Evtl. könnte noch eingereiht werden: Der moralische
+               Gottesbeweis in seinen Kantischen Formen. - Das Gegenteil sind "Theologien der
+               Gewißheit". Es wäre zu untersuchen und würde sich vermutlich ergeben, daß nach dem
+               Identitätsprinzip alle Gewißheitstheologien "Geistestheologien" sind; daß die
+               Gewißheit aus einem irgendwie formulierten Eintritt des Gegenstandes in das Subjekt
+               abgeleitet würde. Damit hätten wir als primäres Moment eine innere Bestimmtheit, die
+               sich durch Ausscheiden als Material-Psychologischen zu einer Kategorie eruieren
+               ließe. Die objektive Religion stände in einem genau bestimmbaren Funktionsverhältnis
+               (streng mathematisch) zu dieser Innerlichkeit. Die Innerlichkeit wäre dann als
+               "theologisches Prinzip" anzusprechen, die Funktionen von da aus nach dem zu
+               erforschenden Funktionsgesetz zu bestimmen. ---</p>
+            <p>Ich bitte Dich nun, mir etwas Theologisches zu schicken. In erster Linie die <rs
+                  ref="#tillich_work_id__134" type="work">Soziallehren</rs> von <rs
+                  ref="#tillich_person_id__1954" type="person">Troeltsch</rs>, dann, wenn es irgend
+               geht, theologische Hegelianer<note type="ea">gemeint sind u. a. <rs
+                     ref="#tillich_person_id__430" type="person">Karl Daub</rs>, <rs
+                     ref="#tillich_person_id__1266" type="person">Philipp Marheinecke</rs>, <rs
+                     ref="#tillich_person_id__159" type="person">Ferdinand Christian Baur</rs> und
+                  die Tubinger Schule, zu der zeitweilig auch <rs ref="#tillich_person_id__1614"
+                     type="person">Albrecht Ritschl</rs> gehört oder auch der theologiegeschichtlich
+                  wichtige Philosoph <rs ref="#tillich_person_id__2029" type="person">Hermann
+                     Christian Weiße</rs>.</note>; wenn möglich käuflich; sonst, wenn Du es wagen
+               willst, von Dir geliehen. Ist <rs ref="#tillich_person_id__484" type="person">I.A.
+                  Dorner's</rs>
+               <rs ref="#tillich_work_id__135" type="work">Aufsatz über das Verhältnis von
+                  theologischem Material- und Formalprinzip</rs> irgendwie erreichbar? An ihm läge
+               mir sehr viel. Den <rs ref="#tillich_work_id__137">dritten Band</rs> von <rs
+                  ref="#tillich_person_id__946" type="person">Husserl</rs> sowie seine <rs
+                  ref="#tillich_work_id__136" type="work"> Phänomenologie</rs> habe ich bei Niemann
+               direkt bestellt. Im <rs ref="#tillich_place_id__189" type="place">Hallenser</rs>
+               Vorlesungsverzeichnis steht meine Vorlesung über "Einleitung, etc." als erste im
+               ganzen Buch.<note type="ea">Der Titel der nicht gehaltenen Vorlesung lautete: Einleitung in die Theologie
+                  und Religionswissenschaft (Wintersemester 1917/18).</note> Wie ist <rs ref="#tillich_person_id__1931" type="person">Gretis</rs>
+               Wohnung? </p>
+            <closer>
+               <salute>Dein tr.</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

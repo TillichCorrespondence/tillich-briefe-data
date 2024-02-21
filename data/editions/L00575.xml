@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00575">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Erich Pfeiffer an Paul Tillich <lb/>vom 26. Juli 1918 </title>
+            <author ref="#tillich_person_id__1487">Erich Pfeiffer</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Leopold Potyka</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/174(39)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1487">Erich Pfeiffer</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1918-07-26">26.07.1918</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="LP" when="2022-04-16">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2024-02-09">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>Reichwehr-Brigade No. 15<rs ref="#tillich_place_id__37" type="place"
+                     >(Berlin)</rs>
+                  <date when="1918-07-26">26/VII</date></dateline>
+               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>!</salute>
+            </opener>
+            <p>Erst heute erhielt ich Ihre Karte. Allerherzlichsten Glückwunsch. Ich habe mehrmals
+               wiederum vergeblich antelefoniert. Morgen fahre ich <add place="sublinear">auf Urlaub
+                  nach <rs ref="#tillich_place_id__437" type="place">Thüringen</rs> u. <rs
+                     ref="#tillich_place_id__32" type="place">Oberbayern</rs></add> u. fahre erst
+               Ende August<pb n="2"/> zurück. Leider macht es sich mit dem Koffer nicht mehr! </p>
+            <closer>
+               <salute>Herzlichst Ihr</salute>
+               <signed><rs ref="#tillich_person_id__1487" type="person">Pfeiffer</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
