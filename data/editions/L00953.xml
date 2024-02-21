@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00953">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Wilhelm Ruprecht an Paul Tillich
+               <lb/>vom 22. Oktober 1927
+            </title>
+            <author ref="#tillich_person_id__2569">Wilhelm Ruprecht</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <repository>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Archiv des Verlages Vandenhoeck &amp; Ruprecht - Autorenkorrespondenz/G 1888-1936</collection>
+                  <idno>Nachl. 494, G 1923. 138</idno>   
+               </msIdentifier>
+               <physDesc>
+                  <p>Briefdurchschlag maschinenschriftlich</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal">
+                        <monogr>
+                           <author>Friedrich Wilhelm Graf</author>
+                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                              <date when="2020">2020</date>
+                              <biblScope>S. 26–170, hier: 150f.</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Zeitschrift für Neuere Theologiegeschichte</title>
+                           <biblScope>27/1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
+              <date when="1927-10-22">22.10.1927</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__126">Dresden</placeName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="NH" when="2023-08-11">Initiale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2024-01-24">Endabnahme</change>
+        
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>!</salute>
+        </opener>
+        <p>Unsere <rs xml:id="L00951" type="letter"><rs xml:id="L00952" type="letter">Briefe</rs></rs> vom <date when="1927-10-21">21.X.</date> haben sich gekreuzt. Selbstverständlich dürfen und wollen wir Ihnen nicht zureden, etwas zu veröffentlichen, was Sie selber als unvollkommen empfinden. Doch brauchen Sie ja den Gedanken noch nicht aufzugeben. Behalten Sie sich nur bitte das gesonderte Erscheinen des Aufsatzes gegenüber der Redaktion der "Chr. Welt" und des "Logos" vor, da Sie andernfalls erst ein Jahr nach Ablauf des Kalenderjahres, in welchem der Aufsatz erscheint, zur anderweitigen Veröffentlichung befugt sein würden. Können Sie dann nachher die drei Aufsätze so gestalten, daß sie nicht lose nebeneinander stehen, sondern ein zusammenhängendes Ganzes bilden, so würde das für die Verbreitung der Buchausgabe natürlich sehr erwünscht sein.
+        </p>
+        <closer>
+           <salute>In der Hoffnung, in nicht zu ferner Zeit wieder von Ihnen zu hören, mit besten Empfehlungen</salute>
+        </closer>
+     </div>
+    </body>
+  </text>
+</TEI>

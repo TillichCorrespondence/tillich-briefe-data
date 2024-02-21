@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01091">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Walter Spitta an Paul Tillich <lb/>vom 28. Februar 1931</title>
+            <author ref="#tillich_person_id__2455">Walter Spitta</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/188(5)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2455">Walter Spitta</persName>
+               <placeName ref="#tillich_place_id__223">Jade</placeName>
+               <date when="1931-02-28">28.02.1931</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-07-10">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2024-01-11">Endabnahme</change>
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <rs ref="#tillich_place_id__223" type="place">Jade</rs>, d. <date when="1931-02-28">28. II.
+                     31.</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>,</salute>
+            </opener>
+            <p>Ich <rs ref="#tillich_work_id__116" type="work">übersende Ihnen hier eine kleine Legende</rs>, die mir formal ziemlich mißglückt zu
+               sein scheint. Der Zweck war, Kinder über die Eschatologie zu belehren, was ja sehr
+               schwer ist.</p>
+            <p>Ich glaube, daß meine Entscheidungen, im Frühjahr in <rs type="place">Marburg</rs>
+               abgebrochen zu haben, richtig geworden sind. Ich bin sehr froh, dem Druck geistiger
+               Bevormundung in <rs type="place">Marburg</rs> entronnen zu sein. Hier auf meinem
+               einsamen Herrensitz, mit dem großen Park, der von tiefen Wassergräben umgeben ist, habe ich das Gefühl der
+                  Freiheit<pb n="2"/> wieder gewonnen, das die Voraussetzung für geistiges Schaffen
+               ist. Die Gemeinde ist sehr schwierig. Ich kann die Männer in Nazis, Stahlhelmer und
+               Tannenberger aufteilen. Bei der ersten Beerdigung gab es gleich einen Zusammenschluß,
+               allerdings nicht politischer Art. Außerdem muß ich einen Prozeß führen, gegen einen
+               Bauern, den der Kirchenrat so wenden will, daß ich ihn verliere. –</p>
+            <p>Ist <rs ref="#tillich_person_id__1516" type="person">Poelchau</rs> bereits Doktor geworden? Grüßen Sie
+               ihn bitte!</p>
+            <closer>
+               <salute>Mit herzlichen Grüßen an an <rs ref="#tillich_person_id__1923" type="person">Ihre
+                  Frau</rs></salute>
+               <signed>bin ich Ihr <rs ref="#tillich_person_id__2455" type="person">Walter Spitta</rs>.</signed>
+            </closer>
+
+         </div>
+
+      </body>
+   </text>
+</TEI>

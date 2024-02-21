@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01101">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief vom Preußischen Ministerium für Wissenschaft, Kunst und Volksbildung an Paul Tillich
+               <lb/>vom 24. März 1931
+            </title>
+            <author ref="#tillich_person_id__2457">Preußisches Ministerium für Wissenschaft, Kunst und Volksbildung</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Gerrit Mauritz</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambrige, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/175(49)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__2457">Preußisches Ministerium für Wissenschaft, Kunst und Volksbildung</persName>
+              <placeName ref="#tillich_place_id__37">Berlin</placeName>
+              <date when="1931-03-24">24.03.1931</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="GM" when="2023-08-29">Intitale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2024-02-12">Endabnahme</change>
+        
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener><rs ref="#tillich_person_id__169" type="person">Der Preußische Minister für Wissenschaft, Kunst und Volksbildung</rs><lb/>
+           <hi rend="u">U II Nr.5265, U I.</hi><lb/>
+              <dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs> W8, den <date when="1931-03-24">24. März 1931.</date></dateline><lb/></opener>
+        <p>Ich ernenne Sie hiermit für die Rechnungsjahre 1931 und 1932 vorbehaltlich jederzeitigen Widerrufs zum Mitgliede des Wissenschaftlichen Prüfungsamtes in <rs ref="#tillich_place_id__143" type="place">Frankfurt a. M.</rs> für Philosophie und philosophische Propädeutik.</p>
+        <p>Für Ihre Tätigkeit erhalten Sie eine Entschädigung nach den Bestimmungen der Runderlasse vom 26. März 1924 – U II 2296 II UI – und vom 6. Oktober 1928 – U II 16236 U I –.</p>
+        <p>Über Ihre Heranziehung zu den Prüfungen entscheidet der Vorsitzende des Prüfungsamtes, Studiendirektor <rs ref="#tillich_person_id__2496" type="person">Dr. <hi rend="g">Weinstock</hi></rs>, sein Stellvertreter ist der ordentliche Professor <rs ref="#tillich_person_id__2393" type="person">Dr. <hi rend="g">Schultz</hi></rs> in Frankfurt a.M.</p>
+        <closer>Im Auftrage<lb/>
+           <signed><rs ref="#tillich_person_id__2852" type="person">Jahnke</rs></signed></closer>
+        <salute>An<lb/>
+           den ordentlichen Professor<lb/>
+           Herrn <rs ref="#tillich_person_id__1928" type="person">D. Dr. <hi rend="g">Tillich</hi></rs><lb/>
+           in<lb/>
+        <hi rend="u"><rs ref="#tillich_place_id__143" type="place">Frankfurt a.M.</rs></hi></salute>
+     </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01127">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Oskar Siebeck <lb/>vom 9. März 1932 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="copy">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement>Berlin</settlement>
+                  <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Archiv des Verlages J. C. B. Mohr (Paul
+                     Siebeck)</collection>
+                  <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, maschinenschriftlich</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal" n="firstPrint">
+                        <monogr>
+                           <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
+                           <title>"Beweise einer unsichtbaren Beziehung". Die Korrespondenz zwischen
+                              Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul
+                              Siebeck)</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+                              <date when="2011">2011</date>
+                              <biblScope>237-407, hier: 315</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>International Yearbook for Tillich Research</title>
+                           <biblScope>Bd. 6, H. 1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+               <date when="1932-03-09">09.03.1932</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
+               <placeName ref="#tillich_place_id__448">Tübingen</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="FS" when="2023-06-19">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-02-19">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#tillich_place_id__143" type="place">Frankfurt</rs>, <date
+                     when="1932-03-09">9. III. 32</date></dateline>
+               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1780" type="person"
+                     >Siebeck</rs>!</salute>
+            </opener>
+            <p>Gleichzeitig geht das Mskrpt. meiner Universitätsrede an Sie ab. Ich glaube, dass der
+               Vortrag in dieser Form nicht unwichtig ist, da er abgesehen von seiner aktuellen
+               Beziehung ein gewisses Bild des so unbekannten jungen <rs
+                  ref="#tillich_person_id__839" type="person">Hegel</rs> vermittelt. Da ich nach dem
+                  <date when="1932-03-20">20. III.</date> eine kleine Erholungsreise machen muss,
+               wäre ich Ihnen sehr dankbar, wenn Sie mir das vereinbarte Honorar jetzt gleich
+               überweisen könnten auf meine Bank, <address>
+                  <rs ref="#tillich_place_id__143" type="place">Gebr. Sulzbach, Frankfurt Main,
+                     Mainzer Ldstr. 4</rs>
+               </address></p>
+            <closer>
+               <salute>Mit bestem Dank<lb/>Ihr sehr ergebener</salute>
+               <signed><rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

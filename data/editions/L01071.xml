@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01071">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief vom Preußischen Ministerium für Wissenschaft, Kunst und Volksbildung an Paul Tillich
+               <lb/>vom 21. Juni 1930
+            </title>
+            <author ref="#tillich_person_id__2457">Preußisches Ministerium für Wissenschaft, Kunst und Volksbildung</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Gerrit Mauritz</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambrige, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/175(49)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, als maschinenschriftliche Abschrift überliefert</p>
+                  </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__2457">Preußisches Ministerium für Wissenschaft, Kunst und Volksbildung</persName>
+              <placeName ref="#tillich_place_id__37">Berlin</placeName>
+              <date when="1930-06-21">21.06.1930</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="GM" when="2023-07-25">Initiale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2024-01-16">Endabnahme</change>
+        
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener><rs ref="#tillich_person_id__169" type="person">Der Preußische Minister für Wissenschaft, Kunst und Volksbildung</rs><lb/>
+           <hi rend="u">UI NR.20306.</hi><lb/>
+              <dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs> den <date when="1930-06-21">21. Juni 1930.</date></dateline><lb/>
+           Auf den Bericht vom <date when="1930-01-30">30. Januar 1930</date> - T.Nr.239 -<lb/>
+           ./. Anlagen. 1. Heft.</opener>
+        <p>Im Einverständnis mit dem Herrn <rs ref="#tillich_person_id__2725" type="person">Finanzminister</rs> wird dem ordentlichen Professor in der Philosophischen Fakultät der dortigen Universität <rs ref="#tillich_person_id__1928" type="person">D.Dr. Tillich</rs> für den Fall der Gewährung einer Hinterbliebenenversorgung aus der Staatskasse in Aussicht gestellt, daß seine früheren Dienstzeiten<lb/>
+           a) vom <date when="1912-08-18">18.August 1912</date> bis <date when="1913-05-14">14.Mai 1913</date> und vom <date when="1914-08-20">20.August 1914</date> bis <date when="1914-09-30">30.September 1914</date> als evangelischer Geistlicher in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> und<lb/>
+           b) vom <date when="1925-05-01">1.Mai 1925</date> bis <date when="1929-03-31">31.März 1929</date> als Professor an der Technischen Hochschule in <rs ref="#tillich_place_id__126" type="place">Dresden</rs><lb/>
+           gemäß § 14 Abs. 2 HFG in Verbindung mit § 19 Abs. 1 Ziffer 1a und b ZRG als ruhegehaltsfähige Dienstzeit angerechnet werden.
+        </p>
+        <p>Die endgültige Entscheidung kann nach den bestehenden Grundsätzen erst beim Eintritt des Versorgungsfalles erfolgen.</p>
+        <p>Bezüglich der Kirchendienstzeit setze ich voraus, daß die gleiche Zeit auch von Sachsen als ruhegehaltsfähig anerkannt worden ist.</p>
+        <closer>Im Auftrage<lb/>
+           gez. <signed><rs ref="#tillich_person_id__2471" type="person">Windelband.</rs></signed></closer>
+        <salute>An den <rs ref="#tillich_person_id__1610" type="person">Univeristätskurator</rs> in <rs ref="#tillich_place_id__143" type="place">Frankfurt a.M.</rs> (durch den Herrn <rs ref="#tillich_person_id__2726" type="person">Oberpräsident</rs> in Kassel).<lb/>
+           Herrn<lb/>
+           Professor <rs ref="#tillich_person_id__1928" type="person">Dr. <hi rend="g">Tillich</hi></rs><lb/>
+           <hi rend="u">hier.</hi></salute>
+     </div>
+    </body>
+  </text>
+</TEI>

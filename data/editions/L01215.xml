@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01215">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Emil Fuchs an Paul Tillich <lb/>vom 17. April 1933</title>
+            <author ref="#tillich_person_id__2463">Emil Fuchs</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/143(34)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2463">Emil Fuchs</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1933-04-17">17.04.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-07-18">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2023-12-21">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <rs ref="#tillich_place_id__478" type="place">Zehlendorf-Mitte</rs>, <address>
+                     <street>Katharinenstr. 21</street>
+                  </address> bei Rossmann, <date when="1933-04-17">17. April 1933</date></dateline>
+               <salute>Verehrter <rs ref="#tillich_person_id__1928" type="person"
+                  >Freund</rs>!</salute>
+            </opener>
+            <p>Also auch Sie! – Wir hoff<del rend="s">e</del>ten fast, das würde nun doch nicht
+               geschehen, freuen uns aber der guten Gesellschaft.</p>
+            <p>Sollte es nicht wünschenswert sein, dass die Abgebauten alle mit einander Fühlung
+               nehmen oder wenigstens der Kreis der uns Naheste<del rend="s">ß</del>henden.</p>
+            <p>Ich habe mich beim Ministerium melden lassen mit der Anfrage nach Gründen des Abbaus,
+               da ich ja vor allen andern zunächst allein abgebaut war. Ich bin an den Referenten
+               der Akademien <rs ref="#tillich_person_id__2464" type="person">Bargheer</rs>
+               verweisen, kann ihn aber wegen einer heftigen Erkältung zunächst nicht aufsuchen.
+               Soll ich ev. berichten, was ich hörte? </p>
+            <p>Ich würde es sehr begrüssen wenn wir zu irgend einer gemeinsamen sachlichen Erklärung
+               an das Ministerium kommen könnten. So weit ich sehe, würde das von weiten Kreisen
+               verstanden. Bitte grüssen Sie <rs ref="#tillich_person_id__1209" type="person"
+                  >Löwe</rs>, <rs ref="#tillich_person_id__1307" type="person">Mennicke</rs> und
+               teilen Sie mir bald mit, ob man sich treffen kann, vielleicht hier in <rs
+                  type="place">Berlin</rs>, wo ich noch einige Zeit bei meiner Schwester bin.</p>
+            <closer>
+               <salute>Viele herzliche Grüsse</salute>
+               <signed>Ihr <rs ref="#tillich_person_id__2463" type="person">Emil Fuchs</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

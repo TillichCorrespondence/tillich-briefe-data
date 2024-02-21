@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01027">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Verlag Mohr Siebeck <lb/>vom 20. August 1929 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="Kopie">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Archiv des Verlages J. C. B. Mohr (Paul
+                     Siebeck)</collection>
+                  <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, Maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+            <biblStruct type="journal">
+               <monogr>
+                  <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
+                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
+                     Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                  <imprint>
+                     <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
+                     <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+                     <date when="2011">2011</date>
+                     <biblScope>237-403, hier: S. 386</biblScope>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title>International Yearbook for Tillich Research</title>
+                  <biblScope>Band 6 Heft 1</biblScope>
+               </series>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__392">Kampen a. Sylt</placeName>
+               <date when="1929-08-20">20.08.1929</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__2440">Verlag Mohr Siebeck</persName>
+               <placeName ref="#tillich_place_id__448">Tübingen</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="SK" when="2023-06-13">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-02-15">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#tillich_place_id__392" type="place">Kampen a. Sylt, Haus
+                     Schultz-Sembten</rs>, den <date when="1929-08-20">20. 8. 29</date></dateline>
+               <salute>
+                  <lb/>An den <lb/>Verlag Mohr <lb/><hi rend="u">Tübingen</hi>
+               </salute>
+            </opener>
+            <p>Anbei sende ich Ihnen das <rs type="work" ref="#tillich_work_id__218">R.G.G.</rs>
+               Manuscript <rs type="work" ref="#tillich_work_id__226">Offenbarung
+                  religionsphilosophisch</rs>. Die Manuscripte zur Philosophie <rs type="work"
+                  ref="#tillich_work_id__228">I</rs>. u. <rs type="work" ref="#tillich_work_id__229"
+                  >III</rs> folgen im Laufe des <date when="1929-09">September</date>. Leider war es
+               mir nicht möglich, das von Ihnen gewünschte Papier zu verwenden, da ich keines
+               erhalten habe. Falls Sie es für die anderen Manuscripte wünschen, bitte ich um
+               Zusendung an <rs ref="#tillich_place_id__230" type="place">obige Adresse</rs>.</p>
+            <p>Für die lange Verzögerung bitte ich um Entschuldigung. Sie war durch meinen Ruf nach
+                  <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> und durch die damit
+               zusammenhängende Überlastung begründet.</p>
+            <closer>
+               <salute>Ihr sehr ergebener <lb/>
+                  <rs ref="#tillich_person_id__1928" type="person">Professor D. Dr. Paul
+                     Tillich</rs>
+               </salute>
+               <signed><ptr/><rs ref="#tillich_person_id__1928" type="person"><hi rend="u"
+                        >Tillich</hi></rs>.<lb/>
+                  <hi rend="hand"><rs type="person" ref="#tillich_person_id__1928"
+                  >Tillich</rs></hi></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

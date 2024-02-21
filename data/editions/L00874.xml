@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00874">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Oskar Siebeck an Paul Tillich <lb/>vom 8. Juni 1926</title>
+            <author ref="#tillich_person_id__1780">Oskar Siebeck</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="copy">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Archiv des Verlages J. C. B. Mohr (Paul
+                     Siebeck)</collection>
+                  <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich; Durchschlag</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal" n="firstPrint">
+                        <monogr>
+                           <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
+                           <title>"Beweise einer unsichtbaren Beziehung". Die Korrespondenz zwischen
+                              Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul
+                              Siebeck)</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+                              <date when="2011">2011</date>
+                              <biblScope>237-407, hier: 287f.</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>International Yearbook for Tillich Research</title>
+                           <biblScope>Bd. 6, H. 1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
+               <date when="1926-06-08">08.06.1926</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__126">Dresden, <address>
+                     <street>Elisenstrasse 11</street>
+                  </address></placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="NH" when="2023-01-06">Intitale Auszeichnung des Transkripts</change>
+         <change who="NH" when="2024-01-15">Vorbereitung/Korrektur für die Endabnahme</change>
+         <change who="NH" when="2023-01-28"/>
+         <change who="PS" when="2024-02-14">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr
+                     Professor</rs>,</salute>
+            </opener>
+            <p>über Ihren freundlichen <rs xml:id="L00873" type="letter">Brief</rs> vom 4. ds. Mts.
+               habe ich mich sehr gefreut; denn die Offenheit, mit der Sie mir Ihre Sorgen darlegen,
+               weiss ich als einen Beweis Ihres Vertrauens sehr zu schätzen. Die gewünschten M.
+               100.- habe ich alsbald zur Zahlung an Sie angewiesen, und ich stehe nicht an, Ihnen
+               auch einen weiteren Zuschuss für M. 1000.- anzubieten, wenn wir über Ihre "Dogmatik"
+               schon jetzt zu einer Einigung kommen können.</p>
+            <p>Ueber die bei diesem Werke entstandene Komplikation hatte ich Gelegenheit, auf der
+               Heimreise mit <rs ref="#tillich_person_id__1723" type="person">Herrn Professor Karl
+                  Ludwig Schmidt</rs> im strengsten Vertrauen Rücksprache zu nehmen. Dabei habe ich
+               den Eindruck bekommen, dass Sie die Ratschläge, die er Ihnen bezüglich des Verlages
+               dieses Werkes gegeben hat, vielleicht doch nicht ganz richtig verstanden haben. Ich
+               möchte Sie daher angelegentlich bitten, sich mit <rs ref="#tillich_person_id__1723"
+                  type="person">K. L. Schmidt</rs> nochmals in Verbindung zu setzen, ehe Sie sich
+               bezüglich der "Dogmatik" endgültig entschliessen.</p>
+            <p>Was sodann den Zeitschriftenplan Ihres Kreises anbelangt, so kann ich Sie darüber
+               durchaus beruhigen, dass Sie an meiner Ablehnung durchaus nicht schuld sind.
+               Ausschlaggebend waren für mich vielmehr, was ich Ihnen ebenfalls im strengsten
+               Vertrauen sagen kann, die etwas utopischen Vorschläge für die Verlagsbedingungen, die
+               mir <rs ref="#tillich_person_id__438" type="person">Herr de Man</rs> unterbreitet
+               hat, und die für mich, zumal bei der ohnehin reichlich starken Inanspruchnahme durch
+               laufende Unternehmen, schlechterdings nicht diskutierbar waren.</p>
+            <closer>
+               <salute>Ich freue mich sehr, über die Aussicht, das Manuskript Ihres neuen Vortrages
+                  längstens in 10 bis 14 Tagen zu bekommen und verbleibe mit freundlichen
+                  Empfehlungen, wenn ich bitten darf, auch an Ihre verehrte <rs
+                     ref="#tillich_person_id__1923" type="person">Frau Gemahlin,</rs> Ihr
+                  ergebener</salute>
+               <signed><rs ref="#tillich_person_id__1780" type="person"><hi rend="hand">Dr. O.
+                        Siebeck</hi></rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

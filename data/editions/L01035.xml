@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01035">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich
+               <lb/>vom 24. Oktober 1929 [PS]
+            </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 721/2(26)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+                  </physDesc>
+            </msDesc>     
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__37">Berlin</placeName>
+              <date when="1929-10-24">24.10.1929</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+              <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="SK" when="2023-11-22">Initiale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2023-12-20">Endabnahme</change>
+        
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="postcard">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener><salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute></opener>
+        <p>Dieses Mal sind die Ereignisse fast nicht mehr zu berichten: Also: Gestern Abend mit <rs ref="#tillich_person_id__1672" type="person">Emmy</rs> Theater (<rs ref="#tillich_work_id__tillich_work_id__49" type="work">Der Kaiser von Amerika</rs> von <rs ref="#tillich_person_id__2605" type="person">Bernhard Shaw</rs>). Nachher mit <rs ref="#tillich_person_id__1307" type="person">Karolus</rs>, Emmy, <rs ref="#tillich_person_id__1307" type="person">Karolus</rs>' Freundin, <rs ref="#tillich_person_id__2631" type="person">Frau v. Achenbach</rs> im "Femina-Palais". Wenig Tanz. Hier fabelhafte Debatte über "Konkretion". Heut früh Furche-Verlag. Dann 1 <formula notation="TeX">\frac{1}{2}</formula> Stunden bei <rs ref="#tillich_person_id__169" type="person">Minister Becker</rs>. Reizende Plauderei. Nichts über mich. Dann bei <rs ref="#tillich_person_id__1760" type="person">E. Seeberg</rs>. Er will mich als Theologen nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> haben. Dann sehr schönes Gespräch mit <rs ref="#tillich_person_id__2094" type="person">Wolfers</rs>: Er ist wie nie auf der Höhe <pb n="2"/> Dann Vortrag. Zahllose Bekannte: Großer Erfolg. Dann Diskutieren, sehr lebendig. Jetzt noch mit <rs ref="#tillich_person_id__1763" type="person">Ehrhard</rs> und <rs ref="#tillich_person_id__2601" type="person">Veronika Erdmann</rs> (die mit <rs ref="#tillich_person_id__2627" type="person">Frau <unclear reason="illegible">K¿¿¿</unclear></rs> da war) im Romanischen Kaffee. Mehr kannst Du in 24 Stunden nicht verlangen. Kuß an <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs>! 
+        </p>
+        <closer>
+           <salute>Ich liebe Dich</salute>
+           <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
+        </closer>
+      
+     </div>
+    </body>
+  </text>
+</TEI>

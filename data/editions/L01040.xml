@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01040">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Beatrice Löwe an Paul Tillich <lb/>vom 3. Dezember 1929</title>
+            <author ref="#tillich_person_id__1208">Beatrice Löwe</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="transscript">
+               <msIdentifier>
+                  <repository>Archiv unbekannt. Die nachfolgende Edition gibt die Version aus Tillichs Gesammelten Werken wieder.</repository>
+               </msIdentifier>
+            </msDesc>
+            <biblStruct type="monograph">
+               <monogr>
+                  <author>Paul Tillich
+                  </author>
+                  <title>Ein Lebensbild in Dokumenten</title>
+                  <edition>1. Auflage</edition>
+                  <imprint>
+                     <publisher>Renate Albrecht</publisher>
+                     <pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
+                     <date when="1980">1980</date>
+                     <biblScope>187</biblScope>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title>Ergänzungs- und Nachlassbände zu den Gesammelten Werken von Paul
+                     Tillich</title>
+                  <biblScope>Band V</biblScope>
+               </series>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="P=1208">Beatrice Löwe</persName>
+               <placeName ref="#tillich_place_id__238">Kiel</placeName>
+               <date when="1929-12-03">03.12.1929</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-08-23">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2024-01-22">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <rs ref="#tillich_place_id__238" type="place">Kiel</rs>, <date when="1929-12-03">3. Dezember
+                     1929</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr Tillich</rs>!</salute>
+            </opener>
+            <p>Dieser Brief soll Ihnen danken für das, was Sie mir mit Ihrem <rs ref="#tillich_work_id__154" type="work">Aufsatz</rs> gegeben haben!
+               Es ist unendlich beglückend, dies, was man mehr oder weniger dunkel als das Rechte
+               und Notwendige in sich fühlt, plötzlich geschrieben - und noch dazu in solch
+               meisterhafter Form - in Händen zu halten</p>
+            <p>Ich stehe nun wieder seit einiger Zeit in der sozialen Arbeit, die mir beruflich und
+               menschlich gleich nahe ist. Bei all dem Schweren, was man da erlebt, ist das
+               Traurigste der Untergrund immer wieder, die Sinnlosigkeit in dem Leben dieser
+               Menschen. Sie läßt einen verstummen und will einem jede Hoffnung nehmen.</p>
+            <p>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr Tillich</rs>, ich war skeptisch für die
+               <rs ref="#tillich_work_id__66" type="work">Zeitschrift</rs>! Seitdem ich Ihren Aufsatz kenne, weiß ich, daß sie gegründet werden <hi rend="u">mußte</hi> und daß es gut so ist. Und wären es nicht viele Menschen, so
+               werden es sicher die wertvollsten sein, die sich aufgerüttelt fühlen durch <hi rend="u">diesen</hi> Geist des Sozialismus, den ich mit jeder Faser bejahe. Ich
+               kann mir als Einleitendes nichts Schöneres vorstellen, als Ihre Arbeit es ist.</p>
+            <p>Ich mußte Ihnen dies sagen!</p>
+            <closer>
+               <salute>Ihnen und Ihrer lieben <rs ref="#tillich_person_id__1923" type="person">Frau</rs> und der kleinen
+                     <rs ref="#tillich_person_id__570" type="person">Tochter</rs> alles Gute</salute>
+               <signed>Ihre <rs ref="#tillich_person_id__1208" type="person">Beatrice Löwe</rs>.</signed>
+            </closer>
+
+         </div>
+
+      </body>
+   </text>
+</TEI>

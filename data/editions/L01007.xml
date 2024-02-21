@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01007">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Paul Tillich an Hannah Tillich
+                    <lb/>vom 4. März 1929 [PS]
+                </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                        <idno>bMS 721/2(26)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+                    <date when="1929-03-04">04.03.1929</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                    <placeName ref="#tillich_place_id__126">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2023-09-06">Initiale Auszeichnung des Transkripts</change>
+            <change who="FS" when="2023-12-20">Endabnahme</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="postcard">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebste!!</salute>
+                </opener>
+                <p>Nach mühsamer Fahrt, trotz F-D-Zug 1 <formula notation="TeX">\frac{1}{2}</formula> St. Verspätung, in <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> an, von <rs ref="#tillich_person_id__664" type="person">Gelb</rs> abgeholt, kurze Unterhaltung, um 1 ins Bett, glänzend geschlafen. Um <formula notation="TeX">\frac{1}{2}</formula> 10 bei <rs ref="#tillich_person_id__1610" type="person">Riezler</rs>. Sehr feine Besprechungen. Dann mit <rs ref="#tillich_person_id__664" type="person">Gelb</rs> im Seminar, dann beim <rs ref="#tillich_person_id__2503" type="person">Dekan</rs>. Überall freundlichste Aufnahme. Mittagessen bei <rs ref="#tillich_person_id__1610" type="person">Riezler</rs>: Fabelhafte Wohnung und Bilder. Spaziergang mit <rs ref="#tillich_person_id__1972" type="person">Ilse</rs>. Tee bei <rs ref="#tillich_person_id__1577" type="person">Reinhard</rs> (berühmter Gräcist) Dort <rs ref="#tillich_person_id__736" type="person">Gundolf</rs> und <rs ref="#tillich_person_id__2504" type="person">Frau</rs>. Feine Unterhaltung mit ihm. Bitte, ihn in <rs ref="#tillich_place_id__203" type="place">Heidelberg</rs> zu besuchen.<note type="ea">Tillich kam dieser Einladung im Jahr 1930 nach, wie aus dem Gästebuch Gundolfs zu entnehmen ist (vgl. <rs ref="#tillich_work_id__79" type="work">Gundolf, Briefe. Neue Folge, 262, Anm. 353</rs>).</note> Dann Abendbrot bei <rs ref="#tillich_person_id__664" type="person">Gelb</rs>. Lange intensive Dis<pb n="2"/>kussion mit ihm, <rs ref="#tillich_person_id__697" type="person">Goldstein</rs>, <rs ref="#tillich_person_id__1610" type="person">Riezler</rs>, <rs ref="#tillich_person_id__1532" type="person">Prinzhorn</rs>, <rs ref="#tillich_person_id__1577" type="person">Reinhardt</rs> etc. Glänzender Kreis. Heute Wohnungssachen etc... Wahrscheinlich Ankunft in <rs ref="#tillich_place_id__126" type="place">Dresden</rs> <date when="1929-03-05">Dienstag</date> Abend um 11. / <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> nicht sehr groß-städtisch!
+</p>
+                <closer>
+                    <salute>In Liebe</salute>
+                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

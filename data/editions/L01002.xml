@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01002">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Johann Pange an Paul Tillich <lb/>vom 15. Februar 1929</title>
+            <author ref="#tillich_person_id__2451">Johann Pange</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/173(14)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2451">Johann Pange</persName>
+               <placeName ref="#tillich_place_id__307">Münster</placeName>
+               <date when="1929-02-15">15.02.1929</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__126">Dresden</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-07-07">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-01-16">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <rs ref="#tillich_place_id__307" type="place">Münster</rs>, den <date
+                     when="1929-02-15">15. Februar 1929</date></dateline>
+               <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr
+                     Tillich</rs>!</salute>
+            </opener>
+            <p>Während ich am Donnerstag vor acht Tagen die Freude hatte, <rs
+                  ref="#tillich_person_id__1537" type="person">Pater Przywara</rs>, einen der
+               angeregtesten und verständnisvollsten Gäste meines Instituts zu begrüssen, habe ich
+               leider von Ihrem Besuch in <rs ref="#tillich_place_id__307" type="place">Münster</rs>
+               erst nachträglich gehört und <rs ref="#tillich_person_id__137" type="person">Karl
+                  Barth</rs>, der sich leider von einer anschaulichen Darstellung der
+               Gesamtwirklichkeit (sie ist trotz Ihrer Bedenken möglich gewesen) genau so fern hält,
+               wie es sein Gottesbegriff verlangt, konnte Ihnen nicht darum wohl erzählen, dass hier
+               in <rs ref="#tillich_place_id__307" type="place">Münster</rs>, wie <rs
+                  ref="#tillich_person_id__1537" type="person">Przywara</rs> es ausdrückte, der
+               stärkste Spannungsgegensatz für das dreieckige Verhältnis von Gott, Einzelseele und
+               Wirklichkeit zu erleben ist, wenn man die Eindrücke in meinem Institut den
+               Diskussionen im Kreise <rs ref="#tillich_person_id__137" type="person">Barths</rs>
+               gegenüberstellt.</p>
+            <p>Sie haben mich 1926 durch Ihren Versuch über das "System der Wissenschaften" lebhaft
+               angeregt und es war mir, wie ich eben schon andeutete, eine besondere Freude, dass
+               meine dynamischen Tafeln eine Lösung möglich gemacht haben, die Ihnen unerreichbar
+               erschien. Natürlich handelt es sich in allen solchen Fällen in gewissem Masse um die
+               kleine Gewaltsamkeit eines "Ei des Kolumbus". Aber<pb n="2"/> um mich näher
+               verständlich zu machen, müsste ich Ihnen meine Tafeln zeigen können.</p>
+            <p>So schicke ich Ihnen anliegend eine kleine Schrift über mein Institut, die mir
+               vielleicht die Freude verschafft, Sie bei Ihrer nächsten Anwesenheit in <rs
+                  ref="#tillich_place_id__307" type="place">Münster</rs> zu einer ausgiebigen
+               Führung begrüssen zu können.</p>
+            <closer>
+               <salute>Mit verbindlichen Empfehlungen Ihr sehr ergebener</salute>
+               <signed><rs ref="#tillich_person_id__2451" type="person"><unclear>Johann
+                        Pange</unclear></rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

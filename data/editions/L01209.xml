@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01209">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Emanuel Hirsch an Paul Tillich <lb/>vom 14. April 1933</title>
+            <author ref="#tillich_person_id__904">Emanuel Hirsch</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/152(56)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__904">Emanuel Hirsch</persName>
+               <placeName ref="#tillich_place_id__186">Göttingen</placeName>
+               <date when="1933-04-14">14.04.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-08-05">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2023-12-21">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <rs ref="#tillich_place_id__186" type="place">Göttingen</rs>
+                  <date when="1933-04-14">14. 4. 33</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
+            </opener>
+            <p>eben lese ich in der Zeitung – unter einer Reihe mir schrecklicher Namen, bei denen
+               ich keinen Schmerz empfinde – zu meinem Schmerze auch Deine Beurlaubung. Ich bedaure,
+               daß damit eine bei Dir schon in <rs type="work" ref="#tillich_work_id__64">Deinem
+                  letzten Buch</rs> spürbare Hinüberentwicklung zum Nationalsozialismus, <sic>zu dem
+                  gehörst</sic> (auch wenn Du es noch nicht weißt) und dem Du ein kluger und
+               verantwortlicher geistiger Führer hättest werden müssen, so jäh in Frage gestellt
+               wird. Meine herzliche Bitte ist, Dich – Du bist ja ein innerlich gelöster Mensch –
+               nicht beirren zu lassen, sondern rein fachlich weiter Dich dahin zu stellen, wo Du
+               hingehörst, ins neue Deutschland. Bittere Existenzsorgen wirst Du ja nicht bekommen,
+               da Du mit Deinem Kriegsdienst zusammen wohl an 20 Jahre Dienstalter haben wirst, und
+               so kann noch alles gut werden.</p>
+            <p>Grüß <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>. In Liebe, und in
+               Ehrfurcht vor Deiner Wahrhaftigkeit, und mit der Bitte: Halte das Band mit mir,</p>
+            <closer>
+               <signed>Dein alter <rs ref="#tillich_person_id__904" type="person"
+                  >Emanuel</rs>.</signed>
+            </closer>
+            <postscript>
+               <p>Ich spüre in diesen Wochen mehrmals, daß ich so sehr einflußlos bin. Ich hatte
+                  gedacht, 14 Jahre treuer und leidenschaftlicher Kampf für das neue Deutschland
+                  immer in der theologischen und kirchlichen Denklinie würden jetzt mein Wort und
+                  meinen Rat in den Dingen und Menschen, die ich urteilen kann, suchen lassen. Aber
+                  das ist nicht der Fall. Am 20.4. haben wir nationale Dozenten mit dem Rektor und
+                  den Studenten zusammen eine große Feier, ohne Unterschied von Deutschnationalen
+                  und Nationalsozialisten.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

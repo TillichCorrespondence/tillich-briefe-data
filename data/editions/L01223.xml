@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01223">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Waltraut Stephan an Paul Tillich <lb/>vom 30. April 1933</title>
+            <author ref="#tillich_person_id__2476">Waltraut Stephan</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/202(6)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2476">Waltraut Stephan</persName>
+               <placeName ref="#tillich_place_id__68">Bonn</placeName>
+               <date when="1933-04-30">30.04.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-07-27">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2024-01-09">Endabnahme</change>
+
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <rs ref="#tillich_place_id__68" type="place">Bonn</rs>, am <date when="1933-04-30">30.IV.1933</date></dateline>
+               <salute>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>!</salute>
+            </opener>
+            <p>Aus meinem Anruf wird nun ein Brief, denn ich bin nach <rs ref="#tillich_place_id__68" type="place">Bonn</rs> gegangen. <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> ist mir nach allen Veränderungen fast so fremd wie andere
+               Universitäten auch. Hier habe ich in <rs ref="#tillich_person_id__2477" type="person">Herrn Professor
+                  Naumann</rs> einen Lehrer, bei dem ich mich wohl fühlen kann. Ich glaube,
+               daß auch das andere (Geschichte und Philosophie) nicht schlecht sein wird.</p>
+            <p>Wie schmerzlich es für uns ist – ich kann auch im Namen meiner Freundinnen so
+               sprechen –, daß Sie im Augenblick, und wer weiß für wie lange, nicht mehr lehren und
+               wirken können, brauche ich Ihnen nicht zu sagen. Ich darf und will was mich betrifft
+               nicht klagen, denn mein Herz gehört der nationalen Bewegung. Da hat es eben Grund
+               genug zur Freude und muß<pb n="2"/> das andere als Opfer ansehen, das ja jeder
+               bringen muß. Das müßte ich eben noch einmal sagen – obwohl Sie es wohl schon wüßten –
+               um der Aufrichtigkeit willen. Trotz meiner nationalen Haltung habe ich an Ihrer
+               Philosophie wohl das Wertvollste meines ganzen Studiums. So wird es auch bleiben.</p>
+            <p>Sicher ist nicht alles gut, was eben geschieht. Man will reinigen, aber man macht uns
+               auch ärmer dabei. An uns Jungen wird es sein, das an Kultur und Leistung aus uns
+               aufzubringen, was eben um einer anderen Gesinnung oder Abstammung willen abgewiesen
+               wird. Wir dürfen dann vielleicht auch wieder mäßigen und verbinden und vor allem
+               werden wir der Kritik wieder eine Stimme geben müssen.</p>
+            <p>Was Sie nun tun können und tun werden, weiß ich nicht. Jedenfalls wünsche<pb n="3"/>
+               ich Ihnen von Herzen, daß Sie irgendeine Möglichkeit finden möchten, Ihre Philosophie
+               zu lehren und zu entwickeln. Was ich bei Ihnen gelernt habe, werde ich nicht wieder
+               vergessen, und ich bliebe gern – dies ist eine ganz zaghafte Bitte – in dem Kreis
+               Ihrer Wirksamkeit wenn auch nur ganz von ferne einbezogen.</p>
+            <closer>
+               <signed>Ihre Schülerin <rs ref="#tillich_person_id__2476" type="person">Waltraut Stephan</rs>.</signed>
+            </closer>
+
+          
+         </div>
+
+      </body>
+   </text>
+</TEI>

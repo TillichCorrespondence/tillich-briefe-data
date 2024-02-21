@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01097">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Elis an Paul Tillich <lb/>vom 5. März 1931 [PS]</title>
+            <author ref="#tillich_person_id__2361">Elis</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Hannah Tillich</collection>
+                  <idno>bMS 721/3(1)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2361">Elis</persName>
+               <placeName ref="#tillich_place_id__275">Magdeburg</placeName>
+               <date when="1933-03-05">05.03.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-09-06">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2024-02-19">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><rs ref="#tillich_place_id__275" type="place">Magdeburg</rs><lb/>
+               <salute>Liebe <rs ref="#tillich_person_id__1928" type="person"><rs ref="#tillich_person_id__1923" type="person">Tillichs</rs></rs>,</salute>
+            </opener>
+            <p>für diesmal werde ich die Reise zu Euch aufgeben. Mir tut es natürlich sehr Leid –
+               und meine Mutter freut sich, weil meine Schwester hier schwerkrank liegt. Es schadet
+               nicht so viel – weil ich in 10 Tagen über <unclear reason="illegible"><rs ref="#tillich_place_id__198" type="place">Hamburg</rs></unclear>
+               <rs ref="#tillich_place_id__37" type="place">Berlin</rs> sehr gern nach <rs ref="#tillich_place_id__126" type="place">Dresden</rs>
+               zurückkehren werde, wo die Liebe noch wieder in schönstem Glanze auferstanden ist.
+               Zieht glücklich um und viel Glück in der neuen Umgebung.</p>
+            <closer>
+               <signed>Herzlichst Eure <rs ref="#tillich_person_id__2361" type="person">Elis</rs>.</signed>
+            </closer>
+
+
+         </div>
+
+      </body>
+   </text>
+</TEI>

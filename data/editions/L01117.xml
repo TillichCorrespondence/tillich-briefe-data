@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01117">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Erich Pfeiffer an Paul Tillich <lb/>vom 15. Dezember 1931</title>
+            <author ref="#tillich_person_id__1487">Erich Pfeiffer</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/174(39)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1487">Erich Pfeiffer</persName>
+               <placeName ref="#tillich_place_id__126">Dresden</placeName>
+               <date when="1931-12-15">15.12.1931</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-07-10">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2024-01-22">Endabnahme</change>
+
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <rs ref="#tillich_place_id__126" type="place">Dresden</rs>, den <date when="1931-12-15">15.
+                     Dezember 1931.</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
+            </opener>
+            <p>leider habe ich im Jahre 1931 immer wieder vergeblich auf Ihren Besuch in
+                  <rs type="place">Dresden</rs> gewartet, jedoch höre ich zu meiner Freude, daß Sie
+               Anfang Januar hier einen Vortrag halten wollen. Nun bin ich allerdings
+               voraussichtlich vom <date from="1931-12-31" to="1932-01-03">31. Dezember bis 3. Januar</date> verreist. Sollte ich jedoch hier sein,
+               so werde ich selbstverständlich recht gern wieder einmal etwas für meine Bildung
+               tun.</p>
+            <p>Ich benutze die Gelegenheit, Ihnen heute in Erinnerung an "unsere gemeinsame
+               Kriegsfirma" ein kleines Weihnachtsgeschenk zu machen: die Abschrift eines Briefes,
+               den Sie einst an mich gerichtet haben.<note type="ea">Nicht genau ermittelt, zu Pfeiffers Anspielung vgl. jedoch etwa den Brief Paul Tillichs an Erich Pfeiffer vom <rs xml:id="L00514" type="letter">19. Oktober 1916</rs>.</note> Gewiß wird er Sie sehr interessieren, denn er
+               weckt alte schöne Erinnerungen. Gleichzeitig übersende ich Ihnen und Ihrer sehr
+               verehrten <rs ref="#tillich_person_id__1923" type="person">Gattin</rs> meine besten Grüße und Wünsche zum
+               Fest und verbleibe </p>
+            <closer>
+               <signed>stets Ihr <rs ref="#tillich_person_id__1487" type="person">E. Pfeiffer</rs>.</signed>
+            </closer>
+
+         </div>
+
+      </body>
+   </text>
+</TEI>

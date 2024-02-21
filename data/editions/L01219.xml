@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01219">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Joachim Kirchner an Paul Tillich <lb/>vom 21. April 1933</title>
+            <author ref="#tillich_person_id__2474">Joachim Kirchner</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/44(4)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2474">Joachim Kirchner</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+               <date when="1933-04-21">21.04.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-07-27">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-01-05">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <rs ref="#tillich_place_id__143" type="place">Frankfurt a.Main</rs>, den <date
+                     when="1933-04-21">21.April 1933</date>
+                  <address>
+                     <street>Untermainkai 15.</street>
+                  </address></dateline>
+               <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr
+                     Professor</rs>,</salute>
+            </opener>
+            <p>heute morgen besuchte mich <rs ref="#tillich_person_id__2475" type="person">Herr
+                  Professor Schwietering</rs> und teilte mir mit, dass Sie über die Verbreitung des
+               Gerüchtes, Sie hätten sich beim Stahlhelm angemeldet, sehr empört wären; nach wir vor
+               fühlten Sie sich der Sozialdemokratischen Partei gesinnungsgemäss verbunden. Dieses
+               Gerücht ist neben anderen über Sie kursierenden auch mir zu Ohren gekommen. Bei den
+               unendlich vielen Mitteilungen, die böswillige oder leichtgläubige Menschen
+               verbreiten, kann ich beim besten Willen augenblicklich nicht mehr feststellen, wer
+               der Verbreiter der Ihre Person betreffenden Gerüchte ist. Ich selbst habe mich
+               aufrichtig gefreut, dass diese Sie kompromittierende<del rend="s">n</del> Nachricht
+               nicht zutrifft. Ich habe in den letzten Wochen stets betont, dass Sie als Verfasser
+               des Werkes <rs type="work" ref="#tillich_work_id__64">"Die
+                  sozialistische Entscheidung"</rs> einer der mutigen Gegner der nationalen
+               Bewegung sind. Wenn ich als Mitkämpfer der Hitlerbewegung auch Ihr Buch inhaltlich
+               völlig ablehne, so werde ich es doch niemals dulden, dass einer ehrlichen
+               gegnerischen Überzeugung mit Waffen böswilliger Verleumdung begegnet wird. Da ich
+               selbst im politischen Kampfe unter Verleumdungen zu leiden habe, kann ich Ihre
+               Empörung sehr gut verstehen. Aus dem Gefühl heraus, dass man politische Gegensätze
+               auch in anständiger Form austragen kann, werde ich den über Sie ausgestreuten
+               Gerüchten entgegentreten und in den interessierten politischen Kreisen entsprechende
+               Mitteilung machen.</p>
+            <p>Eine Abschrift dieses Briefes leite ich <rs ref="#tillich_person_id__2475"
+                  type="person">Herrn Professor Dr. Schwietering</rs> zu.</p>
+            <closer>
+               <salute>Mit ausgezeichneter Hochachtung</salute>
+               <signed>Ihr ergebener <rs ref="#tillich_person_id__2474" type="person">J.
+                     Kirchner</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

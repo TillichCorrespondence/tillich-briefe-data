@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01034">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich
+               <lb/>vom 22. Oktober 1929 [PS]
+            </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 721/2(26)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+                  </physDesc>
+            </msDesc>     
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__37">Berlin</placeName>
+              <date when="1929-10-22">22.10.1929</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+              <placeName ref="#tillich_place_id__143">Frankfurt/Main</placeName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="SK" when="2023-11-21">Initiale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2023-12-20">Endabnahme</change>
+        
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="postcard">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>Liebste süße <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</opener>
+        <p>Ich bin so froh, daß Du regelmäßig schreibst. Es ist nun wachsende Hetze und kein Ruhepunkt. Nur gestern Abend wars nett. Ich aß mit <rs ref="#tillich_person_id__2620" type="person">Frau Rosenbaum</rs> Abendbrot: Die wilde <rs ref="#tillich_place_id__230" type="place">Kampener</rs> Reiterin. Aber auch da kamen wir bald auf die Probleme: Anscheinend unentrinnbares Schicksal. Heut früh nach endlich mal langem Schlaf Konferenz mit <rs ref="#tillich_person_id__1571" type="person">Reichwein</rs> (persönlicher Assistent von <rs ref="#tillich_person_id__169" type="person">Becker</rs>), Mittag mit <rs ref="#tillich_person_id__1763" type="person">Ehrhard</rs>, Besprechung mit <rs ref="#tillich_person_id__1516" type="person">Pölchau</rs>. Jetzt Arbeit zu Haus. – <rs ref="#tillich_person_id__1763" type="person">Ehrhard</rs> ist schon<pb n="2"/> in Tempelhof. <rs ref="#tillich_person_id__2621" type="person">Harald</rs> will vielleicht nach <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> kommen. Er war sehr fein. Etwas schmal. <rs ref="#tillich_person_id__2620" type="person">Fr. Rosenbaum</rs> ist ganz in sich verhaftet und darin wohl unproduktiv. Aber sehr fein. <rs ref="#tillich_person_id__2688" type="person">Rothschilds</rs> gehen auf ein Jahr nach England.
+        </p>
+        <closer>
+           <salute>Ich liebe Dich</salute>
+           <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs></signed>
+        </closer>
+      
+        <postscript><p><add place="intralinear">Viele Grüße
+           <lb/>Uli</add><note type="ea">Mitten auf der Karte, schräg auf dem Kopf stehend, in anderer Handschrift und eingekreist.</note></p></postscript>
+      
+     </div>
+    </body>
+  </text>
+</TEI>

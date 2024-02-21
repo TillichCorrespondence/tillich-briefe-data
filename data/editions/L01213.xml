@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01213">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Georg Küntzel an Paul Tillich <lb/>vom 15. April 1933</title>
+            <author ref="#tillich_person_id__2483">Georg Küntzel</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/159(63)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2483">Georg Küntzel</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+               <date when="1933-04-15">15.04.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-08-23">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2023-12-21">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <rs ref="#tillich_place_id__143" type="place">Frankfurt A. M.-SÜD</rs>, den <date
+                     when="1933-04-15">15. April 1933</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr
+                  Kollege</rs>!</salute>
+            </opener>
+            <p>Mehrfache vergebliche Anrufe lassen mich vermuten, daß Sie nicht in <rs type="place"
+                  ref="#tillich_place_id__143">Ffm</rs> anwesend sind. So lassen Sie mich Ihnen
+               wenigstens schriftlich sagen, wie tief ich bedaure, daß Sie beurlaubt wurden. Gerade
+               weil ich sonst <unclear>dem Entscheidenden</unclear>, was geschieht, eine sehr
+               positive Einstellung habe, ist mir Ihr Fall menschlich und sachlich sehr schmerzlich.
+               Die Tatsache, daß <unclear>¿¿¿ ... ¿¿¿</unclear> eine Beurlaubung
+                  <unclear>¿¿¿</unclear> hat, schafft ja immerhin eine Frist, in der vielleicht doch
+               noch manches sich verändern kann. Nach einer Rückfrage bei<pb n="2"/> dem
+               stellvertretenden <unclear>¿¿¿</unclear> kann die <unclear>¿¿¿</unclear>universität
+               nichts tun. Also belibt das Schaustück d. <unclear>¿¿¿</unclear> abzuwarten.</p>
+            <closer>
+               <salute>Mit freundlichen Grüßen</salute>
+               <signed>Ihr <rs ref="#tillich_person_id__2483" type="person">Georg
+                  Küntzel</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

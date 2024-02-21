@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01200">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Erich Seeberg 
+               <lb/>vom 19. März 1933
+            </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement>Koblenz</settlement>
+                  <institution>Bundesarchiv Koblenz</institution>
+                  <collection>Nachlass Reinhold und Erich Seeberg</collection>
+                  <idno>N 1248</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  </physDesc>
+               <additional> 
+                  <listBibl>
+                     <biblStruct type="journal" n="firstPrint">
+                        <monogr>
+                           <author>Erdmann Sturm</author>
+                           <title>"Vielleicht kommen wir nun doch zu einer gemeinsamen Arbeit in Berlin". Paul Tillichs Briefe an Reinhold und Erich Seeberg (1924–1935)</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace><pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+                              <date when="2012">2012</date>
+                              <biblScope>211–253, hier: 244f.</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>International Yearbook for Tillich Research</title>
+                           <biblScope>Bd. 7, H. 1</biblScope>
+                        </series>
+                     </biblStruct>  
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <date when="1933-03-19">19.03.1933</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1760">Erich Seeberg</persName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="FS" when="2023-09-05">Initiale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2024-01-11">Endabnahme</change>
+        
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <dateline>d. <date when="1933-03-19">19. 3. 33</date><note type="eb">Erklärende Anmerkungen zu vorliegendem Brief wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note></dateline>
+           <salute>Lieber Herr <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs>!</salute>
+        </opener>
+        <p>Sie haben mir die Trauernachricht<note type="ea">Diese Nachricht liegt nicht vor.</note> von dem Tode Ihrer <rs ref="#tillich_person_id__2502" type="person">Mutter</rs> geschickt und ich habe mit Ihnen gefühlt, was dieser Verlust für Sie, vor allem aber für Ihren <rs ref="#tillich_person_id__1761" type="person">Vater</rs> bedeutet. Bitte sprechen Sie Ihrem <rs ref="#tillich_person_id__1761" type="person">Vater</rs> meine herzliche Teilnahme aus.</p>
+        <p>Haben Sie besten Dank für Ihre Mitteilung über die Berliner Angelegenheit. Durch die neue Lage sind ja sowieso alle Voraussetzungen für eine Berufung nach Berlin hingefallen. Dagegen ist in anderer Beziehung eine neue Situation für mich entstanden, über die ich Ihnen vertraulich etwas mitteilen möchte und zu der ich Ihre Hülfe in einer ganz anderen Richtung in Anspruch nehmen muss.</p>
+        <p>Wie Sie sich denken können, ist die <rs ref="#tillich_place_id__143" type="place">Frankfurter</rs> Universität, an der etwa ein halb Dutzend linksgerichteter Professoren dozieren, Gegenstand heftiger politischer Angriffe. Auch ich bin davon nicht verschont. Teils wegen meines energischen Verhaltens als Senatsmitglied im vorigen Semester (bei Gelegenheit des Überfalls von universitätsfremden S.A.gruppen auf die Universität<note type="ea">Am 22. Juni 1932 war es an der Frankfurter Universität zu gewalttätigen Auseinandersetzungen des NS-Studentenbundes und der SA mit der "Roten Studentengruppe" gekommen; vgl. Bundesarchiv Berlin Bestand I. HA Rep 76 Kultusministerium, Nr. 485.</note>) teils wegen meiner programatischen Schrift "<rs ref="#tillich_work_id__64" type="work">Die sozialistische Entscheidung</rs>", die Weihnachten erschienen ist (ich weiss nicht, ob ich sie Ihnen schon geschickt habe oder ob Sie sie sonst kennen). Die Schrift ist ein umfassender Versuch, die beiden grossen politischen Tendenzen, "die ursprungsmythische", die in der nationalen Bewegung wirkt, und die "profetische", die den Hintergrund des Sozialismus bildet, zusammenzufassen. Es handelt sich also um den Versuch, einen zugleich profetischen und der deutschen Situation angemessenen Sozialismus zu schaffen.</p>
+        <p>Es besteht nun die Gefahr, dass die Angriffe auf die Universität und auf mich persönlich erfolgreich sind, falls nicht Gegenkräfte eingesetzt werden. Mir ist nicht bekannt, ob Sie direkt oder indirekt Beziehungen zu den gegenwärtig massgebenden Kreisen, namentlich im Kultusministerium haben, um dort meine wirkliche Stellung darlegen zu können. Aber vielleicht ist dies nicht einmal das Wichtigste. Wichtiger ist, dass die Kirche resp. massgebende rechtsgerichtete Persönlichkeiten in der Kirche den Sinn und die Bedeutung der religiös-sozialistischen Bewegung in den letzten Jahrzehnten verständlich machen und deutlich erklären, dass die Existenz religiös-sozialistischer Professoren unmittelbar im Interesse der Kirche liegt. Vielleicht wäre es auch sinnvoll, darauf hinzuweisen, dass die Kirche ein Interesse daran hat, protestantische Theologen in philosophischen Lehrstühlen zu halten, um die philosophische Besinnung nicht ausschließlich dem Katholizismus oder Humanismus zu überlassen.</p>
+        <p>Selbstverständlich bedeutet das nicht, dass ich von meiner wirklichen Überzeugung auch nur um Haaresbreite abweichen könnte. Sie kennen mich ja gut genug, um zu wissen, dass davon keine Rede sein kann. Wenn ich Ihre Hilfe in Anspruch nehme, so tue ich es deswegen, weil ich für nötig halte, dass der Popanz Marxismus, nachdem er seine agitatorische Wirksamkeit gehabt hat, differenziert wird und die Arbeit zu seiner inneren Weiterbildung in die kommenden Bewegungen aufgenommen wird. Da den gegenwärtigen Regierungsträgern eine wirkliche Kenntnis dieser Dinge im allgemeinen fehlt, ist es nicht nur ein persönliches, sondern auch ein sachlich wichtiges Anliegen, das ich an Sie habe.</p>
+        <p>Im übrigen sehe ich den Dingen mit Ruhe entgegen. Vielleicht kommen wir nun doch zu einer gemeinsamen Arbeit in <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, denn wenn man mich hier beseitigt, aber die Existenz in Deutschland ermöglicht, bliebe mir kaum etwas anderes übrig, als – – – eine Habilitation für Religionsphilosophie in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> zu versuchen.</p>
+                          <p>Ich wäre Ihnen dankbar, wenn Sie mir offen schrieben, wie Sie die Lage beurteilen und welche Möglichkeiten Sie selbst haben, einzugreifen.
+</p>
+        <closer>
+           <salute>Mit herzlichem Gruss, auch an Ihre <rs ref="#tillich_person_id__2466" type="person">Frau</rs><lb/>Ihr</salute>
+           <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
+        </closer>  
+     </div>
+    </body>
+  </text>
+</TEI>

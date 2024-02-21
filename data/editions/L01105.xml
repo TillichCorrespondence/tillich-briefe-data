@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01105">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Erich Seeberg an Paul Tillich
+               <lb/>vom 21. Mai 1931
+            </title>
+            <author ref="#tillich_person_id__1760">Erich Seeberg</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__239">Koblenz</settlement>
+                  <institution>Bundesarchiv Koblenz</institution>           
+                  <collection>Nachlass Reinhold und Erich Seeberg</collection>
+                  <idno>>N 1248</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Briefdurchschlag, maschinenschriftlich</p>
+                  </physDesc>             
+               <additional> 
+                  <listBibl>
+                     <biblStruct type="journal" n="firstPrint">
+                        <monogr>
+                           <author>Erdmann Sturm</author>
+                           <title>"Vielleicht kommen wir nun doch zu einer gemeinsamen Arbeit in Berlin". Paul Tillichs Briefe an Reinhold und Erich Seeberg (1924–1935)</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace><pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+                              <date when="2012">2012</date>
+                              <biblScope>211–253, hier: 247f.</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>International Yearbook for Tillich Research</title>
+                           <biblScope>Bd. 7, H. 1</biblScope>
+                        </series>
+                     </biblStruct>  
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1760">Erich Seeberg</persName>
+              <date when="1931-05-21">21.05.1931</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="SK" when="2023-11-29">Initiale Auszeichnung des Transkripts</change>
+        <change who="SK" when="2023-12-05">XML Id hinzugefügt</change>
+        <change who="SK" when="2023-12-13">Name ID von Kohlmeyer und Uhlig ausgebessert</change>
+        <change who="FS" when="2024-01-11">Endabnahme</change>        
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <dateline><date when="1931-05-21">21. Mai 1931</date><note type="eb">Erklärende Anmerkungen zu vorliegendem Brief wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note></dateline>
+           <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr Tillich</rs>!</salute>
+        </opener>
+        <p>Ich komme heute mit einer diskreten Bitte zu Ihnen, die Sie vielleicht gelegentlich bei dem Ihnen befreundeten <rs ref="#tillich_person_id__1965" type="person">Herrn Uhlig</rs>, den ich nur oberflächlich kenne, unterbreiten könnten.</p>
+        <p>Wie ich höre, wünscht <rs ref="#tillich_person_id__2640" type="person">Herr Rückert</rs> in <rs ref="#tillich_person_id__260" type="place">Leipzig</rs> zu seinem Nachfolger einen Privatdozenten <rs ref="#tillich_person_id__2641" type="person">Vogelsang</rs> aus <rs ref="#tillich_person_id__515" type="place">Königsberg</rs>, der zwar eine brauchbare <rs ref="#tillich_work_id__65" type="work">Dissertation über Lutherische Christologie</rs> geschrieben hat, der aber sicher aus ebenso dürrem Holz wie <rs ref="#tillich_person_id__2640" type="person">Rückert</rs> selbst geschnitzt ist. Ich würde es sehr bedauern, wenn aus reinen Schulgesichtspunkten ein so blutiger Anfänger auf einen der grossen Lehrstühle meines Faches berufen werden würde. Soviel man gegen ältere Gelehrte wie <rs ref="#tillich_person_id__2401" type="person">Hermelink</rs>, <rs ref="#tillich_person_id__2127" type="person">Zscharnack</rs> oder <rs ref="#tillich_person_id__2650" type="person">Kohlmeyer</rs> einzuwenden vermag, so sehr würde ich doch jedem einzelnen von diesen den Vorzug geben vor einem Anfänger, dessen zukünftige Entwicklung ebenfalls keine glänzende sein wird, und wenn man in <rs ref="#tillich_person_id__260" type="place">Leipzig</rs> an <rs ref="#tillich_person_id__2641" type="person">Herrn Vogelsang</rs> denkt, so ist das zum mindesten auch eine Ungerechtigkeit gegenüber dem hiesigen <rs ref="#tillich_person_id__2651" type="person">Privatdozenten Dress</rs>, der älter als sein <rs ref="#tillich_person_id__515" type="place">Königsberger</rs> <rs ref="#tillich_person_id__2641" type="person">Konkurrent</rs> und zugleich universaler begabt ist. Verzeihen Sie, dass ich Sie mit dieser Sache behellige, da ich aber von <rs ref="#tillich_person_id__260" type="place">Leipzig</rs> nicht gefragt bin, sondern da doch alles innerhalb der Schule <rs ref="#tillich_person_id__904" type="person">Hirsch</rs>-<rs ref="#tillich_person_id__2640" type="person">Rückert</rs>-<rs ref="#tillich_person_id__1180" type="person">Lietzmann</rs> abgemacht wird, so möchte ich auch nicht direkt an einen der <rs ref="#tillich_person_id__260" type="place">Leipziger</rs> Kollegen schreiben, möchte aber gern, dass diese Meinung in irgend einer Form von Ihnen bei der entscheidenden Instanz zur Geltung gebracht wird.</p>
+        <p>Es hat mir sehr leid getan, dass wir uns im <date when="1931-03">März</date> nicht getroffen haben. Ich hätte mich gern wieder mit Ihnen unterhalten zumal, da ich Ihre Ablehnung von <rs ref="#tillich_person_id__189" type="place">Halle</rs> sehr gut verstehen kann.<note type="ea">Tillich hatte am <date when="1931-03-20">20. März 1931</date> den Ruf an eine Systematische Professur in Halle abgelehnt.</note> Ich denke doch, dass diese Absage keine universale Absage an die Theologie überhaupt gewesen ist.        
+        </p>
+        <closer>
+           <salute>Mit den herzlichsten Grüssen bitte auch an <rs ref="#tillich_person_id__1923" type="person">Ihre Frau Gemahlin</rs> bin ich<lb/>
+              Ihr<note type="ea">Unterschrift fehlt, da Briefdurchschlag.</note></salute>
+        </closer>
+      
+     </div>
+    </body>
+  </text>
+</TEI>

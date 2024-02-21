@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00871">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Oskar Siebeck an Paul Tillich <lb/>vom 23. März 1926</title>
+            <author ref="#tillich_person_id__1780">Oskar Siebeck</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="Kopie">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Archiv des Verlages J. C. B. Mohr (Paul
+                     Siebeck)</collection>
+                  <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich; Durchschlag</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
+               <placeName ref="#tillich_place_id__448">Tübingen</placeName>
+               <date when="1926-03-23">23.03.1926</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__126">Dresden</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="NH" when="2022-12-08">Intitale Auszeichnung des Transkripts</change>
+         <change who="NH" when="2024-01-15">Vorbereitung/Korrektur für die Endabnahme</change>
+         <change who="NH" when="2023-01-28"/>
+         <change who="PS" when="2024-02-13">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr
+                     Professor</rs>,</salute>
+            </opener>
+            <p>für Ihre freundliche <rs xml:id="L00870">Karte</rs> vom 20. ds. Mts. sage ich Ihnen
+               meinen verbindlichsten Dank. Ich habe diesesmal an Kantate in <rs
+                  ref="#tillich_place_id__260" type="place">Leipzig</rs> ziemlich viel zu tun, werde
+               also erst gegen Ende der ersten Maiwoche nach <rs ref="#tillich_place_id__126"
+                  type="place">Dresden</rs> kommen können. Bis dahin werde ich von <rs
+                  ref="#tillich_person_id__856" type="person">Herrn Dr. Heller</rs> schon Näheres
+               über Ihre Zeitschrift gehört haben, und ich freue mich, in <rs
+                  ref="#tillich_place_id__126" type="place">Dresden</rs> dann auch mit Ihnen darüber
+               Rücksprache nehmen zu können.</p>
+            <p>Es wäre sehr erfreulich, wenn Ihr <rs type="work" ref="#tillich_work_id__15"
+                  >Hamburger Vortrag</rs> bis dahin in Druck vorliegen würde. Der Anfang des
+               Semesters ist immer der günstigste Zeitpunkt für die Ausgabe wissenschaftlicher
+               Neuigkeiten. Würde sich dagegen die Ausgabe bis in den Mai oder gar in den Juni
+               verzögern, so wäre das weit weniger günstig.</p>
+            <closer>
+               <salute>Mit freundlichen Empfehlungen bin ich stets Ihr ergebenster</salute>
+               <signed><rs ref="#tillich_person_id__1780" type="person"><hi rend="hand">Dr. O.
+                        Siebeck</hi></rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

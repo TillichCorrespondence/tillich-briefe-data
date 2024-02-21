@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00922">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Oskar Siebeck <lb/>vom 10. Dezember 1926 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="copy">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Archiv des Verlages J. C. B. Mohr (Paul
+                     Siebeck)</collection>
+                  <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, handschriftlich</p>
+               </physDesc>
+            </msDesc>
+            <biblStruct type="journal">
+               <monogr>
+                  <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
+                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
+                     Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                  <imprint>
+                     <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
+                     <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+                     <date when="2011">2011</date>
+                     <biblScope>237-403, hier: S. 296, 299</biblScope>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title>International Yearbook for Tillich Research</title>
+                  <biblScope>Band 6 Heft 1</biblScope>
+               </series>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__126">Dresden</placeName>
+               <date when="1926-12-10">10.12.1926</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="SK" when="2023-06-27">Intitale Auszeichnung des Transkripts</change>
+         <change who="SK" when="2023-11-03">Falsche Physdesc Beschriftung ausgebessert. Es handelt
+            sich um einen Brief, keine Postkarte.</change>
+         <change who="PS" when="2024-02-15">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+
+            <opener>
+               <dateline>Die Kulturwissenschaftliche Abteilung der Technischen Hochschule <lb/><rs
+                     ref="#tillich_place_id__126" type="place">Dresden</rs>, den <date
+                     when="1926-12-10">10. 12. 26.</date><lb/></dateline>
+               <salute>Sehr geehrter <rs ref="#tillich_person_id__1780" type="person">Herr
+                     Siebeck</rs>!</salute>
+            </opener>
+            <p>Zum <date when="1926-01">Januar</date> habe ich meinem Kollegen <rs
+                  ref="#tillich_person_id__1099" type="person">Kroner</rs> einen Aufsatz: "<rs
+                  type="work" ref="#tillich_work_id__84">Die Überwindung des
+                  Persönlichkeitsideals</rs>" für ein <rs ref="#tillich_place_id__126" type="place"
+                  >Dresdner</rs> Heft des Logos zugesagt. Es handelt sich um das Manuskript eines 2x
+               gehaltenen Vortrags, das ich <rs ref="#tillich_person_id__1099" type="person"
+                  >Kroner</rs> in einer kleinen Arbeitsgemeinschaft vorgelesen habe. – Nun wendet
+               sich der <rs ref="#tillich_place_id__126" type="place">Dresdener</rs> Lehrerverein,
+               vor dem ich <rs type="work" ref="#tillich_work_id__223">den Vortrag</rs> gehalten
+               habe, mit der Bitte an mich, ihn für <del rend="s">die sächs</del>. ihre
+               Lehrerzeitung zu überlassen. Nach Rücksprache mit Kollege <rs
+                  ref="#tillich_person_id__1099" type="person">Kroner</rs>, der sein Einverständnis
+               erklärt, wende ich mich an Sie mir der Bitte, zu gestatten, daß ich den Vortrag
+               gleichzeitig der Lehrerzeitung <del rend="s">mit</del> überlasse, die dafür gehalten
+               wäre, folgende Notiz aufzunehmen: "Erscheint gleichzeitig im Logosheft der
+               Professoren der <rs ref="#tillich_place_id__126" type="place">Dresdner</rs>
+               Kulturwissenschaftlichen Abteilung." Das wäre eine glänzende Reklame für das betr.
+               Heft in <rs ref="#tillich_place_id__383" type="place">Sachsen</rs>. Vielleicht
+               formulieren sie die Notiz von verlegerischem Gesichtspunkte aus noch etwas anders.
+               Der Herausgeber der Lehrer Zeitung ist einverstanden.</p>
+            <p>Das Gleiche gilt nun für die <rs ref="#tillich_place_id__198" type="place"
+                  >Hamburger</rs> Lehrerzeitung, wo ich einen ähnlichen Vortrag gehalten habe, und
+               zur Einsendung des <rs type="work" ref="#tillich_work_id__225">Manuskriptes</rs>
+               aufgefordert bin.</p>
+            <p>Mir liegt sehr viel daran, daß die Lehrer, für deren Nachwuchs ich hier ja zu sorgen
+               habe, mich kennen lernen. Das ist für die ganze, äußerst wichtige Sache der neuen
+               Lehrerbildung von größter <unclear><del rend="s">¿¿¿</del></unclear> Bedeutung.</p>
+            <p>Für eine möglichst schnelle, zusagende Antwort wäre ich Ihnen <hi rend="u">sehr</hi>
+               verbunden. Außerdem bitte ich Sie, die Zusendung von weiteren 5 Exemplaren des "<rs
+                  type="work" ref="#tillich_work_id__15">Dämonischen</rs>" an mich zu
+               veranlassen.</p>
+            <closer>
+               <salute>Mit bestem Gruß!<lb/>Ihr sehr ergebener</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich.</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

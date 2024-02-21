@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01205">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Bernhard Rust an Paul Tillich <lb/>vom 13. April 1933 </title>
+            <author ref="#tillich_person_id__1663">Bernhard Rust</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typoscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                  <idno>bms 721/218(9)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1663">Bernhard Rust (Der Preußische Minister für
+                  Wissenschaft, Kunst und Volksbildung U I Nr. 753,1)</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1933-04-13">13.04.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="SK" when="2023-06-28">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>, den <date
+                     when="1933-04-13">13. April 1933.</date><lb/>W 8 – Postfach – </dateline>
+               <salute> An<lb/> den ordentlichen Professor<lb/>
+                  <rs type="person" ref="#tillich_person_id__1928">Herrn Dr. P. Tillich</rs><lb/> in<lb/>
+                  <rs ref="#tillich_place_id__143" type="place"><hi rend="u">Frankfurt
+                     a/M.</hi></rs>
+               </salute>
+            </opener>
+            <p>Auf Grund des Gesetzes zur Wiederherstellung des Berufsbeamtentums vom <date
+                  when="1933-04-07">7. April 1933</date> (RGBl. S. 175 ff.) sehe ich mich veranlaßt,
+               Sie bis zur endgültigen Entscheidung mit sofortiger Wirkung aus Ihrem Amte zu
+               beurlauben. Diese Beurlaubung gilt auch für jede Tätigkeit, die Sie in Verbindung mit
+               Ihrem Hauptamt oder im Zusammenhang mit Ihrer Universitätsstellung ausüben. Ihre
+               Gehaltsbezüge werden Ihnen bis auf weiteres in der bisherigen Weise weitergezahlt.</p>
+            <closer>
+               <salute>Der Kommissar des Reichs</salute>
+               <signed>B Rust<note type="ea" resp="SK">Handschriftlich</note></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

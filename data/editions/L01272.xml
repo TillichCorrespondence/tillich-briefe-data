@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01272">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Paul und Hannah Tillich an Rudolf Otto
+                    <lb/>verm. zwischen 23. März 1930 und 24. April 1930
+                </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement>Marburg</settlement>
+                        <institution>Universität Marburg</institution>
+                        <repository>Universitätsbibliothek Marburg</repository>
+                        <collection>Rudolf Otto Archiv</collection>
+                        <idno>OA 1990</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, diktiert (in <rs ref="#tillich_person_id__1923" type="person">Hannah Tillichs</rs> Handschrift, einschließlich beider Unterschriften)</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                    <placeName ref="#tillich_place_id__220">Sorrento</placeName>
+                    <date notBefore="1930-03-23" notAfter="1930-04-24">Zwischen 23.03.1930 und 24.04.1930</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1438">Rudolf Otto</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2024-01-23">Initiale Auszeichnung des Transkripts, Endabnahme</change>
+            
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Lieber Herr <rs ref="#tillich_person_id__1438" type="person">Otto</rs>!<note type="ea">Der Poststempel der Karte stammt aus Sorrento, wo die Tillichs im Hotel Lorelei wohnten. Das Datum auf dem Stempel ist unlesbar, jedoch hatte Tillich kurz nach der Anreise, am <date when="1930-03-23">23. März 1930</date>, einen <rs xml:id="L01064" type="letter">Brief an Oskar Rühle</rs> vom Verlag Mohr Siebeck verfasst. Am <date when="1930-04-24">24. April 1930</date> schließlich begannen an der Universität Frankfurt die Vorlesungen des Sommersemesters. Diese Daten können also als terminus post bzw. ante quem verwendet werden.</note></salute>
+                </opener>
+                <p>Eben lese ich als Sonntagmorgen-Andacht Ihr <rs ref="#tillich_work_id__160" type="work">Buch</rs> über Indiens Gnadenreligion und entdecke die sehr freundliche Anmerkung über mich und den Kairos-Gedanken.<rs type="ea"><rs ref="#tillich_work_id__160" type="work" n="51">Otto, Die Gnadenreligion Indiens und das Christentum, S. 51, Anm. 1</rs>: "Das Erwarten des 'kairos', des Momentes des 'Durchbruches' von oben als Kritik und Gestaltung, und das Deutenwollen der Zeichen der Zeit unter dem Gesichtspunkte des kairos gibt heute der Theologie von Paul Tillich ihre besondere Note, und durch sie wahrt er sich, trotz seiner befremdlichen Ausdrücke vom 'Überseienden', dessen 'Symbolwort' Gott und Christus seien, eine entschieden christlichere Haltung als manche seiner Kritiker."</rs> Wir erholen uns nach einem beiderseits schweren Winter in Sorrento und denken an unsere erste Italienreise<rs type="ea">Im <date from="1924-08" to="1924-09">August und September 1924</date>.</rs> von <rs ref="#tillich_place_id__279" type="place">Marburg</rs> aus.</p>
+                <closer>
+                    <salute>Viele herzl. Grüsse<lb/>
+                        von uns beiden, <rs ref="#tillich_person_id__1928" type="person">Paul</rs> u.<lb/>
+                        <rs ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs></salute>
+                </closer>
+                <postscript><p>beste Grüsse an Ihre <rs ref="#tillich_person_id__2759" type="person">Schwester</rs></p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

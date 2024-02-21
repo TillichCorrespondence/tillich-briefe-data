@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00992">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich
+               <lb/>vom 8. Oktober 1928
+            </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement>Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                  <idno>bMS 721/2(25)</idno>
+               </msIdentifier> 
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+                  </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__37">Berlin</placeName>
+              <date when="1928-10-08">08.10.1928</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+              <placeName ref="#tillich_place_id__126">Dresden</placeName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="NH" when="2023-09-01">Initiale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2023-12-20">Endabnahme</change>
+        
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="postcard">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+        </opener>
+        <p>
+           Gestern Abend fabelhafte Aufführung<note type="ea">Gemeint ist das Stück "Herr Lamberthier" von Louis Verneuil im Berliner Lessingtheater.</note> von <rs ref="#tillich_person_id__2685" type="person">Bassermann</rs> - <rs ref="#tillich_person_id__2686" type="person">L. Mannheim</rs>: Einen ganzen Abend allein auf der Bühne mit höchster Spannung! Problem: Eifersucht. – – – </p>
+        <p>Nachher schnell nach Haus und totmüde ins Bett. Lange geschlafen, telephoniert. Von 12-5 sehr wichtige Besprechungen mit <rs ref="#tillich_person_id__1307" type="person">Mennicke</rs>. Ich denke, wir beide fangen unter anderen Voraussetzungen neu an in einzelnen <hi rend="u">konkreten</hi> Arbeiten unter Aus<pb n="2"/>schluß des Kreises <hi rend="u">als Kreis</hi>, (nicht der einzelnen)<note type="ea">Im Herbst 1927 war die letzte Ausgabe der "<rs ref="#tillich_work_id__77" type="work">Blätter für den religiösen Sozialismus</rs>" des Kairos-Kreises erschienen, der Kreis selbst löste sich allmählich auf. Aus den Plänen einer Nachfolgezeitschrift entstanden die ab Januar 1930 erscheinenden "<rs ref="#tillich_work_id__66" type="work">Neuen Blätter für den Sozialismus</rs>".</note> – – Wie geht es Euch? Wie seid Ihr angekommen. Ich war gestern während des Theaters sehr bei Dir.
+        </p>
+        <closer>
+              <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+           <dateline>(<date when="1928-10-08">Montag</date> Nachm. 6. Uhr.)</dateline>
+        </closer>
+       <pb n="1"/> 
+        <postscript><p>In <rs ref="#tillich_place_id__126" type="place">Dresden</rs> ist Paratyphus. Seid vorsichtig! Ich sorge mich etwas.<note type="ea">Rechts oben auf dem Kopf stehend in einem Kästchen notiert.</note></p></postscript>
+        <pb n="2"/> 
+        <postscript><p><hi rend="uu">Nicht</hi> nachsenden<note type="ea">Schräg auf der Karte notiert.</note></p></postscript>
+     </div>
+    </body>
+  </text>
+</TEI>

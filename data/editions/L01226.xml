@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01226">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Ada Adler an Paul Tillich <lb/>vom 10. Mai 1933</title>
+            <author ref="#tillich_person_id__10">Ada Adler</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/116(16)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__10">Ada Adler</persName>
+               <date when="1933-05-10">10.05.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-07-27">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-01-05">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <date when="1933-05-10">10. Mai 33.</date></dateline>
+               <salute>Lieber, sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr
+                     Prof Tillich</rs>,</salute>
+            </opener>
+            <p>diese letzte Bitte, die ich noch an Sie habe, hätte ich auch telefonisch erledigen
+               können, aber die meisten meiner Freunde sagen am Telefon nichts mehr, was irgendwie
+               wichtig ist. Sie sprachen davon, dass Sie bald einen Vortrag in der Schweiz zu halten
+               haben. Mein Mann ist in den nächsten 4 Wochen noch in der Schweiz beschäftigt + hat
+               schon so lange den Wunsch, Sie einmal sprechen zu können. Hier wird das ja nie mehr
+               möglich sein, aber vielleicht könnte er es sich doch einrichten, da er ja ein
+               Central-Abonnement f. d. Bahn hat.</p>
+            <p>Außerdem wüsste ich noch gerne, wie es mit der Kant-Gesellschaft ist. Ist sie auch
+               gleichgeschaltet oder besteht die Möglichkeit, dass man dort später einmal Mitglied
+               wird + wieder ein bisschen Anregung hat? Es wird mir meist so furchtbar leer +
+               einsam, mein Bruder + meine besten Freunde sind fort oder gehen bald, mein Mann hat
+               nun gerade jetzt eine viel intensivere Reisetätig<pb n="2"/> bekommen, sodass ich
+               also richtig Zeit habe, den Dingen in all ihrer Schwere + Bitterkeit nachzugrübeln.
+               Irgendwann werden wir dies gastliche Land wohl verlassen müssen des Kindes wegen,
+               aber obzwar ich manchmal glaube, diese Atmosphäre nicht mehr ertragen zu können, muss
+               ich hoffen, dass wir noch 3 bis 4 Jahre hier bleiben, jeder frühere Termin wäre die
+               Folge einer wirtschaftlichen Katastrophe.</p>
+            <p>Nun aber genug von mir. Ihnen + Ihren Lieben wünsche ich wärmstens alles, alles Gute.
+               In freier, schöner Landschaft – die Natur ist ja noch frei – werden Sie bald wieder
+               zur inneren Ruhe + zur Arbeit kommen!</p>
+            <p>Wenn Sie inbezug auf das Telefon nicht so ängstlich sind, rufen Sie mich doch bitte
+               unter 66230 an, wenn Sie aber nichts sagen wollen, kann ich ja noch bei Ihnen vorbei
+               kommen. Leben Sie wohl + grüssen Sie Ihre <rs ref="#tillich_person_id__1923"
+                  type="person">Gattin</rs>!</p>
+            <closer>
+               <signed>Ihre <unclear cert="low">Werdly</unclear></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

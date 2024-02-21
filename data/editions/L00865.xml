@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00865">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Oskar Siebeck <lb/>vom <date when="1926-03-05">5. März
+                  1926</date>
+            </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="Brief">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Archiv des Verlages J. C. B. Mohr (Paul
+                     Siebeck)</collection>
+                  <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, handschriftlich</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal" n="firstPrint">
+                        <monogr>
+                           <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
+                           <title>"Beweise einer unsichtbaren Beziehung". Die Korrespondenz zwischen
+                              Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul
+                              Siebeck)</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+                              <date when="2011">2011</date>
+                              <biblScope>237-407, hier: 279</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>International Yearbook for Tillich Research</title>
+                           <biblScope>Bd. 6, H. 1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <address>
+                  <placeName ref="#tillich_place_id__126">Dresden, Elisenstr. 11</placeName>
+               </address>
+               <date when="1926-03-05">05.03.1926</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
+               <placeName ref="#tillich_place_id__448">Tübingen</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="NH" when="2022-11-29">Intitale Auszeichnung des Transkripts</change>
+         <change who="NH" when="2023-01-28"/>
+         <change who="FS" when="2023-04-17">Ergänzende Auszeichnungen</change>
+         <change who="PS" when="2024-02-13">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1780" type="person"
+                     >Siebeck</rs>!</salute>
+            </opener>
+            <p>Über die Dogmatik will ich später schreiben, jetzt nur die Antwort auf Ihre <rs
+                  xml:id="L00863">Anfrage</rs> betr. den <rs type="work" ref="#tillich_work_id__15"
+                  >Hamburger Vortrag</rs>. Ich bin gern bereit, ihn Ihnen zu überlassen, müßte
+               allerdings noch etwas daran arbeiten. Ich denke, daß Sie ihn spätestens Ende März
+               haben können. Soviel ich mich erinnere, betrug das Honorar damals 100 M. Ich weiß
+               nicht, inwieweit es Ihnen möglich ist, gegenwärtig darüber hinauszugehen und bitte um
+               Ihre Mitteilung. Eventuell um den Entwurf eines Vertrages. Ich kann noch nicht genau
+               übersehen, wie lang der Vortrag wird. Doch schätze ich, etwas länger als der <rs
+                  type="work" ref="#tillich_work_id__9">Tübinger</rs>. Welches wäre die Höchstlänge? </p>
+            <closer>
+               <salute>Mit ergebenstem Gruß</salute>
+               <signed><rs type="person" ref="#tillich_person_id__1928">Prof. D. P.
+                  Tillich</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

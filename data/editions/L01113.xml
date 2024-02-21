@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01113">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Hendrik de Man an Paul Tillich 
+               <lb/>vom 19. Oktober 1931
+            </title>
+            <author ref="#tillich_person_id__438">Hendrik de Man</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Niederlande</country>
+                  <settlement ref="#tillich_place_id__12">Amsterdam</settlement>
+                  <institution>Koninklijke Nederlandse Akademie van Wetenschappen</institution>
+                  <repository>Internationaal Instituut voor Sociale Geschiedenis</repository>
+                  <collection>Archief Hendrik de Man ARCH00449</collection>
+                  <idno>Inv.Nr.[325]</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Briefdurchschlag, maschinenschriftlich</p>
+                  </physDesc>             
+            </msDesc>                   
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__438">Hendrik de Man</persName>
+              <date when="1931-10-19">19.10.1931</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="SK" when="2023-04-18">Initiale Auszeichnung des Transkripts</change>
+        <change who="SK" when="2023-05-31">Datum mit codiert</change>
+        <change who="SK" when="2023-12-19">Idno Nr. angepasst, typescript- datum Format ausgebessert</change> 
+        <change who="FS" when="2024-01-22">Endabnahme</change> 
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <dateline>den <date when="1931-10-19">19.Oktober 1931</date></dateline>
+           <salute><rs ref="#tillich_person_id__1928" type="person">Lieber Tillich</rs>,</salute>
+        </opener>
+        <p>Ich erhielt soeben den Text des Rundfunkvortrags von <rs ref="#tillich_person_id__1548" type="person">Radbruch</rs>, zu dem wir je ein Korreferat von fünf Minuten halten sollen.<note type="ea">Rundfunkvortrag und Diskussionsbeiträge sind abgedruckt in den <rs ref="#tillich_work_id__155" type="work">Neuen Blätter für den Sozialismus, 3. Jg., H. 1 (Jan. 1932), 8-18</rs>.</note> Ich nehme an, dass er Ihnen zu gleicher Zeit zugegangen ist, und <rs ref="#tillich_person_id__1548" type="person">Radbruch</rs> bittet mich, mich mit Ihnen in Verbindung zu setzen, um zunächst festzustellen, wer von uns beiden zuerst reden soll. Der Vortrag von <rs ref="#tillich_person_id__1548" type="person">Radbruch</rs> bietet mir so wenig Anlass zu Widerspruch, dass es vielleicht besser wäre, Sie kommen zuerst noch zu Wort. Vielleicht können wir uns noch vor <date when="1931-10-22">Donnerstag</date> Abend darüber einigen, da <rs ref="#tillich_person_id__1548" type="person">Radbruch</rs> auf Erledigung bis zum <date when="1931-10-24">24.d.Mts.</date> drängt, und zwar indem Sie mich unter 55002 anrufen. Mit Sicherheit bin ich allerdings nur um 2 und um 4 Uhr nachmittags zu erreichen, um letztere Zeit nur nicht am <date when="1931-10-21">Mittwoch</date> dieser Woche.</p>
+        <p>Der Leiter der Internationalen Schule für Philosophie in <rs ref="#tillich_place_id__11" type="place">Amersfort</rs>, <rs ref="#tillich_person_id__1979" type="person">Herr Vandewater</rs>, schrieb mir, dass er am Vormittag des Mittwoch, den <date when="1931-11-04">4. November</date>, mit uns beiden zusammenkommen möchte, im Falle der Verhinderung eventuelle auch am Nachmittag desselben Tages. Es handelt sich um die Kurse im nächsten Sommer. Teilen Sie mir bitte bei der gleichen Gelegenheit mit, welche Zeit Ihnen an dem Tag am besten passt, ich werde das dann Herrn <rs ref="#tillich_person_id__1979" type="person">Vandewater</rs> mitteilen. Am <date when="1931-11-04">Mittwoch</date> Vormittag kommt für mich nur die Zeit bis 11,15 Uhr in Frage, da ich von 11-1 Uhr Uebung habe.
+        </p>
+        <closer>
+           <salute>Mit freundlichem Gruss <lb/>Ihr</salute>
+        </closer>  
+      
+     </div>
+    </body>
+  </text>
+</TEI>

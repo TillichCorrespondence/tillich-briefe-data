@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01212">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von an Paul Tillich <lb/>vom</title>
+            <author ref="#tillich_person_id__2462">Friedel Haussig</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/151(19)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2562">Friedel Haussig</persName>
+               <date when="1933-04-15">15.04.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-07-18">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2023-12-21">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <date when="1933-04-15">15.4.33</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr Tillich</rs>
+                  -</salute>
+            </opener>
+            <p>ich möchte Ihnen nur mit ein paar armen Worten sagen, wie sehr ich an allem Anteil
+               nehme, was Sie jetzt betrifft. Ich denke mit beständiger Angst und Sorge an Sie und
+               zugleich in herzlicher Dankbarkeit und Treue, wie gewiß alle Ihre Studenten und
+               Freunde in diesen Tagen. Es ist mir unfaßlich,<pb n="2"/> daß kein solidarischer
+               Einspruch das Ganze aufzuhalten versuchte. Denn es ist undenkbar, daß das geistige
+               Deutschland Sie entbehren kann, wie es Ihnen ebenso undenkbar sein wird, sich von
+               diesem entfernen zu müssen. Ich hoffe und wünsche von ganzem Herzen, daß sich
+               irgendeine neue Möglichkeit hier für Sie ergeben möchte! Sobald ich wieder in Fft.
+               bin, werde ich bei Ihnen anrufen,<pb n="3"/> ich möchte Sie sehr gern bald sehen. Sie
+               wissen, daß wir alle uns Ihnen in dieser schweren Zeit doppelt verbunden fühlen.</p>
+            <closer>
+               <salute>Immer Ihr</salute>
+               <signed><rs ref="#tillich_person_id__2462" type="person">F. Haussig</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

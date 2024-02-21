@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00997">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Charlotte an Paul Tillich <lb/>vom 15. Dezember 1928</title>
+            <author ref="#tillich_person_id__2134">Charlotte</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
+                  <institution>Philipps-Universität Marburg</institution>
+                  <repository>Deutsches Paul-Tillich-Archiv</repository>
+                  <idno>023 Mikrofilm</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2134">Charlotte</persName>
+               <placeName ref="#tillich_place_id__260">Leipzig</placeName>
+               <date when="1928-12-15">15.12.1928</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-07-07">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-01-16">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <rs ref="#tillich_place_id__260" type="place"><del rend="s">D</del>Leipzig</rs>,
+                     <date when="1928-12-15">15. Dez. 28.</date></dateline>
+               <salute>Geliebter <rs ref="#tillich_person_id__1928" type="person"
+                  >Freund</rs>!</salute>
+            </opener>
+            <p>Ich muß es Ihnen ganz ernst und ruhig sagen, nein nicht so, ich lege meine Arme um
+               Ihren Hals, ich schmiege mich zärtlich an Ihren Körper, ich stehe auf den Zehen und
+               Sie müssen ein wenig den Kopf neigen, so kann ich es in Ihr Ohr flüstern: ich habe
+               mich Ihnen ja schon geschenkt. Ich bin ja schon Ihre Geliebte, es ist ja alles schon
+               geschehen!</p>
+            <p>Warum machen Sie sich Sorgen um mich? Das Spiel der Großen nannten Sie unsere
+               Blick-Sprache im Zug. Das Spiel der Großen, so ist auch unsere Liebe, unsere
+               Leidenschaft. Ein Spiel, ich weiß das doch. Warum zögern Sie noch? Bin ich denn so
+               vermessen, mir einzubilden, in Ihre Ehe störend einzudringen? Nein, Ich will nur <hi
+                  rend="u">meinen</hi> Teil von Ihnen, der mir zukommt, <hi rend="u">mir</hi>
+               <hi rend="u">allein</hi>! Fühlen Sie denn nicht, daß Sie mir etwas geben müssen?
+               Wollten Sie schon jetzt gehen, wie geizig wären Sie! Was ich Ihnen schon gegeben
+               habe, ist so viel, und was ich noch verschwenderisch weiter geben will, davon wollen
+               Sie träumen.</p>
+            <p>Entführen Sie mich endlich, endlich! Warten Sie nicht so lange! Und dann lassen Sie
+               mich getrost allein, ich bin nicht so hilflos, wie Sie denken.</p>
+            <p>Warten Sie nicht länger, es ist die Zeit der Reise nun gekommen! Ich weiß etwas
+               Feines! Doch davon in <rs ref="#tillich_place_id__126" type="place">Dresden</rs>, am
+               Montag früh bin ich wieder da.</p>
+            <closer>
+               <signed><rs ref="#tillich_person_id__2134" type="person">Charlotte</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

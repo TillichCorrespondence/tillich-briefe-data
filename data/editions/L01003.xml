@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01003">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Preußisches Ministerium für Wissenschaft, Kunst und Volksbildung an
+               Paul Tillich <lb/>vom 21. Februar 1929 </title>
+            <author ref="#tillich_person_id__2457">Preußisches Ministerium für Wissenschaft, Kunst
+               und Volksbildung</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Gerrit Mauritz</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambrige, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/175(49)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2457">Preußisches Ministerium für Wissenschaft,
+                  Kunst und Volksbildung</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1929-02-21">17.02.1927</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="GM" when="2023-07-25">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-01-16">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <rs ref="#tillich_person_id__2457" type="person">Preußisches Ministerium für
+                  Wissenschaft, Kunst und Volksbildung</rs><lb/> Ministerialrat Prof.Dr. <rs
+                  ref="#tillich_person_id__2471" type="person">Windelband</rs><lb/>
+               <dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs> W 8 den <date
+                     when="1927-02-17">21.Febr. 1929</date>. <address>
+                     <street>Unter den Linden 4</street>
+                  </address><lb/>-Postfach-</dateline><lb/>
+               <address>
+                  <rs ref="#tillich_person_id__1928" type="person">Herrn Professor Dr. Paul
+                     Tillich</rs>
+                  <lb/>
+                  <rs ref="#tillich_place_id__126" type="place">Dresden 16</rs>
+                  <lb/>
+                  <street>Elisenstr. 11</street>
+               </address></opener>
+            <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr
+                  Professor</rs>,</salute>
+            <p>Ich freue mich, Ihnen mitteilen zu können, daß mein <rs ref="#tillich_person_id__169"
+                  type="person">Herr Minister</rs> Ihnen den durch die Emeritierung von <rs
+                  ref="#tillich_person_id__401" type="person">Prof. Cornelius</rs> frei gewordenen
+               ordentlichen Lehrstuhl an der Universität <rs ref="#tillich_place_id__143"
+                  type="place">Frankfurt</rs> zu möglichst baldiger Übernahme anbietet.</p>
+            <p>Mit meinen Glückwünschen zu dieser Berufung verbinde ich die Bitte, sich am
+               Sonnabend, den <date when="1929-03-02">2.März</date> um 10,30 Uhr bei <rs
+                  ref="#tillich_person_id__1602" type="person">Herrn Ministerialdirektor
+                  Richter</rs> einfinden zu wollen, der selbst die Verhandlungen mit Ihnen zu führen
+               wünscht.</p>
+            <closer>In ausgezeichneter Hochachtung<lb/> Ihr sehr ergebener<lb/>
+               <signed><rs ref="#tillich_person_id__2471" type="person"
+               >Windelband</rs></signed></closer>
+         </div>
+      </body>
+   </text>
+</TEI>

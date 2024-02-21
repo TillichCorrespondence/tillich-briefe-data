@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01233">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Eugen und Hildegard Claassen an Paul und Hannah Tillich <lb/>vom 15. Juni 1933</title>
+            <author ref="#tillich_person_id__2508"/>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/129(38)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2867">Eugen Claassen</persName>
+               <persName ref="#tillich_person_id__2868">Hildegard Claassen</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+               <date when="1933-06-15">15.06.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <placeName ref="#tillich_place_id__389">Sassnitz</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-09-06">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2024-02-17">Endabnahme</change>
+
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <date when="1933-06-15">15. Juni 33</date></dateline>
+               <salute>Liebe <rs ref="#tillich_person_id__1928" type="person"><rs ref="#tillich_person_id__1923" type="person">Tillichs</rs></rs>!</salute>
+            </opener>
+            <p>Vielen Dank für Ihre Karte, die eine weite Reise gemacht hat (über
+               <rs type="place">Rom</rs> wohin sie <rs ref="#tillich_person_id__2867" type="person">Claassen</rs>, der dort für 3
+               Wochen bei seiner <rs ref="#tillich_person_id__2869" type="person">Mutter</rs> ist, abgeschickt wurde) bis sie in
+                  <rs type="place">Frankfurt</rs> landete. Ich freue mich dass es Ihnen gut geht
+               und dass Sie das Meer haben. Das ist ja doch besser als alle andere Landschaft. Es
+               wäre schön, Sie bald wiederzusehen – oder kommen Sie gar nicht mehr nach
+                  <rs type="place">Frankfurt</rs>? Herzliche Grüsse und sehr viele gute Wünsche</p>
+            <closer>
+               <signed>Ihre <rs ref="#tillich_person_id__2867" type="person"><rs ref="#tillich_person_id__2868" type="person">Claassens</rs></rs></signed>
+            </closer>
+
+         </div>
+
+      </body>
+   </text>
+</TEI>
