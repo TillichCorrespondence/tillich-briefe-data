@@ -2,8 +2,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Brief vom Verlag Ullstein an Paul Tillich <lb/>vom 19. Juni 1924</title>
-
+            <title>Brief vom Ullstein Verlag an Paul Tillich <lb/>vom 19. Juni 1924</title>
+            <author ref="#tillich_person_id__2898">Ullstein Verlag</author>
             <respStmt>
                <resp>Editor</resp>
                <name>Paul Schömann</name>
@@ -41,7 +41,7 @@
                   <idno>bMS 649/218(10)</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Maschinenschriftlich</p>
+                  <p>Brief, maschinenschriftlich</p>
                </physDesc>
             </msDesc>
          </sourceDesc>
@@ -58,6 +58,7 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
+               <persName ref="#tillich_person_id__2898">Ullstein Verlag</persName>
                <placeName ref="#tillich_place_id__37">Berlin</placeName>
                <date when="1924-06-19">19.06.1924</date>
             </correspAction>
