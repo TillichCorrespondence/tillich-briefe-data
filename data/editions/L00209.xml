@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00209">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Hans Balke, Gilbert van der Smissen und Lorenz Bertheau an Paul
+               Tillich <lb/>vom 18. September 1907 [PS] </title>
+            <author ref="#tillich_person_id__128">Hans Balke</author>
+            <author ref="#tillich_person_id__1982">Gilbert van der Smissen</author>
+            <author ref="#tillich_person_id__203">Lorenz Bertheau</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/209(2)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__128">Hans Balke</persName>
+               <persName ref="#tillich_person_id__1982">Gilbert van der Smissen</persName>
+               <persName ref="#tillich_person_id__203">Lorenz Bertheau</persName>
+               <placeName ref="#tillich_place_id__30">Barmen</placeName>
+               <date when="1907-09-18">18.09.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-09-30">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-02-06">Vorbereitende Endabnahme</change>
+         <change who="EL" when="2024-02-26">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession" resp="#tillich_person_id__128">
+            <pb n="1"/>
+            <p><foreign xml:lang="lat">Utinam adesses</foreign>! Man schlemmt Natur u. Menschen. Die Arbeit ruht mal wieder, aber es
+               ist reizend. <rs ref="#tillich_person_id__203" type="person">Lorenz</rs>Lorenz u. <rs
+                  ref="#tillich_person_id__1982" type="person">Gysbert</rs> sind von der Schönheit
+               des berg. Landes entzückt. Aber habe bald Moral, ich hoffe, es wird Dich nicht
+               reuen.</p>
+            <closer>
+               <signed>In treuen Dein <rs ref="#tillich_person_id__128" type="person"
+                  >Hans</rs>.</signed>
+            </closer>
+         </div>
+         <div resp="#tillich_person_id__1982">
+            <p>Die 2te Station der l.Br.-Reise Schlemmerhaft!</p>
+            <closer><salute>Herzl Gruß!</salute><signed> Dein <rs ref="#tillich_person_id__1982"
+                     type="person">Gysbert</rs>.</signed></closer>
+         </div>
+         <div resp="#tillich_person_id__203">
+            <p>Mann, es ist fein! <unclear>Dunnerlotten</unclear>! Ich weiß übrigens, daß ich Dir
+               einen Brief schulde. Vielen Dank für den Deinen.<note type="ea">Nicht
+                  überliefert.</note></p>
+            <closer><signed><hi rend="u">Herzl</hi> Dein <rs ref="#tillich_person_id__203"
+                     type="person">Lorenz</rs>.</signed></closer>
+         </div>
+      </body>
+   </text>
+</TEI>
