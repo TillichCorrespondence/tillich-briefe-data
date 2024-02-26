@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01201">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Karl Barth
+               <lb/>vom 29. März 1933
+            </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>     
+                  <repository>Evangelische Zentralarchiv</repository> 
+                  <idno>EZA 686/7935 </idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  </physDesc>
+               <additional>
+                  <listBibl>
+                     
+                     <biblStruct type="journal" n="thirdPrint">
+                        <monogr>
+                           <title>Karl Barth und Paul Tillich</title>
+                           <imprint>
+                              <date when="1977">1977</date>
+                              <biblScope>111</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Evangelische Kommentare (EVKOMM). Monatsschrift zum Zeitgeschehen in Kirche und Gesellschaft</title>
+                           <biblScope>10</biblScope>
+                        </series>
+                     </biblStruct>
+                     
+                     <biblStruct type="journal" n="reprint">
+                        <monogr>
+                           <author>Paul Tillich</author>
+                           <title>Ein Lebensbild in Dokumenten</title>
+                           <imprint>
+                              <publisher>Renate Albrecht/Margot Hahl</publisher>
+                              <pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
+                              <date when="1987">1987</date>
+                              <biblScope>191f.</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Gesamelte Werke. Ergänzungs- und Nachlaßbände</title>
+                           <biblScope>Band 5</biblScope>
+                        </series>
+                     </biblStruct>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc> 
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <date when="1933-03-29">29.03.1933</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__137">Karl Barth</persName>
+           </correspAction>
+        </correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="SK" when="2023-05-23">Initiale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2024-02-26">Endabnahme</change>
+        
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <dateline>d. <date when="1933-03-29">29.3.33</date></dateline>
+           <salute>Lieber <rs ref="#tillich_person_id__137" type="person">Herr Barth</rs>!</salute>
+        </opener>
+        <p>Eben erhalte ich von <rs ref="#tillich_person_id__1723" type="person">K.L.S.</rs> aus <rs ref="#tillich_place_id__224" type="place">Jena</rs> ein Zitat von Ihnen:
+           "Über die Ideologie <rs ref="#tillich_person_id__1928" type="person">Tillichs</rs> bin ich einfach starr"<note type="ea">Die Quelle dieses Zitats liegt nicht vor. Hintergrund des vorliegenden Briefes ist die auch Tillich betreffende und von ihm grundsätzlich bejahte Frage, ob man aus der SPD austreten solle bzw. dürfe, etwa um eine drohende Entlassung abzuwenden. Ein konkreter Anlassfall war der Theologe<rs ref="#tillich_person_id__1723" type="person">Karl Ludwig Schmidt</rs> gewesen. Er war am <date when="1933-03-12">12. März 1933</date> als SPD-Mitglied in den <rs ref="#tillich_place_id__68" type="place">Bonner</rs> Stadtrat gewählt worden, was eine Diffamierungskampagne vonseiten des nationalsozialistischen Vorstands der <rs ref="#tillich_place_id__68" type="place">Bonner</rs> evangelisch-theologischen Fakultät zur Folge hatte, in deren Zuge Schmidt unter anderem aufgefordert wurde, sein Mandat niederzulegen. (Vgl. <rs ref="#tillich_work_id__251" type="work">Karl Barth, Briefe des Jahres 1933, 102</rs>.)</note>. Offenbar beziet sich dieser Satz auf das Gespräch, das ich mit <rs ref="#tillich_person_id__1723" type="person">S.</rs> am <date when="1933-03-26">Sonnabend</date> abend hatte über die Stellung der Beamten zur S.P.D. Wie Sie an <rs ref="#tillich_person_id__1723" type="person">S.</rs> schreiben, sind Sie entschlossen, einer Forderung auf Austritt aus der SPD nicht nachzugehen, d.h. im Zweifelsfall ihre Stellung als preussischer Beamter aufzugeben</p>
+           <p>Dieser Auffassung steht nicht etwa eine Privatideologie von mir gegenüber, sondern die Auffassung der Partei selbst sowohl in den zentralen wie in den lokalen Instanzen. Die Partei wünscht nicht, dass ihre Beamten ihre Beamtenqualität der Zugehörigkeit zur Partei opfern. Soviel ich sehe, liegen zwei Gründe dafür vor, einmal der, dass die Partei den tatsächlichen Einfluss der Beamten in ihren Stellungen für wesentlich wichtiger hält als das formale Bekenntnis zur Partei. In bestimmten mir bekannten Fällen hat sich das auch schon sehr konkret gezeigt. Andererseits habe ich den Eindruck, dass die Partei nach dem endgültigen Verbot ihrer Presse sich in ihrer manifesten Form in Liquidation befindet. Da sie diese Form nicht mehr als das angemessene Mittel, den Sozialismus zu vertreten, ansieht. Dies alles, ich betone das ausdrücklich, ist nicht <hi rend="u">meine Ideologie</hi>, sondern Auffassung und Verhaltungsweise der Partei selbst.</p>
+        <p>Unter diesen Umständen besteht bei meinen <rs ref="#tillich_place_id__143" type="place">Frankfurter</rs> Freunden (auch <rs ref="#tillich_place_id__198" type="place">Hamburger</rs>, <rs ref="#tillich_place_id__37" type="place">Berliner</rs> usw.) vor allem auch bei solchen, die von Anfang an der S.P.D. angehört haben, die Auffassung, dass die Zugehörigkeit zur Partei nicht zum <foreign xml:lang="lat">punctum Confessionis</foreign> gemacht werden dürfe. Auch hier handelt es sich nicht um eine Ideologie von mir, sondern um die unmittelbare taktische Reaktion der Politiker unter uns. Die Lage wird in dem Augenblick anders, wo uns ein Revers vorgelegt wird, der eine inhaltliche Bindung verlangt. In diesem Augenblick würde selbstverständlich genau so wie in Italien die Bekenntnispflicht eintreten.</p>
+        <p>Ich hoffe, dass Ihnen nach dieser Darlegung des Sachverhaltes meine Stellungnahme nicht so unverständlich und ideologisch erscheint, wie auf Grund des Berichtes von <rs ref="#tillich_person_id__1723" type="person">S.</rs> Andererseits verstehe ich Ihre Auffassung. Der Gedanke einer Zusammenkunft der S.P.D.professoren ist in unserem Wunsch begründet, die beiderseitigen Auffassungen kennen zu lernen und wenn irgend möglich zu einer gemeinsamen Entscheidung zu kommen. Ich würde es sehr bedauern, wenn Sie an einer solchen Besprechung nicht teilnehmen könnten.</p>
+        <p>Ende der Woche will ich nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> fahren und hoffe, bei der Gelegenheit mich auch materialiter orientieren zu können. Vielleicht ist dann eine Besprechung mit Ihnen, wenn auch im kleinsten Kreise, noch möglich.       
+        </p>
+        <closer>
+           <salute>Mit herzlichem Gruss<lb/>
+           Ihr</salute>
+           <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
+        </closer> 
+     </div>
+    </body>
+  </text>
+</TEI>
