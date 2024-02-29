@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00268">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Friedrich Büchsel <lb/>vom August 1908</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Andreas Burri</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
+                  <institution>Philipps-Universität Marburg</institution>
+                  <repository>Deutsches Paul-Tillich-Archiv</repository>
+                  <collection>Büchsel, Friedrich </collection>
+                  <idno>008 B</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief als maschinenschriftliche Abschrift überliefert</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="monograph" n="secondPrint">
+                        <monogr>
+                           <author>Paul Tillich</author>
+                           <editor>Renate Albrecht/René Trautmann (Hg.)</editor>
+                           <title>Briefwechsel und Streitschriften. Theologische, philosophische und
+                              politische Stellungnahmen und Gespräche</title>
+                           <edition>Erste Auflage</edition>
+                           <imprint>
+                              <publisher>De Gruyter</publisher>
+                              <pubPlace ref="#tillich_place_id__143">Frankfurt a.M.</pubPlace>
+                              <date when="1983">1983</date>
+                              <biblScope>24-26</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Ergänzungs- und Nachlaßbände zu den Gesammelten Werken von Paul
+                              Tillich</title>
+                           <biblScope>VI</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date notBefore="1908-08-01" notAfter="1908-08-31">08.1908</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="AB" when="2023-02-28">Intitale Auszeichnung des Transkripts</change>
+         <change who="AB" when="2023-03-07">Überprüfung und Ergänzung der Auszeichnungen</change>
+         <change who="GM" when="2024-02-26">Endabnahme</change>
+         <change who="EL" when="2024-02-29">Korrekturen</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Lieber <rs ref="#tillich_person_id__310" type="person"
+                  >Friedrich</rs>!</salute>
+            </opener>
+            <p>War mein Gewissen schon sehr bedrückt, als ich neulich entdeckte, daß Du im Juli
+               geboren bist, so wurde der Druck noch viel stärker, als Dein Brief<note type="ea">Nicht überliefert.</note> ankam; und um ihn
+               zu erleichtern, sollst auch als erster der Gratulanten beantwortet werden.
+               Hoffentlich erwirkt mir das Verzeihung. – Die unangenehme Tatsache, schon 22 Jahre
+               alt zu sein, wurde durch Deinen nebst etwa 20 anderen Geburtstagsbriefen<note type="ea">Keiner der Geburtstagsbriefe ist überliefert.</note> versüßt,
+               meist von lieben Brüdern, z. Teil in rührender Nächstenliebe, wie z.B. <rs
+                  ref="#tillich_person_id__1743" type="person">Daniel Schubert</rs> und <rs
+                  ref="#tillich_person_id__2195" type="person">Häfele</rs>, andere in Form von
+               glühenden Kohlen wie Du – hab herzlichen Dank. Außerdem: Ein <rs ref="#tillich_person_id__1340" type="person">Möller</rs>-<rs type="person" ref="#tillich_person_id__2918">Schubert</rs>
+               <rs type="work" ref="#tillich_work_id__264">I.</rs>, ein <rs
+                  ref="#tillich_person_id__1712" type="person">Schlatter</rs>: <rs
+                  ref="#tillich_work_id__260" type="work">Jüdische Geschichte</rs>, ein <rs
+                     ref="#tillich_person_id__2281" type="person">Weizsäcker</rs>: <rs ref="#tillich_work_id__261" type="work">Apostolisches
+               Zeitalter</rs>.
+               (An <rs ref="#tillich_person_id__2282" type="person">Sepp</rs>: Endlich auch der in
+                  <rs ref="#tillich_place_id__236" type="place">Kassel</rs> vermißte
+               <rs ref="#tillich_person_id__2283" type="person">Bakel</rs><note type="ea">Werk konnte nicht ermittelt werden.</note>).
+               Daß Du in <rs ref="#tillich_place_id__216" type="place">Homberg</rs> bist und Dich
+               psycho-physisch so wohl fühlst, freut mich sehr; ich rechne es mir z.Teil als
+               Verdienst an. Daß Eure geistige Nahrung allein das Berliner
+               <sic>Tageblatt</sic> ist, traue ich Euch doch nicht zu; also: Schlemmerei, neidisch
+               etc. <rs ref="#tillich_person_id__2284" type="person">Menzels</rs> Verlobung war mir
+               neu: Auf ihn bin ich noch neidischer, also vorläufig nichts zu erwarten. – Nun habe
+               ich schon 14 Tage meine Arbeiten<note type="ea">Gemeint sind die Examensarbeiten "Die Stellung des Logosbegriffs im Johannesevangelium" (nicht publiziert) im Neuen Testament und "<rs type="work" ref="#tillich_work_id__270">Welche Bedeutung hat der Gegensatz von monistischer und dualistischer Weltanschauung für die christliche Religion?</rs>" in der Systematischen Theologie.</note> und fühle mich noch sehr rückständig. Die erste ist
+               in der Tat umfassend, nämlich die ganze johanneische Theologie. Nach einer Übersicht über die
+               historische Situation der Debatte suche ich zu zeigen, daß der Logosbegriff kein
+               "theo"logischer, sondern ein christologischer ist, um dann in der Christologie eine
+               Synthese zwischen <rs ref="#tillich_person_id__925" type="person">Holtzmann</rs> und
+               <rs ref="#tillich_person_id__1227" type="person">Schmuhl</rs> durchzuführen; Gegen <rs
+                  ref="#tillich_person_id__925" type="person">Holtzmann</rs> scheint mir richtig zu
+               sein, daß der Logosbegriff kein auf fremdem Boden gewachsener ist, der einen
+               Antagonismus in die ganze johanneische Theologie bringt, gegen <rs ref="#tillich_person_id__1227" type="person"
+                  >Schmuhl</rs>, daß der hellenistische Einfluß in Ton und Formulierung der Gedanken
+               nicht auszuschließen ist<note type="ea">Vgl. <rs type="work" ref="#tillich_work_id__190" n="115–117">Wilhelm Lütgert (1899): Die johanneische Christologie, 115–117</rs>.</note>. Also etwa: Die Logoskonception ist im Zusammenhang der johanneischen Intuition<note type="ea">Gemeint ist die johanneische Erkenntnislehre.</note> organisch
+               erwachsen, im einzelnen sind ihre Motive nachweisbar. Die Konception selbst ist in
+               ihrem Sosein nur durch hellenistischen Einfluß auf Ton und Form, aber nicht als
+               urchristlichen widersprechend, zu verstehen und ihr Einfluß auf die Gesamtstimmung
+               des Evangeliums unbestreitbar; wie auch sonst hellenistische Färbung unverkennbar
+               ist. Die Weise, in der <rs ref="#tillich_person_id__925" type="person">Holtzmann</rs>
+               Widersprüche sucht, finde ich eben gesucht; aber die Leichtigkeit, mit der <rs
+                  ref="#tillich_person_id__1227" type="person">Schmuhl</rs> die Synoptiker in Johannes wiederfindet, genügt zur
+               Erklärung der Eigenart nicht. Im Wesentlichen wird man allerdings auf die johanneische Intuition
+               zurückgehen müssen. Ich bin durch die Arbeit und die umfangreiche
+                  <sic>Litteratur</sic> so ziemlich in alle Probleme, die darum
+                  hängen<supplied>,</supplied> sehr gut hereingekommen und merke, daß ich vom
+               apostolischen Zeitalter und neuen Testament noch rein nichts kapiert hatte. Daher bin
+               ich für die Arbeit sehr dankbar, zumal ich dadurch in Johannes tüchtig hineinkomme, der
+               mir doch im neuen Testament am nächsten steht. – Über die andere Arbeit habe ich noch
+               kaum nachgedacht. Ich denke sie dogmen- und theologiegeschichtlich zu beginnen und
+               bis zur Gegenwart durchzuführen. Dann die Debatte so fortzuführen, daß ich die
+               Gegenwart u. a. als Renaissance des Idealismus betrachte und dann die entscheidende
+               Debatte mit <rs ref="#tillich_person_id__1291" type="person">Medikus</rs> führe. Ob
+               die Berliner dafür reif sind, ist
+               mir egal. Mir ist das Problem, wie Du weißt, immer noch eins der brennendsten und ich
+               bin froh <foreign xml:lang="lat">ex officio</foreign> darüber nachdenken zu müssen. –
+               Was meine Geistesfreiheit betrifft, so ist sie durch die beiden Arbeiten in einer
+               Weise erwacht, die bis an <hi rend="u" resp="unknown">Willkür grenzt. Ich</hi><note type="footnote" resp="unknown">Diese – im Ms. gut lesbaren – Worte am Ende einer Seite sind etwas tintenverwischt. Darunter in Bleistiftschrift: "Verzeih! das Löschblatt riß!"</note> hoffe, daß sie in den
+               2 Monaten nach dem Schriftlichen noch einmal wieder abgetötet wird, zu Gunsten des
+               unendlich Kleinen, das bis auf die unsterbliche <hi rend="u" resp="unknown">
+                  <rs ref="#tillich_person_id__2290" type="person">Makrina</rs></hi>
+               zusammengeschmolzen ist. Gesundheitlich geht es mir bei diesem faulen Leben recht
+               gut, dank der Energie meiner <rs ref="#tillich_person_id__644" type="person"
+                  >Schwester</rs> und allerhand von <rs ref="#tillich_person_id__1696" type="person"
+                  >Schaffts</rs> importierten Eisenpräparaten. Im September kommen die offiziellen
+                  <rs ref="#tillich_place_id__293" type="place">Misdroyer</rs> 14 Tage, die sich
+               vielleicht noch um 8 vermehren. Ich werde dort die Predigt<note type="ea">Gemeint ist die Examenspredigt über <rs type="bible" ref="1Kor-3, 21–23">1. Kor 3,21–23</rs>.</note> machen. <foreign
+                  xml:lang="lat">quae mutatio</foreign>! Sagst Du mit Recht. Ob ich den "Bärentöter"
+               wiederfinde? Sage <rs ref="#tillich_person_id__2282" type="person">Sepp</rs>, er
+               könnte nur durch das Doppelte eines normalen Briefes Verzeihung erlangen! Und nur,
+               wenn sofort!</p>
+            <closer>
+               <salute>Leb wohl und sei herzlich gegrüßt von Deinem treuen</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">Paul T.</rs></signed>
+            </closer>
+            <postscript>
+               <label>P. S.</label>
+               <p>Auf Wiedersehen im Dezember, wo ich Dich in Examens-Frack-und-Cylinder vom Bahnhof
+                  abholen werde. Herzlichen Gruß Dein <rs ref="#tillich_person_id__1928"
+                     type="person">Paul</rs></p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
