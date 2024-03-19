@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00251">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Spatz an Paul Tillich <lb/>vom 15. Dezember 1907 </title>
+            <author ref="#tillich_person_id__2190">Spatz</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/187(42)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2190">Spatz</persName>
+               <placeName ref="#tillich_place_id__189">Halle</placeName>
+               <date when="1907-12-15">15.12.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-10-06">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2024-03-19">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#tillich_place_id__189" type="place">Halle</rs>, <date when="1907-12-15">15.XII.07.</date></dateline>
+               <salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+            </opener>
+            <p>Es tut mir leid, daß alle Schweinehunde nichts helfen; aber "meine Zeid ist hellisch
+               gnabb"; ich komme nicht zum ruhigen Briefschreiben! Hoffe aber Dich <del rend="s">Do</del> Freitag oder Sonnabend von Mund zu Mund zu sehen; genauer die Zeit
+               schreib ich noch! Mit <rs ref="#tillich_person_id__2216" type="person">Jarcke</rs> u. <rs ref="#tillich_person_id__1295" type="person">Deinem Leibfux</rs> habe ich energisch geredet, was überhaupt
+               zu dieser Zeit sehr floriert, nämlich das P.-C.<unclear>m</unclear>. Kann also
+               mündlich mehr sagen. <rs ref="#tillich_person_id__2216" type="person">Jarcke</rs> wollte Dir eigentlich
+               schreiben. – Nimms nicht übel. Ade. Auf Wiedersehen. </p>
+            <closer>
+               <signed>Dein getr. <rs ref="#tillich_person_id__2190" type="person">Sp.</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
