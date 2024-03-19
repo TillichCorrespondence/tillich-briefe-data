@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00245">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Amos Hensmann an Paul Tillich <lb/>vom 21. November 1907 </title>
+            <author ref="#tillich_person_id__877">Amos Hensmann</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/152</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__877">Amos Hensmann</persName>
+               <placeName ref="#tillich_place_id__189">Halle</placeName>
+               <date when="1907-11-21">21.11.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-08-29">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2024-03-19">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__189" type="place">Halle a. S.</rs>, d. <date when="1907-11-21">21. XI. 07.</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+            </opener>
+            <p>Wer könnte einer solchen Einladung<note type="ea">Nicht überliefert.</note> widerstehen? Alle Gegengründe hast Du mir von vorn
+               herein abgesägt, ja so, daß es beinahe mehr Pflicht als Recht zu sein scheint, sich
+               diesen Genuß zu gewähren. Allerdings <sic>bietet</sic> Du mir zu viel des Guten. Die
+               Zeit der Reise muß ich etwas verkürzen. Am Freitag nachmittag haben wir die
+                  Seminarpredigten,<pb n="2"/> und am Freitag abend ist das systematische Seminar.
+               Da ich leider nicht gerne "schwänzen" möchte, gedenke ich am Sonnabend
+               herüberzukommen und werde dann Montag nachmittag wieder zurückfahren, denn am
+               Dienstag habe ich wieder Seminar. Wenn es Dir recht ist, komme ich zu dem ersten
+               Adventssamstag, also am <date when="1907-11-31">31. Nov.</date></p>
+            <p>Deinen Plan von dem Unterhaltungsabend bringe ich zur Ausführung<del rend="s">,</del>! <del rend="ow">e</del>Es ist das Problem, das ich in der letzten Zeit
+               öfters mit xxx, <hi rend="aq"><rs ref="#tillich_person_id__2169" type="person">Struckmeier</rs></hi> und
+                  <hi rend="aq"><rs ref="#tillich_person_id__2174" type="person">Weitz</rs></hi> gewälzt<pb n="3"/>
+               habe. –</p>
+            <p>Die "Gaulitis" ist wieder um einen
+               vermehrt; ein netter Kerl, der meiner Ansicht nach nicht so ganz zu den anderen paßt.
+               Jetzt ist noch ein Füxlein übrig, die andern 12 sind untergebracht.</p>
+            <p>Mein Lbfx. <rs ref="#tillich_person_id__2175" type="person">Müller</rs> muß wieder 8 Tage in der Klinik
+               liegen und zwar wegen des alten Leidens!</p>
+            <p>Er trägt es mit einer bewundernswerten Geduld und Zufriedenheit.</p>
+            <p>Da ich heute morgen noch den Familienrundbrief schreiben möchte, will ich
+               schließen.</p>
+            <p>Herzlichen Dank für Deine<pb n="4"/> freundliche Einladung!</p>
+            <closer>
+               <salute>Sei herzlich gegrüßt von Deinem treuen</salute>
+               <signed><hi rend="aq"><rs ref="#tillich_person_id__877" type="person">Amos</rs></hi></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
