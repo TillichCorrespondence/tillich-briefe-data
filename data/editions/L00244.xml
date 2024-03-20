@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00244">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Wingolfbrüder an Paul Tillich <lb/>vom 20. November 1907
+               [PS]</title>
+            <author ref="#tillich_person_id__128">Hans Balke</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/209(2)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__128">Hans Balke</persName>
+               <placeName ref="#tillich_place_id__189">Halle</placeName>
+               <date when="1907-11-20">20.11.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-04-25">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2024-03-19">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <p>Von einem bedauerlichen Rückfall in eigentlich überwundene üble Angewohnheiten senden
+               Dir herzliche Grüße zahlreiche Unsolide: Buß- u. Bettag, nach <formula notation="TeX">\frac{1}{2}</formula> 1 Nachts; aber zu mehr als 3; Antwort kommt</p>
+            <closer>
+               <signed><rs type="person" ref="#tillich_person_id__128">Hans</rs> (xx)x <foreign xml:lang="lat">utinam adesses</foreign>!!</signed>
+               <signed><rs ref="#tillich_person_id__2369" type="person">M. Gottschalk</rs></signed>
+               <signed><rs ref="#tillich_person_id__877" type="person">Amos</rs> (<foreign xml:lang="lat">veniam</foreign>!)</signed>
+               <signed><rs ref="#tillich_person_id__1050" type="person">Kilger</rs> (Lebt m. <rs ref="#tillich_person_id__2380" type="person">Br.</rs> noch?)</signed>
+               <signed><rs ref="#tillich_person_id__2138" type="person">Heller</rs></signed>
+               <signed><rs ref="#tillich_person_id__1738" type="person">Schreiber</rs></signed>
+               <signed><rs ref="#tillich_person_id__2155" type="person">Hans Voget</rs></signed>
+               <unclear>¿¿¿ ... ¿¿¿</unclear>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
