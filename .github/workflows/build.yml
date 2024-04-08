@@ -1,0 +1,63 @@
+name: Build and publish
+
+permissions:
+  contents: write
+
+on:
+  push:
+    branches:
+      - master
+  repository_dispatch:
+
+env:
+  USERNAME: ${{ github.repository_owner}}
+
+jobs:
+  build_pages:
+    name: Transform and publish website from data repository
+    runs-on: ubuntu-latest
+    steps:
+      - name: Perform Checkout
+        uses: actions/checkout@v4
+      - name: Set up JDK 11 for x64
+        uses: actions/setup-java@v3
+        with:
+          java-version: "11"
+          distribution: "temurin"
+          architecture: x64
+      - name: Install Dependencies
+        run: |
+          sudo bash ./install.sh
+      - name: Get Data
+        uses: dsaltares/fetch-gh-release-asset@master
+        with:
+          repo: "${{env.USERNAME}}/dev-tillich-briefe-data"
+          file: "data.zip"
+          target: "data.zip"
+          token: ${{ secrets.DATA_SECRET }}
+          #Token has to be set in github actions secrets: https://docs.github.com/en/actions/security-guides/automatic-token-authentication
+          #https://docs.github.com/en/actions/security-guides/encrypted-secrets
+      - name: Unzip Data
+        run: |
+          rm -rf data/
+          unzip data.zip -d ./
+          rm data.zip
+      - name: Update Favicons
+        run: python update_favicons.py
+      - name: Set Typesense Vars
+        run: ./shellscripts/actions_set_api_keys.sh
+        env:
+          TS_API_KEY: ${{ secrets.TS_API_KEY }}
+          TS_SEARCH_KEY: ${{ secrets.TS_SEARCH_KEY }}
+          TS_HOST: ${{ vars.TS_HOST }}
+          TS_PORT: ${{ vars.TS_PORT }}
+          TS_PROTOCOL: ${{ vars.TS_PROTOCOL }}
+      - name: Build
+        run: |
+          mv ./data/editions ./data/editions_raw
+          ./transform.sh
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{secrets.GITHUB_TOKEN}}
+          publish_dir: ./html
