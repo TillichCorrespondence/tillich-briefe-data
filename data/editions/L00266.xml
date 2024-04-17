@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00266">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Emanuel Hirsch an Paul Tillich <lb/>vom 11. Februar 1908</title>
+            <author ref="#tillich_person_id__904">Emanuel Hirsch</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/152(52)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__904">Emanuel Hirsch</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1908-02-11">11.02.1908</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-04-24">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2024-04-16">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <date when="1908-02-11">11.II.08</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+            </opener>
+            <p>Ich habe <unclear>Bb</unclear>. Protokolle, Kollegheft und Spezialstatuten als
+               zerstreuter Professor bei Dir liegen lassen, sei so gut und bring mir die Sachen zu
+               <rs type="person" ref="#tillich_person_id__2942">Gössel</rs> mit.</p>
+            <closer>
+               <salute>In treuen</salute>
+               <signed>Dein <rs ref="#tillich_person_id__904" type="person">Emanuel Hirsch</rs></signed>
+            </closer>
+            <postscript>
+               <p>Als <rs ref="#tillich_person_id__904" type="person">E. Hirsch</rs> th. <figure>
+                     <figDesc>Wingolfzirkel</figDesc>
+                  </figure>! Mitglied der Statutenrevisionscommission, Bundesdax und
+                  Philisterprovinzial, Protocollführer i. V. N 4 Invalidenstr. 187. </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
