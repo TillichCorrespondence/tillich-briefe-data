@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01222">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Oskar Siebeck an Paul Tillich <lb/>vom 29. April 1933 </title>
+            <author ref="#tillich_person_id__1780">Oskar Siebeck</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="Kopie">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement>Berlin</settlement>
+                  <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Archiv des Verlages J. C. B. Mohr (Paul
+                     Siebeck)</collection>
+                  <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
+               </msIdentifier>
+
+               <physDesc>
+                  <p>Brief, maschinenschriftlich-Durchschlag</p>
+               </physDesc>
+            </msDesc>
+            <biblStruct type="journal">
+               <monogr>
+                  <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
+                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
+                     Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                  <imprint>
+                     <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
+                     <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+                     <date when="2011">2011</date>
+                     <biblScope>237-403, hier: S. 355f.</biblScope>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title>International Yearbook for Tillich Research</title>
+                  <biblScope>Band 6 Heft 1</biblScope>
+               </series>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1933-04-29">29.04.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="SK" when="2023-10-31">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-02-22">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><date when="1933-04-29">29. April 1933</date>
+               </dateline>
+            </opener>
+
+            <p>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>,
+               für Ihre freundlichen <rs xml:id="L01222" type="letter">Zeilen</rs> vom 26. ds. Mts.
+               sage ich Ihnen meinen verbindlichsten Dank. Unter den obwaltenden Verhältnissen kann
+               ich Ihnen auch meinerseits nicht zureden, die Veröffentlichung Ihres Vortrages über
+               den deutschen Idealismus zu beschleunigen. Umso mehr würde auch ich mich freuen, wenn
+               nach Ihrer Beurlaubung Aussicht bestände, dass Sie Ihre "Metaphysik" recht bald zum
+               Druck befördern können.</p>
+            <closer>
+               <salute>Inzwischen bin ich mit freundlichen Empfehlungen<lb/> Ihr ganz
+                  ergebener</salute>
+               <signed>
+                  <ptr/><rs ref="#tillich_person_id__1780" type="person"><hi rend="hand">Dr. O.
+                        Siebeck</hi>.</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
