@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00209">
    <teiHeader>
       <fileDesc>
@@ -9,7 +10,7 @@
             <author ref="#tillich_person_id__203">Lorenz Bertheau</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Paul Schömann</name>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -88,26 +89,22 @@
          <div type="writingSession" resp="#tillich_person_id__128">
             <pb n="1"/>
             <p><foreign xml:lang="lat">Utinam adesses</foreign>! Man schlemmt Natur u. Menschen. Die Arbeit ruht mal wieder, aber es
-               ist reizend. <rs ref="#tillich_person_id__203" type="person">Lorenz</rs>Lorenz u. <rs
-                  ref="#tillich_person_id__1982" type="person">Gysbert</rs> sind von der Schönheit
+               ist reizend. <rs ref="#tillich_person_id__203" type="person">Lorenz</rs>Lorenz u. <rs ref="#tillich_person_id__1982" type="person">Gysbert</rs> sind von der Schönheit
                des berg. Landes entzückt. Aber habe bald Moral, ich hoffe, es wird Dich nicht
                reuen.</p>
             <closer>
-               <signed>In treuen Dein <rs ref="#tillich_person_id__128" type="person"
-                  >Hans</rs>.</signed>
+               <signed>In treuen Dein <rs ref="#tillich_person_id__128" type="person">Hans</rs>.</signed>
             </closer>
          </div>
          <div resp="#tillich_person_id__1982">
             <p>Die 2te Station der l.Br.-Reise Schlemmerhaft!</p>
-            <closer><salute>Herzl Gruß!</salute><signed> Dein <rs ref="#tillich_person_id__1982"
-                     type="person">Gysbert</rs>.</signed></closer>
+            <closer><salute>Herzl Gruß!</salute><signed> Dein <rs ref="#tillich_person_id__1982" type="person">Gysbert</rs>.</signed></closer>
          </div>
          <div resp="#tillich_person_id__203">
             <p>Mann, es ist fein! <unclear>Dunnerlotten</unclear>! Ich weiß übrigens, daß ich Dir
                einen Brief schulde. Vielen Dank für den Deinen.<note type="ea">Nicht
                   überliefert.</note></p>
-            <closer><signed><hi rend="u">Herzl</hi> Dein <rs ref="#tillich_person_id__203"
-                     type="person">Lorenz</rs>.</signed></closer>
+            <closer><signed><hi rend="u">Herzl</hi> Dein <rs ref="#tillich_person_id__203" type="person">Lorenz</rs>.</signed></closer>
          </div>
       </body>
    </text>

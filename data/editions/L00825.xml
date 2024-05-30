@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00825">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__1780">Oskar Siebeck</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Niklas von Hülsen</name>
+               <name key="https://orcid.org/0009-0007-2445-9093">Niklas von Hülsen</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -106,8 +107,7 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <salute>Sehr verehrter <rs ref="#tillich_place_id__1928" type="place"><rs type="person"
-                        ref="#tillich_person_id__1928">Herr Professor</rs></rs>,</salute>
+               <salute>Sehr verehrter <rs ref="#tillich_place_id__1928" type="place"><rs type="person" ref="#tillich_person_id__1928">Herr Professor</rs></rs>,</salute>
             </opener>
             <p>im Verfolg unserer Unterredung nach Ihrem gestrigen Vortrage erlaube ich mir, Ihnen
                mit gleicher Post einige Hefte der beiden Schriftenreihen zu übersenden, die für die
@@ -118,12 +118,8 @@
                in dieser Sammlung erscheinen lassen. Nachdem sich die theologische Situation gegen
                jene Zeit völlig verschoben hat, ist es für die Sammlung von wesentlicher Bedeutung,
                dass die jüngere Generation zu ihr in ähnlicher Weise Vertrauen fasst. Deshalb freue
-               ich mich ganz besonders, dass mir meine persönlichen Beziehungen zu der <rs
-                  ref="#tillich_place_id__397" type="place">Schweiz</rs> zu den beiden Heften von
-                  <rs ref="#tillich_person_id__300" type="person"><rs type="work"
-                     ref="#tillich_work_id__208">Emil Brunner</rs></rs> und von <rs
-                  ref="#tillich_person_id__141" type="person"><rs type="work"
-                     ref="#tillich_work_id__209">Heinrich Barth</rs>,</rs>
+               ich mich ganz besonders, dass mir meine persönlichen Beziehungen zu der <rs ref="#tillich_place_id__397" type="place">Schweiz</rs> zu den beiden Heften von
+                  <rs ref="#tillich_person_id__300" type="person"><rs type="work" ref="#tillich_work_id__208">Emil Brunner</rs></rs> und von <rs ref="#tillich_person_id__141" type="person"><rs type="work" ref="#tillich_work_id__209">Heinrich Barth</rs>,</rs>
                <rs ref="#tillich_person_id__137" type="person">Karl Barths</rs> jüngerem Bruder,
                verholfen haben, und ich würde es sehr begrüssen, wenn auch Ihr Vortrag in der
                Sammlung erscheinen könnte.</p>
@@ -140,8 +136,7 @@
             <closer>
                <salute>Ihren weiteren Nachrichten, gegebenenfalls der Einsendung Ihres Manuskriptes,
                   sehe ich gerne entgegen und verbleibe in vorzüglicher Hochachtung</salute>
-               <signed>Ihr ganz ergebener <rs ref="#tillich_person_id__1780" type="person"><hi
-                        rend="hand">Dr. O. Siebeck</hi></rs>. </signed>
+               <signed>Ihr ganz ergebener <rs ref="#tillich_person_id__1780" type="person"><hi rend="hand">Dr. O. Siebeck</hi></rs>. </signed>
             </closer>
          </div>
       </body>

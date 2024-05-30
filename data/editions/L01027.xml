@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01027">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Sebastian Kueffner</name>
+               <name key="https://orcid.org/0009-0006-5231-3094">Sebastian Kueffner</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -108,9 +109,7 @@
             </opener>
             <p>Anbei sende ich Ihnen das <rs type="work" ref="#tillich_work_id__218">R.G.G.</rs>
                Manuscript <rs type="work" ref="#tillich_work_id__226">Offenbarung
-                  religionsphilosophisch</rs>. Die Manuscripte zur Philosophie <rs type="work"
-                  ref="#tillich_work_id__228">I</rs>. u. <rs type="work" ref="#tillich_work_id__229"
-                  >III</rs> folgen im Laufe des <date when="1929-09">September</date>. Leider war es
+                  religionsphilosophisch</rs>. Die Manuscripte zur Philosophie <rs type="work" ref="#tillich_work_id__228">I</rs>. u. <rs type="work" ref="#tillich_work_id__229">III</rs> folgen im Laufe des <date when="1929-09">September</date>. Leider war es
                mir nicht möglich, das von Ihnen gewünschte Papier zu verwenden, da ich keines
                erhalten habe. Falls Sie es für die anderen Manuscripte wünschen, bitte ich um
                Zusendung an <rs ref="#tillich_place_id__230" type="place">obige Adresse</rs>.</p>
@@ -122,10 +121,8 @@
                   <rs ref="#tillich_person_id__1928" type="person">Professor D. Dr. Paul
                      Tillich</rs>
                </salute>
-               <signed><ptr/><rs ref="#tillich_person_id__1928" type="person"><hi rend="u"
-                        >Tillich</hi></rs>.<lb/>
-                  <hi rend="hand"><rs type="person" ref="#tillich_person_id__1928"
-                  >Tillich</rs></hi></signed>
+               <signed><ptr/><rs ref="#tillich_person_id__1928" type="person"><hi rend="u">Tillich</hi></rs>.<lb/>
+                  <hi rend="hand"><rs type="person" ref="#tillich_person_id__1928">Tillich</rs></hi></signed>
             </closer>
          </div>
       </body>

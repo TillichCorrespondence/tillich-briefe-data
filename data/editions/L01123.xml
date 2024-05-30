@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01123">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Friedrich Schumann</name>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -106,12 +107,10 @@
             <opener>
                <dateline><rs ref="#tillich_place_id__143" type="place">Frankfurt/Main</rs>, den
                      <date when="1932-01-23">23. 1. 32</date></dateline>
-               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1780" type="person"
-                     >Siebeck</rs>!</salute>
+               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1780" type="person">Siebeck</rs>!</salute>
             </opener>
             <p>Haben Sie besten Dank für <rs xml:id="L01122" type="letter">Ihren Brief</rs> und Ihr
-               Anerbieten. Ich bin gern bereit, mit Ihnen wegen der Drucklegung meines <rs
-                  type="work" ref="#tillich_work_id__231">Vortrages</rs> in Unterhandlungen zu
+               Anerbieten. Ich bin gern bereit, mit Ihnen wegen der Drucklegung meines <rs type="work" ref="#tillich_work_id__231">Vortrages</rs> in Unterhandlungen zu
                treten. Ich werde in den nächsten Tagen mein Manuscript durchsehen und es Ihnen zur
                vorläufigen Begutachtung zusenden.</p>
             <closer>

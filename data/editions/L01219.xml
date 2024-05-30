@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01219">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__2474">Joachim Kirchner</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Paul Schömann</name>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -83,8 +84,7 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener><dateline>
-                  <rs ref="#tillich_place_id__143" type="place">Frankfurt a.Main</rs>, den <date
-                     when="1933-04-21">21.April 1933</date>
+                  <rs ref="#tillich_place_id__143" type="place">Frankfurt a.Main</rs>, den <date when="1933-04-21">21.April 1933</date>
                   <address>
                      <street>Untermainkai 15.</street>
                   </address></dateline>
@@ -111,8 +111,7 @@
                auch in anständiger Form austragen kann, werde ich den über Sie ausgestreuten
                Gerüchten entgegentreten und in den interessierten politischen Kreisen entsprechende
                Mitteilung machen.</p>
-            <p>Eine Abschrift dieses Briefes leite ich <rs ref="#tillich_person_id__2475"
-                  type="person">Herrn Professor Dr. Schwietering</rs> zu.</p>
+            <p>Eine Abschrift dieses Briefes leite ich <rs ref="#tillich_person_id__2475" type="person">Herrn Professor Dr. Schwietering</rs> zu.</p>
             <closer>
                <salute>Mit ausgezeichneter Hochachtung</salute>
                <signed>Ihr ergebener <rs ref="#tillich_person_id__2474" type="person">J.

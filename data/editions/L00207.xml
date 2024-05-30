@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00207">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__2138">Otto Heller</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Paul Schömann</name>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -82,10 +83,7 @@
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <p><foreign xml:lang="fr">Ni à <rs ref="#tillich_place_id__343" type="place">Paris</rs>, ni à <rs
-                  ref="#tillich_place_id__271" type="place">Londres</rs>, ni à <rs
-                  ref="#tillich_place_id__369" type="place">Rome</rs>, mais à <rs
-                  ref="#tillich_place_id__310" type="place">Nancy</rs>! Mes remerciements pour votre
+            <p><foreign xml:lang="fr">Ni à <rs ref="#tillich_place_id__343" type="place">Paris</rs>, ni à <rs ref="#tillich_place_id__271" type="place">Londres</rs>, ni à <rs ref="#tillich_place_id__369" type="place">Rome</rs>, mais à <rs ref="#tillich_place_id__310" type="place">Nancy</rs>! Mes remerciements pour votre
                carte!</foreign></p>
             <closer>
                <salute><foreign xml:lang="fr">Toujours ton</foreign></salute>

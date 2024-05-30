@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01128">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__2440">Verlag Mohr Siebeck</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Sebastian Kueffner</name>
+               <name key="https://orcid.org/0009-0006-5231-3094">Sebastian Kueffner</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -100,26 +101,21 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline><rs ref="#tillich_place_id__448" type="place">Tübingen</rs>, den <date
-                     when="1932-03-10">, 10. März 1932</date>.</dateline>
+               <dateline><rs ref="#tillich_place_id__448" type="place">Tübingen</rs>, den <date when="1932-03-10">, 10. März 1932</date>.</dateline>
             </opener>
             <p>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>,
                in Abwesenheit meines <rs ref="#tillich_person_id__1780" type="person">Herrn Dr.
                   Oskar Siebeck</rs>, der sich zu 2 Sitzungstagen buchhändlerischer Organisationen
                nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> begeben hat, bestätige
-               ich Ihnen mit verbindlichstem Dank den Empfang Ihrer freundlichen, an <rs
-                  ref="#tillich_person_id__1780" type="person">Herrn Dr. Siebeck</rs> gerichteten
-               Zeilen vom <date when="1932-03-09">9. ds. Mts.</date> und Ihres Manuskriptes "<rs
-                  type="work" ref="#tillich_work_id__231">Der junge <rs
-                     ref="#tillich_person_id__839" type="person">Hegel</rs></rs>". Mit der
+               ich Ihnen mit verbindlichstem Dank den Empfang Ihrer freundlichen, an <rs ref="#tillich_person_id__1780" type="person">Herrn Dr. Siebeck</rs> gerichteten
+               Zeilen vom <date when="1932-03-09">9. ds. Mts.</date> und Ihres Manuskriptes "<rs type="work" ref="#tillich_work_id__231">Der junge <rs ref="#tillich_person_id__839" type="person">Hegel</rs></rs>". Mit der
                Beantwortung Ihrer Anfrage darf ich Sie bitten, sich freundlichst bis zur Rückkehr
                meines <rs ref="#tillich_person_id__1780" type="person">Herrn Siebeck</rs> gedulden
                zu wollen.</p>
             <closer>
                <salute>Inzwischen empfehle ich mich Ihnen in vorzüglichster Hochachtung als <lb/>Ihr
                   ergebenster</salute>
-               <signed><ptr/>J. C. B. Mohr (<rs ref="#tillich_person_id__1781" type="person"><hi
-                        rend="hand">Paul Siebeck</hi></rs>).</signed>
+               <signed><ptr/>J. C. B. Mohr (<rs ref="#tillich_person_id__1781" type="person"><hi rend="hand">Paul Siebeck</hi></rs>).</signed>
             </closer>
          </div>
       </body>

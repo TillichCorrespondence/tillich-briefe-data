@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01078">
    <teiHeader>
       <fileDesc>
@@ -7,7 +8,7 @@
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Sebastian Kueffner</name>
+               <name key="https://orcid.org/0009-0006-5231-3094">Sebastian Kueffner</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -110,13 +111,11 @@
                hoffe aber doch, bis <date when="1930-09">Mitte September</date> den Entwurf fertig
                zu haben.</p>
             <p>Ich wäre Ihnen dankbar, wenn Sie mir gleich einige Bogen des von Ihnen gewünschten
-               Konzeptpapiers hierhersenden würden. Adresse: <rs ref="#tillich_place_id__352"
-                  type="place">Neuendorf auf Wollin</rs>, Ostsee, Kurhaus.</p>
+               Konzeptpapiers hierhersenden würden. Adresse: <rs ref="#tillich_place_id__352" type="place">Neuendorf auf Wollin</rs>, Ostsee, Kurhaus.</p>
             <closer>
                <salute>Ihr sehr ergebener <rs ref="#tillich_person_id__1928" type="person">Professor
                      D. Dr. Paul Tillich</rs></salute>
-               <signed><ptr/><rs ref="#tillich_person_id__1928" type="person"><hi rend="hand"
-                        >Tillich</hi></rs></signed>
+               <signed><ptr/><rs ref="#tillich_person_id__1928" type="person"><hi rend="hand">Tillich</hi></rs></signed>
             </closer>
          </div>
       </body>
