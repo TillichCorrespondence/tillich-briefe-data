@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01207">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__2459">Ernst Detert</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Paul Schömann</name>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -83,8 +84,7 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener><dateline>
-                  <rs ref="#tillich_place_id__362" type="place">Rathenow</rs>, den <date
-                     when="1933-04-14">14.4.33</date></dateline>
+                  <rs ref="#tillich_place_id__362" type="place">Rathenow</rs>, den <date when="1933-04-14">14.4.33</date></dateline>
                <salute>Hochverehrter <rs ref="#tillich_person_id__1928" type="person">Herr
                      Professor</rs>!</salute>
             </opener>
@@ -98,8 +98,7 @@
                Bedürfnis.</p>
             <closer>
                <salute>So grüße ich Sie in Verehrung und Dankbarkeit als</salute>
-               <signed>Ihr sehr ergebener <rs ref="#tillich_person_id__2459" type="person"
-                     >Detert</rs></signed>
+               <signed>Ihr sehr ergebener <rs ref="#tillich_person_id__2459" type="person">Detert</rs></signed>
             </closer>
          </div>
       </body>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00838">
    <teiHeader>
       <fileDesc>
@@ -7,7 +8,7 @@
             <author ref="#tillich_person_id__2491">L. Häberle</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Sebastian Kueffner</name>
+               <name key="https://orcid.org/0009-0006-5231-3094">Sebastian Kueffner</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -80,8 +81,7 @@
             <correspAction type="sent">
                <persName ref="#tillich_person_id__2491">L. Häberle</persName>
                <placeName ref="#tillich_place_id__328">ohne Ort</placeName>
-               <note type="ea">Vermutlich <rs type="place" ref="#tillich_place_id__448"
-                     >Tübingen</rs>.</note>
+               <note type="ea">Vermutlich <rs type="place" ref="#tillich_place_id__448">Tübingen</rs>.</note>
                <date when="1924-11-17">17.11.1924</date>
             </correspAction>
             <correspAction type="received">
@@ -108,17 +108,14 @@
             <p>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>,
                in Abwesenheit meines <rs ref="#tillich_person_id__1781" type="person">Herrn Dr.
                   Siebeck</rs>, der sich zur Zeit auf einer längeren Geschäftsreise befindet,
-               bestätige ich Ihnen mit verbindlichstem Dank den Empfang Ihres freundlichen <rs
-                  xml:id="L00836" type="letter">Briefes</rs> vom <date when="1924-11-13">13. ds.
-                  Mts.</date>, dem ich das Manuskript Ihres Vortrages <rs type="work"
-                  ref="#tillich_work_id__9">"Kirche und Kultur"</rs>, sowie den unterschriebenen
+               bestätige ich Ihnen mit verbindlichstem Dank den Empfang Ihres freundlichen <rs xml:id="L00836" type="letter">Briefes</rs> vom <date when="1924-11-13">13. ds.
+                  Mts.</date>, dem ich das Manuskript Ihres Vortrages <rs type="work" ref="#tillich_work_id__9">"Kirche und Kultur"</rs>, sowie den unterschriebenen
                Verlagsvertrag entnommen habe. Ich werde Ihr Manuskript sogleich in Satz geben. Die
                Korrekturen werden Ihnen in den nächsten Tagen übersandt werden. Ihrem Wunsche nach
                sofortiger Auszahlung des Honorars werde ich ausnahmsweise gerne Folge leisten. Mit
                gleicher Post lasse ich Ihnen die Summe von M 100.- zugehen.</p>
             <closer>
-               <salute>In vorzüglicher Hochachtung Ihr ergebenster<lb/> J. C. B. MOHR <rs
-                     ref="#tillich_person_id__1781" type="person">(Paul Siebeck)</rs> p.
+               <salute>In vorzüglicher Hochachtung Ihr ergebenster<lb/> J. C. B. MOHR <rs ref="#tillich_person_id__1781" type="person">(Paul Siebeck)</rs> p.
                   pa.</salute>
                <signed><ptr/><rs ref="#tillich_person_id__2491" type="person"><hi rend="hand">L.
                         Häberle</hi> i. V. W. Obst</rs></signed>

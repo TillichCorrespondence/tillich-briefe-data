@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00967">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__814">Hans Hartmann</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Paul Schömann</name>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -84,8 +85,7 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener><dateline>
-                  <rs ref="#tillich_place_id__142" type="place">Foche-Solingen</rs>, den <date
-                     when="1928-03-08">8. März 1928</date>.</dateline>
+                  <rs ref="#tillich_place_id__142" type="place">Foche-Solingen</rs>, den <date when="1928-03-08">8. März 1928</date>.</dateline>
                <salute>Verehrter <rs ref="#tillich_person_id__1928" type="person">Herr
                      Professor</rs>!</salute>
             </opener>
@@ -93,14 +93,12 @@
                einen von mir herauszugebenden Predigtband zur Verfügung gestellt haben. Nach
                unaufhörlichem zweijährigen Drängen und Mahnen hat der Verlag (Greifenverlag) nun
                endgültig gesagt, daß er den Band nicht herausgeben könne. Dafür hat aber ein
-               theologischer Verlag ersten Ranges, <rs type="person" ref="#tillich_person_id__2715"
-                  >J.C. Hinrichs</rs> in <rs type="place">Leipzig</rs>, die Herausgabe übernommen,
+               theologischer Verlag ersten Ranges, <rs type="person" ref="#tillich_person_id__2715">J.C. Hinrichs</rs> in <rs type="place">Leipzig</rs>, die Herausgabe übernommen,
                wenn auch unter leicht veränderten Bedingungen.</p>
             <p>Ich bitte Sie sehr, im Interesse der guten Sache, sich mit diesen Bedingungen
                einverstanden zu erklären. Es sind die folgenden:</p>
             <p>1. Einmalige Abfindung für eine Predigt RM 25,--.</p>
-            <p>2. <del rend="s">Zwei</del> Ein gebundene<add>s</add> Freiexemplar<del rend="s"
-                  >e</del> des ganzen Bandes.</p>
+            <p>2. <del rend="s">Zwei</del> Ein gebundene<add>s</add> Freiexemplar<del rend="s">e</del> des ganzen Bandes.</p>
             <p>3. Auf Wunsch Sonderabdrücke, die Ihnen pro Stück 25 Pfennige kosten würden. Wollen
                Sie bitte sofort Ihre diesbezüglichen Wünsche angeben.</p>
             <p>4. Sie selbst lesen die Korrektur Ihrer Predigt.</p>

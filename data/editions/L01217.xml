@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01217">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__2107">Georg Wünsch</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Paul Schömann</name>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -82,8 +83,7 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener><dateline>
-                  <rs ref="#tillich_place_id__279" type="place">Marburg</rs>, <date
-                     when="1933-04-17">17. April 1933.</date></dateline>
+                  <rs ref="#tillich_place_id__279" type="place">Marburg</rs>, <date when="1933-04-17">17. April 1933.</date></dateline>
                <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr
                   Tillich</rs>!</salute>
             </opener>

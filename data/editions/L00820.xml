@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00820">
    <teiHeader>
       <fileDesc>
@@ -8,7 +9,7 @@
                und Volksbildung</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Gerrit Mauritz</name>
+               <name key="https://orcid.org/0000-0002-0440-4008">Gerrit Mauritz</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -86,8 +87,7 @@
             <pb n="1"/>
             <opener> Der Preußische Minister für Wissenschaft, Kunst und Volksbildung<lb/>
                <hi rend="u">UI Nr. 6356</hi> Bei Beantwortung wird um Angabe der Geschäftsnummer gebeten.<lb/>
-               <dateline><rs ref="#tillich_place_id__37" type="place">Berlin W8</rs> den <date
-                     when="1924-06-12">12. Juni 1924.</date>
+               <dateline><rs ref="#tillich_place_id__37" type="place">Berlin W8</rs> den <date when="1924-06-12">12. Juni 1924.</date>
                   <address>
                      <street>Unter den Linden 4</street>
                   </address> Fernsprecher: Zentrum 11340-11343</dateline>
@@ -102,15 +102,11 @@
                Wirkung vom 1. Mai 1924 ab monatlich im voraus aus der Universitätskasse.</p>
             <closer>
                <salute>Im Auftrage</salute>
-               <signed><rs ref="#tillich_person_id__1602" type="person">Richter</rs></signed><add
-                  resp="P02463">Gesehen!<lb/> Marburg, den 20. Juni 1924. <figure type="stamp">
+               <signed><rs ref="#tillich_person_id__1602" type="person">Richter</rs></signed><add resp="P02463">Gesehen!<lb/> Marburg, den 20. Juni 1924. <figure type="stamp">
                      <p>Universitätskurator.</p>
                   </figure>
                   <rs ref="#tillich_person_id__2458" type="person">v. Hülsen</rs>.</add>
-               <dateline>An den außerordentlichen Professor <rs ref="#tillich_person_id__1928"
-                     type="person">Herrn Lic. Dr. <hi rend="g">Tillich</hi></rs> in <hi rend="u"><hi
-                        rend="g">Marburg</hi></hi><lb/> d.d.<rs ref="#tillich_person_id__2458"
-                     type="person">Herrn Universitätskurator</rs></dateline>
+               <dateline>An den außerordentlichen Professor <rs ref="#tillich_person_id__1928" type="person">Herrn Lic. Dr. <hi rend="g">Tillich</hi></rs> in <hi rend="u"><hi rend="g">Marburg</hi></hi><lb/> d.d.<rs ref="#tillich_person_id__2458" type="person">Herrn Universitätskurator</rs></dateline>
             </closer>
          </div>
       </body>

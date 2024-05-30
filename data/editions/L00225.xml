@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00225">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__2525">Claus</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Paul Schömann</name>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -84,18 +85,15 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline><rs ref="#tillich_place_id__149" type="place">Frankfurt <hi rend="sup"
-                        >a</hi>/O.</rs>, d. <date when="1907-10-17">17.10.07.</date></dateline>
+               <dateline><rs ref="#tillich_place_id__149" type="place">Frankfurt <hi rend="sup">a</hi>/O.</rs>, d. <date when="1907-10-17">17.10.07.</date></dateline>
                <salute>L. <rs ref="#tillich_person_id__1928" type="person">P.</rs></salute>
             </opener>
-            <p>da die Zeit zu knapp ist, um bei Dir vorzukommen, wollten <rs ref="#tillich_person_id__2190"
-                  type="person">Spatz</rs> und ich Dich fragen, ob Du nicht vielleicht an den
+            <p>da die Zeit zu knapp ist, um bei Dir vorzukommen, wollten <rs ref="#tillich_person_id__2190" type="person">Spatz</rs> und ich Dich fragen, ob Du nicht vielleicht an den
                Bahnhof Friedrichstraße kommen kannst, wenn du uns sehen willst. Wir kommen dort
                10.57 an (morgen natürlich).</p>
             <closer>
                <salute>Auf Wiedersehen!</salute>
-               <signed>Es grüßt Dich herzlich Dein tr. <rs ref="#tillich_person_id__2525"
-                     type="person">Claus</rs>.</signed>
+               <signed>Es grüßt Dich herzlich Dein tr. <rs ref="#tillich_person_id__2525" type="person">Claus</rs>.</signed>
             </closer>
          </div>
       </body>

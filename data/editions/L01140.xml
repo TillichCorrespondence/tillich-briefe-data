@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01140">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Sebastian Kueffner</name>
+               <name key="https://orcid.org/0009-0006-5231-3094">Sebastian Kueffner</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -112,16 +113,12 @@
                Nachrichten<lb/> Neue Bad. Landeszeitung<lb/> Volkswacht f. Schlesien<lb/> Neue
                Leipziger Zeitung<lb/> Basler Nachrichten<lb/> Neue Zürcher Zeitung<lb/>
             </p>
-            <p>ich vermisse noch <bibl><hi rend="u">Theologische Blätter</hi></bibl> und <bibl><hi
-                     rend="u">Zeitschrift für Religion und Sozialismus</hi></bibl>.<lb/>
-               <rs ref="#tillich_person_id__1723" type="person">Prof. D. K. L. Schmidt</rs>, <rs
-                  ref="#tillich_place_id__68" type="place">Bonn (Rhein) </rs><lb/>
-               <rs ref="#tillich_person_id__2107" type="person">Prof. D. G. Wünsch</rs>, <rs
-                  ref="#tillich_place_id__279" type="place">Marburg (Lahn) Frankfurterstr. 16.</rs>
+            <p>ich vermisse noch <bibl><hi rend="u">Theologische Blätter</hi></bibl> und <bibl><hi rend="u">Zeitschrift für Religion und Sozialismus</hi></bibl>.<lb/>
+               <rs ref="#tillich_person_id__1723" type="person">Prof. D. K. L. Schmidt</rs>, <rs ref="#tillich_place_id__68" type="place">Bonn (Rhein) </rs><lb/>
+               <rs ref="#tillich_person_id__2107" type="person">Prof. D. G. Wünsch</rs>, <rs ref="#tillich_place_id__279" type="place">Marburg (Lahn) Frankfurterstr. 16.</rs>
             </p>
             <closer>
-               <signed><ptr/><rs ref="#tillich_person_id__1928" type="person"><hi rend="hand"
-                        >Tillich</hi></rs>.</signed>
+               <signed><ptr/><rs ref="#tillich_person_id__1928" type="person"><hi rend="hand">Tillich</hi></rs>.</signed>
             </closer>
          </div>
       </body>

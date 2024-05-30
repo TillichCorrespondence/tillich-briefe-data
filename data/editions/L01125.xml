@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01125">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Friedrich Schumann</name>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -105,15 +106,13 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1780" type="person"
-                     >Siebeck</rs>!</salute>
+               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1780" type="person">Siebeck</rs>!</salute>
             </opener>
             <p>Mit dem <rs xml:id="L01124" type="letter">Vertragsentwurf</rs> bin ich einverstanden.
                Doch möchte ich an dem <rs type="work" ref="#tillich_work_id__231">Manuskript</rs>
                noch einiges ändern. "Eine Rede ist keine Schreibe." Ich glaube also, daß es mit dem
                Druck vor Semesterschluß auf keinen Fall etwas werden kann. Dann ist es vielleicht
-               das Beste, die Sache kommt zum Semesterbeginn, also Mitte <date when="1932-04"
-                  >April</date> heraus. Ich könnte dann etwas Ordentliches daraus machen.</p>
+               das Beste, die Sache kommt zum Semesterbeginn, also Mitte <date when="1932-04">April</date> heraus. Ich könnte dann etwas Ordentliches daraus machen.</p>
             <closer>
                <salute>Ihr sehr ergebener</salute>
                <signed><rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs></signed>

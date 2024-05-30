@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00567">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__2098">Max Wölfing</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Leopold Potyka</name>
+               <name key="https://orcid.org/0009-0008-9645-8839">Leopold Potyka</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -82,11 +83,8 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline>Evangelischer Feldpropst der Armee <rs ref="#tillich_place_id__37"
-                     type="place">Berlin C2 Hinter der Garnisonskirche 1</rs>, den <date
-                     when="1918-05-01">1. Mai 1918.</date></dateline>
-               <salute>An Herren Feldgeistlichen Lic. Dr. <rs ref="#tillich_person_id__1928"
-                     type="person">Tillich</rs>, Hochehrwürden 7. Reserve Division</salute>
+               <dateline>Evangelischer Feldpropst der Armee <rs ref="#tillich_place_id__37" type="place">Berlin C2 Hinter der Garnisonskirche 1</rs>, den <date when="1918-05-01">1. Mai 1918.</date></dateline>
+               <salute>An Herren Feldgeistlichen Lic. Dr. <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>, Hochehrwürden 7. Reserve Division</salute>
             </opener>
             <p>Auf Euer Hochehrwürden Bericht vom <date when="1918-04-23">23. d. Mts.</date> teile
                ich Ihnen mit, daß Ihre Reklamation aus Mangel an verfügbarem Ersatz hat abgelehnt

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01213">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__2483">Georg Küntzel</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Paul Schömann</name>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -82,13 +83,11 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener><dateline>
-                  <rs ref="#tillich_place_id__143" type="place">Frankfurt A. M.-SÜD</rs>, den <date
-                     when="1933-04-15">15. April 1933</date></dateline>
+                  <rs ref="#tillich_place_id__143" type="place">Frankfurt A. M.-SÜD</rs>, den <date when="1933-04-15">15. April 1933</date></dateline>
                <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr
                   Kollege</rs>!</salute>
             </opener>
-            <p>Mehrfache vergebliche Anrufe lassen mich vermuten, daß Sie nicht in <rs type="place"
-                  ref="#tillich_place_id__143">Ffm</rs> anwesend sind. So lassen Sie mich Ihnen
+            <p>Mehrfache vergebliche Anrufe lassen mich vermuten, daß Sie nicht in <rs type="place" ref="#tillich_place_id__143">Ffm</rs> anwesend sind. So lassen Sie mich Ihnen
                wenigstens schriftlich sagen, wie tief ich bedaure, daß Sie beurlaubt wurden. Gerade
                weil ich sonst <unclear>dem Entscheidenden</unclear>, was geschieht, eine sehr
                positive Einstellung habe, ist mir Ihr Fall menschlich und sachlich sehr schmerzlich.
