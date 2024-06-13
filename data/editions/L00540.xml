@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00540">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Paul Schömann</name>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -63,7 +64,7 @@
                <date when="1917-06-05">5. Juni 1917</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="#tillich_place_id__226">Johanna Tillich</persName>
+               <persName ref="#tillich_person_id__644">Johanna Tillich</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -81,24 +82,17 @@
             <pb n="1"/>
             <opener>
                <dateline>D. <date when="1917-06-05">5. Juni. 1917.</date></dateline>
-               <salute>Mein liebes <rs ref="#tillich_place_id__226" type="person"
-                  >Wumming</rs>!</salute>
+               <salute>Mein liebes <rs ref="#tillich_place_id__226" type="person">Wumming</rs>!</salute>
             </opener>
             <p>Im Anblick eines Höhenzuges von ein paar Kilometern, auf dem mehr Blut geflossen ist,
                als an einem ganzen Kriege der Vergangenheit, und wo Tag für Tag die
                Schwefelschwaden, <rs type="bible" ref="Offb-14,11">"der Rauch der Qual"</rs>
                aufsteigt -- <unclear cert="low">weh mir</unclear> unsere armen Kerls - denke ich an
-               Euch! --- Sonntag war ich lange mit <rs ref="#tillich_person_id__2713" type="person"
-                  >Pfarrer Pfalzgraf</rs>, <rs ref="#tillich_place_id__74" type="place">Bremen</rs>,
-               zusammen; er war mir sehr sympathisch; sagte, dass es Dir in <rs
-                  ref="#tillich_place_id__74" type="place">Bremen</rs> schwerer werden würde als <rs
-                  ref="#tillich_person_id__641" type="person">Frede</rs>, aber dann würdest Du immer
+               Euch! --- Sonntag war ich lange mit <rs ref="#tillich_person_id__2713" type="person">Pfarrer Pfalzgraf</rs>, <rs ref="#tillich_place_id__74" type="place">Bremen</rs>,
+               zusammen; er war mir sehr sympathisch; sagte, dass es Dir in <rs ref="#tillich_place_id__74" type="place">Bremen</rs> schwerer werden würde als <rs ref="#tillich_person_id__641" type="person">Frede</rs>, aber dann würdest Du immer
                dasein wollen. --- Heut habe ich als Patenonkel 50M an Dich abgeschickt, mit der
                Bedingung, daß Du für Dich etwas tust, entweder 10 Flaschen guter Ratskellerrotwein
-               oder eine Sonntagstour ans Meer! Oder sowas! Aber für <hi rend="u">Dich</hi>! Für <rs
-                  ref="#tillich_person_id__2355" type="person">Gisela</rs> die drei Kornblumen! <rs
-                  ref="#tillich_person_id__641" type="person">Frede</rs> einen Gruß und <rs
-                  ref="#tillich_person_id__2707" type="person">Ekkehardt</rs> einen Kuß!</p>
+               oder eine Sonntagstour ans Meer! Oder sowas! Aber für <hi rend="u">Dich</hi>! Für <rs ref="#tillich_person_id__2355" type="person">Gisela</rs> die drei Kornblumen! <rs ref="#tillich_person_id__641" type="person">Frede</rs> einen Gruß und <rs ref="#tillich_person_id__2707" type="person">Ekkehardt</rs> einen Kuß!</p>
             <closer>
                <signed><rs ref="#tillich_person_id__1928" type="person">Dein Junge</rs>!</signed>
             </closer>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00204">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__128">Hans Balke</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Niklas von Hülsen</name>
+               <name key="https://orcid.org/0009-0007-2445-9093">Niklas von Hülsen</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -83,8 +84,7 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline><rs ref="#tillich_place_id__318" type="place">Neviges</rs>, den <date
-                     when="1907-09-04">4.Sept. 07.</date></dateline>
+               <dateline><rs ref="#tillich_place_id__318" type="place">Neviges</rs>, den <date when="1907-09-04">4.Sept. 07.</date></dateline>
                <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person"/>Paul,</salute>
             </opener>
             <p>Hab vielen herzlichen Dank für Deinen lieben Geburtstagsgruss<note type="ea">Nicht
@@ -151,16 +151,12 @@
                ja das Leben nicht gerade leichter, wohl aber schöner. Seine Stellung zur und in der
                Verbindung wird ihm wohl noch manche Schwierigkeit machen. Aber man muss ihn lieb
                haben. Ich war der Meinung, Du würdest noch länger an der Ostsee geblieben sein.
-               Hoffentlich hast Du den guten Willen, auch in <rs ref="#tillich_place_id__37"
-                  type="place">Berlin</rs> vernünftig zu leben, dann geht es auch, Du weisst wohl,
+               Hoffentlich hast Du den guten Willen, auch in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> vernünftig zu leben, dann geht es auch, Du weisst wohl,
                was ich darunter verstehe. In Deiner Arbeit wünsche ich Dir rechten Erfolg u. innere
                Befriedigung. Mögest Du <pb n="8"/> mir auch darin mit gutem Beispiel vorangehen, ich
-               will versuchen, ob ich folgen kann. Ich hoffe, dass <rs ref="tillich_person_id__203"
-                  type="person">Lorenz</rs> mich noch auf 2 Tage besucht, ich habe ihn trotz seiner
-               Schwächen recht gern; vielleicht tut ihm der <rs ref="#tillich_place_id__448"
-                  type="place">Tübinger</rs> Aufenthalt gut. Wie die Sache <rs type="person" ref="#tillich_person_id__2148">Schlemm</rs> steht ist mir
-               ganz unbekannt, doch habe ich bei <rs ref="#tillich_person_id__2191" type="person"
-                  >Jonas</rs> angefragt. Der alte Herr hat sich rührende Mühe gegeben. Ich freue
+               will versuchen, ob ich folgen kann. Ich hoffe, dass <rs ref="tillich_person_id__203" type="person">Lorenz</rs> mich noch auf 2 Tage besucht, ich habe ihn trotz seiner
+               Schwächen recht gern; vielleicht tut ihm der <rs ref="#tillich_place_id__448" type="place">Tübinger</rs> Aufenthalt gut. Wie die Sache <rs type="person" ref="#tillich_person_id__2148">Schlemm</rs> steht ist mir
+               ganz unbekannt, doch habe ich bei <rs ref="#tillich_person_id__2191" type="person">Jonas</rs> angefragt. Der alte Herr hat sich rührende Mühe gegeben. Ich freue
                mich, jetzt noch ein paar ruhige Wochen vor mir zu haben, ich versuche etwas zu
                arbeiten; die Pauken ruhen noch gänzlich ungeboren. – Verzeih, dass ich Dir nicht
                länger zum Geburtstage schrieb, aber auf der Reise war es mir nicht gut möglich.
@@ -168,8 +164,7 @@
             <closer>
                <salute>Grüsse Deine lb. Angehörigen recht herzlich von mir. In treuer Liebe u.
                   Freundschaft Dein </salute>
-               <signed><hi rend="u"><rs type="person" ref="#tillich_person_id__128"
-                  >Hans</rs>.</hi></signed>
+               <signed><hi rend="u"><rs type="person" ref="#tillich_person_id__128">Hans</rs>.</hi></signed>
             </closer>
          </div>
       </body>

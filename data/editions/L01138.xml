@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01138">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__2440">Verlag Mohr Siebeck</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Sebastian Kueffner</name>
+               <name key="https://orcid.org/0009-0006-5231-3094">Sebastian Kueffner</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -101,22 +102,18 @@
             <pb n="1"/>
 
             <opener>
-               <dateline><rs ref="#tillich_place_id__448" type="place">Tübingen</rs>, <date
-                     when="1932-04-19">, 19. April 1932</date></dateline>
+               <dateline><rs ref="#tillich_place_id__448" type="place">Tübingen</rs>, <date when="1932-04-19">, 19. April 1932</date></dateline>
             </opener>
             <p>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>,
                für Ihre freundliche an meinen <rs ref="#tillich_person_id__1780" type="person">Herrn
                   Dr. Siebeck</rs> gerichtete <rs xml:id="L01137" type="postcard">Karte</rs> vom
                   <date when="1932-04-16">16. ds. Mts.</date> danke ich Ihnen bestens. Die
-               druckfertigen Bogen 1 und 2 Ihrer <rs type="work" ref="#tillich_work_id__231"
-                  >Hegelrede</rs> und die Korrektur ihrer <rs type="work"
-                  ref="#tillich_work_id__235">Goetherede</rs> sind richtig hier eingetroffen. Die
+               druckfertigen Bogen 1 und 2 Ihrer <rs type="work" ref="#tillich_work_id__231">Hegelrede</rs> und die Korrektur ihrer <rs type="work" ref="#tillich_work_id__235">Goetherede</rs> sind richtig hier eingetroffen. Die
                Druckerei wird voraussichtlich noch heute die Revision der letzteren und die
                Korrektur des geänderten Titelblattes an Sie absenden.</p>
             <closer>
                <salute>In vorzüglicher Hochachtung begrüsse ich Sie als Ihr ergebener</salute>
-               <signed><ptr/>J. C. B. Mohr <rs ref="#tillich_person_id__1781" type="person"><hi
-                        rend="hand">Paul Siebeck</hi></rs>.</signed>
+               <signed><ptr/>J. C. B. Mohr <rs ref="#tillich_person_id__1781" type="person"><hi rend="hand">Paul Siebeck</hi></rs>.</signed>
             </closer>
          </div>
       </body>

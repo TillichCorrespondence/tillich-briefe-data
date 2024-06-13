@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="L00447" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00447">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -7,7 +7,7 @@
 <author ref="#tillich_person_id__1928">Paul Tillich</author>
 <respStmt>
 <resp>Editor</resp>
-<name>Andreas Burri</name>
+<name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -46,6 +46,30 @@
 <physDesc>
 <p>Brief, eigenhändig</p>
 </physDesc>
+   <additional>
+      <listBibl>
+         <biblStruct type="monograph" n="firstPrint">
+            <monogr>
+               <author>Paul Tillich</author>
+               <editor> Renate Albrecht/Margot Hahl (Hg.)</editor>
+               <title>Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge,
+                  Berichte</title>
+               <edition>Erste Auflage</edition>
+               <imprint>
+                  <publisher>Evangelisches Verlagswerk Stuttgart</publisher>
+                  <pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
+                  <date when="1980">1980</date>
+                  <biblScope>89f.</biblScope>
+               </imprint>
+            </monogr>
+            <series>
+               <title>Ergänzungs- und Nachlassbände zu den Gesammelten Werken
+                  von Paul Tillich</title>
+               <biblScope>V</biblScope>
+            </series>
+         </biblStruct>
+      </listBibl>
+   </additional>
 </msDesc>
 </sourceDesc>
 </fileDesc>

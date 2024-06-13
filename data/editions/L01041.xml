@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L0141">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Sebastian Kueffner</name>
+               <name key="https://orcid.org/0009-0006-5231-3094">Sebastian Kueffner</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -101,15 +102,12 @@
          <div type="writingSession">
             <pb n="1"/>
 
-            <p>Hierdurch bitte ich Sie, an mich zum Autorenpreis zu senden je ein Exemplar von "<rs
-                  type="work" ref="#tillich_work_id__15">Das Dämonische</rs>" und von "<rs
-                  type="work" ref="#tillich_work_id__9">Kirche und Kultur</rs>".</p>
+            <p>Hierdurch bitte ich Sie, an mich zum Autorenpreis zu senden je ein Exemplar von "<rs type="work" ref="#tillich_work_id__15">Das Dämonische</rs>" und von "<rs type="work" ref="#tillich_work_id__9">Kirche und Kultur</rs>".</p>
             <closer>
                <salute>Professor <rs ref="#tillich_person_id__1928" type="person">D. Dr. Paul
                      Tillich</rs>
                </salute>
-               <signed><rs ref="#tillich_person_id__1928" type="person"><hi rend="hand"
-                     >Tillich</hi></rs>.</signed>
+               <signed><rs ref="#tillich_person_id__1928" type="person"><hi rend="hand">Tillich</hi></rs>.</signed>
             </closer>
             <postscript>
                <p><rs ref="#tillich_place_id__143" type="place">Frankfurt/Main</rs>

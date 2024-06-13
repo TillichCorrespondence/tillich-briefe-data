@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01210">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__10">Ada Adler</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Paul Schömann</name>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -82,8 +83,7 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener><dateline>
-                  <rs ref="#tillich_place_id__143" type="place">Ffm.</rs> d. <date when="1933-04-15"
-                     >15. April 1933</date></dateline>
+                  <rs ref="#tillich_place_id__143" type="place">Ffm.</rs> d. <date when="1933-04-15">15. April 1933</date></dateline>
                <address>
                   <street>Melibocustr. 32</street>
                </address>
@@ -113,12 +113,10 @@
                erscheinen lassen.</p>
             <p>Trotz allem aber hoffe ich doch, obgleich Sie hier so jäh aus Ihrer Tätigkeit
                gerissen wurden, dass Ihnen, sehr geehrter Herr Professor, das Leben noch viele
-               Möglichkeiten bieten wird. Mit diesem aufrichtigen Wunsch grüsse ich Sie + Ihre <rs
-                  ref="#tillich_person_id__1928" type="person">Frau Gemahlin</rs>!</p>
+               Möglichkeiten bieten wird. Mit diesem aufrichtigen Wunsch grüsse ich Sie + Ihre <rs ref="#tillich_person_id__1928" type="person">Frau Gemahlin</rs>!</p>
             <closer>
                <salute>Ihre ergebene</salute>
-               <signed><rs type="person" ref="#tillich_person_id__10"
-                  ><unclear>¿¿¿</unclear></rs></signed>
+               <signed><rs type="person" ref="#tillich_person_id__10"><unclear>¿¿¿</unclear></rs></signed>
             </closer>
          </div>
       </body>

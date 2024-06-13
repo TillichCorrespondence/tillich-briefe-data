@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="L00186" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00186">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -7,7 +7,7 @@
 <author ref="#tillich_person_id__128">Hans Balke</author>
 <respStmt>
 <resp>Editor</resp>
-<name>Paul Schömann</name>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -66,7 +66,7 @@
 <date when="1908-08-18">18.08.1907</date>
 </correspAction>
 <correspAction type="received">
-<persName ref="Paul Tillich">Paul Tillich</persName>
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
 <placeName ref="#tillich_place_id__37">Berlin</placeName>
 </correspAction>
 </correspDesc>

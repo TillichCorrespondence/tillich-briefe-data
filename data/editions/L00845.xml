@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00845">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__2440">Verlag Mohr Siebeck</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Sebastian Kueffner</name>
+               <name key="https://orcid.org/0009-0006-5231-3094">Sebastian Kueffner</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -104,14 +105,11 @@
             <opener><dateline><rs type="place" ref="#tillich_place_id__448">Tübingen</rs>, den 26.
                   Januar 1925.</dateline></opener>
             <p>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>,
-               mit verbindlichstem Dank bestätige ich Ihnen den Empfang der <rs type="work"
-                  ref="#tillich_work_id__174">Selbstanzeige</rs> für Ihren Vortrag <rs type="work"
-                  ref="#tillich_work_id__9">"Kirche und Kultur"</rs>. Die gewünschte Anzahl von 10
+               mit verbindlichstem Dank bestätige ich Ihnen den Empfang der <rs type="work" ref="#tillich_work_id__174">Selbstanzeige</rs> für Ihren Vortrag <rs type="work" ref="#tillich_work_id__9">"Kirche und Kultur"</rs>. Die gewünschte Anzahl von 10
                Exemplaren Ihres Vortrags habe ich sofort an Sie auf den Weg gebracht.</p>
             <closer>
                <salute>In vorzüglichster Hochachtung <lb/>Ihr sehr ergebener</salute>
-               <signed><ptr/>J. C. B. Mohr (<rs ref="#tillich_person_id__1781" type="person"><hi
-                        rend="hand">Paul Siebeck</hi></rs>).</signed>
+               <signed><ptr/>J. C. B. Mohr (<rs ref="#tillich_person_id__1781" type="person"><hi rend="hand">Paul Siebeck</hi></rs>).</signed>
             </closer>
          </div>
       </body>

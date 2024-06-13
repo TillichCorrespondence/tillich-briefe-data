@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01230">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__225">Ernst Bizer</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Paul Schömann</name>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -82,8 +83,7 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener><dateline>
-                  <rs ref="#tillich_place_id__204" type="place">Heilbronn</rs>, den <date
-                     when="1933-05-28">28. Mai 1933</date>. <address>
+                  <rs ref="#tillich_place_id__204" type="place">Heilbronn</rs>, den <date when="1933-05-28">28. Mai 1933</date>. <address>
                      <street>Wilhelmstraße 5</street>
                   </address></dateline>
                <salute>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr
@@ -92,10 +92,8 @@
             <p>Ich erlaube mir, Ihnen hier das erste Heft einer Zeitschrift zu schicken, von der ich
                nicht weiss, ob sie Sie auch bloss interessieren wird. Aber ich freue mich trotzdem,
                sie Ihnen schicken zu koennen, – gerade Ihnen. Denn die Mitarbeiter waren einmal Ihre
-               Schueler, wenn es auch lange her ist, seit Sie damals in <rs
-                  ref="#tillich_place_id__279" type="place">Marburg</rs> das erste Mal
-               "Religionsphilosophie" gelesen und der Aufsatz ueber die "<rs type="work"
-                  ref="#tillich_work_id__84">Ueberwindung des Persoenlichkeitsideals</rs>" der
+               Schueler, wenn es auch lange her ist, seit Sie damals in <rs ref="#tillich_place_id__279" type="place">Marburg</rs> das erste Mal
+               "Religionsphilosophie" gelesen und der Aufsatz ueber die "<rs type="work" ref="#tillich_work_id__84">Ueberwindung des Persoenlichkeitsideals</rs>" der
                Orientierungspunkt in unserem Studium war..</p>
             <p>Aber das mag nun alles sein wie es will. Vielleicht macht unsere Theologie Ihnen
                wenig Freude. So nehmen Sie das Heft wenigstens als ein Zeichen dankbarer

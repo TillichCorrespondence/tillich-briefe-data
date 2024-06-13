@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01127">
    <teiHeader>
       <fileDesc>
@@ -6,7 +7,7 @@
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Friedrich Schumann</name>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -105,15 +106,12 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline><rs ref="#tillich_place_id__143" type="place">Frankfurt</rs>, <date
-                     when="1932-03-09">9. III. 32</date></dateline>
-               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1780" type="person"
-                     >Siebeck</rs>!</salute>
+               <dateline><rs ref="#tillich_place_id__143" type="place">Frankfurt</rs>, <date when="1932-03-09">9. III. 32</date></dateline>
+               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1780" type="person">Siebeck</rs>!</salute>
             </opener>
             <p>Gleichzeitig geht das Mskrpt. meiner Universitätsrede an Sie ab. Ich glaube, dass der
                Vortrag in dieser Form nicht unwichtig ist, da er abgesehen von seiner aktuellen
-               Beziehung ein gewisses Bild des so unbekannten jungen <rs
-                  ref="#tillich_person_id__839" type="person">Hegel</rs> vermittelt. Da ich nach dem
+               Beziehung ein gewisses Bild des so unbekannten jungen <rs ref="#tillich_person_id__839" type="person">Hegel</rs> vermittelt. Da ich nach dem
                   <date when="1932-03-20">20. III.</date> eine kleine Erholungsreise machen muss,
                wäre ich Ihnen sehr dankbar, wenn Sie mir das vereinbarte Honorar jetzt gleich
                überweisen könnten auf meine Bank, <address>

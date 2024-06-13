@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00574">
     <teiHeader>
         <fileDesc>
@@ -6,7 +7,7 @@
                 <author ref="#tillich_person_id__1928">Paul Tillich</author>
                 <respStmt>
                     <resp>Editor</resp>
-                    <name>Friedrich Schumann</name>
+                    <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
                 </respStmt>
             </titleStmt>
             <editionStmt>
@@ -97,7 +98,7 @@
         </profileDesc>
         <revisionDesc status="approved">
             <change who="FS" when="2022-05-30">Initiale Auszeichnung des Transkripts</change>
-            <change hwo="GM" when="2024-02-09">Endabnahme</change>
+            <change who="GM" when="2024-02-09">Endabnahme</change>
         </revisionDesc>
     </teiHeader>
     <text type="letter">
@@ -106,8 +107,7 @@
                 <pb n="1"/>
                 <opener>
                     <dateline>D. <date when="1918-07-10">10. Juli 1918</date></dateline>
-                    <salute>Liebe <rs ref="#tillich_person_id__1594" type="person"
-                        >Maria</rs>!</salute>
+                    <salute>Liebe <rs ref="#tillich_person_id__1594" type="person">Maria</rs>!</salute>
                 </opener>
                 <p>Dein <rs type="letter" ref="unknown">Brief</rs> ist mir ein weiterer der vielen
                     Beweise dafür, daß Ihr Leute in der Heimat auch nicht einen Schimmer von
@@ -143,11 +143,9 @@
                     nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> zu überwindende
                     Eingeschnapptheit bei Dir, was Du mir nicht verdenken kannst. Dies Angriff und
                     Verteidigung! – Und nun meine verehrte alte Freundin, wollen wir wieder Frieden
-                    schließen und ihn, wenn meine Hoffnungen sich verwirklichen sollten, in <rs
-                        ref="#tillich_place_id__37" type="place">Berlin</rs> aufs Kräftigste
+                    schließen und ihn, wenn meine Hoffnungen sich verwirklichen sollten, in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> aufs Kräftigste
                     betätigen. Einverstanden?</p>
-                <closer>Dein <signed><rs ref="#tillich_person_id__1928" type="person"
-                        >Paul</rs></signed>.</closer>
+                <closer>Dein <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>.</closer>
             </div>
         </body>
     </text>

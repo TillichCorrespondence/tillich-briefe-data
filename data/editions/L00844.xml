@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00844">
    <teiHeader>
       <fileDesc>
@@ -7,7 +8,7 @@
             <author ref="#tillich_person_id__2491">L. Häberle</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Sebastian Kueffner</name>
+               <name key="https://orcid.org/0009-0006-5231-3094">Sebastian Kueffner</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -101,17 +102,13 @@
          <div type="writingSession">
             <pb n="1"/>
             <p>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>,
-               mein nächstes "Grünes Heft", das auch eine Anzeige über ihren Vortrag <rs type="work"
-                  ref="#tillich_work_id__9">"Kirche und Kultur"</rs> enthalten soll, möchte ich
-               Anfang <date when="1925-02">Februar</date> ausgeben. Da eine <rs type="work"
-                  ref="#tillich_work_id__174">Selbstanzeige</rs>, die ich unterm <date
-                  when="1924-12-22">22. Dezember v. Js.</date> von Ihnen erbeten hatte, bis heute
+               mein nächstes "Grünes Heft", das auch eine Anzeige über ihren Vortrag <rs type="work" ref="#tillich_work_id__9">"Kirche und Kultur"</rs> enthalten soll, möchte ich
+               Anfang <date when="1925-02">Februar</date> ausgeben. Da eine <rs type="work" ref="#tillich_work_id__174">Selbstanzeige</rs>, die ich unterm <date when="1924-12-22">22. Dezember v. Js.</date> von Ihnen erbeten hatte, bis heute
                nicht bei mir eingegangen ist, erlaube ich mir, Sie freundlichst zu bitten, mir die
                Selbstanzeige in den nächsten Tagen zustellen zu wollen, damit in der Fertigstellung
                des "Grünen Heftes" keine Verzögerung entsteht.</p>
             <closer>
-               <salute>In vorzüglichster Hochachtung<lb/>Ihr ergebener<lb/>J. C. B. Mohr <rs
-                     ref="#tillich_person_id__1781" type="person">(Paul Siebeck)</rs></salute>
+               <salute>In vorzüglichster Hochachtung<lb/>Ihr ergebener<lb/>J. C. B. Mohr <rs ref="#tillich_person_id__1781" type="person">(Paul Siebeck)</rs></salute>
                <signed><ptr/><rs ref="#tillich_person_id__2491" type="person"><hi rend="hand">L.
                         Häberle</hi></rs>.</signed>
             </closer>

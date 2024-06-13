@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01385">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Undatierter Brief von Paul Tillich an Hannah Tillich
+                    <lb/>vermutlich aus dem Jahr 1925
+                </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                        <idno>bMS 721/2(21)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__244">Köln</placeName>
+                    <date when="9999">ohne Datum</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2024-04-08">Initiale Auszeichnung des Transkripts und Endabnahme</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+                </opener>
+                <p>Also ich kam in <rs ref="#tillich_place_id__244" type="place">Köln</rs> an, <rs ref="#tillich_person_id__2436" type="person">Hamburger</rs> empfing mich und wir fuhren in einem fabelhaften Auto in ein fabelhaftes Haus, von <rs ref="#tillich_person_id__2935" type="person">Bruno Paul</rs> gebaut, mit einem der schönsten <rs ref="#tillich_person_id__1495" type="person">Picassos</rs>. Dort fand ein glänzendes Diner statt nach einem Konzert von <hi rend="u"><rs ref="#tillich_person_id__2936" type="person">Erdmann</rs></hi>. Nach dem Essen zeigte ich ihm Dein Bild; er erkannte es, wußte es aber nicht unterzubringen. Dann fuhren wir mit <rs ref="#tillich_person_id__2436" type="person"><rs ref="#tillich_person_id__2437" type="person">Hamburgers</rs></rs>, ihm und seiner <rs ref="#tillich_person_id__2937" type="person">Frau</rs> in seine Wohnung, stellten fest, daß er der Vetter von <rs ref="#tillich_person_id__2601" type="person">Veronika</rs> ist und hatten bis drei Uhr Nachts eine wilde Unterhaltung über<pb n="2"/> den baltischen Charakter. Er ist ein glänzender Dialektiker, erschlagend, ohne nachhaltig zu sein. Von <formula notation="TeX">\frac{1}{2}</formula> 4 – <formula notation="TeX">\frac{1}{2}</formula> 12 Mittags geschlafen. Dann einen winterlich-schönen Spaziergang am Rhein. Um <formula notation="TeX">\frac{1}{2}</formula> 4 Mittag gegessen. Jetzt sitze ich in einem Kaffee und freue mich an Deiner Karte.<note type="ea">Diese Karte liegt nicht vor.</note> Vielen Dank! Sie war schon heut (Sonntag) früh da. – Jetzt muß ich weiter, um Bekannte von <rs ref="#tillich_person_id__2436" type="person"><rs ref="#tillich_person_id__2437" type="person">Hamburgers</rs></rs> zu treffen, mit denen wir dann von <formula notation="TeX">\frac{1}{2}</formula> 6 bis unendlich zusammen sein wollen.</p>
+                <closer>
+                    <salute>Ich lieb' Dich!!</salute>
+                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

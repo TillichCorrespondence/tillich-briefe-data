@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00536">
     <teiHeader>
         <fileDesc>
@@ -6,7 +7,7 @@
                 <author ref="#tillich_person_id__1928">Paul Tillich</author>
                 <respStmt>
                     <resp>Editor</resp>
-                    <name>Friedrich Schumann</name>
+                    <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
                 </respStmt>
             </titleStmt>
             <editionStmt>
@@ -85,26 +86,20 @@
                 <pb n="1"/>
                 <opener>
                     <dateline> D. <date when="1917-04-23">23. Apr. 1917</date></dateline>
-                    <salute>Lieber <rs ref="#tillich_person_id__1924" type="person"
-                        >Papa</rs>!</salute>
+                    <salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
                 </opener>
                 <p>Herzlichen Dank für Deinen <rs type="letter">Brief</rs>.<note type="ea">Brief liegt nicht vor.</note> Wir
-                    sind im Begriff, großen Ereignissen für unsere <unclear cert="high"
-                        >Division</unclear> entgegenzugehen. So ist natürlich kein Gedanke an
+                    sind im Begriff, großen Ereignissen für unsere <unclear cert="high">Division</unclear> entgegenzugehen. So ist natürlich kein Gedanke an
                     Weggehen, ehe nicht eine andere Lage eingetreten ist. Am besten wäre es ja, ich
                     schaffte es bis zum Schluß, wenn man nur nicht zu ausgepumpt wäre! Ich habe
                     jetzt 6 Marschtage hinter mir; und das hat mir sehr gut getan! Die genannten
                     Stellen sind ja nicht gerade sehr verlockend und wahrscheinlich zu schwer für
                     mich. <rs ref="#tillich_place_id__189" type="place">Halle</rs> kommt nicht in
                     Betracht und die Habilitation ist ganz gleichgültig; fast alle meine Freunde
-                        (<rs ref="#tillich_person_id__904" type="person">Hirsch</rs>, <rs
-                        ref="#tillich_person_id__310" type="person">Büchsel</rs> etc.) sind wo
-                    anders Pfarrer. Ich müßte natürlich dem <rs ref="#tillich_person_id__2708"
-                        type="person">Kurator</rs> Mitteilung machen. Aber vorläufig "rin ins
-                    Schlamassel" und Dir viel Freude in <rs ref="#tillich_place_id__74" type="place"
-                        >Bremen</rs>!</p>
-                <closer>Dein <signed><rs ref="#tillich_person_id__1928" type="person"
-                        >Paul</rs></signed>.</closer>
+                        (<rs ref="#tillich_person_id__904" type="person">Hirsch</rs>, <rs ref="#tillich_person_id__310" type="person">Büchsel</rs> etc.) sind wo
+                    anders Pfarrer. Ich müßte natürlich dem <rs ref="#tillich_person_id__2708" type="person">Kurator</rs> Mitteilung machen. Aber vorläufig "rin ins
+                    Schlamassel" und Dir viel Freude in <rs ref="#tillich_place_id__74" type="place">Bremen</rs>!</p>
+                <closer>Dein <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>.</closer>
             </div>
         </body>
     </text>

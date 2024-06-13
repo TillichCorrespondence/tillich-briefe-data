@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00267">
    <teiHeader>
       <fileDesc>
@@ -8,7 +9,7 @@
             <author ref="#tillich_person_id__1696">Hermann Schafft</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Andreas Burri</name>
+               <name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -92,15 +93,13 @@
          <div type="writingSession" resp="#tillich_person_id__1928" n="1">
             <pb n="1"/>
             <opener>
-               <salute>Lieber <rs ref="#tillich_person_id__310" type="person"
-                  >Friedrich</rs>!</salute>
+               <salute>Lieber <rs ref="#tillich_person_id__310" type="person">Friedrich</rs>!</salute>
             </opener>
             <p>
                <hi rend="u">Ich</hi> bezeuge: Der
                Schloßberg<note type="ea">Gemeint ist der Schlossberg in <rs ref="#tillich_place_id__216" type="place">Homberg</rs>.</note> ist die Wohnung des
                absoluten Ich. Man fühlt sich in jedem Moment auf der Höhe jeglicher theologischen
-               Situation und das Nichtich lagert sich in demütiger Entfernung rings herum, <hi
-                  rend="u">offen</hi> nach allen Seiten. Also komm! ja!</p>
+               Situation und das Nichtich lagert sich in demütiger Entfernung rings herum, <hi rend="u">offen</hi> nach allen Seiten. Also komm! ja!</p>
             <closer>
                <salute>Herzlichen Gruß </salute>
                <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>

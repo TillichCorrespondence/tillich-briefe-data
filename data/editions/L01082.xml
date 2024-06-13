@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01082">
    <teiHeader>
       <fileDesc>
@@ -7,7 +8,7 @@
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
-               <name>Paul Schömann</name>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -84,20 +85,13 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
-                  >Hannah</rs>!</salute>
+               <salute>Liebste <rs type="person" ref="#tillich_person_id__1923">Hannah</rs>!</salute>
             </opener>
             <p>Zwei Briefe von Dir<note type="ea">Diese Briefe sind nicht erhalten.</note> und die
                Blume: Ich bin selig. Du schreibst so unglaublich lieb! Hab' keine Angst: Im
-               Augenblick ist nichts zu fürchten. Ich sitze im Zuge <rs type="place"
-                  ref="#tillich_place_id__198">Hamburg</rs>-<rs type="place"
-                  ref="#tillich_place_id__274">Lübeck</rs>, will mir <rs type="place"
-                  ref="#tillich_place_id__274">Lübeck</rs> ansehen (Es wackelt hier schrecklich) Bei
+               Augenblick ist nichts zu fürchten. Ich sitze im Zuge <rs type="place" ref="#tillich_place_id__198">Hamburg</rs>-<rs type="place" ref="#tillich_place_id__274">Lübeck</rs>, will mir <rs type="place" ref="#tillich_place_id__274">Lübeck</rs> ansehen (Es wackelt hier schrecklich) Bei
                   <rs type="person" ref="#tillich_person_id__846">Heimanns</rs> war es reizend. Du
-               sollst <unclear cert="medium">Elli</unclear> mal schreiben. In <rs type="place"
-                  ref="#tillich_place_id__530">Dortmund</rs> alles gut verlaufen. Im Zuge nach <rs
-                  type="place" ref="#tillich_place_id__198">Hamburg</rs> traf ich <rs type="person"
-                  ref="#tillich_person_id__1154">Kurt Leese</rs>. Ich sehne mich sehr nach Dir!</p>
+               sollst <unclear cert="medium">Elli</unclear> mal schreiben. In <rs type="place" ref="#tillich_place_id__530">Dortmund</rs> alles gut verlaufen. Im Zuge nach <rs type="place" ref="#tillich_place_id__198">Hamburg</rs> traf ich <rs type="person" ref="#tillich_person_id__1154">Kurt Leese</rs>. Ich sehne mich sehr nach Dir!</p>
             <closer>
                <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
             </closer>
