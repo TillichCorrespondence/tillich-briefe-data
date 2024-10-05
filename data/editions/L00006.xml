@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../schematron/schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../odd/out/tillich-briefe.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xml:id="L00006" xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
 <fileDesc>
@@ -91,8 +93,8 @@
 <p>Wir freuen uns sehr, Gutes von Euch zu hören. Das heiße Wetter, das sich nach einigen Tagen der Abkühlung wieder eingestellt hat, wird auch Euch wie uns etwas bedrücken. Es bringt uns <sic>diesem</sic> Jahr hier die Mückenplage, sobald Landwind weht; keine Rose ohne Dornen: die stolzen Herren am Ende des 19. Jahrhunderts bekunden ihre edle Männlichkeit durch Mückenschleier und Fächer! – Es geht uns allen recht gut hier. Sonnenstrahl und Meeresluft kräftigen uns alle. Unser Verkehr ist der alte mit Sydows. Auch ist Fr. P. <unclear>¿¿¿</unclear> <unclear cert="high">hier</unclear> mit ihrem Mann <unclear cert="high">Mann</unclear>. Es waren Herr und Fr. <unclear>¿¿¿</unclear> hier. –</p>
 <p>Denkt Euch, daß meine Orchester-Kompositionen von der hiesigen Kurkapelle morgen gespielt werden soll, ich hatte sie zu diesem Zweck für volles Orchester gesetzt. Große Spannung bei allen Bekannten und bei mir.</p>
 <closer>
-<salute><p>Nun behüt Euch Gott.</p>
-<p>Mit Gruß und Kuß</p></salute>
+<salute>Nun behüt Euch Gott.
+Mit Gruß und Kuß</salute>
 <signed>Euer <rs ref="#tillich_person_id__1924" type="person"><unclear cert="high">Hannes</unclear></rs></signed>
 </closer>
 <postscript>
@@ -111,9 +113,9 @@
 </opener>
 <p>Ich danke Euch für Euer schönes Geschenk, welches ich mit einem Federkasten von <rs ref="#tillich_person_id__1929" type="person">Mama</rs> mit nach Königsberg nehmen werde. Außerdem hat mir <rs ref="#tillich_person_id__1924" type="person">Papa</rs> noch ein Buch von den deutschen Heldensagen geschenkt, welches sehr hübsch ist. Hier ist sehr schönes Wetter. Uns allen geht es gut, hoffentlich auch Euch. Wir baden fast alle Tage und spielen schön am Strande. Hier giebt es in diesem Jahr sehr viel Mücken.</p>
 <closer>
-<salute>Mit herzlichen Grüßen von <rs ref="#tillich_person_id__1928" type="person">Paul</rs>, und <rs ref="#tillich_person_id__644" type="person">Johanna</rs>, und <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> Tillich
- 	 <p>Und einem schönen Kuß.</p></salute>
-<signed/><signed/>
+<salute>Mit herzlichen Grüßen von <rs ref="#tillich_person_id__1928" type="person">Paul</rs>, und <rs ref="#tillich_person_id__644" type="person">Johanna</rs>, und <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> Tillich</salute>
+   <salute>Und einem schönen Kuß.</salute>
+
 </closer>
 <postscript>
 <p/>
@@ -127,34 +129,25 @@
 <pb n="1"/>
 <opener>
 <dateline>
-<placeName ref="Misdroy">Misdroy</placeName>
-   , den
-   <date when="1898-08-23">23.08.1898</date>
+<placeName ref="Misdroy">Misdroy</placeName>, den <date when="1898-08-23">23.08.1898</date>
 </dateline>
 <salute>
-   Liebe Großeltern, und liebe 
-   <persName ref="P01927">Tante Grete</persName>
-   !
+   Liebe Großeltern, und liebe <persName ref="P01927">Tante Grete</persName>!
    </salute>
 </opener>
-<p/>
+<p>
   Ich danke Euch für Euer schönes Geschenk, welches ich mit einem Federkasten von 
   <persName ref="P01931">Mama</persName>
    mit nach Königsberg nehmen werde. Außerdem hat mir 
   <persName ref="P01926">Papa</persName>
    noch ein Buch von den deutschen Heldensagen geschenkt, welches sehr hübsch ist. Hier ist sehr schönes Wetter. Uns allen geht es gut, hoffentlich auch Euch. Wir baden fast alle Tage und spielen schön am Strande. Hier giebt es in diesem Jahr sehr viel Mücken.
-  <p/>
+</p>
 <closer>
 <salute>
    Mit herzlichen Grüßen von 
-   <persName ref="P01930">Paul</persName>
-   , und 
-   <persName ref="P00644">Johanna</persName>
-   , und 
-   <persName ref="P01764">Elisabeth</persName>
-    Tillich
-   <p>Und einem schönen Kuß.</p>
+   <persName ref="P01930">Paul</persName>, und <persName ref="P00644">Johanna</persName>, und <persName ref="P01764">Elisabeth</persName> Tillich
 </salute>
+<salute>Und einem schönen Kuß.</salute>
 </closer>
 <postscript>
 <p/>
