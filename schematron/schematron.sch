@@ -7,8 +7,8 @@
         
         <!-- Rule to match <tei:rs> element -->
         <rule context="tei:rs[@type='letter']">
-            <assert test="starts-with(@ref, '#L')">
-                The @ref attribute must start with '#L'
+            <assert test="starts-with(@ref, 'L')">
+                The @ref attribute must start with 'L'
             </assert>
         </rule>
         
