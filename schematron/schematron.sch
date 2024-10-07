@@ -6,8 +6,18 @@
         <title>Check if @ref starts with "#tillich_" and ends with a number</title>
         
         <!-- Rule to match <tei:rs> element -->
-        <rule context="tei:rs">
-            
+        <rule context="tei:rs[@type='letter']">
+            <assert test="starts-with(@ref, '#L')">
+                The @ref attribute must start with '#L'
+            </assert>
+        </rule>
+        
+        <rule context="tei:rs[@type='bible']">
+            <assert test="matches(@ref, '^[A-Z]|\d')">
+                The @ref attribute for rs type @bible must start with a captial letter or with a number
+            </assert>
+        </rule>
+        <rule context="tei:rs[@type='person|place|org|bibl']">
             <!-- Assert that the @ref starts with "#tillich_" and ends with a number -->
             <assert test="starts-with(@ref, '#tillich_')">
                 The @ref attribute must start with '#tillich_'
