@@ -5,7 +5,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2024-10-05T08:53:05Z. . 
+Schema generated from ODD source 2024-10-07T09:09:57Z. . 
 TEI Edition: P5 Version 4.7.0. Last updated on 16th November 2023, revision e5dd73ed0 
 TEI Edition Location: https://www.tei-c.org/Vault/P5/4.7.0/ 
   
@@ -2936,7 +2936,22 @@ Sample values include: 1] rubbing; 2] mildew; 3] smoke</a:documentation>
          <ref name="tei_macro.phraseSeq"/>
          <ref name="tei_att.global.attributes"/>
          <ref name="tei_att.naming.attributes"/>
-         <ref name="tei_att.typed.attributes"/>
+         <ref name="tei_att.typed.attribute.subtype"/>
+         <attribute name="type">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+            <choice>
+               <value>person</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Person</a:documentation>
+               <value>place</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Place</a:documentation>
+               <value>org</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Organisation</a:documentation>
+               <value>bible</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Bibel</a:documentation>
+               <value>work</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Work</a:documentation>
+            </choice>
+         </attribute>
          <empty/>
       </element>
    </define>
@@ -5438,4 +5453,31 @@ Suggested values include: 1] label; 2] data</a:documentation>
          <ref name="tei_TEI"/>
       </choice>
    </start>
+   <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
+            id="tillich-briefe-check_note_seg-constraint-rule-24">
+      <s:rule xmlns="http://www.tei-c.org/ns/1.0"
+              xmlns:s="http://purl.oclc.org/dsdl/schematron"
+              context="tei:rs[@type='letter']">
+         <s:assert test="starts-with(@ref, 'L')">
+                The @ref attribute must start with 'L'
+              </s:assert>
+      </s:rule>
+      <s:rule xmlns="http://www.tei-c.org/ns/1.0"
+              xmlns:s="http://purl.oclc.org/dsdl/schematron"
+              context="tei:rs[@type='bible']">
+         <s:assert test="matches(@ref, '^[A-Z]|\d')">
+                The @ref attribute for rs type @bible must start with a captial letter or with a number
+              </s:assert>
+      </s:rule>
+      <s:rule xmlns="http://www.tei-c.org/ns/1.0"
+              xmlns:s="http://purl.oclc.org/dsdl/schematron"
+              context="tei:rs[@type='person|place|org|bibl']">
+         <s:assert test="starts-with(@ref, '#tillich_')">
+                The @ref attribute must start with '#tillich_'
+              </s:assert>
+         <s:assert test="matches(@ref, '\d$')">
+                The @ref attribute must end with a number
+              </s:assert>
+      </s:rule>
+   </pattern>
 </grammar>
