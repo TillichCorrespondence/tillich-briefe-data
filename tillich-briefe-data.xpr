@@ -89,7 +89,20 @@
                                                 <null/>
                                             </field>
                                             <field name="validationSchema">
-                                                <null/>
+                                                <validationUnitSchema>
+                                                    <field name="dtdSchemaPublicID">
+                                                        <null/>
+                                                    </field>
+                                                    <field name="schematronPhase">
+                                                        <null/>
+                                                    </field>
+                                                    <field name="type">
+                                                        <Integer>6</Integer>
+                                                    </field>
+                                                    <field name="uri">
+                                                        <String>${pdu}/odd/out/tillich-briefe.rng</String>
+                                                    </field>
+                                                </validationUnitSchema>
                                             </field>
                                             <field name="validationAdvancedSettings">
                                                 <null/>
