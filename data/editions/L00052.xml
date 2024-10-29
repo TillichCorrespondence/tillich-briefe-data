@@ -1,134 +1,158 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00052">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Gerich an Paul Tillich <lb/>vom 4. Mai 1905 </title>
-<author ref="#tillich_person_id__673">Gerich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Gerich an Paul Tillich <lb/>vom 4. Mai 1905 </title>
+            <author ref="#tillich_person_id__673">Gerich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-<idno>bMS 649/144</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/144</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__673">Gerich</persName>
-<placeName ref="#tillich_place_id__175">Gießen</placeName>
-<date when="1905-05-04">04.05.1905</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2022-10-15" who="PS">Intitale Auszeichnung des Transkripts</change>
-<change when="2024-01-09" who="EL">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline><rs ref="#tillich_place_id__175" type="place">Gießen</rs>, d. <date when="1905-05-04">4
-                     Mai 05.</date></dateline>
-<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Leibfux</rs>!</salute>
-</opener>
-<p>Für Deinen l. Brief, auf den ich schon lange gewartet hatte, herzl. Dank. Es
-               macht mir Freude, daß Du Dich, wie Du schreibst, von Deiner Krankheit<note type="ea">Paul Tillich hatte während des Sommersemesters 1905 in Tübingen wiederholt eine Ohrenerkankung. Vgl. <rs ref="L00056" type="letter">Brief von Toni Winkler an Paul Tillich vom 19. Mai 1905</rs>, <rs ref="L00059" type="letter">Brief von Toni Winkler an Paul Tillich vom 05. Juni 1905</rs>, <rs ref="L00065" type="letter">Brief von Johannes Tillich an Paul Tillich vom 23. Juni 1905</rs>, <rs ref="L00067" type="letter">Brief von Gerich an Paul Tillich vom 26. Juni 1905</rs>, sowie <rs n="541" ref="#tillich_work_id__97" type="work">GW XIII, 541</rs>;<rs n="26" ref="#tillich_work_id__96" type="work">EW V, 26</rs>,</note> wieder so
-               ziemlich erholt hast und daß es Dir in <rs ref="#tillich_place_id__448" type="place">Tübingen</rs> recht
-                  gefällt<del rend="s">;</del>. Vielleicht – nach Deinem Schreiben sogar
-               wahrscheinlich – hast Du es in <rs ref="#tillich_place_id__448" type="place">Tübingen</rs> besser gefunden, wie
-               ich hier in <rs ref="#tillich_place_id__175" type="place">Gießen</rs>. Denn mir gefällt es hier nicht besonders
-               gut. Ich kann mich in den hiesigen Betrieb nicht mehr gut reinfinden.</p>
-<p>Es bestehen 2 Parteien hier in der Verbindung, die eine ist die Urgießener<pb n="2"/>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__673">Gerich</persName>
+               <placeName ref="#tillich_place_id__175">Gießen</placeName>
+               <date when="1905-05-04">04.05.1905</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2022-10-15" who="PS">Intitale Auszeichnung des Transkripts</change>
+         <change when="2024-01-09" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#tillich_place_id__175" type="place">Gießen</rs>, d. <date
+                     when="1905-05-04">4 Mai 05.</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person"
+                  >Leibfux</rs>!</salute>
+            </opener>
+            <p>Für Deinen l. Brief, auf den ich schon lange gewartet hatte, herzl. Dank. Es macht
+               mir Freude, daß Du Dich, wie Du schreibst, von Deiner Krankheit<note type="ea">Paul
+                  Tillich hatte während des Sommersemesters 1905 in Tübingen wiederholt eine
+                  Ohrenerkankung. Vgl. <rs ref="L00056" type="letter">Brief von Toni Winkler an Paul
+                     Tillich vom 19. Mai 1905</rs>, <rs ref="L00059" type="letter">Brief von Toni
+                     Winkler an Paul Tillich vom 05. Juni 1905</rs>, <rs ref="L00065" type="letter"
+                     >Brief von Johannes Tillich an Paul Tillich vom 23. Juni 1905</rs>, <rs
+                     ref="L00067" type="letter">Brief von Gerich an Paul Tillich vom 26. Juni
+                     1905</rs>, sowie <rs n="541" ref="#tillich_work_id__97" type="work">GW XIII,
+                     541</rs>;<rs n="26" ref="#tillich_work_id__96" type="work">EW V,
+                  26</rs>,</note> wieder so ziemlich erholt hast und daß es Dir in <rs
+                  ref="#tillich_place_id__448" type="place">Tübingen</rs> recht gefällt<del rend="s"
+                  >;</del>. Vielleicht – nach Deinem Schreiben sogar wahrscheinlich – hast Du es in
+                  <rs ref="#tillich_place_id__448" type="place">Tübingen</rs> besser gefunden, wie
+               ich hier in <rs ref="#tillich_place_id__175" type="place">Gießen</rs>. Denn mir
+               gefällt es hier nicht besonders gut. Ich kann mich in den hiesigen Betrieb nicht mehr
+               gut reinfinden.</p>
+            <p>Es bestehen 2 Parteien hier in der Verbindung, die eine ist die Urgießener<pb n="2"/>
                (das sind fast lauter Leute, die noch nicht weiter gekommen sind wie G.) die andere
                ist die sogenannte Hallenser Partei, erstere betont mehr das Äußere, zweite mehr das
                Innere. Ich kam hierher mit dem festen Entschluß den Urgießener darzustellen, aber
-               bald merkte ich, daß ich in meinen Anschauungen der 2. Partei näher<del rend="s">e</del> stehe. <rs ref="#tillich_person_id__2218" type="person">Landmann</rs> u. <rs ref="#tillich_person_id__2221" type="person">Diehl</rs> stehen vollständig auf dieser Seite. Von letzterer
-               Partei wurde ich auch vorige Woche zum xx<note type="ea">Im Wingolf steht das Kürzel xx für den Fuxmajor bzw. Zweitchangierten. Dieser ist verantwortlich für neue ,Füxe‘. Vgl. <rs n="153" ref="#tillich_work_id__98" type="work">Neugebauer, Georg: Tillich im Wingolf, 153</rs>.</note> vorgeschlagen. Da sich aber das
-               Leibburschenkolleg in der Mehrheit aus G Leuten der G. Partei zusammensetzte blieb
-               man beim alten xx. Aus der <unclear cert="low">Cammer</unclear> lasse ich mich nicht
-               vorschlagen. Selbst wenn ich vom L<abbr>eib</abbr>.B<abbr>urschen</abbr>.C<abbr>onvent</abbr>. vorgeschlagen
-               worden wäre, hätte ich die Charge wahrscheinlich doch nicht genommen. Das habe ich
-               auch gleich, als ich vor<pb n="3"/>geschlagen wurde, gesagt. Ich habe viel zu viel zu
+               bald merkte ich, daß ich in meinen Anschauungen der 2. Partei näher<del rend="s"
+                  >e</del> stehe. <rs ref="#tillich_person_id__2218" type="person">Landmann</rs> u.
+                  <rs ref="#tillich_person_id__2221" type="person">Diehl</rs> stehen vollständig auf
+               dieser Seite. Von letzterer Partei wurde ich auch vorige Woche zum xx<note type="ea"
+                  >Im Wingolf steht das Kürzel xx für den Fuxmajor bzw. Zweitchangierten. Dieser ist
+                  verantwortlich für neue ,Füxe‘. Vgl. <rs n="153" ref="#tillich_work_id__98"
+                     type="work">Neugebauer, Georg: Tillich im Wingolf, 153</rs>.</note>
+               vorgeschlagen. Da sich aber das Leibburschenkolleg in der Mehrheit aus G Leuten der
+               G. Partei zusammensetzte blieb man beim alten xx. Aus der <unclear cert="low"
+                  >Cammer</unclear> lasse ich mich nicht vorschlagen. Selbst wenn ich vom
+                  L<abbr>eib</abbr>.B<abbr>urschen</abbr>.C<abbr>onvent</abbr>. vorgeschlagen worden
+               wäre, hätte ich die Charge wahrscheinlich doch nicht genommen. Das habe ich auch
+               gleich, als ich vor<pb n="3"/>geschlagen wurde, gesagt. Ich habe viel zu viel zu
                thun, als daß ich noch eine Charge annehmen könnte.</p>
-<p>Kolleg habe ich ja nur 14 Stunden, aber 4 Seminarien (in 2 ordentl. Mitglied) u. 2
+            <p>Kolleg habe ich ja nur 14 Stunden, aber 4 Seminarien (in 2 ordentl. Mitglied) u. 2
                Repetitorien, die machen einem zu schaffen.</p>
-<p>Auf die <rs ref="#tillich_place_id__467" type="place">Wartburg</rs> komme ich voraussichtlich nicht. Ich habe ja ein Wartburgfest
-               mitgemacht u. ich sehe nicht ein, warum ich 40-50 M, die ich sonst nötiger brauchen
-               kann, so verarbeiten soll, zumal ich auch Pfingsten wieder ganz gern einmal zu Haus
-               bin. Von der Verbindung gehen etwa 20 Leute hin.</p>
-<p>Wie geht es <rs ref="#tillich_person_id__2136" type="person">Kaumann</rs> u. <rs ref="#tillich_person_id__227" type="person">Blech</rs>? <unclear>¿¿¿</unclear> u. <unclear>¿¿¿</unclear> waren mit den
-               anderen Marburger Füxen auf unserer Receptionskneipe, wie Du wohl auch aus meiner Karte<note type="ea">Bisher wurde keine Karte von Gerich gefunden, die Bezug auf die hier erwähnte Rezeptionskneipe nimmt.</note>
-               hast schließen können. <rs ref="#tillich_person_id__2222" type="person">Stieglitz</rs> soll in
-                  <rs ref="#tillich_place_id__279" type="place">Marburg</rs><pb n="4"/> beim V<abbr>erein</abbr>. D<abbr>eutscher</abbr>. St<abbr>udenten</abbr>. sein. Morgen ist in
-                  <rs ref="#tillich_place_id__279" type="place">Marburg</rs> Reception, unsre Confuxia<note type="ea">Als ,Confuxia‘ bezeichnet man die im selben Semester dem Bund begetretenen Studenten.</note> wird auch officiell
-               vertreten sein.</p>
-<closer>
-<salute>Herzl. Gruß</salute>
-<signed>Dein tr. Lbb. Gerich, <figure>
-<figDesc>Drei Wingolfszirkel</figDesc>
-</figure>!</signed>
-</closer>
-<postscript>
-<p>Eines möchte ich Dir noch empfehlen, sage über die Verbindungangeleg. die ich oben
+            <p>Auf die <rs ref="#tillich_place_id__467" type="place">Wartburg</rs> komme ich
+               voraussichtlich nicht. Ich habe ja ein Wartburgfest mitgemacht u. ich sehe nicht ein,
+               warum ich 40-50 M, die ich sonst nötiger brauchen kann, so verarbeiten soll, zumal
+               ich auch Pfingsten wieder ganz gern einmal zu Haus bin. Von der Verbindung gehen etwa
+               20 Leute hin.</p>
+            <p>Wie geht es <rs ref="#tillich_person_id__2136" type="person">Kaumann</rs> u. <rs
+                  ref="#tillich_person_id__227" type="person">Blech</rs>? <unclear>¿¿¿</unclear> u.
+                  <unclear>¿¿¿</unclear> waren mit den anderen Marburger Füxen auf unserer
+               Receptionskneipe, wie Du wohl auch aus meiner Karte<note type="ea">Bisher wurde keine
+                  Karte von Gerich gefunden, die Bezug auf die hier erwähnte Rezeptionskneipe
+                  nimmt.</note> hast schließen können. <rs ref="#tillich_person_id__2222"
+                  type="person">Stieglitz</rs> soll in <rs ref="#tillich_place_id__279" type="place"
+                  >Marburg</rs><pb n="4"/> beim V<abbr>erein</abbr>. D<abbr>eutscher</abbr>.
+                  St<abbr>udenten</abbr>. sein. Morgen ist in <rs ref="#tillich_place_id__279"
+                  type="place">Marburg</rs> Reception, unsre Confuxia<note type="ea">Als ,Confuxia‘
+                  bezeichnet man die im selben Semester dem Bund begetretenen Studenten.</note> wird
+               auch officiell vertreten sein.</p>
+            <closer>
+               <salute>Herzl. Gruß</salute>
+               <signed>Dein tr. Lbb. Gerich, <figure>
+                     <figDesc>Drei Wingolfszirkel</figDesc>
+                  </figure>!</signed>
+            </closer>
+            <postscript>
+               <p>Eines möchte ich Dir noch empfehlen, sage über die Verbindungangeleg. die ich oben
                   schrieb, <hi rend="u">besonders was mich angeht</hi>, nichts weiter. </p>
-</postscript>
-</div>
-</body>
-</text>
+            </postscript>
+         </div>
+      </body>
+   </text>
 </TEI>
