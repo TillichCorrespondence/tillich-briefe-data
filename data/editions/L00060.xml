@@ -1,143 +1,169 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00060">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Margarete, Marie und Oskar Tillich an Paul Tillich <lb/>vom 5. Juni 1905 </title>
-<author ref="#tillich_person_id__1925">Margarete Tillich</author>
-<author ref="#tillich_person_id__1926">Oskar Tillich</author>
-<author ref="#tillich_person_id__1930">Marie Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Margarete, Marie und Oskar Tillich an Paul Tillich <lb/>vom 5. Juni
+               1905 </title>
+            <author ref="#tillich_person_id__1925">Margarete Tillich</author>
+            <author ref="#tillich_person_id__1926">Oskar Tillich</author>
+            <author ref="#tillich_person_id__1930">Marie Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-<idno>bMS 649/193</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/193</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1925">Margarete Tillich</persName>
-<persName ref="#tillich_person_id__1926">Oskar Tillich</persName>
-<persName ref="#tillich_person_id__1930">Marie Tillich</persName>
-<placeName ref="#tillich_place_id__213">Hohen Neuendorf</placeName>
-<date when="1905-06-05">05.06.1905</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__448">Tübingen</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2022-10-15" who="PS">Intitale Auszeichnung des Transkripts</change>
-<change when="2024-01-15" who="EL">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession1">
-<pb n="1"/>
-<opener>
-<dateline><rs ref="#tillich_place_id__213" type="place">Hohen Neuendorf</rs>
-<date when="1905-06-05">5/6. 05.</date></dateline>
-<salute>Mein liebes <rs ref="#tillich_person_id__1928" type="person">Enkelchen</rs>!</salute>
-</opener>
-<p>Vielen Dank für Deinen Brief und die Wünsche zum 25. Mai. Der liebliche Kranz von
-               alten T.....<note type="ea">Es handelt sich hierbei um eine Anspielung auf die Geburtstagsglückwünsche von Paul Tillich, in denen der Student sich für die Feier entschuldige, was ihm nicht so schwer falle, da dort ohnehin nur "alte Tanten" seien. Vgl. <rs ref="L00059" type="letter">Brief von Toni Winkler an Paul Tillich vom 1. Juni 1905</rs>.</note> entbehrte Dich sehr. - Es ist uns eine große Freude, daß es Dir gut geht,
-               hoffentlich ist die dumme Wunde auch bald ganz geheilt.<note type="ea">Paul Tillich hatte während des Sommersemesters 1905 in Tübingen wiederholt eine Ohrenerkankung. Vgl. <rs ref="L00056" type="letter">Brief von Toni Winkler an Paul Tillich vom 19. Mai 1905</rs>, <rs ref="L00059" type="letter">Brief von Toni Winkler an Paul Tillich vom 05. Juni 1905</rs>, <rs ref="L00065" type="letter">Brief von Johannes Tillich an Paul Tillich vom 23. Juni 1905</rs>, <rs ref="L00067" type="letter">Brief von Gerich an Paul Tillich vom 26. Juni 1905</rs>, sowie <rs n="541" ref="#tillich__87Q3HQIJ" type="work">GW XIII, 541</rs>;<rs n="26" ref="#tillich__GBVRLWQM" type="work">EW V, 26</rs>.</note> <rs ref="#tillich_person_id__2223" type="person">Hänschen Weißenborn</rs> ist entlassen und in der Schule versetzt, der<pb n="2"/> Mutter Meinung nach Dein Verdienst; ich hoffe, daß dies Dich nicht zu
-               eitel macht. - Hier ist es schön wie immer, jetzt etwas heiß, ich konnte leider darum
-               nicht nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> zu Deines<rs ref="#tillich_person_id__1924" type="person">
-                  Papas</rs> Geburtstag, meine Reise nach <rs ref="#tillich_place_id__543" type="place">Weimar</rs> muß
-               ich auch verschieben. Dürselens Kinder
-               <!-- Dürselen ist der Familienname von Paul Tillichs Mutter. Ich weiß nicht, welche Dürselens hier gemeint sein könnten. PS -->sind
-               sehr niedlich, doch sind sie immer auf dem Grundstück. — Flockchen ist in dem einen
-               Jahr recht alt geworden, und als Lucie
-               <!-- Auch hier weiß ich nicht wer gemeint ist bzw. welche Lucie genau. -->neulich mit
-                  ihrem<pb n="3"/> Bräutigam bei uns war, wurde er lustig, weil Erstere mit ihm
-               durch den Wald raste, wie Du einst und hoffentlich auch wieder. — Ist denn in
-               <rs ref="#tillich_place_id__448" type="place">Tübingen</rs> auch solche Hitze oder verbreiten die Berge
-               Kühlung? Sehr würde sich mein AnsichtsAlbum über eine Karte von dort erfreuen! -</p>
-<p>Da <rs ref="#tillich_person_id__1930" type="person">Großmama</rs> noch schreiben will, mache ich für heut
-               Schluß, mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs> und wünsche, daß es Dir
-               weiter recht gut gehen möge! Ottos
-               <!-- Auch hier bin ich überfragt wer gemeint sein kann --> grüßen auch. – </p>
-<closer>
-<salute>Mit vielen herzlichen Grüßen</salute>
-<signed>D. <rs ref="#tillich_person_id__1925" type="person">Tante Margarete</rs>.</signed>
-</closer>
-</div>
-<div type="writingSession2">
-<opener><salute>Mein liebes Herzblatt!</salute></opener>
-<p>Nun auch von mir Gruß und Kuß, mein Liebling! Wie froh bin ich immer von Dir etwas zu
-               hören. Gestern war ja ein ergiebiger Tag, der uns Nachricht von Dir brachte. Gott Lob, daß es Dir gut geht. Gott schütze Dich
-               ferner, und mache Dich bald ganz heil. Aber pflegen <hi rend="u">mußt</hi> Du Dich,
-               mein Junge! Frl <rs ref="#tillich_person_id__2085" type="person">Toni</rs> will ja heute eine Eßkiste
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1925">Margarete Tillich</persName>
+               <persName ref="#tillich_person_id__1926">Oskar Tillich</persName>
+               <persName ref="#tillich_person_id__1930">Marie Tillich</persName>
+               <placeName ref="#tillich_place_id__213">Hohen Neuendorf</placeName>
+               <date when="1905-06-05">05.06.1905</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__448">Tübingen</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2022-10-15" who="PS">Intitale Auszeichnung des Transkripts</change>
+         <change when="2024-01-15" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession1">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#tillich_place_id__213" type="place">Hohen Neuendorf</rs>
+                  <date when="1905-06-05">5/6. 05.</date></dateline>
+               <salute>Mein liebes <rs ref="#tillich_person_id__1928" type="person"
+                  >Enkelchen</rs>!</salute>
+            </opener>
+            <p>Vielen Dank für Deinen Brief<note type="ea">Nicht überliefert.</note> und die Wünsche
+               zum <date when="1905-05-25">25. Mai</date>. Der liebliche Kranz von alten T.....<note
+                  type="ea">Es handelt sich hierbei um eine Anspielung auf die
+                  Geburtstagsglückwünsche von Paul Tillich, in denen der Student sich für die Feier
+                  entschuldige, was ihm nicht so schwer falle, da dort ohnehin nur "alte Tanten"
+                  seien. Vgl. <rs ref="L00059" type="letter">Brief von Toni Winkler an Paul Tillich
+                     vom 1. Juni 1905</rs>.</note> entbehrte Dich sehr. – Es ist uns eine große
+               Freude, daß es Dir gut geht, hoffentlich ist die dumme Wunde auch bald ganz
+                  geheilt.<note type="ea">Paul Tillich hatte während des Sommersemesters 1905 in
+                  Tübingen wiederholt eine Ohrenerkrankung. Vgl. <rs type="work"
+                     ref="#tillich_work_id__97" n="541">GW XIII, 541</rs>; <rs type="work"
+                     ref="#tillich_work_id__96" n="26">EW V, 26</rs>.</note>
+               <rs ref="#tillich_person_id__2223" type="person">Hänschen Weißenborn</rs> ist
+               entlassen und in der Schule versetzt, der<pb n="2"/> Mutter Meinung nach Dein
+               Verdienst; ich hoffe, daß dies Dich nicht zu eitel macht. – Hier ist es schön wie
+               immer, jetzt etwas heiß, ich konnte leider darum nicht nach <rs
+                  ref="#tillich_place_id__37" type="place">Berlin</rs> zu Deines<rs
+                  ref="#tillich_person_id__1924" type="person"> Papas</rs> Geburtstag, meine Reise
+               nach <rs ref="#tillich_place_id__543" type="place">Weimar</rs> muß ich auch
+               verschieben. <rs type="person" ref="#tillich_person_id__2224"><rs
+                     ref="#tillich_person_id__2225" type="person">Dürselens</rs></rs> Kinder sind
+               sehr niedlich, doch sind sie immer auf dem Grundstück. — <rs
+                  ref="#tillich_person_id__3009" type="person">Flockchen</rs> ist in dem einen Jahr
+               recht alt geworden, und als <rs ref="#tillich_person_id__1310" type="person"
+                  >Lucie</rs> neulich mit ihrem<pb n="3"/>
+               <rs type="person" ref="#tillich_person_id__1311">Bräutigam</rs> bei uns war, wurde er
+               lustig, weil Erstere mit ihm durch den Wald raste, wie Du einst und hoffentlich auch
+               wieder. – Ist denn in <rs ref="#tillich_place_id__448" type="place">Tübingen</rs>
+               auch solche Hitze oder verbreiten die Berge Kühlung? Sehr würde sich mein
+               Ansichts-Album über eine Karte von dort erfreuen! –</p>
+            <p>Da <rs ref="#tillich_person_id__1930" type="person">Großmama</rs> noch schreiben
+               will, mache ich für heut Schluß, mein lieber <rs ref="#tillich_person_id__1928"
+                  type="person">Paul</rs> und wünsche, daß es Dir weiter recht gut gehen möge! Ottos
+               grüßen auch. – </p>
+            <closer>
+               <salute>Mit vielen herzlichen Grüßen</salute>
+               <signed>D. <rs ref="#tillich_person_id__1925" type="person">Tante
+                  Margarete</rs>.</signed>
+            </closer>
+         </div>
+         <pb n="4"/>
+         <div type="writingSession2">
+            <opener><salute>Mein liebes Herzblatt!</salute></opener>
+            <p>Nun auch von mir Gruß und Kuß, mein Liebling! Wie froh bin ich immer von Dir etwas zu
+               hören. Gestern war ja ein ergiebiger Tag, der uns Nachricht von Dir brachte. Gott
+               Lob, daß es Dir gut geht. Gott schütze Dich ferner, und mache Dich bald ganz heil.
+               Aber pflegen <hi rend="u">mußt</hi> Du Dich, mein Junge! Frl <rs
+                  ref="#tillich_person_id__2085" type="person">Toni</rs> will ja heute eine Eßkiste
                packen, sie hat es mir versprochen. Wir <del rend="s">war</del> waren gestern, zu den
                2. Geburtstagsfesten, sehr munter, nur von der Hitze mastig! Du wirst wohl noch
-               Näheres darüber hören. Es geht uns hier ganz gut, nur kann sich Tante <rs ref="#tillich_person_id__1925" type="person">Grete</rs>, noch immer nicht, wie wir wünschen erholen.
-               Oft wünschen wir Dich einen Tag hier zu haben, mein Liebling. Du hast ja aber so
-               viel, viel <unclear>¿¿¿</unclear>dort. Und das ist auch unsere <unclear reason="covered">¿¿¿</unclear>
-</p>
-<closer><signed>Nun leb wohl mein Herz! Gott befohlen Deine treue G.Mutter <rs ref="#tillich_person_id__1930" type="person">M. T.</rs></signed></closer>
-</div>
-<div type="writingSession3">
-<p>Viel herzlichen Gruß mein lieber Junge auch von Deinem alten <rs ref="#tillich_person_id__1926" type="person">Großpapa</rs>! Vorgestern hat <rs ref="#tillich_person_id__2224" type="person">Onkel
-               Paul</rs> seinen Licentiaten in
-               <rs ref="#tillich_place_id__181" type="place">Greifswald</rs> und zwar cum laude gemacht! Er ist sehr froh und
-                  <rs ref="#tillich_person_id__1924" type="person">Papa</rs> freut sich sehr!</p> <closer><salute>Gott
-                     behüte Dich!</salute>
-<signed><rs ref="#tillich_person_id__1926" type="person">Großpapa.</rs></signed></closer>
-</div>
-</body>
-</text>
+               Näheres darüber hören. Es geht uns hier ganz gut, nur kann sich Tante <rs
+                  ref="#tillich_person_id__1925" type="person">Grete</rs>, noch immer nicht, wie<note type="ea">Der nachfolgende Text befindet sich am linken Seitenrand der vierten Briefseite.</note> wir
+               wünschen erholen. Oft wünschen wir Dich einen Tag hier zu haben, mein Liebling. Du
+               hast ja aber so viel, viel <unclear>¿¿¿</unclear>dort. Und das ist auch unsere
+                  <unclear reason="covered">¿¿¿</unclear><note type="ea">Der nachfolgende Text befindet sich am oberen Seitenrand der vierten Briefseite auf dem Kopf stehend.</note>
+            </p>
+            <closer><signed>Nun leb wohl mein Herz! Gott befohlen Deine treue G.mutter <rs
+                     ref="#tillich_person_id__1930" type="person">M. T.</rs></signed><note type="ea">Der nachfolgende Text befindet sich am linken Seitenrand der ersten Briefseite.</note></closer>
+         </div>
+         <div type="writingSession3">
+            <p>Viel herzlichen Gruß mein lieber Junge auch von Deinem alten <rs
+                  ref="#tillich_person_id__1926" type="person">Großpapa</rs>! Vorgestern hat <rs
+                  ref="#tillich_person_id__2224" type="person">Onkel Paul</rs> seinen Licentiaten in
+                  <rs ref="#tillich_place_id__181" type="place">Greifswald</rs> und zwar cum laude
+               gemacht!<note type="ea">Der nachfolgende Text befindet sich am unteren Seitenrand der ersten Briefseite.</note> Er ist sehr froh und <rs ref="#tillich_person_id__1924" type="person"
+                  >Papa</rs> freut sich sehr!</p>
+            <closer><salute>Gott behüte Dich!</salute>
+               <signed><rs ref="#tillich_person_id__1926" type="person"
+               >Großpapa.</rs></signed></closer>
+         </div>
+      </body>
+   </text>
 </TEI>
