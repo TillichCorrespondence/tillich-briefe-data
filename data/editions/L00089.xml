@@ -1,123 +1,137 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00089">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Toni Winkler an Paul Tillich <lb/>vom 20. Oktober 1905 </title>
-<author ref="#tillich_person_id__2085">Toni Winkler</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Toni Winkler an Paul Tillich <lb/>vom 20. Oktober 1905 </title>
+            <author ref="#tillich_person_id__2085">Toni Winkler</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-<idno>bMS 649/205(15)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/205(15)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__2085">Toni Winkler</persName>
-<placeName ref="#tillich_place_id__37">Berlin</placeName>
-<date when="1905-10-20">20.10.1905</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2022-10-31" who="PS">Intitale Auszeichnung des Transkripts</change>
-<change when="2023-10-30" who="EL">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs> d. <date when="1905-10-20">20.
-                     Oct 05.</date></dateline>
-<salute>Unser lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</salute>
-</opener>
-<p>Wir sind dir <hi rend="u">sehr</hi> dankbar, daß Du gleich nach deiner Ankunft eine
-               Karte u. uns heut einen so lieben Brief gesandt. Es ist uns eine so große Beruhigung,
-               zumal Du weißt, wie leicht sich <rs ref="#tillich_person_id__1924" type="person">Papa</rs> beunruhigt,
-               und das möchten wir am allermeisten doch gerade fest vermeiden, wo er so sehr in
-               Anspruch genommen ist durch die Provinzial<pb n="2"/> Synode. Es ist jetzt 1/4 12 Uhr
-               Abends, <rs ref="#tillich_person_id__1924" type="person">Papa</rs> ist im Herrenhaus u. bin ich neugierig
-               wann er heim kommt. Bei uns gehts weiter bunt zu. Also zuerst nach deiner Abreise
-               waren <unclear>Köttcher</unclear> zum Kaffee u. Abendbrod bei uns, <rs ref="#tillich_person_id__1924" type="person">Papa</rs> holte mit <rs ref="#tillich_person_id__644" type="person">Johanna</rs>
-<rs ref="#tillich_person_id__2227" type="person">Tante Emma</rs> von der Bahn, u blieb bei
-                  <unclear>Ramdorf</unclear> zum Abendbrod. Das war Dienstag. – Am Mittwoch war
-                  <rs ref="#tillich_person_id__2227" type="person">Tante Emma</rs> zum Kaffee u. Abendbrod bei uns,
-                  <rs ref="#tillich_person_id__644" type="person">Johanna</rs> holte sie 1/2 4 Uhr ab. Da war auch noch
-                  <rs ref="#tillich_person_id__1926" type="person">Großpapa Tillich</rs><pb n="3"/> Bei uns zum Kaffee.
-                  <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> stand Mittags schon zur Feier des
-               Festes auf. Am Donnerstag war <rs ref="#tillich_person_id__2225" type="person">Tante Eugenie</rs>
-<rs ref="#tillich_person_id__1921" type="person">Großmama</rs> u. Frl. <unclear>Gerichen</unclear> bei
-               uns zum Besuch. Am Abend war eine herrliche Bibelstunde, die mich aber wieder sehr
-               anstrengte. Heut war Vormittag <rs ref="#tillich_person_id__1925" type="person">Tante Gretchen</rs> hier,
-               die mir viele Grüße an Dich auftrug. – Am Nachm. war <rs ref="#tillich_person_id__2228" type="person">Maria
-                  Solberger</rs> bei <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> zum Kränzchen
-                  <rs ref="#tillich_person_id__2230" type="person">Edith</rs>, <rs ref="#tillich_person_id__2231" type="person">Gerda</rs>,
-                  <rs ref="#tillich_person_id__2229" type="person">Lottchen Schilling</rs> u. <rs ref="#tillich_person_id__2225" type="person">Tante Eugenie</rs> noch hier, morgen geht <rs ref="#tillich_person_id__1924" type="person">Papa</rs> zu 12<pb n="4"/> Uhr Mittags ins Herrenhaus, u. dann wird die
-               nächste Woche wohl sehr ruhig verlaufen, da <rs ref="#tillich_person_id__1924" type="person">Papa</rs>
-               dann beinahe wohl alle Tage fort ist. <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs>
-               geht seit gestern zur Schule u. gehts ihr wieder gut. Daß Deine Bude so hübsch ist,
-               freut mich sehr, aber du mußt dich mit den guten Meubels nun wohl auch recht in Acht nehmen, sonst haben deine Mieter Schaden. Und ich weiß, Du willst das nicht u. denkst
-               manchmal auch in dieser Beziehung an Deine </p>
-<closer>
-<signed>treue <rs ref="#tillich_person_id__2085" type="person">Tante Toni</rs></signed>
-</closer>
-</div>
-</body>
-</text>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2085">Toni Winkler</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1905-10-20">20.10.1905</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2022-10-31" who="PS">Intitale Auszeichnung des Transkripts</change>
+         <change when="2023-10-30" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs> d. <date
+                     when="1905-10-20">20. Oct 05.</date></dateline>
+               <salute>Unser lieber <rs ref="#tillich_person_id__1928" type="person"
+                  >Paul</rs>.</salute>
+            </opener>
+            <p>Wir sind Dir <hi rend="u">sehr</hi> dankbar, daß Du gleich nach Deiner Ankunft eine
+               Karte u. uns heut einen so lieben Brief gesandt.<note type="ea">Weder die Karte noch der Brief sind überliefert.</note> Es ist uns eine so große Beruhigung,
+               zumal Du weißt, wie leicht sich <rs ref="#tillich_person_id__1924" type="person"
+                  >Papa</rs> beunruhigt, und das möchten wir am allermeisten doch gerade fest
+               vermeiden, wo er so sehr in Anspruch genommen ist durch die Provinzial-<pb n="2"/>
+               Synode. Es ist jetzt <formula notation="TeX">\frac{1}{4}</formula> 12 Uhr Abends, <rs ref="#tillich_person_id__1924"
+                  type="person">Papa</rs> ist im Herrenhaus u. bin ich neugierig wann er heim kommt.
+               Bei uns gehts weiter bunt zu. Also zuerst nach deiner Abreise waren
+                  <unclear>Köttcher</unclear> zum Kaffee u. Abendbrod bei uns, <rs
+                  ref="#tillich_person_id__1924" type="person">Papa</rs> holte mit <rs
+                  ref="#tillich_person_id__644" type="person">Johanna</rs>
+               <rs ref="#tillich_person_id__2227" type="person">Tante Emma</rs> von der Bahn, u
+               blieb bei <unclear>Ramdorf</unclear> zum Abendbrod. Das war Dienstag. – Am Mittwoch
+               war <rs ref="#tillich_person_id__2227" type="person">Tante Emma</rs> zum Kaffee u.
+               Abendbrod bei uns, <rs ref="#tillich_person_id__644" type="person">Johanna</rs> holte
+               sie <formula notation="TeX">\frac{1}{2}</formula> 4 Uhr ab. Da war auch noch <rs ref="#tillich_person_id__1926" type="person"
+                  >Großpapa Tillich</rs><pb n="3"/> bei uns zum Kaffee. <rs
+                  ref="#tillich_person_id__1762" type="person">Elisabeth</rs> stand Mittags schon
+               zur Feier des Festes auf. Am Donnerstag war <rs ref="#tillich_person_id__2225"
+                  type="person">Tante Eugenie</rs>
+               <rs ref="#tillich_person_id__1921" type="person">Großmama</rs> u. Frl.
+                  <unclear>Gerichen</unclear> bei uns zum Besuch. Am Abend war eine herrliche
+               Bibelstunde, die mich aber wieder sehr anstrengte. Heut war Vormittag <rs
+                  ref="#tillich_person_id__1925" type="person">Tante Gretchen</rs> hier, die mir
+               viele Grüße an Dich auftrug. – Am Nachm. war <rs ref="#tillich_person_id__2228"
+                  type="person">Maria Solberger</rs> bei <rs ref="#tillich_person_id__1762"
+                  type="person">Elisabeth</rs> zum Kränzchen <rs ref="#tillich_person_id__2230"
+                  type="person">Edith</rs>, <rs ref="#tillich_person_id__2231" type="person"
+                  >Gerda</rs>, <rs ref="#tillich_person_id__2229" type="person">Lottchen
+                  Schilling</rs> u. <rs ref="#tillich_person_id__2225" type="person">Tante
+                  Eugenie</rs> noch hier, morgen geht <rs ref="#tillich_person_id__1924"
+                  type="person">Papa</rs> zu 12<pb n="4"/> Uhr Mittags ins Herrenhaus, u. dann wird
+               die nächste Woche wohl sehr ruhig verlaufen, da <rs ref="#tillich_person_id__1924"
+                  type="person">Papa</rs> dann beinahe wohl alle Tage fort ist. <rs
+                  ref="#tillich_person_id__1762" type="person">Elisabeth</rs> geht seit gestern zur
+               Schule u. gehts ihr wieder gut. Daß Deine Bude so hübsch ist, freut mich sehr, aber
+               Du mußt Dich mit den guten Meubels nun wohl auch recht in Acht nehmen, sonst haben
+               Deine Mieter Schaden. Und ich weiß, Du willst das nicht u. denkst manchmal auch in
+               dieser Beziehung an Deine </p>
+            <closer>
+               <signed>treue <rs ref="#tillich_person_id__2085" type="person">Tante
+                  Toni</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>
