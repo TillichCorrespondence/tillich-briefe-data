@@ -1,102 +1,112 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00075">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Paul Tillich an Johannes Tillich
-               <lb/>vom 15. Juli 1905 [PS]
-            </title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__279">Marburg</settlement>
-<institution>Philipps-Universität Marburg</institution>
-<repository>Deutsches Paul-Tillich-Archiv</repository>
-<idno>008A</idno>
-</msIdentifier>
-<physDesc>
-<p>Postkarte, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__448">Tübingen</placeName>
-<date when="1905-07-15">15.07.1905
-                  </date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2022-07-21" who="AB">Intitale Auszeichnung des Transkripts</change>
-<change when="2022-07-25" who="AB">Überprüfung und Ergänzung der Auszeichnungen</change>
-<change when="2024-01-18" who="EL">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="postcard">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
-</opener>
-<p>Habt Dank für Eure <rs ref="L00071" type="letter">Karten</rs>  und für die Sendung des Schlüssels!<note type="ea">In einer <rs ref="L00071" type="letter">Postkarte vom 9. Juli 1905</rs>  wird Paul Tillich gefragt, ob ihm der Hausschlüssel zugesandt werden soll.</note> Gestern früh war
-           ich beim Arzt<note type="ea">Paul Tillich hatte während des Sommersemesters 1905 in Tübingen wiederholt eine Ohrenerkankung. Vgl. <rs ref="L00056" type="letter">Brief von Toni Winkler an Paul Tillich vom 19. Mai 1905</rs>, <rs ref="L00065" type="letter">Brief von Johannes Tillich an Paul Tillich vom 23. Juni 1905</rs>, <rs ref="L00067" type="letter">Brief von Gerich an Paul Tillich vom 26. Juni 1905</rs>, sowie <rs n="541" ref="#tillich__87Q3HQIJ" type="work">GW XIII, 541</rs>;<rs n="26" ref="#tillich__GBVRLWQM" type="work">EW V, 26</rs>.</note>, er war wieder sehr zufrieden; morgen bekomme ich wieder
-               die Scheuklappen. Es
-               geht mir gut – nur etwas langweilig, was ja gesund ist. Gebt in <rs ref="#tillich_place_id__423" type="place">Sulden</rs> Eure nächste Adresse, an, falls die
-               Karte, die ich Sonnabend schreiben will, nicht mehr Euch treffen sollte.<note type="ea">Weder besagte Postkarten noch ein Antwort Schreiben auf Paul Tillichs Frage, ob seine Familie die Karten erhalten habe, sind überliefert. Vgl. <rs ref="L00077" type="letter">Postkarte von Paul Tillich an Johannes Tillich vom 17. Juli 1905</rs> .</note></p>
-<p><lb/>
-               Wenn Addressat noch nicht da, auf ihn warten<note type="ea">Der Satz befindet sich auf der Vorderseite der Postkarte.</note></p>
-<closer>
-<salute>Herzlichen Gruß an alle</salute>
-<signed><hi rend="u">Euer <rs ref="#tillich_person_id__1928" type="person">Paul</rs></hi></signed>
-</closer>
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Paul Tillich an Johannes Tillich <lb/>vom 15. Juli 1905 [PS] </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement ref="#tillich_place_id__279">Marburg</settlement>
+                        <institution>Philipps-Universität Marburg</institution>
+                        <repository>Deutsches Paul-Tillich-Archiv</repository>
+                        <idno>008A</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__448">Tübingen</placeName>
+                    <date when="1905-07-15">15.07.1905 </date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2022-07-21" who="AB">Intitale Auszeichnung des Transkripts</change>
+            <change when="2022-07-25" who="AB">Überprüfung und Ergänzung der Auszeichnungen</change>
+            <change when="2024-01-18" who="EL">Endabnahme</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="postcard">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Lieber <rs ref="#tillich_person_id__1924" type="person"
+                        >Papa</rs>!</salute>
+                </opener>
+                <p>Habt Dank für Eure <rs ref="L00071" type="letter">Karten</rs> und für die Sendung
+                    des Schlüssels!<note type="ea">In einer <rs ref="L00071" type="letter">Postkarte
+                            vom 9. Juli 1905</rs> wird Paul Tillich gefragt, ob ihm der
+                        Hausschlüssel zugesandt werden soll.</note> Gestern früh war ich beim
+                    Arzt<note type="ea">Paul Tillich hatte während des Sommersemesters 1905 in Tübingen wiederholt eine Ohrenerkrankung. Vgl. <rs type="work" ref="#tillich_work_id__97" n="541">GW XIII, 541</rs>; <rs type="work" ref="#tillich_work_id__96" n="26">EW V, 26</rs>.</note>, er war
+                    wieder sehr zufrieden; morgen bekomme ich wieder die Scheuklappen. Es geht mir
+                    gut – nur etwas langweilig, was ja gesund ist. Gebt in <rs
+                        ref="#tillich_place_id__423" type="place">Sulden</rs> Eure nächste Adresse,
+                    an, falls die Karte, die ich Sonnabend schreiben will, nicht mehr Euch treffen
+                        sollte.<note type="ea">Weder besagte Postkarten noch ein Antwortschreiben
+                        auf Paul Tillichs Frage, ob seine Familie die Karten erhalten habe, sind
+                        überliefert. Vgl. <rs ref="L00077" type="letter">Postkarte von Paul Tillich
+                            an Johannes Tillich vom 17. Juli 1905</rs>.</note></p>
+                <p><lb/> Wenn Addressat noch nicht da, auf ihn warten<note type="ea">Der Satz
+                        befindet sich auf der Vorderseite der Postkarte.</note></p>
+                <closer>
+                    <salute>Herzlichen Gruß an alle</salute>
+                    <signed><hi rend="u">Euer <rs ref="#tillich_person_id__1928" type="person"
+                                >Paul</rs></hi></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
 </TEI>
