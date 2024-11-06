@@ -1,132 +1,154 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00091">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Johannes Tillich an Paul Tillich <lb/>vom 16. November 1905 </title>
-<author ref="#tillich_person_id__1924">Johannes Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Johannes Tillich an Paul Tillich <lb/>vom 16. November 1905 </title>
+            <author ref="#tillich_person_id__1924">Johannes Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-<idno>bMS 649/193</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, handschriftliches Diktat</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/193</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, handschriftliches Diktat</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
-<placeName ref="#tillich_place_id__37">Berlin</placeName>
-<date when="1905-11-16">16.11.1905</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2022-04-25" who="PS">Intitale Auszeichnung des Transkripts</change>
-<change when="2024-01-17" who="EL">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs> d. <date when="1905-11-16">16./11.05</date></dateline>
-<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Sohn</rs>,</salute>
-</opener>
-<p>Endlich komme ich dazu einen Brief an Dich zwar nicht selbst zu schreiben aber doch
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1905-11-16">16.11.1905</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2022-04-25" who="PS">Intitale Auszeichnung des Transkripts</change>
+         <change when="2024-01-17" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs> d. <date
+                     when="1905-11-16">16./11.05</date></dateline>
+               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person"
+                  >Sohn</rs>,</salute>
+            </opener>
+            <p>Endlich komme ich dazu einen Brief an Dich zwar nicht selbst zu schreiben aber doch
                zu diktieren. Es ist schön, daß Du so ausführlich berichtet hast und die Nachrichten
                fortgesetzt gut lauten. Auch freue ich mich sehr über Deinen Studieneifer, habe aber
-               dabei doch die Besorgnis, daß Du Dich zu sehr anstrengst.<note type="ea">Im Winter-Semester 1905/06  besuchte Paul Tillich in Hallefolgende Lehrveranstaltungen: Kirchengeschichte II bei <rs ref="#tillich_person_id__1201" type="person">Prof. Dr. Loofs</rs>, Neutestamentliche Theologie bei <rs ref="#tillich_person_id__826" type="person">Prof. Dr. Haupt</rs>, Psalmen bei <rs ref="#tillich_person_id__1036" type="person">Prof. Dr. Kautzsch</rs>, Dogmatik II (Christologie), Matthäus und Systematisches Seminar bei <rs ref="#tillich_person_id__1227" type="person">Prof. Dr. Lütgert</rs> und Philosophische Übungen (<rs ref="#tillich_person_id__589" type="person">Johann Gottlieb Fichte</rs> bei <rs ref="#tillich_person_id__1291" type="person">Dr. Medicus</rs>. Vgl. <rs n="407" ref="#tillich__G6H9ABDM" type="work">Georg Neugebauer: Tillichs frühe Christologie (2007), 407</rs>.</note> 26 Stunden Kolleg ist zu
-               viel für Dich; da mußt Du um Deiner Gesundheit willen häufig schwänzen, z. B.
-               Kirchengeschichte oder Psalmen, und solch eine Stunde zum spazieren gehen benutzen.
-               Es ist ja Deine Art leicht in einer Sache zu viel zu tun; deshalb lege ich Dir die
-               Pflicht der Schonung bes. aufs Herz, auch wenn Du die <pb n="2"/> Notwendigkeit nicht
-               ganz einsehen solltest. Dazu noch ein anderes: die Ernährungsfrage. Du darfst nicht
-               erst warten, bis eine Futterkiste von hier kommt, um Dich ordentlich und solide satt
-               zu essen. Du mußt Dir selbst auch gute Sachen kaufen: Wurst Schinken, Eier, kaufe
-               immer vom besten, denn das ist auch das billigste, und jedenfalls geize und spare
-               nicht. Schreib uns im nächsten Brief, wie Du es in diesen Dingen hältst.- Ueber Deine
-               Beziehungen zu <rs ref="#tillich_person_id__1227" type="person">Lüthgert</rs> freue ich mich
-               sehr. Ueber die Frage betreffend Willensfreiheit, die Du mir gestellt hast, antworte
-               ich: allerdings hat die sittliche Freiheit dann ihre Höhe und Reife erreicht, wenn
-                  <pb n="3"/> Pflicht und Neigung zusammenfällt; aber zu dieser Stufe geht es nur
-               durch Kämpfen und Ringen, wobei Willensentscheidungen immer wieder nötig werden. Dies
-               hat <rs ref="#tillich_person_id__1227" type="person">Lüthgert</rs> auch gewiß nicht leugnen
-               wollen.</p>
-<p>Das Thema Deiner Seminararbeit<note type="ea">Vgl. <rs ref="#tillich__KYZQRPRN" type="work">Paul Tillich: Fichtes Religionsphilosophie in ihrem Verhältnis zum Johannes Evangelium (1906)</rs>.</note> ist uns ziemlich unklar, Du kannst einmal näheres
-               darüber schreiben, wenn Du dazu Zeit hast; sonst lassen wir bis Weihnachten. Ein
-               Besuch meinerseits dort scheint vorläufig ausgeschlossen. Ich hatte viel zu tun mit
-               dem Diktieren meiner Predigt und meines Referats für die Drucklegung. Wir sind eben
-               erst damit fertig geworden. Auch die Gruppe der "Linken" läßt die Verhandlungen als
-               Broschüre erscheinen, und hat mir zu diesem Zweck das Stenogramm meiner Rede zur
-               Durchsicht zugeschickt. <pb n="4"/> So geht die Sache in große Kreise, hoffentlich
-               zum Segen. Sobald die Verhandlungen erschienen sind schicke ich Dir ein Exemplar.</p>
-<p>Mit Prof. <rs ref="#tillich_person_id__2738" type="person">Strack</rs> u. Lic. <rs type="person"><unclear cert="high">Frankh</unclear></rs> wird das Broschüren-Unternehmen der <abbr>"St.<expan>udenten</expan>
-                  V.<expan>erbindung</expan>"</abbr> weiter vorbereitet. Die Vorträge finden vielleicht noch Febraur-März
-               statt.- Du hast noch nicht geschrieben ob Du bei Vetter <rs ref="#tillich_person_id__2242" type="person">Schmidt</rs>
-               u. bei <rs type="person"><unclear cert="high"><rs ref="#tillich_person_id__2786" type="person">Knak's</rs></unclear></rs> warst. Versäume es
-               ja nicht. Onkel <rs ref="#tillich_person_id__2259" type="person">Adolf</rs> läßt Dir für den Geburtstagsbrief<note>Nicht überliefert.</note> herzlich
-               danken, schreib auch einmal an Onkel <rs ref="#tillich_person_id__2224" type="person">Paul</rs> u. nach <rs ref="#tillich_place_id__244" type="place">Köln</rs>; es wird dann auch ein Packetchen nicht ausbleiben.-
-               Ich kann mit meinem Gesundheitszustand im ganzen zufrieden sein; auch die andern
-               befinden sich wohl. Nun behüt Dich Gott, mein lieber Sohn. Bußtag oder Totenfest
-               gehen wir zum Abendmahl.</p>
-<closer>
-<add resp="#tillich_person_id__1924">Es küßt Dich Dein tr. <rs ref="#tillich_person_id__1924" type="person">Vater</rs>.</add>
-</closer>
-</div>
-</body>
-</text>
+               dabei doch die Besorgnis, daß Du Dich zu sehr anstrengst.<note type="ea">Im
+                  Winter-Semester 1905/06 besuchte Paul Tillich in Halle folgende
+                  Lehrveranstaltungen: Kirchengeschichte II bei <rs ref="#tillich_person_id__1201"
+                     type="person">Prof. Dr. Loofs</rs>, Neutestamentliche Theologie bei <rs
+                     ref="#tillich_person_id__826" type="person">Prof. Dr. Haupt</rs>, Psalmen bei
+                     <rs ref="#tillich_person_id__1036" type="person">Prof. Dr. Kautzsch</rs>,
+                  Dogmatik II (Christologie), Matthäus und Systematisches Seminar bei <rs
+                     ref="#tillich_person_id__1227" type="person">Prof. Dr. Lütgert</rs> und
+                  Philosophische Übungen (<rs ref="#tillich_person_id__589" type="person">Johann
+                     Gottlieb Fichte</rs>) bei <rs ref="#tillich_person_id__1291" type="person">Dr.
+                     Medicus</rs>. Vgl. <rs n="407" ref="#tillich__G6H9ABDM" type="work">Georg
+                     Neugebauer: Tillichs frühe Christologie (2007), 407</rs>.</note> 26 Stunden
+               Kolleg ist zu viel für Dich; da mußt Du um Deiner Gesundheit willen häufig schwänzen,
+               z. B. Kirchengeschichte oder Psalmen, und solch eine Stunde zum spazieren gehen
+               benutzen. Es ist ja Deine Art leicht in einer Sache zu viel zu tun; deshalb lege ich
+               Dir die Pflicht der Schonung bes. aufs Herz, auch wenn Du die <pb n="2"/>
+               Notwendigkeit nicht ganz einsehen solltest. Dazu noch ein anderes: die
+               Ernährungsfrage. Du darfst nicht erst warten, bis eine Futterkiste von hier kommt, um
+               Dich ordentlich und solide satt zu essen. Du mußt Dir selbst auch gute Sachen kaufen:
+               Wurst Schinken, Eier, kaufe immer vom besten, denn das ist auch das billigste, und
+               jedenfalls geize und spare nicht. Schreib uns im nächsten Brief, wie Du es in diesen
+               Dingen hältst.– Ueber Deine Beziehungen zu <rs ref="#tillich_person_id__1227"
+                  type="person">Lüthgert</rs> freue ich mich sehr. Ueber die Frage betreffend
+               Willensfreiheit, die Du mir gestellt hast, antworte ich: allerdings hat die sittliche
+               Freiheit dann ihre Höhe und Reife erreicht, wenn <pb n="3"/> Pflicht und Neigung
+               zusammenfällt; aber zu dieser Stufe geht es nur durch Kämpfen und Ringen, wobei
+               Willensentscheidungen immer wieder nötig werden. Dies hat <rs
+                  ref="#tillich_person_id__1227" type="person">Lüthgert</rs> auch gewiß nicht
+               leugnen wollen.</p>
+            <p>Das Thema Deiner Seminararbeit<note type="ea">Vgl. <rs ref="#tillich__KYZQRPRN"
+                     type="work">Paul Tillich: Fichtes Religionsphilosophie in ihrem Verhältnis zum
+                     Johannes Evangelium (1906)</rs>.</note> ist uns ziemlich unklar, Du kannst
+               einmal näheres darüber schreiben, wenn Du dazu Zeit hast; sonst lassen wir bis
+               Weihnachten. Ein Besuch meinerseits dort scheint vorläufig ausgeschlossen. Ich hatte
+               viel zu tun mit dem Diktieren meiner Predigt und meines Referats für die Drucklegung.
+               Wir sind eben erst damit fertig geworden. Auch die Gruppe der "Linken" läßt die
+               Verhandlungen als Broschüre erscheinen, und hat mir zu diesem Zweck das Stenogramm
+               meiner Rede zur Durchsicht zugeschickt. <pb n="4"/> So geht die Sache in große
+               Kreise, hoffentlich zum Segen. Sobald die Verhandlungen erschienen sind schicke ich
+               Dir ein Exemplar.</p>
+            <p>Mit Prof. <rs ref="#tillich_person_id__2738" type="person">Strack</rs> u. Lic. <rs
+                  type="person"><unclear cert="high">Frankh</unclear></rs> wird das
+               Broschüren-Unternehmen der <abbr>"St.<expan>udenten</expan>
+                     V.<expan>erbindung</expan>"</abbr> weiter vorbereitet. Die Vorträge finden
+               vielleicht noch Febraur-März statt. – Du hast noch nicht geschrieben ob Du bei Vetter
+                  <rs ref="#tillich_person_id__2242" type="person">Schmidt</rs> u. bei <rs
+                  type="person"><unclear cert="high"><rs ref="#tillich_person_id__2786"
+                        type="person">Knak's</rs></unclear></rs> warst. Versäume es ja nicht. Onkel
+                  <rs ref="#tillich_person_id__2259" type="person">Adolf</rs> läßt Dir für den
+                  Geburtstagsbrief<note>Nicht überliefert.</note> herzlich danken, schreib auch
+               einmal an Onkel <rs ref="#tillich_person_id__2224" type="person">Paul</rs> u. nach
+                  <rs ref="#tillich_place_id__244" type="place">Köln</rs>; es wird dann auch ein
+               Packetchen nicht ausbleiben. – Ich kann mit meinem Gesundheitszustand im ganzen
+               zufrieden sein; auch die andern befinden sich wohl. Nun behüt Dich Gott, mein lieber
+               Sohn. Bußtag oder Totenfest gehen wir zum Abendmahl.</p>
+            <closer> Es küßt Dich Dein tr. <rs ref="#tillich_person_id__1924" type="person"
+                  >Vater</rs>.</closer>
+         </div>
+      </body>
+   </text>
 </TEI>
