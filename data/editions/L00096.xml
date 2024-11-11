@@ -1,111 +1,116 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00096">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Johanna Tillich an Paul Tillich <lb/>vom 21. Januar 1906 </title>
-<author ref="#tillich_person_id__644">Johanna Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
-                  1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
-                  Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-<idno>bMS 649/205(16)</idno>
-</msIdentifier>
-<physDesc>
-<p>Postkarte, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
-               https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__644">Johanna Tillich</persName>
-<placeName ref="#tillich_place_id__37">Berlin</placeName>
-<date when="1906-01-25">25.01.1906</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__189">Halle</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2022-10-31" who="PS">Intitale Auszeichnung des Transkripts</change>
-<change when="2024-02-06" who="EL">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="postcard">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<salute>L. <rs ref="#tillich_person_id__1928" type="person">P.</rs>!</salute>
-</opener>
-<p>
-<lb/>Familienabend feiern wir <lb/>Ach wär<del rend="s">e</del>st Du lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs> doch hier. <lb/>Viel Schönes auch bald Ernst bald
-               Scherz <lb/>klingt uns hinein in unser Herz! <lb/>Doch nun leb' wohl mein Bester
-               <lb/>Es grüßt Dich Deine Schwester </p>
-<closer>
-<signed><rs ref="#tillich_person_id__644" type="person">Johanna</rs>.</signed>
-</closer>
-<postscript>
-<p><unclear>¿¿¿...¿¿¿</unclear></p>
-</postscript>
-</div>
-<div>
-<p><rs ref="#tillich_person_id__2085" type="person">Tante Toni</rs>!</p>
-</div>
-<div>
-<p><rs ref="#tillich_person_id__1924" type="person">Papa</rs>.</p>
-</div>
-<div>
-<p><rs ref="#tillich_person_id__1925" type="person">Tante Grete</rs>.</p>
-</div>
-</body>
-</text>
+     <teiHeader>
+          <fileDesc>
+               <titleStmt>
+                    <title>Postkarte von Johanna Tillich an Paul Tillich <lb/>vom 25. Januar 1906
+                         [PS]</title>
+                    <author ref="#tillich_person_id__644">Johanna Tillich</author>
+                    <respStmt>
+                         <resp>Editor</resp>
+                         <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+                    </respStmt>
+               </titleStmt>
+               <editionStmt>
+                    <edition>
+                         <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                              1887-1933</title>
+                    </edition>
+               </editionStmt>
+               <publicationStmt>
+                    <publisher>
+                         <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                         <address>
+                              <street>Schenkenstraße 8-10</street>
+                              <postCode>1010</postCode>
+                              <placeName ref="#tillich_place_id__470">
+                                   <settlement>Wien</settlement>
+                                   <country>Österreich</country>
+                              </placeName>
+                         </address>
+                    </publisher>
+                    <availability>
+                         <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                              Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                    </availability>
+               </publicationStmt>
+               <sourceDesc>
+                    <msDesc type="manuscript">
+                         <msIdentifier>
+                              <country>USA</country>
+                              <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                              <institution>Harvard University</institution>
+                              <repository>Harvard Divinity School Library</repository>
+                              <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                              <idno>bMS 649/205(16)</idno>
+                         </msIdentifier>
+                         <physDesc>
+                              <p>Postkarte, eigenhändig</p>
+                         </physDesc>
+                    </msDesc>
+               </sourceDesc>
+          </fileDesc>
+          <encodingDesc>
+               <projectDesc>
+                    <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+               </projectDesc>
+               <editorialDecl>
+                    <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats.
+                         Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+               </editorialDecl>
+          </encodingDesc>
+          <profileDesc>
+               <correspDesc>
+                    <correspAction type="sent">
+                         <persName ref="#tillich_person_id__644">Johanna Tillich</persName>
+                         <placeName ref="#tillich_place_id__37">Berlin</placeName>
+                         <date when="1906-01-25">25.01.1906</date>
+                    </correspAction>
+                    <correspAction type="received">
+                         <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                         <placeName ref="#tillich_place_id__189">Halle</placeName>
+                    </correspAction>
+               </correspDesc>
+               <langUsage>
+                    <language ident="deu">Deutsch</language>
+               </langUsage>
+          </profileDesc>
+          <revisionDesc status="approved">
+               <change when="2022-10-31" who="PS">Intitale Auszeichnung des Transkripts</change>
+               <change when="2024-02-06" who="EL">Endabnahme</change>
+          </revisionDesc>
+     </teiHeader>
+     <text type="postcard">
+          <body>
+               <div type="writingSession">
+                    <pb n="1"/>
+                    <opener>
+                         <salute>L. <rs ref="#tillich_person_id__1928" type="person"
+                              >P.</rs>!</salute>
+                    </opener>
+                    <p>
+                         <lb/>Familienabend feiern wir <lb/>Ach wär<del rend="s">e</del>st Du lieber
+                              <rs ref="#tillich_person_id__1928" type="person">Paul</rs> doch hier.
+                         <lb/>Viel Schönes auch bald Ernst bald Scherz <lb/>klingt uns hinein in
+                         unser Herz! <lb/>Doch nun leb' wohl mein Bester <lb/>Es grüßt Dich Deine
+                         Schwester </p>
+                    <closer>
+                         <signed><rs ref="#tillich_person_id__644" type="person"
+                              >Johanna</rs>.<note type="ea">Der folgende unleserliche Text befindet sich teilweise im Haupttext der Postkarte und teilweise darüber.</note></signed>
+                    </closer>
+                    <postscript>
+                         <p><unclear>¿¿¿...¿¿¿</unclear></p>
+                    </postscript>
+               </div>
+               <div>
+                    <p><rs ref="#tillich_person_id__2085" type="person">Tante Toni</rs>!</p>
+               </div>
+               <div>
+                    <p><rs ref="#tillich_person_id__1924" type="person">Papa</rs></p>
+               </div>
+               <div>
+                    <p><rs ref="#tillich_person_id__1925" type="person">Tante Grete</rs></p>
+               </div>
+          </body>
+     </text>
 </TEI>
