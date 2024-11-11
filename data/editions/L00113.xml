@@ -1,116 +1,157 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00113">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Gustav Dürselen und Tante Else an Paul Tillich <lb/>vom 19. August 1906 </title>
-<author ref="#tillich_person_id__2237">Gustav Dürselen</author>
-<author ref="#tillich_person_id__2236">Tante Else</author>
-<author ref="#tillich_person_id__2224">Paul Rudolf Dürselen</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
-                  Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-<idno>bMS 649/209(1)</idno>
-</msIdentifier>
-<physDesc>
-<p>Postkarte, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
-               https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__2237">Gustav Dürselen</persName>
-<persName ref="#tillich_person_id__2236">Tante Else</persName>
-<persName ref="#tillich_person_id__2224">Paul Rudolf Dürselen</persName>
-<placeName ref="#tillich_place_id__37">Berlin</placeName>
-<date when="1906-08-19">19.08.1906</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2022-11-14" who="PS">Intitale Auszeichnung des Transkripts</change>
-<change when="2024-01-18" who="NH">Vorbereitung/Korrektur für die Endabnahme</change>
-<change when="2024-02-07" who="EL">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="postcard">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>
-<date when="1906-08-19">19-8-06.</date></dateline>
-<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
-</opener>
-<p>Meine herzlichsten Glück- u. Segenswünsche zu Deinem Geburtstage und hoffe ich, Dir
-               denselben dieser Tage mündlich wiederholen zu können; bis dahin die herzlichsten
-               Grüße von Deinem tr. Großvater </p>
-<closer>
-<signed><rs ref="#tillich_person_id__2237" type="person">G. Dürselen</rs></signed>
-</closer>
-</div>
-<div>
-<opener><salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Junge</rs>!</salute></opener>
-<p>Viel gute Wünsche u. vielen Segen! Und ein gesünderes Jahr als das vergangene! Wir
-               sehen Dich wohl bald. </p>
-<closer><salute>Tausend Grüße an Alle</salute>
-<signed>Deine<rs ref="#tillich_person_id__2236" type="person">Tante Else</rs></signed></closer>
-</div>
-<div><opener><salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paulemann</rs>,</salute></opener>
-<p>ich trinke auf Dein Wohl mit einem herrlichen <unclear>Weiswein</unclear>, d. Du
-               hoffentlich bald kennen lernst.</p>
-<closer><salute>Herzlichen Gruß allen</salute>
-<signed>Dein <rs ref="#tillich_person_id__2224" type="person">Onkel Paul</rs>.</signed></closer>
-</div>
-</body>
-</text>
+               <teiHeader>
+                              <fileDesc>
+                                             <titleStmt>
+                                                  <title>Postkarte von Gustav Dürselen und Tante
+                                                  Else an Paul Tillich <lb/>vom 19. August 1906 </title>
+                                                  <author ref="#tillich_person_id__2237">Gustav
+                                                  Dürselen</author>
+                                                  <author ref="#tillich_person_id__2236">Tante
+                                                  Else</author>
+                                                  <author ref="#tillich_person_id__2224">Paul Rudolf
+                                                  Dürselen</author>
+                                                  <respStmt>
+                                                  <resp>Editor</resp>
+                                                  <name key="https://orcid.org/0009-0003-9642-5125"
+                                                  >Paul Schömann</name>
+                                                  </respStmt>
+                                             </titleStmt>
+                                             <editionStmt>
+                                                  <edition>
+                                                  <title type="editionstitel">Edition der
+                                                  Korrespondenz von Paul Tillich 1887-1933</title>
+                                                  </edition>
+                                             </editionStmt>
+                                             <publicationStmt>
+                                                  <publisher>
+                                                  <name>Institut für Systematische Theologie und
+                                                  Religionswissenschaft</name>
+                                                  <address>
+                                                  <street>Schenkenstraße 8-10</street>
+                                                  <postCode>1010</postCode>
+                                                  <placeName ref="#tillich_place_id__470">
+                                                  <settlement>Wien</settlement>
+                                                  <country>Österreich</country>
+                                                  </placeName>
+                                                  </address>
+                                                  </publisher>
+                                                  <availability>
+                                                  <licence
+                                                  target="http://creativecommons.org/licenses/by-sa/4.0/"
+                                                  >Creative Commons Attribution 4.0 International
+                                                  (CC BY 4.0)</licence>
+                                                  </availability>
+                                             </publicationStmt>
+                                             <sourceDesc>
+                                                  <msDesc type="manuscript">
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <settlement ref="#tillich_place_id__82">Cambridge,
+                                                  MA</settlement>
+                                                  <institution>Harvard University</institution>
+                                                  <repository>Harvard Divinity School
+                                                  Library</repository>
+                                                  <collection>Tillich, Paul, 1886-1965. Papers,
+                                                  1894-1974.</collection>
+                                                  <idno>bMS 649/209(1)</idno>
+                                                  </msIdentifier>
+                                                  <physDesc>
+                                                  <p>Postkarte, eigenhändig</p>
+                                                  </physDesc>
+                                                  </msDesc>
+                                             </sourceDesc>
+                              </fileDesc>
+                              <encodingDesc>
+                                             <projectDesc>
+                                                  <p>online-Edition: Edition der Korrespondenz von
+                                                  Paul Tillich 1887-1933.</p>
+                                             </projectDesc>
+                                             <editorialDecl>
+                                                  <p>Die Ausgabe folgt folgenden Editorischen
+                                                  Richtlinien des DTA-Basisformats. Vgl.
+                                                  https://www.deutschestextarchiv.de/doku/basisformat/</p>
+                                             </editorialDecl>
+                              </encodingDesc>
+                              <profileDesc>
+                                             <correspDesc>
+                                                  <correspAction type="sent">
+                                                  <persName ref="#tillich_person_id__2237">Gustav
+                                                  Dürselen</persName>
+                                                  <persName ref="#tillich_person_id__2236">Tante
+                                                  Else</persName>
+                                                  <persName ref="#tillich_person_id__2224">Paul
+                                                  Rudolf Dürselen</persName>
+                                                  <placeName ref="#tillich_place_id__37"
+                                                  >Berlin</placeName>
+                                                  <date when="1906-08-19">19.08.1906</date>
+                                                  </correspAction>
+                                                  <correspAction type="received">
+                                                  <persName ref="#tillich_person_id__1928">Paul
+                                                  Tillich</persName>
+                                                  </correspAction>
+                                             </correspDesc>
+                                             <langUsage>
+                                                  <language ident="deu">Deutsch</language>
+                                             </langUsage>
+                              </profileDesc>
+                              <revisionDesc status="approved">
+                                             <change when="2022-11-14" who="PS">Intitale
+                                                  Auszeichnung des Transkripts</change>
+                                             <change when="2024-01-18" who="NH"
+                                                  >Vorbereitung/Korrektur für die
+                                                  Endabnahme</change>
+                                             <change when="2024-02-07" who="EL">Endabnahme</change>
+                              </revisionDesc>
+               </teiHeader>
+               <text type="postcard">
+                              <body>
+                                             <div type="writingSession">
+                                                  <pb n="1"/>
+                                                  <opener>
+                                                  <dateline><rs ref="#tillich_place_id__37"
+                                                  type="place">Berlin</rs>
+                                                  <date when="1906-08-19">19-8-06.</date></dateline>
+                                                  <salute>Lieber <rs ref="#tillich_person_id__1928"
+                                                  type="person">Paul</rs>!</salute>
+                                                  </opener>
+                                                  <p>Meine herzlichsten Glück- u. Segenswünsche zu
+                                                  Deinem Geburtstage und hoffe ich, Dir denselben
+                                                  dieser Tage mündlich wiederholen zu können; bis
+                                                  dahin die herzlichsten Grüße von Deinem tr.
+                                                  Großvater </p>
+                                                  <closer>
+                                                  <signed><rs ref="#tillich_person_id__2237"
+                                                  type="person">G. Dürselen</rs></signed>
+                                                  </closer>
+                                             </div>
+                                             <div>
+                                                  <opener><salute>Lieber <rs
+                                                  ref="#tillich_person_id__1928" type="person"
+                                                  >Junge</rs>!</salute></opener>
+                                                  <p>Viel gute Wünsche u. vielen Segen! Und ein
+                                                  gesünderes Jahr als das vergangene!<note type="ea"
+                                                  >Paul Tillich hatte während des Sommersemesters
+                                                  1905 in Tübingen wiederholt eine Ohrenerkrankung.
+                                                  Vgl. <rs type="work" ref="#tillich_work_id__97"
+                                                  n="541">GW XIII, 541</rs>; <rs type="work"
+                                                  ref="#tillich_work_id__96" n="26">EW V,
+                                                  26</rs>.</note> Wir sehen Dich wohl bald. </p>
+                                                  <closer><salute>Tausend Grüße an Alle</salute>
+                                                  <signed>Deine Tante <rs ref="#tillich_person_id__2236"
+                                                  type="person">Else</rs></signed></closer>
+                                             </div>
+                                             <div>
+                                                  <opener><salute>Lieber <rs
+                                                  ref="#tillich_person_id__1928" type="person"
+                                                  >Paulemann</rs>,</salute></opener>
+                                                  <p>ich trinke auf Dein Wohl mit einem herrlichen
+                                                  <unclear>Weiswein</unclear>, d. Du hoffentlich
+                                                  bald kennen lernst.</p>
+                                                  <closer><salute>Herzlichen Gruß allen</salute>
+                                                  <signed>Dein <rs ref="#tillich_person_id__2224"
+                                                  type="person">Onkel Paul</rs>.</signed></closer>
+                                             </div>
+                              </body>
+               </text>
 </TEI>

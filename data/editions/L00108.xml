@@ -1,104 +1,135 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00108">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Johanna Tillich an Paul Tillich <lb/>vom 11. Juli 1906 </title>
-<author ref="#tillich_person_id__644">Johanna Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
-                  1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
-                  Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-<idno>bMS 649/193</idno>
-</msIdentifier>
-<physDesc>
-<p>Postkarte, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
-               https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__644">Johanna Tillich</persName>
-<placeName ref="#tillich_place_id__293">Misdroy</placeName>
-<date when="1906-07-11">11.07.1906</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2022-08-20" who="PS">Intitale Auszeichnung des Transkripts</change>
-<change when="2024-02-07" who="EL">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="postcard">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline><rs ref="#tillich_place_id__293" type="place">Misdroy</rs>. Dünenstr. 1/ <date when="1906-07-11">11/7.06.</date></dateline>
-<salute>lieber <rs ref="#tillich_person_id__1928" type="person"><hi rend="aq">Paul</hi></rs></salute>
-</opener>
-<p>den ersten Gruß aus <rs ref="#tillich_place_id__293" type="place">Misdroy</rs>! Es ist hier sehr
-               schön, wir haben herrliches Wetter, die neue riesig lange Strandbrücke stört uns
-               nicht, da sie zwischen Herren- und Damenbad liegt, unsere alte Brücke wird
-               abgerissen!</p>
-<p><hi rend="aq"><rs ref="#tillich_person_id__1310" type="person">Lucies</rs></hi> Hochzeit ist am <date when="1906-08-20">20!
-               August</date>; <hi rend="u">bestimmt</hi>. Heut' kommt H. <rs ref="#tillich_person_id__800" type="person">Harder</rs> u. wohnt neben uns. Schreibe bald,
-               auch Karten! Viele "Meeresgrüße" v. D. S.
-               </p>
-<closer><signed><rs ref="#tillich_person_id__644" type="person">Johanna</rs></signed><add resp="#tillich_person_id__1924">Papa</add></closer>
-<postscript>
-<p>Das Meer ist bewegt!</p>
-</postscript>
-</div>
-</body>
-</text>
+               <teiHeader>
+                              <fileDesc>
+                                             <titleStmt>
+                                                  <title>Postkarte von Johanna Tillich an Paul
+                                                  Tillich <lb/>vom 11. Juli 1906 </title>
+                                                  <author ref="#tillich_person_id__644">Johanna
+                                                  Tillich</author>
+                                                  <respStmt>
+                                                  <resp>Editor</resp>
+                                                  <name key="https://orcid.org/0009-0003-9642-5125"
+                                                  >Paul Schömann</name>
+                                                  </respStmt>
+                                             </titleStmt>
+                                             <editionStmt>
+                                                  <edition>
+                                                  <title type="editionstitel">Edition der
+                                                  Korrespondenz von Paul Tillich 1887-1933</title>
+                                                  </edition>
+                                             </editionStmt>
+                                             <publicationStmt>
+                                                  <publisher>
+                                                  <name>Institut für Systematische Theologie und
+                                                  Religionswissenschaft</name>
+                                                  <address>
+                                                  <street>Schenkenstraße 8-10</street>
+                                                  <postCode>1010</postCode>
+                                                  <placeName ref="#tillich_place_id__470">
+                                                  <settlement>Wien</settlement>
+                                                  <country>Österreich</country>
+                                                  </placeName>
+                                                  </address>
+                                                  </publisher>
+                                                  <availability>
+                                                  <licence
+                                                  target="http://creativecommons.org/licenses/by-sa/4.0/"
+                                                  >Creative Commons Attribution 4.0 International
+                                                  (CC BY 4.0)</licence>
+                                                  </availability>
+                                             </publicationStmt>
+                                             <sourceDesc>
+                                                  <msDesc type="manuscript">
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <settlement ref="#tillich_place_id__82">Cambridge,
+                                                  MA</settlement>
+                                                  <institution>Harvard University</institution>
+                                                  <repository>Harvard Divinity School
+                                                  Library</repository>
+                                                  <collection>Tillich, Paul, 1886-1965. Papers,
+                                                  1894-1974.</collection>
+                                                  <idno>bMS 649/193</idno>
+                                                  </msIdentifier>
+                                                  <physDesc>
+                                                  <p>Postkarte, eigenhändig</p>
+                                                  </physDesc>
+                                                  </msDesc>
+                                             </sourceDesc>
+                              </fileDesc>
+                              <encodingDesc>
+                                             <projectDesc>
+                                                  <p>online-Edition: Edition der Korrespondenz von
+                                                  Paul Tillich 1887-1933.</p>
+                                             </projectDesc>
+                                             <editorialDecl>
+                                                  <p>Die Ausgabe folgt folgenden Editorischen
+                                                  Richtlinien des DTA-Basisformats. Vgl.
+                                                  https://www.deutschestextarchiv.de/doku/basisformat/</p>
+                                             </editorialDecl>
+                              </encodingDesc>
+                              <profileDesc>
+                                             <correspDesc>
+                                                  <correspAction type="sent">
+                                                  <persName ref="#tillich_person_id__644">Johanna
+                                                  Tillich</persName>
+                                                  <placeName ref="#tillich_place_id__293"
+                                                  >Misdroy</placeName>
+                                                  <date when="1906-07-11">11.07.1906</date>
+                                                  </correspAction>
+                                                  <correspAction type="received">
+                                                  <persName ref="#tillich_person_id__1928">Paul
+                                                  Tillich</persName>
+                                                  </correspAction>
+                                             </correspDesc>
+                                             <langUsage>
+                                                  <language ident="deu">Deutsch</language>
+                                             </langUsage>
+                              </profileDesc>
+                              <revisionDesc status="approved">
+                                             <change when="2022-08-20" who="PS">Intitale
+                                                  Auszeichnung des Transkripts</change>
+                                             <change when="2024-02-07" who="EL">Endabnahme</change>
+                              </revisionDesc>
+               </teiHeader>
+               <text type="postcard">
+                              <body>
+                                             <div type="writingSession">
+                                                  <pb n="1"/>
+                                                  <opener>
+                                                  <dateline><rs ref="#tillich_place_id__293"
+                                                  type="place">Misdroy</rs>. Dünenstr. 1/ <date
+                                                  when="1906-07-11">11/7.06.</date></dateline>
+                                                  <salute>lieber <rs ref="#tillich_person_id__1928"
+                                                  type="person"><hi rend="aq"
+                                                  >Paul</hi></rs></salute>
+                                                  </opener>
+                                                  <p>den ersten Gruß aus <rs
+                                                  ref="#tillich_place_id__293" type="place"
+                                                  >Misdroy</rs>! Es ist hier sehr schön, wir haben
+                                                  herrliches Wetter, die neue riesig lange
+                                                  Strandbrücke stört uns nicht, da sie zwischen
+                                                  Herren- und Damenbad liegt, unsere alte Brücke
+                                                  wird abgerissen! –</p>
+                                                  <p><hi rend="aq"><rs
+                                                  ref="#tillich_person_id__1310" type="person"
+                                                  >Lucies</rs></hi> Hochzeit ist am <date
+                                                  when="1906-08-20">20! August</date>; <hi rend="u"
+                                                  >bestimmt</hi>. Heut' kommt H. <rs
+                                                  ref="#tillich_person_id__800" type="person"
+                                                  >Harder</rs> u. wohnt neben uns. Schreibe bald,
+                                                  auch Karten! Viele "Meeresgrüße" v. D. S. </p>
+                                                  <closer><signed><rs ref="#tillich_person_id__644"
+                                                  type="person">Johanna</rs></signed><signed>
+                                                  <rs type="person" ref="#tillich_person_id__1924"
+                                                  >Papa</rs></signed><note type="ea">Der
+                                                  nachfolgende Text befindet sich am linken Rand der
+                                                  Postkarte.</note></closer>
+                                                  <postscript>
+                                                  <p>Das Meer ist bewegt!</p>
+                                                  </postscript>
+                                             </div>
+                              </body>
+               </text>
 </TEI>
