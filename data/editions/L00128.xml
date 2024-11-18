@@ -1,103 +1,136 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00128">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Lucie Merrem an Paul Tillich <lb/>vom 17. November 1906 </title>
-<author ref="#tillich_person_id__1310">Lucie Merrem</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
-                  1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
-                  Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__279">Marburg</settlement>
-<institution>Philipps-Universität Marburg</institution>
-<repository>Deutsches Paul-Tillich-Archiv</repository>
-<idno>008E</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
-               https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1310">Lucie Merrem</persName>
-<placeName ref="#tillich_place_id__356">Potsdam</placeName>
-<date when="1906-11-17">17.11.1906</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2022-04-26" who="PS">Intitale Auszeichnung des Transkripts</change>
-<change when="2024-01-24" who="PS">Vorbereitende Endabnahme</change>
-<change when="2024-02-12" who="EL">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline><rs ref="#tillich_place_id__356" type="place">Potsdam</rs>, d. <date when="1906-11-17">17.11.06.</date></dateline>
-<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Freund</rs>!</salute>
-</opener>
-<p>Obgleich Du vor 8 Tagen schon eine ähnliche Kiste erhieltest, wird Dir diese dennoch
-               nicht allzu unwillkommen sein. Bonbons, Pfefferminzdinger, Seife, Wein, Kognak, Odol,
-               Heftpflaster stammt aus der wohlbekannten – Luisenapotheke,– Das schicken Dir <rs ref="#tillich_person_id__1311" type="person">Paul</rs> u. ich. Das übrige <rs ref="#tillich_place_id__226" type="person">Johanna</rs>. Wurst u. Spickgans, Porto
-               u.s.w. ist geteiltes Geschenk. Hoffentlich kommt alles gut an. – Heute ist <rs ref="#tillich_place_id__226" type="person">Joh.</rs> zum 1. Mal allein bei uns. Es
-               ist reizend. Viele Grüße <pb n="2"/> von <rs ref="#tillich_person_id__1311" type="person">Paul</rs> u. mir und einen guten <sic>Apetit</sic>.</p>
-<closer>
-<salute>D.</salute>
-<signed><hi rend="aq"><rs ref="#tillich_person_id__1310" type="person">Lucie
-                        Merrem</rs></hi>
-</signed>
-</closer>
-</div>
-</body>
-</text>
+               <teiHeader>
+                              <fileDesc>
+                                             <titleStmt>
+                                                  <title>Brief von Lucie Merrem an Paul Tillich
+                                                  <lb/>vom 17. November 1906 </title>
+                                                  <author ref="#tillich_person_id__1310">Lucie
+                                                  Merrem</author>
+                                                  <respStmt>
+                                                  <resp>Editor</resp>
+                                                  <name key="https://orcid.org/0009-0003-9642-5125"
+                                                  >Paul Schömann</name>
+                                                  </respStmt>
+                                             </titleStmt>
+                                             <editionStmt>
+                                                  <edition>
+                                                  <title type="editionstitel">Edition der
+                                                  Korrespondenz von Paul Tillich 1887-1933</title>
+                                                  </edition>
+                                             </editionStmt>
+                                             <publicationStmt>
+                                                  <publisher>
+                                                  <name>Institut für Systematische Theologie und
+                                                  Religionswissenschaft</name>
+                                                  <address>
+                                                  <street>Schenkenstraße 8-10</street>
+                                                  <postCode>1010</postCode>
+                                                  <placeName ref="#tillich_place_id__470">
+                                                  <settlement>Wien</settlement>
+                                                  <country>Österreich</country>
+                                                  </placeName>
+                                                  </address>
+                                                  </publisher>
+                                                  <availability>
+                                                  <licence
+                                                  target="http://creativecommons.org/licenses/by-sa/4.0/"
+                                                  >Creative Commons Attribution 4.0 International
+                                                  (CC BY 4.0)</licence>
+                                                  </availability>
+                                             </publicationStmt>
+                                             <sourceDesc>
+                                                  <msDesc type="manuscript">
+                                                  <msIdentifier>
+                                                  <country>Deutschland</country>
+                                                  <settlement ref="#tillich_place_id__279"
+                                                  >Marburg</settlement>
+                                                  <institution>Philipps-Universität
+                                                  Marburg</institution>
+                                                  <repository>Deutsches
+                                                  Paul-Tillich-Archiv</repository>
+                                                  <idno>008E</idno>
+                                                  </msIdentifier>
+                                                  <physDesc>
+                                                  <p>Brief, eigenhändig</p>
+                                                  </physDesc>
+                                                  </msDesc>
+                                             </sourceDesc>
+                              </fileDesc>
+                              <encodingDesc>
+                                             <projectDesc>
+                                                  <p>online-Edition: Edition der Korrespondenz von
+                                                  Paul Tillich 1887-1933.</p>
+                                             </projectDesc>
+                                             <editorialDecl>
+                                                  <p>Die Ausgabe folgt folgenden Editorischen
+                                                  Richtlinien des DTA-Basisformats. Vgl.
+                                                  https://www.deutschestextarchiv.de/doku/basisformat/</p>
+                                             </editorialDecl>
+                              </encodingDesc>
+                              <profileDesc>
+                                             <correspDesc>
+                                                  <correspAction type="sent">
+                                                  <persName ref="#tillich_person_id__1310">Lucie
+                                                  Merrem</persName>
+                                                  <placeName ref="#tillich_place_id__356"
+                                                  >Potsdam</placeName>
+                                                  <date when="1906-11-17">17.11.1906</date>
+                                                  </correspAction>
+                                                  <correspAction type="received">
+                                                  <persName ref="#tillich_person_id__1928">Paul
+                                                  Tillich</persName>
+                                                  </correspAction>
+                                             </correspDesc>
+                                             <langUsage>
+                                                  <language ident="deu">Deutsch</language>
+                                             </langUsage>
+                              </profileDesc>
+                              <revisionDesc status="approved">
+                                             <change when="2022-04-26" who="PS">Intitale
+                                                  Auszeichnung des Transkripts</change>
+                                             <change when="2024-01-24" who="PS">Vorbereitende
+                                                  Endabnahme</change>
+                                             <change when="2024-02-12" who="EL">Endabnahme</change>
+                              </revisionDesc>
+               </teiHeader>
+               <text type="letter">
+                              <body>
+                                             <div type="writingSession">
+                                                  <pb n="1"/>
+                                                  <opener>
+                                                  <dateline><rs ref="#tillich_place_id__356"
+                                                  type="place">Potsdam</rs>, d. <date
+                                                  when="1906-11-17">17.11.06.</date></dateline>
+                                                  <salute>Lieber <rs ref="#tillich_person_id__1928"
+                                                  type="person">Freund</rs>!</salute>
+                                                  </opener>
+                                                  <p>Obgleich Du vor 8 Tagen schon eine ähnliche
+                                                  Kiste erhieltest, wird Dir diese dennoch nicht
+                                                  allzu unwillkommen sein. Bonbons,
+                                                  Pfefferminzdinger, Seife, Wein, Kognak, Odol,
+                                                  Heftpflaster stammt aus der wohlbekannten –
+                                                  Luisenapotheke, – Das schicken Dir <rs
+                                                  ref="#tillich_person_id__1311" type="person"
+                                                  >Paul</rs> u. ich. Das übrige <rs
+                                                  ref="#tillich_person_id__644" type="person"
+                                                  >Johanna</rs>. Wurst u. Spickgans, Porto u.s.w.
+                                                  ist geteiltes Geschenk. Hoffentlich kommt alles
+                                                  gut an. – Heute ist <rs
+                                                  ref="#tillich_person_id__644" type="person"
+                                                  >Joh.</rs> zum 1. Mal allein bei uns. Es ist
+                                                  reizend. Viele Grüße <pb n="2"/> von <rs
+                                                  ref="#tillich_person_id__1311" type="person"
+                                                  >Paul</rs> u. mir und einen guten
+                                                  <sic>Apetit</sic>.</p>
+                                                  <closer>
+                                                  <salute>D.</salute>
+                                                  <signed><hi rend="aq"><rs
+                                                  ref="#tillich_person_id__1310" type="person">Lucie
+                                                  Merrem</rs></hi>
+                                                  </signed>
+                                                  </closer>
+                                             </div>
+                              </body>
+               </text>
 </TEI>

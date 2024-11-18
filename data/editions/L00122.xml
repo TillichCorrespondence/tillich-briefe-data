@@ -1,104 +1,113 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00122">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Gottfried von Hanffstengel an Paul Tillich <lb/>vom 7. September
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Gottfried von Hanffstengel an Paul Tillich <lb/>vom 7. September
                1906</title>
-<author ref="#tillich_person_id__788">Gottfried von Hanffstengel</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+            <author ref="#tillich_person_id__788">Gottfried von Hanffstengel</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-<idno>bMS 649/147</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/147</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__788">Gottfried von Hanffstengel</persName>
-<placeName ref="#tillich_place_id__485">Bremervörde</placeName>
-<date when="1906-09-07">07.09.1906</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-03-06" who="PS">Intitale Auszeichnung des Transkripts</change>
-<change when="2024-01-23" who="PS">Vorbereitung zur Endabnahme</change>
-<change when="2024-02-12" who="EL">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline>
-<rs ref="#tillich_place_id__75" type="place">Bremervörde</rs>, <date when="1906-09-07">7. IX. 06.</date></dateline>
-<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Philosoph</rs>!</salute>
-</opener>
-<p>habe Dank für Deinen Brief<note type="ea">Nicht überliefert.</note>, der mich wieder
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__788">Gottfried von Hanffstengel</persName>
+               <placeName ref="#tillich_place_id__485">Bremervörde</placeName>
+               <date when="1906-09-07">07.09.1906</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-03-06" who="PS">Intitale Auszeichnung des Transkripts</change>
+         <change when="2024-01-23" who="PS">Vorbereitung zur Endabnahme</change>
+         <change when="2024-02-12" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__75" type="place">Bremervörde</rs>, <date
+                     when="1906-09-07">7. IX. 06.</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person"
+                  >Philosoph</rs>!</salute>
+            </opener>
+            <p>habe Dank für Deinen Brief<note type="ea">Nicht überliefert.</note>, der mich wieder
                an eine immer vorgehabte, aber nie zur Ausführung gekommene Pflicht erinnerte, der
-               mich jetzt aber so aus meinen Studien aufweckte, daß ich <rs ref="#tillich_person_id__1712" type="person">Schlatter's</rs>
-               Matthäus schleunigst
+               mich jetzt aber so aus meinen Studien aufweckte, daß ich <rs
+                  ref="#tillich_person_id__1712" type="person">Schlatter's</rs> Matthäus schleunigst
                zur Seite lege u Dich aufkläre. Du scheintest mir nämlich von einer falschen
                Voraussetzung auszugehen. Der erste Teil Deiner Vorstellung stimmt, der Garten u
-               meine <rs ref="#tillich_person_id__2171" type="person"><rs ref="#tillich_person_id__2181" type="person"><rs ref="#tillich_person_id__2182" type="person">Geschwister</rs></rs></rs> nebst einer kleinen Cousine beschäftigen mich
-               intensiv, der Garten, <del rend="s">d</del> indem ich ihm alles überflüssige Obst<pb n="2"/> entziehe, meine kleinen <rs ref="#tillich_person_id__2171" type="person"><rs ref="#tillich_person_id__2181" type="person"><rs ref="#tillich_person_id__2182" type="person">Geschwister</rs></rs></rs> u die Cousine, indem ich ihnen von
-               meiner Weisheit in den Sprachen etwas abgebe. Wenn du aber glaubst, ich fragte jeden
-               Arbeiter oder Handwerker, welchen Eindruck er von der Sixtinischen Madonna oder <rs ref="#tillich_person_id__2289" type="person">Mackensen's</rs> Ziege hat, so bist
+               meine <rs ref="#tillich_person_id__2171" type="person"><rs
+                     ref="#tillich_person_id__2181" type="person"><rs ref="#tillich_person_id__2182"
+                        type="person">Geschwister</rs></rs></rs> nebst einer kleinen Cousine
+               beschäftigen mich intensiv, der Garten, <del rend="s">d</del> indem ich ihm alles
+               überflüssige Obst<pb n="2"/> entziehe, meine kleinen <rs
+                  ref="#tillich_person_id__2171" type="person"><rs ref="#tillich_person_id__2181"
+                     type="person"><rs ref="#tillich_person_id__2182" type="person"
+                     >Geschwister</rs></rs></rs> u die Cousine, indem ich ihnen von meiner Weisheit
+               in den Sprachen etwas abgebe. Wenn du aber glaubst, ich fragte jeden Arbeiter oder
+               Handwerker, welchen Eindruck er von der Sixtinischen Madonna oder <rs
+                  ref="#tillich_person_id__2289" type="person">Mackensen's</rs> Ziege hat, so bist
                Du in einem schweren Irrtum. Also, Scherz beiseite, ich kann das Thema nicht
                bewältigen, es entspricht <del rend="s">s</del> nun mal meiner auf die Wirklichkeit
                gerichteten Natur auch sich so intensiv mit der Kunst, speziell der Malerei zu
@@ -112,60 +121,72 @@
                jetzt aktuell geworden ist durch die Entscheidung des Abgeordnetenhauses. Äußerungen
                verschiedener Parteien stehen mir zu Gebote. Schreibe mir doch bitte ob jemand sich
                dies Thema erwählt hat.<pb n="4"/> Etwas mehr als du Dir vorstellst, besinne ich mich
-               doch auf <del rend="s">d</del> mein 4. Semester. Ich schaffe <rs ref="#tillich_person_id__2082" type="person">Windelband's</rs>
-<rs ref="#tillich_work_id__29" type="book">Präludien</rs>, <rs ref="#tillich_person_id__1712" type="person">Schlatters</rs>
-<rs resp="#tillich_work_id__161" type="book">Glaube</rs>, die kleinen Propheten, die
-               Psalmen, u Matthäus. Außer mit <rs ref="#tillich_person_id__1712" type="person">Schlatters</rs>
-<rs resp="#tillich_work_id__161" type="book">Glaube</rs> denke ich mit allem fertig
+               doch auf <del rend="s">d</del> mein 4. Semester. Ich schaffe <rs
+                  ref="#tillich_person_id__2082" type="person">Windelband's</rs>
+               <rs ref="#tillich_work_id__29" type="book">Präludien</rs>, <rs
+                  ref="#tillich_person_id__1712" type="person">Schlatters</rs>
+               <rs resp="#tillich_work_id__161" type="book">Glaube</rs>, die kleinen Propheten, die
+               Psalmen, u Matthäus. Außer mit <rs ref="#tillich_person_id__1712" type="person"
+                  >Schlatters</rs>
+               <rs resp="#tillich_work_id__161" type="book">Glaube</rs> denke ich mit allem fertig
                zu werden. Meine Bibliothek hat sich auch etwas bereichert. Etwas treibe ich auch
-               Kirchengeschichte, mir liegt das Reformationszeitalter am Herzen (!), wozu ich <rs ref="#tillich_person_id__2848" type="person">Hausratz's</rs> <rs ref="#tillich__NWIRXR72" type="work">Luther</rs>
-               zur Erholung lese. Ein prachtvolles Werk ist es, so leicht u fein geschrieben u doch
-               merkt man die Forschung dahinter.</p>
-<p>Ganz so schlecht wie ich mich zu Anfang geschildert habe, bin ich<pb n="5"/> doch
+               Kirchengeschichte, mir liegt das Reformationszeitalter am Herzen (!), wozu ich <rs
+                  ref="#tillich_person_id__2848" type="person">Hausratz's</rs>
+               <rs ref="#tillich__NWIRXR72" type="work">Luther</rs> zur Erholung lese. Ein
+               prachtvolles Werk ist es, so leicht u fein geschrieben u doch merkt man die Forschung
+               dahinter.</p>
+            <p>Ganz so schlecht wie ich mich zu Anfang geschildert habe, bin ich<pb n="5"/> doch
                nicht. Als mir nämlich die Erkenntnis meines Unvermögens aufging schrieb ich eine
-               Postkarte <hi rend="sup">an Dich</hi> nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, jedoch ohne weitere Adresse, da ich sie
-               vergessen hatte. Außerdem fiel in die Zeit, es war wohl der <date when="1906-08-20">20. <del rend="s">Sept.</del> Aug</date>, Dein Geburtstag, zu dem ich Dir zu gratulieren mir erlaubte;
-               sogar ein griechischer Vers zierte die Karte <foreign xml:lang="grc">σοὶ δὲ θεοὶ τόσα δοῖεν, ὅσα φρεσὶ σῇσι μενούνας </foreign>, und ..... die Karte kam zurück. In meiner Verzweiflung fragte ich bei
-               meinem Lbb in <rs ref="#tillich_place_id__189" type="place">Halle</rs> an, ob er eine
-               Liste der Ferienadressen als Ferienchargierter besitze; Nein, auch der nicht, aber
-                  <rs ref="#tillich_person_id__2155" type="person">Voget</rs> wußte sie u schrieb
-               sie auch. Wieder wollte ich nun schreiben; aber kann<pb n="6"/> ein Sohn, der beinahe
-                  Knödelwirt geworden wäre, Briefe schreiben, wenn seine Eltern
-               in 8 Tagen ihre silberne Hochzeit feiern? Muß er nicht sich auf sich selbst setzen
-               und lange Gedichte verbrechen oder es wenigstens versuchen? Also ich kam nicht dazu,
-               u so gratuliere ich Dir jetzt, es kommt spät, aber "letzter, bester".</p>
-<p>Die Feiertage waren großartig, natürlich tat man nichts; 35 Personen waren wir bei
-               Tisch. Das Wetter begünstigte uns sehr. Einige Aufnahmen von da kann ich dir in <rs ref="#tillich_place_id__189" type="place">Halle</rs> zeigen.</p>
-<p>Vorigen Mittwoch feierten wir nochmal im Kreis der Inspektion<pb n="7"/> meines
-               <rs ref="#tillich_person_id__2806" type="person">Vaters</rs>. Von einigen Pastoren wurde ich auch schon angekeilt ich sollte für sie
-               predigen, übers Jahr werde ich dem kaum entgehen können. An den Konferenzen nehme ich
-               auch tätigen Anteil.</p>
-<p>Das Studium von <rs ref="#tillich_person_id__2082" type="person">Windelbands</rs>
-<rs ref="#tillich_work_id__29" type="book">Präludien</rs> macht mir sehr viel Spaß,
+               Postkarte <hi rend="sup">an Dich</hi> nach <rs ref="#tillich_place_id__37"
+                  type="place">Berlin</rs>, jedoch ohne weitere Adresse, da ich sie vergessen hatte.
+               Außerdem fiel in die Zeit, es war wohl der <date when="1906-08-20">20. <del rend="s"
+                     >Sept.</del> Aug</date>, Dein Geburtstag, zu dem ich Dir zu gratulieren mir
+               erlaubte; sogar ein griechischer Vers zierte die Karte <foreign xml:lang="grc">σοὶ δὲ
+                  θεοὶ τόσα δοῖεν, ὅσα φρεσὶ σῇσι μενούνας</foreign>, und ..... die Karte kam
+               zurück. In meiner Verzweiflung fragte ich bei meinem Lbb in <rs
+                  ref="#tillich_place_id__189" type="place">Halle</rs> an, ob er eine Liste der
+               Ferienadressen als Ferienchargierter besitze; Nein, auch der nicht, aber <rs
+                  ref="#tillich_person_id__2155" type="person">Voget</rs> wußte sie u schrieb sie
+               auch. Wieder wollte ich nun schreiben; aber kann<pb n="6"/> ein Sohn, der beinahe
+               Knödelwirt geworden wäre, Briefe schreiben, wenn seine Eltern in 8 Tagen ihre
+               silberne Hochzeit feiern? Muß er nicht sich auf sich selbst setzen und lange Gedichte
+               verbrechen oder es wenigstens versuchen? Also ich kam nicht dazu, u so gratuliere ich
+               Dir jetzt, es kommt spät, aber "letzter, bester".</p>
+            <p>Die Feiertage waren großartig, natürlich tat man nichts; 35 Personen waren wir bei
+               Tisch. Das Wetter begünstigte uns sehr. Einige Aufnahmen von da kann ich dir in <rs
+                  ref="#tillich_place_id__189" type="place">Halle</rs> zeigen.</p>
+            <p>Vorigen Mittwoch feierten wir nochmal im Kreis der Inspektion<pb n="7"/> meines <rs
+                  ref="#tillich_person_id__2806" type="person">Vaters</rs>. Von einigen Pastoren
+               wurde ich auch schon angekeilt ich sollte für sie predigen, übers Jahr werde ich dem
+               kaum entgehen können. An den Konferenzen nehme ich auch tätigen Anteil.</p>
+            <p>Das Studium von <rs ref="#tillich_person_id__2082" type="person">Windelbands</rs>
+               <rs ref="#tillich_work_id__29" type="book">Präludien</rs> macht mir sehr viel Spaß,
                sehr dankbar würde ich Dir sein, wenn du mir etwas angeben könntest, woraus ich etwas
                   <rs ref="#tillich_person_id__589" type="person">Fichte</rs> kennen lernen kann,
                für <rs ref="#tillich_person_id__1291" type="person">Medicus</rs> nämlich. Sehr
                dankbar <del rend="s">f</del> würde ich dir auch sein, wenn du dich aus deiner Höhe
                herabließest, um mit mir armen Stümper im nächsten Semester etwas<pb n="8"/>
-               Philosophisches zu lesen. <rs ref="#tillich_person_id__1712" type="person">Schlatters</rs>
-<rs ref="#tillich_work_id__161" type="book">"Glaube im NT"</rs> ist sehr schwer, ich
+               Philosophisches zu lesen. <rs ref="#tillich_person_id__1712" type="person"
+                  >Schlatters</rs>
+               <rs ref="#tillich_work_id__161" type="book">"Glaube im NT"</rs> ist sehr schwer, ich
                komme aber durch. Wenn ich mit Matthäus fertig bin, denke ich mit Johannes, ebenfalls
                nach <rs ref="#tillich_person_id__1712" type="person">Schlatter</rs>, anzufangen.</p>
-<p>Zum Lesen der deutschen Kulturgeschichte komme ich kaum, in der ersten Zeit etwas,
-               der Stoff liegt mir auch etwas fern; dagegen habe ich die 4 Hefte der Kosmosbibliothek fast durchstudiert.</p>
-<p>Gekneipt habe ich wenig, nur <unclear>¿¿¿</unclear> abends kegele ich mit den
+            <p>Zum Lesen der deutschen Kulturgeschichte komme ich kaum, in der ersten Zeit etwas,
+               der Stoff liegt mir auch etwas fern; dagegen habe ich die 4 Hefte der
+               Kosmosbibliothek fast durchstudiert.</p>
+            <p>Gekneipt habe ich wenig, nur <unclear>¿¿¿</unclear> abends kegele ich mit den
                Honoratioren der Stadt, aber deren Interessenkreis liegt meist anderswo.</p>
-<p>Jetzt kommt noch ein Geständnis, daß nämlich das vorige Se<pb n="9"/>mester mich erst
-               etwas <sic>zereist</sic> hat, es hat mir mehr gebracht, als ich in
-                  <rs ref="#tillich_place_id__448" type="place">Tübingen</rs> je gelernt hätte,
-               jetzt weiß ich erst, wozu ich auf der Welt u im Wingolf bin. Und das danke ich Dir,
-               fast Dir allein, habe herzlichen Dank. </p>
-<closer>
-<salute>Dir u Deinen Angehörigen sendet herzliche Grüße</salute>
-<signed>Dein treuer <rs ref="#tillich_person_id__788" type="person">G. v.
+            <p>Jetzt kommt noch ein Geständnis, daß nämlich das vorige Se<pb n="9"/>mester mich erst
+               etwas <sic>zereist</sic> hat, es hat mir mehr gebracht, als ich in <rs
+                  ref="#tillich_place_id__448" type="place">Tübingen</rs> je gelernt hätte, jetzt
+               weiß ich erst, wozu ich auf der Welt u im Wingolf bin. Und das danke ich Dir, fast
+               Dir allein, habe herzlichen Dank. </p>
+            <closer>
+               <salute>Dir u Deinen Angehörigen sendet herzliche Grüße</salute>
+               <signed>Dein treuer <rs ref="#tillich_person_id__788" type="person">G. v.
                      Hanffstengel</rs></signed>
-</closer>
-</div>
-</body>
-</text>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>
