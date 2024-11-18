@@ -271,12 +271,15 @@
           </div>
           <div type="level3">
             <head><code>&lt;figure/&gt;</code></head>
-            <p>Abbildungen und Zeichnungen in den Briefen werden nicht abgebildet, sondern lediglich
-              beschrieben. Dafür wird das Element <code>&lt;figure/&gt;</code> benutzt.</p>
-            <p>Beispiel: <code>&lt;figure&gt;&lt;figureDesc&gt;Ein Wegweiser nach &lt;rs
-                ref="#tillich_place_id__189" type="place"&gt;Halle&lt;/rs&gt;. Darüber fliegt eine
-                menschliche Gestalt in die angegebene
-                Richtung&lt;/figureDesc&gt;&lt;/figure&gt;</code></p>
+            <p>Abbildungen und Zeichnungen in den Briefen werden nicht visuell dargestellt, sondern
+              an der jeweiligen Stelle im Textfluss beschrieben. Die Beschreibung erfolgt in eckigen
+              Klammern und wird durch das Element <code>&lt;figure/&gt;</code> eingefügt. Alle
+              Beschreibungen beginnen mit der festen Struktur <code>[Darstellung: ...]</code> Dafür
+              wird das Element <code>&lt;figure/&gt;</code> benutzt.</p>
+            <p>Beispiel: <code>&lt;figure&gt;&lt;figureDesc&gt;[Darstellung: Ein Wegweiser nach
+                &lt;rs ref="#tillich_place_id__189" type="place"&gt;Halle&lt;/rs&gt;. Darüber fliegt
+                eine menschliche Gestalt in die angegebene
+                Richtung]&lt;/figureDesc&gt;&lt;/figure&gt;</code></p>
           </div>
           <div type="level3">
             <head><code>&lt;date/&gt;</code></head>
