@@ -1,100 +1,123 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00116">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von C. Nickelby an Paul Tillich <lb/>vom 19. August 1906 </title>
-<author ref="#tillich_person_id__2157">C. Nickelby</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
-                  1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
-                  Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-<idno>bMS 649/209(2)5</idno>
-</msIdentifier>
-<physDesc>
-<p>Postkarte, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
-               https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__2157">C. Nickelby</persName>
-<placeName ref="#tillich_place_id__111">Collinghorst</placeName>
-<date when="1906-08-19">19.08.1906</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2022-04-25" who="PS">Intitale Auszeichnung des Transkripts</change>
-<change when="2024-01-23" who="NH">Vorbereitung/Korrektur für die Endabnahme</change>
-<change when="2024-02-07" who="EL">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="postcard">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener> </opener>
-<p><hi rend="print">Gruss aus <rs ref="#tillich_place_id__111" type="place">Collinghorst</rs></hi> und herzlichen Glückwunsch zum
-               Geburtstage sendet Dir <rs ref="#tillich_person_id__2157" type="person">Nickelby</rs>,</p>
-<p>stud.<hi rend="uu">phil.</hi>in spe</p>
-<p>Ich arbeite verhältnismäßig wenig, aber immerhin etwas; wenigstens bin ich nicht mehr
-               so pessimistisch, wie ich es schon gewesen bin und werde es hoffentlich auch nicht
-               wieder. </p>
-<postscript>
-<p><add place="right">Was macht die Philosophie</add></p>
-<p><add place="left">Nächstens sollst Du brieflich mehr von mir hören</add></p>
-</postscript>
-</div>
-</body>
-</text>
+               <teiHeader>
+                              <fileDesc>
+                                             <titleStmt>
+                                                  <title>Postkarte von C. Nickelby an Paul Tillich
+                                                  <lb/>vom 19. August 1906 </title>
+                                                  <author ref="#tillich_person_id__2157">C.
+                                                  Nickelby</author>
+                                                  <respStmt>
+                                                  <resp>Editor</resp>
+                                                  <name key="https://orcid.org/0009-0003-9642-5125"
+                                                  >Paul Schömann</name>
+                                                  </respStmt>
+                                             </titleStmt>
+                                             <editionStmt>
+                                                  <edition>
+                                                  <title type="editionstitel">Edition der
+                                                  Korrespondenz von Paul Tillich 1887-1933</title>
+                                                  </edition>
+                                             </editionStmt>
+                                             <publicationStmt>
+                                                  <publisher>
+                                                  <name>Institut für Systematische Theologie und
+                                                  Religionswissenschaft</name>
+                                                  <address>
+                                                  <street>Schenkenstraße 8-10</street>
+                                                  <postCode>1010</postCode>
+                                                  <placeName ref="#tillich_place_id__470">
+                                                  <settlement>Wien</settlement>
+                                                  <country>Österreich</country>
+                                                  </placeName>
+                                                  </address>
+                                                  </publisher>
+                                                  <availability>
+                                                  <licence
+                                                  target="http://creativecommons.org/licenses/by-sa/4.0/"
+                                                  >Creative Commons Attribution 4.0 International
+                                                  (CC BY 4.0)</licence>
+                                                  </availability>
+                                             </publicationStmt>
+                                             <sourceDesc>
+                                                  <msDesc type="manuscript">
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <settlement ref="#tillich_place_id__82">Cambridge,
+                                                  MA</settlement>
+                                                  <institution>Harvard University</institution>
+                                                  <repository>Harvard Divinity School
+                                                  Library</repository>
+                                                  <collection>Tillich, Paul, 1886-1965. Papers,
+                                                  1894-1974.</collection>
+                                                  <idno>bMS 649/209(2)5</idno>
+                                                  </msIdentifier>
+                                                  <physDesc>
+                                                  <p>Postkarte, eigenhändig</p>
+                                                  </physDesc>
+                                                  </msDesc>
+                                             </sourceDesc>
+                              </fileDesc>
+                              <encodingDesc>
+                                             <projectDesc>
+                                                  <p>online-Edition: Edition der Korrespondenz von
+                                                  Paul Tillich 1887-1933.</p>
+                                             </projectDesc>
+                                             <editorialDecl>
+                                                  <p>Die Ausgabe folgt folgenden Editorischen
+                                                  Richtlinien des DTA-Basisformats. Vgl.
+                                                  https://www.deutschestextarchiv.de/doku/basisformat/</p>
+                                             </editorialDecl>
+                              </encodingDesc>
+                              <profileDesc>
+                                             <correspDesc>
+                                                  <correspAction type="sent">
+                                                  <persName ref="#tillich_person_id__2157">C.
+                                                  Nickelby</persName>
+                                                  <placeName ref="#tillich_place_id__111"
+                                                  >Collinghorst</placeName>
+                                                  <date when="1906-08-19">19.08.1906</date>
+                                                  </correspAction>
+                                                  <correspAction type="received">
+                                                  <persName ref="#tillich_person_id__1928">Paul
+                                                  Tillich</persName>
+                                                  </correspAction>
+                                             </correspDesc>
+                                             <langUsage>
+                                                  <language ident="deu">Deutsch</language>
+                                             </langUsage>
+                              </profileDesc>
+                              <revisionDesc status="approved">
+                                             <change when="2022-04-25" who="PS">Intitale
+                                                  Auszeichnung des Transkripts</change>
+                                             <change when="2024-01-23" who="NH"
+                                                  >Vorbereitung/Korrektur für die
+                                                  Endabnahme</change>
+                                             <change when="2024-02-07" who="EL">Endabnahme</change>
+                              </revisionDesc>
+               </teiHeader>
+               <text type="postcard">
+                              <body>
+                                             <div type="writingSession">
+                                                  <pb n="1"/>
+                                                  <opener> </opener>
+                                                  <p>[Gruss aus <rs
+                                                  ref="#tillich_place_id__111" type="place"
+                                                  >Collinghorst</rs>]<note type="ea">Der Text in eckigen Klammern ist gedruckt.</note> und herzlichen Glückwunsch
+                                                  zum Geburtstage sendet Dir <rs
+                                                  ref="#tillich_person_id__2157" type="person"
+                                                  >Nickelby</rs>, stud.<hi rend="uu">phil.</hi>in spe</p>
+                                                  <p>Ich arbeite verhältnismäßig wenig, aber
+                                                  immerhin etwas; wenigstens bin ich nicht mehr so
+                                                  pessimistisch, wie ich es schon gewesen bin und
+                                                  werde es hoffentlich auch nicht wieder.<note type="ea">Der nachfolgende Text befindet sich am linken Seitenrand der Karte.</note></p>
+                                                  <postscript>
+                                                  <p>Was macht die
+                                                                 Philosophie<note type="ea">Der nachfolgende Text befindet sich am rechten Seitenrand der Karte.</note></p>
+                                                  <p>Nächstens sollst Du brieflich
+                                                  mehr von mir hören</p>
+                                                  </postscript>
+                                             </div>
+                              </body>
+               </text>
 </TEI>
