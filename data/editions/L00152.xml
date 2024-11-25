@@ -1,107 +1,140 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00152">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Hermann Schafft an Paul Tillich <lb/>vom 26. März 1907 </title>
-<author ref="#tillich_person_id__1696">Hermann Schafft</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
-                  1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
-                  Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__279">Marburg</settlement>
-<institution>Philipps-Universität Marburg</institution>
-<repository>Deutsches Paul-Tillich-Archiv</repository>
-<idno>008G</idno>
-</msIdentifier>
-<physDesc>
-<p>Postkarte, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
-               https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
-<date when="1907-03-26">26.03.1907</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2022-11-14" who="PS">Intitale Auszeichnung des Transkripts</change>
-<change when="2023-10-03" who="EL">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="postcard">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline>d. <date when="1907-03-26">26. III.</date></dateline>
-<salute>L <rs ref="#tillich_person_id__1928" type="person">P.</rs>-</salute>
-</opener>
-<p>Bin ich dir noch fünf Pfennige wert, dann schreibe mir bitte eine Karte: allmählich
-               macht man sich Gedanken deinetwegen! -</p>
-</div>
-<div>
-<dateline><date when="1907-03-27">d. 27.</date></dateline>
-<opener>L. <rs ref="#tillich_person_id__1928" type="person">P.</rs>-</opener>
-<p>Meine Absicht bis heute mit dem Absenden der Karte zu warten - ist belohnt.. Es ist
-               nett, daß Du schreibst.. <hi rend="uu">Schon</hi> Dich doch nur ja sehr!!!! Hier ist
-               herrlicher Frühling - beinahe wird man faul!.. Daß <rs ref="#tillich_person_id__1050" type="person">Albert</rs> nach <rs ref="#tillich_place_id__37" type="place">Be.</rs> geht halte ich in einer Art <hi rend="u">für ausgezeichnet</hi>, doch sind Bedenken da: <foreign xml:lang="lat">pecunia</foreign> pp. Das ist doch
-               nicht so einfach zu machen. Auch ist ihm u. dem Berliner Wingolf das "Dort-Sein"
-               nicht <hi rend="u">schädlich</hi>. Freilich ist Gesundheit bei ihm u. nicht zu große
-               Borstigkeit auf der andern Seite - nötig. Sonst ist das x werden immer mal sehr
-               förderlich. - Daß du wieder die Schlußkneipe erwähnst: <foreign xml:lang="hbo">שָׁפֵנִי</foreign>|
-               - War es denn so schlimm? Nun weiß ich nicht, ob ich nochmal schreiben kann.
-               Vielleicht Ostern. - Bitte gieb mir aber hin u. wieder v. Deinem Befinden Nachricht. </p>
-<closer><salute>Gruß zu Hause!!</salute>
-<signed>D. tr. <rs ref="#tillich_person_id__1696" type="person">H.</rs></signed></closer>
-</div>
-</body>
-</text>
+               <teiHeader>
+                              <fileDesc>
+                                             <titleStmt>
+                                                  <title>Postkarte von Hermann Schafft an Paul
+                                                  Tillich <lb/>vom 26. März 1907 </title>
+                                                  <author ref="#tillich_person_id__1696">Hermann
+                                                  Schafft</author>
+                                                  <respStmt>
+                                                  <resp>Editor</resp>
+                                                  <name key="https://orcid.org/0009-0003-9642-5125"
+                                                  >Paul Schömann</name>
+                                                  </respStmt>
+                                             </titleStmt>
+                                             <editionStmt>
+                                                  <edition>
+                                                  <title type="editionstitel">Edition der
+                                                  Korrespondenz von Paul Tillich 1887-1933</title>
+                                                  </edition>
+                                             </editionStmt>
+                                             <publicationStmt>
+                                                  <publisher>
+                                                  <name>Institut für Systematische Theologie und
+                                                  Religionswissenschaft</name>
+                                                  <address>
+                                                  <street>Schenkenstraße 8-10</street>
+                                                  <postCode>1010</postCode>
+                                                  <placeName ref="#tillich_place_id__470">
+                                                  <settlement>Wien</settlement>
+                                                  <country>Österreich</country>
+                                                  </placeName>
+                                                  </address>
+                                                  </publisher>
+                                                  <availability>
+                                                  <licence
+                                                  target="http://creativecommons.org/licenses/by-sa/4.0/"
+                                                  >Creative Commons Attribution 4.0 International
+                                                  (CC BY 4.0)</licence>
+                                                  </availability>
+                                             </publicationStmt>
+                                             <sourceDesc>
+                                                  <msDesc type="manuscript">
+                                                  <msIdentifier>
+                                                  <country>Deutschland</country>
+                                                  <settlement ref="#tillich_place_id__279"
+                                                  >Marburg</settlement>
+                                                  <institution>Philipps-Universität
+                                                  Marburg</institution>
+                                                  <repository>Deutsches
+                                                  Paul-Tillich-Archiv</repository>
+                                                  <idno>008G</idno>
+                                                  </msIdentifier>
+                                                  <physDesc>
+                                                  <p>Postkarte, eigenhändig</p>
+                                                  </physDesc>
+                                                  </msDesc>
+                                             </sourceDesc>
+                              </fileDesc>
+                              <encodingDesc>
+                                             <projectDesc>
+                                                  <p>online-Edition: Edition der Korrespondenz von
+                                                  Paul Tillich 1887-1933.</p>
+                                             </projectDesc>
+                                             <editorialDecl>
+                                                  <p>Die Ausgabe folgt folgenden Editorischen
+                                                  Richtlinien des DTA-Basisformats. Vgl.
+                                                  https://www.deutschestextarchiv.de/doku/basisformat/</p>
+                                             </editorialDecl>
+                              </encodingDesc>
+                              <profileDesc>
+                                             <correspDesc>
+                                                  <correspAction type="sent">
+                                                  <persName ref="#tillich_person_id__1696">Hermann
+                                                  Schafft</persName>
+                                                  <date when="1907-03-26">26.03.1907</date>
+                                                  </correspAction>
+                                                  <correspAction type="received">
+                                                  <persName ref="#tillich_person_id__1928">Paul
+                                                  Tillich</persName>
+                                                  </correspAction>
+                                             </correspDesc>
+                                             <langUsage>
+                                                  <language ident="deu">Deutsch</language>
+                                             </langUsage>
+                              </profileDesc>
+                              <revisionDesc status="approved">
+                                             <change when="2022-11-14" who="PS">Intitale
+                                                  Auszeichnung des Transkripts</change>
+                                             <change when="2023-10-03" who="EL">Endabnahme</change>
+                              </revisionDesc>
+               </teiHeader>
+               <text type="postcard">
+                              <body>
+                                             <div type="writingSession">
+                                                  <pb n="1"/>
+                                                  <opener>
+                                                  <dateline>d. <date when="1907-03-26">26.
+                                                  III.</date></dateline>
+                                                  <salute>L <rs ref="#tillich_person_id__1928"
+                                                  type="person">P.</rs> –</salute>
+                                                  </opener>
+                                                  <p>Bin ich Dir noch fünf Pfennige wert, dann
+                                                  schreibe mir bitte eine Karte: allmählich macht
+                                                  man sich Gedanken Deinetwegen! –</p>
+                                             </div>
+                                             <div>
+                                                  <dateline><date when="1907-03-27">d.
+                                                  27.</date></dateline>
+                                                  <opener>L. <rs ref="#tillich_person_id__1928"
+                                                  type="person">P.</rs> –</opener>
+                                                  <p>Meine Absicht bis heute mit dem Absenden der
+                                                  Karte zu warten – ist belohnt.. Es ist nett, daß
+                                                  Du schreibst.. <hi rend="uu">Schon</hi> Dich doch
+                                                  nur ja sehr!!!! Hier ist herrlicher Frühling –
+                                                  beinahe wird man faul!.. Daß <rs
+                                                  ref="#tillich_person_id__1050" type="person"
+                                                  >Albert</rs> nach <rs ref="#tillich_place_id__37"
+                                                  type="place">Be.</rs> geht halte ich in einer Art
+                                                  <hi rend="u">für ausgezeichnet</hi>, doch sind
+                                                  Bedenken da: <foreign xml:lang="lat"
+                                                  >pecunia</foreign> pp. Das ist doch nicht so
+                                                  einfach zu machen. Auch ist ihm u. dem Berliner
+                                                  Wingolf das "Dort-Sein" nicht <hi rend="u"
+                                                  >schädlich</hi>. Freilich ist Gesundheit bei ihm
+                                                  u. nicht zu große Borstigkeit auf der andern Seite
+                                                  – nötig. Sonst ist das x werden immer mal sehr
+                                                  förderlich. – Daß du wieder die Schlußkneipe
+                                                  erwähnst: <foreign xml:lang="hbo"
+                                                  >שָׁפֵנִי</foreign>| – War es denn so schlimm? Nun
+                                                  weiß ich nicht, ob ich nochmal schreiben kann.
+                                                  Vielleicht Ostern. – Bitte gieb mir aber hin u.
+                                                  wieder v. Deinem Befinden Nachricht. </p>
+                                                  <closer><salute>Gruß zu Hause!!</salute>
+                                                  <signed>D. tr. <rs ref="#tillich_person_id__1696"
+                                                  type="person">H.</rs></signed></closer>
+                                             </div>
+                              </body>
+               </text>
 </TEI>
