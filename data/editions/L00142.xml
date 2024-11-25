@@ -1,147 +1,184 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00142">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Johanna Tillich und Johannes Tillich an Paul Tillich <lb/>vom 18.
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Johanna Tillich und Johannes Tillich an Paul Tillich <lb/>vom 18.
                Februar 1907 </title>
-<author ref="#tillich_person_id__644">Johanna Tillich</author>
-<author ref="#tillich_person_id__1924">Johannes Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+            <author ref="#tillich_person_id__644">Johanna Tillich</author>
+            <author ref="#tillich_person_id__1924">Johannes Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1885-1965. Papers, 1894-1974.</collection>
-<idno>bMS 649/193</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1885-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/193</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__644">Johanna Tillich</persName>
-<persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
-<placeName ref="#tillich_place_id__37">Berlin</placeName>
-<date when="1907-02-18">18.02.1907</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2022-05-02" who="PS">Intitale Auszeichnung des Transkripts</change>
-<change when="2024-01-31" who="PS">Vorbereitende Endabnahme</change>
-<change when="2024-02-13" who="EL">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div resp="#tillich_person_id__644">
-<pb n="1"/>
-<opener>
-<dateline>
-<rs ref="#tillich_place_id__37" type="place">Berlin</rs> d. <date when="1907-02-18">18.2.07</date></dateline>
-<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
-</opener>
-<p>nun bin ich heute zum ersten Mal ordentlich auf, und es geht mir auch so viel besser,
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__644">Johanna Tillich</persName>
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1907-02-18">18.02.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2022-05-02" who="PS">Intitale Auszeichnung des Transkripts</change>
+         <change when="2024-01-31" who="PS">Vorbereitende Endabnahme</change>
+         <change when="2024-02-13" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div resp="#tillich_person_id__644">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs> d. <date
+                     when="1907-02-18">18.2.07</date></dateline>
+               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person"
+                  >Paul</rs>,</salute>
+            </opener>
+            <p>nun bin ich heute zum ersten Mal ordentlich auf, und es geht mir auch so viel besser,
                daß ich Dir gleich ausführlicher schreiben will. Das waren böse Tage, die ich seit
                meinem Geburtstag im Bett verlebt habe. Dieser schreckliche Vorderzahn hat mich
                wirklich namenlos gequält, besonders in den Nächten. Ich glaube, ich lasse ihn nicht
                mehr lange drin. </p>
-<p>Eben war <rs ref="#tillich_person_id__2716" type="person"><hi rend="aq">Riedel</hi></rs> noch einmal hier und hat mich "besehen" und für ganz gut
+            <p>Eben war <rs ref="#tillich_person_id__2716" type="person"><hi rend="aq"
+                  >Riedel</hi></rs> noch einmal hier und hat mich "besehen" und für ganz gut
                   gefunden.<pb n="2"/></p>
-<p>Leider darf ich erst morgen hinaus gehen. – Diesen Umständen nach können <rs ref="#tillich_person_id__2085" type="person">Toni</rs> und ich uns noch nicht
+            <p>Leider darf ich erst morgen hinaus gehen. – Diesen Umständen nach können <rs
+                  ref="#tillich_person_id__2085" type="person">Toni</rs> und ich uns noch nicht
                bestimmt anmelden, doch denke ich, es wird doch etwas werden. Wir schreiben dann in
                den folgenden Tagen noch einmal. Hoffentlich bleibt das Wetter für uns so schön!</p>
-<p>Nun will ich Dir aber noch einmal danken für Dein Buch und den Brief<note type="ea">Nicht überliefert.</note>. Eins bitte ich Dich nur, fange Du nicht brieflich mit
+            <p>Nun will ich Dir aber noch einmal danken für Dein Buch und den Brief<note type="ea"
+                  >Nicht überliefert.</note>. Eins bitte ich Dich nur, fange Du nicht brieflich mit
                K. an über mich zu verhandeln. Ein dritter stört leicht. Ich hoffe, daß Du es noch
                nicht getan! Im übrigen hat K. weder zum Geburtstag noch sonst etwas seit 4 Wochen
                von sich hören lassen. Einesteils kann es mir ja nur <pb n="3"/> recht sein, wenn es
-               auch manchmal <hi rend="u">verletzt</hi>.- Bitte nichts davon erwähnen!</p>
-<p>Denke Dir, 7 Bücher habe ich noch erhalten: <hi rend="u"><hi rend="aq"><rs ref="#tillich__L2I3LCWD" type="work">Idealismus</rs></hi></hi> von <hi rend="aq"><hi rend="u"><rs ref="#tillich_person_id__2765" type="person">Muff</rs></hi></hi>. (von <rs ref="#tillich_person_id__2085" type="person"><hi rend="aq">Toni</hi></rs>) Er (<hi rend="aq"><rs ref="#tillich_person_id__2765" type="person">Muff</rs></hi>) selbst hat mir eine Widmung hineingeschrieben,
-               ich will ihm heute noch danken. <hi rend="u"><hi rend="aq">Gedichte</hi></hi> von <rs ref="#tillich_person_id__1320" type="person"><hi rend="u"><hi rend="aq">C. F.
-                        Meyer</hi></hi></rs> von <rs ref="#tillich_person_id__1924" type="person">Papa</rs>. <hi rend="aq"><hi rend="u"><rs ref="#tillich__5M4QLT7W" type="work">Islandfischer</rs></hi></hi> von <rs ref="#tillich_person_id__2766" type="person"><hi rend="aq">Pierre Loti</hi></rs> von <rs ref="#tillich_person_id__2196" type="person">Käte</rs>. – <hi rend="u"><hi rend="aq"><rs ref="#tillich__7S57SJP5" type="work">Hann Klüt</rs></hi></hi>
-               v. <rs ref="#tillich_person_id__2767" type="person"><hi rend="aq">G. Engel</hi></rs>
-               von <hi rend="aq"><rs ref="#tillich_person_id__2783" type="person">Käte Held</rs></hi>. – <hi rend="aq"><hi rend="u"><rs ref="#tillich__ZVJLPJX9" type="work">Vor 30 Jahren</rs></hi></hi> (<hi rend="aq"><rs ref="#tillich_person_id__2768" type="person">Auerbach</rs></hi>) v. <rs ref="#tillich_person_id__2225" type="person"><hi rend="aq">Eugenia</hi></rs>. – <hi rend="aq"><hi rend="u"><rs ref="#tillich_person_id__1349" type="person"><sic>Möricke</sic></rs></hi></hi> v. <rs ref="#tillich_person_id__2236" type="person">Tante <hi rend="aq">Else</hi></rs>. <sic>und</sic>
-<hi rend="aq">Gott grüße Dich</hi> (<hi rend="aq"><rs ref="#tillich_person_id__2769" type="person">Conrad</rs></hi>) von <rs ref="#tillich_person_id__2461" type="person"><hi rend="aq">M. v. Döring</hi></rs>.</p>
-<p>Außerdem habe ich noch soviel schöne Dinge erhalten! Wirklich viel zu viel: <add place="superlinear">Bilder</add>Mappe v. <hi rend="aq"><rs ref="#tillich_person_id__1600" type="person"/>Richter</hi>, <hi rend="aq"><rs ref="#tillich_person_id__2857" type="person">Rahel</rs></hi> u. <hi rend="aq"/>, 2 gr. Bilder mit Rahmen, <pb n="3"/>
-               Regenschirm, Briefbogen u.s.w. Die bewußte <unclear cert="medium">Schokolatha</unclear> bringe ich Dir mit; ich hätte Dir wieder ein Päckchen
-               geschickt, wenn ich nicht krank geworden. </p>
-<p>Aber nun noch eine große Freude für Dich. Heute morgen kam ein Brief von <rs ref="#tillich_person_id__2227" type="person">Tante Emma</rs> mit 300 <hi rend="aq">M</hi> für Dich zum <hi rend="aq">Dr</hi>. Ist das nicht reizend nett? Danke ihr
+               auch manchmal <hi rend="u">verletzt</hi>.– Bitte nichts davon erwähnen!</p>
+            <p>Denke Dir, 7 Bücher habe ich noch erhalten: <hi rend="u"><hi rend="aq"><rs
+                        ref="#tillich__L2I3LCWD" type="work">Idealismus</rs></hi></hi> von <hi
+                  rend="aq"><hi rend="u"><rs ref="#tillich_person_id__2765" type="person"
+                     >Muff</rs></hi></hi>. (von <rs ref="#tillich_person_id__2085" type="person"><hi
+                     rend="aq">Toni</hi></rs>) Er (<hi rend="aq"><rs ref="#tillich_person_id__2765"
+                     type="person">Muff</rs></hi>) selbst hat mir eine Widmung hineingeschrieben,
+               ich will ihm heute noch danken. <hi rend="u"><hi rend="aq">Gedichte</hi></hi> von <rs
+                  ref="#tillich_person_id__1320" type="person"><hi rend="u"><hi rend="aq">C. F.
+                        Meyer</hi></hi></rs> von <rs ref="#tillich_person_id__1924" type="person"
+                  >Papa</rs>. <hi rend="aq"><hi rend="u"><rs ref="#tillich__5M4QLT7W" type="work"
+                        >Islandfischer</rs></hi></hi> von <rs ref="#tillich_person_id__2766"
+                  type="person"><hi rend="aq">Pierre Loti</hi></rs> von <rs
+                  ref="#tillich_person_id__2196" type="person">Käte</rs>. – <hi rend="u"><hi
+                     rend="aq"><rs ref="#tillich__7S57SJP5" type="work">Hann Klüt</rs></hi></hi> v.
+                  <rs ref="#tillich_person_id__2767" type="person"><hi rend="aq">G. Engel</hi></rs>
+               von <hi rend="aq"><rs ref="#tillich_person_id__2783" type="person">Käte
+                  Held</rs></hi>. – <hi rend="aq"><hi rend="u"><rs ref="#tillich__ZVJLPJX9"
+                        type="work">Vor 30 Jahren</rs></hi></hi> (<hi rend="aq"><rs
+                     ref="#tillich_person_id__2768" type="person">Auerbach</rs></hi>) v. <rs
+                  ref="#tillich_person_id__2225" type="person"><hi rend="aq">Eugenia</hi></rs>. –
+                  <hi rend="aq"><hi rend="u"><rs ref="#tillich_person_id__1349" type="person"
+                           ><sic>Möricke</sic></rs></hi></hi> v. <rs ref="#tillich_person_id__2236"
+                  type="person">Tante <hi rend="aq">Else</hi></rs>. <sic>und</sic>
+               <hi rend="aq">Gott grüße Dich</hi> (<hi rend="aq"><rs ref="#tillich_person_id__2769"
+                     type="person">Conrad</rs></hi>) von <rs ref="#tillich_person_id__2461"
+                  type="person"><hi rend="aq">M. v. Döring</hi></rs>.</p>
+            <p>Außerdem habe ich noch soviel schöne Dinge erhalten! Wirklich viel zu viel: <add
+                  place="superlinear">Bilder</add>Mappe v. <hi rend="aq"><rs
+                     ref="#tillich_person_id__1600" type="person"/>Richter</hi>, <hi rend="aq"><rs
+                     ref="#tillich_person_id__2857" type="person">Rahel</rs></hi> u. <hi rend="aq"
+               />, 2 gr. Bilder mit Rahmen, <pb n="3"/> Regenschirm, Briefbogen u.s.w. Die bewußte
+                  <unclear cert="medium">Schokolatha</unclear> bringe ich Dir mit; ich hätte Dir
+               wieder ein Päckchen geschickt, wenn ich nicht krank geworden. </p>
+            <p>Aber nun noch eine große Freude für Dich. Heute morgen kam ein Brief von <rs
+                  ref="#tillich_person_id__2227" type="person">Tante Emma</rs> mit 300 <hi rend="aq"
+                  >M</hi> für Dich zum <hi rend="aq">Dr</hi>. Ist das nicht reizend nett? Danke ihr
                aber nicht dafür, weil sie es nicht Onkel wissen lassen möchte. Schreibe ihr einmal
                so und erzähle v. Deinem Studium. </p>
-<p>Also Du willst uns auch noch im nächsten Semester untreu sein u. in <rs ref="#tillich_place_id__189" type="place">H.</rs> bleiben. Ich freue mich aber für
+            <p>Also Du willst uns auch noch im nächsten Semester untreu sein u. in <rs
+                  ref="#tillich_place_id__189" type="place">H.</rs> bleiben. Ich freue mich aber für
                Dich! Wie schade, daß Deine nächsten Freunde nicht auch noch dort bleiben.
                Hoffentlich treffen wir Dich nicht <hi rend="u">zu</hi> elend an.</p>
-<p>Seit 3 Tagen ist <rs ref="#tillich_person_id__2354" type="person">Annas</rs> Mutter aus <rs ref="#tillich_place_id__398" type="place">Schönfließ</rs> hier bei uns, um den
-               Geburtstag (heute) v. <rs ref="#tillich_person_id__2354" type="person">Anna</rs> mit zu feiern. Die
-               Freude war groß.</p>
-<p>Nun aber Schluß! und hoffentlich auf Wiedersehen freitag!!! Herzl. Grüße
+            <p>Seit 3 Tagen ist <rs ref="#tillich_person_id__2354" type="person">Annas</rs> Mutter
+               aus <rs ref="#tillich_place_id__398" type="place">Schönfließ</rs> hier bei uns, um
+               den Geburtstag (heute) v. <rs ref="#tillich_person_id__2354" type="person">Anna</rs>
+               mit zu feiern. Die Freude war groß.<note type="ea">Der nachfolgende Text befindet
+                  sich am oberen Rand der Briefseite auf dem Kopf stehend.</note></p>
+            <p>Nun aber Schluß! und hoffentlich auf Wiedersehen freitag!!! Herzl. Grüße
                allerseits.</p>
-<closer>
-<salute>In herzl. Gedenken</salute>
-<signed>Deine Schwester <rs ref="#tillich_person_id__644" type="person">J</rs>.</signed>
-</closer>
-</div>
-<div resp="#tillich_person_id__1924">
-<opener><salute>Lieber Sohn!</salute></opener>
-<p>Ich danke Dir für Deinen Brief. Hoffentlich ist Euch d. Bummel gut bekommen, es war
+            <closer>
+               <salute>In herzl. Gedenken</salute>
+               <signed>Deine Schwester <rs ref="#tillich_person_id__644" type="person">J</rs>.<note
+                     type="ea">Der nachfolgende Text befindet sich am oberen Rand der ersten
+                     Briefseite auf dem Kopf stehend.</note></signed>
+            </closer>
+         </div>
+         <div resp="#tillich_person_id__1924">
+            <opener><salute>Lieber Sohn!</salute></opener>
+            <p>Ich danke Dir für Deinen Brief. Hoffentlich ist Euch d. Bummel gut bekommen, es war
                ja greuliches Wetter; e. Karte von Dir traf noch nicht ein. Schreibe umgehend ob d.
-                  <unclear cert="medium">Partie</unclear> Dir gut bekommen ist,– die Geldgabe von
+                  <unclear cert="medium">Partie</unclear> Dir gut bekommen ist, – die Geldgabe von
                Tante <rs ref="#tillich_person_id__2227" type="person">E.</rs> lege ich für Dich an;
-               wenn nicht zum Dr. Theol. kann sie vielleicht zum
-               Lizentiaten dienen.– Deine Wingolfsdogmatik<!-- <note type="ea">Wingolfsdogmatik</note>--> ist e. schwere Aufgabe, schreibe nicht zu
-               abstrakt,</p>
-<closer><salute>Gruß u. Kuß</salute><signed>D. tr. <rs ref="#tillich_person_id__1924" type="person">Vater</rs></signed></closer>
-</div>
-</body>
-</text>
+               wenn nicht zum Dr. Theol. kann sie vielleicht zum Lizentiaten dienen. – Deine
+               Wingolfsdogmatik<!-- <note type="ea">Wingolfsdogmatik</note>--> ist e. schwere
+               Aufgabe, schreibe nicht zu abstrakt,</p>
+            <closer><salute>Gruß u. Kuß</salute><signed>D. tr. <rs ref="#tillich_person_id__1924"
+                     type="person">Vater</rs></signed></closer>
+         </div>
+      </body>
+   </text>
 </TEI>
