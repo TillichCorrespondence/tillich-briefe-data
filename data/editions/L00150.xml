@@ -1,99 +1,102 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00150">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Hans Balke an Paul Tillich <lb/>vom 21. März 1907 </title>
-<author ref="#tillich_person_id__128">Hans Balke</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Hans Balke an Paul Tillich <lb/>vom 21. März 1907 </title>
+            <author ref="#tillich_person_id__128">Hans Balke</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-<idno>bMS 649/122(40)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/122(40)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__128">Hans Balke</persName>
-<placeName ref="#tillich_place_id__318">Neviges</placeName>
-<date when="1907-03-21">21.03.1907</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2022-05-03" who="PS">Intitale Auszeichnung des Transkripts</change>
-<change when="2023-10-03" who="EL">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline><rs ref="#tillich_place_id__318" type="place">Neviges</rs>, den <date when="1907-03-21">21. März 1907.</date></dateline>
-<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
-</opener>
-<p>Endlich komme ich dazu, Dir einen kurzen Gruss zu senden u. Dir zu zeigen, dass ich
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__128">Hans Balke</persName>
+               <placeName ref="#tillich_place_id__318">Neviges</placeName>
+               <date when="1907-03-21">21.03.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2022-05-03" who="PS">Intitale Auszeichnung des Transkripts</change>
+         <change when="2023-10-03" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#tillich_place_id__318" type="place">Neviges</rs>, den <date
+                     when="1907-03-21">21. März 1907.</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
+            </opener>
+            <p>Endlich komme ich dazu, Dir einen kurzen Gruss zu senden u. Dir zu zeigen, dass ich
                Dich nicht ganz vergessen habe.</p>
-<p>Hoffentlich warst Du in den Ferien bisher etwas fleissiger, als ich es sein konnte.
-               Ich habe zuerst mit <rs ref="#tillich_person_id__2091" type="person">Witte</rs> u. <rs ref="#tillich_person_id__2195" type="person">Häfele</rs> 2 herrliche Tage im <rs ref="#tillich_person_id__2535" type="place">Harz</rs> verlebt, dessen tiefe Winterlandschaft (1-4 m hoch Schnee!)
-               einen grossartigen Anblick bot; Du glaubst nicht, wie schnell der Ärger der letzten
-               Wochen u. all der Bundesstunk verflogen war! Eine solche Ausspannung tut doch recht
-               gut!</p>
-<p>Ich freue mich wirklich, den Kummer mal für ein paar Wochen los zu sein; nachher
+            <p>Hoffentlich warst Du in den Ferien bisher etwas fleissiger, als ich es sein konnte.
+               Ich habe zuerst mit <rs ref="#tillich_person_id__2091" type="person">Witte</rs> u.
+                  <rs ref="#tillich_person_id__2195" type="person">Häfele</rs> 2 herrliche Tage im
+                  <rs ref="#tillich_person_id__2535" type="place">Harz</rs> verlebt, dessen tiefe
+               Winterlandschaft (1-4 m hoch Schnee!) einen grossartigen Anblick bot; Du glaubst
+               nicht, wie schnell der Ärger der letzten Wochen u. all der Bundesstunk verflogen war!
+               Eine solche Ausspannung tut doch recht gut!</p>
+            <p>Ich freue mich wirklich, den Kummer mal für ein paar Wochen los zu sein; nachher
                geht's dann mit frischen Kräften ans Werk. Wir wollen nur sorgen, dass wir's im
                eigenen Neste mollig haben,<pb n="2"/> dann mag draussen der Kampf ruhig weitertoben.
                Ich glaube nicht, dass <del rend="s">wir</del> ernste Gefahr vor einer starken
@@ -106,32 +109,38 @@
                Selbstständigkeit der einzelnen Verbindungen verlangt. Die langen Prinzipkämpfe
                müssen, so nutzbringend sie auch oft dem Einzelnen sein mögen, doch auf die Dauer
                nach aussen sehr abstossend wirken. Ich glaube, wir haben getan was wir konnten, und
-               es ist jetzt unsre wichtigste Aufgabe, in <rs ref="#tillich_place_id__189" type="place">Halle</rs>
-               das begonnen Werk fortzuführen<pb n="3"/>und den Bau zu befestigen. Dort ist gewiss
-               noch Arbeit genug. Dem Wartburgfest sehe ich mit sehr gemischten Gefühlen entgegen,
-               hoffentlich legst Du Dir in den Ferien etwas Phlegma zu (ich gäbe Dir gern was ab!)
-               und <sic>sammeltst</sic> Kraft, auch Massloses ertragen zu können! Natürlich fest auf
-               der Sache bestehn, keinen Schritt breit nachgeben, aber nicht unnötig vor den Kopf
-               stossen – das legt man sonst als "Verständnislosigkeit" oder persönliche Gehässigkeit
-               aus. Also ruhig Blut auf der <rs ref="#tillich_place_id__467" type="place">Wartburg</rs>! Wir wollen dort keine Wiederholung der
-               Räubersynode! Verzeih mein freches Proleten, es ist nicht so schlimm gemeint.</p>
-<p>Mir macht es große Freude, mich etwas auf meine Charge vorzubereiten, wenn ich dabei
+               es ist jetzt unsre wichtigste Aufgabe, in <rs ref="#tillich_place_id__189"
+                  type="place">Halle</rs> das begonnen Werk fortzuführen<pb n="3"/>und den Bau zu
+               befestigen. Dort ist gewiss noch Arbeit genug. Dem Wartburgfest sehe ich mit sehr
+               gemischten Gefühlen entgegen, hoffentlich legst Du Dir in den Ferien etwas Phlegma zu
+               (ich gäbe Dir gern was ab!) und <sic>sammeltst</sic> Kraft, auch Massloses ertragen
+               zu können! Natürlich fest auf der Sache bestehn, keinen Schritt breit nachgeben, aber
+               nicht unnötig vor den Kopf stossen – das legt man sonst als "Verständnislosigkeit"
+               oder persönliche Gehässigkeit aus. Also ruhig Blut auf der <rs
+                  ref="#tillich_place_id__467" type="place">Wartburg</rs>! Wir wollen dort keine
+               Wiederholung der Räubersynode! Verzeih mein freches Proleten, es ist nicht so schlimm
+               gemeint.</p>
+            <p>Mir macht es große Freude, mich etwas auf meine Charge vorzubereiten, wenn ich dabei
                auch auf manche Schwierigkeiten stosse, die grösste ist wohl die Anleitung zu rechter
-               Verteilung von Studium u. Verbindungsarbeit. Im Archiv für<pb n="4"/>den xx fehlt
-               doch noch manches z.B. über den heutigen Stand der übrigen Korporationen. Material
-               für die letzte Entwickelung und den jetzigen Stand der Hall. Verbindung können wir ja
-               leicht beibringen. – Vormittags mache ich den schwachen Versuch, meiner bodenlosen
-               Unkenntnis des A.T. etwas zuleibe zu rücken; die Philosophie muss leider ganz
-               schlafen.</p>
-<p>Dir wünsche ich, dass Du mit dicken roten Backen und guter Gesundheit ins Semester
+               Verteilung von Studium u. Verbindungsarbeit. Im Archiv für<pb n="4"/>den xx<note
+                  type="ea">Im Wingolf steht das Kürzel xx für den Fuxmajor bzw. Zweitchangierten.
+                  Dieser ist  verantwortlich für neue ,Füxe‘. Vgl. <rs n="153"
+                     ref="#tillich_work_id__98" type="work">Neugebauer, Georg: Tillich im Wingolf,
+                     153</rs>.</note> fehlt doch noch manches z.B. über den heutigen Stand der
+               übrigen Korporationen. Material für die letzte Entwickelung und den jetzigen Stand
+               der Hall. Verbindung können wir ja leicht beibringen. – Vormittags mache ich den
+               schwachen Versuch, meiner bodenlosen Unkenntnis des A.T. etwas zuleibe zu rücken; die
+               Philosophie muss leider ganz schlafen.</p>
+            <p>Dir wünsche ich, dass Du mit dicken roten Backen und guter Gesundheit ins Semester
                kommst, u. dann wollen wir auch etwas vernünftiger leben als bisher. Meine Mutter
                ermahnt mich täglich, warnt vor Nervosität u. andern Schäden in späterer Zeit. Grüße
-               bitte alle deine Hausgenossen herzlich von mir, besonders Deinen lb. <rs ref="#tillich_person_id__1924" type="person">Vater</rs>.</p>
-<closer>
-<salute>In tr. Freundschaft Dein</salute>
-<signed><rs ref="#tillich_person_id__128" type="person">Hans B.</rs></signed>
-</closer>
-</div>
-</body>
-</text>
+               bitte alle deine Hausgenossen herzlich von mir, besonders Deinen lb. <rs
+                  ref="#tillich_person_id__1924" type="person">Vater</rs>.</p>
+            <closer>
+               <salute>In tr. Freundschaft Dein</salute>
+               <signed><rs ref="#tillich_person_id__128" type="person">Hans B.</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>
