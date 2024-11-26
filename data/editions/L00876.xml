@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Paul Tillich an Oskar Siebeck <lb/>vom 15. Juni 1926 </title>
+            <title>Postkarte von Paul Tillich an Oskar Siebeck <lb/>vom 15. Juni 1926 [PS]</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -109,15 +109,19 @@
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <opener>
-               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1780" type="person">Siebeck</rs>!</salute>
+            <opener><dateline><rs ref="#tillich_place_id__126" type="place">Dresden</rs>, Elisenstr. 11.<note type="ea">Handschriftlicher Vermerk: "<date when="1926-06-26">26. VI. 26</date>. beantw.</note></dateline>
+               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1780" type="person"
+                     >Siebeck</rs>!</salute>
             </opener>
-            <p>Haben Sie <hi rend="u">herzlichen</hi> Dank für <hi rend="u"><rs ref="L00874">Brief</rs></hi> und Geld. Die "<rs type="work" ref="#tillich__G8CYBFWE">Dämonen</rs>" wollen sich, wie es ihrem Wesen entspricht, noch immer nicht ganz
+            <p>Haben Sie <hi rend="u">herzlichen</hi> Dank für <hi rend="u"><rs ref="L00874" type="letter"
+               >Brief</rs></hi> und Geld. Die "<rs type="work" ref="#tillich__G8CYBFWE"
+                  >Dämonen</rs>" wollen sich, wie es ihrem Wesen entspricht, noch immer nicht ganz
                packen lassen. Doch bin ich ihnen schon sehr weitgehend auf den Leib gerückt. Auf
-               ihren Brief antworte ich in einigen Tagen.</p>
+               <sic>ihren</sic> Brief antworte ich in einigen Tagen.</p>
             <closer>
-               <salute>Mit bestem Gruß! </salute>
-               <signed>Ihr sehr ergebener <rs type="person" ref="#tillich_person_id__1928">P.
+               <salute>Mit bestem Gruß!<lb/>
+                  Ihr sehr ergebener</salute>
+               <signed><rs type="person" ref="#tillich_person_id__1928">P.
                      Tillich</rs>.</signed>
             </closer>
          </div>
