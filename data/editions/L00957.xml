@@ -3,7 +3,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Postkarte von Paul Tillich an Hannah Tillich <lb/>von 1928</title>
+<title>Brief von Paul Tillich an Hannah Tillich <lb/>verm. vom Mai 1928</title>
 <author ref="#tillich_person_id__1928">Paul Tillich</author>
 <respStmt>
 <resp>Editor</resp>
@@ -44,7 +44,7 @@
 <idno>bMS 721/2(24)</idno>
 </msIdentifier>
 <physDesc>
-<p>Postkarte, eigenhändig</p>
+<p>Brief, eigenhändig</p>
 </physDesc>
 </msDesc>
 </sourceDesc>
@@ -62,7 +62,7 @@
 <correspDesc>
 <correspAction type="sent">
 <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<date when="1928">1928</date>
+<date when="1928-05">05.1928</date>
 </correspAction>
 <correspAction type="received">
 <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
@@ -77,29 +77,30 @@
 <change when="2023-11-22" who="PS">Endabnahme</change>
 </revisionDesc>
 </teiHeader>
-<text type="postcard">
+<text type="letter">
 <body>
 <div type="writingSession">
 <pb n="1"/>
 <opener>
 <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
 </opener>
-<p>Ich sitze an Arnolds Schreibtisch und schreibe ein paar Worte, nachdem das
+               <p>Ich sitze an <rs ref="#tillich_person_id__2094" type="person">Arnolds</rs> Schreibtisch und schreibe ein paar Worte, nachdem das
                Telephongespräch leider nichts geworden ist. Also die Hauptsache: Ich habe gestern
-               und vorgestern mit dem Minister und Referenten gesprochen. Sie haben mich in <rs ref="#tillich_place_id__68" type="place">Bonn</rs> vorgeschlagen und denken daran,
+               und vorgestern mit dem <rs ref="#tillich_person_id__169" type="person">Minister</rs> und Referenten gesprochen. Sie haben mich in <rs ref="#tillich_place_id__68" type="place">Bonn</rs> vorgeschlagen und denken daran,
                mich in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> vorzuschlagen. (Wenn
                Du auch nur <hi rend="u">ein</hi> Wort darüber in <rs ref="#tillich_place_id__279" type="place">Marburg</rs> fallen läßt, ist beides kaput!!)
                Natürlich ganz unsicher, aber nicht unwahrscheinlich. Nach <rs ref="#tillich_place_id__206" type="place">Heppenheim</rs>
-<hi rend="u">muß</hi> ich. Es ist die Entscheidung. Nach <rs ref="#tillich_place_id__244" type="place">Köln</rs> fahr ich <hi rend="u">nicht</hi> wegen der
-               Verhandlungen in <rs ref="#tillich_place_id__68" type="place">Bonn</rs>. Bei <rs ref="#tillich_person_id__641" type="person">Frede</rs> ist es entzückend. Die neue
-               Wohnung von <unclear reason="illegible">¿¿¿</unclear> fabelhaft. Arnold ist mit der
+<hi rend="u">muß</hi> ich.<note type="ea">Gemeint ist die "Heppenheimer Tagung" der religiös-sozialistischen Bewegung in der Pfingstwoche 1928.</note> Es ist die Entscheidung. Nach <rs ref="#tillich_place_id__244" type="place">Köln</rs> fahr ich <hi rend="u">nicht</hi> wegen der
+               Verhandlungen in <rs ref="#tillich_place_id__68" type="place">Bonn</rs>. Bei <rs ref="#tillich_person_id__641" type="person">Frede</rs> ist es entzückend.<pb n="2"/> Die neue
+                              Wohnung von <rs ref="#tillich_person_id__2400" type="person">Doris</rs> fabelhaft. <rs ref="#tillich_person_id__2094" type="person">Arnold</rs> ist mit der
                Abzahlung an <rs ref="#tillich_person_id__688" type="person">Heinrich</rs>
                einverstanden!!</p>
 <p>Liebe süße <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>, ich muß
                Schluß machen! Schweige, schweige!!</p>
 <closer>
-<salute>Grüße die Eltern! In größter Eile</salute>
-<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+<salute>Grüße die Eltern! In größter Eile<lb/>
+Dein</salute>
+<signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
 </closer>
 </div>
 </body>
