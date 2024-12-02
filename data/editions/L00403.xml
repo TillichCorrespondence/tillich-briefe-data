@@ -1,148 +1,170 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00403">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Eilsabeth Tillich
-               <lb/>vom 17. November 1914</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Eilsabeth Tillich <lb/>vom 17. November 1914</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bms 649/143(13)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bms 649/143(13)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__61">Bieuxy</placeName>
-<date when="1914-11-17">17.11.1914</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1762">Eilsabeth Tillich</persName>
-<persName ref="#tillich_person_id__641">Alfred Fritz</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-04-13" who="AB">Initiale Auszeichnung des Transkripts</change>
-<change when="2023-05-09" who="AB">Überprüfung und Ergänzung der Auszeichnungen</change>
-<change when="2023-09-26" who="GM">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, d. <date when="1914-11-17">17 Nov.</date></dateline>
-<salute>L. <rs ref="#tillich_person_id__1762" type="person">E.</rs>!</salute>
-</opener>
-<p>Gestern erhielt ich <rs ref="#tillich_person_id__1924" type="person">Papas</rs> Brief mit den
-               verschiedenen Fragen. Also: Meine Division hat 2 Brigaden, die 13. und 14<hi rend="sup">te</hi>. Die 13<hi rend="sup">te</hi> befehligt General von <rs ref="#tillich_person_id__2307" type="person">Dreßler</rs>; dazu gehören die
-               Reg. 27 u. 36 (<rs ref="#tillich_place_id__189" type="place">Halle</rs>), außerdem
-               ein Bataillon Jäger Nr. 4 (<rs ref="#tillich_place_id__311" type="place">Naumburg</rs>) befehligt
-               von einem Oberstleutnant <rs ref="#tillich_person_id__2308" type="person">Kinzl</rs>. Zur 14 Brigade,
-               die befehligt wird von General <rs ref="#tillich_person_id__2320" type="person">v. Winkowsky</rs> gehören
-               die Regimenter 66 und 72, natürlich immer mit dem Zusatz: Reserve. Zur Division als
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__61">Bieuxy</placeName>
+               <date when="1914-11-17">17.11.1914</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1762">Eilsabeth Tillich</persName>
+               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-04-13" who="AB">Initiale Auszeichnung des Transkripts</change>
+         <change when="2023-05-09" who="AB">Überprüfung und Ergänzung der Auszeichnungen</change>
+         <change when="2023-09-26" who="GM">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, d. <date
+                     when="1914-11-17">17 Nov.</date></dateline>
+               <salute>L. <rs ref="#tillich_person_id__1762" type="person">E.</rs>!</salute>
+            </opener>
+            <p>Gestern erhielt ich <rs ref="#tillich_person_id__1924" type="person">Papas</rs> Brief
+               mit den verschiedenen Fragen. Also: Meine Division hat 2 Brigaden, die 13. und 14<hi
+                  rend="sup">te</hi>. Die 13<hi rend="sup">te</hi> befehligt General von <rs
+                  ref="#tillich_person_id__2307" type="person">Dreßler</rs>; dazu gehören die Reg.
+               27 u. 36 (<rs ref="#tillich_place_id__189" type="place">Halle</rs>), außerdem ein
+               Bataillon Jäger Nr. 4 (<rs ref="#tillich_place_id__311" type="place">Naumburg</rs>)
+               befehligt von einem Oberstleutnant <rs ref="#tillich_person_id__2308" type="person"
+                  >Kinzl</rs>. Zur 14 Brigade, die befehligt wird von General <rs
+                  ref="#tillich_person_id__2320" type="person">v. Winkowsky</rs> gehören die
+               Regimenter 66 und 72, natürlich immer mit dem Zusatz: Reserve. Zur Division als
                solcher gehört noch ein Kavallerieregiment, "schwere Reiter" d. h. ein
-               Reserveregiment zu den <rs ref="#tillich_place_id__188" type="place">Halberstädter</rs>
-               Kürassieren;
-               ferner ein Regiment Feldartillerie, Oberstleutnant <rs ref="#tillich_person_id__2321" type="person">Krubin</rs>, dann die "Große Bagage", Munitionskolonnen und
-               Fliegerabteilungen. Da das Höchstmögliche ein Batallion für den
-               Gottesdienst
-               ist<note type="ea">Ein preußisches Infanteriebataillon umfasste vor dem Krieg ca. 1000 Solaten und wurde während des Krieges auf ca. 650 Soldaten reduziert</note>,
-               könnt Ihr Euch denken, wieviel wir zu tun haben, wenn wir durchkommen wollen. Aber
-               natürlich ist die Infanterie lange nicht immer erreichbar. --<lb/> Der Kommandierende
-               des Korps ist Exz. <rs ref="#tillich_person_id__2322" type="person">von Gronau</rs>, der Armeeführer ist
-                  <rs ref="#tillich_person_id__2323" type="person">Kluck</rs>. Bei unserem Stabe befinden sich jetzt
-               folgende Leute, angeordnet nach unserm Sitzen bei Tisch: Links von <rs ref="#tillich_person_id__2322" type="person">Exz.</rs> der Generalstäbler Hauptmann <rs ref="#tillich_person_id__2324" type="person">Ahrens</rs>, der alles macht und faktisch die militärische Leitung der
-               Division hat, <rs ref="#tillich_person_id__2322" type="person">Exz.</rs> schwebt darüber, was aber im
-               Sinne eines Lobes gemeint <pb n="2"/> ist. <rs ref="#tillich_person_id__2324" type="person">Ahrens</rs>
-               ist ein Kraftmensch, wiegt über 2 Zentner, ohne darum dick zu sein, ist höchst
-               intelligent und hat einen unerschöpflichen Vorrat von Kraftausdrücken zur Verfügung;
-               er ist katholisch; neben ihm Rittmeister <rs ref="#tillich_person_id__2325" type="person">von
-                  Peskatore</rs>, lang, schneidig, <unclear cert="low" reason="illegible">Novarle</unclear>, absolut aristokratisch und unbedingt korrekt; dabei von den
-               weisesten Interessen, mir außerordentlich sympathisch, auch katholisch, Rittergut in
-                  <rs ref="#tillich_place_id__288" type="place">Mecklenburg</rs>; <del rend="s">dann</del> er
-               ist zweiter
-               Adjudant.
-               Dann der Kommandant unseres Quartiers, Oberleutnant <rs ref="#tillich_person_id__2326" type="person">Freud</rs>, Gutsbesitzer, schimpft auf Arbeiter, möchte nach Haus,
-               persönlich sehr liebenswürdig; auch katholisch. Dann der katholische Pfarrer
-                  <rs ref="#tillich_person_id__2327" type="person">Dietrich</rs>, schwarz gekleidet, zart,
-               liebenswürdig, fanatischer Franzosenhasser, scherzend, meistens nichts tuend. Dann
-               Gerichtssekretär <rs ref="#tillich_person_id__2328" type="person"><unclear>Hereike</unclear></rs>, brummig, fühlt sich nicht
-               wohl unter den Offizieren. Dann mein Kollege <rs ref="#tillich_person_id__109" type="person">Backhaus</rs>. Dann der Oberstabsarzt <rs ref="#tillich_person_id__2329" type="person">Rosental</rs>, nicht Jude, nicht ganz ohne zynischen Anstrich, aber riesig
-               liebenswürdig, will, daß ich nicht so viel arbeite. Dann der Kriegsgerichtsrat
-               <rs ref="#tillich_person_id__2330" type="person">Müller</rs>, sehr liebenswürdig, besonders am Anfang
-               nahm er sich meiner an. Dann ein Jägeroberleutnant <rs ref="#tillich_person_id__2363" type="person">Bogmann</rs>, in <rs ref="#tillich_place_id__238" type="place">Kiel</rs> Assessor,
-               zurückhaltend, klug, gewitzt. Dann <pb n="3"/> ein Herr von <rs ref="#tillich_person_id__2364" type="person"><unclear cert="medium" reason="illegible">Cordier</unclear></rs>,
-               Oberleutnant der Feldtelephonabteilung, Ingenieur bei Krupp, kennt <rs ref="#tillich_person_id__2197" type="person">Immanuel
-               Fritz</rs> sehr gut. Dann ich. Dann der Oberarzt <rs ref="#tillich_person_id__2373" type="person">Theel</rs>,
-               Adjudant des <rs ref="#tillich_person_id__2329" type="person">Oberstabsarztes</rs>, Freund von <rs ref="#tillich_person_id__2374" type="person">Richard Hafemann</rs> von der Pepi<unclear reason="illegible">¿¿¿</unclear> her. Dann Hauptmann <rs ref="#tillich_person_id__2375" type="person">Bolkansky</rs>,
-               der erste Adjudant zur Rechten von <rs ref="#tillich_person_id__2322" type="person">Exzellenz</rs>; das
-   sind der Knaben alle. Daß ich neben dem <rs ref="#tillich_person_id__2373">Oberarzt</rs> sitze, wird <rs ref="#tillich_person_id__1924" type="person">Papa</rs> gewiß freuen. Gestern bin ich nun auch Typhus-geimpft; es war
-               Kriegsbefehl; es tut ziemlich weh und verursacht etwas Fieber. – Mit <rs ref="#tillich_person_id__109" type="person">Backhaus</rs> wohne ich in einem Zimmer. Wir besprechen alles
-               und verteilen uns dann; jetzt arbeiten wir immer zusammen in den
-               Abendmahlsgottesdiensten; wenn möglich, nehmen wir noch einen
-               Lazarethpfarrer zur Hilfe, so habe ich neulich unter Assistenz eines
-               Lazarethpfarrers und eines Feldwebels, der Pastor ist, 740 Mann das
-               Abendmahl in einer Stunde gegeben, in einem Hofe, z.T. unter einer offenen Scheune.
-               Morgen, Bußtag ist hier Abendmahl; <rs ref="#tillich_person_id__109" type="person">Backhaus</rs> und ich
-               gehen auch. <rs ref="#tillich_person_id__109" type="person">Backhaus</rs> hält die Rede, ich die
-               Liturgie. Sonntag hatte ich einen anstrengenden Tag; erst hier beim Stabe
-               Gottesdienst, dann das große Abendmahl, wo ich <pb n="4"/> die Rede hatte. Dann am
+               Reserveregiment zu den <rs ref="#tillich_place_id__188" type="place"
+                  >Halberstädter</rs> Kürassieren; ferner ein Regiment Feldartillerie,
+               Oberstleutnant <rs ref="#tillich_person_id__2321" type="person">Krubin</rs>, dann die
+               "Große Bagage", Munitionskolonnen und Fliegerabteilungen. Da das Höchstmögliche ein
+               Batallion für den Gottesdienst ist<note type="ea">Ein preußisches Infanteriebataillon
+                  umfasste vor dem Krieg ca. 1000 Solaten und wurde während des Krieges auf ca. 650
+                  Soldaten reduziert</note>, könnt Ihr Euch denken, wieviel wir zu tun haben, wenn
+               wir durchkommen wollen. Aber natürlich ist die Infanterie lange nicht immer
+               erreichbar. – –</p>
+            <p> Der Kommandierende des Korps ist Exz. <rs ref="#tillich_person_id__2322"
+                  type="person">von Gronau</rs>, der Armeeführer ist <rs
+                  ref="#tillich_person_id__2323" type="person">Kluck</rs>. Bei unserem Stabe
+               befinden sich jetzt folgende Leute, angeordnet nach unserm Sitzen bei Tisch: Links
+               von <rs ref="#tillich_person_id__2322" type="person">Exz.</rs> der Generalstäbler
+               Hauptmann <rs ref="#tillich_person_id__2324" type="person">Ahrens</rs>, der alles
+               macht und faktisch die militärische Leitung der Division hat, <rs
+                  ref="#tillich_person_id__2322" type="person">Exz.</rs> schwebt darüber, was aber
+               im Sinne eines Lobes gemeint<pb n="2"/> ist. <rs ref="#tillich_person_id__2324"
+                  type="person">Ahrens</rs> ist ein Kraftmensch, wiegt über 2 Zentner, ohne darum
+               dick zu sein, ist höchst intelligent und hat einen unerschöpflichen Vorrat von
+               Kraftausdrücken zur Verfügung; er ist katholisch; neben ihm Rittmeister <rs
+                  ref="#tillich_person_id__2325" type="person">von Peskatore</rs>, lang, schneidig,
+                  <unclear cert="low" reason="illegible">Novarle</unclear>, absolut aristokratisch
+               und unbedingt korrekt; dabei von den weisesten Interessen, mir außerordentlich
+               sympathisch, auch katholisch, Rittergut in <rs ref="#tillich_place_id__288"
+                  type="place">Mecklenburg</rs>; <del rend="s">dann</del> er ist zweiter Adjudant.
+               Dann der Kommandant unseres Quartiers, Oberleutnant <rs
+                  ref="#tillich_person_id__2326" type="person">Freud</rs>, Gutsbesitzer, schimpft
+               auf Arbeiter, möchte nach Haus, persönlich sehr liebenswürdig; auch katholisch. Dann
+               der katholische Pfarrer <rs ref="#tillich_person_id__2327" type="person"
+                  >Dietrich</rs>, schwarz gekleidet, zart, liebenswürdig, fanatischer
+               Franzosenhasser, scherzend, meistens nichts tuend. Dann Gerichtssekretär <rs
+                  ref="#tillich_person_id__2328" type="person"><unclear>Hereike</unclear></rs>,
+               brummig, fühlt sich nicht wohl unter den Offizieren. Dann mein Kollege <rs
+                  ref="#tillich_person_id__109" type="person">Backhaus</rs>. Dann der Oberstabsarzt
+                  <rs ref="#tillich_person_id__2329" type="person">Rosental</rs>, nicht Jude, nicht
+               ganz ohne zynischen Anstrich, aber riesig liebenswürdig, will, daß ich nicht so viel
+               arbeite. Dann der Kriegsgerichtsrat <rs ref="#tillich_person_id__2330" type="person"
+                  >Müller</rs>, sehr liebenswürdig, besonders am Anfang nahm er sich meiner an. Dann
+               ein Jägeroberleutnant <rs ref="#tillich_person_id__2363" type="person">Bogmann</rs>,
+               in <rs ref="#tillich_place_id__238" type="place">Kiel</rs> Assessor, zurückhaltend,
+               klug, gewitzt. Dann<pb n="3"/> ein Herr von <rs ref="#tillich_person_id__2364"
+                  type="person"><unclear cert="medium" reason="illegible">Cordier</unclear></rs>,
+               Oberleutnant der Feldtelephonabteilung, Ingenieur bei Krupp, kennt <rs
+                  ref="#tillich_person_id__2197" type="person">Immanuel Fritz</rs> sehr gut. Dann
+               ich. Dann der Oberarzt <rs ref="#tillich_person_id__2373" type="person">Theel</rs>,
+               Adjudant des <rs ref="#tillich_person_id__2329" type="person">Oberstabsarztes</rs>,
+               Freund von <rs ref="#tillich_person_id__2374" type="person">Richard Hafemann</rs> von
+               der Pepi<unclear reason="illegible">¿¿¿</unclear> her. Dann Hauptmann <rs
+                  ref="#tillich_person_id__2375" type="person">Bolkansky</rs>, der erste Adjudant
+               zur Rechten von <rs ref="#tillich_person_id__2322" type="person">Exzellenz</rs>; das
+               sind der Knaben alle. Daß ich neben dem <rs ref="#tillich_person_id__2373"
+                  >Oberarzt</rs> sitze, wird <rs ref="#tillich_person_id__1924" type="person"
+                  >Papa</rs> gewiß freuen. Gestern bin ich nun auch Typhus-geimpft; es war
+               Kriegsbefehl; es tut ziemlich weh und verursacht etwas Fieber. – Mit <rs
+                  ref="#tillich_person_id__109" type="person">Backhaus</rs> wohne ich in einem
+               Zimmer. Wir besprechen alles und verteilen uns dann; jetzt arbeiten wir immer
+               zusammen in den Abendmahlsgottesdiensten; wenn möglich, nehmen wir noch einen
+               Lazarethpfarrer zur Hilfe, so habe ich neulich unter Assistenz eines Lazarethpfarrers
+               und eines Feldwebels, der Pastor ist, 740 Mann das Abendmahl in einer Stunde gegeben,
+               in einem Hofe, z. T. unter einer offenen Scheune. Morgen, Bußtag ist hier Abendmahl;
+                  <rs ref="#tillich_person_id__109" type="person">Backhaus</rs> und ich gehen auch.
+                  <rs ref="#tillich_person_id__109" type="person">Backhaus</rs> hält die Rede, ich
+               die Liturgie. Sonntag hatte ich einen anstrengenden Tag; erst hier beim Stabe
+               Gottesdienst, dann das große Abendmahl, wo ich<pb n="4"/> die Rede hatte. Dann am
                Nachmittag sollte ich in einem ziemlich entfernten Dorfe 2 Gefallene beerdigen; ich
                bekam ein Auto und blieb mit ihm stecken, ging zu den in der Nähe stehenden schweren
                Reitern, bat den Kommandeur um 10 Mann, die das Auto aus dem Dreck holten und für
@@ -150,52 +172,63 @@
                war schon gewesen, aß bei ein <sic>Paar</sic> Ärzten, die gefangen gewesen waren,
                Abendbrot, und ritt dann mit den Reitern (ich hatte 2 zur Begleitung bekommen)
                zurück. Beleuchtet wurde unser<del rend="s">er</del>
-<del rend="s">Sch<unclear reason="illegible">¿¿¿</unclear></del> Weg durch eine weiß-
+               <del rend="s">Sch<unclear reason="illegible">¿¿¿</unclear></del> Weg durch eine weiß-
                und rotglühende Scheune oben auf dem Berg, die am Morgen während meines
                Gottesdienstes in Brand geschossen war; wir hatten während meiner Rede die Granaten
                zischen hören. Wir ritten Schritt durch ein Tal und ich fing an, Choräle zu pfeifen
                und die beiden pfiffen und sangen mit während des ganzen Rittes; es war für mich wie
                ein sehr stimmungsvoller Gottesdienst. Im letzten Dorf gings dann in schnellem Trab
-               auf dem feinen Kavalleriepferd durch die Nacht. <pb n="5"/> Mein Schimmel bewährt
-               sich glänzend. Gestern ritt ich mit ihm 3½ Stunden durch Dreck und Regen schnellen
-               Trab und es schadete ihm nichts. – <hi rend="u">Für <rs ref="#tillich_person_id__1924" type="person">Papas</rs> Brief bin ich sehr dankbar</hi>, wie überhaupt für alles, was
-               von Hause kommt. So in manchen Dämmerungsstunden merkt man doch, daß man nicht zu
-               Hause ist, sondern recht weit in allerlei Schrecknissen. Da ist dann die Ankunft der
-               Post immer der große Moment, der entweder eine Freude oder eine Enttäuschung bringt.
-               Für die Zeitung bin ich sehr dankbar und bitte sehr, sie weiter zu bestellen. Heute
-               bekam ich die vom 13<hi rend="sup">ten</hi>, also nur 4 Tage Unterschied. Wichtige
-               Ereignisse erfahren wir durch Zeitungsdienst und Funksprüche sehr schnell, und sehr
-               schnell ist dann auch der Sekt da – trotz <rs ref="#tillich_person_id__641" type="person">Frede</rs>.
-               Vielen Dank für seine Briefe; sie sind beide angekommen. Von dem
-               <rs ref="#tillich_person_id__1931" type="person">Gret</rs>
-               habe ich einige ganz wundervolle Briefe bekommen, die immer meine ganze Wonne sind;
-               es scheint also, daß alles ankommt; auch von <rs ref="#tillich_person_id__2296" type="person">Eckhardt</rs> und <rs ref="#tillich_person_id__2381" type="person">Käthe Neumeister</rs> und
-               <rs ref="#tillich_person_id__2230" type="person">Edith</rs> kam was an, dito zwei Wingolfsbriefe, von denen einer eine Notiz
-               über mich und meinen Kanonenvortrag<!--identifizierbar?--> enthält. Was Sendungen
-               betrifft, so steht Hildebrandschokolade und "Buchstaben§ in erster
-               Linie, Sandtorte von <rs ref="#tillich_person_id__2227" type="person">Tante Emma</rs> und Quittenbrot von
-               <rs ref="#tillich_person_id__1931" type="person">Gret</rs>, waren auch <pb n="6"/><add place="superlinear"><hi rend="u">Schickt
-                     sofort 50-100 Briefumschläge!</hi></add> nicht unerwünscht. Sehr erquicklich
-               sind Dinge zum Knabbern in jeder Form und Gestalt. Zigarren an meinen Burschen
-                  <rs ref="#tillich_person_id__1742" type="person">Schröder</rs>, Offiziersbursche, Stab der 7.
-               Res.-Division sind hin und wieder gut; doch haben wir an solchen Dingen ziemlichen
-               Überfluß. Den neuen Waffenrock trage ich immer außer wenn ich
-               in Funktion trete. Talar und Lutherrock werden wohl in derselben Packung, wie
-               abgegangen, wieder zurückkommen. – Über Unvorsichtigkeit braucht <rs ref="#tillich_person_id__1924" type="person">Papa</rs> keine Angst zu haben, im Gegenteil, ich bin eher zu
+               auf dem feinen Kavalleriepferd durch die Nacht.<pb n="5"/> Mein Schimmel bewährt sich
+               glänzend. Gestern ritt ich mit ihm 3½ Stunden durch Dreck und Regen schnellen Trab
+               und es schadete ihm nichts. – <hi rend="u">Für <rs ref="#tillich_person_id__1924"
+                     type="person">Papas</rs> Brief bin ich sehr dankbar</hi>, wie überhaupt für
+               alles, was von Hause kommt. So in manchen Dämmerungsstunden merkt man doch, daß man
+               nicht zu Hause ist, sondern recht weit in allerlei Schrecknissen. Da ist dann die
+               Ankunft der Post immer der große Moment, der entweder eine Freude oder eine
+               Enttäuschung bringt. Für die Zeitung bin ich sehr dankbar und bitte sehr, sie weiter
+               zu bestellen. Heute bekam ich die vom 13<hi rend="sup">ten</hi>, also nur 4 Tage
+               Unterschied. Wichtige Ereignisse erfahren wir durch Zeitungsdienst und Funksprüche
+               sehr schnell, und sehr schnell ist dann auch der Sekt da – trotz <rs
+                  ref="#tillich_person_id__641" type="person">Frede</rs>. Vielen Dank für seine
+                  Briefe;<note type="ea">Liegen nicht vor.</note> sie sind beide angekommen. Von dem
+                  <rs ref="#tillich_person_id__1931" type="person">Gret</rs> habe ich einige ganz
+               wundervolle Briefe<note type="ea">Liegen nicht vor.</note> bekommen, die immer meine
+               ganze Wonne sind; es scheint also, daß alles ankommt; auch von <rs
+                  ref="#tillich_person_id__2296" type="person">Eckhardt</rs> und <rs
+                  ref="#tillich_person_id__2381" type="person">Käthe Neumeister</rs> und <rs
+                  ref="#tillich_person_id__2230" type="person">Edith</rs> kam was an, dito zwei
+                  Wingolfsbriefe,<note type="ea">Liegen nicht vor.</note> von denen einer eine Notiz
+               über mich und meinen Kanonenvortrag<note type="ea">Nicht überliefert.</note> enthält.
+               Was Sendungen betrifft, so steht Hildebrandschokolade und "Buchstaben" in erster
+               Linie, Sandtorte von <rs ref="#tillich_person_id__2227" type="person">Tante Emma</rs>
+               und Quittenbrot von <rs ref="#tillich_person_id__1931" type="person">Gret</rs>, waren
+                  auch<pb n="6"/> nicht unerwünscht. Sehr erquicklich sind Dinge zum Knabbern in
+               jeder Form und Gestalt. Zigarren an meinen Burschen <rs
+                  ref="#tillich_person_id__1742" type="person">Schröder</rs>, Offiziersbursche, Stab
+               der 7. Res.-Division sind hin und wieder gut; doch haben wir an solchen Dingen
+               ziemlichen Überfluß. Den neuen Waffenrock trage ich immer außer wenn ich in Funktion
+               trete. Talar und Lutherrock werden wohl in derselben Packung, wie abgegangen, wieder
+               zurückkommen. – Über Unvorsichtigkeit braucht <rs ref="#tillich_person_id__1924"
+                  type="person">Papa</rs> keine Angst zu haben, im Gegenteil, ich bin eher zu
                vorsichtig, was leicht zu falscher Ängstlichkeit führt. <lb/> Hier wurde bekannt, daß
-               in den Kämpfen vor <rs ref="#tillich_place_id__477" type="place">Ypern</rs> bis etwa vor 8 Tagen die
-               dort versammelten 10 Armeekorps 58000 Tote und Verwundete gehabt haben, eine
-               schreckliche Zahl. Hier sind neulich bei der 20 stündigen Kanonade, b. der die
-               Franzosen mindestens 20000 Granaten gegen einen Schützengraben warfen, 30 Leute
-               gefallen und 60 verwundet. Bei dem dann folgenden Angriff, der sehr schlapp war,
-               wurden die Franzosen ganz leicht zurückgeworfen und hatten ca 200 Tote und
+               in den Kämpfen vor <rs ref="#tillich_place_id__477" type="place">Ypern</rs> bis etwa
+               vor 8 Tagen die dort versammelten 10 Armeekorps 58000 Tote und Verwundete gehabt
+               haben, eine schreckliche Zahl. Hier sind neulich bei der 20 stündigen Kanonade, b.
+               der die Franzosen mindestens 20000 Granaten gegen einen Schützengraben warfen, 30
+               Leute gefallen und 60 verwundet. Bei dem dann folgenden Angriff, der sehr schlapp
+               war, wurden die Franzosen ganz leicht zurückgeworfen und hatten ca 200 Tote und
                Verwundete: Ein erstaunlicher Mißerfolg, der die Unfähigkeit der französischen
                Infanter. zeigt, die nicht mehr zum Sturm zu bringen ist.</p>
-<closer>
-<salute>Herzl. Gruß</salute>
-<signed>Dein tr. <rs ref="#tillich_person_id__1928" type="person">Paul</rs>. </signed>
-</closer>
-</div>
-</body>
-</text>
+            <closer>
+               <salute>Herzl. Gruß</salute> Dein tr. <signed><rs ref="#tillich_person_id__1928"
+                     type="person">Paul</rs>. </signed>
+            </closer>
+            <postscript>
+               <p><hi rend="u">Schickt sofort 50-100 Briefumschläge!</hi><note type="ea">Das
+                     Postskript befindet sich auf dem oberen Seitenrand der letzten
+                  Seite.</note></p>
+            </postscript>
+         </div>
+      </body>
+   </text>
 </TEI>
