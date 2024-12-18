@@ -1,398 +1,423 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00433">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Max Wölfing
-               <lb/>vom 4. Mai 1915
-            </title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0008-9645-8839">Leopold Potyka</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bMS 649/218(17)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__61">Bieuxy</placeName>
-<date when="1915-05-04">04.05.1915</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__2098">Max Wölfing</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2022-07-12" who="LP">Initiale Auszeichnung des Transkripts</change>
-<change when="2023-10-09" who="GM">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-Bericht an den <rs ref="#tillich_person_id__2098" type="person">Herrn Evangelischen Feldpropst der Armee</rs> 
-           für die Monate März und April 1915 von 
-           Dr. <rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs> Lic. theol. Feldprediger beim 
-           IV. Res-Korps. 7. Res-Division.<lb/>
-<dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, d. <date when="1915-05-04">4. Mai. 1915</date></dateline></opener>
-<p>Statistik der Gottesdienste</p>
-<table>
-<row>
-<cell>1.</cell>
-<cell>2<hi rend="sup">ter</hi></cell>
-<cell>März</cell>
-<cell>
-<rs ref="#tillich_place_id__100" type="place">Chavigny</rs>
-</cell>
-<cell>III. Battl. Res-Reg. 72.</cell>
-</row>
-<row>
-<cell>2.</cell>
-<cell>14<hi rend="sup">te</hi></cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>
-</cell>
-<cell>Divisionsstab, Artillerie, Infanterie etc.</cell>
-</row>
-<row>
-<cell>3.</cell>
-<cell>"</cell>
-<cell>"</cell>
-<cell>
-   <rs ref="#tillich_place_id__486" type="place">Mareuil-Ferme.</rs><note type="ea">Gemeint ist wahrscheinlich ein Bauernhof nord-östlich von <rs ref="#tillich_place_id__486" type="place">Épagny</rs> namens Ferme de Mareuil, der etwa drei Kilometer vom Dorfzentrum entfernt ist.</note>
-</cell>
-<cell>II. Battl. Res-Reg. 66.</cell>
-</row>
-<row>
-<cell>4.</cell>
-<cell>"</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__486" type="place">Epagny</rs>
-</cell>
-<cell>I. " "</cell>
-</row>
-<row>
-<cell>5.</cell>
-<cell>18.</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__460" type="place">Villers la Fosse</rs>
-</cell>
-<cell>Komp. Res-Reg. 72.</cell>
-</row>
-<row>
-<cell>6.</cell>
-<cell>19.</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__91" type="place">Champs</rs>
-</cell>
-<cell>Große Bagage.</cell>
-</row>
-<row>
-<cell>7.</cell>
-<cell>"</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__113" type="place">Crécy au Mont</rs>
-</cell>
-<cell>Schwere Reiter, Kolonnen etc.</cell>
-</row>
-<row>
-<cell>8.</cell>
-<cell>20</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__428" type="place">Tankourt</rs>
-</cell>
-<cell>Komp. Res-Jäger 4.</cell>
-</row>
-<row>
-<cell>9.</cell>
-<cell>"</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__100" type="place">Chavigny</rs>
-</cell>
-<cell>2 <sic>Kompagnien.</sic> Res-Reg. 72.</cell>
-</row>
-<row>
-<cell>10.</cell>
-<cell>21.</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__300" type="place">Mont-Ecouvé-Ferme</rs>
-</cell>
-<cell>III. Batt. Res-Reg. 36</cell>
-</row>
-<row>
-<cell>11.</cell>
-<cell>"</cell>
-<cell>"</cell>
-<cell>
-   <rs ref="#tillich_place_id__486" type="place">Mar.–Ferme</rs><note type="ea">s. Mareuil-Ferme.</note>
-</cell>
-<cell>II " " "</cell>
-</row>
-<row>
-<cell>12.</cell>
-<cell>"</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__486" type="place">Epagny</rs>
-</cell>
-<cell>I " " "</cell>
-</row>
-<row>
-<cell>13.</cell>
-<cell>22</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__344" type="place">Pasly-Höhle</rs>
-</cell>
-<cell><hi rend="aq">F-A-T</hi> I. Abt.</cell>
-</row>
-<row>
-<cell>14.</cell>
-<cell>24</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__100" type="place">Chavigny</rs>
-</cell>
-<cell>2 Komp. Res-Reg. 72.</cell>
-</row>
-<row>
-<cell>15.</cell>
-<cell>"</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__460" type="place">Villers la Fosse</rs>
-</cell>
-<cell>Komp. Res-Reg. 72.</cell>
-</row>
-<row>
-<cell>16.</cell>
-<cell>28.</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__460" type="place">"</rs>
-</cell>
-<cell>" " " "</cell>
-</row>
-<row>
-<cell>17.</cell>
-<cell>"</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__100" type="place">Chavigny</rs>
-</cell>
-<cell>2 Komp. " " " 2</cell>
-</row>
-<pb n="2"/>
-<row>
-<cell>18.</cell>
-<cell>31.</cell>
-<cell>März</cell>
-<cell>
-<rs ref="#tillich_place_id__460" type="place">Villers la Fosse</rs>
-</cell>
-<cell>Komp. Res-Reg. 72</cell>
-</row>
-<row>
-<cell>19.</cell>
-<cell>"</cell>
-<cell>"</cell>
-<cell>
-<unclear>
-<rs ref="#tillich_place_id__457" type="place">Vauveris</rs>
-</unclear>
-</cell>
-<cell>Komp. Res-Jäg. 4, Pioniere etc.</cell>
-</row>
-<row>
-<cell>20.</cell>
-<cell>1.</cell>
-<cell>April</cell>
-<cell>
-<rs ref="#tillich_place_id__261" type="place">Leuilly</rs>
-</cell>
-<cell>Munitions-Kolonnen.</cell>
-</row>
-<row>
-<cell>21.</cell>
-<cell>"</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__100" type="place">Chavigny-Höhle</rs>
-</cell>
-<cell>II. Battr. <hi rend="aq">F-A-T.</hi></cell>
-</row>
-<row>
-<cell>22.</cell>
-<cell>2.</cell>
-<cell>April</cell>
-<cell>
-<unclear>
-<rs ref="#tillich_place_id__640" type="place"><unclear>Bagneux</unclear></rs>
-</unclear>
-</cell>
-<cell>Sanitätskompagnie, Infanterie.</cell>
-</row>
-<row>
-<cell>23.</cell>
-<cell>"</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>
-</cell>
-<cell>Division etc.</cell>
-</row>
-<row>
-<cell>24.</cell>
-<cell>"</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__100" type="place">Chavigny</rs>
-</cell>
-<cell>2. Komp. Res-Reg. 72</cell>
-</row>
-<row>
-<cell>25.</cell>
-<cell>"</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__432" type="place">Tartiers</rs>
-</cell>
-<cell>II. Abt. <hi rend="aq">F-A-T.</hi></cell>
-</row>
-<row>
-<cell>26.</cell>
-<cell>4</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__300" type="place">Mont-Ekouvé</rs>
-</cell>
-<cell>III. Battl. Res-Reg. 66.</cell>
-</row>
-<row>
-<cell>27.</cell>
-<cell>"</cell>
-<cell>"</cell>
-<cell>
-   <rs ref="#tillich_place_id__486" type="place">Mar.–Ferme</rs><note type="ea">s. Mareuil-Ferme.</note>
-</cell>
-<cell>II " " " "</cell>
-</row>
-<row>
-<cell>28.</cell>
-<cell>"</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__486" type="place">Epagny</rs>
-</cell>
-<cell>I " " " "</cell>
-</row>
-<row>
-<cell>29.</cell>
-<cell>"</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__353" type="place">Pont-St. Mard</rs>
-</cell>
-<cell>Generalkommando.</cell>
-</row>
-<row>
-<cell>30.</cell>
-<cell>"</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__344" type="place">Pasly-Höhle</rs>
-</cell>
-<cell>I. Abt. <hi rend="aq">F-A-T.</hi></cell>
-</row>
-<row>
-<cell>31.</cell>
-<cell>5</cell>
-<cell>"</cell>
-<cell>
-<rs ref="#tillich_place_id__113" type="place">Crécy-au-Mont</rs>
-</cell>
-<cell>Kolonnen, <sic>Lazareth</sic> etc.</cell>
-</row>
-<row>
-<cell>32</cell>
-<cell>"</cell>
-<cell>"</cell>
-<cell><rs ref="#tillich_place_id__91" type="place">Champs</rs></cell>
-<cell>Große Bagage.</cell>
-</row>
-</table>
-<p>Außerdem Seelsorge im hiesigen <sic>Feldlazareth</sic>.</p>
-<p>7‒28. April Heimatsurlaub.</p>
-<p>Irgendwelche wesentlichen Veränderungen sind nicht eingetreten. Wechsel der Quartiere und demgemäß der Gottesdienststätten ist das einzige, was hin und wieder die Gleichmäßigkeit unterbricht. Der Predigtstoff war gegeben durch die Passions- und Osterzeit. Je länger jedoch die Lage unverändert bleibt, und selbst Gefechte kleinerer Art fehlen, desto schwieriger wird die Aufgabe der Kriegspredigt; desto mehr wird sie in Stoff und Ausführung der Friedenspredigt ähneln, desto mehr wird durch das Drängen der Massen nach Gottesdiensten traditioneller<pb n="3"/> Indifferenz Platz machen; äußerste Vorsicht ist schon jetzt geboten, um Überfütterung zu vermeiden. Das gilt übrigens von den Offizieren noch mehr als von den Mannschaften. Dennoch ist keine Ursache vorhanden, es an Arbeitsfreudigkeit fehlen zu lassen. Die Wirkungsmöglichkeiten sind extensiv und intensiv jeder denkbar günstigen Lage von Frieden immer noch weit überlegen, und die innersten Tiefen der Seele bleiben trotz aller Abstumpfung und Gewöhnung bewegter und darum empfänglicher für absolute Werte, als in irgend einer anderen Lage. Das Wesen des Geistes bleibt spürbar… wohin er geht, ist freilich verborgen. Wohl kaum – wie man vielleicht am Anfang hoffte – zu den Massen -
-       </p>
-<pb n="4"/>
-   <p>Äußerlich habe ich mich insofern verbessert, als ich durch die Freundlichkeit unseres <rs ref="#tillich_person_id__2140" type="person">Divisionsadjudanten</rs> ein Dokart<note type="ea">Ein Dogcart ist eine kleine Kutsche.</note> mit Pferd zur Verfügung gestellt bekommen habe: Eine ganz erhebliche Ersparnis von Arbeitskraft, statt reiten zu müssen, sich fahren zu lassen, die den Gottesdiensten zu Gute kommt.
-          </p>
-<closer>
-<salute>Gehorsamst</salute>
-<signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>. Pfarrer.</signed>
-</closer>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Max Wölfing <lb/>vom 4. Mai 1915 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0008-9645-8839">Leopold Potyka</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/218(17)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__61">Bieuxy</placeName>
+               <date when="1915-05-04">04.05.1915</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__2098">Max Wölfing</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2022-07-12" who="LP">Initiale Auszeichnung des Transkripts</change>
+         <change when="2023-10-09" who="GM">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener> Bericht an den <rs ref="#tillich_person_id__2098" type="person">Herrn
+                  Evangelischen Feldpropst der Armee</rs> für die Monate März und April 1915 von Dr.
+                  <rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs> Lic. theol.
+               Feldprediger beim IV. Res-Korps. 7. Res-Division.<lb/>
+               <dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, d. <date
+                     when="1915-05-04">4. Mai. 1915</date></dateline></opener>
+            <p>Statistik der Gottesdienste</p>
+            <table>
+               <row>
+                  <cell>1.</cell>
+                  <cell>2<hi rend="sup">ter</hi></cell>
+                  <cell>März</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__100" type="place">Chavigny</rs>
+                  </cell>
+                  <cell>III. Battl. Res-Reg. 72.</cell>
+               </row>
+               <row>
+                  <cell>2.</cell>
+                  <cell>14<hi rend="sup">te</hi></cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>
+                  </cell>
+                  <cell>Divisionsstab, Artillerie, Infanterie etc.</cell>
+               </row>
+               <row>
+                  <cell>3.</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__486" type="place">Mareuil-Ferme.</rs><note
+                        type="ea">Gemeint ist wahrscheinlich ein Bauernhof nord-östlich von <rs
+                           ref="#tillich_place_id__486" type="place">Épagny</rs> namens Ferme de
+                        Mareuil, der etwa drei Kilometer vom Dorfzentrum entfernt ist.</note>
+                  </cell>
+                  <cell>II. Battl. Res-Reg. 66.</cell>
+               </row>
+               <row>
+                  <cell>4.</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__486" type="place">Epagny</rs>
+                  </cell>
+                  <cell>I. " "</cell>
+               </row>
+               <row>
+                  <cell>5.</cell>
+                  <cell>18.</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__460" type="place">Villers la Fosse</rs>
+                  </cell>
+                  <cell>Komp. Res-Reg. 72.</cell>
+               </row>
+               <row>
+                  <cell>6.</cell>
+                  <cell>19.</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__91" type="place">Champs</rs>
+                  </cell>
+                  <cell>Große Bagage.</cell>
+               </row>
+               <row>
+                  <cell>7.</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__113" type="place">Crécy au Mont</rs>
+                  </cell>
+                  <cell>Schwere Reiter, Kolonnen etc.</cell>
+               </row>
+               <row>
+                  <cell>8.</cell>
+                  <cell>20</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__428" type="place">Tankourt</rs>
+                  </cell>
+                  <cell>Komp. Res-Jäger 4.</cell>
+               </row>
+               <row>
+                  <cell>9.</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__100" type="place">Chavigny</rs>
+                  </cell>
+                  <cell>2 <sic>Kompagnien.</sic> Res-Reg. 72.</cell>
+               </row>
+               <row>
+                  <cell>10.</cell>
+                  <cell>21.</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__300" type="place">Mont-Ecouvé-Ferme</rs>
+                  </cell>
+                  <cell>III. Batt. Res-Reg. 36</cell>
+               </row>
+               <row>
+                  <cell>11.</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__486" type="place">Mar.–Ferme</rs><note type="ea">s.
+                        Mareuil-Ferme.</note>
+                  </cell>
+                  <cell>II " " "</cell>
+               </row>
+               <row>
+                  <cell>12.</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__486" type="place">Epagny</rs>
+                  </cell>
+                  <cell>I " " "</cell>
+               </row>
+               <row>
+                  <cell>13.</cell>
+                  <cell>22</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__344" type="place">Pasly-Höhle</rs>
+                  </cell>
+                  <cell><hi rend="aq">F-A-T</hi> I. Abt.</cell>
+               </row>
+               <row>
+                  <cell>14.</cell>
+                  <cell>24</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__100" type="place">Chavigny</rs>
+                  </cell>
+                  <cell>2 Komp. Res-Reg. 72.</cell>
+               </row>
+               <row>
+                  <cell>15.</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__460" type="place">Villers la Fosse</rs>
+                  </cell>
+                  <cell>Komp. Res-Reg. 72.</cell>
+               </row>
+               <row>
+                  <cell>16.</cell>
+                  <cell>28.</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__460" type="place">"</rs>
+                  </cell>
+                  <cell>" " " "</cell>
+               </row>
+               <row>
+                  <cell>17.</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__100" type="place">Chavigny</rs>
+                  </cell>
+                  <cell>2 Komp. " " " 2</cell>
+               </row>
+               <pb n="2"/>
+               <row>
+                  <cell>18.</cell>
+                  <cell>31.</cell>
+                  <cell>März</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__460" type="place">Villers la Fosse</rs>
+                  </cell>
+                  <cell>Komp. Res-Reg. 72</cell>
+               </row>
+               <row>
+                  <cell>19.</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <unclear>
+                        <rs ref="#tillich_place_id__457" type="place">Vauveris</rs>
+                     </unclear>
+                  </cell>
+                  <cell>Komp. Res-Jäg. 4, Pioniere etc.</cell>
+               </row>
+               <row>
+                  <cell>20.</cell>
+                  <cell>1.</cell>
+                  <cell>April</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__261" type="place">Leuilly</rs>
+                  </cell>
+                  <cell>Munitions-Kolonnen.</cell>
+               </row>
+               <row>
+                  <cell>21.</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__100" type="place">Chavigny-Höhle</rs>
+                  </cell>
+                  <cell>II. Battr. <hi rend="aq">F-A-T.</hi></cell>
+               </row>
+               <row>
+                  <cell>22.</cell>
+                  <cell>2.</cell>
+                  <cell>April</cell>
+                  <cell>
+                     <unclear>
+                        <rs ref="#tillich_place_id__640" type="place"
+                           ><unclear>Bagneux</unclear></rs>
+                     </unclear>
+                  </cell>
+                  <cell>Sanitätskompagnie, Infanterie.</cell>
+               </row>
+               <row>
+                  <cell>23.</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>
+                  </cell>
+                  <cell>Division etc.</cell>
+               </row>
+               <row>
+                  <cell>24.</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__100" type="place">Chavigny</rs>
+                  </cell>
+                  <cell>2. Komp. Res-Reg. 72</cell>
+               </row>
+               <row>
+                  <cell>25.</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__432" type="place">Tartiers</rs>
+                  </cell>
+                  <cell>II. Abt. <hi rend="aq">F-A-T.</hi></cell>
+               </row>
+               <row>
+                  <cell>26.</cell>
+                  <cell>4</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__300" type="place">Mont-Ekouvé</rs>
+                  </cell>
+                  <cell>III. Battl. Res-Reg. 66.</cell>
+               </row>
+               <row>
+                  <cell>27.</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__486" type="place">Mar.–Ferme</rs><note type="ea">s.
+                        Mareuil-Ferme.</note>
+                  </cell>
+                  <cell>II " " " "</cell>
+               </row>
+               <row>
+                  <cell>28.</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__486" type="place">Epagny</rs>
+                  </cell>
+                  <cell>I " " " "</cell>
+               </row>
+               <row>
+                  <cell>29.</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__353" type="place">Pont-St. Mard</rs>
+                  </cell>
+                  <cell>Generalkommando.</cell>
+               </row>
+               <row>
+                  <cell>30.</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__344" type="place">Pasly-Höhle</rs>
+                  </cell>
+                  <cell>I. Abt. <hi rend="aq">F-A-T.</hi></cell>
+               </row>
+               <row>
+                  <cell>31.</cell>
+                  <cell>5</cell>
+                  <cell>"</cell>
+                  <cell>
+                     <rs ref="#tillich_place_id__113" type="place">Crécy-au-Mont</rs>
+                  </cell>
+                  <cell>Kolonnen, Lazareth etc.</cell>
+               </row>
+               <row>
+                  <cell>32</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+                  <cell><rs ref="#tillich_place_id__91" type="place">Champs</rs></cell>
+                  <cell>Große Bagage.</cell>
+               </row>
+            </table>
+            <p>Außerdem Seelsorge im hiesigen <sic>Feldlazareth</sic>.</p>
+            <p>7‒28. April Heimatsurlaub.</p>
+            <p>Irgendwelche wesentlichen Veränderungen sind nicht eingetreten. Wechsel der Quartiere
+               und demgemäß der Gottesdienststätten ist das einzige, was hin und wieder die
+               Gleichmäßigkeit unterbricht. Der Predigtstoff war gegeben durch die Passions- und
+               Osterzeit. Je länger jedoch die Lage unverändert bleibt, und selbst Gefechte
+               kleinerer Art fehlen, desto schwieriger wird die Aufgabe der Kriegspredigt; desto
+               mehr wird sie in Stoff und Ausführung der Friedenspredigt ähneln, desto mehr wird
+               durch das Drängen der Massen nach Gottesdiensten traditioneller<pb n="3"/>
+               Indifferenz Platz machen; äußerste Vorsicht ist schon jetzt geboten, um Überfütterung
+               zu vermeiden. Das gilt übrigens von den Offizieren noch mehr als von den
+               Mannschaften. Dennoch ist keine Ursache vorhanden, es an Arbeitsfreudigkeit fehlen zu
+               lassen. Die Wirkungsmöglichkeiten sind extensiv und intensiv jeder denkbar günstigen
+               Lage von Frieden immer noch weit überlegen, und die innersten Tiefen der Seele
+               bleiben trotz aller Abstumpfung und Gewöhnung bewegter und darum empfänglicher für
+               absolute Werte, als in irgend einer anderen Lage. Das Wesen des Geistes bleibt
+               spürbar... wohin er geht, ist freilich verborgen. Wohl kaum – wie man vielleicht am
+               Anfang hoffte – zu den Massen –<pb n="4"/></p>
+            
+            <p>Äußerlich habe ich mich insofern verbessert, als ich durch die Freundlichkeit unseres
+                  <rs ref="#tillich_person_id__2140" type="person">Divisionsadjudanten</rs> ein
+                  Dokart<note type="ea">Ein Dogcart ist eine kleine Kutsche.</note> mit Pferd zur
+               Verfügung gestellt bekommen habe: Eine ganz erhebliche Ersparnis von Arbeitskraft,
+               statt reiten zu müssen, sich fahren zu lassen, die den Gottesdiensten zu Gute kommt.</p>
+            <closer>
+               <salute>Gehorsamst</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.
+                  Pfarrer.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>
