@@ -1,96 +1,110 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01095">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Paul Tillich an Hannah Tillich
-                    <lb/>vom 4. März 1931 [PS]
-                </title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement>Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Hannah. Papers, 1896-1976</collection>
-<idno>bMS 721/3(1)</idno>
-</msIdentifier>
-<physDesc>
-<p>Postkarte, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__180">Goslar [PS]</placeName>
-<date when="1931-03-04">04.03.1931</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-<placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-04-19" who="FS">Initiale Auszeichnung des Transkripts</change>
-<change when="2023-11-29" who="FS">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="postcard">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-</opener>
-<p><date when="1931-03-03">Gestern Abend</date> Vortrag über Philosophie der Macht<note type="ea">Siehe dazu auch die <rs ref="L01094" type="letter">vorhergehende Karte</rs> Paul Tillichs an Hannah Tillich.</note> (Thema erfuhr ich erst Nachmittags) vor kleinem aber zum Teil guten Publikum. Die Leute sehr begeistert, ich sehr angestrengt. Nachher mehr gemütliches als ergiebiges Zusammensein, dann herrlicher Schlaf im Riesenzimmer. Heut früh das Allerschönste: 3 <formula notation="TeX">\frac{1}{2}</formula> Stunde in strahlendster Sonne durch Schneefelder und Wald. Ich habe zum ersten Mal bedauert, nicht Ski laufen zu können. Jetzt glühe ich am ganzen Körper trotz eisigem Ostwind. In der Ferne der Brocken. Im Ort unter Windschutz Hitze. Jetzt <pb n="2"/>Mittagessen, dann Abfahrt nach <rs ref="#tillich_place_id__180" type="place">Goslar</rs>. Man sollte wirklich Wintersport machen. Er lüftet aus, wie ein August in <rs ref="#tillich_place_id__230" type="place">Kampen</rs>.
-                </p>
-<closer>
-<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-</closer>
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 4. März 1931 [PS] </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                        <idno>bMS 721/3(1)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__180">Goslar [PS]</placeName>
+                    <date when="1931-03-04">04.03.1931</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                    <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2023-04-19" who="FS">Initiale Auszeichnung des Transkripts</change>
+            <change when="2023-11-29" who="FS">Endabnahme</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="postcard">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person"
+                        >Hannah</rs>!</salute>
+                </opener>
+                <p><date when="1931-03-03">Gestern Abend</date> Vortrag über Philosophie der
+                        Macht<note type="ea">Siehe dazu auch die <rs ref="L01094" type="letter"
+                            >vorhergehende Karte</rs> Paul Tillichs an Hannah Tillich.</note> (Thema
+                    erfuhr ich erst Nachmittags) vor kleinem aber zum Teil guten Publikum. Die Leute
+                    sehr begeistert, ich sehr angestrengt. Nachher mehr gemütliches als ergiebiges
+                    Zusammensein, dann herrlicher Schlaf im Riesenzimmer. Heut früh das
+                    Allerschönste: 3 ½ Stunde in
+                    strahlendster Sonne durch Schneefelder und Wald. Ich habe zum ersten Mal
+                    bedauert, nicht Ski laufen zu können. Jetzt glühe ich am ganzen Körper trotz
+                    eisigem Ostwind. In der Ferne der Brocken. Im Ort unter Windschutz Hitze. Jetzt<pb n="2"/> Mittagessen, dann Abfahrt nach <rs ref="#tillich_place_id__180"
+                        type="place">Goslar</rs>. Man sollte wirklich Wintersport machen. Er lüftet
+                    aus, wie ein August in <rs ref="#tillich_place_id__230" type="place"
+                    >Kampen</rs>. </p>
+                <closer>
+                    Dein <signed><rs ref="#tillich_person_id__1928" type="person"
+                        >Paul</rs>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
 </TEI>
