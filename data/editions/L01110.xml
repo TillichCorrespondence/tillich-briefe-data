@@ -1,97 +1,114 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01110">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Paul Tillich an Hannah Tillich
-                    <lb/>vom 28. September 1931 [PS]
-                </title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement>Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Hannah. Papers, 1896-1976</collection>
-<idno>bMS 721/3(1)</idno>
-</msIdentifier>
-<physDesc>
-<p>Postkarte, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__37">Berlin</placeName>
-<date when="1931-09-28">28.09.1931</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-<placeName ref="#tillich_place_id__236">Kassel</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-04-19" who="FS">Initiale Auszeichnung des Transkripts</change>
-<change when="2023-11-30" who="FS">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="postcard">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-</opener>
-<p>Nach 11 Stunden Sitzung fahre ich zu <rs ref="#tillich_person_id__641" type="person">Fredes</rs> Geburtstag nach <rs ref="#tillich_place_id__434" type="place">Teltow</rs>. <rs ref="#tillich_person_id__1209" type="person">Löwe</rs> bittet mich dringend, nicht <date when="1931-10-01">Donnerstag</date>, sondern <date when="1931-10-02"><hi rend="u">Freitag</hi></date> um 2 mit ihm nach <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> zu fahren. Bitte gib sofort Nachricht, ob etwas dagegen spricht, dann ginge es zur Not auch Donnerstag. – <date when="1931-09-27">Gestern</date> schöne Fahrt mit <rs ref="#tillich_person_id__846" type="person">Peter</rs>, dann Mittag und Kaffee bei <rs ref="#tillich_person_id__1924" type="person">Vaterchen</rs>. Nachmittag und Abend bei <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> <pb n="2"/>Nachher noch mit <rs ref="#tillich_person_id__1672" type="person">Emmy</rs> und ihren Leuten im Kaffee. (Alles ohne Auto).
-                </p>
-<closer>
-<salute>Kuß Dir und <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs>! Gruß den <rs ref="#tillich_person_id__2039" type="person"><rs ref="#tillich_person_id__2040" type="person">Eltern</rs></rs></salute>
-<signed>Euer <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-</closer>
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 28. September 1931 [PS] </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                        <idno>bMS 721/3(1)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__37">Berlin</placeName>
+                    <date when="1931-09-28">28.09.1931</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                    <placeName ref="#tillich_place_id__236">Kassel</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2023-04-19" who="FS">Initiale Auszeichnung des Transkripts</change>
+            <change when="2023-11-30" who="FS">Endabnahme</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="postcard">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person"
+                        >Hannah</rs>!</salute>
+                </opener>
+                <p>Nach 11 Stunden Sitzung fahre ich zu <rs ref="#tillich_person_id__641"
+                        type="person">Fredes</rs> Geburtstag nach <rs ref="#tillich_place_id__434"
+                        type="place">Teltow</rs>. <rs ref="#tillich_person_id__1209" type="person"
+                        >Löwe</rs> bittet mich dringend, nicht <date when="1931-10-01"
+                        >Donnerstag</date>, sondern <date when="1931-10-02"><hi rend="u"
+                            >Freitag</hi></date> um 2 mit ihm nach <rs ref="#tillich_place_id__143"
+                        type="place">Frankfurt</rs> zu fahren. Bitte gib sofort Nachricht, ob etwas
+                    dagegen spricht, dann ginge es zur Not auch Donnerstag. – <date
+                        when="1931-09-27">Gestern</date> schöne Fahrt mit <rs
+                        ref="#tillich_person_id__846" type="person">Peter</rs>, dann Mittag und
+                    Kaffee bei <rs ref="#tillich_person_id__1924" type="person">Vaterchen</rs>.
+                    Nachmittag und Abend bei <rs ref="#tillich_person_id__1762" type="person"
+                        >Elisabeth.</rs><pb n="2"/> Nachher noch mit <rs ref="#tillich_person_id__1672" type="person"
+                        >Emmy</rs> und ihren Leuten im Kaffee. (Alles ohne Auto)</p>
+                <closer>
+                    <salute>Kuß Dir und <rs ref="#tillich_person_id__570" type="person"
+                            >Erdmuthe</rs>! Gruß den <rs ref="#tillich_person_id__2039"
+                            type="person"><rs ref="#tillich_person_id__2040" type="person"
+                                >Eltern</rs></rs></salute>
+                    Euer <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
 </TEI>
