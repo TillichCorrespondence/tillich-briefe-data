@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Paul Tillich und Unbekannt an Hannah Tillich <lb/>vom 6. Dezember
+            <title>Postkarte von Paul Tillich und Hannes an Hannah Tillich <lb/>vom 6. Dezember
                1932 [PS]</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
@@ -63,6 +63,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__397">Schweiz</placeName>
                <date when="1930-12-06">06.12.1930</date>
             </correspAction>
             <correspAction type="received">
@@ -84,16 +85,22 @@
          <div type="erstehandschrift">
             <pb n="1"/>
             <opener>
-               <salute>Liebste <rs type="person" ref="#tillich_person_id__1923">Hannah</rs>!</salute>
+               <salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
+                  >Hannah</rs>!</salute>
             </opener>
-            <p>Der Tag war aufregend aber schön heut Abfahrt nach <rs type="place" ref="#tillich_place_id__31">Basel</rs>. <hi rend="u">Viele</hi> Menschen. Stimme
+            <p>Der Tag war aufregend aber schön heut Abfahrt nach <rs type="place"
+                  ref="#tillich_place_id__31">Basel</rs>. <hi rend="u">Viele</hi> Menschen. Stimme
                sehr schlecht. Sonst gut!</p>
             <closer>
                <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
             </closer>
          </div>
          <div type="zweitehandschrift">
-            <p>Wir haben uns riesig gefreut <rs type="person" ref="#tillich_person_id__1928">Paul</rs> hier zu sehen, hoffentlich sehen wir Dich auch bald in <rs type="place" ref="#tillich_place_id__143">Frankfurt</rs>. Dir und der lieben <rs type="person" ref="#tillich_person_id__570">Erdmuthe</rs> viele liebe Grüße von <unclear cert="medium">Hannes in Biel</unclear></p>
+            <p>Wir haben uns riesig gefreut <rs type="person" ref="#tillich_person_id__1928"
+                  >Paul</rs> hier zu sehen, hoffentlich sehen wir Dich auch bald in <rs type="place"
+                  ref="#tillich_place_id__143">Frankfurt</rs>. Dir und der lieben <rs type="person"
+                     ref="#tillich_person_id__570">Erdmuthe</rs> viele liebe Grüße von <rs type="person" ref="#tillich_person_id__3123">Hannes</rs> <unclear
+                     cert="medium">in</unclear> <rs type="place" ref="#tillich_place_id__678">Biel</rs></p>
          </div>
       </body>
    </text>

@@ -1,11 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01172">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Brief von Paul Tillich an Erich Seeberg 
-               <lb/>vom 11. Dezember 1932
-            </title>
+            <title>Brief von Paul Tillich an Erich Seeberg <lb/>vom 11. Dezember 1932 </title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -14,7 +12,8 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -30,8 +29,9 @@
                </address>
             </publisher>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc type="typescript">
@@ -44,15 +44,18 @@
                </msIdentifier>
                <physDesc>
                   <p>Brief, maschinenschriftlich</p>
-                  </physDesc>
-               <additional> 
+               </physDesc>
+               <additional>
                   <listBibl>
                      <biblStruct type="journal" n="firstPrint">
                         <monogr>
                            <author>Erdmann Sturm</author>
-                           <title>"Vielleicht kommen wir nun doch zu einer gemeinsamen Arbeit in Berlin". Paul Tillichs Briefe an Reinhold und Erich Seeberg (1924–1935)</title>
+                           <title>"Vielleicht kommen wir nun doch zu einer gemeinsamen Arbeit in
+                              Berlin". Paul Tillichs Briefe an Reinhold und Erich Seeberg
+                              (1924–1935)</title>
                            <imprint>
-                              <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace><pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+                              <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
                               <date when="2012">2012</date>
                               <biblScope>211–253, hier: 242f.</biblScope>
                            </imprint>
@@ -61,61 +64,95 @@
                            <title>International Yearbook for Tillich Research</title>
                            <biblScope>Bd. 7, H. 1</biblScope>
                         </series>
-                     </biblStruct>  
+                     </biblStruct>
                   </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <date when="1932-12-11">11.12.1932</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1760">Erich Seeberg</persName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="FS" when="2023-09-05">Initiale Auszeichnung des Transkripts</change>
-        <change who="FS" when="2024-01-11">Endabnahme</change>
-        
-     </revisionDesc>
-  </teiHeader>
-  <text type="letter">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-<dateline>d. <date when="1932-12-11">11. 12. 32</date></dateline>
-           <salute>Lieber Herr <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs>!</salute>
-        </opener>
-        <p>Herzlichen Dank für Ihren Brief<note type="ea">Dieser Brief liegt nicht vor.</note> und Ihre Mitteilungen. Darf ich mir einen Vorschlag erlauben, bei dem persönliches Interesse und sachliche Situation zusammen treffen. Ich habe ähnliches schon <rs ref="#tillich_person_id__1602" type="person">Richter</rs> vorgeschlagen, der aber aus etatrechtlichen Schwierigkeiten nicht heranwollte. In dem Augenblick, wo <hi rend="g"><rs ref="#tillich_person_id__2213" type="person">Titius</rs></hi> geht, ist die Lage verändert und mein Vorschlag wäre durchführbar:</p>
-<p>1. Ich übernehme als Religionsphilosoph resp. Religionswissenschaftler (so hiess ich auch in <rs ref="#tillich_place_id__126" type="place">Dresden</rs>) eine ordentliche oder ausserordentliche etatsmässige Professur in der theologischen Fakultät, die als Verbindungsprofessur zur Philosophie gedacht ist und die alte <rs ref="#tillich_person_id__1489" type="person">Pfleiderersche</rs> Tradition fortsetzt. Dazu wird die etatsmässige Stelle von <rs ref="#tillich_person_id__2213" type="person">Titius</rs> benutzt.</p>
-        <p>2. Um dem Oberkirchenrat entgegen zu kommen, wird ein Vertrag geschlossen, dass ich an den Prüfungen der Theologen nur als philosophischer Prüfer teilnehme, und dass ich in meinen Vorlesungen auf die eigentliche Dogmatik (Dogmatik II) oder wie es sonst definiert werden soll, verzichte.</p>
-        <p>3. Mit der Abhaltung der von <rs ref="#tillich_person_id__2213" type="person">Titius</rs> gehaltenen Vorlesung über Dogmatik II und den entsprechenden Übungen, sowie der Prüfung der Kandidaten in diesen Fächern wird <rs ref="#tillich_person_id__567" type="person">Fabricius</rs>, resp. <rs ref="#tillich_person_id__1870" type="person">Stolzenburg</rs> beauftragt. Bei dem grossen Überfluss an systematischen älteren Privatdozenten in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> und bei dem völligen Fehlen von Religionsphilosophie innerhalb der theologischen Fakultäten scheint mir das zum mindestens bis auf weiteres eine durchaus angemessene Lösung, die den Vorzug hätte, sich durchsetzen zu lassen und zugleich meinen eigentlichsten Wünschen und Fähigkeiten zu entsprechen. Bitte geben Sie mir doch Nachricht, ob solch ein Vorschlag irgend eine Aussicht auf Verwirklichung hätte.</p>
-        <p>Sind Sie am <date when="1933-01-07">Sonnabend, den 7.</date> oder <date when="1933-01-08">Sonntag, den 8. Januar</date> schon wieder in <rs ref="#tillich_place_id__37" type="place">Berlin</rs>? Wenn ja, könnten wir vielleicht Sonntag mittag zusammen sein.<note type="ea">So kam es auch. Tillich und Seeberg trafen sich am <date when="1933-01-08">8. Januar 1933</date>, vgl. auch die beiden <rs ref="L01189" type="letter"><rs ref="L01190" type="letter">Briefe Paul Tillichs an Hannah Tillich vom 7. Januar 1933</rs></rs>.</note>
-</p>
-        <closer>
-           <salute>Mit herzlichen Grüßen, besten Wünschen für Weihnachten (leicht neidisch wegen des Hauses in <rs ref="#tillich_place_id__7" type="place">Ahrenshoop</rs>)<lb/>
-bin ich<lb/>
-Ihr</salute>
-           <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
-        </closer>  
-     </div>
-    </body>
-  </text>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1932-12-11">11.12.1932</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1760">Erich Seeberg</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="FS" when="2023-09-05">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2024-01-11">Endabnahme</change>
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>d. <date when="1932-12-11">11. 12. 32</date></dateline>
+               <salute>Lieber Herr <rs ref="#tillich_person_id__1760" type="person"
+                  >Seeberg</rs>!</salute>
+            </opener>
+            <p>Herzlichen Dank für Ihren Brief<note type="ea">Liegt nicht vor.</note>
+               und Ihre Mitteilungen. Darf ich mir einen Vorschlag erlauben, bei dem persönliches
+               Interesse und sachliche Situation zusammen treffen. Ich habe ähnliches schon <rs
+                  ref="#tillich_person_id__1602" type="person">Richter</rs> vorgeschlagen, der aber
+               aus etatrechtlichen Schwierigkeiten nicht heranwollte. In dem Augenblick, wo <hi
+                  rend="g"><rs ref="#tillich_person_id__2213" type="person">Titius</rs></hi> geht,
+               ist die Lage verändert und mein Vorschlag wäre durchführbar:</p>
+            <p>1. Ich übernehme als Religionsphilosoph resp. Religionswissenschaftler (so hiess ich
+               auch in <rs ref="#tillich_place_id__126" type="place">Dresden</rs>) eine ordentliche
+               oder ausserordentliche etatsmässige Professur in der theologischen Fakultät, die als
+               Verbindungsprofessur zur Philosophie gedacht ist und die alte <rs
+                  ref="#tillich_person_id__1489" type="person">Pfleiderersche</rs> Tradition
+               fortsetzt. Dazu wird die etatsmässige Stelle von <rs ref="#tillich_person_id__2213"
+                  type="person">Titius</rs> benutzt.</p>
+            <p>2. Um dem Oberkirchenrat entgegen zu kommen, wird ein Vertrag geschlossen, dass ich
+               an den Prüfungen der Theologen nur als philosophischer Prüfer teilnehme, und dass ich
+               in meinen Vorlesungen auf die eigentliche Dogmatik (Dogmatik II) oder wie es sonst
+               definiert werden soll, verzichte.</p>
+            <p>3. Mit der Abhaltung der von <rs ref="#tillich_person_id__2213" type="person"
+                  >Titius</rs> gehaltenen Vorlesung über Dogmatik II und den entsprechenden Übungen,
+               sowie der Prüfung der Kandidaten in diesen Fächern wird <rs
+                  ref="#tillich_person_id__567" type="person">Fabricius</rs>, resp. <rs
+                  ref="#tillich_person_id__1870" type="person">Stolzenburg</rs> beauftragt. Bei dem
+               grossen Überfluss an systematischen älteren Privatdozenten in <rs
+                  ref="#tillich_place_id__37" type="place">Berlin</rs> und bei dem völligen Fehlen
+               von Religionsphilosophie innerhalb der theologischen Fakultäten scheint mir das zum
+               mindestens bis auf weiteres eine durchaus angemessene Lösung, die den Vorzug hätte,
+               sich durchsetzen zu lassen und zugleich meinen eigentlichsten Wünschen und
+               Fähigkeiten zu entsprechen. Bitte geben Sie mir doch Nachricht, ob solch ein
+               Vorschlag irgend eine Aussicht auf Verwirklichung hätte.</p>
+            <p>Sind Sie am <date when="1933-01-07">Sonnabend, den 7.</date> oder <date
+                  when="1933-01-08">Sonntag, den 8. Januar</date> schon wieder in <rs
+                  ref="#tillich_place_id__37" type="place">Berlin</rs>? Wenn ja, könnten wir
+               vielleicht Sonntag mittag zusammen sein.<note type="ea"><rs ref="#tillich_person_id__1928" type="person">Tillich</rs> und
+                  <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs> trafen sich am <date when="1933-01-08">8. Januar 1933</date>, vgl. auch
+                  die beiden <rs ref="L01189" type="letter"><rs ref="L01190" type="letter">Briefe
+                        Paul Tillichs an Hannah Tillich vom 7. Januar 1933</rs></rs>.</note>
+            </p>
+            <closer>
+               <salute>Mit herzlichen Grüßen, besten Wünschen für Weihnachten (leicht neidisch wegen
+                  des Hauses in <rs ref="#tillich_place_id__7" type="place">Ahrenshoop</rs>)<lb/>
+                  bin ich<lb/></salute> Ihr
+               <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>
