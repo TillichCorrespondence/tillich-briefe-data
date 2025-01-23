@@ -1,96 +1,139 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01188">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Paul Tillich an Hannah Tillich 
-               <lb/>vom 6. Januar 1933</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0007-2445-9093">Niklas von Hülsen</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82" type="place">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Hannah. Papers, 1896-1976.</collection>
-<idno>bMS 721/3(3)</idno>
-</msIdentifier>
-<physDesc>
-<p>Postkarte, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__37">Berlin</placeName>
-<date when="1933-01-06">06.01.1933</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-09-05" who="NH">Initiale Auszeichnung des Transkripts</change>
-<change when="2023-12-05" who="NH">Korrekturen zur Übung für Endabnahme</change>
-<change when="2023-12-05" who="FS">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="postcard">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<salute>Liebste <rs type="person">Hannah</rs>!</salute>
-</opener>
-<p>Toterschöpft fahre ich von der dritten Sitzung nach Hause. Darum habe ich zuletzt so wenig geschrieben. Die Karte von <rs ref="#tillich_person_id__2412" type="person">Wolfgang</rs> und seiner <hi rend="u">sehr</hi> netten Hallenser Freundin, <rs ref="#tillich_person_id__1498" type="person">Lilly</rs> und mir hast du wohl erhalten. Der Shaw, wo ich mit <rs ref="#tillich_person_id__1498" type="person">Lilly</rs> war, war als Stück schwach, als Dialog gut.<note type="ea">Bezieht sich auf ein nicht ermitteltes Theaterstück von <rs ref="#tillich_person_id__2605" type="person">George Bernard Shaw</rs>.</note> Gestern mit <rs ref="#tillich_person_id__2564" type="person">Kallen</rs> im Theater, ein interessantes, aber unwichtiges Stück. Nachher mit ihr noch lange gesessen und sehr interessant politisch gesprochen.<pb n="2"/> Heute mit <rs ref="#P01889" type="person">Eckart</rs> im islamischen Museum. Nach Tisch eine Stunde mit <rs ref="#tillich_person_id__2020" type="person">Dox</rs>. Dann von 5-<formula notation="TeX">\frac{1}{2}</formula> Sitzungen. Morgen und übermorgen nur noch Sitzungen. <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> Dank für ihren Brief!<note type="ea">Dieser Brief liegt nicht vor.</note> Ich schreibe noch! 
-        </p>
-<closer>
-<salute>Viele liebe Grüße!</salute>
-<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-</closer>
-</div>
-</body>
-</text>
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 6.
+                                        Januar 1933 [PS]</title>
+                                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                                <respStmt>
+                                        <resp>Editor</resp>
+                                        <name key="https://orcid.org/0009-0007-2445-9093">Niklas von
+                                                Hülsen</name>
+                                </respStmt>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <title type="editionstitel">Edition der Korrespondenz von
+                                                Paul Tillich 1887-1933</title>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <publisher>
+                                        <name>Institut für Systematische Theologie und
+                                                Religionswissenschaft</name>
+                                        <address>
+                                                <street>Schenkenstraße 8-10</street>
+                                                <postCode>1010</postCode>
+                                                <placeName ref="#tillich_place_id__470">
+                                                  <settlement>Wien</settlement>
+                                                  <country>Österreich</country>
+                                                </placeName>
+                                        </address>
+                                </publisher>
+                                <availability>
+                                        <licence
+                                                target="http://creativecommons.org/licenses/by-sa/4.0/"
+                                                >Creative Commons Attribution 4.0 International (CC
+                                                BY 4.0)</licence>
+                                </availability>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc type="manuscript">
+                                        <msIdentifier>
+                                                <country>USA</country>
+                                                <settlement ref="#tillich_place_id__82" type="place"
+                                                  >Cambridge, MA</settlement>
+                                                <institution>Harvard University</institution>
+                                                <repository>Harvard Divinity School
+                                                  Library</repository>
+                                                <collection>Tillich, Hannah. Papers,
+                                                  1896-1976.</collection>
+                                                <idno>bMS 721/3(3)</idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Postkarte, eigenhändig</p>
+                                        </physDesc>
+                                </msDesc>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <projectDesc>
+                                <p>online-Edition: Edition der Korrespondenz von Paul Tillich
+                                        1887-1933.</p>
+                        </projectDesc>
+                        <editorialDecl>
+                                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des
+                                        DTA-Basisformats. Vgl.
+                                        https://www.deutschestextarchiv.de/doku/basisformat/</p>
+                        </editorialDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName ref="#tillich_person_id__1928">Paul
+                                                Tillich</persName>
+                                        <placeName ref="#tillich_place_id__37">Berlin</placeName>
+                                        <date when="1933-01-06">06.01.1933</date>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName ref="#tillich_person_id__1923">Hannah
+                                                Tillich</persName>
+                                </correspAction>
+                        </correspDesc>
+                        <langUsage>
+                                <language ident="deu">Deutsch</language>
+                        </langUsage>
+                </profileDesc>
+                <revisionDesc status="approved">
+                        <change when="2023-09-05" who="NH">Initiale Auszeichnung des
+                                Transkripts</change>
+                        <change when="2023-12-05" who="NH">Korrekturen zur Übung für
+                                Endabnahme</change>
+                        <change when="2023-12-05" who="FS">Endabnahme</change>
+                </revisionDesc>
+        </teiHeader>
+        <text type="postcard">
+                <body>
+                        <div type="writingSession">
+                                <pb n="1"/>
+                                <opener>
+                                        <salute>Liebste <rs type="person"
+                                                  ref="#tillich_person_id__1923"
+                                                >Hannah</rs>!</salute>
+                                </opener>
+                                <p>Toterschöpft fahre ich von der dritten Sitzung nach Hause. Darum
+                                        habe ich zuletzt so wenig geschrieben. Die Karte<note
+                                                type="ea">Liegt nicht vor.</note> von <rs
+                                                ref="#tillich_person_id__2412" type="person"
+                                                >Wolfgang</rs> und seiner <hi rend="u">sehr</hi>
+                                        netten Hallenser Freundin, <rs
+                                                ref="#tillich_person_id__1498" type="person"
+                                                >Lilly</rs> und mir hast du wohl erhalten. Der Shaw,
+                                        wo ich mit <rs ref="#tillich_person_id__1498" type="person"
+                                                >Lilly</rs> war, war als Stück schwach, als Dialog
+                                                gut.<note type="ea">Bezieht sich auf ein nicht
+                                                ermitteltes Theaterstück von <rs
+                                                  ref="#tillich_person_id__2605" type="person"
+                                                  >George Bernard Shaw</rs>.</note> Gestern mit <rs
+                                                ref="#tillich_person_id__2564" type="person"
+                                                >Kallen</rs> im Theater, ein interessantes, aber
+                                        unwichtiges Stück. Nachher mit ihr noch lange gesessen und
+                                        sehr interessant politisch gesprochen.<pb n="2"/> Heute mit
+                                                <rs ref="#tillich_person_id__1887" type="person"
+                                                >Eckart</rs> im islamischen Museum. Nach Tisch eine
+                                        Stunde mit <rs ref="#tillich_person_id__2020" type="person"
+                                                >Dox</rs>. Dann von 5-½ Sitzungen. Morgen und
+                                        übermorgen nur noch Sitzungen. <rs
+                                                ref="#tillich_person_id__570" type="person"
+                                                >Erdmuthe</rs> Dank für ihren Brief<note type="ea"
+                                                >Liegt nicht vor.</note> Ich schreibe noch!</p>
+                                <closer>
+                                        <salute>Viele liebe Grüße!</salute> Dein <signed><rs
+                                                  ref="#tillich_person_id__1928" type="person"
+                                                  >Paul</rs></signed>
+                                </closer>
+                        </div>
+                </body>
+        </text>
 </TEI>
