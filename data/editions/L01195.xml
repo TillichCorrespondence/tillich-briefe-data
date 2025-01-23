@@ -1,11 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01195">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Brief von Paul Tillich an Kurt Leese
-               <lb/>vom 20. Februar 1933
-            </title>
+            <title>Brief von Paul Tillich an Kurt Leese <lb/>vom 20. Februar 1933 </title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -14,7 +12,8 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -30,67 +29,101 @@
                </address>
             </publisher>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc type="typescript">
-               <msIdentifier><!--???-->
+               <msIdentifier>
                   <country>Germany</country>
                   <collection>Privatbesitz Hans-Joachim Mähl</collection>
                </msIdentifier>
                <physDesc>
                   <p>Brief, maschinenschriftlich</p>
-                  </physDesc>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <date when="1933-02-20">20.02.1933</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1154">Kurt Leese</persName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="FS" when="2024-03-28">Initiale Auszeichnung des Transkripts und Endabnahme</change>
-        
-     </revisionDesc>
-  </teiHeader>
-  <text type="letter">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <dateline>d. <date when="1933-02-20">20.2.33</date></dateline>
-           <salute>Lieber <rs ref="#tillich_person_id__1154" type="person">Kurt</rs>!</salute>
-        </opener>
-        <p>Hab herzlichen Dank für die Uebersendung der "Christlichen Welt" und für Deine Karte<note type="ea">Diese Karte liegt nicht vor</note>. Durch die Aufsätze<note type="ea">Gemeint sind zwei Besprechungen von Leeses Buch "<rs ref="#tillich__FL58Z4YY" type="work">Die Krisis und Wende des christlichen Geistes</rs>": <rs ref="#tillich__8GYA5NHD" type="work">Franz, Krisis des Christentums?</rs>, sowie <rs ref="#tillich__NZBGG3A9" type="work">Mulert, Leeses Stellung zum Christentum</rs>.</note> in der Christl. Welt bist Du als profilierte theologische Persönlichkeit in die Oeffentlichkeit eingerückt, worüber ich mich sehr freue. Ebenso freue ich mich über Deinen Bericht, nach dem es Dir als Dozent sehr gut gehen muss.</p>
-        <p>Neulich fragte mich die Christl. Welt an, ob ich das <rs ref="#tillich__2SZ4XNXN" type="work">Buch</rs> von Dr. <rs ref="#tillich_person_id__15" type="person">Wiesengrund</rs>, meinem hiesigen Privatdozenten, über <rs ref="#tillich_person_id__1049" type="person">Kierkegaard</rs> rezensieren will. Ich habe gebeten, es Dir zu geben. Falls es kommen sollte, nimm es bitte an, es ist ausserordentlich scharfsinnig und jedem Geschwätz über diese Dinge weit überlegen.<note type="ea">Diese Rezension scheint nicht zustande gekommen zu sein.</note> Ausserdem ist es ein durchgängiger Angriff auf die dialektische Theologie und der Versuch einer Rettung des Aesthetischen bei <rs ref="#tillich_person_id__1049" type="person">K.</rs> gegen <rs ref="#tillich_person_id__1049" type="person">K.</rs> selbst.</p>
-        <p>Ich hab in diesem Semester den Versuch gemacht, eigene systematische Probleme zu entwickeln und habe die Grundlegung einer existentialgeschichtlichen Methode versucht, d.h. eine Verbindung dessen, was die Existentialphilosophie will mit der Kairos-Idee, dem Bewusstsein um das Stehen in der geschichtlichen Entscheidung. Es ergeben sich daraus eine Fülle interessanter Probleme, die ich hoffentlich einmal entfalten kann. Auf der Tagung der Kant-Gesellschaft in Halle in den Pfingstferien soll ich über das Problem "Idealismus und geschichtliche Existenz" ein Referat halten.<note type="ea">Siehe auch den <rs ref="L01235" type="letter">Brief Paul Tillichs an Ernst Cassirer vom 7. Juli 1933</rs>.</note> Ich hoffe, dass wir uns daselbst wiedersehen werden.</p>
-        <p>Die politische Lage wirkt als ein schwerer Druck auf mich. Ich habe das Gefühl eines kommenden Unheils, das auf keine Weise mehr aufzuhalten ist. Die Dinge verfolgen mich Tag und Nacht, in Arbeit und Schlaf. Es ist schwer, trotzdem arbeiten zu müssen. Ich habe mich sehr <pb n="2"/> gefreut, wieder etwas von Dir gehört zu haben und hoffe auf baldiges Wiedersehen.</p>
-        <closer>
-           <salute>Grüsse <rs ref="#tillich_person_id__2885" type="person">Frau</rs> und Kinder und sei herzlich gegrüsst<lb/>
-           Von<lb/>
-           Deinem<lb/></salute>
-           <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-        </closer>
-     </div>
-    </body>
-  </text>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1933-02-20">20.02.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1154">Kurt Leese</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="FS" when="2024-03-28">Initiale Auszeichnung des Transkripts und
+            Endabnahme</change>
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>d. <date when="1933-02-20">20.2.33</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1154" type="person">Kurt</rs>!</salute>
+            </opener>
+            <p>Hab herzlichen Dank für die Uebersendung der "Christlichen Welt" und für Deine
+                  Karte<note type="ea">Liegt nicht vor</note>. Durch die Aufsätze<note
+                  type="ea">Gemeint sind zwei Besprechungen von Leeses Buch "<rs
+                     ref="#tillich__FL58Z4YY" type="work">Die Krisis und Wende des christlichen
+                     Geistes</rs>": <rs ref="#tillich__8GYA5NHD" type="work">Franz, Krisis des
+                     Christentums?</rs>, sowie <rs ref="#tillich__NZBGG3A9" type="work">Mulert,
+                     Leeses Stellung zum Christentum</rs>.</note> in der Christl. Welt bist Du als
+               profilierte theologische Persönlichkeit in die Oeffentlichkeit eingerückt, worüber
+               ich mich sehr freue. Ebenso freue ich mich über Deinen Bericht, nach dem es Dir als
+               Dozent sehr gut gehen muss.</p>
+            <p>Neulich fragte mich die Christl. Welt an, ob ich das <rs ref="#tillich__2SZ4XNXN"
+                  type="work">Buch</rs> von Dr. <rs ref="#tillich_person_id__15" type="person"
+                  >Wiesengrund</rs>, meinem hiesigen Privatdozenten, über <rs
+                  ref="#tillich_person_id__1049" type="person">Kierkegaard</rs> rezensieren will.
+               Ich habe gebeten, es Dir zu geben. Falls es kommen sollte, nimm es bitte an, es ist
+               ausserordentlich scharfsinnig und jedem Geschwätz über diese Dinge weit
+                  überlegen.<note type="ea">Diese Rezension scheint nicht zustande gekommen zu
+                  sein.</note> Ausserdem ist es ein durchgängiger Angriff auf die dialektische
+               Theologie und der Versuch einer Rettung des Aesthetischen bei <rs
+                  ref="#tillich_person_id__1049" type="person">K.</rs> gegen <rs
+                  ref="#tillich_person_id__1049" type="person">K.</rs> selbst.</p>
+            <p>Ich hab in diesem Semester den Versuch gemacht, eigene systematische Probleme zu
+               entwickeln und habe die Grundlegung einer existentialgeschichtlichen Methode
+               versucht, d. h. eine Verbindung dessen, was die Existentialphilosophie will mit der
+               Kairos-Idee, dem Bewusstsein um das Stehen in der geschichtlichen Entscheidung. Es
+               ergeben sich daraus eine Fülle interessanter Probleme, die ich hoffentlich einmal
+               entfalten kann. Auf der Tagung der Kant-Gesellschaft in Halle in den Pfingstferien
+               soll ich über das Problem "Idealismus und geschichtliche Existenz" ein Referat
+                  halten.<note type="ea">Siehe auch den <rs ref="L01235" type="letter">Brief Paul
+                     Tillichs an Ernst Cassirer vom 7. Juli 1933</rs>.</note> Ich hoffe, dass wir
+               uns daselbst wiedersehen werden.</p>
+            <p>Die politische Lage wirkt als ein schwerer Druck auf mich. Ich habe das Gefühl eines
+               kommenden Unheils, das auf keine Weise mehr aufzuhalten ist. Die Dinge verfolgen mich
+               Tag und Nacht, in Arbeit und Schlaf. Es ist schwer, trotzdem arbeiten zu müssen. Ich
+               habe mich sehr<pb n="2"/> gefreut, wieder etwas von Dir gehört zu haben und hoffe
+               auf baldiges Wiedersehen.</p>
+            <closer>
+               <salute>Grüsse <rs ref="#tillich_person_id__2885" type="person">Frau</rs> und Kinder
+                  und sei herzlich gegrüsst<lb/> Von Deinem</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>
