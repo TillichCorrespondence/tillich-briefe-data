@@ -1,93 +1,131 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01390">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Hannah Tillich
-                    <lb/>verm. März 1931
-                </title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement>Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Hannah. Papers, 1896-1976</collection>
-<idno>bMS 721/3(6)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig.</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<date when="1931-03">03.1931</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2024-04-24" who="FS">Initiale Auszeichnung des Transkripts und Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!<note type="ea">Die ungefähre Datierung des vorliegenden undatierten Briefes ergibt sich aus seinem Inhalt: Paul Tillich lehnte im Jahr 1931 einen Ruf nach Halle ab. Im März desselben Jahres zog die Familie Tillich innherhalb Frankfurt am Main um, von der Feldbergstraße 7 in die Vogelstraße 11.</note></salute>
-</opener>
-    <p>Als ich Dir telegraphierte, war äußerlich noch nichts entschieden. Aber innerlich der Eindruck in <rs ref="#tillich_place_id__189" type="place">Halle</rs>, wo ich mit den meisten Professoren zusammen war, war der einer <hi rend="u">großen Enge</hi> und Ferne von den großen Strömungen der Kultur; auch in Geschmack, Lebensform etc. ein Niveau, das z. B. für Dich unmöglich wäre. Sie waren <hi rend="u">sehr</hi> nett, haben mir alle zugeredet und wir haben das Problem Theologie-Philosophie in aller Tiefe <pb n="2"/> durchgesprochen. – Mit <rs ref="#tillich_person_id__1602" type="person">Richter</rs> war es reizend, höchst freundschaftlich und vergnügt. Er stellte mir <rs ref="#tillich_place_id__37" type="place">Berlin</rs> in 1 ½ Jahren in Aussicht, sagte aber, daß er meine Argumente völlig verstände und auf wiederholtes Fragen, <hi rend="u">daß <rs ref="#tillich_place_id__37" type="place">Berlin</rs> durch eine Ablehnung nicht ausgeschlossen sei</hi>. Ebenso sagte er auf Befragen zum Schluß, daß er es mir <hi rend="u">absolut nicht übel</hi> nähme, wenn ich ablehnte. Wir machten daraufhin keine <pb n="3"/> Berufungsverhandlung; er sagte mir aber, daß ich finanziell so gut wie keinen Vorteil gehabt hätte. Ich habe das Gefühl, daß <rs ref="#tillich_person_id__1602" type="person">Richter</rs> die Sache nicht sehr tragisch nahm. – Der <rs ref="#tillich_person_id__169" type="person">Minister</rs> war nicht da. – Dann etwas Wichtiges, das ich dich bitte, gleich an <rs ref="#tillich_person_id__2393" type="person">Schulz</rs> zu geben. <hi rend="u">Wir kriegen <rs ref="#tillich_person_id__2950" type="person">Jansen</rs>, wenn <rs ref="#tillich_person_id__1602" type="person">Richter</rs> weiß, daß er kommen will.</hi> <rs ref="#tillich_person_id__1602" type="person">Richter</rs> bittet nun, daß wir ihm darüber Gewißheit verschaffen. Das ist sehr eilig. <pb n="4"/> Im Übrigen ist <rs ref="#tillich_place_id__189" type="place">Halle</rs> wirklich ein furchtbares Nest, viel häßlicher als ich es in Erinnerung hatte. – – </p>
-    <p>Ich werde nun noch morgen mit den Freunden reden und dann von hier aus abschreiben. Also zieh in Ruhe um und sei vorsichtig mit dem Auto. In mir bewegt sich immer noch die große Entscheidung. Das Meer ist noch nicht zur Ruhe, trotzdem der Sturm vorbei ist.</p>
-    <closer>
-<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-</closer>
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Hannah Tillich <lb/>verm. März 1931 </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                        <idno>bMS 721/3(6)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1931-03">03.1931</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2024-04-24" who="FS">Initiale Auszeichnung des Transkripts und
+                Endabnahme</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <note type="ea">Die ungefähre Datierung des vorliegenden undatierten Briefes
+                        ergibt sich aus seinem Inhalt: <rs ref="#tillich_person_id__1928"
+                            type="person">Paul Tillich</rs> lehnte im Jahr 1931 einen Ruf nach <rs
+                            ref="#tillich_place_id__189" type="place">Halle</rs> ab. Im März
+                        desselben Jahres zog die Familie Tillich innherhalb <rs
+                            ref="#tillich_place_id__143" type="place">Frankfurt am Main</rs> um, von
+                        der Feldbergstraße 7 in die Vogelstraße 11.</note><salute>Liebste <rs
+                            ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+                </opener>
+                <p>Als ich Dir telegraphierte, war äußerlich noch nichts entschieden. Aber innerlich
+                    der Eindruck in <rs>Halle</rs>, wo ich mit den meisten Professoren zusammen war,
+                    war der einer <hi rend="u">großen Enge</hi> und Ferne von den großen Strömungen
+                    der Kultur; auch in Geschmack, Lebensform etc. ein Niveau, das z. B. für Dich
+                    unmöglich wäre. Sie waren <hi rend="u">sehr</hi> nett, haben mir alle zugeredet
+                    und wir haben das Problem Theologie-Philosophie in aller Tiefe<pb n="2"/>
+                    durchgesprochen. – Mit <rs ref="#tillich_person_id__1602" type="person"
+                        >Richter</rs> war es reizend; höchst freundschaftlich und vergnügt. Er
+                    stellte mir <rs ref="#tillich_place_id__37" type="place">Berlin</rs> in 1 ½
+                    Jahren in Aussicht, sagte aber, daß er meine Argumente völlig verstände und auf
+                    wiederholtes Fragen, <hi rend="u">daß <rs ref="#tillich_place_id__37"
+                            type="place">Berlin</rs> durch eine Ablehnung nicht ausgeschlossen
+                        sei</hi>. Ebenso sagte er auf Befragen zum Schluß, daß er es mir <hi
+                        rend="u">absolut nicht übel</hi> nähme, wenn ich ablehnte. Wir machten
+                    daraufhin keine<pb n="3"/> Berufungsverhandlung; er sagte mir aber, daß ich
+                    finanziell so gut wie keinen Vorteil gehabt hätte. Ich habe das Gefühl, daß <rs
+                        ref="#tillich_person_id__1602" type="person">Richter</rs> die Sache nicht
+                    sehr tragisch nahm. – Der <rs ref="#tillich_person_id__169" type="person"
+                        >Minister</rs> war nicht da. – Dann etwas Wichtiges, das ich dich bitte,
+                    gleich an <rs ref="#tillich_person_id__2393" type="person">Schulz</rs> zu geben.
+                        <hi rend="u">Wir kriegen <rs ref="#tillich_person_id__2950" type="person"
+                            >Jansen</rs>, wenn <rs ref="#tillich_person_id__1602" type="person"
+                            >Richter</rs> weiß, daß er kommen will.</hi>
+                    <rs ref="#tillich_person_id__1602" type="person">Richter</rs> bittet nun, daß
+                    wir ihm darüber Gewißheit verschaffen. Das ist <hi rend="u">sehr eilig</hi>.<pb n="4"/> Im
+                    Übrigen ist <rs ref="#tillich_place_id__189" type="place">Halle</rs> wirklich
+                    ein furchtbares Nest, viel häßlicher als ich es in Erinnerung hatte. – – </p>
+                <p>Ich werde nun noch morgen mit den Freunden reden und dann von hier aus
+                    abschreiben. Also zieh in Ruhe um und sei vorsichtig mit dem Auto. In mir bewegt
+                    sich immer noch die große Entscheidung. Das Meer ist noch nicht zur Ruhe,
+                    trotzdem der Sturm vorbei ist.</p>
+                <closer>
+                    Dein <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
 </TEI>
