@@ -1,116 +1,134 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00295">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Oskar Siebeck <lb/>vom 02. Januar 1912</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name>Anna Rüther</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__37">Berlin</settlement>
-<institution>Stiftung Preußischer Kulturbesitz</institution>
-<repository>Staatsbibliothek zu Berlin</repository>
-<collection>Mohr-Siebeck-Verlagsarchiv</collection>
-<idno>VA, A Nr. 309 1912</idno>
-</msIdentifier>
-<physDesc>
-<p>Handschriftlich</p>
-</physDesc>
-<additional>
-<listBibl>
-<biblStruct n="1" type="journal">
-<monogr>
-<author>CHRISTOPHERSEN, ALF</author>
-<author>GRAF, FRIEDRICH WILHELM</author>
-<title>„Beweise einer unsichtbaren Beziehung“. Die Korrespondenz zwischen Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
-<imprint>
-<date when="2011">2011</date>
-<biblScope>237--408</biblScope>
-</imprint>
-</monogr>
-<series>
-<title>International Yearbook for Tillich Research</title>
-<biblScope>vol. 6, no. 1</biblScope>
-<publisher>De Gruyter</publisher>
-</series>
-</biblStruct>
-</listBibl>
-</additional>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__549">Nauen</placeName>
-<date when="1912-01-02">02.01.1912</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
-<placeName ref="#tillich_place_id__448">Tübingen</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
-<change when="2024-02-02" who="AR">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline>
-<placeName ref="#tillich_place_id__549">Nauen</placeName>
-   , den 
-   <date when="1912-01-02">02.01.1912</date>
-</dateline>
-</opener>
-<p>Ihren Brief vom 28. Dez. 11. an Herrn Professor Dr. <rs ref="#tillich_person_id__1291" type="person">Medikus</rs> hat mir derselbe zugeschickt, mit dem Rat, Ihrem Anerbieten Folge zu leisten. Ich bin dazu bereit, bitte aber um einige Auskünfte, an die ich die Entscheidung knüpfen möchte. Meine Dissertation ist 132 Maschinenseiten lang, die Seite ca 30 Zeilen, die Zeile 9 Worte. Ich hoffe, etwa 19–20 Seiten streichen zu können. Welches wäre in diesem Fall der Preis? – 220 Exemplare bin ich gezwungen, der Fakultät zu übergeben; für sie müssten These, Lebenslauf, Titelblatt extra gedruckt und eingeheftet werden. Wieviel Mehrausgaben würden dadurch entstehen? – Endlich wäre ich für einige Mitteilungen über beabsichtigte Ausstattung und Reklame dankbar! – Noch die Frage: Wielange wird der Druck voraussichtlich dauern? Mir liegt aus verschiedenen äußeren Gründen viel an schneller Erledigung, zumal die öffentliche Lizentiatenpromotion davon abhängt. Aus demselben Grunde wäre ich für eine möglichst umgehende Antwort sehr dankbar.</p>
-<closer>
-<salute><p>In vorzüglicher Hochachtung</p>
-<p>ergebenst</p></salute>
-<signed>Lic. Theol. Dr. P. Tillich.</signed>
-</closer>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Oskar Siebeck <lb/>vom 2. Januar 1912</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Anna Rüther</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <institution>Stiftung Preußischer Kulturbesitz</institution>
+                  <repository>Staatsbibliothek zu Berlin</repository>
+                  <collection>Mohr-Siebeck-Verlagsarchiv</collection>
+                  <idno>VA, A Nr. 309 1912</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct n="1" type="journal">
+                        <monogr>
+                           <author>CHRISTOPHERSEN, ALF</author>
+                           <author>GRAF, FRIEDRICH WILHELM</author>
+                           <title>„Beweise einer unsichtbaren Beziehung“. Die Korrespondenz zwischen
+                              Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul
+                              Siebeck)</title>
+                           <imprint>
+                              <date when="2011">2011</date>
+                              <biblScope>237-408</biblScope>
+                              <publisher>De Gruyter</publisher>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>International Yearbook for Tillich Research</title>
+                           <biblScope>vol. 6, no. 1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__549">Nauen</placeName>
+               <date when="1912-01-02">02.01.1912</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
+               <placeName ref="#tillich_place_id__448">Tübingen</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2024-02-02" who="AR">Initiale Auszeichnung des Transkripts</change>
+         <change when="2025-02-18" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs type="place" ref="#tillich_place_id__549">Nauen</rs>, den <date
+                     when="1912-01-02">02.01.1912</date>
+               </dateline>
+            </opener>
+            <p>Ihren Brief vom 28. Dez. 11. an Herrn Professor Dr. <rs
+                  ref="#tillich_person_id__1291" type="person">Medikus</rs> hat mir derselbe
+               zugeschickt, mit dem Rat, Ihrem Anerbieten Folge zu leisten. Ich bin dazu bereit,
+               bitte aber um einige Auskünfte, an die ich die Entscheidung knüpfen möchte. Meine <rs
+                  type="work" ref="#tillich__9CSAXH7U">Dissertation</rs> ist 132 Maschinenseiten
+               lang, die Seite ca 30 Zeilen, die Zeile 9 Worte. Ich hoffe, etwa 19–20 Seiten
+               streichen zu können. Welches wäre in diesem Fall der Preis? – 220 Exemplare bin ich
+               gezwungen, der Fakultät zu übergeben; für sie müssten These, Lebenslauf, Titelblatt
+               extra gedruckt und eingeheftet werden. Wieviel Mehrausgaben würden dadurch entstehen?
+               – Endlich wäre ich für einige Mitteilungen über beabsichtigte Ausstattung und Reklame
+               dankbar! – Noch die Frage: Wielange wird der Druck voraussichtlich dauern? Mir liegt
+               aus verschiedenen äußeren Gründen viel an schneller Erledigung, zumal die öffentliche
+               Lizentiatenpromotion davon abhängt. Aus demselben Grunde wäre ich für eine möglichst
+               umgehende Antwort sehr dankbar.</p>
+            <closer>
+               <salute>In vorzüglicher Hochachtung ergebenst</salute>
+               <signed>Lic. Theol. Dr. <rs type="person" ref="#tillich_person_id__1928">P.
+                     Tillich</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

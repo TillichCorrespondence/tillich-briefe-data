@@ -1,117 +1,128 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00297">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Siebeck an Paul Tillich <lb/>vom 5. Januar 1912</title>
-<author ref="#tillich_person_id__1781">Paul Siebeck</author>
-<respStmt>
-<resp>Editor</resp>
-<name>Anna Rüther</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__37">Berlin</settlement>
-<institution>Stiftung Preußischer Kulturbesitz</institution>
-<repository>Staatsbibliothek zu Berlin</repository>
-<collection>Mohr-Siebeck-Verlagsarchiv</collection>
-<idno>VA, A Nr. 309 1912</idno>
-</msIdentifier>
-<physDesc>
-<p>Maschinenschriftlich</p>
-</physDesc>
-<additional>
-<listBibl>
-<biblStruct n="1" type="journal">
-<monogr>
-<author>CHRISTOPHERSEN, ALF</author>
-<author>GRAF, FRIEDRICH WILHELM</author>
-<title>„Beweise einer unsichtbaren Beziehung“. Die Korrespondenz zwischen Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
-<imprint>
-<date when="2011">2011</date>
-<biblScope>237--408</biblScope>
-</imprint>
-</monogr>
-<series>
-<title>International Yearbook for Tillich Research</title>
-<biblScope>vol. 6, no. 1</biblScope>
-<publisher>De Gruyter</publisher>
-</series>
-</biblStruct>
-</listBibl>
-</additional>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1781">Paul Siebeck</persName>
-<placeName ref="#tillich_place_id__448">Tübingen</placeName>
-<date when="1912-01-05">05.01.1912</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__549">Nauen</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
-<change when="2024-02-02" who="AR">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline>
-<placeName ref="#tillich_place_id__448">Tübingen</placeName>
-   , den 
-   <date when="1912-01-05">05.01.1912</date>
-</dateline>
-<salute>Sehr verehrter Herr Licentiat</salute>
-</opener>
-<p>Sehr verehrter Herr Licentiat, für Ihre beiden freundlichen Briefe vom 2. und 3.cts. sage ich Ihnen verbindlichen Dank. So gerne ich Ihnen meinen Verlag für Ihre Dissertation zur Verfügung gestellt hätte, so verstehe ich doch vollkommen, dass Sie das Ihnen von andere Seite gewordene Anerbieten nicht von der Hand weisen konnten. Umsomehr hoffe ich, dass sich später einmal eine Gelegenheit findet, mit Ihnen in nähere Beziehungen zu treten.</p>
-<p>Für das Vertrauen, das Sie mir durch Ihre Anfrage bewiesen haben, sage ich Ihnen nochmals meinen verbindlichsten Dank.</p>
-<closer>
-<salute>In vorzüglicher Hochachtung Ihr sehr ergebener</salute>
-<signed>Dr. P. Siebeck.</signed>
-</closer>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Siebeck an Paul Tillich <lb/>vom 5. Januar 1912</title>
+            <author ref="#tillich_person_id__1781">Paul Siebeck</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Anna Rüther</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <institution>Stiftung Preußischer Kulturbesitz</institution>
+                  <repository>Staatsbibliothek zu Berlin</repository>
+                  <collection>Mohr-Siebeck-Verlagsarchiv</collection>
+                  <idno>VA, A Nr. 309 1912</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct n="1" type="journal">
+                        <monogr>
+                           <author>CHRISTOPHERSEN, ALF</author>
+                           <author>GRAF, FRIEDRICH WILHELM</author>
+                           <title>„Beweise einer unsichtbaren Beziehung“. Die Korrespondenz zwischen
+                              Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul
+                              Siebeck)</title>
+                           <imprint>
+                              <date when="2011">2011</date>
+                              <biblScope>237-408</biblScope>
+                              <publisher>De Gruyter</publisher>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>International Yearbook for Tillich Research</title>
+                           <biblScope>vol. 6, no. 1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1781">Paul Siebeck</persName>
+               <placeName ref="#tillich_place_id__448">Tübingen</placeName>
+               <date when="1912-01-05">05.01.1912</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__549">Nauen</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2024-02-02" who="AR">Initiale Auszeichnung des Transkripts</change>
+         <change when="2025-02-18" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs type="place" ref="#tillich_place_id__448">Tübingen</rs> , den <date
+                     when="1912-01-05">05.01.1912</date>
+               </dateline>
+               <salute>Sehr verehrter Herr <rs type="person" ref="#tillich_person_id__1928">Licentiat</rs>,</salute>
+            </opener>
+            <p>für Ihre beiden freundlichen Briefe vom 2. und 3.cts.<note type="ea">Vgl. <rs type="letter" ref="#L00295">Brief von Paul Tillich an Oskar Siebeck vom 02. Januar 1912</rs>; <rs type="letter" ref="#L00296">Brief von Paul Tillich an Verlag Mohr Siebeck vom 03. Januar 1912</rs>.</note>
+               sage ich Ihnen verbindlichen Dank. So gerne ich Ihnen meinen Verlag für Ihre
+               <rs type="work" ref="#tillich__9CSAXH7U">Dissertation</rs> zur Verfügung gestellt hätte, so verstehe ich doch vollkommen, dass Sie
+               das Ihnen von andere Seite gewordene Anerbieten nicht von der Hand weisen konnten.
+               Umsomehr hoffe ich, dass sich später einmal eine Gelegenheit findet, mit Ihnen in
+               nähere Beziehungen zu treten.</p>
+            <p>Für das Vertrauen, das Sie mir durch Ihre Anfrage bewiesen haben, sage ich Ihnen
+               nochmals meinen verbindlichsten Dank.</p>
+            <closer>
+               <salute>In vorzüglicher Hochachtung Ihr sehr ergebener</salute>
+               <signed>Dr. <rs type="person" ref="#tillich_person_id__1781">P. Siebeck</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>
