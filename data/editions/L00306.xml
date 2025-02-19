@@ -1,107 +1,108 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00306">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Felix Meiner an Paul Tillich <lb/>vom 26. April 1912</title>
-<author ref="#tillich_person_id__1294">Felix Meiner</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="typoscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bMS649/165(40)</idno>
-</msIdentifier>
-<physDesc>
-<p>Maschinenschrift</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1294">Felix Meiner</persName>
-<placeName ref="#tillich_place_id__260">Leipzig</placeName>
-<date when="1912-04-26">26.04.1912</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__37">Berlin</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-<change when="2023-12-06" who="AA">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline>
-<rs ref="#tillich_place_id__260" type="place">Leipzig</rs>
-      , den 
-      <date when="1912-04-26">26.04.1912</date>
-</dateline>
-<salute>Sehr geehrter Herr Doktor!</salute>
-</opener>
-<p>
-     Für Ihre freundliche Nachricht danke ich Ihnen bestens. Ich
-     bin gern bereit, Ihnen auch die komplette Ausgabe zu Rezensionszwecken
-     in der "Kreuzzeitung" oder im "Reichsboten“ zur Verfügung zu stellen
-     und würde in diesem besonderen Falle zufrieden
-     sein, wenn Sie mir ein Drittel des Ladenpreises vergüten wollten.
-     Das wären M 14.- für das broschierte Exemplar, für das gebundene
-     Exemplar müsste ich Ihnen allerdings noch die Einbände zum Selbstkostenpreis
-     mit M 9.- mehr berechnen. Der sechste Band erscheint
-     heute. Ich bitte Sie mir mitteilen zu wollen, ob Sie ein broschiertes oder
-     gebundenes Exemplar zu erhalten wünschen.
-    </p>
-<closer>
-<salute>In vorzüglicher Hochachtung.</salute>
-<signed>Felix Meiner</signed>
-</closer>
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Felix Meiner an Paul Tillich <lb/>vom 26. April 1912</title>
+                <author ref="#tillich_person_id__1294">Felix Meiner</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">Wien</placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="typoscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                        <idno>bMS649/165(40)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1294">Felix Meiner</persName>
+                    <placeName ref="#tillich_place_id__260">Leipzig</placeName>
+                    <date when="1912-04-26">26.04.1912</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__37">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+            <change when="2023-12-06" who="AA">Initiale Auszeichnung des Transkripts</change>
+            <change when="2025-02-19" who="EL">Endabnahme</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline>
+                        <rs ref="#tillich_place_id__260" type="place">Leipzig</rs> , den <date
+                            when="1912-04-26">26.04.1912</date>
+                    </dateline>
+                    <salute>Sehr geehrter Herr <rs type="person" ref="#tillich_person_id__1928"
+                            >Doktor</rs>!</salute>
+                </opener>
+                <p> Für Ihre freundliche Nachricht danke ich Ihnen bestens. Ich bin gern bereit,
+                    Ihnen auch die komplette Ausgabe zu Rezensionszwecken in der "Kreuzzeitung" oder
+                    im "Reichsboten“ zur Verfügung zu stellen und würde in diesem besonderen Falle
+                    zufrieden sein, wenn Sie mir ein Drittel des Ladenpreises vergüten wollten. Das
+                    wären M 14.- für das broschierte Exemplar, für das gebundene Exemplar müsste ich
+                    Ihnen allerdings noch die Einbände zum Selbstkostenpreis mit M 9.- mehr
+                    berechnen. Der sechste Band erscheint heute. Ich bitte Sie mir mitteilen zu
+                    wollen, ob Sie ein broschiertes oder gebundenes Exemplar zu erhalten wünschen. </p>
+                <closer>
+                    <salute>In vorzüglicher Hochachtung.</salute>
+                    <signed><rs type="person" ref="#tillich_person_id__1294">Felix
+                        Meiner</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
 </TEI>
