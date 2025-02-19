@@ -97,6 +97,7 @@
       <revisionDesc status="approved">
          <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
          <change when="2024-01-18" who="AA">Initiale Auszeichnung des Transkripts</change>
+         <change when="2025-02-19" who="EL">Endabnahme</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -105,12 +106,12 @@
             <pb n="1"/>
             <opener>
                <dateline>
-                  <placeName ref="#tillich_place_id__551">Birkenweder</placeName> , den <date when="1913-03-05">05.03.1913</date>
+                  <rs type="place" ref="#tillich_place_id__551">Birkenweder</rs> <date when="1913-03-05">5.III.13.</date> Bahnhofsallée 8
                </dateline>
-               <salute>Sehr geehrter Herr Pastor,</salute>
+               <salute>Sehr geehrter Herr <rs type="person" ref="#tillich_person_id__1928">Pastor</rs>,</salute>
             </opener>
             <p> Ich hatte Ihnen bei unserm letzten Zusammensein die Aufsätze von <rs ref="#tillich_person_id__1366" type="person">Max Müller</rs> versprochen. Sie
-               sprachen damals davon, daß die Aufsätze über den Buddhismn Sie interessieren würden;
+               sprachen damals davon, daß die Aufsätze über den <sic>Buddhismn</sic> Sie interessieren würden;
                ich glaube, das Buch enthält auch manches andere das Ihnen von Interesse sein wird,
                vor allem den ersten und den achten Aufsatz. Ich habe das Buch ziemlich viel in der
                Mappe herumgeschleppt, hoffentlich stören Sie die Spuren davon nicht allzu sehr. Ich
@@ -121,22 +122,22 @@
                Zweifel dem Redner entgegenhalten wollen; aber schließlich verschwand jeder einzelne
                Einwand gegenüber dem Eindruck lebendigen religiösen Lebens und Gestaltens. Und
                schließlich ist dieses Lebendige ja das Einzige, das überzeugt und die Skepsis
-               niederschlägt. - Übrigens, Sie meinten gestern, die Dekadence unserer Zeit gehe für
-               Sie aus der absoluten Negation auf den Gebieten der <pb n="3"/> Theologie und
+               niederschlägt. – Übrigens, Sie meinten gestern, die Dekadence unserer Zeit gehe für
+               Sie aus der absoluten Negation auf den Gebieten der <pb n="3"/>Theologie und
                Philosophie hervor. Wie weit das für die Theologie stimmt, kann ich nicht beurteilen.
                Aber ist auf philosophischem Gebiet nicht doch schon ein anderes am Werk? Ich denke
                an <rs ref="#tillich_person_id__193" type="person">Bergson</rs>, bei dem ja gerade
-               das Positive so stark hervortritt. Aber sicher kennen Sie ihn besser als ich. - Über
+               das Positive so stark hervortritt. Aber sicher kennen Sie ihn besser als ich. – Über
                das, wonach ich Sie gestern fragte, bin ich noch nicht ins Reine gekommen. Vielleicht
                darf ich mich gegebenen Falls noch einmal an Sie wenden. Haben Sie nicht Lust, nach
                all den Anstrengungen des Winters einmal ein paar Stunden in unserer wunderschönen
                Waldesstille zu verbringen? Ich würde mich sehr freuen, wenn Sie einmal herauskämen;
                ich glaube, <pb n="4"/> Sie würden hier eine der schönsten Gegenden in der Nähe <rs ref="#tillich_place_id__37" type="place">Berlins</rs> kennen lernen, und nach
                einem recht langen Spaziergang durch den Frühlingswald würden Sie dann Station in
-               meinem Heim machen. </p>
+               meinem Heim machen.</p>
             <closer>
                <salute>Mit vorzüglicher Hochachtung</salute>
-               <signed>Frida Winckelmann.</signed>
+               <signed><rs type="person" ref="#tillich_person_id__2080">Frida Winckelmann</rs>.</signed>
             </closer>
          </div>
       </body>
