@@ -70,6 +70,7 @@
 <revisionDesc status="approved">
 <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
 <change when="2023-12-11" who="AA">Initiale Auszeichnung des Transkripts</change>
+    <change when="2025-02-24" who="EL">Endabnahme</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
@@ -78,11 +79,10 @@
 <pb n="1"/>
 <opener>
 <dateline>
-<rs ref="#tillich_place_id__562" type="place">Schloss Mainberg</rs>
-      , den 
-      <date when="1913-05-17">17.05.1913</date>
+<rs ref="#tillich_place_id__562" type="place">Schloss Mainberg</rs>, d. 
+      <date when="1913-05-17">17. Mai</date>
 </dateline>
-<salute>Lieber Herr Tillich,</salute>
+    <salute>Lieber Herr <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>.</salute>
 </opener>
 <p>
      Die obige Adresse sagt Ihnen, daß
@@ -105,7 +105,7 @@
      habe ich mich kurz entschlossen und
      bin seit einigen Tagen hier auf
      <rs ref="#tillich_place_id__562" type="place">Schloss Mainberg</rs> bei <rs ref="#tillich_person_id__1363" type="person">Johannes Müller</rs>
-     und hierher habe ich Ihren Brief
+     und hierher habe ich Ihren Brief<note type="ea">Nicht überliefert.</note>
      mitgenommen und hier unter
      ganz anderen Verhältnissen in einer
      einfachen, schlichten und sehr
@@ -131,21 +131,21 @@
      nehmen Sie sich selber recht
      einfach dann erscheint Ihnen
      <pb n="4"/>
-     viel leichter <choice><abbr>u.</abbr><expan>und</expan></choice> erschliesst sich Ihnen
+     viel leichter u. erschliesst sich Ihnen
      viel leichter ein Wunderkind von
      Tiefe und Phantasie in einem scheinbar
      schlichten Mädel und dann müssen
      Sie noch eins bedenken, daß bei uns
-     Frauen eben alles Innerlichste <choice><abbr>u.</abbr><expan>und</expan></choice> Beste
+     Frauen eben alles Innerlichste u. Beste
      erst durch die Liebe ausgelöst wird.
      Was wollen Sie von einer Mädchen-Knospe
      verlangen, die noch nicht
      leben lernte. Sie schreiben Sie wollten
-     nicht herabziehen <choice><abbr>u.</abbr><expan>und</expan></choice> berauben, wo
+     nicht herabziehen u. berauben, wo
      Sie lieben, nun ist denn das nötig
      machen Sie das andere Leben so reich
-     daß es gesteigert <choice><abbr>u.</abbr><expan>und</expan></choice> erfüllt wird
-     sei es auch nur für
+     daß es gesteigert u. erfüllt wird
+     <del rend="s">es sei</del> sei es auch nur für
      nicht lange Zeit, wir werden ja
      doch auch gesteigert durch Leid. Aber
      ich kann über das Alles so schlecht
@@ -155,10 +155,10 @@
      ich auch dort, bitte klingeln Sie dann
      an, dann können wir verabreden
      Wann Sie zu mir kommen und
-     dann erzähle ich Ihnen von hier <choice><abbr>u.</abbr><expan>und</expan></choice>
+     dann erzähle ich Ihnen von hier u.
      von <rs ref="#tillich_person_id__1363" type="person">Johannes Müller</rs> der freilich ein
      ganz einfacher schlichter Mensch ist
-     Aber ein guter Berater <choice><abbr>u.</abbr><expan>und</expan></choice> Freund sein
+     Aber ein guter Berater u. Freund sein
      kann, er wird Ihnen helfen. <rs ref="#tillich_person_id__1363" type="person">Müller</rs>
      verreist Sonntag für einige Tage, sonst
      würde ich sagen, kommen Sie sofort
@@ -167,7 +167,7 @@
      kommen Sie, wir wollen wandern
      aber bringen Sie ja keine Bücher mit
      <pb n="6"/>
-     ich habe das <rs ref="#tillich_person_id__690" type="person">Goethe</rs>-Simmelbuch hier
+    ich habe das <rs type="work" ref="#tillich__8H4L8FYW">Goethe-Simmelbuch</rs> hier
      das genügt, mit seiner wundervollen
      Weisheit, und wenn Sie jetzt nicht
      kommen können so verabreden wir
@@ -179,7 +179,7 @@
     </p>
 <closer>
 <salute>Herzlichen Gruss</salute>
-<signed>Helene Bulle</signed>
+    <signed><rs type="person" ref="#tillich_person_id__317">Helene Bulle</rs></signed>
 </closer>
 </div>
 </body>
