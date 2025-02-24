@@ -3,8 +3,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Brief von Paul Tillich an Verlag Vandenhoeck und Ruprecht <lb/>vom 05. Juni 1920</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<title>Brief von Wilhelm Ruprecht an Paul Tillich <lb/>vom 5. Juni 1920</title>
+<author ref="#tillich_person_id__2569">Wilhelm Ruprecht</author>
 <respStmt>
 <resp>Editor</resp>
 <name>Anna Rüther</name>
@@ -39,27 +39,27 @@
 <idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
 </msIdentifier>
 <physDesc>
-<p>Brief, eigenhändig</p>
+<p>Briefdurchschlag, maschinenschriftlich</p>
 </physDesc>
-<additional>
-<listBibl>
-<biblStruct n="1" type="journal">
-<monogr>
-<author>GRAF, FRIEDRICH WILHELM</author>
-<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-<imprint>
-<date when="2020">2020</date>
-<biblScope>26-170</biblScope>
-</imprint>
-</monogr>
-<series>
-<title>Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte</title>
-<biblScope>Vol. 27 (Issue 1)</biblScope>
-<publisher>De Gruyter</publisher>
-</series>
-</biblStruct>
-</listBibl>
-</additional>
+   <additional>
+      <listBibl>
+         <biblStruct type="journal">
+            <monogr>
+               <author>Friedrich Wilhelm Graf</author>
+               <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+               <imprint>
+                  <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                  <date when="2020">2020</date>
+                  <biblScope>S. 26–170, hier: 69</biblScope>
+               </imprint>
+            </monogr>
+            <series>
+               <title>Zeitschrift für Neuere Theologiegeschichte</title>
+               <biblScope>27/1</biblScope>
+            </series>
+         </biblStruct>
+      </listBibl>
+   </additional>
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -74,13 +74,12 @@
 <profileDesc>
 <correspDesc>
 <correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
+<persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
 <date when="1920-06-05">05.06.1920</date>
 </correspAction>
 <correspAction type="received">
-<persName ref="#tillich_person_id__2301">Verlag Vandenhoeck und Ruprecht</persName>
-<placeName ref="#tillich_place_id__186">Göttingen</placeName>
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__38">Friedenau</placeName>
 </correspAction>
 </correspDesc>
 <langUsage>
@@ -89,7 +88,8 @@
 </profileDesc>
 <revisionDesc status="approved">
 <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
-<change when="2024-01-20" who="AR">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-01-19" who="AR">Initiale Auszeichnung des Transkripts</change>
+   <change when="2025-02-24" who="FS">Kollationierung</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
@@ -97,16 +97,19 @@
 <div type="writingSession">
 <pb n="1"/>
 <opener>
-<dateline>
-<rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>
-      , den 
-      <date when="1920-06-05">05.06.1920</date>
-</dateline>
+   <salute>Hochgeehrter <rs ref="#tillich_person_id__1928" type="person">Herr</rs>!</salute>
 </opener>
-<p>Ihren Brief vom 21. Mai habe ich erhalten. Ich befand mich in den letzten Wochen mehrfach auf Reisen zum Zweck der Abhaltung von Kursen für Volkshochschulleiter; ich wurde dadurch einerseits von der Ausarbeitung eines Planes für die „Wege“ abgehalten, habe aber andrerseits gerade durch diese Tätigkeit, zu der mich das Kultusministerium aufgefordert hat, zahlreiche Anregungen für den Ausbau der „Wege“ empfangen; ich glaube, daß gerade in der Richtung der Volkshochschule ein wichtiger Aufgaben-Kreis für die „Wege“ liegt. Ich benutze jetzt die Zeit, die mir die Arbeit des Kollegs über Religionsphilosophie103 läßt, um einen umfassenden Plan zu entwerfen, den ich, wie ich hoffe, Ihnen in <choice><abbr>ca</abbr><expan>circa</expan></choice> 3 Wochen werde vorlegen können. In diesen Plan werde ich auch den übersandten Entwurf über <del rend="s">Rel-P</del> „Phänomenologie“, wie auch meinen eigenen über das „Wesen der Religion“ einordnen; der letzte wird sich als Frucht aus meinem Kolleg ergeben und in der ersten Augusthälfte von mir niedergeschrieben werden.</p>
+   <p>Am <rs ref="L00666" type="letter">21. Mai</rs> schrieben wir Ihnen nochmals wegen der "Wege zur Philosophie" und
+fügten einen Brief eines Herrn <rs ref="#tillich_person_id__2752" type="person">Reyer</rs> bei. Es wäre uns sehr lieb, wenn wir Ihre
+Ansicht über letzteren recht bald und zugleich den Brief zurück hätten, damit wir
+dem Herrn antworten können. Auch wüßten wir gern, zu welchem Ergebnis Sie
+bisher bezüglich der ganzen Sammlung gekommen sind. Wie uns unser Freund,
+Herr <rs ref="#tillich_person_id__2735" type="person">Albers</rs>, der uns gestern besuchte, mitteilte, haben Sie sich noch nicht mit
+ihm in Beziehung gesetzt, was ja auch nicht unumgänglich nötig, aber uns doch
+recht erwünscht sein würde, da <rs ref="#tillich_person_id__2735" type="person">A</rs> als geistiger Vater der Sammlung sicherlich
+für die Fortsetzung gute Gedanken beisteuern könnte.</p>
 <closer>
-<salute>Hochachtungsvoll</salute>
-<signed>Dr. P. Tillich.</signed>
+<salute>Hochachtungsvoll und ergebenst</salute>
 </closer>
 </div>
 </body>
