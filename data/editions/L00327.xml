@@ -1,136 +1,117 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00327">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Maria Rhine an Paul Tillich <lb/>vom 13. Mai 1913</title>
-<author ref="#tillich_person_id__1594">Maria Rhine</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bMS 649/178</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1594">Maria Rhine</persName>
-<placeName ref="#tillich_place_id__41">Lichtenrade</placeName>
-<date when="1913-05-13">13.05.1913</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-<change when="2023-12-10" who="AA">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline>
-<rs ref="#tillich_place_id__41" type="place">Lichtenrade</rs>
-   , den 
-   <date when="1913-05-13">13.05.1913</date>
-</dateline>
-<salute>Lieber Tillich,</salute>
-</opener>
-<p>
-   wundern Sie ich nicht, daß
-   ich einen Brief schreibe, aber
-   es ist wohl angebrachter!
-   Also: die Hauptsache, daß Sie
-   Donnerstag telegraphieren,
-   <hi rend="u">recht geistreich</hi>, als Adresse
-   einfach: <unclear cert="high">Bleile</unclear> [?], <hi rend="u"><rs ref="#tillich_place_id__275" type="place">Magdeburg</rs></hi> ,
-   Yor<unclear>c</unclear>kstr. 2. Meine Heimfahrt
-   Abends war noch kläglich. Den
-   ersten Zug versäumte ich na<pb n="2"/>türlich,
-   und der nächste hatte
-   eine halbe <choice><abbr>Std.</abbr><expan>Stunde</expan></choice> Verspätung,
-   so daß ich erst gegen 10 Uhr
-   zu Haus war. Außerdem
-   wurde ich auf der Straße (zum
-   ersten Mal) angeredet, indem
-   ein wohlgekleideter Jüngling
-   auf mich zukam, seinen Hut
-   lüftete und fragte: "Ach Fräulein,
-   Sie werden entschuldigen,
-   können Sie mir vielleicht sagen,
-   wo ich hin will?“ Worauf
-   ich erhobenen Hauptes, ohne ihn
-   anzusehen <choice><abbr>od.</abbr><expan>oder</expan></choice> zu antworten
-   weiter ging. - Doch nun
-   <pb n="3"/>
-   Schluß. Ihre Predigt beschäftigte
-   mich noch viel. <foreign xml:lang="grc">το πνεύμα κρειττον ἐστω ἠ ἡ σαρξ</foreign>!
-   [in etwa: „Der Geist sei stärker als das Fleisch!“]
-   - Ich <hi rend="u">freue</hi> mich, daß Sie
-   mein Freund jetzt sind! -
-  </p>
-<closer>
-<salute>Herzlichen Gruß</salute>
-<signed>Ihre Maria Klein.</signed>
-</closer>
-<postscript>
-<p>
-   Erholen Sie sich gut, und kommen
-   Sie am Sonnabend <choice><abbr>d.</abbr><expan>den</expan></choice>
-   24. d. <choice><abbr>M.</abbr><expan>Mai</expan></choice> zu uns, um mir
-   von <rs ref="#tillich_person_id__1122" type="person">Lahusen</rs> Bericht zu
-   geben.
-   </p>
-</postscript>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Maria Rhine an Paul Tillich <lb/>vom 13. Mai 1913</title>
+            <author ref="#tillich_person_id__1594">Maria Rhine</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/178</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1594">Maria Rhine</persName>
+               <placeName ref="#tillich_place_id__41">Lichtenrade</placeName>
+               <date when="1913-05-13">13.05.1913</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2023-12-10" who="AA">Initiale Auszeichnung des Transkripts</change>
+         <change when="2025-02-24" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__41" type="place">Lichtenrade</rs>, den <date
+                     when="1913-05-13">13.V.13</date>. </dateline>
+               <salute>Lieber <rs type="person" ref="#tillich_person_id__1928"
+                  >Tillich</rs>,</salute>
+            </opener>
+            <p> wundern Sie sich nicht, daß ich einen Brief schreibe, aber es ist wohl angebrachter!
+               Also: die Hauptsache, daß Sie Donnerstag telegraphieren, <hi rend="u">recht
+                  geistreich</hi>, als Adresse einfach: <rs type="person"
+                  ref="#tillich_person_id__227">Blech</rs>, <hi rend="u"><rs
+                     ref="#tillich_place_id__275" type="place">Magdeburg</rs></hi>, Yorkstr. 2.
+               Meine Heimfahrt Abends war noch kläglich. Den ersten Zug versäumte ich na<pb n="2"
+               />türlich, und der nächste hatte eine halbe Std. Verspätung, so daß ich erst gegen 10
+               Uhr zu Haus war. Außerdem wurde ich auf der Straße (zum ersten Mal) angeredet, indem
+               ein wohlgekleideter Jüngling auf mich zukam, seinen Hut lüftete und fragte: "Ach
+               Fräulein, Sie werden entschuldigen, können Sie mir vielleicht sagen, wo ich hin
+               will?“ Worauf ich erhobenen Hauptes, ohne ihn anzusehen od. zu antworten weiter ging.
+               – Doch nun <pb n="3"/> Schluß. Ihre Predigt beschäftigte mich noch viel. <foreign
+                  xml:lang="grc">το πνεύμα κρειττον ἐστω ἠ ἡ σαρξ</foreign>! – Ich <hi rend="u"
+                  >freue</hi> mich, daß Sie mein Freund jetzt sind! – </p>
+            <closer>
+               <salute>Herzlichen Gruß</salute>
+               <signed>Ihre <rs type="person" ref="#tillich_person_id__1594">Maria
+                  Klein</rs>.</signed>
+            </closer>
+            <postscript>
+               <p> Erholen Sie sich gut, und kommen Sie am Sonnabend d. <date when="1913-05-24">24.
+                     d. M.</date> zu uns, um mir von <rs ref="#tillich_person_id__1122"
+                     type="person">Lahusen</rs> Bericht zu geben. </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
 </TEI>
