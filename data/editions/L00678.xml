@@ -39,28 +39,27 @@
 <idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
 </msIdentifier>
 <physDesc>
-<p>Maschinenschriftlich</p>
+<p>Briefdurchschlag, maschinenschriftlich</p>
 </physDesc>
-<additional>
-<listBibl>
-<biblStruct n="1" type="journal">
-<monogr>
-<author>GRAF, FRIEDRICH WILHELM</author>
-<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-<imprint>
-<date when="2020">2020</date>
-<biblScope>26-170</biblScope>
-</imprint>
-</monogr>
-<series>
-<title>Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte</title>
-<biblScope>Vol. 27 (Issue 1)</biblScope>
-<publisher>De Gruyter</publisher>
-</series>
-</biblStruct>
-</listBibl>
-</additional>
-</msDesc>
+   <additional>
+      <listBibl>
+         <biblStruct type="journal">
+            <monogr>
+               <author>Friedrich Wilhelm Graf</author>
+               <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+               <imprint>
+                  <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                  <date when="2020">2020</date>
+                  <biblScope>S. 26–170, hier: 90</biblScope>
+               </imprint>
+            </monogr>
+            <series>
+               <title>Zeitschrift für Neuere Theologiegeschichte</title>
+               <biblScope>27/1</biblScope>
+            </series>
+         </biblStruct>
+      </listBibl>
+   </additional></msDesc>
 </sourceDesc>
 </fileDesc>
 <encodingDesc>
@@ -88,6 +87,7 @@
 </profileDesc>
 <revisionDesc status="approved">
 <change when="2024-01-17" who="AR">Initiale Auszeichnung des Transkripts</change>
+   <change when="2025-02-24" who="FS">Kollationierung</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
@@ -95,19 +95,16 @@
 <div type="writingSession">
 <pb n="1"/>
 <opener>
-<dateline>
-   den <date when="1920-09-03">03.09.1920</date>
-</dateline>
-<salute>Sehr geehrter Herr</salute>
+   <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr</rs></salute>
 </opener>
-<p>Wir danken Ihnen verbindlichst für Ihr <choice><abbr>gefl.</abbr><expan>gefälliges</expan></choice> Schreibens vom 25. <choice><abbr>v. M.</abbr><expan>vorigen Monats</expan></choice> und die
-Aufstellung des umfassenden Planes für die Wege zur Philosophie, von welchem
-wir Ihnen beiliegend die gewünschten zwei Abschriften übersenden. Es ist uns
+   <p>Wir danken Ihnen verbindlichst für Ihr gefl. <rs ref="#L00674" type="letter">Schreibens</rs> vom 25. v. M. und die
+Aufstellung des umfassenden Planes für die Wege zur Philosophie, von welchem
+wir Ihnen beiliegend die gewünschten zwei Abschriften übersenden. Es ist uns
 im Augenblick nicht möglich, auf das Ganze näher einzugehen.
-Vielleicht wäre es gut, wenn Thema 27, „Das System der Wissenschaften“,
+Vielleicht wäre es gut, wenn Thema 27, "Das System der Wissenschaften",
 da es die Prinzipien der Einteilung betrifft, von Ihnen selbst als erstes bearbeitet
-würde. Sobald es uns möglich ist, werden wir auf die Sache zurückkommen. Für
-heute danken wir nochmals verbindlichst für die Umsicht, mit welcher Sie den
+würde. Sobald es uns möglich ist, werden wir auf die Sache zurückkommen. Für
+heute danken wir nochmals verbindlichst für die Umsicht, mit welcher Sie den
 Plan angefaßt haben. Herrn <rs ref="#tillich_person_id__2735" type="person">Albers</rs> haben wir ebenfalls eine Abschrift gesandt.</p>
 </div>
 </body>

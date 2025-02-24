@@ -39,27 +39,27 @@
 <idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
 </msIdentifier>
 <physDesc>
-<p>Maschinenschriftlich</p>
+<p>Briefdurchschlag, maschinenschriftlich</p>
 </physDesc>
-<additional>
-<listBibl>
-<biblStruct n="1" type="journal">
-<monogr>
-<author>GRAF, FRIEDRICH WILHELM</author>
-<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-<imprint>
-<date when="2020">2020</date>
-<biblScope>26-170</biblScope>
-</imprint>
-</monogr>
-<series>
-<title>Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte</title>
-<biblScope>Vol. 27 (Issue 1)</biblScope>
-<publisher>De Gruyter</publisher>
-</series>
-</biblStruct>
-</listBibl>
-</additional>
+   <additional>
+      <listBibl>
+         <biblStruct type="journal">
+            <monogr>
+               <author>Friedrich Wilhelm Graf</author>
+               <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+               <imprint>
+                  <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                  <date when="2020">2020</date>
+                  <biblScope>S. 26–170, hier: 94</biblScope>
+               </imprint>
+            </monogr>
+            <series>
+               <title>Zeitschrift für Neuere Theologiegeschichte</title>
+               <biblScope>27/1</biblScope>
+            </series>
+         </biblStruct>
+      </listBibl>
+   </additional>
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -89,6 +89,7 @@
 <revisionDesc status="approved">
 <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
 <change when="2024-01-18" who="AR">Initiale Auszeichnung des Transkripts</change>
+   <change when="2025-02-24" who="FS">Kollationierung</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
@@ -96,10 +97,7 @@
 <div type="writingSession">
 <pb n="1"/>
 <opener>
-<dateline>
-   den <date when="1920-09-25">25.09.1920</date>
-</dateline>
-<salute>Sehr geehrter Herr!</salute>
+   <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr</rs>!</salute>
 </opener>
 <p>Da sich Gelegenheit bot, war Abschrift Ihres Entwurfs noch einem sehr angesehenen
 Gelehrten vorgelegt worden, der den Entwurf mit Randbemerkungen
@@ -115,8 +113,8 @@ Biologie, exakten Philosophie usw. zu verstehen. Ob er für eine populäre
 Darstellung das richtige Verständnis hat, wissen wir nicht zu beurteilen, und
 müssen es Ihnen überlassen, aus dieser Kritik, die wir im Wortlaut übermitteln,
 etwaige Folgerungen zu ziehen.
-Im Verlage von <rs ref="#tillich_person_id__2750" type="person">Rösl  Cie.</rs> in <rs ref="#tillich_place_id__306" type="place">München</rs> beginnt soeben ein neues großes
-philosophisches Unternehmen unter dem Titel „<rs ref="#tillich__2XR38RGL" type="work">Philosophische Reihe</rs>“, herausgegeben von <rs ref="#tillich_person_id__2751" type="person">Werner</rs>, zu erscheinen, das zwar ganz anders angelegt ist, aber uns doch hie und da erhebliche Konkurrenz bereiten kann. Und auch bei <rs ref="#tillich_person_id__1294" type="person">Felix Meiner</rs> soll ein neues Unternehmen im Gange sein, bei dem die führenden lebenden Philosophen ihre Philosophien kurz darlegen. <rs ref="#tillich_person_id__1376" type="person">Natorp</rs> soll auch dabei sein und wird hoffentlich seinem Hefte, das uns die Veranlassung zu der Nebenreihe war, nicht Konkurrenz bereiten.</p>
+Im Verlage von Rösl  Cie. in <rs ref="#tillich_place_id__306" type="place">München</rs> beginnt soeben ein neues großes
+philosophisches Unternehmen unter dem Titel "Philosophische Reihe", herausgegeben von <rs ref="#tillich_person_id__2751" type="person">Werner</rs>, zu erscheinen, das zwar ganz anders angelegt ist, aber uns doch hie und da erhebliche Konkurrenz bereiten kann. Und auch bei Felix Meiner soll ein neues Unternehmen im Gange sein, bei dem die führenden lebenden Philosophen ihre Philosophien kurz darlegen. <rs ref="#tillich_person_id__1376" type="person">Natorp</rs> soll auch dabei sein und wird hoffentlich seinem Hefte, das uns die Veranlassung zu der Nebenreihe war, nicht Konkurrenz bereiten.</p>
 <closer>
 <salute>Hochachtungsvoll und ergebenst</salute>
 </closer>
