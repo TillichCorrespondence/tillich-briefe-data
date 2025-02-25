@@ -1,111 +1,109 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00340">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Hermann Schafft an Paul Tillich <lb/>vom 10. Juni 1913</title>
-<author ref="#tillich_person_id__1696">Hermann Schafft</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__279">Marburg</settlement>
-<institution>Philipps-Universität Marburg</institution>
-<repository>Deutsches Paul-Tillich-Archiv</repository>
-<idno>008 G</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
-<placeName ref="#tillich_place_id__68">Bonn a. Rh.</placeName>
-<date when="1913-06-10">10.06.1913</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-<change when="2023-12-11" who="AA">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline>
-<rs ref="#tillich_place_id__68" type="place">Bonn a. Rh.</rs>
-   , den 
-   <date when="1913-06-10">10.06.1913</date>
-</dateline>
-<salute>Liebster Paul,</salute>
-</opener>
-<p>
-   Nur dies noch: <rs ref="#tillich_person_id__1763" type="person">Seeberg</rs> hat Weber
-   gegenüber brieflich geäußert: er würde
-   Dir zu <hi ref="u"><rs ref="#tillich_place_id__68" type="place">Bonn</rs></hi> raten. Geld bekommst
-   du, was Du willst aus der
-   Kußerstiffung; es steht hier viel
-   auf dem Spiel. Ich hoffe <choice><abbr>u.</abbr><expan>und</expan></choice> hoffe
-   noch auf Dich. Ich glaube <rs ref="#tillich_place_id__37" type="place">Berlin</rs>
-   lauft nicht weg <choice><abbr>u.</abbr><expan>und</expan></choice> hier bist Du
-   unentbehrlicher <hi rend="u">und</hi> hast noch
-   Jahre des stillen Arbeitens.
-   <pb n="2"/>
-<rs ref="#tillich_person_id__1874" type="person">Strathmann</rs> hat Dir wohl geschrieben.
-   Erant. hält es noch den
-   Winter aus, wenn du noch kommst.
-   Schreib mir bitte auch eine
-   Karte.
-  </p>
-<closer>
-<salute><choice><abbr>Herz.</abbr><expan>Herzlich</expan></choice></salute>
-<signed>D. H.</signed>
-</closer>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Hermann Schafft an Paul Tillich <lb/>vom 10. Juni 1913</title>
+            <author ref="#tillich_person_id__1696">Hermann Schafft</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
+                  <institution>Philipps-Universität Marburg</institution>
+                  <repository>Deutsches Paul-Tillich-Archiv</repository>
+                  <idno>008 G</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
+               <placeName ref="#tillich_place_id__68">Bonn a. Rh.</placeName>
+               <date when="1913-06-10">10.06.1913</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2023-12-11" who="AA">Initiale Auszeichnung des Transkripts</change>
+         <change when="2025-02-25" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__68" type="place">Bonn a. Rh.</rs>, den <date
+                     when="1913-06-10">10. VI 1913</date>
+               </dateline>
+               <salute>Liebster <rs type="person" ref="#tillich_person_id__1928">Paul</rs>,</salute>
+            </opener>
+            <p> Nur dies noch: <rs ref="#tillich_person_id__1763" type="person">Seeberg</rs> hat <rs
+                  type="person" ref="#tillich_person_id__2347">Weber</rs> gegenüber brieflich
+               geäußert: er würde Dir zu <hi rend="u"><rs ref="#tillich_place_id__68" type="place"
+                     >Bonn</rs></hi> raten. Geld bekommst du, was Du willst aus der Kußerstiftung;
+               es steht hier viel auf dem Spiel. Ich hoffe u. hoffe noch auf Dich. Ich glaube <rs
+                  ref="#tillich_place_id__37" type="place">Berlin</rs> lauft nicht weg u. hier bist
+               Du unentbehrlicher <hi rend="u">und</hi> hast noch Jahre des stillen Arbeitens. <pb
+                  n="2"/>
+               <rs ref="#tillich_person_id__1874" type="person">Strathmann</rs> hat Dir wohl
+                  geschrieben.<note type="ea">Vgl. <rs type="letter" ref="#L00339">Brief von Hermann
+                     Strathmann an Paul Tillich vom 8. Juni 1913</rs>.</note>
+               <unclear>???</unclear>. hält es noch den Winter aus, wenn du nicht kommst. Schreib
+               mir bitte auch eine Karte. </p>
+            <closer>
+               <salute>Herz.</salute>
+               <signed>D. <rs type="person" ref="#tillich_person_id__1696">H.</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

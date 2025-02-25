@@ -1,97 +1,101 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00342">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Hans Graff an Paul Tillich <lb/>vom 14. Juni 1913</title>
-<author ref="#tillich_person_id__709">Hans Graff</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bMS 649/146</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__709">Hans Graff</persName>
-<date when="1913-06-14">14.06.1913</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-<change when="1886-08-20" who="Initialen des Editors">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline>
-   den <date when="1913-06-14">14.06.1913</date>
-</dateline>
-<salute>Sehr verehrter, lieber Herr Doktor.</salute>
-</opener>
-<p>
-   leider traf ich Sie nicht bei <rs ref="#tillich_person_id__2829" type="person">Mahling</rs>.
-   Ich wollte Sie bitten, Sonnabend den 21. d., zu einem
-   Butterbrot gemütlich zu mir
-   zu kommen.
-  </p>
-<closer>
-<salute>Mit herzlichem Gruß</salute>
-<signed>Ihr sehr ergebener Hans Graff.</signed>
-</closer>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Hans Graff an Paul Tillich <lb/>vom 14. Juni 1913</title>
+            <author ref="#tillich_person_id__709">Hans Graff</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/146</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__709">Hans Graff</persName>
+               <date when="1913-06-14">14.06.1913</date>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+         <change when="1886-08-20" who="Initialen des Editors">Initiale Auszeichnung des
+            Transkripts</change>
+         <change when="2025-02-25" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>W.b2, Luther Str. 45. <rs type="place" ref="#tillich_place_id__37"
+                     >Berlin</rs>, den <date when="1913-06-14">14. Juni 1913</date>. </dateline>
+               <salute>Sehr verehrter, lieber Herr <rs type="person" ref="#tillich_person_id__1928"
+                     >Doktor</rs>.</salute>
+            </opener>
+            <p> leider traf ich Sie nicht bei <rs ref="#tillich_person_id__2829" type="person"
+                  >Mahling</rs>. Ich wollte Sie bitten, Sonnabend den <date when="1913-06-21"
+                  >21.</date> d., zu einem Butterbrot gemütlich zu mir zu kommen. </p>
+            <closer>
+               <salute>Mit herzlichem Gruß</salute>
+               <signed>Ihr sehr ergebener <rs type="person" ref="#tillich_person_id__709">Hans
+                     Graff</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>
