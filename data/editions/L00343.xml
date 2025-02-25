@@ -1,112 +1,104 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00343">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Hermann Strathmann an Paul Tillich <lb/>vom 16. Juni 1913</title>
-<author ref="#tillich_person_id__1874">Hermann Strathmann</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bMS 649/190(32)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1874">Hermann Strathmann</persName>
-<date when="1913-06-16">16.06.1913</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-<change when="2023-12-11" who="AA">Initiale Auszeichnung des Transkripts</change>
-<change when="2024-02-05" who="JE">Einarbeitung von Korrekturen</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline>
-   den <date when="1913-06-16">16.06.1913</date>
-</dateline>
-<salute>Lieber Tillich!</salute>
-</opener>
-<p>
-   Ich warte mit Spannung
-   auf Deinen Bescheid. Es würde mir
-   nicht darauf ankommen, <choice><abbr>ev.</abbr><expan>eventuell</expan></choice> das Stift
-   nach ein Semester <choice><abbr>z.</abbr><expan>zu</expan></choice> behalten. Aber seit 1/4
-   Jahr bereits liege ich an 1 scheußlichen
-   Ischias zu Bett. Ich hoffe zwar, daß die
-   Besserung weiter fortschreitet. Aber ich
-   könnte nur mit größtem Risiko das
-   Stift im Winter noch behalten, da
-   ich verhairatet bin <choice><abbr>u.</abbr><expan>und</expan></choice> <choice><abbr>außerh.</abbr><expan>außerhalb</expan></choice> des
-   Stifts wohne. Könntest Du nicht, so
-   müßte ich schließlich das Opfer bringen -
-   oder wüßtest Du einen brauchbaren
-   Ersatz sonst? Ich wäre Dir sehr dankbar
-   für baldige Antwort.
-   <choice><abbr>Z.</abbr><expan>Zur</expan></choice> Zeit wohne ich zur Kur in
-   <rs ref="#tillich_place_id__603" type="place">Bad Meinberg</rs>, Lippe-Detmold,
-   Kurhaus zur Rohr
-  </p>
-<closer>
-<salute><choice><abbr>Hrzl. Gr.</abbr><expan>Herzliche Grüße</expan></choice></salute>
-<signed>Dein Strathmann</signed>
-</closer>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Hermann Strathmann an Paul Tillich <lb/>vom 16. Juni 1913</title>
+            <author ref="#tillich_person_id__1874">Hermann Strathmann</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/190(32)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1874">Hermann Strathmann</persName>
+               <date when="1913-06-16">16.06.1913</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2023-12-11" who="AA">Initiale Auszeichnung des Transkripts</change>
+         <change when="2024-02-05" who="JE">Einarbeitung von Korrekturen</change>
+         <change when="2025-02-25" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Lieber <rs type="person" ref="#tillich_person_id__1928"
+                  >Tillich</rs>!</salute>
+            </opener>
+            <p> Ich warte mit Spannung auf Deinen Bescheid. Es würde mir nicht darauf ankommen, ev.
+               das Stift nach ein Semester z. behalten. Aber seit 1/4 Jahr bereits liege ich an 1
+               scheußlichen Ischias zu Bett. Ich hoffe zwar, daß die Besserung weiter fortschreitet.
+               Aber ich könnte nur mit größtem Risiko das <del rend="s">???</del> Stift im Winter noch behalten, da ich
+               verheiratet bin u. außerh. des Stifts wohne. Könntest Du nicht, so müßte ich
+               schließlich das Opfer bringen – oder wüßtest Du einen brauchbaren Ersatz sonst? Ich
+               wäre Dir sehr dankbar für baldige Antwort. Z. Zeit wohne ich zur Kur in <rs
+                  ref="#tillich_place_id__603" type="place">Bad Meinberg</rs>, Lippe-Detmold,
+               Kurhaus zur Rohr </p>
+            <closer>
+               <salute>Hrzl. Gr.</salute>
+               <signed>Dein <rs type="person" ref="#tillich_person_id__1874"
+                  >Strathmann</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>
