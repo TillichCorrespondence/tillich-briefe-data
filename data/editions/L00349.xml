@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00348">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00349">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -56,7 +56,7 @@
 <correspDesc>
 <correspAction type="sent">
 <persName ref="#tillich_person_id__1594">Maria Rhine</persName>
-<placeName ref="#tillich_place_id__181">Eldena, Greifswald</placeName>
+<placeName ref="#tillich_place_id__181">Greifswald</placeName>
 <date when="1913-07-29">29.07.1913</date>
 </correspAction>
 <correspAction type="received">
@@ -69,7 +69,8 @@
 </profileDesc>
 <revisionDesc status="approved">
 <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-<change when="2023-12-06" who="AA">Initiale Auszeichnung des Transkripts</change>
+   <change when="2023-12-06" who="AA">Initiale Auszeichnung des Transkripts</change>
+   <change when="2025-02-25" who="EL">Endabnahme</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
@@ -78,20 +79,19 @@
 <pb n="1"/>
 <opener>
 <dateline>
-<rs ref="#tillich_place_id__181" type="place">Eldena, Greifswald</rs> bei Prof. D. Kögel.
-   , den 
-   <date when="1913-07-29">29.07.1913</date>
+   Eldena b <rs ref="#tillich_place_id__181" type="place">Greifswald</rs> bei Prof. D. <rs type="person" ref="tillich_person_id__2833">Kögel</rs>. den 
+   <date when="1913-07-29">29.VII.13</date>
 </dateline>
-<salute>Lieber Tillich,</salute>
+   <salute>Lieber <rs type="person" ref="#tillich_person_id__1928">Tillich</rs>,</salute>
 </opener>
 <p>
    ich weiß zwar nicht,
    warum Sie mir auf meinen vorigen
-   Brief nicht geantwortet haben,
+   <rs type="letter" ref="#L00348">Brief</rs> nicht geantwortet haben,
    aber vielleicht hatten Sie nicht genug
    Zeit. Wissen Sie, jeden Tag denke ich
    alles noch einmal durch. Ich muß Ihnen
-   <del>daß</del> doch sagen, zu welchem Schluß ich
+   <del rend="s">daß</del> doch sagen, zu welchem Schluß ich
    gekommen bin. Ganz objektiv: Es ist auch
    für mich unmöglich, eine Ehe einzugehen
    mit einem Manne, der mich
@@ -103,7 +103,7 @@
    sein, daß du ihm ohne Rückhalt Liebe
    erweisen kannst." Aber diesen Gedanken
    verwerfe ich. Denn ich kann
-   nicht nur <del>die S</del> den Leib besitzen
+   nicht nur <del rend="s">die S</del> den Leib besitzen
    sondern ich will die Seele haben.
    <hi rend="u">Ganz</hi>, soweit das zwischen zwei Menschen
    auf der Erde möglich ist. Sie sollen
@@ -123,7 +123,7 @@
    so recht, wieviel Liebe in Ihnen
    ist. Dann ich weiß doch, daß Sie
    nichts predigen, was Sie nicht selbst
-   <del>erh</del> erlebt haben. Gerade weil Sie
+   <del rend="s">erf</del> erlebt haben. Gerade weil Sie
    so viel wahre Liebe in sich haben,
    deshalb erscheint es Ihnen noch
    lange nicht genug. Und Gott hat
@@ -166,9 +166,9 @@
    dann zu Ihnen! Aber ich kann
    es doch, ich muß es können, und
    wenn ich daran sterben müßte,
-   Ihnen <del>G</del> die Seele zu wünschen,
+   Ihnen <del rend="s">G</del> die Seele zu wünschen,
    die für Sie geschaffen ist, und
-   wenn ich d es nicht bin, dann
+   wenn ich <del rend="s">d</del> es nicht bin, dann
    eben <hi rend="u">die</hi> andere. Aber Sie sollen
    ganz, ganz glücklich sein. Denn
    Sie haben doch im Leben so viele
@@ -191,7 +191,7 @@
   </p>
 <closer>
 <salute>Ihre </salute>
-<signed>Maria Klein.</signed>
+   <signed><rs type="person" ref="#tillich_person_id__1594">Maria Klein</rs>.</signed>
 </closer>
 <postscript>
 <p>
@@ -200,7 +200,7 @@
    ich möchte lieber einseitig lieben, als einseitig
    geliebt werden.
    Man wird so doch reicher.
-   Ich gebe mich Ihnen so hin, wie es von Mensch zu Menschmöglich ist – Auch in diesem Brief. – –
+   Ich gebe mich Ihnen so hin, wie es von Mensch zu Mensch möglich ist – Auch in diesem Brief. – –
    Können Sie mir nicht gleich hierher schreiben?
    </p>
 </postscript>
