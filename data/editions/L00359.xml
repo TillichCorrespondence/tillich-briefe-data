@@ -1,105 +1,105 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00359">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Eckart von Sydow an Paul Tillich <lb/>vom 18. August 1913</title>
-<author ref="#tillich_person_id__2008">Eckart von Sydow</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bMS 649/209(11)</idno>
-</msIdentifier>
-<physDesc>
-<p>Postkarte, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__2008">Eckart von Sydow</persName>
-<placeName ref="#tillich_place_id__306">München</placeName>
-<date when="1913-08-18">18.08.1913</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__80">Butterfelde bei Mohrin</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-<change when="2023-12-11" who="AA">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline>
-<rs ref="#tillich_place_id__80" type="place">Butterfelde bei Mohrin</rs>
-   , den 
-   <date when="1913-08-18">18.08.1913</date>
-</dateline>
-<salute>L.P.!</salute>
-</opener>
-<p>
-   Nach einigen verregneten, und verkälteten, 14 Tagen am <rs ref="#tillich_place_id__606" type="place">Ammersee</rs>,
-   bin ich heute wieder fidel durch die Sonnigkeit <rs ref="#tillich_place_id__306" type="place">Münchens</rs> spaziert.
-   Fand dabei einen modernsten Kunstsalon, aus dem diese Karte stammt. – Mein Dekadenz-Vortrag wird kaum
-   in Deine Vortragsreihe hineinpassen, denn so weit ich sehe, wird er eine Logisizierung enthalten. –
-   Lass mal was von Dir u. E<unclear>¿¿¿</unclear> hören!!! –
-  </p>
-<closer>
-<salute><choice><abbr>Herzl.</abbr><expan>Herzlichen</expan></choice> Gruß</salute>
-<signed>Dein Eckart</signed>
-</closer>
-<postscript>
-<p>((Fürstenstr 13. <unclear>¿¿¿ … ¿¿¿</unclear></p>
-</postscript>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Eckart von Sydow an Paul Tillich <lb/>vom 18. August 1913</title>
+            <author ref="#tillich_person_id__2008">Eckart von Sydow</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/209(11)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2008">Eckart von Sydow</persName>
+               <placeName ref="#tillich_place_id__306">München</placeName>
+               <date when="1913-08-18">18.08.1913</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__80">Butterfelde bei Mohrin</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2023-12-11" who="AA">Initiale Auszeichnung des Transkripts</change>
+         <change when="2025-02-26" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>L.<rs type="person" ref="#tillich_person_id__1928">P.</rs>!</salute>
+            </opener>
+            <p> Nach einigen verregneten, und verkälteten, 14 Tagen am <rs
+                  ref="#tillich_place_id__606" type="place">Ammersee</rs>, bin ich heute wieder
+               fidel durch die Sonnigkeit <rs ref="#tillich_place_id__306" type="place"
+                  >Münchens</rs> spaziert. Fand dabei einen modernsten Kunstsalon, aus dem diese
+               Karte stammt.<note type="ea">Das Motiv der Karte ist Le Compotier (1912) von Pablo
+                  Picasso.</note> – Mein Dekadenz-Vortrag wird kaum in Deine Vortragsreihe
+               hineinpassen, denn so weit ich sehe, wird er eine Logisizierung enthalten. – Lass mal
+               was von Dir u. Euch hören!!! – </p>
+            <closer>
+               <salute>~ Herzl. Gruß</salute>
+               <signed>Dein <rs type="person" ref="#tillich_person_id__2008">Eckart</rs></signed>
+            </closer>
+            <postscript>
+               <p>((Fürstenstr 13. <unclear>¿¿¿</unclear></p>
+            </postscript>
+         </div>
+      </body>
+   </text>
 </TEI>

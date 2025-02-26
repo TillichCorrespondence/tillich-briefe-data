@@ -1,96 +1,123 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00351">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Maria Rhine an Paul Tillich <lb/>vom 30. Juli 1913</title>
-<author ref="#tillich_person_id__1594">Maria Rhine</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0005-1475-7324">Jonas Epple</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bMS 649/178</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1594">Maria Rhine</persName>
-<placeName ref="#tillich_place_id__41">Lichtenrade</placeName>
-<date when="1913-07-30">30.07.1913</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-   <change when="2024-02-07" who="JE">Einarbeitung von Korrekturen</change>
-   <change when="2025-02-25" who="EL">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline>
-<rs ref="#tillich_place_id__41" type="place">Lichtenrade</rs>
-<date when="1913-07-30">30.07.1913</date>
-</dateline>
-   <salute>Lieber „<rs type="person" ref="#tillich_person_id__1928">Tillich</rs>",</salute>
-</opener>
-<p>
-   anbei sende ich Ihnen Frau <unclear cert="low">Bibros</unclear> Brief. Es ist schade, daß sie noch nicht für die Vorträge werben will, ehe sie persönlich Fühlung genommen hat. Aber zu verstehen ist es. — Wie geht es Ihnen jetzt? Fühlen Sie die alte Kraft wiederkehren? Ich war in <rs ref="#tillich_place_id__200" type="place">Hannover</rs> bei meiner <rs ref="#tillich_person_id__2791" type="person">Schwester Linda</rs>, der es noch recht jämmerlich geht, <choice><abbr>u.</abbr><expan>und</expan></choice> fahre nächste Woche nach <rs ref="#tillich_place_id__437" type="place">Thüringen</rs>, um <rs ref="#tillich_person_id__1062" type="person">Lisa</rs> abzuholen <choice><abbr>u.</abbr><expan>und</expan></choice> mit ihr die <rs ref="#tillich_place_id__467" type="place">Wartburg</rs> zu besteigen. Hier hausen<unclear>¿¿¿</unclear> und wüten wieder einmal die üblichen Sommer-Handwerker Maria ist vergnügt in <rs ref="#tillich_place_id__579" type="place">Eldena</rs> <choice><abbr>u.</abbr><expan>und</expan></choice> fährt vielleicht noch nach <rs ref="#tillich_place_id__561" type="place">Doberan</rs>, wo <rs ref="#tillich_person_id__2760" type="person">Peter</rs> sich schon seit Anfang der Ferien eingenistet hat. <rs ref="#tillich_person_id__2792" type="person">Mein Mann</rs>, Rudi <choice><abbr>u.</abbr><expan>und</expan></choice> Inge schnüren ihr Ränzel und wandern morgen nach <rs ref="#tillich_place_id__580" type="place">Wilhelmsdorf</rs> <choice><abbr>b.</abbr><expan>bei</expan></choice> <rs ref="#tillich_place_id__581" type="place">Brandenburg</rs> zu <rs ref="#tillich_person_id__2793" type="person">Dr. Jellinghaus</rs>, in dessen großartig florierendem Erholungsheim mein Mann einen Lichtbilder-Vortrag über <rs ref="#tillich_place_id__582" type="place">Palästina</rs> halten will. Der <rs ref="#tillich_person_id__2020" type="person">Vater Wegener</rs> malt augenblicklich <rs ref="#tillich_person_id__2792" type="person">meinen Mann</rs> <choice><abbr>u.</abbr><expan>und</expan></choice> vielleicht danach auch mich. Ihre L. Klein."</p>
-<closer>
-<salute>Herzlich grüßt Sie <choice><abbr>u.</abbr><expan>und</expan></choice> die Ihrigen</salute>
-<signed>Ihre L. Klein.</signed>
-</closer>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Lisa Klein an Paul Tillich <lb/>vom 30. Juli 1913</title>
+            <author ref="#tillich_person_id__1062">Lisa Klein</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0005-1475-7324">Jonas Epple</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/178</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1062">Lisa Klein</persName>
+               <placeName ref="#tillich_place_id__41">Lichtenrade</placeName>
+               <date when="1913-07-30">30.07.1913</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2024-02-07" who="JE">Einarbeitung von Korrekturen</change>
+         <change when="2025-02-25" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__41" type="place">Lichtenrade</rs>, <date
+                     when="1913-07-30">30.7.13</date>
+               </dateline>
+               <salute>Lieber „<rs type="person" ref="#tillich_person_id__1928"
+                  >Tillich</rs>",</salute>
+            </opener>
+            <p> anbei sende ich Ihnen Frau <unclear cert="low">Libros</unclear> Brief. Es ist
+               schade, daß sie noch nicht für die Vorträge werben will, ehe sie persönlich Fühlung
+               genommen hat. Aber zu verstehen ist es. — Wie geht es Ihnen jetzt? Fühlen Sie die
+               alte Kraft wiederkehren? Ich war in <rs ref="#tillich_place_id__200" type="place"
+                  >Hannover</rs> bei meiner <rs ref="#tillich_person_id__2791" type="person"
+                  >Schwester Linda</rs>, der es noch recht jämmerlich geht, u. fahre nächste Woche
+               nach <rs ref="#tillich_place_id__437" type="place">Thüringen</rs>, um <rs
+                  ref="#tillich_person_id__1062" type="person">Lisa</rs> abzuholen u. mit ihr die
+                  <rs ref="#tillich_place_id__467" type="place">Wartburg</rs> zu besteigen. Hier
+               hausen und wüten wieder einmal die üblichen Sommer-Handwerker. <rs type="person"
+                  ref="#tillich_person_id__1594">Maria</rs> ist vergnügt in <rs
+                  ref="#tillich_place_id__579" type="place">Eldena</rs> u. fährt vielleicht noch
+               nach <rs ref="#tillich_place_id__561" type="place">Doberan</rs>, wo <rs
+                  ref="#tillich_person_id__2760" type="person">Peter</rs> sich schon seit Anfang der
+               Ferien eingenistet hat. <rs ref="#tillich_person_id__2792" type="person">Mein
+                  Mann</rs>, <rs type="person" ref="#tillich_person_id__2827">Rudi</rs> u. <rs
+                  type="person" ref="#tillich_person_id__3165">Inge</rs> schnüren ihr Ränzel und
+               wandern morgen nach <rs ref="#tillich_place_id__580" type="place">Wilhelmsdorf</rs>
+               b. <rs ref="#tillich_place_id__581" type="place">Brandenburg</rs> zu <rs
+                  ref="#tillich_person_id__2793" type="person">Dr. Jellinghaus</rs>, in dessen
+               großartig florierendem Erholungsheim mein Mann einen Lichtbilder-Vortrag über <rs
+                  ref="#tillich_place_id__582" type="place">Palästina</rs> halten will. Der <rs
+                  ref="#tillich_person_id__2020" type="person">Vater Wegener</rs> malt
+               augenblicklich <rs ref="#tillich_person_id__2792" type="person">meinen Mann</rs> u.
+               vielleicht danach auch mich.</p>
+            <closer>
+               <salute>Herzlich grüßt Sie u. die Ihrigen</salute>
+               <signed>Ihre <rs type="person" ref="#tillich_person_id__1062">L. Klein</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>
