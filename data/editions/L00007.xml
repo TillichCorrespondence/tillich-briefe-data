@@ -1,90 +1,105 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00007">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Wilhelmina Mathilde Tillich <lb/>vom 22. Oktober 1898</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name>Anna Rüther</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__279">Marburg</settlement>
-<institution>Philipps-Universität Marburg</institution>
-<repository>Deutsches Paul-Tillich-Archiv</repository>
-<idno>008 A</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="where">Königsberg</placeName>
-<date when="1898-10-22">22.10.1898</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1929">Wilhelmina Mathilde Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-10-20" who="AR">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline>
-<rs ref="#tillich_place_id__515" type="place">Königsberg</rs>
-   , den 
-   <date when="2023-10-22">22.10.1898</date>
-</dateline>
-<salute>Liebe <rs ref="#tillich_person_id__1929" type="person">Mama</rs>!</salute>
-</opener>
-<p>Mir geht es hier sehr <del>schö</del> gut. Hoffentlich auch Euch. Ich habe schon einen Brief von <rs ref="#tillich_person_id__1931" type="person">Großmama</rs> und <rs ref="#tillich_person_id__1926" type="person">Großpapa</rs> bekommen, welchen ich leider nicht gut lesen konnte. Ich habe gar kein Heimweh bekommen, denn es ist hier sehr schön. <sic>Freulein</sic> <unclear cert="medium">Kleedehe</unclear> <subst><del>läß</del><add>läßt</add></subst> Dich grüßen. Hier hat es schon geschneit, worüber ich mich sehr gefreut habe!
-Auch hatte sich die Wiese schon mit einer dünnen Eisdecke bekleidet, welche jedoch jetzt wieder aufgetaut ist! Das Gymnasium gefällt mir ganz gut. Wir kommen alle Tage um 1 raus und haben Nachmittag keine Schule bis auf Dienstag und Freitag, wo wir um 11 rauskommen, aber Nachmittag von 2-6 Schule haben. Wir 4 sitzen. Die 4 letzten. Die Lehrer sind meistens ganz gut. In dieser Woche hatte ich auch nicht viel zu thun. Jedenfalls…</p>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Wilhelmina Mathilde Tillich <lb/>vom 22. Oktober
+               1898</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Anna Rüther</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
+                  <institution>Philipps-Universität Marburg</institution>
+                  <repository>Deutsches Paul-Tillich-Archiv</repository>
+                  <idno>008 A</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="where">Königsberg</placeName>
+               <date when="1898-10-22">22.10.1898</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1929">Wilhelmina Mathilde Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-10-20" who="AR">Initiale Auszeichnung des Transkripts</change>
+         <change when="2025-03-04" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__515" type="place">Königsberg</rs> , den <date
+                     when="2023-10-22">22.10.1898</date>
+               </dateline>
+               <salute>Liebe <rs ref="#tillich_person_id__1929" type="person">Mama</rs>!</salute>
+            </opener>
+            <p>Mir geht es hier sehr <del>schö</del> gut. Hoffentlich auch Euch. Ich habe schon
+               einen Brief<note type="ea">Nicht überliefert.</note> von <rs
+                  ref="#tillich_person_id__1930" type="person">Großmama</rs> und <rs
+                  ref="#tillich_person_id__1926" type="person">Großpapa</rs> bekommen, welchen ich
+               leider nicht gut lesen konnte. Ich habe gar kein Heimweh bekommen, denn es ist hier
+               sehr schön. <sic>Freulein</sic>
+               <rs type="person" ref="#tillich_person_id__2830">Kleedehe</rs> läß Dich grüßen. Hier hat es schon
+               geschneit, worüber ich mich sehr gefreut habe! Auch hatte sich die Wiese schon mit
+               einer dünnen Eisdecke bekleidet, welche jedoch jetzt wieder aufgetaut ist! Das
+               Gymnasium gefällt mir ganz gut. Wir kommen alle Tage um 1 raus und haben Nachmittag
+               keine Schule bis auf Dienstag und Freitag, wo wir um 11 rauskommen, aber Nachmittag
+               von 2-6 Schule haben. Wir 4 sitzen. Die 4 letzten. Die Lehrer sind meistens ganz gut.
+               In dieser Woche hatte ich auch nicht viel zu thun. Jedenfalls…</p>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,102 +1,111 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00008">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Wilhelmina Mathilde Tillich <lb/>vom 5. November 1898</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
-<institution>Harvard</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bMS 649/193</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__515">Königsberg</placeName>
-<date when="1898-11-05">05.11.1898</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1929">Wilhelmina Mathilde Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
-<change when="2024-01-15" who="AA">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline>
-<placeName ref="#tillich_place_id__515">Königsberg</placeName>
-   , den 
-   <date when="1898-11-05">05.11.1898</date>
-</dateline>
-<salute>Liebe Mama!</salute>
-</opener>
-<p>
-   Ich befinde mich hier sehr wohl, wie ich hoffe geht es Euch auch gut. Grüße alle, besonders <rs ref="#tillich_person_id__1926" type="person">Großpapa</rs>.
-   Walter Hafemann hat seit einiger Zeit Kehlkopfkatar. <sic>Freulein</sic> <unclear cert="high">Kleedehe</unclear> läßt grüßen. Hast Du
-   schon einen Brief von <rs ref="#tillich_person_id__1924" type="person">Papa</rs> bekommen? Du hast gewiß schon in der Zeitung gelesen, daß sie schon auf der
-   Rückreise begriffen sind.
-   Hast Du auch jetzt noch solche Angst um <rs ref="#tillich_person_id__1924" type="person">Papa</rs>? Hier ist sehr schönes Wetter. Als ich ankam bekam ich noch eine
-   Karte von <rs ref="#tillich_person_id__1924" type="person">Papa</rs>. Morgen giebt es eine Gans. Bitte schicke mir durch den Omnibuskutscher einige Äpfel.
-  </p>
-<closer>
-<salute>Viele Grüße und Küße von Deinem treuen</salute>
-<signed>Paul Tillich.</signed>
-</closer>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Wilhelmina Mathilde Tillich <lb/>vom 5. November
+               1898</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
+                  <institution>Harvard</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/193</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__515">Königsberg</placeName>
+               <date when="1898-11-05">05.11.1898</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1929">Wilhelmina Mathilde Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2024-01-15" who="AA">Initiale Auszeichnung des Transkripts</change>
+         <change when="2025-03-04" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <placeName ref="#tillich_place_id__515">Königsberg</placeName> , den <date
+                     when="1898-11-05">05.11.1898</date>
+               </dateline>
+               <salute>Liebe <rs type="person" ref="#tillich_person_id__1929">Mama</rs>!</salute>
+            </opener>
+            <p> Ich befinde mich hier sehr wohl, wie ich hoffe geht es Euch auch gut. Grüße alle,
+               besonders <rs ref="#tillich_person_id__1926" type="person">Großpapa</rs>. <rs
+                  type="person" ref="#tillich_person_id__3189">Walter Hafemann</rs> hat seit einiger
+               Zeit Kehlkopfkatar. <sic>Freulein</sic>
+               <rs type="person" ref="#tillich_person_id__2830">Kleedehe</rs> läßt grüßen. Hast Du
+               schon einen Brief von <rs ref="#tillich_person_id__1924" type="person">Papa</rs><note
+                  type="ea">Nicht überliefert.</note> bekommen? Du hast gewiß schon in der Zeitung
+               gelesen, daß sie schon auf der Rückreise begriffen sind. Hast Du auch jetzt noch
+               solche Angst um <rs ref="#tillich_person_id__1924" type="person">Papa</rs>? Hier ist
+               sehr schönes Wetter. Als ich ankam bekam ich noch eine Karte<note type="ea">Nicht
+                  überliefert.</note> von <rs ref="#tillich_person_id__1924" type="person"
+               >Papa</rs>. Morgen giebt es eine Gans. Bitte schicke mir durch den Omnibuskutscher
+               einige Äpfel. </p>
+            <closer>
+               <salute>Viele Grüße und Küße von Deinem treuen</salute>
+               <signed><rs type="person" ref="#tillich_person_id__1928">Paul Tillich</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>
