@@ -1,104 +1,119 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00012">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Johannes Oskar, Marie und Margarete Tillich <lb/>vom 30. März 1899</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__279">Marburg</settlement>
-<institution>Philipps-Universität Marburg</institution>
-<repository>Deutsches Paul-Tillich-Archiv</repository>
-<idno>008 A</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__398">Schönfließ</placeName>
-<date when="1899-03-30">30.03.1899</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1924">Johannes Oskar Tillich</persName>
-<persName ref="#tillich_person_id__1930">Marie Tillich</persName>
-<persName ref="#tillich_person_id__1925">Margarete Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-<change when="2023-11-21" who="AA">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline>
-<rs ref="#tillich_place_id__398" type="place">Schönfließ</rs>
-   , den
-   <date when="1899-03-30">30.03.1899</date>
-</dateline>
-<salute>Lieber Großpapa, liebe Großmama, liebe Tante Grete.</salute>
-</opener>
-<p>
-   Nun bin ich wieder zu Hause bei <rs ref="#tillich_person_id__1924" type="person">Papa</rs> und <rs ref="#tillich_person_id__1929" type="person">Mama</rs>; denn wir haben morgigen Sonnabend Ferien bekommen.
-   Ich <del rend="s">h</del> bin als siebenter nach Obertertia versetzt worden. Dienstag kamen <rs ref="#tillich_person_id__1762" type="person">Eli<del rend="s">e</del>sabeth</rs> <unclear cert="high">Kalle</unclear>
-   und <rs ref="#tillich_person_id__2225" type="person">Tante Eugenie</rs> mit unserer neuen Bahn. Ich wünsche Euch allen ein fröhliches <date when="1899-04-02">Osterfest</date>. <rs ref="#tillich_person_id__644" type="person">Johanna</rs> und
-   <rs ref="#tillich_person_id__1762" type="person">Eli<del rend="s">e</del>sabeth</rs> lassen grüßen.
-  </p>
-<p><add place="left">
-   Fröhliche, gesegnete Ostern wünschen wir allen. Wir sind alle munter und vergnügt. Bitte schickt am 5. noch 2 Mohnkränze und <unclear cert="high">Streusel</unclear> mit. <unclear>¿¿¿…¿¿¿</unclear> und habe viel zu thun. Grüße und Kuß in Liebe Eure <unclear reason="covered">M</unclear>
-</add></p>
-<closer>
-<salute>Mit vielen Grüßen und Küssen</salute>
-<signed>von Eurem Paul.</signed>
-</closer>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Johannes Oskar, Marie und Margarete Tillich <lb/>vom
+               30. März 1899</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
+                  <institution>Philipps-Universität Marburg</institution>
+                  <repository>Deutsches Paul-Tillich-Archiv</repository>
+                  <idno>008 A</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__398">Schönfließ</placeName>
+               <date when="1899-03-30">30.03.1899</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1926">Oskar Tillich</persName>
+               <persName ref="#tillich_person_id__1930">Marie Tillich</persName>
+               <persName ref="#tillich_person_id__1925">Margarete Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2023-11-21" who="AA">Initiale Auszeichnung des Transkripts</change>
+         <change when="2025-03-05" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__398" type="place">Schönfließ</rs> , den <date
+                     when="1899-03-30">30.03.1899</date>
+               </dateline>
+               <salute>Lieber <rs type="person" ref="#tillich_person_id__1926">Großpapa</rs>, liebe
+                     <rs type="person" ref="#tillich_person_id__1930">Großmama</rs>, liebe <rs
+                     type="person" ref="#tillich_person_id__1925">Tante Grete</rs>.</salute>
+            </opener>
+            <p> Nun bin ich wieder zu Hause bei <rs ref="#tillich_person_id__1924" type="person"
+                  >Papa</rs> und <rs ref="#tillich_person_id__1929" type="person">Mama</rs>; denn
+               wir haben morgigen Sonnabend Ferien bekommen. Ich <del rend="s">h</del> bin als
+               siebenter nach Obertertia versetzt worden. Dienstag kamen <rs
+                  ref="#tillich_person_id__1762" type="person">Eli<del rend="s">e</del>sabeth</rs>
+               <unclear cert="high">Kalle</unclear> und <rs ref="#tillich_person_id__2225"
+                  type="person">Tante Eugenie</rs> mit unserer neuen Bahn. Ich wünsche Euch allen
+               ein fröhliches <date when="1899-04-02">Osterfest</date>. <rs
+                  ref="#tillich_person_id__644" type="person">Johanna</rs> und <rs
+                  ref="#tillich_person_id__1762" type="person">Eli<del rend="s">e</del>sabeth</rs>
+               lassen grüßen. </p>
+            <p><add place="left"> Fröhliche, gesegnete Ostern wünschen wir allen. Wir sind alle
+                  munter und vergnügt. Bitte schickt am <date when="1899-04-05">5.</date> noch 2
+                  Mohnkränze und <unclear cert="high">Streusel</unclear> mit.
+                     <unclear>¿¿¿…¿¿¿</unclear> und habe viel zu thun. Grüße und Kuß in Liebe Eure
+                     <unclear reason="covered">M</unclear>
+               </add></p>
+            <closer>
+               <salute>Mit vielen Grüßen und Küssen</salute>
+               <signed>von Eurem <rs type="person" ref="#tillich_person_id__1928"
+                  >Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>
