@@ -1,104 +1,121 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01303">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Gustav Hoelscher <lb/>vom 21. März 1924</title>
-      <author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript"><!-- Manuskript, Typoskript, Transskript oder Kopie -->
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__279">Marburg</settlement>
-<institution>Hessisches Staatsarchiv Marburg</institution>
-<idno>307a acc. 1962/i2 Nr. 64</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__38">Berlin-Fridenau</placeName>
-<date when="1924-03-21">21.03.1924</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__2801">Gustav Hoelscher</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2024-02-07" who="AA">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau, Taunusstr. 1</rs>,
-      den <date when="1924-03-21">21.03.1924</date>
-<salute>Hochverehrter Herr Professor,</salute>
-</opener>
-<p>
-      Die Mitteilung des Ministeriums ist insofern für mich eine große Enttäuschung, als dadurch meine Absicht,
-     die zweite Umhabilitation zu vermeiden, vereitelt ist und ich auch nicht einmal weiß, wie ich mich in
-     der Wohnungssache zu verhalten habe, falls mir eine gute Tauschwohnung angeboten wird. Denn ich kann
-     doch nicht annehmen, dass eine Möbelfirma sich darauf einlässt, mit der Bezahlung zu warten, bis das
-     Ministerium Geld hat. Es wird also in dieser Beziehung nichts übrig bleiben, als zunächst eine schon
-     gemietete möblierte Wohnung zu beziehen, und falls sich ein Tausch bietet, beim Ministerium anzufragen,
-     ob das Geld da ist. Vor allem aber möchte ich Sie fragen, worin die Umhabilitation bestehen soll und
-     wann sie als vollzogen gelten kann? Ich nehme als selbstverständlich an, dass die üblichen Formalitäten,
-     die Antrittsvorlesung, <choice><abbr>u.</abbr><expan>und</expan></choice> <choice><abbr>dergl.</abbr><expan>dergleichen</expan></choice> nicht in Frage kommen. Es würde also die Erklärung meiner Bereitwilligkeit,
-      zu kommen, das Mieten einer Wohnung am <date when="1924-04-01">1. April</date> ab, und die Ankündigung einer vierstündigen Vorlesung
-     über Geistesgeschichte der protestantischen Theologie an den 4 Hauptwochentagen von 4-5 Uhr meiner
-     Ansicht nach genügen, um den Tatbestand der Umhabilitation zu dokumentieren. Es würde dann für Sie sofort
-     möglich sein, den Antrag auf Erteilung des Professortitels spätestens am <date when="1924-04-01">1. April</date> zu stellen.
-    </p>
-<p>Ich wäre Ihnen sehr für baldige Rückantwort über diese Punkte sehr dankbar</p>
-<closer>
-<salute>Mit ergebenstem Gruß</salute>
-<signed>Ihr P. Tillich</signed>
-</closer>
-</div>
-</body>
-</text>
+      <teiHeader>
+            <fileDesc>
+                  <titleStmt>
+                        <title>Brief von Paul Tillich an Gustav Hoelscher <lb/>vom 21. März
+                              1924</title>
+                        <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                        <respStmt>
+                              <resp>Editor</resp>
+                              <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+                        </respStmt>
+                  </titleStmt>
+                  <editionStmt>
+                        <edition>
+                              <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                                    1887-1933</title>
+                        </edition>
+                  </editionStmt>
+                  <publicationStmt>
+                        <publisher>
+                              <name>Institut für Systematische Theologie und
+                                    Religionswissenschaft</name>
+                              <address>
+                                    <street>Schenkenstraße 8-10</street>
+                                    <postCode>1010</postCode>
+                                    <placeName ref="#tillich_place_id__470">Wien</placeName>
+                              </address>
+                        </publisher>
+                        <availability>
+                              <licence target="http://creativecommons.org/licenses/by-sa/4.0/"
+                                    >Creative Commons Attribution 4.0 International (CC BY
+                                    4.0)</licence>
+                        </availability>
+                  </publicationStmt>
+                  <sourceDesc>
+                        <msDesc type="manuscript">
+                              <!-- Manuskript, Typoskript, Transskript oder Kopie -->
+                              <msIdentifier>
+                                    <country>Deutschland</country>
+                                    <settlement ref="#tillich_place_id__279">Marburg</settlement>
+                                    <institution>Hessisches Staatsarchiv Marburg</institution>
+                                    <idno>307a acc. 1962/i2 Nr. 64</idno>
+                              </msIdentifier>
+                              <physDesc>
+                                    <p>Brief, eigenhändig</p>
+                              </physDesc>
+                        </msDesc>
+                  </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+                  <projectDesc>
+                        <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+                  </projectDesc>
+                  <editorialDecl>
+                        <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des
+                              DTA-Basisformats. Vgl.
+                              https://www.deutschestextarchiv.de/doku/basisformat/</p>
+                  </editorialDecl>
+            </encodingDesc>
+            <profileDesc>
+                  <correspDesc>
+                        <correspAction type="sent">
+                              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                              <placeName ref="#tillich_place_id__38">Berlin-Fridenau</placeName>
+                              <date when="1924-03-21">21.03.1924</date>
+                        </correspAction>
+                        <correspAction type="received">
+                              <persName ref="#tillich_person_id__2801">Gustav Hoelscher</persName>
+                        </correspAction>
+                  </correspDesc>
+                  <langUsage>
+                        <language ident="deu">Deutsch</language>
+                  </langUsage>
+            </profileDesc>
+            <revisionDesc status="approved">
+                  <change when="2024-02-07" who="AA">Initiale Auszeichnung des Transkripts</change>
+            </revisionDesc>
+      </teiHeader>
+      <text type="letter">
+            <body>
+                  <div type="writingSession">
+                        <pb n="1"/>
+                        <opener>
+                              <dateline><rs ref="#tillich_place_id__38" type="place"
+                                          >Berlin-Friedenau</rs>, Taunusstr. 1, den <date
+                                          when="1924-03-21">21.03.1924</date></dateline>
+                              <salute>Hochverehrter <rs ref="#tillich_person_id__2801" type="person"
+                                          >Herr Professor</rs>,</salute>
+                        </opener>
+                        <p>Die Mitteilung des Ministeriums ist insofern für mich eine große
+                              Enttäuschung, als dadurch meine Absicht, die zweite Umhabilitation zu
+                              vermeiden, vereitelt ist und ich auch nicht einmal weiß, wie ich mich
+                              in der Wohnungssache zu verhalten habe, falls mir eine gute
+                              Tauschwohnung angeboten wird. Denn ich kann doch nicht annehmen, dass
+                              eine Möbelfirma sich darauf einlässt, mit der Bezahlung zu warten, bis
+                              das Ministerium Geld hat. Es wird also in dieser Beziehung nichts
+                              übrig bleiben, als zunächst eine schon gemietete möblierte Wohnung zu
+                              beziehen, und falls sich ein Tausch bietet, beim Ministerium
+                              anzufragen, ob das Geld da ist. Vor allem aber möchte ich Sie fragen,
+                              worin die Umhabilitation bestehen soll und wann sie als vollzogen
+                              gelten kann? Ich nehme als selbstverständlich an, dass die üblichen
+                              Formalitäten, die Antrittsvorlesung, u. dergl. nicht in Frage kommen.
+                              Es würde also die Erklärung meiner Bereitwilligkeit, zu kommen, das
+                              Mieten einer Wohnung am <date when="1924-04-01">1. April</date> ab,
+                              und die Ankündigung einer vierstündigen Vorlesung über
+                              Geistesgeschichte der protestantischen Theologie an den 4
+                              Hauptwochentagen von 4–5 Uhr meiner Ansicht nach genügen, um den
+                              Tatbestand der Umhabilitation zu dokumentieren. Es würde dann für Sie
+                              sofort möglich sein, den Antrag auf Erteilung des Professortitels
+                              spätestens am <date when="1924-04-01">1. April</date> zu stellen.</p>
+                        <p>Ich wäre Ihnen sehr für baldige Rückantwort über diese Punkte sehr
+                              dankbar</p>
+                        <closer>
+                              <salute>Mit ergebenstem Gruß</salute>
+                              <signed>Ihr <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
+                        </closer>
+                  </div>
+            </body>
+      </text>
 </TEI>
