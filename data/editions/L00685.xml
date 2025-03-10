@@ -3,7 +3,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 1. Oktober 1920</title>
+<title>Brief von Paul Tillich an Hannah Tillich <lb/>vom Oktober 1920</title>
 <author ref="#tillich_person_id__1928">Paul Tillich</author>
 <respStmt>
 <resp>Editor</resp>
@@ -35,8 +35,8 @@
 <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
 <institution>Harvard</institution>
 <repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bMS721/2.16</idno>
+   <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+   <idno>bMS 721/2(16)</idno>
 </msIdentifier>
 <physDesc>
 <p>Brief, eigenhändig</p>
@@ -56,7 +56,7 @@
 <correspDesc>
 <correspAction type="sent">
 <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<date notBefore="1920-10-01">01.10.1920</date>
+<date when="1920-10">10.1920</date>
 </correspAction>
 <correspAction type="received">
 <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
@@ -69,6 +69,7 @@
 <revisionDesc status="approved">
 <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
 <change when="2024-02-08" who="AR">Initiale Auszeichnung des Transkripts</change>
+   <change when="2025-03-10" who="FS">Kollationierung</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
@@ -76,12 +77,9 @@
 <div type="writingSession">
 <pb n="1"/>
 <opener>
-<dateline> den 
-   <date notBefore="1920-10-01">01.10.1920</date>
-</dateline>
-<salute>Hannah, unsäglich Geliebte!</salute>
+   <salute><rs ref="#tillich_person_id__1923" type="person">Hannah</rs>, unsäglich Geliebte!</salute>
 </opener>
-<p>Eben habe ich einen Brief an Frau Gottschow zugeklebt, und nun schäumt es in mir über, zu Dir hin; mein ganzes Innen stürzt wie eine Woge über Dich in den Schoß Deiner Seele. Ich bin Dir nahe und Du bist mir nahe; in Dir hat mein irdisches Dasein täglich seinen Sinn, schon längst lebe ich nur für Dich. Lange hörte ich nichts von Dir, aber es ist Dir wohl nicht möglich, in <rs ref="#tillich_place_id__306" type="place">München</rs> zu schreiben; wie jammervoll, daß Dein Brief mich nicht erreicht hat; ich hätte so gut vom 1. –3. in <rs ref="#tillich_place_id__306" type="place">München</rs> sein können. Beinahe wäre ich an <rs ref="#tillich_place_id__567" type="place">Greiz</rs> vorbeigekommen, zwischen <rs ref="#tillich_place_id__596" type="place">Plauen</rs> und <rs ref="#tillich_place_id__260" type="place">Leipzig</rs>; ich habe die Landschaft in mich gefressen hinter <rs ref="#tillich_place_id__596" type="place">Plauen</rs>; aber wir fuhren eine andre Strecke. – Du schreibst von einer Lehrerinnenstelle von Oktober 1920 an; Du meinst natürlich 1921. Ich werde es schaffen; sobald Du mir Definitives sagst, werde ich Fühlung nehmen. – Hannah, ich bin vom 1. Jan ab ohne Geld; ich erfuhr, daß man mir meine Stadtvikariatsstelle zum Vorwurf macht, und auch meinem Vater, wegen seiner entgegengesetzten <pb n="2"/> kirchenpolitischen Stellung es verdenkt, daß ich vom Konsistorium gehalten werde. Ich habe mich entschlossen zu verzichten; gleichzeitig habe ich in <rs ref="#tillich_place_id__189" type="place">Halle</rs> auf ein Stipendium verzichtet, das auch in andrer Richtung gemeint war, als ich sie vertrete. Nun kommt die Frage, ob ich meine Wohnung z.<expan>um</expan> Teil vermieten soll; mir wird es schwer, zumal ich immer den Gedanken habe, sie für Dich freizuhalten; was denkst Du? Du mußt sehr bald im November kommen, nicht um irgend eine Unsicherheit zu überwinden; die gibt es von mir aus nicht, sondern um die selige Bestätigung der Einheit zu haben, die immer da ist, und um vieles zu besprechen. – Es ist ein merkwürdiges Gefühl, unmittelbar vor der materiellen Not zu stehen; aber der Gedanke an Dich macht mir alles leicht. – Wie stehst Du zu <rs ref="#tillich_person_id__705" type="person">Albert</rs>? Kannst Du ihn dahin führen, daß er von selbst fühlt, daß in Dir etwas ist, was weit über Eure Ehe hinausliegt, und daß er dieses bejaht? Das wäre Dein größtes Werk und wichtigstes zur Zeit. – – </p>
+   <p>Eben habe ich einen Brief<note type="ea">Dieser Brief liegt nicht vor.</note> an <rs ref="#tillich_person_id__3193" type="person">Frau Gottschow</rs> zugeklebt, und nun schäumt es in mir über, zu Dir hin; mein ganzes Innen stürzt wie eine Woge über Dich in den Schoß Deiner Seele. Ich bin Dir nahe und Du bist mir nahe; in Dir hat mein irdisches Dasein täglich seinen Sinn, schon längst lebe ich nur für Dich. Lange hörte ich nichts von Dir, aber es ist Dir wohl nicht möglich, in <rs ref="#tillich_place_id__306" type="place">München</rs> zu schreiben; wie jammervoll, daß Dein Brief<note type="ea">Dieser Brief liegt nicht vor.</note> mich nicht erreicht hat; ich hätte so gut vom 1.-3. in <rs ref="#tillich_place_id__306" type="place">München</rs> sein können. Beinahe wäre ich an <rs ref="#tillich_place_id__567" type="place">Greiz</rs> vorbeigekommen, zwischen <rs ref="#tillich_place_id__596" type="place">Plauen</rs> und <rs ref="#tillich_place_id__260" type="place">Leipzig</rs>; ich habe die Landschaft in mich gefressen hinter <rs ref="#tillich_place_id__596" type="place">Plauen</rs>; aber wir fuhren eine andre Strecke. – Du schreibst von einer Lehrerinnenstelle von Oktober 1920 an; Du meinst natürlich 1921. Ich werde es schaffen; sobald Du mir Definitives sagst, werde ich Fühlung nehmen. – <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>, ich bin vom 1. Jan ab ohne Geld; ich erfuhr, daß man mir meine Stadtvikariatsstelle zum Vorwurf macht, und auch meinem Vater, wegen seiner entgegengesetzten<pb n="2"/> kirchenpolitischen Stellung es verdenkt, daß ich vom Konsistorium gehalten werde. Ich habe mich entschlossen zu verzichten; gleichzeitig habe ich in <rs ref="#tillich_place_id__189" type="place">Halle</rs> auf ein Stipendium verzichtet, das auch in andrer Richtung gemeint war, als ich sie vertrete. Nun kommt die Frage, ob ich meine Wohnung z. Teil vermieten soll; mir wird es schwer, zumal ich immer den Gedanken habe, sie für Dich freizuhalten; was denkst Du? Du mußt sehr bald im November kommen, nicht um irgend eine Unsicherheit zu überwinden; die gibt es von mir aus nicht, sondern um die selige Bestätigung der Einheit zu haben, die immer da ist, und um vieles zu besprechen. – Es ist ein merkwürdiges Gefühl, unmittelbar vor der materiellen Not zu stehen; aber der Gedanke an Dich macht mir alles leicht. – Wie stehst Du zu <rs ref="#tillich_person_id__705" type="person">Albert</rs>? Kannst Du ihn dahin führen, daß er von selbst fühlt, daß in Dir etwas ist, was weit über Eure Ehe hinausliegt, und daß er dieses bejaht? Das wäre Dein größtes Werk und wichtigstes zur Zeit. – – </p>
 </div>
 </body>
 </text>
