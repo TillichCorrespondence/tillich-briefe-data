@@ -39,29 +39,27 @@
 <idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
 </msIdentifier>
 <physDesc>
-<p>Maschinenschriftlich</p>
+<p>Briefdurchschlag, maschinenschriftlich</p>
 </physDesc>
-<additional>
-<listBibl>
-<biblStruct n="1" type="journal">
-<monogr>
-<author>GRAF, FRIEDRICH WILHELM</author>
-<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-<imprint>
-<publisher>De Gruyter</publisher>
-<date when="2020">2020</date>
-<biblScope>26-170</biblScope>
-</imprint>
-</monogr>
-<series>
-<title>Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte</title>
-<biblScope>Vol. 27 (Issue 1)</biblScope>
-
-</series>
-</biblStruct>
-</listBibl>
-</additional>
-</msDesc>
+      <additional>
+            <listBibl>
+                  <biblStruct type="journal">
+                        <monogr>
+                              <author>Friedrich Wilhelm Graf</author>
+                              <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+                              <imprint>
+                                    <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                                    <date when="2020">2020</date>
+                                    <biblScope>S. 26–170, hier: 113</biblScope>
+                              </imprint>
+                        </monogr>
+                        <series>
+                              <title>Zeitschrift für Neuere Theologiegeschichte</title>
+                              <biblScope>27/1</biblScope>
+                        </series>
+                  </biblStruct>
+            </listBibl>
+      </additional></msDesc>
 </sourceDesc>
 </fileDesc>
 <encodingDesc>
@@ -90,19 +88,15 @@
 <revisionDesc status="approved">
 <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
 <change when="2024-01-18" who="AR">Initiale Auszeichnung des Transkripts</change>
+      <change when="2025-03-17" who="FS">Kollationierung</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
 <body>
 <div type="writingSession">
 <pb n="1"/>
-<opener>
-<dateline>
-      den <date when="1921-06-17">17.06.1921</date>
-</dateline>
-<salute>Sehr geehrter Herr Doktor!</salute>
-</opener>
-<p>Wir vollenden soeben die <rs ref="#tillich__KQEZSE62" type="work">3. Auflage</rs> von <rs ref="#tillich_person_id__1376" type="person">Natorps</rs> Bändchen der „Wege zur Philosophie“ und beabsichtigen, auf dem Umschlag sämtliche Bändchen aufzuführen. Können wir bei dieser Gelegenheit Ihr Heft als im Herbst erscheinend mit
+      <opener><salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr Doktor</rs>!</salute></opener>
+      <p>Wir vollenden soeben die <rs ref="#tillich__KQEZSE62" type="work">3. Auflage</rs> von <rs ref="#tillich_person_id__1376" type="person">Natorps</rs> Bändchen der "Wege zur Philosophie" und beabsichtigen, auf dem Umschlag sämtliche Bändchen aufzuführen. Können wir bei dieser Gelegenheit Ihr Heft als im Herbst erscheinend mit
 anzeigen, und wie soll der genaue Titel gefaßt werden?</p>
 <closer>
 <salute>Hochachtungsvoll und ergebenst</salute>
