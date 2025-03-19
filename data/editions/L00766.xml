@@ -3,7 +3,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Brief von Paul Tillich an Toni Winkler bei Tillich <lb/>vom 2. August 1922</title>
+<title>Postkarte von Paul Tillich an Toni Winkler bei Tillich <lb/>vom 2. August 1922</title>
 <author ref="#tillich_person_id__1928">Paul Tillich</author>
 <respStmt>
 <resp>Editor</resp>
@@ -39,7 +39,7 @@
 <idno>bMS 649/209(3)</idno>
 </msIdentifier>
 <physDesc>
-<p>Brief, eigenhändig</p>
+<p>Postkarte, eigenhändig (Postkartenmotiv: Nordseebad Wenningstedt a. Sylt)</p>
 </physDesc>
 </msDesc>
 </sourceDesc>
@@ -56,11 +56,12 @@
 <correspDesc>
 <correspAction type="sent">
 <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+  <placeName ref="#tillich_place_id__691">Wenningstedt (Sylt)</placeName>
 <date when="1922-08-02">02.08.1922</date>
 </correspAction>
 <correspAction type="received">
-<persName ref="#tillich_person_id__2085">Toni Winkler bei Tillich</persName>
-<placeName ref="#tillich_place_id__37">Berlin-Friedenau Taunusstr. 1</placeName>
+<persName ref="#tillich_person_id__2085">Toni Winkler</persName>
+<placeName ref="#tillich_place_id__38">Berlin-Friedenau Taunusstr. 1</placeName>
 </correspAction>
 </correspDesc>
 <langUsage>
@@ -69,6 +70,7 @@
 </profileDesc>
 <revisionDesc status="approved">
 <change when="2023-08-07" who="JE">Initiale Auszeichnung des Transkripts</change>
+  <change when="2025-03-17" who="FS">Kollationierung</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
@@ -76,19 +78,13 @@
 <div type="writingSession">
 <pb n="1"/>
 <opener>
-<salute>Liebes Tonichen!</salute>
+  <salute>Liebes <rs ref="#tillich_person_id__2085" type="person">Tonichen</rs>!</salute>
 </opener>
 <p>
-     Da unten vor 
-     <unclear>¿¿¿</unclear>
-      sitze ich am herrlichsten Meer. Die Reise war mühsam, aber interessant. Die Sachen sind alle wohlbehalten angekommen.
-    </p>
+     Da unten <unclear>wo</unclear> sitze ich am herrlichsten Meer.<note type="ea">Bezieht sich auf das Postkartenmotiv.</note> Die Reise war mühsam, aber interessant. Die Sachen sind alle wohlbehalten angekommen. <rs ref="#tillich_person_id__2437" type="person">Malla Jessen</rs>
+       läßt grüßen. Ich bin sehr vergnügt.</p>
 <closer>
-<salute>
-<rs ref="#tillich_person_id__2437" type="person">Malla Jessen</rs>
-       läßt grüßen. Ich bin sehr vergnügt. 
-     </salute>
-<signed>Dein Paul</signed>
+  <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
 </closer>
 </div>
 </body>
