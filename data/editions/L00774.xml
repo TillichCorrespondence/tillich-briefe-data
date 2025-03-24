@@ -39,27 +39,27 @@
 <idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
 </msIdentifier>
 <physDesc>
-<p><!--Schriftart (Maschine oder Hand)--></p>
+<p>Brief, eigenhändig; Unterstreichungen des Empfängers.</p>
 </physDesc>
-<additional>
-<listBibl>
-<biblStruct n="1" type="journal">
-<monogr>
-<author>GRAF, FRIEDRICH WILHELM</author>
-<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-<imprint>
-<date when="2020">2020</date>
-<biblScope>26-170</biblScope>
-</imprint>
-</monogr>
-<series>
-<title>Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte</title>
-<biblScope>Vol. 27 (Issue 1)</biblScope>
-<publisher>De Gruyter</publisher>
-</series>
-</biblStruct>
-</listBibl>
-</additional>
+   <additional>
+      <listBibl>
+         <biblStruct type="journal">
+            <monogr>
+               <author>Friedrich Wilhelm Graf</author>
+               <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+               <imprint>
+                  <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                  <date when="2020">2020</date>
+                  <biblScope>S. 26–170, hier: 118f.</biblScope>
+               </imprint>
+            </monogr>
+            <series>
+               <title>Zeitschrift für Neuere Theologiegeschichte</title>
+               <biblScope>27/1</biblScope>
+            </series>
+         </biblStruct>
+      </listBibl>
+   </additional>
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -75,6 +75,7 @@
 <correspDesc>
 <correspAction type="sent">
 <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+   <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
 <date when="1923-01-13">13.01.1923</date>
 </correspAction>
 <correspAction type="received">
@@ -88,6 +89,7 @@
 <revisionDesc status="approved">
 <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
 <change when="2024-01-09" who="AR">Initiale Auszeichnung des Transkripts</change>
+   <change when="2025-03-24" who="FS">Kollationierung</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
@@ -95,31 +97,29 @@
 <div type="writingSession">
 <pb n="1"/>
 <opener>
-<dateline>
-   den <date when="1923-01-13">13.01.1923</date>
+   <dateline><rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>, Taunusstr. 1. d. <date when="1923-01-13">13. Jan. 1923</date>.
 </dateline>
-<salute>Sehr verehrter Herr Ruprecht!</salute>
+   <salute>Sehr verehrter <rs ref="#tillich_person_id__2569" type="person">Herr Ruprecht</rs>!</salute>
 </opener>
-<p>In dieser Woche habe ich das „System der Wissenschaften“ abgeschlossen, nachdem
+   <p>In dieser Woche habe ich das "<rs ref="#tillich__WLVL28EI" type="work">System der Wissenschaften</rs>" abgeschlossen, nachdem
 ich seit dem Sommer ununterbrochen daran gearbeitet habe. Wenn ich die
 Zeit des ersten Nachdenkens über diese Dinge dazu rechne, so sind es fast 7 Jahre,
 daß ich mich um die Probleme der Systematik bemühe, allerdings mit langen
 Unterbrechungen. Das Buch, das so entstanden ist, hat naturgemäß eine Reihe
 von Veränderungen erfahren, und ist etwas ganz anderes geworden, als es im
 Anfang geplant war. Ich kann wohl sagen, daß von den üblichen Auffassungen
-der Systematik kein Stein auf dem andern geblieben ist. Es ist eine vollkommene
-Neuschöpfung in allen Gebieten, und ist das erste derartige Werk seit <rs ref="#tillich_person_id__1705" type="person">Schellings</rs> <rs ref="#ttillich_work_id__148" type="work">Methode des akademischen Studiums</rs>“ und <rs ref="#tillich_person_id__839" type="person">Hegels</rs> „<rs ref="#tillich__3K932HW3" type="work">Encyklopädie</rs>“. Es ist ein durchgeführtes System, das aus der Grundrichtung der neuen kritisch-intuitiven Richtung der Philosophie geboren ist und sämtliche Gebiete der Wissenschaft in Betracht zieht.</p>
+der Systematik kein Stein auf dem andern geblieben ist. <hi rend="u">Es ist eine vollkommene
+   Neuschöpfung in allen Gebieten</hi>, und ist das erste derartige Werk <hi rend="u">seit <rs ref="#tillich_person_id__1705" type="person">Schellings</rs> "<rs ref="#tillich__W75VWQHJ" type="work">Methode des akademischen Studiums</rs>"</hi> und <hi rend="u"><rs ref="#tillich_person_id__839" type="person">Hegels</rs> "<rs ref="#tillich__3K932HW3" type="work">Encyklopädie</rs>"</hi>. Es ist ein durchgeführtes System, das aus der Grundrichtung der neuen kritisch-intuitiven Richtung der Philosophie geboren ist und sämtliche Gebiete der Wissenschaft in Betracht zieht.</p>
 <p>Infolge der Knappheit meiner Ausdrucksweise ist die Länge nicht sehr erheblich
-geworden: Ich schätze auf <choice><abbr>ca</abbr><expan>circa</expan>
-</choice> 200 S.<expan>eiten</expan> im Druck des Natorpschen Heftes
-2. Aufl.<expan>age</expan> Unmöglich war es dagegen, einer solchen Arbeit, die etwas völlig Neues
+   geworden: Ich schätze auf <hi rend="u">ca 200 S. im Druck des <rs ref="#tillich__KQEZSE62" type="work">Natorpschen Heftes</rs></hi>
+2. Aufl. Unmöglich war es dagegen, einer solchen Arbeit, die etwas völlig Neues
 zu schaffen suchte, den Stil einer Einführung in bekannte und gewohnte Sachen
 zu geben. Ich habe mich trotzdem bemüht, nicht zu schwer zu werden,
 und der Gedanke, daß es eigentlich als Einführung gemeint war, hat in dieser
 Beziehung günstig auf mich eingewirkt. Immerhin kommt es nach meinem Urteil
 als Einführungsheft nicht in Betracht. Ich würde das auch um der großen
 Arbeit willen, die darin steckt, nicht wünschen. – Ich möchte Sie nun fragen,
-ob Sie und in welcher Form Sie das Buch herausbringen wollen. Sehr viel wäre
+ob und in welcher Form Sie das Buch herausbringen wollen. Sehr viel wäre
 mir an schnellem Erscheinen gelegen, da es mein erstes größeres Buch ist und
 für eventuelle Berufung in eine Professur sehr viel davon abhängt. Ich habe es
 bisher nur handschriftlich und würde, sobald ich Nachricht von Ihnen habe, es
@@ -129,7 +129,7 @@ die Einteilung bei, aus der Sie die Anlage des Ganzen ersehen können. Alles
 Antwort abhängen.</p>
 <closer>
 <salute>Ihr sehr ergebener</salute>
-<signed>P. Tillich.</signed>
+   <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
 </closer>
 </div>
 </body>

@@ -39,27 +39,27 @@
 <idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
 </msIdentifier>
 <physDesc>
-<p>Maschinenschriftlich</p>
+<p>Briefdurchschlag, maschinenschriftlich</p>
 </physDesc>
-<additional>
-<listBibl>
-<biblStruct n="1" type="journal">
-<monogr>
-<author>GRAF, FRIEDRICH WILHELM</author>
-<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-<imprint>
-<date when="2020">2020</date>
-<biblScope>26-170</biblScope>
-</imprint>
-</monogr>
-<series>
-<title>Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte</title>
-<biblScope>Vol. 27 (Issue 1)</biblScope>
-<publisher>De Gruyter</publisher>
-</series>
-</biblStruct>
-</listBibl>
-</additional>
+   <additional>
+      <listBibl>
+         <biblStruct type="journal">
+            <monogr>
+               <author>Friedrich Wilhelm Graf</author>
+               <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+               <imprint>
+                  <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                  <date when="2020">2020</date>
+                  <biblScope>S. 26–170, hier: 119-121</biblScope>
+               </imprint>
+            </monogr>
+            <series>
+               <title>Zeitschrift für Neuere Theologiegeschichte</title>
+               <biblScope>27/1</biblScope>
+            </series>
+         </biblStruct>
+      </listBibl>
+   </additional>
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -89,6 +89,7 @@
 <revisionDesc status="approved">
 <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
 <change when="2024-01-18" who="AR">Initiale Auszeichnung des Transkripts</change>
+   <change when="2025-03-24" who="FS">Kollationierung</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
@@ -96,18 +97,17 @@
 <div type="writingSession">
 <pb n="1"/>
 <opener>
-<dateline>
-   den <date when="1923-01-19">19.01.1923</date>
+   <dateline><date when="1923-01-19">19. Januar 1923</date>. Herrn Privatdozent Dr. <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>, <rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>.
 </dateline>
-<salute>Sehr geehrter Herr!</salute>
+   <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr</rs>!</salute>
 </opener>
-<p>Sie haben gewiß unsere Antwort die letzten Tage schon erwartet. Aber Ihr Brief
+   <p>Sie haben gewiß unsere Antwort die letzten Tage schon erwartet. Aber Ihr <rs ref="L00774" type="letter">Brief</rs>
 erforderte recht eingehende Erwägungen und Berechnungen. Die Aenderung der
 Anlage und des Planes löste ein gewisses Gefühl der Erleichterung bei mir aus,
-da ein Buch dieser Anlage eigentlich niemals ein passendes Heft für die „Wege
-z.<expan>ur</expan>Ph.<expan>ilosophie</expan>“ abgeben könnte, dazu ist der Stoff zu riesig und vieles zu neu, sodaß
+da ein Buch dieser Anlage eigentlich niemals ein passendes Heft für die "Wege
+z.Ph." abgeben könnte, dazu ist der Stoff zu riesig und vieles zu neu, sodaß
 grundlegende philosophische Erörterungen nötig sind. Selbstverständlich muß
-Ihr Buch unter den von Ihnen geschilderten Umständen als selbständiges Werk
+Ihr <rs ref="#tillich__WLVL28EI" type="work">Buch</rs> unter den von Ihnen geschilderten Umständen als selbständiges Werk
 erscheinen. Wir haben nach allem, was wir von Ihnen wissen, und was Sie über
 die Entstehung schreiben, das volle Vertrauen, daß Ihre Arbeit sehr wertvoll und ausgereift ist, und möchten jedenfalls nicht von unserer Vereinbarung, daß ein
 Buch dieses Titels in unserm Verlage erscheinen soll, zurücktreten, obwohl ja
@@ -127,7 +127,7 @@ Kaufkraft der geistigen Arbeiter leider ganz besonders leidet. Wir mußten es
 uns daher sehr gründlich überlegen, ob wir überhaupt in der Lage waren, die
 große Summe auf die Gefahr hin, nur einen kleineren oder größeren Teil davon
 wiederzusehen, namentlich sie, auch bei gutem Erfolge, erst langsam zu uns
-zurückkehren zu sehen, zu riskieren. Wie ich oben schon angedeutet habe,
+zurückkehren zu sehen, zu riskieren. Wi<supplied>e</supplied> ich oben schon angedeutet habe,
 ist die Entscheidung aber dafür ausgefallen, und wir schlagen Ihnen folgende
 Bedingungen vor:</p>
 <p>Gedruckt wird eine Auflage von 1000 Stück zuzüglich des für Pflicht- und Freiexemplare nötigen Zuschusses.</p>
@@ -141,8 +141,8 @@ zweite Rate fällig wird, die tatsächlich zur Auszahlung gelangende Summe nach
 dem Verhältnis des bei der Ausgabe und zur Zeit der Fälligkeit des Honorars
 geltenden Ladenpreis berechnen.</p>
 <p>Sollten Uebersetzungen in fremde Sprachen erscheinen, würden wir die
-Verhandlungen mit den betr.<expan>effenden</expan> ausländischen Verlegern zu führen haben und das
-auszumachende Honorar zu gleichen Teilen mit Ihnen Teilen.</p>
+Verhandlungen mit den betr. ausländischen Verlegern zu führen haben und das
+auszumachende Honorar zu gleichen Teilen mit Ihnen <sic>Teilen</sic>.</p>
 <p>Weitere Auflagen sollen ebenfalls in unserm Verlage erscheinen. Bei den
 schwankenden Verhältnissen liegt es aber nicht im beiderseitigen Interesse,
 die Honorar-Bedingungen schon heute festzulegen. Sollten wir uns über diese
@@ -158,17 +158,17 @@ und die Wahl der Ausstattung mit davon abhängt, wann wir das druckfertige
 Manuskript erhalten. Augenblicklich könnten wir sofort mit mehreren Setzern
 den Satz beginnen, sodaß es uns angenehm wäre, wenn Sie, da das Ganze nur
 noch einer leichten Durchsicht und evt. Abschrift bedarf, den Anfang recht bald
-einschicken wollten. Ob es nötig ist, alles abzutippen, wissen wir nicht. Wenn
+einschicken wollten. Ob es nötig <supplied>ist</supplied>, alles abzutippen, wissen wir nicht. Wenn
 Sie so weitläufig und in der Art geschrieben haben, wie in Ihrem Briefe, so
 brauchten vielleicht nur die weniger gut geschriebenen Seiten abgeschrieben zu
 werden. Nur muß alles recht genau paginiert sein, und wirklich druckfertig, da
 nachträgliche Aenderungen abgesehen von der Verzögerung, heute ein unheimliches
 Geld kosten. Einige wenige Aenderungen, namentlich solche, die Umbruch
 einiger Zeilen nötig machen und den Setzer leicht eine Stunde aufhalten, kosten
-heute bereits 1125 M., und wir wissen nicht einmal, welche Tariferhöhung uns
+heute bereits 1125 M., und wir wissen nicht einmal, welche Tariferhöhung un<supplied>s</supplied>
 wieder für den Februar bevorsteht.</p>
-<p>Wäre übrigens nicht vielleicht irgend ein Untertitel, etwa „Neue Grundlegung“ oder dergleichen empfehlenswert?</p>
-<p>Haben Sie die Freundlichkeit, sich zu unsern Vorschlägen zu äußern und uns wenn möglich, recht bald das <choice><abbr>Ms.</abbr><expan>Manuskript</expan></choice> oder den Anfang zu schicken.</p>
+<p>Wäre übrigens nicht vielleicht irgend ein Untertitel, etwa "Neue Grundlegung" oder dergleichen empfehlenswert?</p>
+<p>Haben Sie die Freundlichkeit, sich zu unsern Vorschlägen zu äußern und uns wenn möglich, recht bald das Ms. oder den Anfang zu schicken.</p>
 <closer>
 <salute>Mit hochachtungsvollem Gruße</salute>
 <signed>Ihr</signed>
