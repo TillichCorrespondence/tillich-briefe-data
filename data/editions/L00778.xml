@@ -3,7 +3,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Brief von Paul Tillich an Wilhelm Ruprecht <lb/>vom 01. Februar 1923</title>
+<title>Brief (Fragment) von Paul Tillich an Wilhelm Ruprecht <lb/>vom 1. Februar 1923</title>
 <author ref="#tillich_person_id__1928">Paul Tillich</author>
 <respStmt>
 <resp>Editor</resp>
@@ -39,27 +39,27 @@
 <idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
 </msIdentifier>
 <physDesc>
-<p>Maschinenschriftlich, Korrekturen eigenhändig</p>
+<p>Brieffragment, maschinenschriftlich, Korrekturen eigenhändig; Unterstreichungen des Empfängers</p>
 </physDesc>
-<additional>
-<listBibl>
-<biblStruct n="1" type="journal">
-<monogr>
-<author>GRAF, FRIEDRICH WILHELM</author>
-<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-<imprint>
-<date when="2020">2020</date>
-<biblScope>26-170</biblScope>
-</imprint>
-</monogr>
-<series>
-<title>Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte</title>
-<biblScope>Vol. 27 (Issue 1)</biblScope>
-<publisher>De Gruyter</publisher>
-</series>
-</biblStruct>
-</listBibl>
-</additional>
+   <additional>
+      <listBibl>
+         <biblStruct type="journal">
+            <monogr>
+               <author>Friedrich Wilhelm Graf</author>
+               <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+               <imprint>
+                  <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                  <date when="2020">2020</date>
+                  <biblScope>S. 26–170, hier: 124</biblScope>
+               </imprint>
+            </monogr>
+            <series>
+               <title>Zeitschrift für Neuere Theologiegeschichte</title>
+               <biblScope>27/1</biblScope>
+            </series>
+         </biblStruct>
+      </listBibl>
+   </additional>
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -88,6 +88,7 @@
 </profileDesc>
 <revisionDesc status="approved">
 <change when="2024-01-17" who="AR">Initiale Auszeichnung des Transkripts</change>
+   <change when="2025-03-24" who="FS">Kollationierung</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
@@ -95,18 +96,15 @@
 <div type="writingSession">
 <pb n="1"/>
 <opener>
-<dateline>
-<rs ref="where" type="place"><!--Ort--></rs>
-   , den 
-   <date when="1923-02-01">01.02.1923</date>
+   <dateline><rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs> den <date when="1923-02-01">1. Februar 1923</date>, Taunusstrasse 1
 </dateline>
-<salute>Sehr geehrter Herr Ruprecht!</salute>
+   <salute>Sehr geehrter <rs ref="#tillich_person_id__2569" type="person">Herr Ruprecht</rs>!</salute>
 </opener>
-<p>Haben Sie herzlichen Dank für Ihre Postkarte, besonders für die erfreuliche
+   <p>Haben Sie herzlichen Dank für Ihre Postkarte, besonders für die erfreuliche
 Nachricht, dass Sie mir 18 Freiexemplare überlassen wollen. Die Schrift ist mir
 sehr sympathisch, doch muss ich Sie darauf aufmerksam machen, dass mein
-Voranschlag nach der Wortzahl des <rs ref="#tillich_person_id__137" type="person">Natorp</rs>-Büchleins gemacht war, die etwa
-halb so groß ist wie die von Ihnen gewählte. Infolgedessen wird sich der <subst><del>Inhalt</del><add>Umfang</add></subst> des Buches schä<add>t</add>zungsweise <unclear>¿¿¿ ... ¿¿¿</unclear> 20 Seiten reduzieren. Ich weiss
+Voranschlag nach der Wortzahl des <rs ref="#tillich_person_id__1376" type="person">Natorp</rs>-<rs ref="#tillich__KQEZSE62" type="work">Büchleins</rs> gemacht war, die etwa
+halb so groß ist wie die von Ihnen gewählte. Infolgedessen wird sich der <subst><del>Inhalt</del> <add rend="hand">Umfang</add></subst> des Buches schä<supplied>t</supplied>zungsweise <unclear>¿¿¿ ... ¿¿¿</unclear> 20<note type="ea">Eine alternative Lesart wäre "30"; vor der Zahlenangabe Textverderbnis.</note> Seiten reduzieren. Ich weiss
 nicht, ob ich Ihnen damit eine erfreuliche oder eine unerfreuliche Mitteilung
 mache. Ich arbeite natürlich so schnell es geht, glaube aber, dass immer neue
 Durchsichten, auch im Interesse von Stilverbesserungen im Interesse der Sache
@@ -114,13 +112,13 @@ und darum in Ihrem Interesse sind. Ich habe heut früh wieder ein grösseres
 Stück geschickt. –</p>
 <p>Mit der Vermeidung von weissen Seiten bin ich einverstanden. –</p>
 <p>Dagegen würden mir bei dem Charakter der Arbeit Seitenüberschriften als
-sehr wichtig erscheinen. Auch ich wollte darum bitten, dass wir links <add>die</add> fünf
-Hauptteile des Buches vermerken also: Grundlegung, Die Denk<add>wisse</add>nschaften,
+sehr wichtig erscheinen. Auch ich wollte darum bitten, dass wir links <supplied>die</supplied> fünf
+Hauptteile des Buches vermerken also: Grundlegung, Die Denk<supplied>wisse</supplied>nschaften,
 die Seinswissenschaften, die Geisteswissenschaften, Zusammenfassung. Rechts
-wollte ich dann den jeweilig kleinsten Unterabschnitt vermerken, im allgemeinen
+wollte <hi rend="uu">ich</hi> dann den jeweilig kleinsten Unterabschnitt vermerken, im allgemeinen
 also den Namen irgend einer Wissenschaft und in den grundlegenden Teilen den
-jeweiligen Gegenstand. Ich habe bei den ersten Korrekturbogen die entsprechenden
-Überschriften beigefügt, in der Annahme, dass die erste Seite rechts
+jeweiligen Gegenstand. Ich habe bei den ersten Korrekturbogen<note type="ea">Die Stelle ist von <rs ref="#tillich_person_id__2569" type="person">Wilhelm Ruprecht</rs> am Rand markiert, ergänzt durch die Bemerkung: "fehlen".</note> die entsprechenden
+Überschriften beigefügt, <hi rend="u">in der Annahme</hi>, dass die erste Seite rechts
 liegt und ohne Überschrift bleibt.</p>
 </div>
 </body>
