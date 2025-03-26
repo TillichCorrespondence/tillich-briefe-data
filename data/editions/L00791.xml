@@ -39,27 +39,27 @@
 <idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
 </msIdentifier>
 <physDesc>
-<p>Maschinenschriftlich</p>
+<p>Postkarte, maschinenschriftlich; Unterschrift eigenhändig; Unterstreichung des Empfängers; Textverluste wegen des Abrisses der Briefmarke.</p>
 </physDesc>
-<additional>
-<listBibl>
-<biblStruct n="1" type="journal">
-<monogr>
-<author>GRAF, FRIEDRICH WILHELM</author>
-<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-<imprint>
-<date when="2020">2020</date>
-<biblScope>26-170</biblScope>
-</imprint>
-</monogr>
-<series>
-<title>Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte</title>
-<biblScope>Vol. 27 (Issue 1)</biblScope>
-<publisher>De Gruyter</publisher>
-</series>
-</biblStruct>
-</listBibl>
-</additional>
+   <additional>
+      <listBibl>
+         <biblStruct type="journal">
+            <monogr>
+               <author>Friedrich Wilhelm Graf</author>
+               <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+               <imprint>
+                  <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                  <date when="2020">2020</date>
+                  <biblScope>S. 26–170, hier: 134</biblScope>
+               </imprint>
+            </monogr>
+            <series>
+               <title>Zeitschrift für Neuere Theologiegeschichte</title>
+               <biblScope>27/1</biblScope>
+            </series>
+         </biblStruct>
+      </listBibl>
+   </additional>
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -88,6 +88,7 @@
 </profileDesc>
 <revisionDesc status="approved">
 <change when="2024-01-17" who="AR">Initiale Auszeichnung des Transkripts</change>
+   <change when="2025-03-26" who="FS">Kollationierung</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
@@ -95,29 +96,24 @@
 <div type="writingSession">
 <pb n="1"/>
 <opener>
-<dateline>
-<rs ref="#tillich_place_id__38">Berlin-Friedenau</rs>
-   , den 
-   <date when="1923-05-30">30.05.1923</date>
-</dateline>
 <salute>Sehr geehrte <unclear>¿¿¿ ... ¿¿¿</unclear></salute>
 </opener>
-<p>Herzlichen dank für Ihre umgehen<unclear>¿and</unclear> <unclear>¿¿¿ ... ¿¿¿</unclear> <unclear cert="high">meines</unclear> „Systems der Wissenschaften“.
-Auf <unclear>¿¿¿ ... ¿¿¿</unclear> steht, dass der Preis <unclear cert="high">ausnahmsweise</unclear> <unclear>¿¿¿ ... ¿¿¿</unclear> <unclear>¿and</unclear>setzt ist. Ich wollte Sie
+   <p>Herzlichen dank für Ihre umgehen<unclear>¿¿¿ ... ¿¿¿</unclear> <supplied>meine</supplied>s "<rs ref="#tillich__WLVL28EI" type="work">Systems der Wissenschaften</rs>".
+      Auf <unclear>¿¿¿ ... ¿¿¿</unclear> steht, dass der Preis ausnahmsweis<supplied>e</supplied> <unclear>¿¿¿ ... ¿¿¿</unclear> <unclear>¿¿¿</unclear>setzt ist. Ich wollte Sie
 nun fragen, ob <unclear>¿¿¿ ... ¿¿¿</unclear> eine begrenzte Anzahl von Exemplaren zum Hörerpreis zur
-Verfügung stellen dürfen. Das würde <unclear cert="high">mich</unclear> wundern, da ich bei meinen bisherigen
+Verfügung stellen dürfen. Das würde m<supplied>ich</supplied> wundern, da ich bei meinen bisherigen
 Veröffentlichungen unbegrenzt nachbestellt habe. Ist in dieser Beziehung
 eine neue Rechtslage eingetreten? Ich würde das gerade jetzt bedauern, da eine
 Anzahl meiner jüngeren Freunde das Buch zum Ladenpreis nicht kaufen kann
 und ausserdem sich für mich immer wieder wichtige Gelegenheiten ergeben, wo
 ich Exemplare frei übersenden muss. Es scheint mir diese Erleichterung auch für
 das Bekanntwerden des Buches von grosser Bedeutung zu sein und auf diese
-Weise sowohl den Sortimentern wie dem Verlage Vorteil daraus zu erwachsen.
+Weise sowohl den <hi rend="u">Sortimentern</hi><note type="ea">Hinter dem Wort setzt <rs ref="#tillich_person_id__2569" type="person">Wilhelm Ruprecht</rs> ein "?".</note> wie dem Verlage Vorteil daraus zu erwachsen.
 Ich wäre Ihnen für eine umgehende Mitteilung dankbar, wie die Lage ist, da ich
 die Verteilung der erhaltenen Exemplare danach einrichten muss.</p>
 <closer>
 <salute>Mit ergebenstem Gruss</salute>
-<signed>P. Tillich</signed>
+   <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
 </closer>
 </div>
 </body>

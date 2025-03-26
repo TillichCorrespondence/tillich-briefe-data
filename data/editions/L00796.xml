@@ -39,27 +39,27 @@
 <idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
 </msIdentifier>
 <physDesc>
-<p>Maschinenschriftlich</p>
+<p>Postkarte, maschinenschriftlich; Korrekturen und Unterschrift eigenhändig; Unterstreichungen des Empfängers</p>
 </physDesc>
-<additional>
-<listBibl>
-<biblStruct n="1" type="journal">
-<monogr>
-<author>GRAF, FRIEDRICH WILHELM</author>
-<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-<imprint>
-<date when="2020">2020</date>
-<biblScope>26-170</biblScope>
-</imprint>
-</monogr>
-<series>
-<title>Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte</title>
-<biblScope>Vol. 27 (Issue 1)</biblScope>
-<publisher>De Gruyter</publisher>
-</series>
-</biblStruct>
-</listBibl>
-</additional>
+   <additional>
+      <listBibl>
+         <biblStruct type="journal">
+            <monogr>
+               <author>Friedrich Wilhelm Graf</author>
+               <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+               <imprint>
+                  <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                  <date when="2020">2020</date>
+                  <biblScope>S. 26–170, hier: 137</biblScope>
+               </imprint>
+            </monogr>
+            <series>
+               <title>Zeitschrift für Neuere Theologiegeschichte</title>
+               <biblScope>27/1</biblScope>
+            </series>
+         </biblStruct>
+      </listBibl>
+   </additional>
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -80,7 +80,6 @@
 </correspAction>
 <correspAction type="received">
 <persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
-<placeName ref="where"><!--Ort--></placeName>
 </correspAction>
 </correspDesc>
 <langUsage>
@@ -90,6 +89,7 @@
 <revisionDesc status="approved">
 <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
 <change when="2024-01-20" who="AR">Initiale Auszeichnung des Transkripts</change>
+   <change when="2025-03-26" who="FS">Kollationierung</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
@@ -97,19 +97,14 @@
 <div type="writingSession">
 <pb n="1"/>
 <opener>
-<dateline>
-<rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>
-   , den 
-   <date when="1923-07-06">06.07.1923</date>
-</dateline>
-<salute>Sehr geehrter Herr Ruprecht,</salute>
+   <salute>Sehr geehrter <rs ref="#tillich_person_id__2569" type="person">Herr Ruprecht</rs>,</salute>
 </opener>
-<p>darf ich Sie bitten, ein Rezensionsexemplar an meinen Kollegen Herrn Professor <rs ref="#tillich_person_id__567" type="person">Fabricius</rs> <rs ref="#tillich_place_id__37" type="place">Berlin</rs> NW.87 Jagowstr. 2 zu senden? Er will das Buch in der Deutschen Allgemeinen und im Tag rezensieren. Gleichzeitig habe ich ein Reserveexemplar von mir an Herrn Professor <rs ref="#tillich_person_id__188" type="person">Berdjajeff</rs>, Vorsitzenden der religionsphilosophischen russischen Akademie gegeben, der schon eine andere ausführliche Besprechung eines Aufsatzes von mir in der russischen philosophischen Zeitschrift „Sofia“ veranlaßt hat, und mein Buch ausführlich besprechen will. Ich wäre Ihnen dankbar, wenn Sie mir das Exemplar, mein letztes eigenes, wieder erstatten würden. Gleichzeitig bitte ich Sie um die Übersendung von sechs Exemplaren des Systems der Wissenschaften zum Autorenpreis.</p>
-<p>Also im Ganzen bitte ich um die Zusendung von sieben Exemplaren. Sind
+   <p>darf ich Sie bitten, ein Rezensionsexemplar an meinen Kollegen Herrn Professor <rs ref="#tillich_person_id__567" type="person">Fabricius</rs> <rs ref="#tillich_place_id__37" type="place">Berlin</rs> NW.87 Jagowstr. 2 zu senden? Er will das <hi rend="u"><rs ref="#tillich__WLVL28EI" type="work">Buch</rs> in der Deutschen Allgemeinen und im Tag rezensieren</hi>.<note type="ea">Am linken Rand findet sich der Erledigungsvermerk des Verlags: "erl. 11. Juli".</note> Gleichzeitig habe ich ein Reserveexemplar von mir an Herrn Professor <rs ref="#tillich_person_id__188" type="person">Berdjajeff</rs>, Vorsitzenden der religionsphilosophischen russischen Akademie gegeben, der schon eine andere ausführliche Besprechung eines Aufsatzes von mir in der <hi rend="u">russischen philosophischen Zeitschrift "Sofia"</hi> veranlaßt hat, und mein Buch ausführlich besprechen will. Ich wäre Ihnen dankbar, wenn Sie <hi rend="u">mir das Exemplar</hi>, mein letztes eigenes, wieder erstatten würden. Gleichzeitig bitte ich Sie um die Übersendung von <hi rend="u">sechs Exemplaren des Systems der Wissenschaften zum Autorenpreis</hi>.<note type="ea">Darunter ist am unteren Rand der Seite vermerkt: "12.VII.23. 321750,- plus 2820,- = 324570,-".</note></p>
+   <p>Also im Ganzen bitte ich um die Zusendung von <hi rend="u">sieben</hi> Exemplaren. Sind
 sonst schon Bestellungen gekommen?</p>
 <closer>
 <salute>Mit ergebenstem Gruß</salute>
-<signed>P. Tillich</signed>
+   <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed><note type="ea">Schräg darunter schreibt <rs ref="#tillich_person_id__2569" type="person">Wilhelm Ruprecht</rs>: "Notiz: 'Der Absatz ist ganz erfreulich' Dazu schreibe ich WR".</note>
 </closer>
 </div>
 </body>
