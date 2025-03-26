@@ -3,7 +3,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Brief von Paul Tillich an Wilhelm Ruprecht <lb/>vom 14. Mai 1923</title>
+<title>Brief von Paul Tillich an Wilhelm Ruprecht <lb/>aus der ersten Maihälfte 1923</title>
 <author ref="#tillich_person_id__1928">Paul Tillich</author>
 <respStmt>
 <resp>Editor</resp>
@@ -41,25 +41,25 @@
 <physDesc>
 <p>Brief, eigenhändig</p>
 </physDesc>
-<additional>
-<listBibl>
-<biblStruct n="1" type="journal">
-<monogr>
-<author>GRAF, FRIEDRICH WILHELM</author>
-<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-<imprint>
-<date when="2020">2020</date>
-<biblScope>26-170</biblScope>
-</imprint>
-</monogr>
-<series>
-<title>Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte</title>
-<biblScope>Vol. 27 (Issue 1)</biblScope>
-<publisher>De Gruyter</publisher>
-</series>
-</biblStruct>
-</listBibl>
-</additional>
+   <additional>
+      <listBibl>
+         <biblStruct type="journal">
+            <monogr>
+               <author>Friedrich Wilhelm Graf</author>
+               <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+               <imprint>
+                  <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                  <date when="2020">2020</date>
+                  <biblScope>S. 26–170, hier: 130f.</biblScope>
+               </imprint>
+            </monogr>
+            <series>
+               <title>Zeitschrift für Neuere Theologiegeschichte</title>
+               <biblScope>27/1</biblScope>
+            </series>
+         </biblStruct>
+      </listBibl>
+   </additional>
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -75,7 +75,7 @@
 <correspDesc>
 <correspAction type="sent">
 <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<date notAfter="1923-05-14">14.05.1923</date>
+<date when="1923-05">05.1923</date>
 </correspAction>
 <correspAction type="received">
 <persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
@@ -88,6 +88,7 @@
 <revisionDesc status="approved">
 <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
 <change when="2024-01-20" who="AR">Initiale Auszeichnung des Transkripts</change>
+   <change when="2025-03-26" who="FS">Kollationierung</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
@@ -95,10 +96,7 @@
 <div type="writingSession">
 <pb n="1"/>
 <opener>
-<dateline>
-   den <date notAfter="1923-05-14">05.1923</date>
-</dateline>
-<salute>Sehr geehrter Herr Ruprecht!</salute>
+   <salute>Sehr geehrter <rs ref="#tillich_person_id__2569" type="person">Herr Ruprecht</rs>!</salute>
 </opener>
 <p>Hierdurch möchte ich Ihnen noch einmal die Namen derer nennen, die Recensionen meines Buches übernommen haben. Außer den schon genannten sindnoch einige dazu gekommen. Ich wiederhole alle noch einmal:</p>
 <p>1. Professor <rs ref="#tillich_person_id__1723" type="person">Dr. Karl Ludwig Schmidt</rs>, <rs ref="#tillich_place_id__175" type="place">Gießen</rs>, Goethestr. 33.
@@ -114,9 +112,9 @@ Centralblatt für Erziehung und Unterricht.</p>
 <p>6. Cand. theol. <rs ref="#tillich_person_id__2758" type="person">Hüllmann</rs>, <rs ref="#tillich_place_id__96" type="place">Charlottenburg</rs>, Pestalozzistr 88b
 Sonderartikel über mich und das Buch in der Vossischen Zeitung (wichtig und eilig)</p>
 <p>7. Lic. <rs ref="#tillich_person_id__1154" type="person">Leese</rs>, <rs ref="#tillich_place_id__198" type="place">Hamburg</rs>, Koppel 11.
-„Christliche Welt“ und „Furche“.</p>
+"Christliche Welt" und "Furche".</p>
 <p>8. <rs ref="#tillich_person_id__1887" type="person">Dr. E. v. Sydow</rs>, <rs ref="#tillich_place_id__200" type="place">Hannover</rs>, Kl. Pfahlstr. 6.
-„Das neue Deutschland“, die „Arbeitsgemeinschaft“.</p>
+"Das neue Deutschland", die "Arbeitsgemeinschaft".</p>
 <p>9. Professor <rs ref="#tillich_person_id__310" type="person">D Büchsel</rs>,225 <rs ref="#tillich_place_id__370" type="place">Rostock</rs>, Universität. Ihmels Litteraturblatt, Jordans Litteraturbericht</p>
 <p>10. Professor <rs ref="#tillich_person_id__1178" type="person">Dr. Liebert</rs>, <rs ref="#tillich_place_id__51" type="place">Berlin W.</rs> 15. Fasanenstr. 48
 Kantstudien.</p>
@@ -124,7 +122,7 @@ Kantstudien.</p>
 <p>Ich selbst bitte Sie um Zusendung von <hi rend="u">5 Exemplaren</hi> zum Autorenpreis mit Beifügung der Rechnung.</p>
 <closer>
 <salute>Mit ergebenstem Gruß!</salute>
-<signed>P. Tillich.</signed>
+   <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
 </closer>
 </div>
 </body>
