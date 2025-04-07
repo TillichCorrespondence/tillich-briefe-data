@@ -1,95 +1,122 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01345">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 1. November 1921</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name>Anna Rüther</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-   <msIdentifier>
-      <country>USA</country>
-      <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-      <institution>Harvard</institution>
-      <repository>Harvard Divinity School Library</repository>
-      <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-      <idno>bMS 721/2(16)</idno>
-   </msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<date notBefore="1921-11-01">01.11.1921</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-<change when="2024-02-05" who="AR">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline>den 
-   <date notBefore="1921-11-01">01.11.1921</date>
-</dateline>
-<salute>Geliebte Hannah!</salute>
-</opener>
-<p>Nun haben uns die dunklen Gewalten, die zwischen uns hin- und hertoben, in die Höhe der eisigen, ewigen Unbedingtheit und in die Tiefe des großen Schweigens der Todesnacht geworfen, und alle Fasern unsers Innern haben gezuckt, und ich habe gezuckt unter den harten Worten Deines letzten Briefes, die ja nichts sind als das Wort meiner Selbstanklage, und darum schwer und bitter trafen; und als ich Deinen Brief <del rend="s">traf</del> las, war mir wie einem Wanderer in der Wüste; fast konnte ich den Glutwind der Feindschaft nicht mehr ertragen, als die Oase mich aufnahm: Deine letzten Worte, die mich auf die grüne Aue unserer Liebe führten. Und nun sage ich Dir: Lassen wir das Meer brausen und wallen; wir haben es wieder durchfahren in wilder Sturmnacht; und wir werden es wieder durchfahren müssen in noch wilderem Sturm; den[n] wir sind Segler in unbekannte Länder in Nord und Süd. Aber nicht immer ist es möglich, auf dem Meer zu kämpfen; und auch <pb n="2"/> uns gilt das Wort Laotses, daß das Feinste und Zarteste in der Welt das Stärkste und Mächtigste ist! Oh Hanna, und wenn ich alles zusammennehme, so sind es doch nicht die wilden Stürme und die dunklen Abgründe in Dir, sondern es ist das stille weiche Leuchten Deiner Augen in überirdischem Glanz, was mich zu Boden werfen kann, und Deine Füße mich küssen läßt. Denn das ist das Licht der ewigen Güte, der niemand und nichts widerstehen kann. Deine Pfeile, sie überwinde ich, indem ich sage: Du hast Recht, und es sind im Grunde nur meine eigenen Pfeile, und ich bin bereit, allen Schmerz zu tragen, weil es so gerecht ist; und damit bin ich Herr meiner Leiden! Und Deine Güte, die aus Deinen Augen strahlt: Dein Zartestes, das ist stärker als ich; denn es ist ja auch nicht Du! Ich lege meine Hand auf Deine Augen und Deinen Kopf auf meine Brust, und bin ganz still und lasse nur zittern all das wilde Grauen des Kampfes, der war und der sein wird.</p>
-<closer>
-<signed>Dein Paul.</signed>
-</closer>
-<pb n="3"/>
-<postscript>
-<p>Schreib mir noch einmal die andere Adresse und was ich dort hinschreiben soll</p>
-</postscript>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hannah Tillich <lb/>von November 1920</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Anna Rüther</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                  <idno>bMS 721/2(16)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date notBefore="1920-11-01" notAfter="1920-11-30">01.11.1920</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2024-02-05" who="AR">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute><note type="ea"> Am oberen Rand des Briefes wurde von fremder Hand (wahrscheinlich
+                     <rs ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs>) "Nov. 20"
+                  vermerkt. </note>Geliebte <rs ref="#tillich_person_id__1923" type="person"
+                     >Hannah</rs>!</salute>
+            </opener>
+            <p>Nun haben uns die dunklen Gewalten, die zwischen uns hin- und hertoben, in die Höhe
+               der eisigen, ewigen Unbedingtheit und in die Tiefe des großen Schweigens der
+               Todesnacht geworfen, und alle Fasern unsers Innern haben gezuckt, und ich habe
+               gezuckt unter den harten Worten Deines letzten Briefes,<note type="ea">Liegt nicht
+                  vor.</note> die ja nichts sind als das Wort meiner Selbstanklage, und darum schwer
+               und bitter trafen; und als ich Deinen Brief <del rend="s">traf</del> las, war mir wie
+               einem Wanderer in der Wüste; fast konnte ich den Glutwind der Feindschaft nicht mehr
+               ertragen, als die Oase mich aufnahm: Deine letzten Worte, die mich auf die grüne Aue
+               unserer Liebe führten. Und nun sage ich Dir: Lassen wir das Meer brausen und wallen;
+               wir haben es wieder durchfahren in wilder Sturmnacht; und wir werden es wieder
+               durchfahren müssen in noch wilderem Sturm; den<supplied>n</supplied> wir sind Segler
+               in unbekannte Länder in Nord und Süd. Aber nicht immer ist es möglich, auf dem Meer
+               zu kämpfen; und auch<pb n="2"/> uns gilt das Wort <rs ref="#tillich_person_id__1139"
+                  type="person">Laotses</rs>, daß das Feinste und Zarteste in der Welt das Stärkste
+               und Mächtigste ist! Oh <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>,
+               und wenn ich alles zusammennehme, so sind es doch nicht die wilden Stürme und die
+               dunklen Abgründe in Dir, sondern es ist das stille weiche Leuchten Deiner Augen in
+               überirdischem Glanz, was mich zu Boden werfen kann, und Deine Füße mich küssen läßt.
+               Denn das ist das Licht der ewigen Güte, der niemand und nichts widerstehen kann.
+               Deine Pfeile, sie überwinde ich, indem ich sage: Du hast Recht, und es sind im Grunde
+               nur meine eigenen Pfeile, und ich bin bereit, allen Schmerz zu tragen, weil es so
+               gerecht ist; und damit bin ich Herr meiner Leiden! Und Deine Güte, die aus Deinen
+               Augen strahlt: Dein Zartestes, das ist stärker als ich; denn es ist ja auch nicht Du!
+               Ich lege meine Hand auf Deine Augen und Deinen Kopf auf meine Brust, und bin ganz
+               still und lasse <unclear reason="eccentric_ductus">nur</unclear> zittern all das
+               wilde Grauen des Kampfes, der war und der sein wird.</p>
+            <closer>
+               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+            <postscript>
+               <p>Schreib mir noch einmal die andere Adresse und was ich dort hinschreiben soll</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
 </TEI>
