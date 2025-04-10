@@ -1,88 +1,114 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01357">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brieffragment von Paul Tillich an Hannah Tillich <lb/>vom 1. August 1921</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name>Anna Rüther</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-   <msIdentifier>
-      <country>USA</country>
-      <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-      <institution>Harvard</institution>
-      <repository>Harvard Divinity School Library</repository>
-      <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-      <idno>bMS 721/2(17)</idno>
-   </msIdentifier>
-<physDesc>
-<p>Brieffragment, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<date notBefore="1921-08-01">01.08.1921</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-<change when="2024-02-08" who="AR">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline> den 
-   <date notBefore="1921-08-01">01.08.1921</date>
-</dateline>
-<salute>Hannah, liebe Freundin, Kameradin, ganz und tief geliebte Frau!</salute>
-</opener>
-<p>Von der einsamsten und schönsten Stelle der Insel, der Nordostecke, die nach <rs ref="#tillich_place_id__590" type="place">Arkona</rs> herübersieht, bei italienisch strahlendem Blau des Meeres und Himmels grüße ich Dich! Ich habe Deine Gedichte und Deine Bilder hierhergebracht und hier studiert. Ich danke Dir, daß Du sie mir schicktest trotz meines kritischen Briefes, den Du als Mißverstehen deuten konntest. Daß er es nicht war, sollst Du daraus ersehen, daß ich zuerst Dein Gedicht las, in dem das Wort „Doppelleib“ vorkam, und laut zu mir sagte: das ist Erlebnis, das ist gut! Die Bilder und Gedichte behalte ich natürlich, obgleich mir beide noch nicht durchgeformt genug erscheinen. Ein Erlebnis-Anfang ist philosophisch erfaßt und anschaulich verarbeitet. Aber noch ist nicht jedes Wort und jede Form der Bilder durchblutet. Es sind noch oft mehr Assoziationen, als Intuitionen. Und das ist vielleicht die philosophisch wichtigste Ausdrucksform meiner Kritik. Prüfe Dich im<pb n="2"/>mer, ob das, was Du sagst, nicht litterarisch ist, d.h. Lese- und Lern-Kunst, wie z.B. das Wort „Gezeiten“, das Du einfach nicht anwenden darfst. Ich bitte Dich, schicke mir weiter Deine Kindlein; ich bin froh über sie, weil sie von Dir kommen, und weil Du Dich in ihnen ausdrückst, wenn ich auch an die Form den objektiven Maßstab lege. – Aber eigentlich wollte ich ja gar nicht über Deine Gedichte schreiben, Du hattest mich darin etwas mißverstanden, daß Du meine Worte über den Geist allein auf Deine Gedichte bezogst. Er war nicht einmal vorzugsweise auf sie gerichtet. Ich sprach von Geist überhaupt, von Durchblutung im Unterschied von Litteratur. Ich sprach auch nicht von Einfachheit. Gott sei Dank, daß Du nicht simpel bist! Es ist nicht wahr, daß das Einfachste immer das Beste ist. Und das Schrecklichste wäre eine künstliche Einfachheit. Was ich will ist die tiefe Durcharbeitung alles Einzelnen, der ständi<unclear>¿and</unclear><unclear>¿¿¿ ... ¿¿¿</unclear></p>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brieffragment von Paul Tillich an Hannah Tillich <lb/>von August 1921</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Anna Rüther</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                  <idno>bMS 721/2(17)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brieffragment, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date notBefore="1921-08-01" notAfter="1921-08-31">01.08.1921</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2024-02-08" who="AR">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <salute><note type="ea"> Am oberen Rand des Briefes wurde von fremder Hand
+                  (wahrscheinlich <rs ref="#tillich_person_id__1923" type="person">Hannah
+                     Tillich</rs>) "Aug 21" vermerkt.</note><rs ref="#tillich_person_id__1923"
+                  type="person">Hannah</rs>, liebe Freundin, Kameradin, ganz und tief geliebte
+               Frau!</salute>
+            <p>Von der einsamsten und schönsten Stelle der Insel, der Nordostecke, die nach <rs
+                  ref="#tillich_place_id__590" type="place">Arkona</rs> herübersieht, bei
+               italienisch strahlendem Blau des Meeres und Himmels grüße ich Dich! Ich habe Deine
+               Gedichte und Deine Bilder hierhergebracht und hier studiert. Ich dank Dir, daß Du sie
+               mir schicktest trotz meines kritischen Briefes,<note type="ea">Liegt nicht
+                  vor.</note> den Du als Mißverstehen deuten konntest. Daß er es nicht war, sollst
+               Du daraus ersehen, daß ich zuerst Dein Gedicht las, in dem das Wort "Doppelleib"
+               vorkam, und laut zu mir sagte: das ist Erlebnis, das ist gut! Die Bilder und Gedichte
+               behalte ich natürlich, obgleich mir beide noch nicht durchgeformt genug erscheinen.
+               Ein Erlebnis-Anfang ist philosophisch erfaßt und anschaulich verarbeitet. Aber noch
+               ist nicht jedes Wort und jede Form der Bilder durchblutet. Es sind noch oft mehr
+               Assoziationen, als Intuitionen. Und das ist vielleicht die philosophisch wichtigste
+               Ausdrucksform meiner Kritik. Prüfe Dich im<pb n="2"/>mer, ob das, was Du sagst, nicht
+               litterarisch ist, d. h. Lese- und Lern-Kunst, wie z. B. das Wort "Gezeiten", das Du
+               einfach nicht anwenden <hi rend="u">darfst</hi>. Ich bitte Dich, schicke mir weiter
+               Deine Kindlein; ich bin froh über sie, weil sie von Dir kommen, und weil <hi rend="u"
+                  >Du</hi> Dich in ihnen ausdrückst, wenn ich auch an die Form den objektiven
+               Maßstab lege. – Aber eigentlich wollte ich ja gar nicht über Deine Gedichte
+               schreiben, Du hattest mich darin etwas mißverstanden, daß Du meine Worte über den
+               Geist allein auf Deine Gedichte bezogst. Er war nicht einmal vorzugsweise auf sie
+               gerichtet. Ich sprach von Geist überhaupt, von Durchblutung im Unterschied von
+               Litteratur. Ich sprach auch nicht von Einfachheit. Gott sei Dank, daß Du nicht simpel
+               bist! Es ist nicht wahr, daß das Einfachste immer das Beste ist. Und das
+               Schrecklichste wäre eine künstliche Einfachheit. Was ich will ist die tiefe
+               Durcharbeitung alles Einzelnen, der ständ[...]</p>
+         </div>
+      </body>
+   </text>
 </TEI>
