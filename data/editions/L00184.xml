@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00184">
-                  <teiHeader>
-                                    <fileDesc>
-                                                  <titleStmt>
-                                                  <title>Postkarte von Johannes Tillich, Tante Trude an Paul Tillich
-                                                  <lb/>vom 16. August 1907 </title>
+              <teiHeader>
+                            <fileDesc>
+                                          <titleStmt>
+                                                  <title>Postkarte von Johannes Tillich, Tante Trude
+                                                  an Paul Tillich <lb/>vom 16. August 1907 </title>
                                                   <author ref="#tillich_person_id__203">Tante
                                                   Trude</author>
                                                   <respStmt>
@@ -12,14 +12,14 @@
                                                   <name key="https://orcid.org/0009-0003-9642-5125"
                                                   >Paul Schömann</name>
                                                   </respStmt>
-                                                  </titleStmt>
-                                                  <editionStmt>
+                                          </titleStmt>
+                                          <editionStmt>
                                                   <edition>
                                                   <title type="editionstitel">Edition der
                                                   Korrespondenz von Paul Tillich 1887-1933</title>
                                                   </edition>
-                                                  </editionStmt>
-                                                  <publicationStmt>
+                                          </editionStmt>
+                                          <publicationStmt>
                                                   <publisher>
                                                   <name>Institut für Systematische Theologie und
                                                   Religionswissenschaft</name>
@@ -38,8 +38,8 @@
                                                   >Creative Commons Attribution 4.0 International
                                                   (CC BY 4.0)</licence>
                                                   </availability>
-                                                  </publicationStmt>
-                                                  <sourceDesc>
+                                          </publicationStmt>
+                                          <sourceDesc>
                                                   <msDesc type="manuscript">
                                                   <msIdentifier>
                                                   <country>USA</country>
@@ -56,21 +56,21 @@
                                                   <p>Postkarte, eigenhändig</p>
                                                   </physDesc>
                                                   </msDesc>
-                                                  </sourceDesc>
-                                    </fileDesc>
-                                    <encodingDesc>
-                                                  <projectDesc>
+                                          </sourceDesc>
+                            </fileDesc>
+                            <encodingDesc>
+                                          <projectDesc>
                                                   <p>online-Edition: Edition der Korrespondenz von
                                                   Paul Tillich 1887-1933.</p>
-                                                  </projectDesc>
-                                                  <editorialDecl>
+                                          </projectDesc>
+                                          <editorialDecl>
                                                   <p>Die Ausgabe folgt folgenden Editorischen
                                                   Richtlinien des DTA-Basisformats. Vgl.
                                                   https://www.deutschestextarchiv.de/doku/basisformat/</p>
-                                                  </editorialDecl>
-                                    </encodingDesc>
-                                    <profileDesc>
-                                                  <correspDesc>
+                                          </editorialDecl>
+                            </encodingDesc>
+                            <profileDesc>
+                                          <correspDesc>
                                                   <correspAction type="sent">
                                                   <persName ref="#tillich_person_id__2199">Tante
                                                   Trude</persName>
@@ -82,23 +82,22 @@
                                                   <persName ref="#tillich_person_id__1928">Paul
                                                   Tillich</persName>
                                                   </correspAction>
-                                                  </correspDesc>
-                                                  <langUsage>
+                                          </correspDesc>
+                                          <langUsage>
                                                   <language ident="deu">Deutsch</language>
-                                                  </langUsage>
-                                    </profileDesc>
-                                    <revisionDesc status="approved">
-                                                  <change when="2022-09-23" who="PS">Initiale
-                                                  Auszeichnung des Transkripts</change>
-                                                  <change when="2024-02-06" who="PS">Vorbereitende
+                                          </langUsage>
+                            </profileDesc>
+                            <revisionDesc status="approved">
+                                          <change when="2022-09-23" who="PS">Initiale Auszeichnung
+                                                  des Transkripts</change>
+                                          <change when="2024-02-06" who="PS">Vorbereitende
                                                   Endabnahme</change>
-                                                  <change when="2024-02-20" who="EL"
-                                                  >Endabnahme</change>
-                                    </revisionDesc>
-                  </teiHeader>
-                  <text type="postcard">
-                                    <body>
-                                                  <div type="writingSession">
+                                          <change when="2024-02-20" who="EL">Endabnahme</change>
+                            </revisionDesc>
+              </teiHeader>
+              <text type="postcard">
+                            <body>
+                                          <div type="writingSession">
                                                   <pb n="1"/>
                                                   <opener>
                                                   <dateline><rs ref="#tillich_place_id__218"
@@ -127,7 +126,10 @@
                                                   <signed><rs ref="#tillich_person_id__1924"
                                                   type="person">Papa</rs> u. Geschwister</signed>
                                                   </closer>
-                                                  </div>
-                                    </body>
-                  </text>
+                                                  <postscript>
+                                                  <p><unclear>???</unclear>.</p>
+                                                  </postscript>
+                                          </div>
+                            </body>
+              </text>
 </TEI>
