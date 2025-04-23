@@ -3,7 +3,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 1. Januar 1922</title>
+<title>Brief von Paul Tillich an Hannah Tillich <lb/>aus dem Jahr 1922</title>
 <author ref="#tillich_person_id__1928">Paul Tillich</author>
 <respStmt>
 <resp>Editor</resp>
@@ -56,7 +56,7 @@
 <correspDesc>
 <correspAction type="sent">
 <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<date notBefore="1922-01-01">01.01.1922</date>
+<date when="1922">1922</date>
 </correspAction>
 <correspAction type="received">
 <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
@@ -69,17 +69,15 @@
 <revisionDesc status="approved">
 <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
 <change when="2024-02-02" who="AA">Initiale Auszeichnung des Transkripts</change>
+   <change when="2025-04-23" who="FS">Kollationierung</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
 <body>
 <div type="writingSession">
 <pb n="1"/>
-<opener>
-<dateline>
-   den <date notBefore="1922-01-01">01.01.1922</date>
-</dateline>
-<salute>Geliebte!</salute>
+<opener><dateline>Freitag Nachmittag.</dateline>
+   <salute><rs ref="#tillich_person_id__1923" type="person">Geliebte</rs>!</salute>
 </opener>
 <p>
    Seit 2 Tagen habe ich ununterbrochen gearbeitet, um meinem Amerikaner ein Haus zu verschaffen,
@@ -89,18 +87,18 @@
    mir mit Deinen großen herrlichen Augen und vergehe in Sehnsucht. – Merkwürdig stark wirkt dieses Mal
    das Meer auf mich. Ich empfinde es wie eine große Wüste, und ich freue mich über jede Blume, die lebendig
    und geformt meine Seele beruhigt. Heut bin ich um den grandiosen Inselkopf gegangen; das Meer hat diesen
-   Winter ganz besonders gewüstet und viele Abhänge heruntergestürzt. Es <pb n="2"/> ist alles
+   Winter ganz besonders gewüstet und viele Abhänge heruntergestürzt. Es<pb n="2"/> ist alles
    so grauenhaft großartig, daß meine Nerven fast versagen. Zu sehen, wie nicht nur alles Lebendige sich
    wandelt, sondern auch der Erdboden langsam umgestaltet wird, ist tief bewegend. – Ich empfinde <rs ref="#tillich_place_id__535" type="place">Hiddensee</rs>,
    als ob ich es vor 3 Wochen verlassen hätte und nun wieder zurückgekehrt. Am Strand kriegte ich unwillkürlich
    einen Schreck, als an der Stelle, wo meine Burg stand, alles glatt war. – Gestern dachte ich, daß in
    einer solchen Landschaft alle idealistische Philosophie unmöglich ist. Die Wirklichkeit ist zu groß,
-   als daß sie in menschliche Vorstellungen aufgelöst werden kann. – Hannah wäre ich hier mit Dir: Wie
+   als daß sie in menschliche Vorstellungen aufgelöst werden kann. – <rs ref="#tillich_person_id__1923" type="person">Hannah</rs> wäre ich hier mit Dir: Wie
    würde jeder Fels und jede Welle zu uns sprechen!
   </p>
 <closer>
-<salute>Leb wohl, Geliebte!</salute>
-<signed>Dein Paul.</signed>
+   <salute>Leb wohl, <rs ref="#tillich_person_id__1923" type="person">Geliebte</rs>!</salute>
+   <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
 </closer>
 </div>
 </body>
