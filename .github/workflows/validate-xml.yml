@@ -1,0 +1,43 @@
+name: Validate XML Files
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - "data/editions/**"
+      - "odd/out/**"
+  pull_request:
+    branches: [main, master]
+    paths:
+      - "data/editions/**"
+      - "odd/out/**"
+  workflow_dispatch:
+
+jobs:
+  validate-xml:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install lxml
+
+      - name: Run XML validation
+        run: |
+          python validate_xml.py --no-interactive --workers 8
+
+      - name: Upload validation report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: validation-report
+          path: |
+            validation-report.txt
