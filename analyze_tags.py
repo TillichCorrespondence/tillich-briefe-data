@@ -1,8 +1,8 @@
 import glob
-import pandas as pd
 from collections import Counter
-from acdh_tei_pyutils.tei import TeiReader
 
+import pandas as pd
+from acdh_tei_pyutils.tei import TeiReader
 
 files = glob.glob("./data/editions/*.xml")
 
@@ -20,8 +20,6 @@ for x in files:
 element_stats = dict(Counter(elements))
 element_list = []
 for key, value in element_stats.items():
-    element_list.append(
-        {"name": key, "nr": value}
-    )
+    element_list.append({"name": key, "nr": value})
 df = pd.DataFrame(element_list)
 df.sort_values(by="nr").to_csv("tags.csv", index=False)

@@ -1,10 +1,11 @@
 import glob
 import time
+from pathlib import Path
+
+import lxml.etree as ET
+from acdh_tei_pyutils.tei import TeiReader
 from pyschematron import validate_document
 from pyschematron.utils import load_xml_document
-from pathlib import Path
-from acdh_tei_pyutils.tei import TeiReader
-import lxml.etree as ET
 
 
 def main():
@@ -13,8 +14,9 @@ def main():
 
     schematron_path = Path("./odd/out/tillich-schematron.sch")
     schematron_schema = load_xml_document(schematron_path)
+    rng_path = Path("./odd/out/tillich-briefe.rng")
 
-    with open("./odd/out/tillich-briefe.rng", "r") as rng_file:
+    with open(rng_path, "r") as rng_file:
         rng_doc = ET.parse(rng_file)
         relaxng_schema = ET.RelaxNG(rng_doc)
 
@@ -40,8 +42,7 @@ def main():
 
     end_time = time.time()
     elapsed_time = end_time - start_time
-    print(f"finished validating {len(files)} files in "
-          f"{elapsed_time:.2f} seconds")
+    print(f"finished validating {len(files)} files in {elapsed_time:.2f} seconds")
 
 
 if __name__ == "__main__":
