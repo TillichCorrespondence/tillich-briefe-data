@@ -1,0 +1,14 @@
+name: test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Install the latest version of uv and set the python version
+      uses: astral-sh/setup-uv@v6
+    - name: test
+      run: uv run validate-all --files "data/editions/*.xml" --rng "odd/out/tillich-briefe.rng" --schematron "odd/out/tillich-schematron.sch" 
