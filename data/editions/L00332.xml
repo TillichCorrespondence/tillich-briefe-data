@@ -1,94 +1,93 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00332">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von M.H. Böcking an Paul Tillich <lb/>vom 23. Mai 1913</title>
-            <author ref="#tillich_person_id__237">M.H. Böcking</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00332" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von M.H. Böcking an Paul Tillich <lb/>vom 23. Mai 1913</title>
+<author ref="#tillich_person_id__237">M.H. Böcking</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">Wien</placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                  <idno>bMS 649/125(9)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS 649/125(9)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__237">M.H. Böcking</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1913-05-23">23.05.1913</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-         <change when="2023-12-09" who="AA">Initiale Auszeichnung des Transkripts</change>
-         <change when="2024-02-05" who="JE">Einarbeiten von Verbesserungen</change>
-         <change when="2025-02-24" who="EL">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs>
-                  <date when="1913-05-23">23.V.13</date>. </dateline>
-               <salute>Lieber Herr <rs type="person" ref="#tillich_person_id__1928"
-                  >Tillich</rs>!</salute>
-            </opener>
-            <p> Für Ihre Zusendung besten Dank! Daß ich zu voller Mitwirkung bereit bin, brauche ich
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__237">M.H. Böcking</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1913-05-23">23.05.1913</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2023-12-09" who="AA">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-02-05" who="JE">Einarbeiten von Verbesserungen</change>
+<change when="2025-02-24" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__37" type="place">Berlin</rs>
+<date when="1913-05-23">23.V.13</date>. </dateline>
+<salute>Lieber Herr <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>!</salute>
+</opener>
+<p> Für Ihre Zusendung besten Dank! Daß ich zu voller Mitwirkung bereit bin, brauche ich
                nicht zu wiederholen. Aber ich muß es mir doch etwas nach meinen subjektiven
                Notwendigkeiten legen können. Also: Mein Mündliches wird etwa Anfang November
                steigen. Da kann ich natürlich unmittelbar vorher nicht die Muße, die zu drei
@@ -97,39 +96,34 @@
                Lebensphilosoph. Einen <pb n="2"/> kosmischen Universalvitalismus aus zu proklamieren
                halte ich für höchst bedenklich und anfechtbar. Und von Naturwissenschaft verstehe
                ich so wenig, daß ich über das Thema unmöglich reden kann. Dagegen würde ich in
-               dieser Reihe sehr gern sprechen über den "Tod als Lebensmacht". Ich glaube nicht, daß
+               dieser Reihe sehr gern sprechen über den <q>Tod als Lebensmacht</q>. Ich glaube nicht, daß
                sich das mit dem Unsterblichkeitsthema kreuzen wird. Wohl aber wird es sich gut in
                den Zusammenhang fügen, also etwa Ende Januar an die Reihe kommen. Und Januar u.
                Februar stehe ich Ihnen am vollsten zur Verfügung. Für den März kann ich nicht im
-               voraus garantieren. Zwei <rs ref="#tillich_person_id__1611" type="person"
-               >Rilke</rs>-Verse lese ich eben: <pb n="3"/> "O Herr gib jedem seinen eignen Tod Das
-               Sterben, das aus jenem Leben geht, darin er Liebe hatte, Sinn und Not."<note
-                  type="ea">Vgl. <rs type="work" ref="#tillich__UWQCSKGA" n="82">Rainer Maria Rilke:
+               voraus garantieren. Zwei <rs ref="#tillich_person_id__1611" type="person">Rilke</rs>-Verse lese ich eben: <pb n="3"/> <q>O Herr gib jedem seinen eignen Tod Das
+               Sterben, das aus jenem Leben geht, darin er Liebe hatte, Sinn und Not.</q><note type="ea">Vgl. <rs n="82" ref="#tillich__UWQCSKGA" type="work">Rainer Maria Rilke:
                      Das Stunden-Buch (1899), S. 82</rs>.</note> und: „Kein Jenseitswarten und kein
                Schaun nach drüben, nur Sehnsucht, auch den Tod nicht zu entweihn und dienend sich am
-               Irdischen zu üben, um seinen Händen nicht mehr neu zu sein."<note type="ea">Vgl. <rs
-                     type="work" ref="#tillich__UWQCSKGA" n="68">Rainer Maria Rilke: Das Stunden-Buch
-                     (1899), S. 68</rs>.</note> dazu <rs ref="#tillich_person_id__2828"
-                  type="person">Max Klinger</rs>, vom Tode u. <rs ref="#tillich_person_id__921"
-                  type="person">Holbeins</rs> Totentanz. Sie sehen also die "Richtlinien".
+               Irdischen zu üben, um seinen Händen nicht mehr neu zu sein.<q><note type="ea">Vgl. <rs n="68" ref="#tillich__UWQCSKGA" type="work">Rainer Maria Rilke: Das Stunden-Buch
+                     (1899), S. 68</rs>.</note> dazu <rs ref="#tillich_person_id__2828" type="person">Max Klinger</rs>, vom Tode u. <rs ref="#tillich_person_id__921" type="person">Holbeins</rs> Totentanz. Sie sehen also die </q>Richtlinien<q>.
                Metaphysik des Todes. Sinn des Todes als Ende nicht als Anfang, für das Leben, nicht
-               für des Jenseits. Der "eigne" und der "fremde" Tod (wissen Sie, wie Liliencron
+               für des Jenseits. Der </q>eigne<q> und der </q>fremde<q> Tod (wissen Sie, wie Liliencron
                starb?), Todessehnsucht und Todesfurcht <pb n="4"/> der zu frühe und zu späte Tod,
                der Selbstmord, der Mord, der erwartete und der plötzliche Tod: Kurzum: Sie sehen, es
                läßt sich darüber einiges sagen, das sich recht wohl in das Ganze hineinfügen wird.
-               Im ethischen Zyklus würde mir – offen gestanden – die "Ethik des geselligen Lebens"
-               und die "Wertung des Staates" weit mehr liegen als das abgedroschene Sozialproblem.
+               Im ethischen Zyklus würde mir – offen gestanden – die </q>Ethik des geselligen Lebens<q>
+               und die </q>Wertung des Staates weit mehr liegen als das abgedroschene Sozialproblem.
                Aber wenn es sein muß, nehme ich auch dies. Schreiben Sie mir gelegentlich, wie sich
                das übrige gemacht hat, und wie Sie zu meinem Vorschlag stehen. Ich sitze z.Z. über
                meiner Dissertation, die noch im Juni fertig gestellt werden soll. Für Juli und
                August gehe ich ans Meer und kehre Anfang September zum Pauken hierher zurück. Es
                leben die Examina! Grüßen Sie <rs ref="#tillich_person_id__2020" type="person">Dr.
                   Wegener</rs>! Auf Wiedersehen! </p>
-            <closer>
-               <salute>Ihr</salute>
-               <signed><rs type="person" ref="#tillich_person_id__237">M.H. Böcking</rs></signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<salute>Ihr</salute>
+<signed><rs ref="#tillich_person_id__237" type="person">M.H. Böcking</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

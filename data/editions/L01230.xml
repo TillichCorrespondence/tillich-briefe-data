@@ -1,117 +1,112 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01230">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Ernst Bizer an Paul Tillich <lb/>vom 28. Mai 1933</title>
-            <author ref="#tillich_person_id__225">Ernst Bizer</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01230" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Ernst Bizer an Paul Tillich <lb/>vom 28. Mai 1933</title>
+<author ref="#tillich_person_id__225">Ernst Bizer</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/124(72)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, maschinenschriftlich</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/124(72)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, maschinenschriftlich</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__225">Ernst Bizer</persName>
-               <placeName ref="#tillich_place_id__204">Heilbronn</placeName>
-               <date when="1933-05-28">28.05.1933</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-07-27">Initiale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2024-01-05">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener><dateline>
-                  <rs ref="#tillich_place_id__204" type="place">Heilbronn</rs>, den <date
-                     when="1933-05-28">28. Mai 1933</date>.<lb/>Wilhelmstraße 5</dateline>
-               <salute>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__225">Ernst Bizer</persName>
+<placeName ref="#tillich_place_id__204">Heilbronn</placeName>
+<date when="1933-05-28">28.05.1933</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-07-27" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-01-05" who="PS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline>
+<rs ref="#tillich_place_id__204" type="place">Heilbronn</rs>, den <date when="1933-05-28">28. Mai 1933</date>.<lb/>Wilhelmstraße 5</dateline>
+<salute>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr
                      Professor</rs>!</salute>
-            </opener>
-            <p>Ich erlaube mir, Ihnen hier das <rs type="work" ref="#tillich__S93QNG5P">erste Heft
-                  einer Zeitschrift</rs><note type="ea"><rs ref="#tillich_person_id__225"
-                     type="person">Ernst Bizer</rs> war Herausgeber der von 1933 bis 1934 erschienen
-                  Zeitschrift "Blätter zur kirchlichen Lage.</note> zu schicken, von der ich nicht
+</opener>
+<p>Ich erlaube mir, Ihnen hier das <rs ref="#tillich__S93QNG5P" type="work">erste Heft
+                  einer Zeitschrift</rs><note type="ea"><rs ref="#tillich_person_id__225" type="person">Ernst Bizer</rs> war Herausgeber der von 1933 bis 1934 erschienen
+                  Zeitschrift <q>Blätter zur kirchlichen Lage.</q></note> zu schicken, von der ich nicht
                weiss, ob sie Sie auch bloss interessieren wird. Aber ich freue mich trotzdem, sie
                Ihnen schicken zu koennen, – gerade Ihnen. Denn die Mitarbeiter waren einmal Ihre
-               Schueler, wenn es auch lange her ist, seit Sie damals in <rs
-                  ref="#tillich_place_id__279" type="place">Marburg</rs> das erste Mal
-               "Religionsphilosophie" gelesen und der Aufsatz ueber die "<rs type="work"
-                  ref="#tillich__YK9RJUAW">Ueberwindung des Persoenlichkeitsideals</rs>" der
+               Schueler, wenn es auch lange her ist, seit Sie damals in <rs ref="#tillich_place_id__279" type="place">Marburg</rs> das erste Mal
+               Religionsphilosophie<q> gelesen und der Aufsatz ueber die </q><rs ref="#tillich__YK9RJUAW" type="work">Ueberwindung des Persoenlichkeitsideals</rs> der
                Orientierungspunkt in unserem Studium war..</p>
-            <p>Aber das mag nun alles sein wie es will. Vielleicht macht unsere Theologie Ihnen
-               wenig Freude. So nehmen Sie <rs type="work" ref="#tillich__S93QNG5P">das Heft</rs> wenigstens als ein Zeichen dankbarer
+<p>Aber das mag nun alles sein wie es will. Vielleicht macht unsere Theologie Ihnen
+               wenig Freude. So nehmen Sie <rs ref="#tillich__S93QNG5P" type="work">das Heft</rs> wenigstens als ein Zeichen dankbarer
                Verbundenheit, die doch nicht aufgehoert hat, und heute erst recht besteht. Es ist ja
                nun vieles ganz anders gekommen als <hi rend="u">wir</hi> gedacht und gehofft hatten.
                Aber es ist mir sehr recht, dass ich Ihnen nun wenigstens schreiben kann, dass unsere
                und speziell meine Dankbarkeit nicht erloschen ist, und dass es immer noch Leute
                gibt, die, <sic>die Sie</sic>, wenn auch auf ihre Weise, in dankbarster Erinnerung
                tragen.</p>
-            <closer>
-               <salute>Mit guten Gruessen</salute> Ihr sehr ergebener<lb/><signed><rs
-                     ref="#tillich_person_id__225" type="person">Ernst Bizer</rs></signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<salute>Mit guten Gruessen</salute> Ihr sehr ergebener<lb/><signed><rs ref="#tillich_person_id__225" type="person">Ernst Bizer</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

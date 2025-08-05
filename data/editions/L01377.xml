@@ -1,111 +1,103 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01377">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Hannah Tillich <lb/>von September 1920</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Anna Rüther</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01377" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich <lb/>von September 1920</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Anna Rüther</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">Wien</placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                  <idno>bMS 721/2(16)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brieffragment, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/2(16)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brieffragment, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date notBefore="1920-09-01" notAfter="1920-09-30">01.09.1920</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-         <change when="2024-02-08" who="AR">Initiale Auszeichnung des Transkripts</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <salute><note type="ea"> Am oberen Rand des Briefes wurde von fremder Hand
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date notAfter="1920-09-30" notBefore="1920-09-01">01.09.1920</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2024-02-08" who="AR">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute><note type="ea"> Am oberen Rand des Briefes wurde von fremder Hand
                      (wahrscheinlich <rs ref="#tillich_person_id__1923" type="person">Hannah
-                        Tillich</rs>) "Sept. 20" vermerkt. </note><rs ref="#tillich_person_id__1923"
-                     type="person">Hannah</rs>!</salute>
-            </opener>
-            <p> Lange habe ich nichts von Dir gehört, teils weil Du lange nicht geschrieben hast,
-               teils weil in diese Zeit mein Umzug von <rs ref="#tillich_place_id__553" type="place"
-                  >Rügenwaldermünde</rs> nach <rs ref="#tillich_place_id__716" type="place"
-                  >Dändorf</rs> fiel, und ich meine Briefe hierher nicht direkt nachschicken,
-               sondern in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> von <rs
-                  ref="#tillich_person_id__3238" type="person">Frl.Zöchl</rs> (die unser Haus
+                        Tillich</rs>) <q>Sept. 20</q> vermerkt. </note><rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p> Lange habe ich nichts von Dir gehört, teils weil Du lange nicht geschrieben hast,
+               teils weil in diese Zeit mein Umzug von <rs ref="#tillich_place_id__553" type="place">Rügenwaldermünde</rs> nach <rs ref="#tillich_place_id__716" type="place">Dändorf</rs> fiel, und ich meine Briefe hierher nicht direkt nachschicken,
+               sondern in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> von <rs ref="#tillich_person_id__3238" type="person">Frl.Zöchl</rs> (die unser Haus
                bewacht) in ein Kuvert stecken lasse; Du mußt auch dahin schreiben... Die Sturmtage
                haben etwas auf meine Lunge gewirkt, so daß ich mich jetzt nicht ganz auf der Höhe
                fühle; aber ich bin hier in besten Händen: Ein Häuschen direkt am Bodden, mit
                herrlichem Blick, das Meer 50 Min. entfernt schöner Weg; die Verpflegung erstklassig;
                   <rs ref="#tillich_person_id__2804" type="person">Ilsemargot</rs> verhältnismäßig
                vernünftig, sitzt jetzt neben mir im Strandkorb und <unclear>lernt
-                  Philosophie</unclear>. Ich denk an die Trauertage zurück, die durch <rs
-                  ref="#tillich_person_id__2809" type="person">Frau <sic>Apelius</sic></rs>, die wie
-               eine gütige Fee für mich sorgte, wundervoll gestaltet wurden. (Der <rs
-                  ref="#tillich_person_id__3239" type="person">Münchener Maler</rs> ist übrigens ihr
+                  Philosophie</unclear>. Ich denk an die Trauertage zurück, die durch <rs ref="#tillich_person_id__2809" type="person">Frau <sic>Apelius</sic></rs>, die wie
+               eine gütige Fee für mich sorgte, wundervoll gestaltet wurden. (Der <rs ref="#tillich_person_id__3239" type="person">Münchener Maler</rs> ist übrigens ihr
                Vetter). Ich sagte ihr einiges von Dir und las ihr dies und jenes vor; sie war
-               begeistert von Dir<pb n="2"/> und bewegt durch unser Schicksal. Ach <rs
-                  ref="#tillich_person_id__1923" type="person">Hannah</rs>, noch die entferntesten
+               begeistert von Dir<pb n="2"/> und bewegt durch unser Schicksal. Ach <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>, noch die entferntesten
                Wirkungen Deiner Seele schaffen Dir Freunde; wie sehr unwürdig Deiner fühle ich mich
-               dann! – Es ist klüger, wenn Du <rs ref="#tillich_person_id__2020" type="person"
-                  >Dox</rs> wegen <rs ref="#tillich_person_id__2041" type="person">Marie Luise</rs>
+               dann! – Es ist klüger, wenn Du <rs ref="#tillich_person_id__2020" type="person">Dox</rs> wegen <rs ref="#tillich_person_id__2041" type="person">Marie Luise</rs>
                nicht zu beeinflussen suchst. Das erwirkt in ihm, wie ich ihn kenne, immer negative
                Reaktionen. – <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>, ich
                glaube, an Dir hängt mein Werk; bist Du da, habe ich nichts nötig, als Meer und
@@ -116,7 +108,7 @@
                Forderungen liegen auf mir, Vorträge, Kolleg, etc; sie drücken mich und ich bin noch
                nicht stark genug für sie; das ist so schlimm, wenn mehr von einem verlangt wird, als
                man leisten kann; bist Du da, Du heiß, Du unsäglich Geliebte, so kann ich alles.</p>
-         </div>
-      </body>
-   </text>
+</div>
+</body>
+</text>
 </TEI>

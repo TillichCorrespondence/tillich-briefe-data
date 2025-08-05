@@ -1,142 +1,131 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00195">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Daniel Schubert und Alfred Fritz an Paul Tillich <lb/>vom 20. August 1907</title>
-            <author ref="#tillich_person_id__1743">Daniel Schubert</author>
-            <author ref="#tillich_person_id__641">Alfred Fritz</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00195" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Daniel Schubert und Alfred Fritz an Paul Tillich <lb/>vom 20. August 1907</title>
+<author ref="#tillich_person_id__1743">Daniel Schubert</author>
+<author ref="#tillich_person_id__641">Alfred Fritz</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/183</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/183</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1743">Daniel Schubert</persName>
-               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
-               <placeName ref="#tillich_place_id__485">Stuttgart</placeName>
-               <date when="1907-08-20">20.08.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2023-03-31" who="PS">Initiale Auszeichnung des Transkripts</change>
-         <change when="2024-02-07" who="PS">Vorbereitende Endabnahme</change>
-         <change when="2024-02-20" who="EL">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__420" type="place">Stuttgart</rs>, den <date
-                     when="1907-08-20">20. August 1907</date></dateline>
-               <salute>Liebes <rs ref="#tillich_person_id__1928" type="person"
-                  >Paulchen</rs>!</salute>
-            </opener>
-            <p>Ein Brief ist am wenigsten geschätzt, wenn er kommt als noch einer in der großen
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1743">Daniel Schubert</persName>
+<persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+<placeName ref="#tillich_place_id__485">Stuttgart</placeName>
+<date when="1907-08-20">20.08.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-03-31" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-02-07" who="PS">Vorbereitende Endabnahme</change>
+<change when="2024-02-20" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__420" type="place">Stuttgart</rs>, den <date when="1907-08-20">20. August 1907</date></dateline>
+<salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+</opener>
+<p>Ein Brief ist am wenigsten geschätzt, wenn er kommt als noch einer in der großen
                Herde der Geburtstagsbriefe. Aber ich kanns nicht verheben, Dir gerade diesmal auch
                ein wenig zu zeigen, daß ich mit dabei bin, Dir zu gratulieren für das was war, Dir
                Freude zu wünschen für die Stunde, die ist, u. Gottes Geleit fürs neue Jahr.</p>
-            <p>Viel Antrieb war hier auf dem Bopser in den letzten Tagen, sonst wäre ich wohl noch
+<p>Viel Antrieb war hier auf dem Bopser in den letzten Tagen, sonst wäre ich wohl noch
                rechtzeitig gekommen. Wir stehen gerade in der Zeit, wo es mehr Obst gibt als sonst
                je im Jahr, vor allem Birnen Äpfel u. Pflaumen das muß alles geerntet und auf irgend
                eine Weise verwertet sein.<pb n="2"/> So kommts, daß ich mit Kirchen u.
                Dogmengeschichte immer noch im 2ten Jahrhundert – bei den Apologeten – stecke.</p>
-            <p>Außerdem ist ja hier gegenwärtig der Centralbetrieb der <add add="superlinear"
-                  >roten</add> Internationale. Am Sonntag war großes "<hi rend="aq">Meeting</hi>"
+<p>Außerdem ist ja hier gegenwärtig der Centralbetrieb der <add add="superlinear">roten</add> Internationale. Am Sonntag war großes <q><hi rend="aq">Meeting</hi></q>
                auf dem Wasen bei <rs ref="#tillich_place_id__584" type="place">Kannstatt</rs>. 6
                Rednerpulte, wo nacheinander die ausländischen Herrschaften in allen Zungen redeten.
                Und alle verwunderten sich u. sprachen unter einander: Siehe wir hören ein jeglicher
                seine Sprache, darinnen wir geboren sind, Deutsche u. Polen, u. Niederländer u. die
                wir wohnen im russischen Reiche u. in Frankreich u. Hispanien, Italien u. England,
-               Österreich u. Amerika, Australien u. an<pb n="3"/> den Enden Afrika's bei <rs
-                  ref="#tillich_place_id__585" type="place">Kapstadt</rs> u. Ausländer von <rs
-                  ref="#tillich_place_id__586" type="place">Tokio</rs>, <hi rend="u">Juden u.
+               Österreich u. Amerika, Australien u. an<pb n="3"/> den Enden Afrika's bei <rs ref="#tillich_place_id__585" type="place">Kapstadt</rs> u. Ausländer von <rs ref="#tillich_place_id__586" type="place">Tokio</rs>, <hi rend="u">Juden u.
                   Judengenossen</hi>, Krethi u. Plethi: wir hören sie mit unsern Zungen ihre großen
                Taten reden... Und sprach einer zum andern: Was will das werden; die andern aber
                hatten's ihren Spott u. sprachen: Sie sind voll süssen Weins.</p>
-            <p>Und wenn mir die Apostelgeschichte nicht zu gut wäre da könnte ich an <rs
-                  ref="Apg-2,14" type="bible">V.14</rs> fortfahren: da trat auf <rs
-                  ref="#tillich_person_id__1231" type="person">Rosa</rs>, die Bittere, u. sprach
+<p>Und wenn mir die Apostelgeschichte nicht zu gut wäre da könnte ich an <rs ref="Apg-2,14" type="bible">V.14</rs> fortfahren: da trat auf <rs ref="#tillich_person_id__1231" type="person">Rosa</rs>, die Bittere, u. sprach
                etc. Sie werden sich wohl etwas entsetzt haben die ausländischen Herren; denn die
                Schwaben blieben ihrer Art treu: nur keine Aufregung.</p>
-            <p>Und so sehr <rs ref="#tillich_person_id__2297" type="person">Jaurès</rs> durch die
+<p>Und so sehr <rs ref="#tillich_person_id__2297" type="person">Jaurès</rs> durch die
                Luft fuchtelte, so laut ein Pole wütete gegen Militarismus u. Kapitalismus, alles
                half nichts. Nur die organsierte Gesellschaft erhob die Hüte zu einer kläglichen
                Leere, das übrige Volk, wohl <formula notation="TeX">\frac{1}{3}</formula>, war nur
                begierig etwas<pb n="4"/> neues zu hören u. verstieg sich höchstens zu dem Eindruck:
                Was will dieser Lotterbube sagen, es siehet, als wolle er neue Götter verkündigen.
-               Interessant waren mir die Gesichtstypen: <rs ref="#tillich_person_id__2201"
-                  type="person">Singer</rs> à la Kommerzialrat, eklig, <rs
-                  ref="#tillich_person_id__2200" type="person">Bebel</rs> sympathisch, <rs
-                  ref="#tillich_person_id__2297" type="person">Jaurès</rs> wie ein unmäßig
+               Interessant waren mir die Gesichtstypen: <rs ref="#tillich_person_id__2201" type="person">Singer</rs> à la Kommerzialrat, eklig, <rs ref="#tillich_person_id__2200" type="person">Bebel</rs> sympathisch, <rs ref="#tillich_person_id__2297" type="person">Jaurès</rs> wie ein unmäßig
                gestikulierender Pastor. <rs ref="#tillich_person_id__1231" type="person">Rosa
                   Luxemburg</rs>, eine widerliche kleine Judenfigur; ich glaube wenn sie alt genug
                ist, kann sie als Typus dienen für die edle Mirijam (du kennst doch Hypathia).
                Gegenwärtig beraten die Männlein jetzt, wobei die etwa 5 anwesenden Weibchen
                ebensoviel reden, als alle paar hundert Männer zusammen. <del rend="s">Das kann</del>
                Wie soll das werden im Frauenparlament?!</p>
-            <p>Doch ich habe mich zu lange damit aufgehalten. Gestern habe ich <rs
-                  ref="#tillich_person_id__2138" type="person">Heller</rs> 10 Minuten am Bahnhof
+<p>Doch ich habe mich zu lange damit aufgehalten. Gestern habe ich <rs ref="#tillich_person_id__2138" type="person">Heller</rs> 10 Minuten am Bahnhof
                gesehen. Meine <rs ref="#tillich_person_id__2882" type="person">Mutter</rs> ist noch
                immer krank. Es war sehr schlimm, Herzerweitung u. Schwäche – doch geht's langsam
                besser. Mit <rs ref="#tillich_person_id__641" type="person">Alfred</rs> komme ich
@@ -144,18 +133,15 @@
                habe ich noch keine Nachricht. Unser Abschied war sehr plötzlich; ich wurde wegen
                meiner <rs ref="#tillich_person_id__2882" type="person">Mutter</rs> plötzlich
                heimgerufen. Wir haben uns, als er wegfuhr dann noch 1 Stunde lang auf d. Stuttgarter
-               Bahnhof gesehen. Wenn du Vater <rs ref="#tillich_person_id__1592" type="person"
-                  >Rhein</rs> siehst, so sag ihm ich warte immer noch auf Brief u. Typ. </p>
-            <closer>
-               <salute>Herzlich grüßt Dich Dein getr. Clds. <rs ref="#tillich_person_id__1743"
-                     type="person">Daniel Schubert</rs>.</salute>
-            </closer>
-         </div>
-         <div>
-            <p>Inzwischen herzlichen Glückwunsch u Gruß Bald mehr</p>
-            <closer><signed><rs ref="#tillich_person_id__641" type="person"
-               >Alfred</rs></signed></closer>
-         </div>
-      </body>
-   </text>
+               Bahnhof gesehen. Wenn du Vater <rs ref="#tillich_person_id__1592" type="person">Rhein</rs> siehst, so sag ihm ich warte immer noch auf Brief u. Typ. </p>
+<closer>
+<salute>Herzlich grüßt Dich Dein getr. Clds. <rs ref="#tillich_person_id__1743" type="person">Daniel Schubert</rs>.</salute>
+</closer>
+</div>
+<div>
+<p>Inzwischen herzlichen Glückwunsch u Gruß Bald mehr</p>
+<closer><signed><rs ref="#tillich_person_id__641" type="person">Alfred</rs></signed></closer>
+</div>
+</body>
+</text>
 </TEI>

@@ -1,136 +1,126 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01109">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Helmuth Schreiner <lb/>vom 18. Juni 1931 </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0007-2445-9093">Niklas von Hülsen</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01109" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Helmuth Schreiner <lb/>vom 18. Juni 1931 </title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0007-2445-9093">Niklas von Hülsen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="typescript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__307">Münster</settlement>
-                  <institution>Westfälische Wilhelms-Universität Münster</institution>
-                  <repository>Universitäts- und Landesbibliothek Münster</repository>
-                  <collection>Nachlass Helmuth Schreiner</collection>
-                  <idno>Kapsel 24: Briefwechsel 1924-1928 +1929-1931, 24,086</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, maschinenschriftlich</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="typescript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__307">Münster</settlement>
+<institution>Westfälische Wilhelms-Universität Münster</institution>
+<repository>Universitäts- und Landesbibliothek Münster</repository>
+<collection>Nachlass Helmuth Schreiner</collection>
+<idno>Kapsel 24: Briefwechsel 1924-1928 +1929-1931, 24,086</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, maschinenschriftlich</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__143">Frankfurt</placeName>
-               <date when="1931-06-18">18.06.1931</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1739">Helmuth Schreiner</persName>
-               <placeName ref="#tillich_place_id__47">Berlin-Spandau</placeName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="NH" when="2023-10-11">Initiale Auszeichnung des Transkripts</change>
-         <change who="FS" when="2024-01-17">Endabnahme</change>
-
-
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__143" type="place">Frankfurt /Main</rs>, den
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__143">Frankfurt</placeName>
+<date when="1931-06-18">18.06.1931</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1739">Helmuth Schreiner</persName>
+<placeName ref="#tillich_place_id__47">Berlin-Spandau</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-10-11" who="NH">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-01-17" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__143" type="place">Frankfurt /Main</rs>, den
                      <date when="1931-06-18">18. 6. 31</date></dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1739" type="person"
-                  >Schreiner</rs>!</salute>
-            </opener>
-            <p>Hab herzlichen Dank für Deinen <rs ref="L01108" type="letter">Brief</rs>. Es war mir
+<salute>Lieber <rs ref="#tillich_person_id__1739" type="person">Schreiner</rs>!</salute>
+</opener>
+<p>Hab herzlichen Dank für Deinen <rs ref="L01108" type="letter">Brief</rs>. Es war mir
                sehr wertvoll, durch Dich zu hören, dass die Berichterstattung so verkehrt war. Ich
                musste nur annehmen, dass sie einigermassen zutrifft, da ich mehrere Zeitungen, unter
-               anderen die sehr zurückhaltende "Frankfurter" über die Sache gelesen hatte.<note
-                  type="ea">Nicht ermittelt.</note> Ich bin auch der Meinung, dass es nicht nur auf
+               anderen die sehr zurückhaltende <q>Frankfurter</q> über die Sache gelesen hatte.<note type="ea">Nicht ermittelt.</note> Ich bin auch der Meinung, dass es nicht nur auf
                das ankommt, was wir sagen, sondern auch darauf wie wir es sagen und wie es
                vermutlich in der nichtkirchlichen Welt wirkt. Ich war einfach betrübt, dass Du so
                gewirkt hast, weil ich mich Dir ebenso verbunden weiss wie Du mir.</p>
-            <p>Was Berneuchen<note type="ea">Die Berneuchener Bewegung war eine reformorientierte
+<p>Was Berneuchen<note type="ea">Die Berneuchener Bewegung war eine reformorientierte
                   Erneuerungsbewegung innerhalb der evangelischen Kirche, die seit den 1920er Jahren
                   eine vertiefte liturgische Praxis, geistliche Gemeinschaft und die Verbindung von
                   traditionellem Glauben mit zeitgemäßer Spiritualität förderte. Zu ihren Gründern
                   gehörten <rs ref="#tillich_person_id__1837" type="person">Wilhelm
-                     Stählin</rs>, <rs ref="#tillich_person_id__1617"
-                        type="person">Karl Bernhard Ritter</rs> und <rs ref="#tillich_person_id__3103"
-                           type="person">Carl Happich</rs>.</note> betrifft,
+                     Stählin</rs>, <rs ref="#tillich_person_id__1617" type="person">Karl Bernhard Ritter</rs> und <rs ref="#tillich_person_id__3103" type="person">Carl Happich</rs>.</note> betrifft,
                so wäre es völlig sinnlos, wenn Du irgend einen derartigen Schritt machen würdest.
                Denn die Mehrheit der Berneuchener sind sicher völlig mit Dir einer Meinung. Die
                Bezugnahme auf Berneuchen bedeutet ja nur den Hinweis auf eine Arbeitsgemeinschaft,
                in der wir zusammen stehen und die das Recht zu einer Kritik an <sic>unseren gegenseitigen</sic>
-               Verhalten begründet. Genau wie Du es in <rs ref="#tillich_place_id__126" type="place"
-                  >Dresden</rs> gemacht hast und wie es <rs ref="#tillich_person_id__1837"
-                  type="person">Stählin</rs> jetzt mit mir in der nächsten Nummer des Neuwerk machen
+               Verhalten begründet. Genau wie Du es in <rs ref="#tillich_place_id__126" type="place">Dresden</rs> gemacht hast und wie es <rs ref="#tillich_person_id__1837" type="person">Stählin</rs> jetzt mit mir in der nächsten Nummer des Neuwerk machen
                   wird.<note type="ea"><rs ref="#tillich_person_id__1837" type="person">Wilhelm
                      Stählin</rs> verfasste eine <rs ref="#tillich__ZVWXU7AH" type="work">kritische
-                     Replik</rs> auf Tillichs Vortrag "<rs ref="#tillich__3WM5MENM" type="work"
-                     >Kirche und humanistische Gesellschaft</rs>", der ebenfalls im "Neuwerk"
+                     Replik</rs> auf Tillichs Vortrag <q><rs ref="#tillich__3WM5MENM" type="work">Kirche und humanistische Gesellschaft</rs></q>, der ebenfalls im <q>Neuwerk</q>
                   abgedruckt wurde.</note></p>
-            <p>Dass ich nicht direkt an Dich geschrieben hatte, war darin begründet, dass ich Dich
-               nicht gut genug kannte, um zu wissen wie Du es aufnehmen würdest und es darum <rs
-                  ref="#tillich_person_id__1756" type="person">Schweitzer</rs> überlassen habe.
+<p>Dass ich nicht direkt an Dich geschrieben hatte, war darin begründet, dass ich Dich
+               nicht gut genug kannte, um zu wissen wie Du es aufnehmen würdest und es darum <rs ref="#tillich_person_id__1756" type="person">Schweitzer</rs> überlassen habe.
                Selbstverständlich werde ich das nächstemal direkt an Dich schreiben. </p>
-            <closer>
-               <salute>Grüsse auch <rs ref="#tillich_person_id__1756" type="person">Schweitzer</rs>
+<closer>
+<salute>Grüsse auch <rs ref="#tillich_person_id__1756" type="person">Schweitzer</rs>
                   herzlich und danke ihm für seinen Brief.<note type="ea">Liegt nicht
                      vor.</note>
-                  <lb/>Und dann auf Wiedersehen im <date when="1931-10">Oktober</date></salute>               
+<lb/>Und dann auf Wiedersehen im <date when="1931-10">Oktober</date></salute>               
                Dein <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

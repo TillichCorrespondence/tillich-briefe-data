@@ -1,104 +1,102 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00124">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Gottfried von Hanffstengel an Paul Tillich <lb/>vom 22. September 1906 </title>
-            <author ref="#tillich_person_id__788">Gottfried von Hanffstengel</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00124" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Gottfried von Hanffstengel an Paul Tillich <lb/>vom 22. September 1906 </title>
+<author ref="#tillich_person_id__788">Gottfried von Hanffstengel</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="Wien">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="Wien">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/147</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/147</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__788">Gottfried von Hanffstengel</persName>
-               <placeName ref="#tillich_place_id__75">Bremervörde</placeName>
-               <date when="1906-09-22">22.09.1906</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2022-11-15" who="PS">Initiale Auszeichnung des Transkripts</change>
-         <change when="2024-01-23" who="PS">Vorbereitung zur Endabnahme</change>
-         <change when="2024-02-12" who="EL">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__75" type="place">Bremervörde</rs>, <date
-                     when="1906-09-22">22.IX.06.</date></dateline>
-               <salute>Liebes <rs ref="#tillich_person_id__1928" type="person"
-                  >Paulchen</rs>!</salute>
-            </opener>
-            <p>Habe herzlichen Dank für Deinen lieben Brief<note type="ea">Nicht
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__788">Gottfried von Hanffstengel</persName>
+<placeName ref="#tillich_place_id__75">Bremervörde</placeName>
+<date when="1906-09-22">22.09.1906</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-11-15" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-01-23" who="PS">Vorbereitung zur Endabnahme</change>
+<change when="2024-02-12" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__75" type="place">Bremervörde</rs>, <date when="1906-09-22">22.IX.06.</date></dateline>
+<salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+</opener>
+<p>Habe herzlichen Dank für Deinen lieben Brief<note type="ea">Nicht
                überliefert.</note>, der mir zwar durch seine äußere Form manches Rätsel aufgegeben,
                mich im übrigen aber sehr erfreut u angespornt hat. Zunächst also mein
                   Unterhaltungsabend.<note type="ea">In <rs ref="L00122" type="letter">Brief von
-                     Gottfried von Hanffstengel an Paul Tillich vom 7. September 1906 heißt es: "Ein
+                     Gottfried von Hanffstengel an Paul Tillich vom 7. September 1906 heißt es: <q>Ein
                      anderes Thema hat mich sehr beschäftigt, ich hoffe es zu einem Vortrage
-                     ausarbeiten zu können. Es handelt sich um die Frage: "welche Pflicht hat der
-                     Staat der Volksschule gegenüber in Sachen der Religion?" So oder ähnlich denke
+                     ausarbeiten zu können. Es handelt sich um die Frage: </q>welche Pflicht hat der
+                     Staat der Volksschule gegenüber in Sachen der Religion?<q> So oder ähnlich denke
                      ich die Sache zu formulieren. Literatur habe ich viel dafür, hoffentlich hat
-                     nur nicht schon ein anderer dies Thema!"</rs></note> Nach einer kurzen
+                     nur nicht schon ein anderer dies Thema!</q></rs></note> Nach einer kurzen
                Einleitung u Erklärung der 3 Arten von Schulen werde ich <sic>erste</sic> die
                konfessionslose Schule, dann die Simultanschule absägen, u die Konfessionelle Schule
                als das gegebene hinstellen. Wird das aber genügen, um eine<pb n="2"/> längere
@@ -113,62 +111,49 @@
                eventuellen Scheidung von Staat u Kirche, vielleicht ließe sich das verarbeiten. Ob
                ich den Unterhaltungsabend zuerst halten kann ist mir zum mindesten fraglich, ferner
                möchte ich auch erst einen mir ansehen, um mich etwas danach zu richten.</p>
-            <p>Seit etwa einer Woche gibt es in Ostfriesland auch 2 Kanditaten der Theologie <rs
-                  ref="#tillich_person_id__2239" type="person">Elbrechts</rs> u <rs
-                  ref="#tillich_person_id__2155" type="person">Voget</rs>. Näheres habe ich auch noch
+<p>Seit etwa einer Woche gibt es in Ostfriesland auch 2 Kanditaten der Theologie <rs ref="#tillich_person_id__2239" type="person">Elbrechts</rs> u <rs ref="#tillich_person_id__2155" type="person">Voget</rs>. Näheres habe ich auch noch
                nicht erfahren.</p>
-            <p>Von Montag bis Donnerstag habe ich mal ordentlich gefaulenzt, u zwar hatte ich
-                  dazu<pb n="4"/> sogar eine moralische Verpflichtung, da ich Besuch von <rs
-                  ref="#tillich_person_id__203" type="person">Lorenz Bertheau</rs> hatte. <del
-                  rend="s">Mit</del> Wir beide sind nun hier ziemlich viel herumgestreift in der
+<p>Von Montag bis Donnerstag habe ich mal ordentlich gefaulenzt, u zwar hatte ich
+                  dazu<pb n="4"/> sogar eine moralische Verpflichtung, da ich Besuch von <rs ref="#tillich_person_id__203" type="person">Lorenz Bertheau</rs> hatte. <del rend="s">Mit</del> Wir beide sind nun hier ziemlich viel herumgestreift in der
                Gegend, obwohl es schauderbares Wetter war. Jetzt, wo er weg ist, ist es natürlich
                wieder fein. <rs ref="#tillich_person_id__203" type="person">Lorenz</rs> war sehr
                vergnügt u zeigte sich von seiner besten Seite, besondere Freundschaft hat er mit
                meinem 11 jährigen <rs ref="#tillich_person_id__2171" type="person">Bruder Karl</rs>,
-               genannt "Kneiptanz" oder "Salem", geschlossen.</p>
-            <p>Geht <rs ref="#tillich_person_id__1227" type="person">Schmuehl</rs> vielleicht Ende
+               genannt <q>Kneiptanz</q> oder <q>Salem</q>, geschlossen.</p>
+<p>Geht <rs ref="#tillich_person_id__1227" type="person">Schmuehl</rs> vielleicht Ende
                September wieder nach <rs ref="#tillich_place_id__293" type="place">Misdroy</rs>? Daß
-               Du <del rend="s">ihr</del> in <rs ref="#tillich_place_id__189" type="place"
-                  >Halle</rs> sehr seine Collegs u Seminare, auch seine Bücher genau durchstudierst,
+               Du <del rend="s">ihr</del> in <rs ref="#tillich_place_id__189" type="place">Halle</rs> sehr seine Collegs u Seminare, auch seine Bücher genau durchstudierst,
                um ihn<pb n="5"/> zu kritisieren u ihm was schlechtes anzuhängen, wußte ich wohl,
                aber daß Du ihn auch in das eigens zur Erholung aufgesuchte Seebad verfolgtest, um
                ihn auf Schritt u Tritt <del rend="s">zu</del> aufzupassen, wußte ich bisher noch
-               nicht. Hoffentlich hast Du ihn in <rs ref="#tillich_place_id__293" type="place"
-                  >Misdroy</rs> häufig getroffen, wenn Du es auch nicht erwähntest. Oder läßt <hi
-                  rend="u">er</hi>
-               <hi rend="u">Dich</hi> nicht in Ruhe?</p>
-            <p>Mit <rs ref="#tillich_person_id__203" type="person">Lorenz</rs> zusammen habe ich
+               nicht. Hoffentlich hast Du ihn in <rs ref="#tillich_place_id__293" type="place">Misdroy</rs> häufig getroffen, wenn Du es auch nicht erwähntest. Oder läßt <hi rend="u">er</hi>
+<hi rend="u">Dich</hi> nicht in Ruhe?</p>
+<p>Mit <rs ref="#tillich_person_id__203" type="person">Lorenz</rs> zusammen habe ich
                auch ziemlich viel Obst abgenommen, eine Tätigkeit, die besonders angenehm ist, da
-               sie ohne Beaufsichtigung erfolgen kann. Das hat sich bei mir gründlich gerächt<del
-                  rend="s">,</del>: seit 3 Tagen leide ich an einem gewaltigen Prolaps, sodaß ich
+               sie ohne Beaufsichtigung erfolgen kann. Das hat sich bei mir gründlich gerächt<del rend="s">,</del>: seit 3 Tagen leide ich an einem gewaltigen Prolaps, sodaß ich
                   <del rend="s">mich</del><pb n="6"/> beständig wandern muß. Jetzt wird's etwas
                besser.</p>
-            <p>Daß ich in meinem Heimatsort <rs ref="#tillich_place_id__474" type="place"
-                  >Worpswede</rs> war, wirst Du gesehen haben. Fast hätte ich Lust, den
+<p>Daß ich in meinem Heimatsort <rs ref="#tillich_place_id__474" type="place">Worpswede</rs> war, wirst Du gesehen haben. Fast hätte ich Lust, den
                Unterhaltungsabend darüber wieder aufzunehmen, aber nein, es geht doch nicht.
                Großartig war es, eine Kunstausstellung ist da, die sich sehen lassen kann neben
-               jeder. Einige wunderschöne Karten habe ich mir mitgenommen, in <rs
-                  ref="#tillich_place_id__189" type="place">Halle</rs> kannst Du sie bewundern.</p>
-            <p>Woher soll ich die Zeit nehmen, noch neuere Philosophie zu arbeiten, zumal mir dazu
-               die Bücher fehlen. Allerdings hoffe ich von meinem <rs ref="#tillich_person_id__2806"
-                  type="ea">Vater</rs> nächstens zum<pb n="7"/> Geburtstag Bücher noch zu bekommen,
-               aber ob es ihm nicht zu viel werden wird. Dann schaffe ich mir den <rs
-                  ref="#tillich_person_id__2082" type="person">Windelbandt</rs> im Semester an.</p>
-            <p>Woher hast Du diese schönen Couleurbriefbogen? Hast Du ein Amt, für das Du sie
-               bekommst? oder geht Deine Wingolfsbegeisterung so weit, daß Du <del rend="s"
-                  >nur</del> alle Deine Sachen mit Wappen u Zirkel bemalst? Hast du vielleicht auch
+               jeder. Einige wunderschöne Karten habe ich mir mitgenommen, in <rs ref="#tillich_place_id__189" type="place">Halle</rs> kannst Du sie bewundern.</p>
+<p>Woher soll ich die Zeit nehmen, noch neuere Philosophie zu arbeiten, zumal mir dazu
+               die Bücher fehlen. Allerdings hoffe ich von meinem <rs ref="#tillich_person_id__2806" type="ea">Vater</rs> nächstens zum<pb n="7"/> Geburtstag Bücher noch zu bekommen,
+               aber ob es ihm nicht zu viel werden wird. Dann schaffe ich mir den <rs ref="#tillich_person_id__2082" type="person">Windelbandt</rs> im Semester an.</p>
+<p>Woher hast Du diese schönen Couleurbriefbogen? Hast Du ein Amt, für das Du sie
+               bekommst? oder geht Deine Wingolfsbegeisterung so weit, daß Du <del rend="s">nur</del> alle Deine Sachen mit Wappen u Zirkel bemalst? Hast du vielleicht auch
                in allen Büchern Deinen Zirkel. Ich schätze sowas eigentlich ziemlich daneben.</p>
-            <p><rs ref="#tillich_person_id__1033" type="person">Kattenbusch's</rs> Lob hörte ich
+<p><rs ref="#tillich_person_id__1033" type="person">Kattenbusch's</rs> Lob hörte ich
                jüngst von einem Göttinger in den höchsten Tönen singen, sein Vortrag soll
                interessant u lehrreich<pb n="8"/> dabei auch sehr leicht verständlich sein.</p>
-            <p>Gern würde ich noch weiter mit Dir plaudern, doch sogleich kommt mein jüngerer Bruder
+<p>Gern würde ich noch weiter mit Dir plaudern, doch sogleich kommt mein jüngerer Bruder
                aus <rs ref="#tillich_place_id__555" type="place">Stade</rs>, daher Schluß. </p>
-            <closer>
-               <salute>Vale!</salute>
-               <signed>Dein <rs ref="#tillich_person_id__788" type="person">Gottfried v.
+<closer>
+<salute>Vale!</salute>
+<signed>Dein <rs ref="#tillich_person_id__788" type="person">Gottfried v.
                      Hanffstengel</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

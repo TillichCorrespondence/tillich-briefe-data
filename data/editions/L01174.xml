@@ -1,141 +1,128 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01174">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Lily und Fritz Pincus und Claire und Günther Löwenfeld an Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01174" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Lily und Fritz Pincus und Claire und Günther Löwenfeld an Paul Tillich
                <lb/>vom 25. Dezember 1932</title>
-            <author ref="#tillich_person_id__1498">Lily Pincus</author>
-            <author ref="#tillich_person_id__1499">Fritz Pincus</author>
-            <author ref="#tillich_person_id__1211">Claire Löwenfeld</author>
-            <author ref="#tillich_person_id__1212">Günther Löwenfeld</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<author ref="#tillich_person_id__1498">Lily Pincus</author>
+<author ref="#tillich_person_id__1499">Fritz Pincus</author>
+<author ref="#tillich_person_id__1211">Claire Löwenfeld</author>
+<author ref="#tillich_person_id__1212">Günther Löwenfeld</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="typescript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>023 Rollfilm Nr. 3</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, maschinenschriftlich, teilgeschwärzt</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="typescript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>023 Rollfilm Nr. 3</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, maschinenschriftlich, teilgeschwärzt</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__2900">Bewohnerinnen und Bewohner des "Haus auf dem
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2900">Bewohnerinnen und Bewohner des "Haus auf dem
                   Küssel"</persName>
-               <placeName ref="#tillich_place_id__356">Potsdam</placeName>
-               <date when="1932-12-25">25.12.1932</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-07-10">Initiale Auszeichnung des Transkripts</change>
-         <change who="FS" when="2024-02-19">Endabnahme</change>
-
-
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener><dateline>
-                  <rs ref="#tillich_place_id__356" type="place">Potsdam</rs>, den <date
-                     when="1932-12-25">25.XII.32.</date><lb/>Küsselstr. 40/41<note type="ea">Die
+<placeName ref="#tillich_place_id__356">Potsdam</placeName>
+<date when="1932-12-25">25.12.1932</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-07-10" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-02-19" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline>
+<rs ref="#tillich_place_id__356" type="place">Potsdam</rs>, den <date when="1932-12-25">25.XII.32.</date><lb/>Küsselstr. 40/41<note type="ea">Die
                      Adresse verrät, dass es sich bei diesen Brief um ein humoristisches Schreiben
-                     von Tillichs Potsdamer Freunden handelt, die das "Haus auf dem Küssel"
-                     bewohnten. Verfasst wurde der Brief demnach von <rs
-                        ref="#tillich_person_id__1498" type="person">Lily</rs> oder <rs
-                        ref="#tillich_person_id__1499" type="person">Fritz</rs> Pincus, <rs
-                        ref="#tillich_person_id__1211" type="person">Claire</rs> oder <rs
-                        ref="#tillich_person_id__1212" type="person">Günther</rs> Löwenfeld, oder
+                     von Tillichs Potsdamer Freunden handelt, die das <q>Haus auf dem Küssel</q>
+                     bewohnten. Verfasst wurde der Brief demnach von <rs ref="#tillich_person_id__1498" type="person">Lily</rs> oder <rs ref="#tillich_person_id__1499" type="person">Fritz</rs> Pincus, <rs ref="#tillich_person_id__1211" type="person">Claire</rs> oder <rs ref="#tillich_person_id__1212" type="person">Günther</rs> Löwenfeld, oder
                      allen gemeinsam.</note><lb/>Telephon: Potsdam 5034</dateline>
-               <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr
+<salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr
                      Professor</rs>,</salute>
-            </opener>
-            <p>Für Ihren bevorstehenden Berliner Aufenthalt erlaube ich mir, Ihre Aufmerksamkeit auf
+</opener>
+<p>Für Ihren bevorstehenden Berliner Aufenthalt erlaube ich mir, Ihre Aufmerksamkeit auf
                mein Unternehmen zu lenken, das es sich zur Aufgabe macht, Gästen den Aufenthalt in
                   <rs ref="#tillich_place_id__37" type="place">Berlin</rs> nach Möglichkeit zu
                erleichtern und angenehm zu gestalten.</p>
-            <p>Es empfiehlt sich besonders für:<lb/><hi rend="u">Besorgungen</hi>, <hi rend="u"
-                  >Vermittlungen</hi>, <hi rend="u">Botengänge</hi> jeder Art. <hi rend="u"
-                  >Schriftliche Arbeiten</hi> werden schnell und sauber ausgeführt.</p>
-            <p>(Dagegen können wir uns <hi rend="u">nicht</hi> anbieten für die Uebernahme von
+<p>Es empfiehlt sich besonders für:<lb/><hi rend="u">Besorgungen</hi>, <hi rend="u">Vermittlungen</hi>, <hi rend="u">Botengänge</hi> jeder Art. <hi rend="u">Schriftliche Arbeiten</hi> werden schnell und sauber ausgeführt.</p>
+<p>(Dagegen können wir uns <hi rend="u">nicht</hi> anbieten für die Uebernahme von
                Versicherungen, insbesondere nicht für <hi rend="u">Rückversicherungen</hi>).</p>
-            <p><hi rend="u">Führungen</hi> durch <rs ref="#tillich_place_id__37" type="place"
-                  >Berlin</rs> und <rs ref="#tillich_place_id__356" type="place">Potsdam</rs> finden
+<p><hi rend="u">Führungen</hi> durch <rs ref="#tillich_place_id__37" type="place">Berlin</rs> und <rs ref="#tillich_place_id__356" type="place">Potsdam</rs> finden
                auf Wunsch jederzeit statt. (Geheizter Aussichtswagen!)</p>
-            <p><hi rend="u">Zur Gesellschaft</hi> bei Mahlzeiten, Spaziergängen, Unter<pb n="2"
-               />nehmungen zu jeder Tages- und Nachtzeit weisen wir Ihnen angenehme Persönlichkeiten
+<p><hi rend="u">Zur Gesellschaft</hi> bei Mahlzeiten, Spaziergängen, Unter<pb n="2"/>nehmungen zu jeder Tages- und Nachtzeit weisen wir Ihnen angenehme Persönlichkeiten
                nach. Vorschläge für solche Unternehmungen können Sie in grosser Auswahl von uns
                erhalten.</p>
-            <p>In der Nähe von <rs ref="#tillich_place_id__356" type="place">Potsdam</rs> steht
+<p>In der Nähe von <rs ref="#tillich_place_id__356" type="place">Potsdam</rs> steht
                unsern Kunden ein mit jedem modernen Comfort eingerichtetes <hi rend="u">Landhaus zur
                   Erholung</hi> zur Verfügung. Die schöne Umgebung bietet Gelegenheit zu Ausflügen,
                Wasser- und Wintersport. <rs ref="#tillich_place_id__356" type="place">Potsdam</rs>, die Stadt der Erinnerungen, diese wunderbarste
                Vermählung von Architektur und Natur, gibt auch im Winter eine Fülle von Anregung und
                Freude.</p>
-            <p>Eine Reihe hochstehender Persönlichkeiten nehmen die Dienste unseres Hauses in
+<p>Eine Reihe hochstehender Persönlichkeiten nehmen die Dienste unseres Hauses in
                Anspruch. Wir würden uns glücklich schätzen, auch Sie, sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>,
                zu unsern Kunden zählen zu dürfen und werden uns bemühen, auch den verwöhntesten
                Ansprüchen zu genügen. </p>
-            <closer>
-               <salute>Ihre Nachrichten gern erwartend <lb/>In vorzüglicher Hochachtung ganz ergebenst</salute>
-               <signed><unclear reason="covered">¿¿¿ … ¿¿¿</unclear></signed><note type="ea">Die
+<closer>
+<salute>Ihre Nachrichten gern erwartend <lb/>In vorzüglicher Hochachtung ganz ergebenst</salute>
+<signed><unclear reason="covered">¿¿¿ … ¿¿¿</unclear></signed><note type="ea">Die
                   Unterschrift wurde geschwärzt.</note>
-            </closer>
-
-         </div>
-
-      </body>
-   </text>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

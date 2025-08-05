@@ -1,112 +1,108 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01512">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Hannah Tillich <lb/>von April 1921</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01512" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich <lb/>von April 1921</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="typescript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                  <idno>bMS 721/2(17)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="typescript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/2(17)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date notBefore="1921-04-01" notAfter="1921-04-30">01.04.1921</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="CO" when="2025-03-20">Initiale Auszeichnung des Transkripts</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener><note type="ea">Es ist unklar, ob es sich bei diesem Brief um den ersten Teil
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date notAfter="1921-04-30" notBefore="1921-04-01">01.04.1921</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2025-03-20" who="CO">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><note type="ea">Es ist unklar, ob es sich bei diesem Brief um den ersten Teil
                   eines undatierten <rs ref="#L01321" type="letter">Brieffragments</rs> handelt.
                   Inhaltlich wie formal ist es naheliegend.</note><note type="ea"> Am oberen Rand
-                  des Briefes wurde von fremder Hand (wahrscheinlich <rs
-                     ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs>) "April 21"
+                  des Briefes wurde von fremder Hand (wahrscheinlich <rs ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs>) <q>April 21</q>
                   vermerkt.</note><salute><rs ref="#tillich_person_id__1923" type="person">Geliebte,
                      vielersehnte Frau</rs>!</salute>
-            </opener>
-            <p>Manchmal schreit es aus meiner Seele: Warum bist du nicht da! Du der keine
+</opener>
+<p>Manchmal schreit es aus meiner Seele: Warum bist du nicht da! Du der keine
                vergleichbar ist, Du, in der alle meine Sehnsüchte und Träume ihre Erfüllung finden,
                Du, deren Blick <unclear reason="illegible">mir</unclear> alle Schönheiten des
                rauschenden Lebens versinken läßt, Du, um deinetwillen mein Leib matt wird und meine
                Seele taumelt bis zum verzweiflungsvollen Entschluß, mich zu zerschneiden, und aus
                einem <unclear reason="illegible">Menschen</unclear> eine harte, eiserne Denkmaschine
                zu machen. Warum darf ich dich nicht <del rend="s">geg</del> gen Himmel tragen in
-               meinen großen Stunden, warum darf ich nicht in die Hölle deines <unclear
-                  reason="illegible">mütter</unclear>lichen Lebens kriechen in meinen müden Stunden?
+               meinen großen Stunden, warum darf ich nicht in die Hölle deines <unclear reason="illegible">mütter</unclear>lichen Lebens kriechen in meinen müden Stunden?
                Warum st<unclear reason="illegible">reicht</unclear> deine Hand nicht neues Leben aus
                meinen Nerven, wenn sie dem Absterben nahe sind? Warum bist du nicht die Sonne meines
-               Wachens und der Mond meines Träumens und die Sterne meines Schlafes? <rs
-                  ref="#tillich_person_id__1923" type="person">Hannah</rs> ich kann dir heut nichts
+               Wachens und der Mond meines Träumens und die Sterne meines Schlafes? <rs ref="#tillich_person_id__1923" type="person">Hannah</rs> ich kann dir heut nichts
                erzählen, von Festen und Frauen, von Kämpfen und Gedanken.<note type="ea"> Am
-                  unteren Rand des Briefes wurde von fremder Hand (wahrscheinlich <rs
-                     ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs> ) "Briefe
-                  aufheben" vermerkt – ein Abdruck dieser Notiz lässt sich auf dem zuvor
+                  unteren Rand des Briefes wurde von fremder Hand (wahrscheinlich <rs ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs> ) <q>Briefe
+                  aufheben</q> vermerkt – ein Abdruck dieser Notiz lässt sich auf dem zuvor
                   erwähnten <rs ref="#L01321" type="letter">Brieffragment</rs> erahnen.</note></p>
-         </div>
-      </body>
-   </text>
+</div>
+</body>
+</text>
 </TEI>

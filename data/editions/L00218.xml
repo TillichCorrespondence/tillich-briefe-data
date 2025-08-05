@@ -1,132 +1,132 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00218">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Hans Balke an Paul Tillich <lb/>vom 2. Oktober 1907 </title>
-            <author ref="#tillich_person_id__128">Hans Balke</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00218" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Hans Balke an Paul Tillich <lb/>vom 2. Oktober 1907 </title>
+<author ref="#tillich_person_id__128">Hans Balke</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/122(40)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/122(40)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__128">Hans Balke</persName>
-               <placeName ref="#tillich_place_id__318">Neviges</placeName>
-               <date when="1907-10-02">02.10.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-09-13">Initiale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2024-02-09">Vorbereitende Endabnahme</change>
-         <change who="EL" when="2024-02-26">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__318" type="place">Neviges</rs>, den <date when="1907-10-02">2. Oktober 07.</date></dateline>
-               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
-            </opener>
-            <p>Da Du mir in Deinem ersten Briefe<note type="ea">Nicht überliefert.</note> schriebst,
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__128">Hans Balke</persName>
+<placeName ref="#tillich_place_id__318">Neviges</placeName>
+<date when="1907-10-02">02.10.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-09-13" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-02-09" who="PS">Vorbereitende Endabnahme</change>
+<change when="2024-02-26" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__318" type="place">Neviges</rs>, den <date when="1907-10-02">2. Oktober 07.</date></dateline>
+<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
+</opener>
+<p>Da Du mir in Deinem ersten Briefe<note type="ea">Nicht überliefert.</note> schriebst,
                Du wolltest mir bald auch etwas von Dir erzählen, habe ich auf diese Ankündigung bis
                heute mit Schmerzen gewartet. Da ich aber gestern durch den Rundbrief wenigstens ein
                Lebenszeichen von Dir erhielt, will ich nun das Schweigen brechen u. Dir noch einen
-               kurzen Gruss senden, ehe wir uns, wie ich wohl bestimmt hoffen darf, in <rs type="place" ref="#tillich_place_id__189">Halle</rs> zu Beginn des Semesters
-               wiedersehen. Über den Druck der Statuten<!-- <note type="ea">Statutenrevision</note>--> usw., über den Vorschlag zum
+               kurzen Gruss senden, ehe wir uns, wie ich wohl bestimmt hoffen darf, in <rs ref="#tillich_place_id__189" type="place">Halle</rs> zu Beginn des Semesters
+               wiedersehen. Über den Druck der Statuten &lt;note type=<q>ea</q>&gt;Statutenrevision&lt;/note&gt; usw., über den Vorschlag zum
                Erbauungskränzchen kannst Du mir dann ja mündlich raten. Hoffentlich darf ich trotz
                mangelnder Nachricht annehmen, dass es Dir recht gut geht u. Du trotz<pb n="2"/>
                Deines gewaltigen Arbeitseifers Deine anfängliche Frische nicht verloren hast. Den
                Ertrag der <rs ref="#tillich_person_id__310" type="person">Fr. Büchselschen</rs>
-               "Einrenkung" u. den ersten Erfolg Deiner Kletterarbeit auf den Examensberg lässt Du
+               <q>Einrenkung</q> u. den ersten Erfolg Deiner Kletterarbeit auf den Examensberg lässt Du
                gewiss gerne auch mir zugute kommen; denn ich bin darin wie ein neugebornes Kind.</p>
-            <p>Ich habe noch nie so unruhige Ferien gehabt wie diesmal, die erledigte Arbeit ist
+<p>Ich habe noch nie so unruhige Ferien gehabt wie diesmal, die erledigte Arbeit ist
                leider ganz furchtbar minimal. Mir ist ganz rätselhaft, wo all die vielen Wochen
                geblieben sind. Nun naht schon der Semesteranfang und die Semesterarbeit. Meine T<del rend="s">h</del>rothapauke macht mir viel Kopfweh u. gelingt doch nicht
                ordentlich, ich merke sehr, dass mir da sehr viel fehlt gegenüber Deiner Gabe zu
                reden. Es wird mir auch schwer, mich hier in den Ferien in einer ganz andern Umgebung
                in die rechte Lage zu<pb n="3"/> versetzen. Aber was man muss, das kann man auch, es
                fragt sich nur wie.</p>
-            <p>Von <rs ref="#tillich_person_id__2149" type="person">Dr. Fink</rs> erhielt ich auf
+<p>Von <rs ref="#tillich_person_id__2149" type="person">Dr. Fink</rs> erhielt ich auf
                mein Schreiben hin einen im höchsten Grade unverschämten Brief, so dass ich schwanke,
                ob ich ihn nicht dem Bonner Philisterverband einsenden soll. Von <rs ref="#tillich_person_id__2185" type="person">Meyersieck</rs> hörte ich, dass er
-               überhaupt nur ein Semester in <rs type="place" ref="#tillich_place_id__189">Halle</rs> gewesen sei u. aber voraussichtlich garnicht das Hallenser Band
+               überhaupt nur ein Semester in <rs ref="#tillich_place_id__189" type="place">Halle</rs> gewesen sei u. aber voraussichtlich garnicht das Hallenser Band
                besitzt.</p>
-            <p>Der Rundbrief hat ja einen höchst befriedigenden Anfang genommen u. wenn er sich
+<p>Der Rundbrief hat ja einen höchst befriedigenden Anfang genommen u. wenn er sich
                vielleicht auch nicht ganz auf dieser Höhe halten kann, so wird er jedenfalls seinen
                Zweck ganz erfüllen. Es freut mich besonders, dass <rs ref="#tillich_person_id__2191" type="person">Jonas</rs> dabei ist, er bleibt dadurch mit der ganzen Verbindung
                viel besser in Zusammenhang.<pb n="4"/> Es wäre mir recht lieb, wenn Du mir von
                Deinem lb. <rs ref="#tillich_person_id__1295" type="person">Leibfux</rs> noch etwas
-               erzählen könntest; Du wirst ihm in <rs type="place" ref="#tillich_place_id__293">Misdroy</rs> gewiss noch näher gekommen sein; wie sprach er sich über das
+               erzählen könntest; Du wirst ihm in <rs ref="#tillich_place_id__293" type="place">Misdroy</rs> gewiss noch näher gekommen sein; wie sprach er sich über das
                   <unclear>???</unclear> u. seine Stellung zur Verbindung aus?
-                  Hoffentlich macht ihm im Winter sein <rs type="person" ref="#tillich_person_id__2908">Bruder</rs> nicht das Leben schwer. Ich schrieb ihm
-               vor etwa 14 Tagen nach <rs type="place" ref="#tillich_place_id__189">Halle</rs>; war
+                  Hoffentlich macht ihm im Winter sein <rs ref="#tillich_person_id__2908" type="person">Bruder</rs> nicht das Leben schwer. Ich schrieb ihm
+               vor etwa 14 Tagen nach <rs ref="#tillich_place_id__189" type="place">Halle</rs>; war
                er wohl damals noch unterwegs? Vielleicht fahre ich schon 2 oder 3 Tage eher ins
-               gelobte Land; teile mir bitte mit, wann Du kommst; <rs ref="#tillich_person_id__1050" type="person">Alb. Kilger</rs> wird doch gewiss auch in <rs type="place" ref="#tillich_place_id__189">Halle</rs> sein. <rs ref="#tillich_person_id__203" type="person">Lorenz</rs> kommt nicht, weil er das nicht ertragen könne.</p>
-            <closer>
-               <salute>In treuen gedenkt Dein</salute>
-               <signed>Dein dankbarer <rs ref="#tillich_person_id__128" type="person"><hi rend="u">Hans</hi></rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+               gelobte Land; teile mir bitte mit, wann Du kommst; <rs ref="#tillich_person_id__1050" type="person">Alb. Kilger</rs> wird doch gewiss auch in <rs ref="#tillich_place_id__189" type="place">Halle</rs> sein. <rs ref="#tillich_person_id__203" type="person">Lorenz</rs> kommt nicht, weil er das nicht ertragen könne.</p>
+<closer>
+<salute>In treuen gedenkt Dein</salute>
+<signed>Dein dankbarer <rs ref="#tillich_person_id__128" type="person"><hi rend="u">Hans</hi></rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

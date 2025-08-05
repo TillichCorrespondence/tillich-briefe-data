@@ -1,107 +1,100 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00105">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Johannes Tillich und Toni Winkler an Paul Tillich <lb/>vom 26. Mai 1906 </title>
-            <author ref="#tillich_person_id__1924">Johannes Tillich</author>
-            <author ref="#tillich_person_id__2085">Toni Winkler</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00105" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Johannes Tillich und Toni Winkler an Paul Tillich <lb/>vom 26. Mai 1906 </title>
+<author ref="#tillich_person_id__1924">Johannes Tillich</author>
+<author ref="#tillich_person_id__2085">Toni Winkler</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/193</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig und diktiert</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/193</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig und diktiert</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1925">Johannes Tillich</persName>
-               <persName ref="#tillich_person_id__2085">Toni Winkler</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1906-05-26">26.05.1906</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-02-22">Initiale Auszeichnung des Transkripts</change>
-         <change who="EL" when="2024-02-07">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession" resp="#tillich_person_id__1924">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>, d. <date
-                     when="1906-05-26">26./V. 06.</date></dateline>
-               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person"
-                  >Sohn</rs>.</salute>
-            </opener>
-            <p>Endlich komme ich einmal dazu, einen Brief an Dich zu diktieren. Ueber die
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1925">Johannes Tillich</persName>
+<persName ref="#tillich_person_id__2085">Toni Winkler</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1906-05-26">26.05.1906</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-02-22" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-02-07" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div resp="#tillich_person_id__1924" type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>, d. <date when="1906-05-26">26./V. 06.</date></dateline>
+<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Sohn</rs>.</salute>
+</opener>
+<p>Endlich komme ich einmal dazu, einen Brief an Dich zu diktieren. Ueber die
                fortgesetzten guten Nachrichten von Dir freuen wir uns sehr. Siehe nur zu, daß Du
                nicht zu viel arbeitest, u. gönne Dir ein paar Tage der Erholung in den
-               Pfingstferien. Vielleicht ist <rs type="place" ref="#tillich_place_id__583"
-                  >Ilmenau</rs> nicht zu weit wo <rs type="person" ref="#tillich_person_id__2794"
-                  >Tante Lenchen</rs> wohnt, die würde Euch vielleicht ein billiges Quartier
-               beschaffen können. Uebrigens ist der <rs type="person" ref="#tillich_person_id__2535"
-                  >Harz</rs> ebenso nah. Nach <rs type="place" ref="#tillich_place_id__132"
-                  >Eisenach</rs> zu gehen haben wir endgültig aufgegeben. Die Tage dort wären zu
-               anstrengend für mich. Ich denke mich besser bei Pastor <rs type="person"
-                  ref="#tillich_person_id__2795">Horn</rs> zu erholen, wohin<pb n="2"/>
-               <rs ref="#tillich_person_id__644" type="person">Johanna</rs> mitgehen wird, etwa vom
+               Pfingstferien. Vielleicht ist <rs ref="#tillich_place_id__583" type="place">Ilmenau</rs> nicht zu weit wo <rs ref="#tillich_person_id__2794" type="person">Tante Lenchen</rs> wohnt, die würde Euch vielleicht ein billiges Quartier
+               beschaffen können. Uebrigens ist der <rs ref="#tillich_person_id__2535" type="person">Harz</rs> ebenso nah. Nach <rs ref="#tillich_place_id__132" type="place">Eisenach</rs> zu gehen haben wir endgültig aufgegeben. Die Tage dort wären zu
+               anstrengend für mich. Ich denke mich besser bei Pastor <rs ref="#tillich_person_id__2795" type="person">Horn</rs> zu erholen, wohin<pb n="2"/>
+<rs ref="#tillich_person_id__644" type="person">Johanna</rs> mitgehen wird, etwa vom
                   <date when="1906-06-05">5.</date> - <date when="1906-06-09">9. Juni</date>.
                Einiges möchte ich noch auf Deinen Kollegienbericht erwidern: Ich verstehe, was Dir
                an <rs ref="#tillich_person_id__1013" type="person">Kähler</rs> anstössig ist, aber
@@ -110,43 +103,36 @@
                das Wort Gottes in der Schrift gewirkt wird, und andrerseits doch als neues Organ der
                Erkenntnis der Bibel gegenüber seine relative Selbstständigkeit hat, ist durchaus
                keine Paradoxie. <rs ref="#tillich_person_id__484" type="person">Dorner</rs> hat
-               ähnliche Ausführungen.<pb n="3"/> Auch <rs ref="#tillich_person_id__1227"
-                  type="person">Lütgert</rs> stimmt damit überein, wenn auch sein Aufbau etwas
+               ähnliche Ausführungen.<pb n="3"/> Auch <rs ref="#tillich_person_id__1227" type="person">Lütgert</rs> stimmt damit überein, wenn auch sein Aufbau etwas
                anders ist. Es giebt eben keine voraussetzungslose Wissenschaft, insonderheit gilt
                das von der Theologie, sowohl bei der Ethik wie bei der Dogmatik. Lies einmal wieder
-                  <rs type="bible" ref="1Kor-2,4-16">1. Cor. 2. v. 4–16</rs>. –</p>
-            <p>– Nächstens wird in den Wingolfsblättern ein Artikel von mir erscheinen, eine scharfe
-               Entgegnung auf den Angriff von "<hi rend="aq">Heppe</hi>" in <hi rend="uu">No</hi>
+                  <rs ref="1Kor-2,4-16" type="bible">1. Cor. 2. v. 4–16</rs>. –</p>
+<p>– Nächstens wird in den Wingolfsblättern ein Artikel von mir erscheinen, eine scharfe
+               Entgegnung auf den Angriff von <q><hi rend="aq">Heppe</hi></q> in <hi rend="uu">No</hi>
                16., der Euch auch geärgert haben wird. Im Berliner Wingolf ist man ziemlich einig
                und vermeidet bei vermittelndem Standpunkt scharfe Auseinandersetzung. Ich denke, der
                Göttinger Vertagungsantrag wird die notwendige<pb n="4"/> Entscheidung herbeiführen.
-               Haltet nur Euren Zusatz zum Prinzip fest. Auch <rs type="place"
-                  ref="#tillich_place_id__37">Berlin</rs> giebt hierin nicht nach, nachdem man den
+               Haltet nur Euren Zusatz zum Prinzip fest. Auch <rs ref="#tillich_place_id__37" type="place">Berlin</rs> giebt hierin nicht nach, nachdem man den
                neuen Zusatz (religiöse Auffassung) im vorigen Semester beschlossen hat. – Endlich
                noch die Mitteilung, daß wir unsere Sommerferien vom <date when="1906-07-09">9.
                   Juli</date> – <date when="1906-08-17">17. August</date> zu halten gedenken. Nun
                behüte Dich Gott und gebe Dir viel Pfingstsegen. – </p>
-            <closer>
-               <signed>Gruß u. Kuß Dein tr. <rs ref="#tillich_person_id__1924" type="person"
-                     >Vater</rs></signed>
-            </closer>
-         </div>
-         <div resp="#tillich_person_id__2085">
-            <opener><salute>Lieber <rs ref="#tillich_person_id__1928" type="person"
-                  >Paul</rs>,</salute></opener>
-            <p>auch von mir noch einen recht schönen Sonntagsgruß! Gestern war die erste
+<closer>
+<signed>Gruß u. Kuß Dein tr. <rs ref="#tillich_person_id__1924" type="person">Vater</rs></signed>
+</closer>
+</div>
+<div resp="#tillich_person_id__2085">
+<opener><salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute></opener>
+<p>auch von mir noch einen recht schönen Sonntagsgruß! Gestern war die erste
                Pfingstbetstunde <rs ref="#tillich_person_id__276" type="person">Pastor Braun</rs>,
                außer daß sie etwas zu lang war, war es sehr schön, ich freue mich schon auf heut,
                   <rs ref="#tillich_person_id__2260" type="person">Past. Conrad</rs>, der mir zwar
                voriges Jahr garnicht gefiel, aber wer weiß, ob sich mein Geschmack nicht geändert
-               hat, oder er jetzt nicht mehr so laut schreit. – <rs ref="#tillich_person_id__1924"
-                  type="person">Papa</rs> wird morgen von den alten jungen u. jungen Mädchen
-               beschert, er bekommt einen Aktenständer u. 1 Werk <rs type="work"
-                  ref="#tillich__KDJZI59T">Zahn, Einführung in das Neue Testament, 2 Bände 25
+               hat, oder er jetzt nicht mehr so laut schreit. – <rs ref="#tillich_person_id__1924" type="person">Papa</rs> wird morgen von den alten jungen u. jungen Mädchen
+               beschert, er bekommt einen Aktenständer u. 1 Werk <rs ref="#tillich__KDJZI59T" type="work">Zahn, Einführung in das Neue Testament, 2 Bände 25
                   MK</rs> Er weiss es aber noch nicht. –</p>
-            <closer><salute>Nun leb wohl, sei sehr gegrüßt von D. tr. T. <rs
-                     ref="#tillich_person_id__2085" type="person">Toni</rs></salute></closer>
-         </div>
-      </body>
-   </text>
+<closer><salute>Nun leb wohl, sei sehr gegrüßt von D. tr. T. <rs ref="#tillich_person_id__2085" type="person">Toni</rs></salute></closer>
+</div>
+</body>
+</text>
 </TEI>

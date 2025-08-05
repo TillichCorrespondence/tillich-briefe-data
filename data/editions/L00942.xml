@@ -1,115 +1,112 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00942">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Gustav Ruprecht an Paul Tillich <lb/>vom 24. September 1927</title>
-            <author ref="#tillich_person_id__2518">Gustav Ruprecht</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0007-2445-9093">Niklas von Hülsen</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="typescript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement>Berlin</settlement>
-                  <repository>Verlagsarchiv Vandenhoeck &amp; Ruprecht</repository>
-                  <collection>Autorenkorrespodenz</collection>
-                  <idno>G 1923.138</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Briefdurchschlag, maschinenschriftlich</p>
-                  </physDesc>
-               <additional>
-                  <listBibl>
-                     <biblStruct type="journal">
-                        <monogr>
-                           <author>Friedrich Wilhelm Graf</author>
-                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-                           <imprint>
-                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
-                              <date when="2020">2020</date>
-                              <biblScope>S. 26–170, hier: 145</biblScope>
-                           </imprint>
-                        </monogr>
-                        <series>
-                           <title>Zeitschrift für Neuere Theologiegeschichte</title>
-                           <biblScope>27/1</biblScope>
-                        </series>
-                     </biblStruct>
-                  </listBibl>
-               </additional>
-               
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__2518">Gustav Ruprecht</persName>
-              <date when="1927-09-24">24.09.1927</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__126">Dresden</placeName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="NH" when="2023-07-28">Initiale Auszeichnung des Transkripts</change>
-        <change who="NH" when="2023-12-28">Vorbereitung/Korrektur für die Endabnahme</change>
-        <change who="FS" when="2024-01-24">Endabnahme</change>
-        
-       
-     </revisionDesc>
-  </teiHeader>
-  <text type="letter">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener><dateline><date when="1927-09-24">24. September 1927</date>. Herrn Professor D. <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>, <rs ref="#tillich_place_id__126" type="place">Dresden</rs>.</dateline>
-           <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>.</salute>
-        </opener>
-        <p>Da wir auf <rs ref="L00941" type="letter">unsere Anfrage</rs> <date when="1927-07-20">vom 20. Juli ds. Js.</date> noch keine Antwort von Ihnen erhalten haben, erlauben wir uns hiermit, Sie um eine freundliche Antwort zu bitten. Wie wir hörten, bereiten Sie eine Dogmatik vor.<note type="ea">Tillich hatte in jener Zeit die Ausarbeitung seiner Marburger bzw. Dresdner <rs ref="#tillich__XQKJY3QX" type="work">Dogmatik-Vorlesung</rs> zu einer Monographie geplant, dieses Vorhaben kam in dieser Form jedoch nicht zustande, stellt jedoch den Grundstein für seine spätere dreibändige "<rs ref="#tillich__IUGJQLWM" type="work">Systematic Theology</rs>" dar. </note> Wir hätten für ein solches Werk von Ihnen <hi rend="u">ein ganz besonderes</hi> Interesse und bitten Sie, uns durch nähere Angaben darüber Gelegenheit zu geben, Ihnen entsprechende <add resp="vf">beste</add> Verlagsvorschläge zu machen.
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00942" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Gustav Ruprecht an Paul Tillich <lb/>vom 24. September 1927</title>
+<author ref="#tillich_person_id__2518">Gustav Ruprecht</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0007-2445-9093">Niklas von Hülsen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="typescript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement>Berlin</settlement>
+<repository>Verlagsarchiv Vandenhoeck &amp; Ruprecht</repository>
+<collection>Autorenkorrespodenz</collection>
+<idno>G 1923.138</idno>
+</msIdentifier>
+<physDesc>
+<p>Briefdurchschlag, maschinenschriftlich</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct type="journal">
+<monogr>
+<author>Friedrich Wilhelm Graf</author>
+<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+<imprint>
+<pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+<date when="2020">2020</date>
+<biblScope>S. 26–170, hier: 145</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Zeitschrift für Neuere Theologiegeschichte</title>
+<biblScope>27/1</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2518">Gustav Ruprecht</persName>
+<date when="1927-09-24">24.09.1927</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__126">Dresden</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-07-28" who="NH">Initiale Auszeichnung des Transkripts</change>
+<change when="2023-12-28" who="NH">Vorbereitung/Korrektur für die Endabnahme</change>
+<change when="2024-01-24" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline><date when="1927-09-24">24. September 1927</date>. Herrn Professor D. <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>, <rs ref="#tillich_place_id__126" type="place">Dresden</rs>.</dateline>
+<salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>.</salute>
+</opener>
+<p>Da wir auf <rs ref="L00941" type="letter">unsere Anfrage</rs> <date when="1927-07-20">vom 20. Juli ds. Js.</date> noch keine Antwort von Ihnen erhalten haben, erlauben wir uns hiermit, Sie um eine freundliche Antwort zu bitten. Wie wir hörten, bereiten Sie eine Dogmatik vor.<note type="ea">Tillich hatte in jener Zeit die Ausarbeitung seiner Marburger bzw. Dresdner <rs ref="#tillich__XQKJY3QX" type="work">Dogmatik-Vorlesung</rs> zu einer Monographie geplant, dieses Vorhaben kam in dieser Form jedoch nicht zustande, stellt jedoch den Grundstein für seine spätere dreibändige <q><rs ref="#tillich__IUGJQLWM" type="work">Systematic Theology</rs></q> dar. </note> Wir hätten für ein solches Werk von Ihnen <hi rend="u">ein ganz besonderes</hi> Interesse und bitten Sie, uns durch nähere Angaben darüber Gelegenheit zu geben, Ihnen entsprechende <add resp="vf">beste</add> Verlagsvorschläge zu machen.
         </p>
-        <closer>
-           <salute>In vorzüglicher Hochachtung</salute>
-        </closer>
-     </div>
-    </body>
-  </text>
+<closer>
+<salute>In vorzüglicher Hochachtung</salute>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

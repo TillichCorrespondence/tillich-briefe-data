@@ -1,189 +1,173 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00568">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Emanuel Hirsch <lb/>vom 9. Mai 1918 </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0008-9645-8839">Leopold Potyka</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00568" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Emanuel Hirsch <lb/>vom 9. Mai 1918 </title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0008-9645-8839">Leopold Potyka</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="transcript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University </institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                  <idno>bMS 649/152(54)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, als maschinenschriftliche Abschrift überliefert</p>
-               </physDesc>
-               <additional>
-                  <listBibl>
-                     <biblStruct type="monograph" n="firstPrint">
-                        <monogr>
-                           <author>Paul Tillich</author>
-                           <editor>Renate Albrecht/René Trautmann (Hg.)</editor>
-                           <title>Briefwechsel und Streitschriften. Theologische, philosophische und
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="transcript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University </institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS 649/152(54)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, als maschinenschriftliche Abschrift überliefert</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct n="firstPrint" type="monograph">
+<monogr>
+<author>Paul Tillich</author>
+<editor>Renate Albrecht/René Trautmann (Hg.)</editor>
+<title>Briefwechsel und Streitschriften. Theologische, philosophische und
                               politische Stellungnahmen und Gespräche</title>
-                           <edition>Erste Auflage</edition>
-                           <imprint>
-                              <publisher>De Gruyter</publisher>
-                              <pubPlace ref="#tillich_place_id__143">Frankfurt a.M.</pubPlace>
-                              <date when="1983">1983</date>
-                              <biblScope>123-127</biblScope>
-                           </imprint>
-                        </monogr>
-                        <series>
-                           <title>Ergänzungs- und Nachlassbände zu den gesammelten Werken von Paul
+<edition>Erste Auflage</edition>
+<imprint>
+<publisher>De Gruyter</publisher>
+<pubPlace ref="#tillich_place_id__143">Frankfurt a.M.</pubPlace>
+<date when="1983">1983</date>
+<biblScope>123-127</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Ergänzungs- und Nachlassbände zu den gesammelten Werken von Paul
                               Tillich</title>
-                           <biblScope>VI</biblScope>
-                        </series>
-                     </biblStruct>
-                     <biblStruct type="monograph" n="secondPrint">
-                        <monogr>
-                           <author>Emanuel Hirsch/Paul Tillich</author>
-                           <editor>Hans Walter (Hg.)</editor>
-                           <title>Emanuel Hirsch – Paul Tillich. Briefwechsel 1917–1918</title>
-                           <edition>Erste Auflage</edition>
-                           <imprint>
-                              <publisher>Verlag Die Spur</publisher>
-                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
-                              <date when="1973">1973</date>
-                              <biblScope>28-30</biblScope>
-                           </imprint>
-                        </monogr>
-                     </biblStruct>
-                  </listBibl>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+<biblScope>VI</biblScope>
+</series>
+</biblStruct>
+<biblStruct n="secondPrint" type="monograph">
+<monogr>
+<author>Emanuel Hirsch/Paul Tillich</author>
+<editor>Hans Walter (Hg.)</editor>
+<title>Emanuel Hirsch – Paul Tillich. Briefwechsel 1917–1918</title>
+<edition>Erste Auflage</edition>
+<imprint>
+<publisher>Verlag Die Spur</publisher>
+<pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+<date when="1973">1973</date>
+<biblScope>28-30</biblScope>
+</imprint>
+</monogr>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date when="1918-05-09">09.05.1918</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__904">Emanuel Hirsch</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="LP" when="2022-06-25">Initiale Auszeichnung des Transkripts</change>
-         <change who="GM" when="2024-02-19">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>Den <date when="1918-05-09">9. V. 18.</date></dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__904" type="person"
-                     >Emmanuel</rs>!</salute>
-            </opener>
-            <p>Vor etwa 8 Tagen bekam ich das <rs ref="#tillich__KAABUFJS" type="work">Buch</rs> von
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1918-05-09">09.05.1918</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__904">Emanuel Hirsch</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-06-25" who="LP">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-02-19" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>Den <date when="1918-05-09">9. V. 18.</date></dateline>
+<salute>Lieber <rs ref="#tillich_person_id__904" type="person">Emmanuel</rs>!</salute>
+</opener>
+<p>Vor etwa 8 Tagen bekam ich das <rs ref="#tillich__KAABUFJS" type="work">Buch</rs> von
                   <rs ref="#tillich_person_id__1438" type="person">Otto</rs>. Es weht darin ein
-               kräftiger Geist, etwas von dem, was ich an <rs ref="#tillich_person_id__1712"
-                  type="person">Schlatter</rs>–<rs ref="#tillich_person_id__1227" type="person"
-                  >Lütgert</rs> so schätze, was <rs ref="#tillich_person_id__1693" type="person"
-                  >Schäder</rs> mit seinem Macht-Gedanken für Gott sagen will, es weht auch Geist
+               kräftiger Geist, etwas von dem, was ich an <rs ref="#tillich_person_id__1712" type="person">Schlatter</rs>–<rs ref="#tillich_person_id__1227" type="person">Lütgert</rs> so schätze, was <rs ref="#tillich_person_id__1693" type="person">Schäder</rs> mit seinem Macht-Gedanken für Gott sagen will, es weht auch Geist
                der Mystik und meines geliebten <rs ref="#tillich_person_id__243" type="person">Jakob
-                  Böhme</rs> und vor allem der Geist darin, den der spätere <rs
-                  ref="#tillich_person_id__1705" type="person">Schelling</rs> in die Formen seiner
-               "positiven Philosophie" gebracht hat. Wie ich Dir schon schrieb, hat dieser Geist
+                  Böhme</rs> und vor allem der Geist darin, den der spätere <rs ref="#tillich_person_id__1705" type="person">Schelling</rs> in die Formen seiner
+               <q>positiven Philosophie</q> gebracht hat. Wie ich Dir schon schrieb, hat dieser Geist
                etwas unendlich Anheimelndes für mich! Mein alter Sinn fürs Irrationale, fürs
-               Paradoxe, das Erlebnis Gottes als "Vischna" in die Formen des unerhörtesten Grausens,
+               Paradoxe, das Erlebnis Gottes als <q>Vischna</q> in die Formen des unerhörtesten Grausens,
                wie es dieser Krieg mir immer wieder gebracht hat, mein praktischer Irrationalismus,
-               Antilogismus und Antimoralismus – – – – – – all das kommt <rs
-                  ref="#tillich_person_id__1438" type="person">Ottos</rs> Gedanken mit offenen Armen
+               Antilogismus und Antimoralismus – – – – – – all das kommt <rs ref="#tillich_person_id__1438" type="person">Ottos</rs> Gedanken mit offenen Armen
                entgegen. Ich weide mich an dem Bilde der sich immer senkrecht sträubenden Haare
                sämtlicher <rs ref="#tillich_person_id__1614" type="person">Ritschlianer</rs> beim
-               Lesen dieser Lästerungen wider den heiligen Geist <rs ref="#tillich_person_id__1020"
-                  type="person">Kants</rs> und freue mich, daß ein Marburger Professor so Unerhörtes
+               Lesen dieser Lästerungen wider den heiligen Geist <rs ref="#tillich_person_id__1020" type="person">Kants</rs> und freue mich, daß ein Marburger Professor so Unerhörtes
                wagen darf! – – – – – –</p>
-            <p>Sachlich erkenne ich zunächst an, daß <rs ref="#tillich_person_id__1438"
-                  type="person">Otto</rs> bewußter Antisupranaturalist ist; damit ist der Boden
+<p>Sachlich erkenne ich zunächst an, daß <rs ref="#tillich_person_id__1438" type="person">Otto</rs> bewußter Antisupranaturalist ist; damit ist der Boden
                gegeben, auf dem ich überhaupt verhandeln kann: das Numinose ist weder positiv noch
                negativ am Naturbegriff orientiert. Es ist freilich zweifelhaft, ob diese Position
                haltbar ist. Gehen wir einmal vom Wunderbegriff aus, den er gleichfalls mit
                erfreulicher Deutlichkeit antisupranaturalistisch faßt, so zeigt sich sofort, daß er
-               ihn naturalisiert: das Wunder wird zum "Zeichen", und Zeichen kann alles werden, vor
+               ihn naturalisiert: das Wunder wird zum <q>Zeichen</q>, und Zeichen kann alles werden, vor
                allem der Tod, für den, der das Gefühl des <sic>Numinösen</sic> schon in sich trägt!
                Einverstanden, aber dieses Gefühl nun! Er nennt es eine Kategorie a priori im
                Geistesleben. Auch richtig! Das Religiöse gehört also in den Haushalt des
                Geisteslebens, aber damit ist es – wenigstens als Kategorie – naturalisiert. So käme
-               es denn auf den<pb n="2"/> Gegenstand, auf den "Inhalt" der Kategorie an; ich habe
+               es denn auf den<pb n="2"/> Gegenstand, auf den <q>Inhalt</q> der Kategorie an; ich habe
                Dir schon meine Bedenken gegen das formal Naturale, inhaltlich Ex-Naturale
                geschrieben; doch lassen wir einmal diese Bedenken! Das <sic>Numinöse</sic> soll über
-               den Gegensatz von Natürlich und Übernatürlich stehen, wie bei <rs
-                  ref="#tillich_person_id__1705" type="person">Schelling</rs> das Über-Seiende
-               jenseits des Gegensatzes von Sein und Nichtsein steht! Aber auch <rs
-                  ref="#tillich_person_id__1705" type="person">Schelling</rs> kann ja nicht anders
-               als sagen: "das Überseiende ist", der Zwang der Kategorialisierung führt zur
+               den Gegensatz von Natürlich und Übernatürlich stehen, wie bei <rs ref="#tillich_person_id__1705" type="person">Schelling</rs> das Über-Seiende
+               jenseits des Gegensatzes von Sein und Nichtsein steht! Aber auch <rs ref="#tillich_person_id__1705" type="person">Schelling</rs> kann ja nicht anders
+               als sagen: <q>das Überseiende ist</q>, der Zwang der Kategorialisierung führt zur
                Naturalisierung. Und <rs ref="#tillich_person_id__1438" type="person">Otto</rs> muß
-               sagen, "das <sic>Numinöse</sic> ist", eben damit ist es aber ein Moment in der Sphäre
-               des Seienden (die einzige, die "es gibt", die "ist"). Der Vergegenständlichung durch
-               das Existentialurteil entgeht nichts! Das Gleiche gilt nun für das, was <rs
-                  ref="#tillich_person_id__1438" type="person">Otto</rs> den "Seelengrund" und <rs
-                  ref="#tillich_person_id__1705" type="person">Schelling</rs> die "Seele" im
+               sagen, <q>das <sic>Numinöse</sic> ist</q>, eben damit ist es aber ein Moment in der Sphäre
+               des Seienden (die einzige, die <q>es gibt</q>, die <q>ist</q>). Der Vergegenständlichung durch
+               das Existentialurteil entgeht nichts! Das Gleiche gilt nun für das, was <rs ref="#tillich_person_id__1438" type="person">Otto</rs> den <q>Seelengrund</q> und <rs ref="#tillich_person_id__1705" type="person">Schelling</rs> die <q>Seele</q> im
                Unterschiede vom Geist nennt, das Organ für das <sic>Numinöse</sic> in uns. Es wird
                erlebt in Bewusstseinsvorgängen, vor allem in Gefühlen, und ist damit ein Gegenstand
                der Gefühlspsychologie, die es einordnen muss in den Komplex des Seelenlebens
                überhaupt. Hier gibt es kein Entweichen. Damit tritt auch hier eine (psychologische)
                Naturalisierung ein (die natürlich mit naturalistischer Psychologie gar nichts zu tun
-               hat). – – – – – Aus all dem ziehe ich nun den Schluss: das Erlebnis, das <rs
-                  ref="#tillich_person_id__1438" type="person">Otto</rs>, die Mystik, die <rs
-                  ref="#tillich_person_id__1705" type="person">Schelling</rs> etc. beschreiben, ist
+               hat). – – – – – Aus all dem ziehe ich nun den Schluss: das Erlebnis, das <rs ref="#tillich_person_id__1438" type="person">Otto</rs>, die Mystik, die <rs ref="#tillich_person_id__1705" type="person">Schelling</rs> etc. beschreiben, ist
                   <hi rend="u">entweder</hi> ein natürlich-psychologischer Vorgang, veranlaßt durch
                eine natürliche Ursache, die prinzipiell erklärbar und einfügbar ist in das
-               natürliche Universum (etwa im <rs ref="#tillich_person_id__839" type="person"
-                  >Hegelschen</rs> Sinne) – wie wir es auch von telepathischen oder dgl., zweifellos
+               natürliche Universum (etwa im <rs ref="#tillich_person_id__839" type="person">Hegelschen</rs> Sinne) – wie wir es auch von telepathischen oder dgl., zweifellos
                tatsächlichen Dingen behaupten, <hi rend="u">oder</hi> es handelt sich überhaupt
-               nicht um einen besonderen Gegenstand, sondern um einen besonderen <hi rend="u"
-                  >Sinn</hi>, den Sinn des Gegenstandes "Welt". Eben dieses ist nun meine Meinung.
+               nicht um einen besonderen Gegenstand, sondern um einen besonderen <hi rend="u">Sinn</hi>, den Sinn des Gegenstandes <q>Welt</q>. Eben dieses ist nun meine Meinung.
                Geistiges Leben ist Leben im Sinn oder unablässige schöpferische Sinngebung. So geben
                wir der Welt einen logischen- ethischen- ästhetischen, so auch einen religiösen Sinn.
                Diese Sinngebung ist<pb n="3"/> bei der Mehrheit der Menschen und bei allen in der
@@ -191,18 +175,17 @@
                in einzelnen Persönlichkeiten. Wir müssen also auch auf religiösem Gebiet
                unterscheiden zwischen unbewusster, bewusster und schöpferischer Religiosität.
                Unbewusst ist jeder religiös, bewusst der Fromme, schöpferisch der Prophet. (Davon zu
-               unterscheiden der "Heilige", der nicht Prophet, nicht einmal Frommer zu sein <hi
-                  rend="u">braucht</hi>)</p>
-            <p>Soweit gehen die Analogien; nun aber liegt es im Sinn des Religiösen, sich in einem
+               unterscheiden der <q>Heilige</q>, der nicht Prophet, nicht einmal Frommer zu sein <hi rend="u">braucht</hi>)</p>
+<p>Soweit gehen die Analogien; nun aber liegt es im Sinn des Religiösen, sich in einem
                Doppelverhältnis des Gegensatzes und der Einheit zu den übrigen Kategorien zu wissen.
                Ich hatte in <rs ref="L00561" type="letter">meinem vorigen Brief</rs> Wertbewusstsein
                und Unendlichkeitsbewusstsein als primär religiöse Gefühle bezeichnet, und das
-               Wertbewusstsein mit dem "Fremden" von Dir gleichgesetzt. Ich glaube, daß dies Deine
-               Meinung nicht ganz getroffen hat. "Wert" und "Sinn" ergeben sich bei tieferer Analyse
+               Wertbewusstsein mit dem <q>Fremden</q> von Dir gleichgesetzt. Ich glaube, daß dies Deine
+               Meinung nicht ganz getroffen hat. <q>Wert</q> und <q>Sinn</q> ergeben sich bei tieferer Analyse
                als identische Begriffe. Wertbewusstsein betrifft also die ganze geistige Sphäre.
-               Dennoch war es richtig, auch dieses Sinn- oder Wertbewusstsein als etwas "Fremdes" zu
+               Dennoch war es richtig, auch dieses Sinn- oder Wertbewusstsein als etwas <q>Fremdes</q> zu
                bezeichnen, fremd nämlich dem bloß Faktischen! Das was Du meinst, wird zweifellos
-               eher getroffen durch das von mir zögernd angewandte "Unendlichkeitsbewusstsein" –
+               eher getroffen durch das von mir zögernd angewandte <q>Unendlichkeitsbewusstsein</q> –
                zögernd wegen seines fatalen negativ-supranaturalistischen Klanges. Es wären demnach
                drei Sphären zu unterscheiden: die des Tatsächlichen, die des Sinnes oder Wertes und
                die des Religiösen oder Unendlichen oder <sic>Numinösen</sic>! Es handelt sich immer
@@ -210,28 +193,24 @@
                Gegebene, Gegenständliche, das zweitemal das Sinn<supplied>-</supplied> und
                Wertvolle, das drittemal das innerlich Unendliche oder <sic>Numinöse</sic>. Also
                nicht eine neue Gegenständlichkeit ist das <sic>Numinöse</sic>, sondern eine neue
-               Tiefe oder Offenbarung des Seins. – Nun kann die höhere Stufe niemals von der<pb
-                  n="4"/> niedrigeren aus erfaßt werden, der Wert ist der Tatsächlichkeit ebenso
+               Tiefe oder Offenbarung des Seins. – Nun kann die höhere Stufe niemals von der<pb n="4"/> niedrigeren aus erfaßt werden, der Wert ist der Tatsächlichkeit ebenso
                umfassbar, wie das Numen dem Wert. Die Abbild-Theorie im Logischen sowie die
                Lust-Theorie im Ethischen, Aesthetischen (und Religiösen) sind Versuche, dem Wert vom
                Gegenstand aus beizukommen. Kantianismus, Hegelianismus Versuche, das Religiöse vom
-               Wert aus zu verstehen. Das meint wohl <rs ref="#tillich_person_id__1438"
-                  type="person">Otto</rs> damit, wenn er alles Ausserreligiöse "rational" nennt. Mir
+               Wert aus zu verstehen. Das meint wohl <rs ref="#tillich_person_id__1438" type="person">Otto</rs> damit, wenn er alles Ausserreligiöse <q>rational</q> nennt. Mir
                ist dieser Ausdruck problematisch, da in aller Wertwissenschaft schon ein
                irrationales, intuitives Moment enthalten ist, und der Wert vom Standpunkt des
                Faktischen genau so irrational ist, wie das Numen vom Standpunkt des Wertes! Daraus
                ergibt sich nun der Zwang zur Rationalisierung des <sic>Numinösen</sic>, erstens vom
-               Faktischen aus: "das <sic>Numinöse</sic> ist" die Vergegenständlichung; dann vom Wert
-               aus: "das <sic>Numinöse</sic> ist absoluter Wert". Aus diesen beiden Sätzen ergibt
+               Faktischen aus: <q>das <sic>Numinöse</sic> ist</q> die Vergegenständlichung; dann vom Wert
+               aus: <q>das <sic>Numinöse</sic> ist absoluter Wert</q>. Aus diesen beiden Sätzen ergibt
                sich dann der ganze Mythus, der in fortgeschrittener Rationalisierung Dogma und
                schliesslich Metaphysik ist. Die Inadäquatheit dieser Erfassungsformen kommen zum
                Ausdruck in den logischen Widersprüchen, die jedem Dogma charakteristisch anhaften
                und die durch Machtsprüche des religiösen Bewusstseins zur Wirkungslosigkeit gebracht
-               werden; vor allem auch in Ausdrücken wie <rs ref="#tillich_person_id__589"
-                  type="person">Fichte</rs>: Gott "ist" nicht, <rs ref="#tillich_person_id__1705"
-                  type="person">Schelling</rs>: Gott ist der Überseiende, Mystiker: Gott ist
+               werden; vor allem auch in Ausdrücken wie <rs ref="#tillich_person_id__589" type="person">Fichte</rs>: Gott <q>ist</q> nicht, <rs ref="#tillich_person_id__1705" type="person">Schelling</rs>: Gott ist der Überseiende, Mystiker: Gott ist
                überschwengliches Sein u. s. f. – –</p>
-            <p>Von hier aus wird nun auch mein scharfer Protest gegen jeden Supranaturalismus
+<p>Von hier aus wird nun auch mein scharfer Protest gegen jeden Supranaturalismus
                verständlich: Der Mythus ist die unmittelbare und notwendige Objektivierungsform des
                religiösen Erlebens; er ist naiv supranaturalistisch oder vielmehr er hat diesen
                Gegensatz noch gar nicht in sich. Das Numen gehört zur Welt, wenn es auch ein anderes
@@ -240,20 +219,20 @@
                natürlichen; es werden logische Verbindungen oder Gegensätze konstatiert, die alle
                dialektisch unmöglich sind,<pb n="5"/>aber ihre Unmöglichkeit nicht durchschauen.
                Daraus entsteht dann die dogmenkritische Philosophie, die das Göttliche zur höchsten
-               immanenten Kategorie, zur "Kategorie der Kategorien" macht, und damit zwar die
+               immanenten Kategorie, zur <q>Kategorie der Kategorien</q> macht, und damit zwar die
                Wertsphäre des Erkennens zum Abschluß gebracht hat, aber das Göttliche verloren!
                Dagegen wandte sich vornehmlich mein <rs ref="L00561" type="letter">letzter
                   Brief</rs>. Denn diese Entwicklung ist eine notwendige Konsequenz der logisch
                gemeinten Vergegenständlichung des Göttlichen in einen Seienden. Das Göttliche ist
-               Sinn, nicht Sein, und es ist "anderer Sinn". Damit ergibt sich nun die Frage nach dem
+               Sinn, nicht Sein, und es ist <q>anderer Sinn</q>. Damit ergibt sich nun die Frage nach dem
                Verhältnis des religiösen Wertes zu den übrigen. Um das zu verstehen, muss zunächst
                das Verhältnis von Sein und Sinn noch einmal beleuchtet werden: Auch das Sein, das
-               "rein Tatsächliche" ist ja ein Begriff, ist also gesetzt vom logischen
+               <q>rein Tatsächliche</q> ist ja ein Begriff, ist also gesetzt vom logischen
                Sinnzusammenhang, ist Sinn- oder Wertprodukt. Der Sinn setzt das Sein als sein
-               "anderes", an dem er sich realisiert. Ebenso setzt der Sinn das Göttliche als sein
-               "anderes", von dem er sich realisiert weiss. So begrenzt sich der Sinn durch das Sein
+               <q>anderes</q>, an dem er sich realisiert. Ebenso setzt der Sinn das Göttliche als sein
+               <q>anderes</q>, von dem er sich realisiert weiss. So begrenzt sich der Sinn durch das Sein
                und das Ueberseiende! Beide aber sind Sinn-Setzungen. Das Sein kann nicht wieder
-               "sein", und das Ueberseiende hat sein Wesen darin, nicht zu sein! Ich lehre also den
+               <q>sein</q>, und das Ueberseiende hat sein Wesen darin, nicht zu sein! Ich lehre also den
                Monismus des Sinnes, der sich nach zwei Seiten den Widersinn, das Irrationale
                entgegensetzt, das Sein und das Uebersein! Wie nun das Existentialurteil allen
                anderen immanent ist, und nur durch Abstraktion ein Urteil für sich wird, so ist das
@@ -263,15 +242,15 @@
                die beiden Irrationalitäten zu der einen des Existentialurteils zusammen, das für den
                Sinn zugleich Erfüllung und Widersinn ist. Daher die überwältigende, <sic>Sinn- und
                Wertvernichtende</sic> Faktivität des Göttlichen, daher das Religiöse<pb n="6"/>als
-               "Philosophie des Todes", daher auch das Nachlassen der Religion in kulturell
-               bewussten Zuständen und das ungeheure Problem der Religion "ausserhalb" der Grenzen
+               <q>Philosophie des Todes</q>, daher auch das Nachlassen der Religion in kulturell
+               bewussten Zuständen und das ungeheure Problem der Religion <q>ausserhalb</q> der Grenzen
                der reinen Vernunft. So weit dieses Mal. Ich glaube, wir sind uns näher gekommen! Dem
                Buch danke ich viel! </p>
-            <closer>
-               <salute>Dir alles Gute und vielleicht bald auf Wiedersehen!</salute>
+<closer>
+<salute>Dir alles Gute und vielleicht bald auf Wiedersehen!</salute>
                Dein <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

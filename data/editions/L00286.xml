@@ -1,113 +1,105 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00286">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Johannes Kilger an Paul Tillich <lb/>vom 27. April 1911</title>
-            <author ref="#tillich_person_id__2380">Johannes Kilger</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00286" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Johannes Kilger an Paul Tillich <lb/>vom 27. April 1911</title>
+<author ref="#tillich_person_id__2380">Johannes Kilger</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">Wien</placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                  <idno>bMS 649/158(14)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS 649/158(14)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__2380">Johannes Kilger</persName>
-               <placeName ref="#tillich_place_id__311">Naumburg</placeName>
-               <date when="1911-04-27">27.04.1911</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-         <change when="2023-02-01" who="AA">Initiale Auszeichnung des Transkripts</change>
-         <change when="2025-02-18" who="EL">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <placeName ref="#tillich_place_id__311">Naumburg</placeName> , den <date
-                     when="1911-04-27">27.04.1911</date>
-               </dateline>
-               <salute>Mein lieber <rs type="person" ref="#tillich_person_id__1928"
-                  >Paulo</rs>!</salute>
-            </opener>
-            <p> Eine Bitte, die ich Dir gegenüber ansprechen möchte, veranlaßt mich, an Dich zu
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2380">Johannes Kilger</persName>
+<placeName ref="#tillich_place_id__311">Naumburg</placeName>
+<date when="1911-04-27">27.04.1911</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2023-02-01" who="AA">Initiale Auszeichnung des Transkripts</change>
+<change when="2025-02-18" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<placeName ref="#tillich_place_id__311">Naumburg</placeName> , den <date when="1911-04-27">27.04.1911</date>
+</dateline>
+<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paulo</rs>!</salute>
+</opener>
+<p> Eine Bitte, die ich Dir gegenüber ansprechen möchte, veranlaßt mich, an Dich zu
                schreiben. Vielleicht hast Du schon von andrer Seite erfahren, daß mir das Referat
                beim Wartburgfest über „Bundesprinzip“ und „Aktivitätszwang“
-               <!--<note type="ea">Aktivitätszwang</note>--> übergeben ist. <rs
-                  ref="#tillich_person_id__2221" type="person">Diehl</rs> hat das Vorreferat. Meine
+               &lt;note type=<q>ea</q>&gt;Aktivitätszwang&lt;/note&gt; übergeben ist. <rs ref="#tillich_person_id__2221" type="person">Diehl</rs> hat das Vorreferat. Meine
                Anschauungen habe ich ja schon in den W.<abbr>ingolfs</abbr> Bl.<abbr>ättern</abbr>
                einigermaßen geäußert, sodaß Du recht in der Lage bist, Dich darüber genauer zu
                orientieren. Ich möchte Dich nur bitten, mir Deine Gedanken darüber, Einwände oder
                Ausführungen mitzuteilen. Vielleicht kannst Du mir auch einen kurzen Rückblick auf
-               die letzte Entwicklung im Wingolf (bes. <rs ref="#tillich_place_id__467" type="place"
-                  >Wartburg</rs> 07) geben. <del rend="s">Wo</del> evtl. mir vorhandene Protokolle
-               verschaffen. Außerdem möchte ich Dich bitten, mich aktiv oder wenigstens passiv <add
-                  place="superlinear">(d.h. ohne mich zu bekämpfen)</add> zu unterstützen. Ich hoffe
-               Dich auf <pb n="2"/> dem Wartburgfest wieder zu sehen. <rs
-                  ref="#tillich_person_id__1050" type="person">Albert</rs> wird wahrscheinlich auch
-               da sein und zwar als flotter Jägersmann. Hast Du Fühlung mit dem Bunde? z.B. <rs
-                  ref="#tillich_place_id__37" type="place">Berlin</rs>? Kannst Du da evtl. etwas
+               die letzte Entwicklung im Wingolf (bes. <rs ref="#tillich_place_id__467" type="place">Wartburg</rs> 07) geben. <del rend="s">Wo</del> evtl. mir vorhandene Protokolle
+               verschaffen. Außerdem möchte ich Dich bitten, mich aktiv oder wenigstens passiv <add place="superlinear">(d.h. ohne mich zu bekämpfen)</add> zu unterstützen. Ich hoffe
+               Dich auf <pb n="2"/> dem Wartburgfest wieder zu sehen. <rs ref="#tillich_person_id__1050" type="person">Albert</rs> wird wahrscheinlich auch
+               da sein und zwar als flotter Jägersmann. Hast Du Fühlung mit dem Bunde? z.B. <rs ref="#tillich_place_id__37" type="place">Berlin</rs>? Kannst Du da evtl. etwas
                veranlassen… Jedenfalls war es doch auch Dein Wunsch, daß der Zustand 07 nicht
-               konstant würde. Vgl. Schlußwort zu den Beschlüssen 07 auf der <rs
-                  ref="#tillich_place_id__467" type="place">Wartburg</rs> und Hallenser dauernder
+               konstant würde. Vgl. Schlußwort zu den Beschlüssen 07 auf der <rs ref="#tillich_place_id__467" type="place">Wartburg</rs> und Hallenser dauernder
                Konventsbeschluß. Ich bin gern bereit, mich noch brieflich über manche Fragen betr.
                Bundeskonstitution <add place="superlinear">mit Dir</add> auseinanderzusetzen...
                Außer diesem möchte ich Deine Hilfe auch noch <add place="superlinear">in</add> etwas
@@ -115,28 +107,19 @@
                plötzliche Überweisung des Wartburgreferats in meinen hiesigen Arbeiten etwas
                behindert. Da ich hier eine sehr exponierte Kampfesstellung habe, möchte ich mit
                meinem Referat „die Trinitätslehre in der neueren Theologie“ einen kräftigen Schlag
-               führen. Aus Deiner <rs type="work" ref="#tillich__#9CSAXH7U">Doktorarbeit</rs>, an die
+               führen. Aus Deiner <rs ref="#tillich__#9CSAXH7U" type="work">Doktorarbeit</rs>, an die
                ich <del rend="s">mir schon</del> immer wieder nach manchem vergeblichen Vorstoß
                herangehe, ersehe ich, daß Du ganz tiefgehende Einsichten <pb n="3"/> in das gesamte
                Gebiet der neueren Dogmatik haben mußt. Gerade das, was Du über den Unterschied von
-                  <rs type="person" ref="#tillich_person_id__1705">Schelling</rs> u. <rs
-                  type="person" ref="#tillich_person_id__1717">Schleiermacher</rs> entwickelst, hat
-               mir sehr imponiert. Auch das Hinausgehn über <rs type="person"
-                  ref="#tillich_person_id__589">Fichte</rs> wird mir allmählich verständlich. Gerade
-               in der Trinitätslehre muß doch <rs type="person" ref="#tillich_person_id__1705"
-                  >Schelling</rs> richtige Wege gewiesen haben; wie sind diese dann in der Theologie
+                  <rs ref="#tillich_person_id__1705" type="person">Schelling</rs> u. <rs ref="#tillich_person_id__1717" type="person">Schleiermacher</rs> entwickelst, hat
+               mir sehr imponiert. Auch das Hinausgehn über <rs ref="#tillich_person_id__589" type="person">Fichte</rs> wird mir allmählich verständlich. Gerade
+               in der Trinitätslehre muß doch <rs ref="#tillich_person_id__1705" type="person">Schelling</rs> richtige Wege gewiesen haben; wie sind diese dann in der Theologie
                verfolgt worden? <add place="superlinear">Oder wie sind sie noch zu verfolgen?</add>
                Leider hatte ich mich im vorigen Sem. mehr mit anderen Fragen beschäftigt. Ich
-               studierte immer aufs gerade Wohl z.B. <rs type="person"
-                  ref="#tillich_person_id__1839">Stammler</rs>: „<rs type="work"
-                  ref="#tillich__#U5FS7TMF">Wirtschaft u. Recht</rs>“. so bin ich leider jetzt nicht
+               studierte immer aufs gerade Wohl z.B. <rs ref="#tillich_person_id__1839" type="person">Stammler</rs>: „<rs ref="#tillich__#U5FS7TMF" type="work">Wirtschaft u. Recht</rs>“. so bin ich leider jetzt nicht
                in der Lage genügend das Gebiet der Dogmatik zu überschauen. Vielleicht kannst Du mir
-               einige Wegweiser geben und mir Literatur anweisen. Unser Dir. <rs
-                  ref="#tillich_person_id__2771" type="person">Kalweit</rs> ist sehr gelehrt und ein
-               systematischer Kopf; er ist völlig „<rs type="person" ref="#tillich_person_id__845"
-                  >Heim</rs>“schüler; er schwankt in seiner Theologie zwischen <rs
-                  ref="#tillich_person_id__1954" type="person">Tröltsch</rs> u. <rs
-                  ref="#tillich_person_id__1013" type="person">Kähler</rs>; dabei ist er
+               einige Wegweiser geben und mir Literatur anweisen. Unser Dir. <rs ref="#tillich_person_id__2771" type="person">Kalweit</rs> ist sehr gelehrt und ein
+               systematischer Kopf; er ist völlig „<rs ref="#tillich_person_id__845" type="person">Heim</rs>“schüler; er schwankt in seiner Theologie zwischen <rs ref="#tillich_person_id__1954" type="person">Tröltsch</rs> u. <rs ref="#tillich_person_id__1013" type="person">Kähler</rs>; dabei ist er
                spekulativer Theologie „<rs ref="#tillich_person_id__839" type="person">Hegel</rs>“
                sehr abhold, das ist bei seinem Skeptizismus verständlich. Die Herrn Kandidaten sind
                sämtlich historisch verderbt und <pb n="4"/> z. Teil populär liberal. Die Hallenser
@@ -144,20 +127,19 @@
                schrecklich, stets zu elender Stümperei verurteilt zu sein; wie beneide ich Dich um
                Deine Arbeitskraft und Deinen Intellekt. Na, jedenfalls ahne ich, worauf es ankommt
                und habe so manche Lichtblicke. Hoffentlich kann ich wenigstens im praktischen Amt
-               meinen Mann stehen; hier in Schlesien ist große Not. Okt. werde ich wohl schon <del
-                  rend="s">müssen meine</del> ein Pfarramt verwalten müssen. Meine armen Nerven! Wie
+               meinen Mann stehen; hier in Schlesien ist große Not. Okt. werde ich wohl schon <del rend="s">müssen meine</del> ein Pfarramt verwalten müssen. Meine armen Nerven! Wie
                geht es Dir? Wann machst Du Deinen Lic. u. worüber? Ich freue mich schon darauf, auf
                einer gemütlichen Landpfarre<supplied>,</supplied> fern von dem Kampf der großen
                   Geister<supplied>,</supplied> Deine Bücher lesen zu können, d.h. wenn ich sie
                verstehe. Doch ich will nicht elegisch werden; <del rend="s">sondern</del> ich habe
                ja recht praktische Aufgaben, die zu lösen sind. Wenn Du mir helfen kannst, dann
                bitte tue es auch! </p>
-            <closer>
-               <salute>In treuer Liebe u. Freundschaft</salute>
-               <signed>Dein <rs type="person" ref="#tillich_person_id__2380">Johannes
+<closer>
+<salute>In treuer Liebe u. Freundschaft</salute>
+<signed>Dein <rs ref="#tillich_person_id__2380" type="person">Johannes
                   Kilger</rs></signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

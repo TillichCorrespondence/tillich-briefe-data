@@ -1,100 +1,99 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01286">
-     <teiHeader>
-          <fileDesc>
-               <titleStmt>
-                    <title>Brief von Paul Tillich an Hannah Tillich <lb/>von April 1921</title>
-                    <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                    <respStmt>
-                         <resp>Editor</resp>
-                         <name key="https://orcid.org/0009-0005-1475-7324">Jonas Epple</name>
-                    </respStmt>
-               </titleStmt>
-               <editionStmt>
-                    <edition>
-                         <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01286" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich <lb/>von April 1921</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0005-1475-7324">Jonas Epple</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                               1887-1933</title>
-                    </edition>
-               </editionStmt>
-               <publicationStmt>
-                    <publisher>
-                         <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                         <address>
-                              <street>Schenkenstraße 8-10</street>
-                              <postCode>1010</postCode>
-                              <placeName ref="#tillich_place_id__470">Wien</placeName>
-                         </address>
-                    </publisher>
-                    <availability>
-                         <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                               Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                    </availability>
-               </publicationStmt>
-               <sourceDesc>
-                    <msDesc type="manuscript">
-                         <msIdentifier>
-                              <country>USA</country>
-                              <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                              <institution>Harvard</institution>
-                              <repository>Harvard Divinity School Library</repository>
-                              <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                              <idno>bMS 721/2 (17)</idno>
-                         </msIdentifier>
-                         <physDesc>
-                              <p>Brief, eigenhändig</p>
-                         </physDesc>
-                    </msDesc>
-               </sourceDesc>
-          </fileDesc>
-          <encodingDesc>
-               <projectDesc>
-                    <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-               </projectDesc>
-               <editorialDecl>
-                    <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/2 (17)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats.
                          Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-               </editorialDecl>
-          </encodingDesc>
-          <profileDesc>
-               <correspDesc>
-                    <correspAction type="sent">
-                         <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                         <date notBefore="1921-04-01">01.04.1921</date>
-                    </correspAction>
-                    <correspAction type="received">
-                         <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-                    </correspAction>
-               </correspDesc>
-               <langUsage>
-                    <language ident="deu">Deutsch</language>
-               </langUsage>
-          </profileDesc>
-          <revisionDesc status="approved">
-               <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-               <change when="2024-01-08" who="JE">Initiale Auszeichnung des Transkripts</change>
-          </revisionDesc>
-     </teiHeader>
-     <text type="letter">
-          <body>
-               <div type="writingSession">
-                    <pb n="1"/>
-                    <opener>
-                         <dateline>Donnerstag.</dateline>
-                         <salute><rs type="person" ref="#tillich_person_id__1923">Hannah</rs>, liebe
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date notBefore="1921-04-01">01.04.1921</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2024-01-08" who="JE">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>Donnerstag.</dateline>
+<salute><rs ref="#tillich_person_id__1923" type="person">Hannah</rs>, liebe
                               Geliebte,</salute>
-                    </opener>
-                    <p>nun will ich zu Dir reden; endlich einmal wieder ganz frei und nur zu Dir!
+</opener>
+<p>nun will ich zu Dir reden; endlich einmal wieder ganz frei und nur zu Dir!
                          Und ob Du den Brief bekommst oder nicht: Die Möglichkeit schon, daß Du ihn
-                         bekommen kannst, gibt mir Glück und inneren Frieden. <rs type="person"
-                              ref="#tillich_person_id__1923">Hannah</rs> in Dir lösen sich, wie in
+                         bekommen kannst, gibt mir Glück und inneren Frieden. <rs ref="#tillich_person_id__1923" type="person">Hannah</rs> in Dir lösen sich, wie in
                          jener Nacht, alle Spannungen meines Lebens, alles Harte, Bittere, alle
                          Qual; und ich kann ruhen; ruhen wie in der kampflosen Unschuld der
                          Kindheit, ruhen wie im Gebet, das erhört ist, ruhen, viel tiefer und
                          schöner als in den Armen des Schlafes; nicht immer, nicht lange, aber doch
                          einmal, irgendwann, wenn es zu viel geworden ist.</p>
-                    <p>Du schreibst mir so viel herrliche Worte, daß ich fast zu klein bin, sie zu
+<p>Du schreibst mir so viel herrliche Worte, daß ich fast zu klein bin, sie zu
                          fassen, Du schenkst mir in Deiner Liebe, in Deinem Widerstand, in Deinem
-                         Ringen und Suchen, die ganze Welt des "Anderen", das doch eins ist mit mir.
+                         Ringen und Suchen, die ganze Welt des <q>Anderen</q>, das doch eins ist mit mir.
                          Es ist so schwer, auf solche Briefe zu antworten, weil alles Einzelne
                          eingebettet ist in einen Strom, in dem es getragen ist von Kräften, die
                          tiefer sind als alle Sachlichkeiten. Und doch ist auch vieles Sachliche
@@ -110,7 +109,7 @@
                          geboren werden; dann wird es ihm helfen; wann diese Reife da ist, das
                          kannst nur Du wissen; dann aber hast Du vor Gott und Menschen das Recht und
                          die Pflicht zur vollen Wahrheit.<pb n="2"/></p>
-                    <p>Trotz der Erregungen, die Deine Nachrichten<note type="ea">Liegen nicht
+<p>Trotz der Erregungen, die Deine Nachrichten<note type="ea">Liegen nicht
                               vor.</note> brachten, erhole ich mich langsam; aber der innere Schwung
                          ist noch nicht da, die zusammengefaßte Energie, die zur großen Schöpfung
                          führt. Ich habe etwas das Gefühl, daß ich mich durch dieses Semester
@@ -136,16 +135,14 @@
                          daran, welche Erlösung meines Werkes es wäre, wenn Du da wärst, und in Dir
                          Leben und Arbeit in eines gingen. Und ich weiß, daß der Tag kommen wird, wo
                          ich vor Dich hintrete und noch über unsre Liebe hinaus mein Werk zu Dir
-                         sprechen lasse: komm oder zwinge mich, Dich zu vergessen. – So, <rs
-                              type="person" ref="#tillich_person_id__1923">Hannah</rs>, schreit
+                         sprechen lasse: komm oder zwinge mich, Dich zu vergessen. – So, <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>, schreit
                          nicht nur jede Faser meiner Seele nach Dir, sondern auch mein Werk fordert
                          Dich mit der Härte des Schicksals! Lebe mir und lebe ihm! </p>
-                    <closer>
-                         <salute>Geliebte, Geliebte!</salute>
-                         <signed>Dein <rs type="person"
-                              ref="#tillich_person_id__1928">Paul</rs>.</signed>
-                    </closer>
-               </div>
-          </body>
-     </text>
+<closer>
+<salute>Geliebte, Geliebte!</salute>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

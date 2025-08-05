@@ -1,91 +1,91 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00538">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Maria Klein <lb/>vom 19. Mai 1917 </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00538" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Maria Klein <lb/>vom 19. Mai 1917 </title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/178(9)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/178(9)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date when="1917-05-19">19.05.1917</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1594">Maria Klein</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-05-10">Initiale Auszeichnung des Transkripts</change>
-         <change who="GM" when="2024-01-11">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>D. <date when="1917-05-19">19. Mai 1917</date></dateline>
-               <salute>Liebe <rs ref="#tillich_person_id__1594" type="person">Maria</rs>!</salute>
-            </opener>
-            <p>Herzlichen Dank für Deine beiden Briefe!<note type="ea">Liegen nicht vor.</note> Daß
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1917-05-19">19.05.1917</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1594">Maria Klein</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-05-10" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-01-11" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>D. <date when="1917-05-19">19. Mai 1917</date></dateline>
+<salute>Liebe <rs ref="#tillich_person_id__1594" type="person">Maria</rs>!</salute>
+</opener>
+<p>Herzlichen Dank für Deine beiden Briefe!<note type="ea">Liegen nicht vor.</note> Daß
                ich <rs ref="#tillich_person_id__1062" type="person">Lisa</rs> gleich antwortete und
                Dir nicht, liegt einfach daran, daß dies eine Specialsache war, die schnell
                beantwortet werden mußte, während wir regelmäßig korrespondieren, wobei es ohne
@@ -100,30 +100,24 @@
                Granaten durchschlägt. Wenn dann wie heut z. B. ein schöner Maiglöckchenstrauß auf
                dem Tisch steht, dann tröstet man sich über vieles und ist dankbar, wie gut man es
                immer noch hat!<pb n="2"/></p>
-            <p>Auch ich habe jetzt eine ganze Menge <rs ref="#tillich_person_id__1394" type="person"
-               >Nietzsche</rs> gelesen, vor allem den <rs ref="#tillich__4GRGCXZQ" type="work"
-                  >Willen zur Macht</rs>! Es ist nicht ganz leicht, aber dringend notwendig, seine
+<p>Auch ich habe jetzt eine ganze Menge <rs ref="#tillich_person_id__1394" type="person">Nietzsche</rs> gelesen, vor allem den <rs ref="#tillich__4GRGCXZQ" type="work">Willen zur Macht</rs>! Es ist nicht ganz leicht, aber dringend notwendig, seine
                Kritik ihm gegenüber zu behalten. Eine Dialektik fehlt ihm ganz und seine
                Erkenntnistheorie grenzt oft ans Naivste. Die Ethik hat mit der urchristlichen
                gemeinsam, daß sie als solche unanwendbar ist und völlig transformiert werden muß.
                Abgesehen davon aber ist seine Erscheinung von ganz unberechenbarem Wert. Der Gedanke
                des schöpferischen Gestaltens ist fundamental für alle künftige Systematik und die
                einzige Form, in der das wissenschaftliche und kulturelle Specialistentum zu einer
-               synthetischen Kultur überwunden werden kann; und der Gedanke des "höheren Menschen"
+               synthetischen Kultur überwunden werden kann; und der Gedanke des <q>höheren Menschen</q>
                ist, solange er erst propagiert, exoterisch gemacht wird, die Grundlage für eine
                Neugestaltung des kirchlichen Lebens u. s. f. – Dir wünsche ich viel Studienerfolge und
-               Nervenberuhigung! Und gute Briefe aus Frankreich! Grüße <rs
-                  ref="#tillich_person_id__1063" type="person">Mutter</rs> und die anderen alle, an
-               die ich so oft denke. Wie gehts Deinem <rs ref="#tillich_person_id__1061"
-                  type="person">Vater</rs>?</p>
-            <p>Zum 1. Juni ist <rs ref="#tillich_place_id__80" type="place">Butterfelde</rs>
-               abgegeben, ein offener Schlag für mich! Mein <rs ref="#tillich_person_id__2048"
-                  type="person">Schwiegervater</rs> war mit seinen Nerven fertig!</p>
-            <closer>
-               <salute>Sei herzlich gegrüßt von Deinem </salute><signed><rs ref="#tillich_person_id__1928"
-                     type="person">Paul</rs>!</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+               Nervenberuhigung! Und gute Briefe aus Frankreich! Grüße <rs ref="#tillich_person_id__1063" type="person">Mutter</rs> und die anderen alle, an
+               die ich so oft denke. Wie gehts Deinem <rs ref="#tillich_person_id__1061" type="person">Vater</rs>?</p>
+<p>Zum 1. Juni ist <rs ref="#tillich_place_id__80" type="place">Butterfelde</rs>
+               abgegeben, ein offener Schlag für mich! Mein <rs ref="#tillich_person_id__2048" type="person">Schwiegervater</rs> war mit seinen Nerven fertig!</p>
+<closer>
+<salute>Sei herzlich gegrüßt von Deinem </salute><signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

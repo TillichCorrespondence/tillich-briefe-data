@@ -1,175 +1,148 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00215">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Alfred Fritz<lb/> vom 22. September 1907</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00215" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Alfred Fritz<lb/> vom 22. September 1907</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/143(11)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/143(11)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1907-09-22">22.09.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="AB" when="2023-01-24">Initiale Auszeichnung des Transkripts</change>
-         <change who="AB" when="2023-02-07">Überprüfung und Ergänzung der Auszeichnungen</change>
-         <change who="EL" when="2024-04-22">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener><dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>, d. <date
-                     when="1907-09-22">22. Sept. 1907.</date></dateline>
-               <salute>Mein lieber <rs ref="#tillich_person_id__641" type="person"
-                  >Alfred</rs>!</salute>
-            </opener>
-            <p>Da in meinem "Vergiß mein nicht" Du unter dem <date when="1907-09-24">24<hi
-                     rend="sup">ten</hi> September</date><note type="ea">Dies ist ein Irrtum Paul
-                  Tillichs. Alfred Fritz hatte am 26. September Geburtstag. Vgl. <rs type="letter"
-                     ref="#L00220">Brief von Alfred Fitz an Paul Tillich vom 4. Oktober
-                  1907</rs>.</note> verzeichnet stehst, wir aber morgen nach <rs
-                  ref="#tillich_place_id__293" type="place">Misdroy</rs> fahren – staune nur – will
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1907-09-22">22.09.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-01-24" who="AB">Initiale Auszeichnung des Transkripts</change>
+<change when="2023-02-07" who="AB">Überprüfung und Ergänzung der Auszeichnungen</change>
+<change when="2024-04-22" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>, d. <date when="1907-09-22">22. Sept. 1907.</date></dateline>
+<salute>Mein lieber <rs ref="#tillich_person_id__641" type="person">Alfred</rs>!</salute>
+</opener>
+<p>Da in meinem <q>Vergiß mein nicht</q> Du unter dem <date when="1907-09-24">24<hi rend="sup">ten</hi> September</date><note type="ea">Dies ist ein Irrtum Paul
+                  Tillichs. Alfred Fritz hatte am 26. September Geburtstag. Vgl. <rs ref="#L00220" type="letter">Brief von Alfred Fitz an Paul Tillich vom 4. Oktober
+                  1907</rs>.</note> verzeichnet stehst, wir aber morgen nach <rs ref="#tillich_place_id__293" type="place">Misdroy</rs> fahren – staune nur – will
                ich schon heute meinen Geburtstagsglückwunsch Dir aussprechen. Welchen Inhalt diese
                Form bei einem Examensarbeiter haben muß, ist ja klar im allgemeinen, aber im
                speziellen liegt die Sache schwieriger, da – wenigstens nach Deiner Behauptung – von
                der Art des Durchkommens Dein Sein oder Nicht-Sein in Europa abhängt. Da wünscht denn
-               mein <foreign xml:lang="grc">ἄνθρωπος πνευματικός</foreign> (<rs
-                  ref="#tillich_person_id__2268" type="person">valentinianische</rs> Gnosis), daß Du
-               vermittelst einer 1-2 zu den Negern befördert wirst, und mein <foreign xml:lang="grc"
-                  >ἄνθρωπος ψυχικός</foreign>, daß Dich eine 3<hi rend="sup">b</hi> in "das
-               Pfarrhaus im <rs ref="#tillich_place_id__394" type="place">Schwarzwald</rs>" als
-                  "<foreign xml:lang="grc">ἄρχων τοῦ τόπου μεσότητος</foreign>" für alle Berliner
+               mein <foreign xml:lang="grc">ἄνθρωπος πνευματικός</foreign> (<rs ref="#tillich_person_id__2268" type="person">valentinianische</rs> Gnosis), daß Du
+               vermittelst einer 1-2 zu den Negern befördert wirst, und mein <foreign xml:lang="grc">ἄνθρωπος ψυχικός</foreign>, daß Dich eine 3<hi rend="sup">b</hi> in <q>das
+               Pfarrhaus im <rs ref="#tillich_place_id__394" type="place">Schwarzwald</rs></q> als
+                  <q><foreign xml:lang="grc">ἄρχων τοῦ τόπου μεσότητος</foreign></q> für alle Berliner
                und sοnstige Milchgesichter in weißen Kouleuren bringt. Da ich augenblicklich
-               heimlicher Anhänger von <rs ref="#tillich_person_id__2268" type="person"
-                  >Valentinus</rs> bin, so muß ich mich wohl für das erste entscheiden. Also in
-               diesem Sinne viel Segen! – Was die Reise nach <rs ref="#tillich_place_id__293"
-                  type="place">Misdroy</rs> betrifft, so<pb n="2"/> will ich Dich gleich beruhigen;
+               heimlicher Anhänger von <rs ref="#tillich_person_id__2268" type="person">Valentinus</rs> bin, so muß ich mich wohl für das erste entscheiden. Also in
+               diesem Sinne viel Segen! – Was die Reise nach <rs ref="#tillich_place_id__293" type="place">Misdroy</rs> betrifft, so<pb n="2"/> will ich Dich gleich beruhigen;
                es ist die Verlegung unseres ganzen Haushalts mit Mädchen u. allem auf 14 Tage an die
                Ostsee, die mein <rs ref="#tillich_person_id__1924" type="person">Vater</rs> noch
                braucht und die uns so noch am billigsten <sic>kommt kommt</sic>. Ich werde mich
                natürlich mehr mit kl. <rs ref="#tillich_person_id__1201" type="person">Loofs</rs>
                und <rs ref="#tillich_person_id__2269" type="person">Steuernagel</rs> wappnen, als
-               mit Spaten, wie im Sommer. – Herzlichen Dank für Deinen <rs type="letter"
-                  ref="L00211">Brief</rs>; es geht mir mit der Arbeit genau so wie Dir. Bis jetzt
+               mit Spaten, wie im Sommer. – Herzlichen Dank für Deinen <rs ref="L00211" type="letter">Brief</rs>; es geht mir mit der Arbeit genau so wie Dir. Bis jetzt
                habe ich Amos übersetzt (<unclear reason="damage">¿¿¿</unclear>0!! Vokabeln
                aufgeschlagen, alphabetisch geordnet, und im Begriff sie auswendig zu lernen); es ist
-               doch etwas feines und Deine Freude am Hebräischen immer weniger <foreign
-                  xml:lang="lat">horribile dictu</foreign>. Dazu kommt, daß ich mit wachsender
+               doch etwas feines und Deine Freude am Hebräischen immer weniger <foreign xml:lang="lat">horribile dictu</foreign>. Dazu kommt, daß ich mit wachsender
                Begeisterung <rs ref="#tillich_person_id__2032" type="person">Wellhausens</rs>
-               <rs type="work" ref="#tillich__UYM4QHX3">Prolegomena</rs> gelesen und gestern
+<rs ref="#tillich__UYM4QHX3" type="work">Prolegomena</rs> gelesen und gestern
                vollendet habe; ich habe selten einen Roman mit soviel<sic>,</sic> Spannung und
-               Interesse gelesen, ordentlich zitternd vor jedem Gegen<add place="superlinear"
-                  >beweis</add> und jubelnd bei jeder Absägung durch <rs
-                  ref="#tillich_person_id__2032" type="person">Wellhausen</rs>. Du wirst über diese
-               fuxenhafte erste Liebe lächeln, aber ich bin im A-T ja weniger als ein Fux und <rs
-                  ref="#tillich_person_id__2032" type="person">Wellhausen</rs> der Geist, der mir
-               die Finsternis etwas zu durchstrahlen scheint. Wie gern würde ich mit Dir da<pb n="3"
-               />über tönen und Dein "wissenschaftlich gereiftes (!) (?) Urteil" vernehmen! Dann
-               kommt Hosea dran und vielleicht die übrigen "Kleinen." – Kirchengeschichte bin ich
+               Interesse gelesen, ordentlich zitternd vor jedem Gegen<add place="superlinear">beweis</add> und jubelnd bei jeder Absägung durch <rs ref="#tillich_person_id__2032" type="person">Wellhausen</rs>. Du wirst über diese
+               fuxenhafte erste Liebe lächeln, aber ich bin im A-T ja weniger als ein Fux und <rs ref="#tillich_person_id__2032" type="person">Wellhausen</rs> der Geist, der mir
+               die Finsternis etwas zu durchstrahlen scheint. Wie gern würde ich mit Dir da<pb n="3"/>über tönen und Dein <q>wissenschaftlich gereiftes (!) (?) Urteil</q> vernehmen! Dann
+               kommt Hosea dran und vielleicht die übrigen <q>Kleinen.</q> – Kirchengeschichte bin ich
                jetzt, wie Du ja gesehen hast, mitten in der Gnosis. Das meiste ist Unfug; aber für
                   <rs ref="#tillich_person_id__2268" type="person">Valentinus</rs> begeistere ich
                mich jetzt noch ebenso, wie in meinem ersten Semester, als ich zum ersten Mal davon
                las! – Neues Testament arbeite ich Einleitung und bin mit <sic>Thessalonicher- und
-                  Galater</sic> fertig, was deshalb etwas besagen will, weil ich <rs
-                  ref="#tillich_person_id__2217" type="person">Jülicher</rs>, <rs
-                  ref="#tillich_person_id__2270" type="person">B. Weiß</rs> und <rs
-                  ref="#tillich_person_id__2180" type="person">Zahn</rs> gemeinsam durcharbeite, was
+                  Galater</sic> fertig, was deshalb etwas besagen will, weil ich <rs ref="#tillich_person_id__2217" type="person">Jülicher</rs>, <rs ref="#tillich_person_id__2270" type="person">B. Weiß</rs> und <rs ref="#tillich_person_id__2180" type="person">Zahn</rs> gemeinsam durcharbeite, was
                natürlich viel Zeit in Anspruch nimmt. – Überhaupt ist das Problem, das richtige
                Verhältnis zwischen Gründlichkeit und Behältlichkeit herauszubekommen. Ersteres ist
                natürlich ungleich sympatischer, aber fürs Examen unpraktisch. Dir gehts ja ebenso! –
-               Mittwoch bis Freitag war mein <rs type="person" ref="#tillich_person_id__1295"
-                  >Lbfx</rs> hier, der von <rs ref="#tillich_place_id__211" type="place"
-                  >Hinterpommern</rs> zurückkam; wir waren noch sehr nett 2 Tage zusammen;
-               vielleicht fahre ich noch auf ein paar Tage zu <rs ref="#tillich_person_id__1635"
-                  type="person">Spatz</rs> – Der Rundbrief hat einen verheißungsvollen Anfang
+               Mittwoch bis Freitag war mein <rs ref="#tillich_person_id__1295" type="person">Lbfx</rs> hier, der von <rs ref="#tillich_place_id__211" type="place">Hinterpommern</rs> zurückkam; wir waren noch sehr nett 2 Tage zusammen;
+               vielleicht fahre ich noch auf ein paar Tage zu <rs ref="#tillich_person_id__1635" type="person">Spatz</rs> – Der Rundbrief hat einen verheißungsvollen Anfang
                genommen. Hoffentlich bist Du mit den Statuten einverstanden. Jedenfalls kann die
                Ordnung bleiben. Die Predigt hatte ich meiner<pb n="4"/>
-               <rs type="person" ref="#tillich_person_id__644">Schwester</rs> gegeben und vergessen,
-               mitzuschicken! – das <sic>"<foreign xml:lang="lat">donum superadditum </foreign> ist
-                  also das "Menschentyp"</sic>; ich bin neugierig, ob dies gefällt; es ist glänzend
-               getroffen, aber etwas blaß. – Ich hoffte, <rs type="person"
-                  ref="#tillich_person_id__1696">Hermann</rs> würde noch nach <rs
-                  ref="#tillich_place_id__293" type="place">Misdroy</rs> mitkommen; er hatte seine
-               Lust ausgesprochen und es würde ihm sehr gut tun. – Dienstag macht <rs
-                  ref="#tillich_person_id__310" type="person">Fr. Büchsel</rs> sein II<hi rend="sup"
-                  >tes</hi> Examen! – Soll ich noch aktiv werden? Augenblicklich schwankt die Wage
-               sehr nach "ja". Besonders mein <rs ref="#tillich_person_id__1924" type="person"
-                  >Vater</rs> wünschts. – <rs type="person" ref="#tillich_person_id__1050"
-                  >Albert</rs> muß es noch; ich habe die <hi rend="u">heimliche</hi>!! (nichts
+<rs ref="#tillich_person_id__644" type="person">Schwester</rs> gegeben und vergessen,
+               mitzuschicken! – das <sic><q><foreign xml:lang="lat">donum superadditum </foreign> ist
+                  also das </q><q>Menschentyp</q></sic>; ich bin neugierig, ob dies gefällt; es ist glänzend
+               getroffen, aber etwas blaß. – Ich hoffte, <rs ref="#tillich_person_id__1696" type="person">Hermann</rs> würde noch nach <rs ref="#tillich_place_id__293" type="place">Misdroy</rs> mitkommen; er hatte seine
+               Lust ausgesprochen und es würde ihm sehr gut tun. – Dienstag macht <rs ref="#tillich_person_id__310" type="person">Fr. Büchsel</rs> sein II<hi rend="sup">tes</hi> Examen! – Soll ich noch aktiv werden? Augenblicklich schwankt die Wage
+               sehr nach ja. Besonders mein <rs ref="#tillich_person_id__1924" type="person">Vater</rs> wünschts. – <rs ref="#tillich_person_id__1050" type="person">Albert</rs> muß es noch; ich habe die <hi rend="u">heimliche</hi>!! (nichts
                sagen!) Hoffnung, ihn zum x<note type="ea">Als X bezeichnet man einen Erstchargierten oder Fux. Der X fungiert als Sprecher der Verbindung.</note> zu machen; nach 3 Wochen wird ein neuer gewählt! Es wäre
                für ihn und <rs ref="#tillich_place_id__37" type="place">Berlin</rs> famos! Nicht
                wahr? – Schreibe an meine Berliner Adresse! Es wird alles sofort nachgeschickt! – Und
                zwar bald!!! </p>
-            <closer>
-               <salute>Herzlichen Geburtstagsgruß sendet Dein</salute>
-               <signed>treuer <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<salute>Herzlichen Geburtstagsgruß sendet Dein</salute>
+<signed>treuer <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

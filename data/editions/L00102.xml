@@ -1,99 +1,93 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00102">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Hermann Schafft an Paul Tillich <lb/>vom 29. März 1906 </title>
-            <author ref="#tillich_person_id__1696">Hermann Schafft</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00102" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Hermann Schafft an Paul Tillich <lb/>vom 29. März 1906 </title>
+<author ref="#tillich_person_id__1696">Hermann Schafft</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008 G</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008 G</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
-               <date when="1906-03-29">29.03.1906</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2023-02-20" who="PS">Initiale Auszeichnung des Transkripts</change>
-         <change when="2024-02-06" who="EL">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><date when="1906-03-29">29. März 1906</date></dateline>
-               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person"
-                  >Paul</rs>!!</salute>
-            </opener>
-            <p>Ehe sich meine Briefschuld vergrößert oder die baldige Aussicht auf ein Wiedersehen
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
+<date when="1906-03-29">29.03.1906</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-02-20" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-02-06" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><date when="1906-03-29">29. März 1906</date></dateline>
+<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!!</salute>
+</opener>
+<p>Ehe sich meine Briefschuld vergrößert oder die baldige Aussicht auf ein Wiedersehen
                nicht mehr solches Faulenzen (Briefschreiben) zuläßt – da natürlich, als ob es Berg
-               ab ginge in den Ferien die Steine (alias Probleme,) die man wälzen wollte, <del
-                  rend="s">sich</del> alle dem Ende zugerollt sind und hier eine hohe Mauer <add
-                  place="superlinear">bildet</add> den armen Menschen mit guten Vorsätzen schrecken
-               u. erdrücken – also ehe ... das geschieht, einen herzlichen Gruß zuvor! <foreign
-                  xml:lang="grc">χαρις και αληθεiα</foreign>! Du mußt ja nach Anleitung von <rs
-                  ref="#tillich_person_id__1527" type="person">Portig</rs> beinahe dabei sein. <hi
-                  rend="uu">Finde</hi> nur nicht die Wahrheit, denn was sollten wir sonst mit unsrer
+               ab ginge in den Ferien die Steine (alias Probleme,) die man wälzen wollte, <del rend="s">sich</del> alle dem Ende zugerollt sind und hier eine hohe Mauer <add place="superlinear">bildet</add> den armen Menschen mit guten Vorsätzen schrecken
+               u. erdrücken – also ehe ... das geschieht, einen herzlichen Gruß zuvor! <foreign xml:lang="grc">χαρις και αληθεiα</foreign>! Du mußt ja nach Anleitung von <rs ref="#tillich_person_id__1527" type="person">Portig</rs> beinahe dabei sein. <hi rend="uu">Finde</hi> nur nicht die Wahrheit, denn was sollten wir sonst mit unsrer
                Zeit anfangen, die mit dem Suchen sich so schön<pb n="2"/> füllt! – Doch ich will
                nicht anfangen Dummheiten zu reden. Nach einem derartig stilistisch, orthographisch
                u. sonst glänzendem Opus Deinerseits<note type="ea">Gemeint ist ein nicht
@@ -103,61 +97,50 @@
                meiner Geistlosigkeit herzustellen. Alle meine Gedanken? Kannst du's zählen? Nur bis
                2! 1) <hi rend="u">Essen</hi> pp. 2) <hi rend="u">Examen</hi>. D. h. letzteres ist
                kein eigentlicher – geht nur <foreign xml:lang="lat"><hi rend="aq">sub
-                  voce</hi></foreign>! – ist eigentlich nur eine von den "Dunkeln Vorstellungen" ...
+                  voce</hi></foreign>! – ist eigentlich nur eine von den <q>Dunkeln Vorstellungen</q> ...
                Denen die <foreign xml:lang="lat"><hi rend="aq">perspicuitas</hi></foreign> mangelt
                ... ein Grenzbegriff, wo alles Denken in unendliche Reihe von Seufzern sich auflöst
                und eine akute Gehirnlähmung sofort den ganzen Menschen erschüttert....<pb n="3"/>
-               Wie preise ich Dich glücklich, daß du schon im IV Semester die <foreign
-                  xml:lang="lat"><hi rend="aq">mera experientia</hi></foreign> hast – u. dazu noch
+               Wie preise ich Dich glücklich, daß du schon im IV Semester die <foreign xml:lang="lat"><hi rend="aq">mera experientia</hi></foreign> hast – u. dazu noch
                   <rs ref="#tillich_person_id__1527" type="person">Portig</rs>!! Denn letzteres ist
-               das wichtigste. Die erste hätte ich auch schon begrifflich im II Semester; da<del
-                  rend="s">s</del> ich aber damals gerade realistischer Thomist war, so begnügte ich
-               mich, <del rend="s">sowohl</del> mit der Realität meiner Einsicht, <del rend="s"
-                  >als</del> eben weil ich dazu dem Verstand über den Willen den Primat gewährte u.
+               das wichtigste. Die erste hätte ich auch schon begrifflich im II Semester; da<del rend="s">s</del> ich aber damals gerade realistischer Thomist war, so begnügte ich
+               mich, <del rend="s">sowohl</del> mit der Realität meiner Einsicht, <del rend="s">als</del> eben weil ich dazu dem Verstand über den Willen den Primat gewährte u.
                hoffte – es würde von selbst schon losgehen....</p>
-            <p>Dies sind also meine beiden eigentlich 1 <formula notation="TeX"
-                  >\frac{1}{2}</formula> Gedanken! Damit kann ich aber unmöglich beginnen, sondern
+<p>Dies sind also meine beiden eigentlich 1 <formula notation="TeX">\frac{1}{2}</formula> Gedanken! Damit kann ich aber unmöglich beginnen, sondern
                ich verkrieche mich hinter den Denkfalten deines Briefes u. sehe dich gar gelehrt
-               daraus an... staune tatsächlich über deinen Fleiß. Das Kollegheft von <rs
-                  ref="#tillich_person_id__1227" type="person">Smul</rs> muß ja mit all den Beigaben
+               daraus an... staune tatsächlich über deinen Fleiß. Das Kollegheft von <rs ref="#tillich_person_id__1227" type="person">Smul</rs> muß ja mit all den Beigaben
                unendlich anschwillen! – Bitte tröste<pb n="4"/> mich u. schreibe, daß es nicht so
                viel §§ sind, die Du schon behandelt. Dein Psalmodieren oder Weissagen zusammen mit
-                  <rs ref="#tillich_person_id__2136" type="person">Kaumann</rs> (<rs
-                  ref="#tillich_person_id__1928" type="person">Tillich</rs> u. <rs
-                  ref="#tillich_person_id__2136" type="person"><hi rend="uu">Kau</hi></rs>) muß ja
+                  <rs ref="#tillich_person_id__2136" type="person">Kaumann</rs> (<rs ref="#tillich_person_id__1928" type="person">Tillich</rs> u. <rs ref="#tillich_person_id__2136" type="person"><hi rend="uu">Kau</hi></rs>) muß ja
                nett sein. Laßt es doch drucken u. setzt dann den obigen Firmennamen drunter. Mensch
-               a propos <rs ref="#tillich_person_id__2136" type="person">Kaumann</rs> sollte mal <rs
-                  ref="#tillich_person_id__1227" type="person">Smul</rs> in die Hände kommen! Der
-               fluchte neulich als ich es ihm anonym!! erzählte.... "Daß ich immer dasselbe sage
-               verdrießt mich nicht" pp.!... Aber das lange Aufsitzen! Ich bin ja leider keine
+               a propos <rs ref="#tillich_person_id__2136" type="person">Kaumann</rs> sollte mal <rs ref="#tillich_person_id__1227" type="person">Smul</rs> in die Hände kommen! Der
+               fluchte neulich als ich es ihm anonym!! erzählte.... <q>Daß ich immer dasselbe sage
+               verdrießt mich nicht</q> pp.!... Aber das lange Aufsitzen! Ich bin ja leider keine
                offizielle Respe<del rend="s">c</del>ktsperson für Dich, aber mein lieber Junge...
                   <hi rend="uu">gut</hi> ist das <hi rend="uu">nicht</hi>! Schlaf lieber. Ich tu es
                in einem fort. Glaube beinah, ich bin zuckerkrank, dabei tut man's nämlich auch.</p>
-            <p>Im übrigen aber freue ich mich herzlich, daß allem Anschein nach alles gut bei Dir in
+<p>Im übrigen aber freue ich mich herzlich, daß allem Anschein nach alles gut bei Dir in
                Ordnung ist. Das ist schon sehr viel. Ich bin seit vorgestern in Unordnung. Meine
                ganze Versöhnungslehre hat sich<pb n="5"/> verwickelt. Ich wollte eine Predigt machen
                über <rs ref="Heb-9,11-15" type="bible">Hebraeer: 9 11-15</rs> u.
-                  <unclear>¿¿¿</unclear> ... Donnerstag-Freitag und es wurde absolut <hi rend="u"
-                  >nichts</hi>. Was soll das später werden. Ich bin ziemlich geknickt – es ist ja
+                  <unclear>¿¿¿</unclear> ... Donnerstag-Freitag und es wurde absolut <hi rend="u">nichts</hi>. Was soll das später werden. Ich bin ziemlich geknickt – es ist ja
                immer gut in allen Stücken gedemütigt sein, aber ich bin es schon ziemlich. Na – ich
                warte in Ruhe ab u. denke es wird noch wieder zu korrigieren sein! – Vielleicht hängt
-               es innerlich doch zusammen mit der Lektüre von <rs ref="#tillich_person_id__890"
-                  type="person">Herrmanns</rs>
-               <rs ref="#tillich__T3R5EMHW" type="work">Verkehr</rs>, der mich, sowohl durch
+               es innerlich doch zusammen mit der Lektüre von <rs ref="#tillich_person_id__890" type="person">Herrmanns</rs>
+<rs ref="#tillich__T3R5EMHW" type="work">Verkehr</rs>, der mich, sowohl durch
                Windmühlenfechterei als aber auch durch geschickte Art u. ernste geistige
                Christlichkeit geradezu verblüffte.. Es ist eine wieder zu früh herausgelassene
                Taube... ich flattere über den theologischen Richtungen und krieche mich dann doch
                lieber in meine Arche – zurück!... Aber was ist das, wenn auch Erfahrung dabei ist u.
                auch schadhafte (kindliche)<pb n="6"/> Stellen ausgebessert sind – ein fester
-               Fußboden ist es noch nicht und ehe man den hat, ist es eben sehr schwer. <hi rend="u"
-                  >Es</hi> denkt u. <hi rend="u">es</hi> wächst zu sehr – aber wenn man noch nicht
+               Fußboden ist es noch nicht und ehe man den hat, ist es eben sehr schwer. <hi rend="u">Es</hi> denkt u. <hi rend="u">es</hi> wächst zu sehr – aber wenn man noch nicht
                sagen kann <hi rend="u">ich</hi> denke oder bin gedacht – je nachdem – da ists noch
                nichts. Eine Einheit im Denken Tun Wollen muß zu Stande kommen u. Denken u. Glauben
                natürlich auch. – Doch stopp.. Nun kannst Du Dir vielleicht denken, daß in
                Situationen in denen man Ruhe u. Freiheit braucht – um noch zu lesen u. zu denken –
                der Gedanke an das bestimmte Ziel und der sich eindrängende ohne Wahrheitsfrage doch
                teilweise zu traktierende Stoff einem das Leben sauer macht. –</p>
-            <p>Im übrigen aber bin ich natürlich<pb n="7"/> fröhlich, sowie wirs uns zum Semester
+<p>Im übrigen aber bin ich natürlich<pb n="7"/> fröhlich, sowie wirs uns zum Semester
                hin u. her gewünscht haben. Und ich hoffe auch noch einiges bis zum Ferienschluß
                schaffen zu können. Bisher war's noch nicht viel. Raum u. Zeit stören... Auch lockt
                Sonne und Wald – <foreign xml:lang="lat"><hi rend="aq">horribile dictu</hi></foreign>
@@ -168,26 +151,21 @@
                Wort noch ... Ich bin unter die <foreign xml:lang="grc">ειρηνοποιοι</foreign>
                gegangen. Bei der späteren Kirchenschlacht, da will ich wacker mitkämpfen aber nur
                lieber jetzt dazu die Zähne schärfen,<pb n="8"/> als Mäuse im Wingolf zu gebären.
-               Dieses "lächerliche Mäuslein" wird ja vielleicht ganz leicht nun kommen, nach dem wir
-               genug gewerkelt haben, aber .... .... erst jetzt habe ich gesehen, <hi rend="u"
-                  >wie</hi> das ganze "Hermann" – <unclear>fauler</unclear> Junge steht. Und wenn
+               Dieses <q>lächerliche Mäuslein</q> wird ja vielleicht ganz leicht nun kommen, nach dem wir
+               genug gewerkelt haben, aber .... .... erst jetzt habe ich gesehen, <hi rend="u">wie</hi> das ganze <q>Hermann</q> – <unclear>fauler</unclear> Junge steht. Und wenn
                Professoren noch so ...... sind, ... dann ist jeder Kampf aus. Ich werde jetzt aufs
-               Übertölpeln gehn, d.h. einfache Pädagogik: obs kapiert wird oder nicht... <hi
-                  rend="aq">nota bene</hi> – Wenn ich nötig bin. Sonst ist Wille da – der hat schon
-               die Zügel ganz ordentlich – Der kl. <rs ref="#tillich_person_id__1050" type="person"
-                  >Kilger</rs> schrieb eine Karte. Wieviel hast du korrespondiert? Ich könnte noch
+               Übertölpeln gehn, d.h. einfache Pädagogik: obs kapiert wird oder nicht... <hi rend="aq">nota bene</hi> – Wenn ich nötig bin. Sonst ist Wille da – der hat schon
+               die Zügel ganz ordentlich – Der kl. <rs ref="#tillich_person_id__1050" type="person">Kilger</rs> schrieb eine Karte. Wieviel hast du korrespondiert? Ich könnte noch
                Bände schreiben – aber was nützt's? Ich freue mich der Gemeinschaft mit Dir u. grüße
                Dich von Herzen </p>
-            <closer>
-               <signed>D. <rs ref="#tillich_person_id__1696" type="person">H.</rs></signed>
-            </closer>
-            <postscript>
-               <p>Grüßest Du die lb. Deinen. bes. Deinen l. <rs ref="#tillich_person_id__1924"
-                     type="person">Vater</rs>!! Deiner <rs ref="#tillich_person_id__644"
-                     type="person">sister</rs> kannst sagen: es sei lediglich Selbstironie auf dem
+<closer>
+<signed>D. <rs ref="#tillich_person_id__1696" type="person">H.</rs></signed>
+</closer>
+<postscript>
+<p>Grüßest Du die lb. Deinen. bes. Deinen l. <rs ref="#tillich_person_id__1924" type="person">Vater</rs>!! Deiner <rs ref="#tillich_person_id__644" type="person">sister</rs> kannst sagen: es sei lediglich Selbstironie auf dem
                   Typ... ich sei durchaus harmlos pp. Natürlich freue ich mich </p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

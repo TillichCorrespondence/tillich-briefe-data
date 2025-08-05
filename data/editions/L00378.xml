@@ -1,113 +1,109 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00378">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Maria Rhine an Paul Tillich <lb/>vom 6. November 1913</title>
-            <author ref="#tillich_person_id__1594">Maria Rhine</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00378" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Maria Rhine an Paul Tillich <lb/>vom 6. November 1913</title>
+<author ref="#tillich_person_id__1594">Maria Rhine</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">Wien</placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                  <idno>bMS 649/178</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS 649/178</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1594">Maria Rhine</persName>
-               <placeName ref="#tillich_place_id__41">Lichtenrade</placeName>
-               <date when="1913-11-06">06.11.1913</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-         <change when="2023-11-18" who="AA">Initiale Auszeichnung des Transkripts</change>
-         <change when="2025-03-03" who="EL">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__41" type="place">Lichtenrade</rs>, <date
-                     when="1913-11-06">6. Nov. 13</date>. </dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person"
-                  >Tillich</rs>,</salute>
-            </opener>
-            <p> ich komme von der einen Frage nicht los. Vielleicht können Sie mir einiges darüber
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1594">Maria Rhine</persName>
+<placeName ref="#tillich_place_id__41">Lichtenrade</placeName>
+<date when="1913-11-06">06.11.1913</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2023-11-18" who="AA">Initiale Auszeichnung des Transkripts</change>
+<change when="2025-03-03" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__41" type="place">Lichtenrade</rs>, <date when="1913-11-06">6. Nov. 13</date>. </dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>,</salute>
+</opener>
+<p> ich komme von der einen Frage nicht los. Vielleicht können Sie mir einiges darüber
                sagen. In <rs ref="#tillich_person_id__1717" type="person">Schleiermachers</rs>
-               <rs type="work" ref="#tillich__RHFJ7E35">Reden über Religion</rs> fand ich eine
+<rs ref="#tillich__RHFJ7E35" type="work">Reden über Religion</rs> fand ich eine
                Stelle, wo gesagt wird das Höchste, das Ein und Alles der Religion sei es, alles im
                Gefühl uns Bewegende in seiner höchsten Einheit als ein u. dasselbe zu fühlen, und
                alles einzelne und besondern nur hierdurch vermittelt, <hi rend="u">also unser Sein
                   und Leben, als ein Sein u. Leben in uns durch Gott.</hi> Gefährlich sei es, u. auf
-               dem Gebiete der Religion sicher nur leere Mythologie, die Gottheit als <hi rend="u"
-                  >einen abgesonderten, einzelnen Gegenstand</hi> hinzustellen. Mythologie sei hier
+               dem Gebiete der Religion sicher nur leere Mythologie, die Gottheit als <hi rend="u">einen abgesonderten, einzelnen Gegenstand</hi> hinzustellen. Mythologie sei hier
                nicht nur die Vorstellung göttlicher Personen, sondern nach <hi rend="u">jede strenge
                   Lehrform</hi>, wo irgend etwas als in <sic>in</sic> dem göttlichen Wesen
                geschehend dargestellt wird oder auch göttliche Ratschlüsse, welche in Bezug auf
                irgend etwas in der Welt geschehenes gefaßt werden, nichts zu sagen von den einzelnen
                göttlichen Ratschlüssen, welche dem Begriff der Gebetserhörung seine Realität
-                  geben.<sic>"</sic> – – An sich ist mir das alles sehr klar u. ich glaube, daß es
+                  geben.<sic/> – – An sich ist mir das alles sehr klar u. ich glaube, daß es
                sich so verhält. – Aber man betet natürlich dann nur, um <del rend="s">ein</del> mit
                Gott eine Vereinigung zu erleben. Warum aber betet man doch immer um tausenderlei
                Dinge, die doch mit dem Verhältnis zu Gott garnichts zu <pb n="2"/> tun haben. Das
                einzig wirkliche Gebet wäre doch, darum zu bitten, daß man an Gott glauben kann,
-               wovon wir neulich sprachen. Andrerseits ist das doch noch kein <hi rend="u"
-                  >Einssein</hi> mit Gott. – Manchmal kommt es mir so vor, als ob Gott viel zu hoch
+               wovon wir neulich sprachen. Andrerseits ist das doch noch kein <hi rend="u">Einssein</hi> mit Gott. – Manchmal kommt es mir so vor, als ob Gott viel zu hoch
                sei, um überhaupt mit solch irdischen Dingen sich zu befassen, die doch im letzten
                Grunde wesenslos sind. Aber mehr neige ich zu der Ansicht, daß Gott unser ganzes
                Leben so mit lebt, daß er auch irdische Dinge versteht. Natürlich kommt dann der
@@ -118,17 +114,16 @@
                im Hauptgedanken verstanden haben. Wollen Sie mir nicht bald schriftlich antworten,
                denn (was man schwarz auf weiß besitzt...) was man geschrieben hat, kann man sich
                besser durchdenken. – Dann noch eine Bitte: Schenken Sie mir doch, wenn es Ihnen
-               möglich ist, Ihre Arbeit über <rs ref="#tillich_person_id__1705" type="person"
-                  >Schelling</rs> und Ihre Photographie. Ich möchte so gern irgend ein Andenken an
+               möglich ist, Ihre Arbeit über <rs ref="#tillich_person_id__1705" type="person">Schelling</rs> und Ihre Photographie. Ich möchte so gern irgend ein Andenken an
                Sie haben. – Sehen Sie, so kommen immer tausend Fragen, die man so gern besprechen
                möchte. Wollen Sie mir in solchen Fällen manchmal helfen oder soll ich Sie da auch
                entbehren? Nein, bleiben Sie mir da <hi rend="u">wenigstens</hi>. </p>
-            <closer>
-               <salute>In Eile herzliche Grüße</salute>
-               <signed>Ihre <rs type="person" ref="#tillich_person_id__1594">Maria
+<closer>
+<salute>In Eile herzliche Grüße</salute>
+<signed>Ihre <rs ref="#tillich_person_id__1594" type="person">Maria
                   Klein</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

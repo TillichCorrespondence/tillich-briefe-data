@@ -1,95 +1,93 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01294">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 21. Januar 1922</title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01294" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 21. Januar 1922</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">Wien</placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                        <institution>Harvard</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                        <idno>bMS 721/2(18)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/2(18)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <date when="1922-01-21">21.01.1922</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-                    <placeName ref="#tillich_place_id__74">Bremen</placeName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-            <change when="2023-02-03" who="AA">Initiale Auszeichnung des Transkripts</change>
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener>
-                    <dateline><date when="1922-01-21"><add resp="#tillich_person_id__1923"
-                                >21.01.1922</add></date>
-                    </dateline>
-                    <salute>Liebe <rs ref="#tillich_person_id__1923" type="person"
-                        >Hannah</rs>!</salute>
-                </opener>
-                <p> Dein ganzer langer Brief<note type="ea">Liegt nicht vor.</note> von heut war
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1922-01-21">21.01.1922</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+<placeName ref="#tillich_place_id__74">Bremen</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2023-02-03" who="AA">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><date when="1922-01-21"><add resp="#tillich_person_id__1923">21.01.1922</add></date>
+</dateline>
+<salute>Liebe <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p> Dein ganzer langer Brief<note type="ea">Liegt nicht vor.</note> von heut war
                     überflüssig; denn er war ein Mißverständnis. Ich habe weder die Absicht gehabt,
                     Dich zu überrumpeln, dann <del>ich</del> hätte ich anders am Telephon
-                    gesprochen; noch hatte ich an "Liebesnacht" gedacht; dann hätte ich Dich
+                    gesprochen; noch hatte ich an <q>Liebesnacht</q> gedacht; dann hätte ich Dich
                     überhaupt nicht angerufen; denn ich mache nicht mal geringere Frauen bloß zum
                     Mittel. Sondern ich wollte mich seelisch stärken an Dir, da ich jetzt immer sehr
                     müde und traurig bin; und ich wollte Dir zeigen, daß ich Dich liebe, nachdem ich
@@ -99,25 +97,18 @@
                     war mir ziemlich gleichgültig und ich war keinen Augenblick enttäuscht, empfand
                     es so gar fast als eine Erleichterung. – In Deinem Brief<note type="ea">Liegt
                         nicht vor.</note>
-                    <unclear cert="high">weht</unclear> etwas der Geist <rs
-                        ref="#tillich_person_id__643" type="person">Trudchens</rs>. Ich möchte aber
+<unclear cert="high">weht</unclear> etwas der Geist <rs ref="#tillich_person_id__643" type="person">Trudchens</rs>. Ich möchte aber
                     bemerken, daß <hi rend="u">ich</hi> es war, der Bremen abgesagt<pb n="2"/> hat.
                     Sogleich bin ich natürlich vollkommen mit Dir einverstanden; aber ich habe das
-                    Gefühl, daß in der Ferne <hi rend="u">meine</hi> Gedanken in <rs
-                        ref="#tillich_person_id__643" type="person"><hi rend="u">Trudchens</hi></rs>
-                    Worten mir entgegentreten. – Bitte erwähne die <unclear cert="medium"
-                        >Sepsa</unclear>-Angelegenheit nicht mehr! Sie wird mit jedem Male größer
+                    Gefühl, daß in der Ferne <hi rend="u">meine</hi> Gedanken in <rs ref="#tillich_person_id__643" type="person"><hi rend="u">Trudchens</hi></rs>
+                    Worten mir entgegentreten. – Bitte erwähne die <unclear cert="medium">Sepsa</unclear>-Angelegenheit nicht mehr! Sie wird mit jedem Male größer
                     und – unwirklicher. Es war ein zu fernes Schwingen eines Gefühlsmomentes, um
                     mehr als ein <hi rend="u">einmaliges</hi> flüchtiges Berührtwerden durch das
                     Wort ertragen zu können. Das darfst Du in dichterischer Form tun, nicht in
-                    realer. – Ich freue mich, daß Du im März noch in <rs ref="#tillich_place_id__74"
-                        type="place">Bremen</rs> bleiben kannst; ich hatte nie die Absicht, den März
-                    dort zu sein; und auch nicht im April – wenn Du <add place="superlinear"
-                        >dann</add> noch da sein kannst. – Gespräche mit <rs
-                        ref="#tillich_person_id__2041" type="person">M. L.</rs> beziehen sich nur
+                    realer. – Ich freue mich, daß Du im März noch in <rs ref="#tillich_place_id__74" type="place">Bremen</rs> bleiben kannst; ich hatte nie die Absicht, den März
+                    dort zu sein; und auch nicht im April – wenn Du <add place="superlinear">dann</add> noch da sein kannst. – Gespräche mit <rs ref="#tillich_person_id__2041" type="person">M. L.</rs> beziehen sich nur
                     auf technische Fragen, in denen sie uns eine unentbehrliche Hülfe ist, vor allem
-                    Deinen <rs type="person" ref="#tillich_person_id__2039"><rs
-                            ref="#tillich_person_id__2040" type="person">Eltern</rs></rs> gegenüber.
+                    Deinen <rs ref="#tillich_person_id__2039" type="person"><rs ref="#tillich_person_id__2040" type="person">Eltern</rs></rs> gegenüber.
                     Ich <hi rend="u">bitte</hi> Dich deswegen: Schreibe ihr öfters; zeige ihr, daß
                     sie auch Dein Vertrauen hat! – Sonst rede ich überhaupt nicht über unsere Sache,
                     wie ich auch überhaupt wenige Menschen sah und sehe. Ich bin trotz allem
@@ -125,7 +116,7 @@
                     die ich selbst am besten weiß! Die Über-Arbeit verzehrt langsam meine Kraft;
                     unser Leben mußt Du mehr tragen als ich. – – Dein Brief,<note type="ea">Liegt
                         nicht vor.</note>
-                    <del>war</del> den <rs type="person" ref="#tillich_person_id__1696">H.
+<del>war</del> den <rs ref="#tillich_person_id__1696" type="person">H.
                         Schafft</rs> mir brachte, war mir eine unerschöpfliche Freude. Ich bin mit
                     ihm eingeschlafen und aufgewacht. Ich danke Dir dafür, denn das ist es, wovon
                     ich noch lebe! Ach <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>,
@@ -134,16 +125,14 @@
                     alles positive Unglück ein Spiel und alles positive Glück ein Träumchen ist?
                     Kann eine Frau das wissen? Ich weiß es nicht; aber als Du Deinen zweiten
                         Brief<note type="ea">Liegt nicht vor.</note> schriebst, da wußtest Du es
-                    nicht. – Einer hat es ganz verstanden, <rs ref="#tillich_person_id__1696"
-                        type="person">Hermann Schafft</rs>, der alles wie ich durchgemacht hat, der
+                    nicht. – Einer hat es ganz verstanden, <rs ref="#tillich_person_id__1696" type="person">Hermann Schafft</rs>, der alles wie ich durchgemacht hat, der
                     noch mehr wie ich, in der Kriegshölle war, und der mir sagte, daß auch er
                     ständig fühlte, daß wir Geretteten das Leben nur noch als Wunder, zum Leiden,
                     und nicht für uns hätten; das ist Hochmut; aber großer Schmerz macht hochmütig,
                     weil er alles entwertet. – Ich habe mich mit<pb n="4"/> ihm verstanden, wie noch
                     nie mit jemand; es war für uns beide wie ein Wunder und ein Geschenk. Ich hielt
                     den Vortrag nur für ihn und er hatte das volle Ja dazu; er ist ganz befreit;
-                    auch in erotischen Dingen ist er viel freier, als <rs
-                        ref="#tillich_person_id__641" type="person">Frede</rs> denkt, und doch
+                    auch in erotischen Dingen ist er viel freier, als <rs ref="#tillich_person_id__641" type="person">Frede</rs> denkt, und doch
                     selbst Asket. Auch er hat alle Teufel in sich, und kann darum einem Engel
                     gleichsein – wie Du; wir haben gar nicht über Dich gesprochen. Nur als ich nach
                         <rs ref="#tillich_person_id__643" type="person">Trudchen</rs> fragte, sagte
@@ -152,13 +141,12 @@
                     ich habe das Gefühl, daß das etwas Großes sein könnte; daß wenn Führer wie er,
                     die Jugendbewegung in die Hand bekommen, etwas daraus werden kann für die
                     Religionsgeschichte. Wie klein ist demgegenüber die Frage nach einer
-                    theologischen Professur u. degl. – <rs ref="#tillich_person_id__1923" type="person"
-                        >Hannah</rs> schreibe so oft Du kannst; um diese
+                    theologischen Professur u. degl. – <rs ref="#tillich_person_id__1923" type="person">Hannah</rs> schreibe so oft Du kannst; um diese
                     kleine Hilfe darf ich Dich bitten? Ja?</p>
-                <closer>
+<closer>
                     Dein <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-                </closer>
-            </div>
-        </body>
-    </text>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

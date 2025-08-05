@@ -1,95 +1,95 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00134">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Alfred Fritz <lb/>von 1907 </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00134" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Alfred Fritz <lb/>von 1907 </title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008C</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008C</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__328">ohne Ort</placeName>
-               <date when="1907">1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2022-08-25" who="AB">Initiale Auszeichnung des Transkripts</change>
-         <change when="2022-09-01" who="AB">Überprüfung und Ergänzung der Auszeichnungen</change>
-         <change when="2024-02-13" who="EL">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <salute>Lieber <rs ref="#tillich_person_id__641" type="person">Alfred</rs>!</salute>
-            </opener>
-            <p>So schwer mir sonst das Briefeschreiben wird, so sehr habe ich mich darauf gefreut
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__328">ohne Ort</placeName>
+<date when="1907">1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-08-25" who="AB">Initiale Auszeichnung des Transkripts</change>
+<change when="2022-09-01" who="AB">Überprüfung und Ergänzung der Auszeichnungen</change>
+<change when="2024-02-13" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Lieber <rs ref="#tillich_person_id__641" type="person">Alfred</rs>!</salute>
+</opener>
+<p>So schwer mir sonst das Briefeschreiben wird, so sehr habe ich mich darauf gefreut
                heute einmal 2 Stunden Zeit dazu zu haben, allerdings keine Minute mehr! Wieweit ich
                zurückgreifen müßte, um den Faden der Korrespondenz in lückenlosem Parallelismus zum
                Faden der Ereignisse zu bringen, was ja wohl das Ideal ist, das kann ich nicht mehr
-               sagen. Im Voraus möchte ich bemerken, daß der "Persönlichkeitsgehalt", den ein Brief
+               sagen. Im Voraus möchte ich bemerken, daß der <q>Persönlichkeitsgehalt</q>, den ein Brief
                ja mitteilen soll, rein sachlich orientiert ist. Und diese Bemerkung, die man auf
                Deutsch eine Moralische nennt, ist zugleich sein Hauptinhalt. Die vollkommene
                Unfähigkeit, neben den sachlichen Beziehungen, Personen, etc. Geist zur Füllung des
@@ -103,84 +103,62 @@
                schön, solange er verbunden ist mit dem Bewußtsein der Fähigkeit und er ist drückend,
                sobald er auf Mangel an Besitz stößt. Und in dieser Zwitterstellung befinde ich mich
                augenblicklich. Viel Freude machen mir z. B. die Pauken, Konvente, selbst die
-               Statutenrevision<!-- <note type="ea">Statutenrevision</note>-->, u.s.w. Daß sie aber
+               Statutenrevision &lt;note type=<q>ea</q>&gt;Statutenrevision&lt;/note&gt;, u.s.w. Daß sie aber
                in so großer Fülle kommen, daß Zeit und Kraft dadurch fast ganz in Anspruch genommen
                ist, das ist das Traurige dabei. Darum wird mir der persönliche Verkehr bei Kaffee
-               etc. nicht ganz leicht. Soll und Haben! – Entschuldige diese Auseinandersetzung, <pb
-                  n="3"/>aber sie <del rend="s">mach</del> war mir mal ganz lieb. Was sagst Du dazu?
-               –<lb/> Doch nun der Beweis, d.h. die Tatsachen! Was die <rs
-                  ref="#tillich_place_id__467" type="place">Wartburg</rs> betrifft, so bin ich
+               etc. nicht ganz leicht. Soll und Haben! – Entschuldige diese Auseinandersetzung, <pb n="3"/>aber sie <del rend="s">mach</del> war mir mal ganz lieb. Was sagst Du dazu?
+               –<lb/> Doch nun der Beweis, d.h. die Tatsachen! Was die <rs ref="#tillich_place_id__467" type="place">Wartburg</rs> betrifft, so bin ich
                natürlich durchaus pessimistisch. <hi rend="u">Nichts</hi> haben sie kapiert. Kein
-               Mensch weiß warum der Aktivitätszwang<!--<note type="ea">Aktivitätszwang</note>-->
+               Mensch weiß warum der Aktivitätszwang&lt;note type=<q>ea</q>&gt;Aktivitätszwang&lt;/note&gt;
                aufgehoben ist, kein Mensch weiß, was wir wollen, alles pennt weiter, nur noch
-               ungehinderter! Das Wingolfsideal, soweit es nicht Phrase ist, kennt man selbst in <rs
-                  ref="#tillich_place_id__189" type="place">Halle</rs> kaum mehr! (Ich meine in
+               ungehinderter! Das Wingolfsideal, soweit es nicht Phrase ist, kennt man selbst in <rs ref="#tillich_place_id__189" type="place">Halle</rs> kaum mehr! (Ich meine in
                Beziehung auf den Bund.) Darum war es mir lieb, als die Heidelberger Unverschämtheit
                Gelegenheit zum Necken und – unter dem Siegel der tiefsten Verschwiegenheit –
-               eventuell noch zum Krachen gab. Heute kam ein Brief v. <rs
-                  ref="#tillich_place_id__203" type="place">Hdg</rs>, worin es sich wundert, daß <rs
-                  ref="#tillich_place_id__189" type="place">Halle</rs> nicht schon längst die
-               "Konsequenz" gezogen hätte. In Bezug auf mein <foreign xml:lang="grc">θυμός</foreign>
-               bin ich durchaus damit einverstanden. Das noch schwankende <foreign xml:lang="grc"
-                  >πνεῦμα</foreign> wird sich bei der ersten, wirklich passenden Gele<pb n="4"
-               />genheit auch dafür entscheiden! – Was unsre Konvente betrifft, so wirst Du schon
+               eventuell noch zum Krachen gab. Heute kam ein Brief v. <rs ref="#tillich_place_id__203" type="place">Hdg</rs>, worin es sich wundert, daß <rs ref="#tillich_place_id__189" type="place">Halle</rs> nicht schon längst die
+               <q>Konsequenz</q> gezogen hätte. In Bezug auf mein <foreign xml:lang="grc">θυμός</foreign>
+               bin ich durchaus damit einverstanden. Das noch schwankende <foreign xml:lang="grc">πνεῦμα</foreign> wird sich bei der ersten, wirklich passenden Gele<pb n="4"/>genheit auch dafür entscheiden! – Was unsre Konvente betrifft, so wirst Du schon
                darüber Berichte gehört haben. Ich stehe ja da auf dem Standpunkt, daß der Konvent
                auch ein Ort zur Aussprache ist, und zwar der geeignetste. Infolge dessen haben wir
                nach der <rs ref="#tillich_place_id__467" type="place">Wartburg</rs> im Anschluß an
-               die Pauke von Ph. <rs type="person" ref="#tillich_person_id__2859">Bertheau</rs>
+               die Pauke von Ph. <rs ref="#tillich_person_id__2859" type="person">Bertheau</rs>
                sämtliche praktischen Verbindungsorthodoxismen durchgesprochen und bei dieser
-               Gelegenheit verschiedene Augiasställe gründlich gereinigt. Die Luft, auch "der Wind
-               von Gryps" ist jetzt einigermaßen rein. Und Du schreibst ja selber, daß <rs
-                  ref="#tillich_place_id__189" type="place">Halle</rs> jetzt bleiben muß! – Das
+               Gelegenheit verschiedene Augiasställe gründlich gereinigt. Die Luft, auch <q>der Wind
+               von Gryps</q> ist jetzt einigermaßen rein. Und Du schreibst ja selber, daß <rs ref="#tillich_place_id__189" type="place">Halle</rs> jetzt bleiben muß! – Das
                geistige Leben wuchert jetzt üppig empor in den verschiedenartigsten G.+C.s und
-               begabten Kaffees etc. – Gestern war Trauerkneipe für <rs
-                  ref="#tillich_person_id__2189" type="person">Scheurich</rs>, sehr feierlich und
-               würdig, aber für mich innerlich sehr anstrengend. Sonntag war ich nach <rs
-                  ref="#tillich_place_id__143" type="place">Frankfurt</rs> gefahren. Um 10 früh
+               begabten Kaffees etc. – Gestern war Trauerkneipe für <rs ref="#tillich_person_id__2189" type="person">Scheurich</rs>, sehr feierlich und
+               würdig, aber für mich innerlich sehr anstrengend. Sonntag war ich nach <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> gefahren. Um 10 früh
                Montag war die Beerdigung, wo ich auch eine<pb n="5"/> kurze Pauke hatte und dann
                Band und Kouleur nachwarf. Es ist zu traurig! Es ist ziemlich sicher, daß schon in
                seinem Fuxmajorsemester die Wurzeln der Krankheit liegen. Sicher waren wir oft nicht
                ganz gerecht gegen ihn! – Heute habe ich <add place="superlinear">wieder</add>
                Vertretersitzung der 4 Gruppen auf meiner Bude betreffend Fackelzugs. Bis jetzt sehr
-               zahme Leute. Lose Buben und Katholiken hauen sich und wir spielen den <hi rend="aq"
-                     ><foreign xml:lang="lat">tertius gaudens</foreign></hi>. – Sicher sehen wir uns
+               zahme Leute. Lose Buben und Katholiken hauen sich und wir spielen den <hi rend="aq"><foreign xml:lang="lat">tertius gaudens</foreign></hi>. – Sicher sehen wir uns
                also wieder in <rs ref="#tillich_place_id__418" type="place">Straßburg</rs>; und ich
                hoffe, daß Du aus Dank zum Stiftungsfest kommen wirst. Diesmal <hi rend="u">gibts
                   keine Ausrede</hi>! Und wenn Du eine zu haben glaubst, so schreibe sie zur
                Widerlegung, aber sofort!! Was als solche <hi rend="u">nicht</hi> gilt, weißt Du ja!
-               – Daß ich Dienstag in <rs ref="#tillich_place_id__19" type="place">Hersfeld</rs><pb
-                  n="6"/> war, hat Dir wohl <rs ref="#tillich_person_id__1696" type="person"
-                  >Hermann</rs> schon geschrieben.<note type="ea">Vgl. <rs ref="L00175"
-                     type="letter">Brief von Hermann Schafft an Paul Tillich vom 13. Juli
-                  1907</rs>.</note> Es war eine Erquickung für Leib und Seele! –<lb/> Mein <rs
-                  ref="#tillich_person_id__1295" type="person">Leibfux</rs> ist ein famoser Kerl,
+               – Daß ich Dienstag in <rs ref="#tillich_place_id__19" type="place">Hersfeld</rs><pb n="6"/> war, hat Dir wohl <rs ref="#tillich_person_id__1696" type="person">Hermann</rs> schon geschrieben.<note type="ea">Vgl. <rs ref="L00175" type="letter">Brief von Hermann Schafft an Paul Tillich vom 13. Juli
+                  1907</rs>.</note> Es war eine Erquickung für Leib und Seele! –<lb/> Mein <rs ref="#tillich_person_id__1295" type="person">Leibfux</rs> ist ein famoser Kerl,
                aber nicht gerade einfach; er hat sehr viel mit sich zu tun, ist leidenschaftlich und
                äußerst empfindsam, ohne davon viel zu sagen, so daß die plötzlichen, oft
                unerwarteten Ausbrüche schwer zu behandeln und zu verstehen sind. Leider kann ich
                nicht so oft mit ihm zusammen sein, wie ich es gern täte. Vor allem aber lieben wir
                uns gegenseitig sehr! –<lb/> Mit meiner Frau<note type="ea">Bezeichnung für einen Mitbewohner.</note> stehe ich sehr gut, nur verbietet sie
                mir zu viel. Famos ist das Verhältnis der drei Verehrlichen, namentlich mit dem
-               Fuxmajor wird alles vorher besprochen. <rs ref="#tillich_person_id__1635"
-                  type="person">Spatz</rs>, den ich immer lieber gewinne (intensiver Verkehr), läßt
-               Euch beide <hi rend="u">herzlichst</hi> grüßen! –<pb n="7"/> Sage bitte <rs
-                  ref="#tillich_person_id__2170" type="person">Daniel</rs>, ob er etwas von den
+               Fuxmajor wird alles vorher besprochen. <rs ref="#tillich_person_id__1635" type="person">Spatz</rs>, den ich immer lieber gewinne (intensiver Verkehr), läßt
+               Euch beide <hi rend="u">herzlichst</hi> grüßen! –<pb n="7"/> Sage bitte <rs ref="#tillich_person_id__2170" type="person">Daniel</rs>, ob er etwas von den
                alten Büchern im <choice><abbr>A-H-C</abbr><expan>Alt-Häuser-Collegium</expan></choice><note type="ea">Gremium, das die Beschlüsse des Convents vorbereitet.</note>-Zimmer mit den alten Silhouetten (Orthogr. schwach!) weiß! Er
-               hat sie gehabt, jetzt sind sie verschwunden! – An <rs ref="#tillich_person_id__1050"
-                  type="person">Albert</rs> speciell: Er soll sich endlich entscheiden und die
-               moralische Tat tun, mir mitzuteilen, daß er im nächsten Semester nach <rs
-                  ref="#tillich_place_id__37" type="place">Berlin</rs> kommt. <rs
-                  ref="#tillich_person_id__204" type="person">Johannes</rs> ist ganz mit
+               hat sie gehabt, jetzt sind sie verschwunden! – An <rs ref="#tillich_person_id__1050" type="person">Albert</rs> speciell: Er soll sich endlich entscheiden und die
+               moralische Tat tun, mir mitzuteilen, daß er im nächsten Semester nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> kommt. <rs ref="#tillich_person_id__204" type="person">Johannes</rs> ist ganz mit
                einverstanden! Ich gehe noch mal so erleichtert aus dem Semester, wenn ich es genau
-               weiß! Bitte recht schnell und wäre es auch nur eine Postkarte mit dem <hi rend="u"
-                  >Wörtchen "ja"</hi>!! <lb/>Im übrigen ist der Brief an <del rend="s">be</del> Euch
+               weiß! Bitte recht schnell und wäre es auch nur eine Postkarte mit dem <hi rend="u">Wörtchen <q>ja</q></hi>!! <lb/>Im übrigen ist der Brief an <del rend="s">be</del> Euch
                beide gerichtet und gemeinsam zu lesen! Ob ich vor dem Stiftungsfest noch zu einem
                komme, weiß ich nicht! </p>
-            <closer>
-               <salute>Bis dahin herzliche Grüße</salute>
-               <signed>Euer treuer <rs ref="#tillich_person_id__1928" type="person"
-                  >Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<salute>Bis dahin herzliche Grüße</salute>
+<signed>Euer treuer <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

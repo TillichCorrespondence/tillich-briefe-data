@@ -1,95 +1,93 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00114">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Hermann Schafft an Paul Tillich <lb/>vom 19. August 1907</title>
-            <author ref="#tillich_person_id__1696">Hermann Schafft</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00114" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Hermann Schafft an Paul Tillich <lb/>vom 19. August 1907</title>
+<author ref="#tillich_person_id__1696">Hermann Schafft</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008G</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008G</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
-               <placeName ref="#tillich_place_id__485">Hersfeld</placeName>
-               <date when="1907-08-19">19.08.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-03-02">Initiale Auszeichnung des Transkripts</change>
-         <change who="NH" when="2024-01-30">Vorbereitung/Korrektur für die Endabnahme</change>
-         <change who="EL" when="2024-03-13">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__208" type="place">Hersfeld</rs>, den <date
-                     when="1907-08-19">19. VIII.</date></dateline>
-               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person"
-                  >Junge</rs>,</salute>
-            </opener>
-            <p>heute ist <rs ref="#tillich_person_id__1050" type="person">Albert</rs>, den ein
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
+<placeName ref="#tillich_place_id__485">Hersfeld</placeName>
+<date when="1907-08-19">19.08.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-03-02" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-01-30" who="NH">Vorbereitung/Korrektur für die Endabnahme</change>
+<change when="2024-03-13" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__208" type="place">Hersfeld</rs>, den <date when="1907-08-19">19. VIII.</date></dateline>
+<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Junge</rs>,</salute>
+</opener>
+<p>heute ist <rs ref="#tillich_person_id__1050" type="person">Albert</rs>, den ein
                Magenübel länger hier hielt, das mich jetzt in etwas andrer Form plagt – abgereist u.
                so habe ich wenig Zeit Dir meine Wünsche zu schicken, da heute Nachmittag Besuch
                machen u. anderer Vertrieb folgt. Ich bin auch noch nicht so zur extensiven Ruhe
@@ -102,55 +100,45 @@
                etwas leisten dürfen – das ganze Jahr ist überhaupt ein reiches gewesen – sonderlich
                der Sommer u. Du wirst wohl<pb n="3"/> sehr dankbar sein. Hoffentlich gelingt Dir die
                Conzentration für Dich so gut wie die Conz... im Dienst des <figure>
-                  <figDesc>[Darstellung: Wingolfzirkel.]</figDesc>
-               </figure>! Von Statutenrevisionen<!-- <note type="ea">Statutenrevision</note>--> bist
+<figDesc>[Darstellung: Wingolfzirkel.]</figDesc>
+</figure>! Von Statutenrevisionen &lt;note type=<q>ea</q>&gt;Statutenrevision&lt;/note&gt; bist
                Du frei u. Kirchengeschichtstabellen werden sie ersetzen. Ich freue mich schon auf
                den ersten Deiner Briefe, wo Du mir schreibst, daß Dich die Arbeit begeistert.</p>
-            <p>Wie gern sähe ich Dich hier!! Aber ich fürchte fast es geht nicht. Augenblicklich muß
+<p>Wie gern sähe ich Dich hier!! Aber ich fürchte fast es geht nicht. Augenblicklich muß
                ich meine ganze Kraft auf Vorbereitung zur Silberhochzeit<pb n="4"/> lenken – u. bin
                auch ruhebedürftig nach dem (doch anstrengenden) <unclear>Nach</unclear>semester.
                Dann wird das Haus zu voll! Aber schreib' mir doch Deine Reisepläne; vielleicht
                geht's doch. Auf Deinen Brief freue ich mich sehr – er ist nachgerade ein Buch
                geworden, wenn er da anfängt mit Erzählen wo er z. ersten Mal versprochen wurde.
-               Bitte vergiß im <sic>Repertoir</sic> nicht Deinen <rs type="person"
-                  ref="#tillich_person_id__673">Lbfx</rs>, – Deine Familie, u. – <hi rend="aq"
-                  >nolens volens</hi> den Juden – wenn was interessantes von ihm zu sagen ist. <hi
-                  rend="uu">Wo</hi> ist <rs type="person" ref="#tillich_person_id__310"
-                  >Friedrich</rs>?<pb n="5"/>
-               <hi rend="u">Dir</hi> u. ihm <hi rend="u">herzlichsten</hi> Dank für den <rs
-                  type="work" ref="#tillich__EDIF8PIL"><rs type="person"
-                     ref="#tillich_person_id__1291">Medikus</rs></rs>. <rs
-                  ref="#tillich_person_id__1050" type="person">Albert</rs> hat z. Teil mitgenossen.
-               Im übrigen erhältst Du über <rs ref="#tillich_person_id__1050" type="person"
-                  >Alberts</rs> u. <rs ref="#tillich_person_id__128" type="person">H B.</rs>
+               Bitte vergiß im <sic>Repertoir</sic> nicht Deinen <rs ref="#tillich_person_id__673" type="person">Lbfx</rs>, – Deine Familie, u. – <hi rend="aq">nolens volens</hi> den Juden – wenn was interessantes von ihm zu sagen ist. <hi rend="uu">Wo</hi> ist <rs ref="#tillich_person_id__310" type="person">Friedrich</rs>?<pb n="5"/>
+<hi rend="u">Dir</hi> u. ihm <hi rend="u">herzlichsten</hi> Dank für den <rs ref="#tillich__EDIF8PIL" type="work"><rs ref="#tillich_person_id__1291" type="person">Medikus</rs></rs>. <rs ref="#tillich_person_id__1050" type="person">Albert</rs> hat z. Teil mitgenossen.
+               Im übrigen erhältst Du über <rs ref="#tillich_person_id__1050" type="person">Alberts</rs> u. <rs ref="#tillich_person_id__128" type="person">H B.</rs>
                hiersein – auf Wunsch noch genaueren Bericht. Es war schade, daß er
-                  <unclear>Rocuck</unclear> u. ich unwohl war, so hat die Physis das <foreign
-                  xml:lang="grc">πνευμα</foreign> eingeschränkt; wir qualmten mehr als wir
+                  <unclear>Rocuck</unclear> u. ich unwohl war, so hat die Physis das <foreign xml:lang="grc">πνευμα</foreign> eingeschränkt; wir qualmten mehr als wir
                leuchteten. Aber warm war's doch!! –</p>
-            <p>Ist das Typ nicht sehr sinnig und nett? –</p>
-            <p>Alter Junge, ich wäre gern bei Dir u. vermisse doch manchmal die gemeinsamen
+<p>Ist das Typ nicht sehr sinnig und nett? –</p>
+<p>Alter Junge, ich wäre gern bei Dir u. vermisse doch manchmal die gemeinsamen
                   Nachtbummel<pb n="6"/> u. Sitzungen auf Deiner alten u. warmen Bude! – Wir haben
                uns doch manchmal aneinander beruhigt! Jetzt sind’s bald 3 Jahr, daß ich Dich von
                ferne z. ersten Mal sah! –</p>
-            <p>Ich habe immer noch ein schlechtes Gewissen – wegen Deiner Erzählungen von allzu
+<p>Ich habe immer noch ein schlechtes Gewissen – wegen Deiner Erzählungen von allzu
                schlechter Behandlung im Anfang. –</p>
-            <p>Daß das Kleeblattbild nichts wurde – ist mir untröstlich. Morgen werde ich oft an
+<p>Daß das Kleeblattbild nichts wurde – ist mir untröstlich. Morgen werde ich oft an
                Dich denken. Bitte schick'<pb n="7"/> umgehend sämtliche anständigen Typs von Dir!
                Ich habe noch <hi rend="uu">Keins</hi>!! (sic!!) Nun schreib' mal wirklich einen
                persönlich netten Brief an mich!!</p>
-            <p>Verleb den Tag nett!</p>
-            <p>Leb wohl!</p>
-            <p>Verzeih Kürze u. Flüssigkeit aber ich habe keine Zeit!</p>
-            <closer>
-               <salute>Von Herzen bin u. bleibe ich</salute>
-               <signed>Dein <rs ref="#tillich_person_id__1696" type="person">Hermann</rs></signed>
-            </closer>
-            <postscript>
-               <p>Grüß Deine lb. Familie sehr von mir. Der Gruß D. <rs ref="#tillich_person_id__644"
-                     type="person">Schwester</rs> sollte wohl nach der Klammer zu schließen nur zum
+<p>Verleb den Tag nett!</p>
+<p>Leb wohl!</p>
+<p>Verzeih Kürze u. Flüssigkeit aber ich habe keine Zeit!</p>
+<closer>
+<salute>Von Herzen bin u. bleibe ich</salute>
+<signed>Dein <rs ref="#tillich_person_id__1696" type="person">Hermann</rs></signed>
+</closer>
+<postscript>
+<p>Grüß Deine lb. Familie sehr von mir. Der Gruß D. <rs ref="#tillich_person_id__644" type="person">Schwester</rs> sollte wohl nach der Klammer zu schließen nur zum
                   Weitergeben sein?</p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

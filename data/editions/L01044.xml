@@ -1,125 +1,123 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01044">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Alfred Fritz an Paul Tillich <lb/>vom 11. Dezember 1929</title>
-            <author ref="#tillich_person_id__641">Alfred Fritz</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01044" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Alfred Fritz an Paul Tillich <lb/>vom 11. Dezember 1929</title>
+<author ref="#tillich_person_id__641">Alfred Fritz</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/143(18)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-               <additional>
-                  <listBibl>
-                     <biblStruct n="firstPrint" type="monograph">
-                        <monogr>
-                           <author>Paul Tillich</author>
-                           <title>Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge,
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/143(18)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct n="firstPrint" type="monograph">
+<monogr>
+<author>Paul Tillich</author>
+<title>Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge,
                               Berichte</title>
-                           <edition>1. Auflage</edition>
-                           <imprint>
-                              <publisher>Renate Albrecht und Margot Hahl</publisher>
-                              <pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
-                              <date when="1980">1980</date>
-                              <biblScope>189f.</biblScope>
-                           </imprint>
-                        </monogr>
-                        <series>
-                           <title>Gesammelte Werke. Ergänzungs- und Nachlaßbände</title>
-                           <biblScope>Band 5&gt;</biblScope>
-                        </series>
-                     </biblStruct>
-                  </listBibl>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+<edition>1. Auflage</edition>
+<imprint>
+<publisher>Renate Albrecht und Margot Hahl</publisher>
+<pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
+<date when="1980">1980</date>
+<biblScope>189f.</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Gesammelte Werke. Ergänzungs- und Nachlaßbände</title>
+<biblScope>Band 5&gt;</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
-               <placeName ref="#tillich_place_id__434">Teltow</placeName>
-               <date when="1929-12-11">11.12.1929</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-09-07">Initiale Auszeichnung des Transkripts</change>
-         <change who="FS" when="2024-02-21">Endabnahme</change>
-
-
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener><dateline>
-                  <rs ref="#tillich_place_id__434" type="place">Teltow</rs>. <date when="1929-12-11">11.XII.29.</date></dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
-            </opener>
-            <p>Als ich kürzlich nach einem nicht gerade überragenden Vortrag von <rs ref="#tillich_person_id__1227" type="person">Lütgert</rs> über "Lutherrenaissance"<note type="ea">Nicht ermittelt.</note> mit ihm sprach u. er mich
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+<placeName ref="#tillich_place_id__434">Teltow</placeName>
+<date when="1929-12-11">11.12.1929</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-07" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-02-21" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline>
+<rs ref="#tillich_place_id__434" type="place">Teltow</rs>. <date when="1929-12-11">11.XII.29.</date></dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+</opener>
+<p>Als ich kürzlich nach einem nicht gerade überragenden Vortrag von <rs ref="#tillich_person_id__1227" type="person">Lütgert</rs> über <q>Lutherrenaissance</q><note type="ea">Nicht ermittelt.</note> mit ihm sprach u. er mich
                nach den langen Jahren wieder aus dem Gedächtnis hervorholte, sagt er: Sie sind doch
-               der <rs ref="#tillich_person_id__641" type="person">Fritz</rs> dem <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> sein neues <rs ref="#tillich__9C4WYQAG" type="work">Buch</rs> gewidmet hat.<sic>"</sic><note type="ea">Die Widmung lautet: "<rs ref="#tillich_person_id__1696" type="person">Hermann Schafft</rs> und <rs ref="#tillich_person_id__641" type="person">Alfred Fritz</rs> nach 25 Jahren" (P. Tillich, Religiöse Verwirklichung, 3).</note> Er freute sich sehr, daß er mir
+               der <rs ref="#tillich_person_id__641" type="person">Fritz</rs> dem <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> sein neues <rs ref="#tillich__9C4WYQAG" type="work">Buch</rs> gewidmet hat.<sic><q/></sic><note type="ea">Die Widmung lautet: <rs ref="#tillich_person_id__1696" type="person">Hermann Schafft</rs> und <rs ref="#tillich_person_id__641" type="person">Alfred Fritz</rs> nach 25 Jahren<q> (P. Tillich, Religiöse Verwirklichung, 3).</q></note> Er freute sich sehr, daß er mir
                als Erstem diese Kunde sagte u. über mein Erstaunen. Und nun kam heute Dein <rs ref="#tillich__9C4WYQAG" type="work">Buch</rs> u.
                wenn es eigentlich auch erst unter den Weihnachtsbaum gehört, so muß ich Dir doch
                gleich für dies Zeichen Deiner Freundestreue danken. Es ist so sinnig, daß Du so die
                Laokoon-Gruppe nach 25 Jahren wieder aufstehen läßt. Hoffentlich sind wir Beide
                Deinem Buch so gute Schutzheilige, wie wir Dir sicher das Leben lang treue Freunde
                bleiben werden.<pb n="2"/></p>
-            <p>Aber ich denke, es hat das gar nicht nötig. Ich habe gleich heute in den mir
+<p>Aber ich denke, es hat das gar nicht nötig. Ich habe gleich heute in den mir
                teilweise unbekannten Aufsätzen gelesen u. es hat mich interessiert wie ein
                spannender Roman. Es ist Dir wohl zum ersten Mal gelungen ganz schwere u. neue
                Gedanken ganz klar und plastisch zu sagen z.B. im <rs ref="#tillich__G387S88R" type="work">Augustinvortrag</rs>, aber auch in den
@@ -129,38 +127,36 @@
                dicke Haut auf seine Reise durch Kritikerstuben u. Studentenbuden u. daß es in seiner
                tapferen Sachlichkeit mithelfe, daß ein glückliches, kommendes Geschlecht wieder ganz
                in der Welt u ganz in der Kirche stehen darf u. nicht bloß auf der Grenze.</p>
-            <p>Eigentlich bekam ich einen Schrecken als ich die 25 las u. daß unsere Freundschaft
+<p>Eigentlich bekam ich einen Schrecken als ich die 25 las u. daß unsere Freundschaft
                nun schon Silberjubiläum feiert.<pb n="3"/></p>
-            <p>Man wird alt. Und ich habe nicht wie Du u. <rs ref="#tillich_person_id__1696" type="person">Hermann</rs>
-               führende Bücher geschrieben, sondern bisher nur einige "<unclear>Duralien</unclear>"
+<p>Man wird alt. Und ich habe nicht wie Du u. <rs ref="#tillich_person_id__1696" type="person">Hermann</rs>
+               führende Bücher geschrieben, sondern bisher nur einige <unclear>Duralien</unclear>
                hervorgebracht. So verschieden ist das Schicksal. Aber einander sind wir wenigstens
                zum Schicksal geworden, Du in <rs ref="#tillich_person_id__644" type="person">Johanna</rs>, u. wir
                wieder in <rs ref="#tillich_person_id__1931" type="person">Greti</rs>; so ist unser Leben eng
                ineinandergewoben ganz abgesehen vom Schimmer, daß wir auf den so verschiedenen
                Lebenswegen uns immer verstehen und in jeder Begegnung ohne Fremdheit am Vergangenen
                anknüpfen können.</p>
-            <p>Bei uns ist jetzt schon mächtig Weihnachtsbetrieb<supplied>.</supplied> <rs ref="#tillich_person_id__643" type="person">Trude</rs> packt für unsere 15 Patenkinder. Unsere 4 sind auch voll
+<p>Bei uns ist jetzt schon mächtig Weihnachtsbetrieb<supplied>.</supplied> <rs ref="#tillich_person_id__643" type="person">Trude</rs> packt für unsere 15 Patenkinder. Unsere 4 sind auch voll
                Weihnachtswünschen. Es ist gut, daß sie sich noch so freuen können. Ich bin immer
                froh, wenn Weihnacht vorüber ist. Es ist mir doch mit zuviel Erinnerung belastet. Und
                es ist auch durch all den Betrieb stark entleert. Aber mit den Kindern ists doch
                schön, nur müßtest Du wie so manchmal uns den Baum schmücken.<pb n="4"/></p>
-            <p>Hoffentlich geht es euch Beiden u. auch <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs>
+<p>Hoffentlich geht es euch Beiden u. auch <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs>
                gut. Mir haben die Tage am Meer sehr viel Erholung gebracht u. ich hoffe Dir auch
                trotz Deines einsiedlerischen Fleißes. Das Bild des Asketen zwischen dem Heidekraut
                im braunen Büßergewand u. schwarzen Rittermantel wird mir unlösbar gut Deinem <rs ref="#tillich__9C4WYQAG" type="work">Buch</rs>
                gehörig in der Erinnerung bleiben.</p>
-            <p>Viel schöne Tage hat uns die Gemeinschaft der 25 Jahre
+<p>Viel schöne Tage hat uns die Gemeinschaft der 25 Jahre
                gebracht u. in trüben u. stürmischen ein geborgenes Plätzchen. Hoffentlich bleibts
                immer so. Du bist ja unter großem Reichthum von Menschen. In meinem Leben ists still
                geworden u. die Zeit des Geöffnetseins für neue Menschen ist wohl fast vorüber. Da
                hält man um so fester die paar Erprobten fest u weiß was man dran hat. Alles Gute
                mein lieber Junge. Grüße <rs ref="#tillich_person_id__1923" type="person">Hanna</rs>.</p>
-            <closer><salute>Herzlich Dein</salute>
-               <signed><rs ref="#tillich_person_id__641" type="person">Frede</rs></signed>
-            </closer>
-
-         </div>
-
-      </body>
-   </text>
+<closer><salute>Herzlich Dein</salute>
+<signed><rs ref="#tillich_person_id__641" type="person">Frede</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

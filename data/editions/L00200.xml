@@ -1,93 +1,93 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00200">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Hermann Schafft an Paul Tillich <lb/>vom 26. August 1907</title>
-            <author ref="#tillich_person_id__1696">Hermann Schafft</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00200" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Hermann Schafft an Paul Tillich <lb/>vom 26. August 1907</title>
+<author ref="#tillich_person_id__1696">Hermann Schafft</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008 G</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008 G</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
-               <placeName ref="#tillich_place_id__485">Hersfeld</placeName>
-               <date when="1907-08-26">26.08.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-04-07">Initiale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2024-02-07">Vorbereitende Endabnahme</change>
-         <change who="EL" when="2024-02-07">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__208" type="place">Hersfeld</rs>, <date when="1907-08-26">26.VIII.07</date> Schafft, c. th</dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
-            </opener>
-            <p>Schönen Dank für Deine Epistula<note type="ea">Nicht überliefert.</note>. Verzeih,
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
+<placeName ref="#tillich_place_id__485">Hersfeld</placeName>
+<date when="1907-08-26">26.08.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-04-07" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-02-07" who="PS">Vorbereitende Endabnahme</change>
+<change when="2024-02-07" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__208" type="place">Hersfeld</rs>, <date when="1907-08-26">26.VIII.07</date> Schafft, c. th</dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
+</opener>
+<p>Schönen Dank für Deine Epistula<note type="ea">Nicht überliefert.</note>. Verzeih,
                wenn ich es nicht unterlasse, Dir eine Karte, die an dem Tage wo Dein Brief ankam
                abgehen sollte, – Dir doch noch zu schicken. Ich hoffe, daß ich bei den unheimlichen
                Vorsätzen – genau die <rs ref="#tillich_person_id__788" type="person">v. H'</rs>s –
@@ -99,7 +99,7 @@
                ganz silbernen Hochzeitsvorbereitungen widmen möchte, entlastet zu<pb n="2"/> sein.
                Ich bemerke, daß es Dir absolut nicht schaden kann, wenn Du 2x nacheinander schreibst
                – so wie ich es im verflossenen Semester besorgt habe. –</p>
-            <p>Deine Fantasie vom Dom, dem Allerheiligsten u. den Vorhöfen habe ich nicht ohne
+<p>Deine Fantasie vom Dom, dem Allerheiligsten u. den Vorhöfen habe ich nicht ohne
                Rührung nachzuempfinden versucht. – Mit geringem Erfolg. Es sei denn, daß Du den
                jüdischen Tempel vor seiner Reinigung im Sinne gehabt hättest; aber dann stimmts
                wieder nicht, da in den Vorhöfen das Spektakel am größten u. im Allerheiligsten
@@ -109,7 +109,7 @@
                die Ausbeute von außen bedeutend reicher als von i<del rend="s">h</del>nnen. Wie
                lange wird's dauern bis Du singst – nur eine hohe Säule zeugt von versunkener
                Pracht... –</p>
-            <p>D. h. es wird so, daß Dein Hals sachte aber bestimmt herumgedreht wird! Es geht
+<p>D. h. es wird so, daß Dein Hals sachte aber bestimmt herumgedreht wird! Es geht
                unheimlich schnell – andere Gesichtspunkte, andere Interessen etc. – das einzige, was
                hoffentlich bleibt ist das Prinzip und ein paar Menschen. Aber auch deren Zahl
                schrumpft zusammen. Ich sehe schon die Zeit voraus, wo <rs ref="#tillich_person_id__641" type="person">Frede</rs>, <unclear>Sbretz</unclear>
@@ -124,7 +124,7 @@
                zu leben. Ich habe <rs ref="#tillich_person_id__1050" type="person">Albert</rs> sehr
                abgeraten vom Aktiv werden. Geh' Du mit gutem Beispiel voran, das Berl. Band bekommst
                Du so doch auch. – Schreib mir armen Dorfpfarrer etwas von deiner wissenschaftlichen
-               Arbeit. Erzähl mir auch wie es Euch geht. Was macht Dein <rs type="person" ref="#tillich_person_id__1295"><choice><abbr>Lbx</abbr><expan>Leibfuchs</expan></choice></rs>? Hat dir <rs ref="#tillich_person_id__1635" type="person">Spatz</rs> mal geschrieben? Ich wußte
+               Arbeit. Erzähl mir auch wie es Euch geht. Was macht Dein <rs ref="#tillich_person_id__1295" type="person"><choice><abbr>Lbx</abbr><expan>Leibfuchs</expan></choice></rs>? Hat dir <rs ref="#tillich_person_id__1635" type="person">Spatz</rs> mal geschrieben? Ich wußte
                garnicht, daß sein Vater lic. Dr. war! Du? – <rs ref="#tillich_person_id__1635" type="person">Spatzens</rs> Person interessiert mich, wie Du weißt. Direkt erfahre
                ich nichts, also bin ich Dir über jeweilige Nachricht dankbar. Der junge Rundbrief
                ist ja fein. Stilblüten erbitte ich auch!<pb n="5"/> Mein Dasein hier: Predigt,
@@ -155,21 +155,21 @@
                paar centralen Gedanken. Liberalismus <hi rend="u">kann</hi> da einfach nicht
                aufkommen – sofern er Pelagianismus oder minderwertiger Gottesgedanke ist. Sterben
                müssen ist eben doch keine Kleinigkeit...</p>
-            <p>Meine Jünglinge machen mir Freude. Ich hoffe mit der Zeit engere Fühlung mit ihnen zu
+<p>Meine Jünglinge machen mir Freude. Ich hoffe mit der Zeit engere Fühlung mit ihnen zu
                kriegen. Eine Schwierigkeit durch Couleurtragen und Alkohol gibts bei uns nicht. Das
                ist eine ganz ungeheure Erleichterung. Mit <hi rend="u">allen</hi> fühlt man<pb n="8"/> sich verbunden weil das <foreign xml:lang="grc">δι ενος παντα</foreign> wirklich gemeinsame Grundlage ist. Mehr als
                je scheinen mir Bibelkränzchen u. ähnl. für den <unclear>Weg-Gang</unclear> außerordentlich wichtig. –</p>
-            <p>Meinem <hi rend="aq">corpus</hi> geht's noch nicht gut. Weißt du, was "Einlauf" ist –
+<p>Meinem <hi rend="aq">corpus</hi> geht's noch nicht gut. Weißt du, was <q>Einlauf</q> ist –
                ich denke – das ist mein täglich Brod. Aber meine Därme wollen noch nicht – d. h. ich
                hoffe von Tag zu Tag auf Besserung. – Das unangenehme sind beständige Kopfschmerzen
                als Begleiterscheinung.</p>
-            <p>Nun leb wohl mein alter lieber Junge! Schreib mir bald – u. viel!! Lesen kann ich
+<p>Nun leb wohl mein alter lieber Junge! Schreib mir bald – u. viel!! Lesen kann ich
                noch. </p>
-            <closer>
-               <salute>Den Deinigen herzl. Grüße</salute>
-               <signed>Dir vor Allen in Tr Dein <rs ref="#tillich_person_id__1696" type="person">Hermann</rs></signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<salute>Den Deinigen herzl. Grüße</salute>
+<signed>Dir vor Allen in Tr Dein <rs ref="#tillich_person_id__1696" type="person">Hermann</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

@@ -1,139 +1,134 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00135">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Alfred Fritz <lb/>von 1907 (Herbst)</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00135" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Alfred Fritz <lb/>von 1907 (Herbst)</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008C</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-               <additional>
-                  <listBibl>
-                     <biblStruct type="monograph" n="firstPrint">
-                        <monogr>
-                           <author>Paul Tillich</author>
-                           <editor> Renate Albrecht/Margot Hahl (Hg.)</editor>
-                           <title>Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge,
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008C</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct n="firstPrint" type="monograph">
+<monogr>
+<author>Paul Tillich</author>
+<editor> Renate Albrecht/Margot Hahl (Hg.)</editor>
+<title>Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge,
                               Berichte</title>
-                           <edition>Erste Auflage</edition>
-                           <imprint>
-                              <publisher>Evangelisches Verlagswerk Stuttgart</publisher>
-                              <pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
-                              <date when="1980">1980</date>
-                              <biblScope>44-46</biblScope>
-                           </imprint>
-                        </monogr>
-                        <series>
-                           <title>Ergänzungs- und Nachlassbände zu den Gesammelten Werken von Paul
+<edition>Erste Auflage</edition>
+<imprint>
+<publisher>Evangelisches Verlagswerk Stuttgart</publisher>
+<pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
+<date when="1980">1980</date>
+<biblScope>44-46</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Ergänzungs- und Nachlassbände zu den Gesammelten Werken von Paul
                               Tillich</title>
-                           <biblScope>V</biblScope>
-                        </series>
-                     </biblStruct>
-                  </listBibl>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+<biblScope>V</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date notAfter="1907-11-01" notBefore="1907-09-01">1907 (Herbst)</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2022-09-01" who="AB">Initiale Auszeichnung des Transkripts</change>
-         <change when="2022-10-12" who="AB">Überprüfung und Ergänzung der Auszeichnungen</change>
-         <change when="2023-09-26" who="EL">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <salute>Mein lieber <rs ref="#tillich_person_id__641" type="person"
-                  >Alfred</rs>!</salute>
-            </opener>
-            <p>Fast wage ich es nicht, auf eine Antwort auf Deinen letzten Brief mich einzulassen,
-               denn Dein "Bombardement" hat mir in der Tat Hören und Sehen geraubt. Wenn ich erst so
-               weit wäre, wie Du, und nach überstandener "Not" mich mit Begeisterung in den Geist
-               stürzen könnte, der von <rs ref="#tillich_person_id__1712" type="person"
-                  >Schlatter</rs> auf <hi rend="u">Dich</hi> einströmt, nicht von <rs
-                  ref="#tillich_person_id__1761" type="person">Seeberg</rs> auf mich; denn der ist
-               "modern <del rend="s">bibe</del>(!) positiv", d. h. weder-noch, und äußerst
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date notAfter="1907-11-01" notBefore="1907-09-01">1907 (Herbst)</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-09-01" who="AB">Initiale Auszeichnung des Transkripts</change>
+<change when="2022-10-12" who="AB">Überprüfung und Ergänzung der Auszeichnungen</change>
+<change when="2023-09-26" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Mein lieber <rs ref="#tillich_person_id__641" type="person">Alfred</rs>!</salute>
+</opener>
+<p>Fast wage ich es nicht, auf eine Antwort auf Deinen letzten Brief mich einzulassen,
+               denn Dein <q>Bombardement</q> hat mir in der Tat Hören und Sehen geraubt. Wenn ich erst so
+               weit wäre, wie Du, und nach überstandener <q>Not</q> mich mit Begeisterung in den Geist
+               stürzen könnte, der von <rs ref="#tillich_person_id__1712" type="person">Schlatter</rs> auf <hi rend="u">Dich</hi> einströmt, nicht von <rs ref="#tillich_person_id__1761" type="person">Seeberg</rs> auf mich; denn der ist
+               <q>modern <del rend="s">bibe</del>(!) positiv</q>, d. h. weder-noch, und äußerst
                pathetisch, was in meinem Alter auf die Nerven fällt (abgesehen von dem
                hahnebüchenden Möv, der <rs ref="#tillich_person_id__1050" type="person">Albert</rs>
-               und mich schon mehrmals der Ohnmacht nahe gebracht hat). Das ist also keine "reine
-               Freude" (<rs ref="#tillich_person_id__2091" type="person">Witte</rs>!) und im besten
+               und mich schon mehrmals der Ohnmacht nahe gebracht hat). Das ist also keine <q>reine
+               Freude</q> (<rs ref="#tillich_person_id__2091" type="person">Witte</rs>!) und im besten
                Fall der Tiefpunkt des Tages. Eine viel reinere Freude ist für mich die
                Kirchengeschichte, für die bis zum Ende der alten K.-G. jetzt Eindrücke allgemeiner
                Schächtelchen in meiner Großhirnrinde sind, wenn auch die Füllung bis jetzt nur aus
-               allerhand wirren und <rs ref="#tillich_person_id__1201" type="person">Loofs</rs>-<rs
-                  ref="#tillich_person_id__1112" type="person">Kurtzschen</rs> Brocken besteht. Wie
+               allerhand wirren und <rs ref="#tillich_person_id__1201" type="person">Loofs</rs>-<rs ref="#tillich_person_id__1112" type="person">Kurtzschen</rs> Brocken besteht. Wie
                ich <del rend="s">jet</del> als <pb n="2"/> Tertianer ehrfurchtsvoll staunend die
                Köpfe der Primaner anstarrte, in der Voraussetzung, daß alle unregelmäßigen
                griechischen <del rend="s">W</del> Verben darin sind, so würde ich es jetzt mit jedem
                machen, von dem ich glaubte, daß er den arianischen, donatistischen und
                monophysitischen Streit mit sämtlichen Konzilien und Kerls aufsagen könnte. Und doch
                muß mein eigner Kopf bald Gegenstand solcher Bewunderung sein!! Vor der
-               Dogmengeschichte stehe ich, wie die Kuh vorm neuen Tor, und da es mir <rs
-                  ref="#tillich_person_id__1761" type="person">Seeberg</rs> scheinbar nicht öffnen
-               will, so muß ich es wohl selbst einrennen, was nicht ganz ohne einige "Brüche"
+               Dogmengeschichte stehe ich, wie die Kuh vorm neuen Tor, und da es mir <rs ref="#tillich_person_id__1761" type="person">Seeberg</rs> scheinbar nicht öffnen
+               will, so muß ich es wohl selbst einrennen, was nicht ganz ohne einige <q>Brüche</q>
                abgehen wird. – Daß ich in der Einleitung bis zum Ende der Briefe bald gedrungen bin,
                ist mir eine große Erleichterung, denn es mordet diese Arbeit geradezu meine Zeit, so
                schön sie auch an sich ist. Ist es nicht richtig gedacht, daß man dem
@@ -144,62 +139,45 @@
                   <del rend="s">bei</del> also <del rend="s">Be</del> befangener Arbeit mehr auf die
                Finger sehen muß, ist auch klar. Eine gewisse Ausnahme bildet vielleicht die
                Evangelienkritik, wo auch die Negation ein dogmatisches Interesse hat, obgleich das
-               in hohem Grade ausgeschaltet werden kann. So habe ich neulich <rs
-                  ref="#tillich_person_id__1050" type="person">Albert</rs> gegenüber vertreten, daß
-               es mir, abgesehen von einem "rudimentären Traditionalismus im Gefühl", gleichgültig
+               in hohem Grade ausgeschaltet werden kann. So habe ich neulich <rs ref="#tillich_person_id__1050" type="person">Albert</rs> gegenüber vertreten, daß
+               es mir, abgesehen von einem <q>rudimentären Traditionalismus im Gefühl</q>, gleichgültig
                wäre, von wem das Johannesevangelium stammt. Ich halte das für den einzig
-               evangelischen Standpunkt, so schwer er auch in manchem zu erringen ist. (Daß <rs
-                  ref="#tillich_person_id__2217" type="person">Jülicher</rs> in "Johannes" platt
+               evangelischen Standpunkt, so schwer er auch in manchem zu erringen ist. (Daß <rs ref="#tillich_person_id__2217" type="person">Jülicher</rs> in <q>Johannes</q> platt
                ist, glaube ich auch.). – <rs ref="#tillich_person_id__2091" type="person">Witte</rs>
-               <del rend="s">nahet</del>
-               <add place="superlinear">ist</add> nun, nachdem sich seine frühere Philöse nach <hi
-                  rend="u">theatralischen</hi> Krachscenen bei uns beklagt hatte, daß er "nicht
-               normal" sei, nach Neuenburgerstr. 14a gezogen! Er ist komisch, proletig, begabt wie
+<del rend="s">nahet</del>
+<add place="superlinear">ist</add> nun, nachdem sich seine frühere Philöse nach <hi rend="u">theatralischen</hi> Krachscenen bei uns beklagt hatte, daß er <q>nicht
+               normal</q> sei, nach Neuenburgerstr. 14a gezogen! Er ist komisch, proletig, begabt wie
                immer. Heute ist er mit <rs ref="#tillich_person_id__1050" type="person">Albert</rs>
                im <rs ref="#tillich_place_id__183" type="place">Grunewald</rs>, (ich hatte
-               "Schnupfen"). Was sagst Du zu dem Erlanger Stunk? Es war eine Übereilung und
+               <q>Schnupfen</q>). Was sagst Du zu dem Erlanger Stunk? Es war eine Übereilung und
                Unvorsichtigkeit von <rs ref="#tillich_place_id__189" type="place">Halle</rs>! Wer
                weiß, was daraus noch werden kann! Ich habe sie angeschimpft; <hi rend="u">Denk</hi>
-               <add place="superlinear">(!)</add> hier in <rs ref="#tillich_place_id__37"
-                  type="place">Berlin</rs> ist man sehr gegen sie! – Was den Rundbrief betrifft, so
+<add place="superlinear">(!)</add> hier in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> ist man sehr gegen sie! – Was den Rundbrief betrifft, so
                wollte ich Dich noch bitten, die leeren Bogen an <rs type="person">Hermann</rs> zu
                   <pb n="4"/> schicken; er befindet sich jetzt nach seinem letzten Brief in ziemlich
                gedrückter Stimmung und jede derartige Erquickung wird ihm gut tun. Ich denke, Du
-               kannst das ohne "Konvent" tun; denn erstens würdens alle genehmigen und zweitens
+               kannst das ohne <q>Konvent</q> tun; denn erstens würdens alle genehmigen und zweitens
                wissen sie’s nicht und drittens brauchen sie’s nicht zu wissen! – Eine Herzerquickung
-               ist Vater <rs type="person">Rhein</rs>, der in seinen "liberalisierenden Tendenzen"
+               ist Vater <rs type="person">Rhein</rs>, der in seinen <q>liberalisierenden Tendenzen</q>
                in dauernder Spannung zu seinem alten Herrn steht und uns das mit wahrhaft rührender
                Offenheit erzählt; er ist doch trotz aller unvergänglichen Komik ein Schlemmerkerl! –
                Die 7 Füxe sind nun glücklich untergebracht und wir können uns ihnen jetzt ohne
                Lebensgefahr nähern. Einige scheinen nicht un<del rend="s">ge</del>begabt; neulich
-               bin ich ins <choice><abbr>A-H-C</abbr><expan>Alt-Häuser-Collegium</expan></choice><note type="ea">Gremium, das die Beschlüsse des Convents vorbereitet.</note> gekommen, nachdem auf einer vorhergehenden <del rend="s">d</del> <choice><abbr>p-c</abbr><expan>Personal Convent</expan></choice><note type="ea">Konvent zur Besprechung personeller Angelegenheiten.</note>-Debatte konstatiert <del
-                  rend="s">hät</del> war, daß meine Hallenser Orthodoxie sich bis jetzt als
+               bin ich ins <choice><abbr>A-H-C</abbr><expan>Alt-Häuser-Collegium</expan></choice><note type="ea">Gremium, das die Beschlüsse des Convents vorbereitet.</note> gekommen, nachdem auf einer vorhergehenden <del rend="s">d</del> <choice><abbr>p-c</abbr><expan>Personal Convent</expan></choice><note type="ea">Konvent zur Besprechung personeller Angelegenheiten.</note>-Debatte konstatiert <del rend="s">hät</del> war, daß meine Hallenser Orthodoxie sich bis jetzt als
                unschädlich erwiesen hätte (Konventsgeheimnis!) – Wenn ich aus dem Zustand
                intellektueller Apathie erwacht sein werde, sollst Du einen Deinem ähnlichen Brief
                erhalten: Manches an <rs ref="#tillich_person_id__1712" type="person">Schlatter</rs>
-               ist keinesweg koscher! Aber ich <hi rend="u">kann</hi> jetzt nicht! <hi rend="uu"
-                  >Denken ist schwer</hi>. Heute kam <rs ref="#tillich_person_id__310" type="person"
-                  >Fr Büchsel</rs> durch. Nach <hi rend="u"><rs ref="#tillich_place_id__403"
-                     type="place">Soest</rs></hi>, wo er 1<formula notation="TeX"
-                  >\frac{1}{2}</formula> Jahr mindestens Inspektor am Predigerseminar ist; O <rs
-                  ref="#tillich_person_id__1291" type="person">Medikus</rs>! O <rs
-                  ref="#tillich_place_id__189" type="place">Halle</rs>! O <rs type="person"
-                  >Ritter</rs>! O Frau<note type="ea">Bezeichnung für einen Mitbewohner.</note>!
+               ist keinesweg koscher! Aber ich <hi rend="u">kann</hi> jetzt nicht! <hi rend="uu">Denken ist schwer</hi>. Heute kam <rs ref="#tillich_person_id__310" type="person">Fr Büchsel</rs> durch. Nach <hi rend="u"><rs ref="#tillich_place_id__403" type="place">Soest</rs></hi>, wo er 1<formula notation="TeX">\frac{1}{2}</formula> Jahr mindestens Inspektor am Predigerseminar ist; O <rs ref="#tillich_person_id__1291" type="person">Medikus</rs>! O <rs ref="#tillich_place_id__189" type="place">Halle</rs>! O <rs type="person">Ritter</rs>! O Frau<note type="ea">Bezeichnung für einen Mitbewohner.</note>!
                <rs ref="#tillich_person_id__1050" type="person">Albert</rs> läßt herzlich grüßen!
                Sage <rs ref="#tillich_person_id__203" type="person">Lorenz</rs>, daß ich den
-               Berliner Wingolf <hi rend="u">fast schon lieb</hi> hätte! Er solls mit <rs
-                  ref="#tillich_place_id__448" type="place">Tübingen</rs> ebenso machen! Was macht Dein <rs ref="#tillich_person_id__2197"
-                  type="person">Bruder</rs>? Wie steht er sich mit seinem Leibburschen? Oh <rs
-                  ref="#tillich_person_id__131" type="person">Häfele</rs>! Wenn Du ihn siehst grüße
-               ihn so herzlich, wie möglich! Dito <rs ref="#tillich_person_id__1707" type="person"
-                  >W. Schetelig</rs> und <rs ref="#tillich_person_id__2170" type="person"
-                  >Daniel</rs>. Einen Brief
+               Berliner Wingolf <hi rend="u">fast schon lieb</hi> hätte! Er solls mit <rs ref="#tillich_place_id__448" type="place">Tübingen</rs> ebenso machen! Was macht Dein <rs ref="#tillich_person_id__2197" type="person">Bruder</rs>? Wie steht er sich mit seinem Leibburschen? Oh <rs ref="#tillich_person_id__131" type="person">Häfele</rs>! Wenn Du ihn siehst grüße
+               ihn so herzlich, wie möglich! Dito <rs ref="#tillich_person_id__1707" type="person">W. Schetelig</rs> und <rs ref="#tillich_person_id__2170" type="person">Daniel</rs>. Einen Brief
                bekommt er bald ich schreibe jetzt gern!!! Sage ihm er soll sich auch darin ein
                Vorbild nehmen! (<hi rend="u">Du auch</hi>!)</p>
-            <closer>
-               <salute>Herzlichen Gruß</salute>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<salute>Herzlichen Gruß</salute>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

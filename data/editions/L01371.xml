@@ -1,92 +1,90 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01371">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Hannah Tillich <lb/>von Januar 1921</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01371" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich <lb/>von Januar 1921</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">Wien</placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                  <idno>bMS 721/2(17)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/2(17)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date notBefore="1921-01-01" notAfter="1921-01-31">01.01.1921</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-         <change when="2024-02-02" who="AA">Initiale Auszeichnung des Transkripts</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <salute><note type="ea"> Am oberen Rand des Briefes wurde von fremder Hand
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date notAfter="1921-01-31" notBefore="1921-01-01">01.01.1921</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2024-02-02" who="AA">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute><note type="ea"> Am oberen Rand des Briefes wurde von fremder Hand
                      (wahrscheinlich <rs ref="#tillich_person_id__1923" type="person">Hannah
-                        Tillich</rs>) "Jan. 21" vermerkt.</note>Arme, liebe <rs
-                     ref="#tillich_person_id__1923" type="person">Geliebte</rs>!</salute>
-            </opener>
-            <p> Wie ist es nur möglich, daß Du Dienstag früh noch keinen Brief hattest? Ich hatte
-               ihn Ende der Woche mit "eilt" abgeschickt. Aber es geht manchmal nach <rs
-                  ref="#tillich_place_id__52" type="place">Zehlendorf</rs> sehr langsam. – Heut
+                        Tillich</rs>) <q>Jan. 21</q> vermerkt.</note>Arme, liebe <rs ref="#tillich_person_id__1923" type="person">Geliebte</rs>!</salute>
+</opener>
+<p> Wie ist es nur möglich, daß Du Dienstag früh noch keinen Brief hattest? Ich hatte
+               ihn Ende der Woche mit <q>eilt</q> abgeschickt. Aber es geht manchmal nach <rs ref="#tillich_place_id__52" type="place">Zehlendorf</rs> sehr langsam. – Heut
                Nacht habe ich geschlafen; aber das Fieber ist noch da, und ich möchte nicht
                aufstehen! – Das waren Deine schönsten Verse, die heut früh kamen, und um ihretwillen
                bin ich der Post fast dankbar für ihre Bummelei. Heut <hi rend="u">sah</hi> ich Dich
@@ -97,8 +95,7 @@
                zu bleiben. Tausend andere Anregungen, Menschen und Dinge, Eros und Logos dürfen und
                müssen Dich befruchten; aber daß <hi rend="u">Du</hi> fruchtbar bist und bleibst, das
                muß Gottes Werk durch mich sein, wie sein Werk durch Dich<pb n="2"/> meine
-               Schöpferkraft. Werde ich das sein können? <rs ref="#tillich_person_id__1923"
-                  type="person">Hannah</rs>! Oft bin ich in Sorge um der Grenzen meines Wesens
+               Schöpferkraft. Werde ich das sein können? <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>! Oft bin ich in Sorge um der Grenzen meines Wesens
                willen. Denn es darf ja nicht nur so sein, daß ich durch Dich über mich hinauskomme,
                sondern auch Du mußt es durch mich! Und wenn dann Deine Worte auf mich einströmen in
                ihrer ganzen Herrlichkeit, dann kann ich es oft nicht fassen, daß Du zu mir gehörst.
@@ -107,12 +104,11 @@
                weiße Chrysantheme hat einen Schößling getrieben, der jetzt blüht und leuchtet von
                der Unvergänglichkeit unserer Liebe; die Tannen leuchten frisch wie am ersten Tag;
                und Dein Geist herrscht uneingeschränkt in jedem Ding; ich schlafe jetzt hier, weil
-               nebenan vermietet ist. Wir sind sehr zufrieden mit <rs ref="#tillich_person_id__2823"
-                  type="person">Egli</rs>; er hat sogar schon gezahlt! </p>
-            <closer><salute>Täglich rede ich mit Dir. Meine Seele ist immer bei Dir!</salute>
-               <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+               nebenan vermietet ist. Wir sind sehr zufrieden mit <rs ref="#tillich_person_id__2823" type="person">Egli</rs>; er hat sogar schon gezahlt! </p>
+<closer><salute>Täglich rede ich mit Dir. Meine Seele ist immer bei Dir!</salute>
+<signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

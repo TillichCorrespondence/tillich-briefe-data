@@ -1,151 +1,131 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00261">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Hans Schreiber an Paul Tillich <lb/>vom 12. Januar 1908</title>
-            <author ref="#tillich_person_id__1738">Hans Schreiber</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00261" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Hans Schreiber an Paul Tillich <lb/>vom 12. Januar 1908</title>
+<author ref="#tillich_person_id__1738">Hans Schreiber</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/183(2)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/183(2)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1738">Hans Schreiber</persName>
-               <placeName ref="#tillich_place_id__189">Halle</placeName>
-               <date when="1908-01-12">12.01.1908</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2023-05-03" who="PS">Initiale Auszeichnung des Transkripts</change>
-         <change when="2023-09-20" who="EL">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__189" type="place">Halle a/S.</rs>, den <date
-                     when="1908-01-12">12. Jan. 08.</date></dateline> Blumenthalstr. 23 II
-                  <salute>Lieber <rs ref="#tillich_person_id__1928" type="person"
-                  >Paul</rs>!</salute>
-            </opener>
-            <p>Mit Bedauern habe ich gestern durch <rs ref="#tillich_person_id__128" type="person"
-                  >Balke</rs> in doppelter Lesung von Deinem Kranksein gehört. Besonders rührten
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1738">Hans Schreiber</persName>
+<placeName ref="#tillich_place_id__189">Halle</placeName>
+<date when="1908-01-12">12.01.1908</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-05-03" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2023-09-20" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__189" type="place">Halle a/S.</rs>, den <date when="1908-01-12">12. Jan. 08.</date></dateline> Blumenthalstr. 23 II
+                  <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+</opener>
+<p>Mit Bedauern habe ich gestern durch <rs ref="#tillich_person_id__128" type="person">Balke</rs> in doppelter Lesung von Deinem Kranksein gehört. Besonders rührten
                mich die Beschreibungen der von Dir im allerhand furchtbaren Zustände durchwachten
                Nächte, da ich Ähnliches vor Weihnachten auch zu Haufe erlebt habe.</p>
-            <p>Hoffentlich befindest Du Dich nun weiter auf dem Wege der Besserung, den Du nach
+<p>Hoffentlich befindest Du Dich nun weiter auf dem Wege der Besserung, den Du nach
                Bulletins über die letzten Tage doch schon angetreten hast.</p>
-            <p>Ich habe hier gestern einen famosen "hallenser Tag" erlebt: Von 8-9<pb n="2"/>
+<p>Ich habe hier gestern einen famosen <q>hallenser Tag</q> erlebt: Von 8-9<pb n="2"/>
                versäumte ich zunächst <unclear>totalis</unclear> – einmal, weil ich zu spät aufstand
-               und vor allem weil die "Haferflocken", die ich jetzt jeden Morgen statt Kaffee zu mir
+               und vor allem weil die <q>Haferflocken</q>, die ich jetzt jeden Morgen statt Kaffee zu mir
                nehme, zu heiß waren.</p>
-            <p>9 c.t.-10 Uhr 50 Min: Famulus-Dienst bei <rs ref="#tillich_person_id__1227"
-                  type="person">Schmuhl</rs>: Begabtes Diktat über die Freiheit bei <rs
-                  ref="#tillich_person_id__1468" type="person">Paulus</rs>.</p>
-            <p>11 c.t.-<formula notation="TeX">\frac{1}{2}</formula> 12: Besuch bei Frau Geheimrat
+<p>9 c.t.-10 Uhr 50 Min: Famulus-Dienst bei <rs ref="#tillich_person_id__1227" type="person">Schmuhl</rs>: Begabtes Diktat über die Freiheit bei <rs ref="#tillich_person_id__1468" type="person">Paulus</rs>.</p>
+<p>11 c.t.-<formula notation="TeX">\frac{1}{2}</formula> 12: Besuch bei Frau Geheimrat
                Wilke.</p>
-            <p><formula notation="TeX">\frac{1}{2}</formula> 12-12 Uhr 10 Min: Besuch bei <rs
-                  ref="#tillich_person_id__1291" type="person">Medicus</rs>: keine Probleme, aber
+<p><formula notation="TeX">\frac{1}{2}</formula> 12-12 Uhr 10 Min: Besuch bei <rs ref="#tillich_person_id__1291" type="person">Medicus</rs>: keine Probleme, aber
                sehr nett unterhalten, persönlich näher gekommen.</p>
-            <p>12 c.t.-1 Uhr 5 Min: Schlemmerkolleg beim alten Herren: Beschreibung der Bedeutung
+<p>12 c.t.-1 Uhr 5 Min: Schlemmerkolleg beim alten Herren: Beschreibung der Bedeutung
                des Jahres 1848, Emporkommen des Judentums, Kapital, Presse, Sozialismus, der 4.
-               Stand. Sog. "Regularisierung der Wissenschaft". Bei die<pb n="3"/>sem Elend konnte
-               "Theorie und Theologie" nichts helfen, praktische Arbeit tat not. Die evangelische
+               Stand. Sog. <q>Regularisierung der Wissenschaft</q>. Bei die<pb n="3"/>sem Elend konnte
+               <q>Theorie und Theologie</q> nichts helfen, praktische Arbeit tat not. Die evangelische
                Kirche besann sich auf ihre Pflichten: Wiehern. So ist es zu verstehen, daß die jetzt
                sich entwickelnde Theologie überwiegend eine positivistische wurde. Man wurde
                ordentlich mal fürs praktische Amt begeisterst, ich so recht zum ersten Mal. Am
                Schluß fing alles unwillkürlich mit Händen und Füßen zu trampeln an. Ich habe den
                alten Herrn noch nie so begeistert gesehen.</p>
-            <p>1 Uhr 20 Min. Minimal ein Weißbier mit <rs ref="#tillich_person_id__2215"
-                  type="person">Ritter</rs>, <unclear>Kuhn</unclear>, <rs
-                  ref="#tillich_person_id__2525" type="person">Claus</rs> zusammen. Ich esse meines
+<p>1 Uhr 20 Min. Minimal ein Weißbier mit <rs ref="#tillich_person_id__2215" type="person">Ritter</rs>, <unclear>Kuhn</unclear>, <rs ref="#tillich_person_id__2525" type="person">Claus</rs> zusammen. Ich esse meines
                Magens wegen jetzt immer dort. Dann Lesen auf der Bude und Pennen.<pb n="4"/> 5-6
-               Predigt von <rs ref="#tillich_person_id__128" type="person">Balke</rs>. 6-7 <formula
-                  notation="TeX">\frac{1}{2}</formula> Lesen zu Hause. 7 <formula notation="TeX"
-                  >\frac{1}{2}</formula>-9 c.t. Minimal bei einem Fuchs mit <rs
-                  ref="#tillich_person_id__128" type="person">Balke</rs> zusammen. Begabtes Gespräch
-               über <rs ref="#tillich_person_id__1013" type="person">Kähler</rs>, <rs
-                  ref="#tillich_person_id__890" type="person">Herrmann</rs> und "religiöses
-               Erleben".</p>
-            <p>9 c.t.-10: Musik auf <rs ref="#tillich_person_id__1635" type="person">Spatz'</rs>
-               Bude. Anwesend: <rs ref="#tillich_person_id__128" type="person">Balke</rs>, <rs
-                  type="person" ref="#tillich_person_id__3134">Arend</rs>, <rs type="person"
-                  ref="#tillich_person_id__3136">Tarke</rs>, <rs ref="#tillich_person_id__2155"
-                  type="person">Voget</rs> u. verschiedene Füchse. 10-<formula notation="TeX"
-                  >\frac{1}{2}</formula> 1: Lektüre von <rs ref="#tillich_person_id__460"
-                  type="person">Dickens</rs>
-               <rs resp="#tillich__HAVYU5NG" type="work">David Copperfield</rs>. Dann Pennen. Heute
-               Morgen predigte <rs ref="#tillich_person_id__1201" type="person">Loofs</rs> über <rs
-                  type="bible" ref="Joh-5,41-44">Joh 5 <hi rend="sub">41-44</hi></rs> "<hi rend="uu"
-                  >Ehre</hi> vor Gott u. Menschen". Heute Abend ist gemeinsamer Familienabend von
+               Predigt von <rs ref="#tillich_person_id__128" type="person">Balke</rs>. 6-7 <formula notation="TeX">\frac{1}{2}</formula> Lesen zu Hause. 7 <formula notation="TeX">\frac{1}{2}</formula>-9 c.t. Minimal bei einem Fuchs mit <rs ref="#tillich_person_id__128" type="person">Balke</rs> zusammen. Begabtes Gespräch
+               über <rs ref="#tillich_person_id__1013" type="person">Kähler</rs>, <rs ref="#tillich_person_id__890" type="person">Herrmann</rs> und <q>religiöses
+               Erleben</q>.</p>
+<p>9 c.t.-10: Musik auf <rs ref="#tillich_person_id__1635" type="person">Spatz'</rs>
+               Bude. Anwesend: <rs ref="#tillich_person_id__128" type="person">Balke</rs>, <rs ref="#tillich_person_id__3134" type="person">Arend</rs>, <rs ref="#tillich_person_id__3136" type="person">Tarke</rs>, <rs ref="#tillich_person_id__2155" type="person">Voget</rs> u. verschiedene Füchse. 10-<formula notation="TeX">\frac{1}{2}</formula> 1: Lektüre von <rs ref="#tillich_person_id__460" type="person">Dickens</rs>
+<rs resp="#tillich__HAVYU5NG" type="work">David Copperfield</rs>. Dann Pennen. Heute
+               Morgen predigte <rs ref="#tillich_person_id__1201" type="person">Loofs</rs> über <rs ref="Joh-5,41-44" type="bible">Joh 5 <hi rend="sub">41-44</hi></rs> <q><hi rend="uu">Ehre</hi> vor Gott u. Menschen</q>. Heute Abend ist gemeinsamer Familienabend von
                   <hi rend="aq">Zwar</hi>, <hi rend="aq">Aber</hi>, <unclear>Klosterdorf</unclear>
-               im Waldhaus. Jetzt muß ich noch in <rs ref="#tillich_person_id__950" type="person"
-                  >Ibsens</rs> "<rs type="work" ref="#tillich__5BXSXI66">Nora</rs>" im neuen
+               im Waldhaus. Jetzt muß ich noch in <rs ref="#tillich_person_id__950" type="person">Ibsens</rs> <q><rs ref="#tillich__5BXSXI66" type="work">Nora</rs></q> im neuen
                Theater, drum schließe ich mit den herzlichsten Grüßen Dein getr. </p>
-            <closer>
-               <signed><rs ref="#tillich_person_id__1738" type="person">Hans Schreiber</rs></signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<signed><rs ref="#tillich_person_id__1738" type="person">Hans Schreiber</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

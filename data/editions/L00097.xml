@@ -1,120 +1,112 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00097">
-               <teiHeader>
-                              <fileDesc>
-                                             <titleStmt>
-                                                  <title>Brief von Johanna Tillich an Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00097" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Johanna Tillich an Paul Tillich
                                                   <lb/>vom 11. Februar 1906 </title>
-                                                  <author ref="#tillich_person_id__644">Johanna
+<author ref="#tillich_person_id__644">Johanna
                                                   Tillich</author>
-                                                  <respStmt>
-                                                  <resp>Editor</resp>
-                                                  <name key="https://orcid.org/0009-0003-9642-5125"
-                                                  >Paul Schömann</name>
-                                                  </respStmt>
-                                             </titleStmt>
-                                             <editionStmt>
-                                                  <edition>
-                                                  <title type="editionstitel">Edition der
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der
                                                   Korrespondenz von Paul Tillich 1887-1933</title>
-                                                  </edition>
-                                             </editionStmt>
-                                             <publicationStmt>
-                                                  <publisher>
-                                                  <name>Institut für Systematische Theologie und
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und
                                                   Religionswissenschaft</name>
-                                                  <address>
-                                                  <street>Schenkenstraße 8-10</street>
-                                                  <postCode>1010</postCode>
-                                                  <placeName ref="#tillich_place_id__470">
-                                                  <settlement>Wien</settlement>
-                                                  <country>Österreich</country>
-                                                  </placeName>
-                                                  </address>
-                                                  </publisher>
-                                                  <availability>
-                                                  <licence
-                                                  target="http://creativecommons.org/licenses/by-sa/4.0/"
-                                                  >Creative Commons Attribution 4.0 International
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International
                                                   (CC BY 4.0)</licence>
-                                                  </availability>
-                                             </publicationStmt>
-                                             <sourceDesc>
-                                                  <msDesc type="manuscript">
-                                                  <msIdentifier>
-                                                  <country>USA</country>
-                                                  <settlement ref="#tillich_place_id__82">Cambridge,
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge,
                                                   MA</settlement>
-                                                  <institution>Harvard University</institution>
-                                                  <repository>Harvard Divinity School
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School
                                                   Library</repository>
-                                                  <collection>Tillich, Paul, 1886-1965. Papers,
+<collection>Tillich, Paul, 1886-1965. Papers,
                                                   1894-1974.</collection>
-                                                  <idno>bMS 649/219(8)</idno>
-                                                  </msIdentifier>
-                                                  <physDesc>
-                                                  <p>Brief, eigenhändig</p>
-                                                  </physDesc>
-                                                  </msDesc>
-                                             </sourceDesc>
-                              </fileDesc>
-                              <encodingDesc>
-                                             <projectDesc>
-                                                  <p>online-Edition: Edition der Korrespondenz von
+<idno>bMS 649/219(8)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von
                                                   Paul Tillich 1887-1933.</p>
-                                             </projectDesc>
-                                             <editorialDecl>
-                                                  <p>Die Ausgabe folgt folgenden Editorischen
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen
                                                   Richtlinien des DTA-Basisformats. Vgl.
                                                   https://www.deutschestextarchiv.de/doku/basisformat/</p>
-                                             </editorialDecl>
-                              </encodingDesc>
-                              <profileDesc>
-                                             <correspDesc>
-                                                  <correspAction type="sent">
-                                                  <persName ref="#tillich_person_id__644">Johanna
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__644">Johanna
                                                   Tillich</persName>
-                                                  <placeName ref="#tillich_place_id__37"
-                                                  >Berlin</placeName>
-                                                  <date when="1906-02-11">11.02.1906</date>
-                                                  </correspAction>
-                                                  <correspAction type="received">
-                                                  <persName ref="#tillich_person_id__1928">Paul
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1906-02-11">11.02.1906</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul
                                                   Tillich</persName>
-                                                  </correspAction>
-                                             </correspDesc>
-                                             <langUsage>
-                                                  <language ident="deu">Deutsch</language>
-                                             </langUsage>
-                              </profileDesc>
-                              <revisionDesc status="approved">
-                                             <change when="2023-01-24" who="PS">Initiale
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-01-24" who="PS">Initiale
                                                   Auszeichnung des Transkripts</change>
-                                             <change when="2024-02-06" who="EL">Endabnahme</change>
-                              </revisionDesc>
-               </teiHeader>
-               <text type="letter">
-                              <body>
-                                             <div type="writingSession">
-                                                  <pb n="1"/>
-                                                  <opener>
-                                                  <dateline>Herrn stud. theol. <rs
-                                                  ref="#tillich_person_id__1928" type="person">Paul
+<change when="2024-02-06" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>Herrn stud. theol. <rs ref="#tillich_person_id__1928" type="person">Paul
                                                   Tillich</rs> zu steter Erinnerung! Bitte noch
-                                                  häufig lesen und auch – befolgen! <rs
-                                                  ref="#tillich_place_id__37" type="place"
-                                                  >Berlin</rs> zum <date when="1906-02-11">11.
+                                                  häufig lesen und auch – befolgen! <rs ref="#tillich_place_id__37" type="place">Berlin</rs> zum <date when="1906-02-11">11.
                                                   Februar 1906</date>.(17)</dateline>
-                                                  </opener>
-                                                  <p> Lieber <rs ref="#tillich_person_id__1928"
-                                                  type="person">Paul</rs>! nicht ärgern soll'n Dich
+</opener>
+<p> Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>! nicht ärgern soll'n Dich
                                                   diese Zeilen<lb/> Nur als Bitten, Wünsche woll'n
                                                   sie zu Dir eilen!<lb/> Denn wenn Dir fehlt der
                                                   gute Rat,<lb/> Kein lieber Bruder Dich mahnen
                                                   tat,<lb/> Vernimm', was wir Dich heute bitten<lb/>
                                                   Für Anstand, Ton und gute Sitten!<lb/> Zum ersten
                                                   denk' an Deine Haltung.</p>
-                                                  <p>Sieh' wenn Dein Geist auch höher strebt,<lb/>
+<p>Sieh' wenn Dein Geist auch höher strebt,<lb/>
                                                   Dich über Erd' und Himmel trägt,<lb/> So muß Dein
                                                   Körper sich erheben<lb/> Zu einem edlen vornehmen
                                                   Leben:<lb/> Den Kopf nicht auf und wieder
@@ -130,60 +122,57 @@
                                                   mit der Hand,<lb/> Trägst Deinen Hut so wie er Dir
                                                   stand,<lb/> Hältst Deinen Anzug hübsch und
                                                   rein<lb/> So wirst Du ein <hi rend="u">wahrer</hi>
-                                                  <hi rend="aq">Studio</hi> sein!<lb/> Macht Dir
+<hi rend="aq">Studio</hi> sein!<lb/> Macht Dir
                                                   dies alles zuerst viel Last<lb/> Vergißt Du auch
                                                   manches in Deiner Hast,<lb/> Wirst ärgerlich Du
-                                                  manchmal sein,<lb/> So denk' solch "Stimmung" ist
+                                                  manchmal sein,<lb/> So denk' solch <q>Stimmung</q> ist
                                                   nicht fein.<lb/></p>
-                                                  <p>Doch nun etwas anders will ich Dich
+<p>Doch nun etwas anders will ich Dich
                                                   fragen,<lb/> Von einem Freunde hört' ich
                                                   sagen,<lb/> Gar spät wird's, eh' zur Ruh' Du
-                                                  gehst,<lb/> Da Du aber all' "Stimmung"
+                                                  gehst,<lb/> Da Du aber all' <q>Stimmung</q>
                                                   verschmähst,<lb/> Warum nicht hast Du die
-                                                  Kraft,<lb/> Wenn Du "philosophisch Stimmung"
+                                                  Kraft,<lb/> Wenn Du <q>philosophisch Stimmung</q>
                                                   hast,<lb/> Dich loszureißen von solcher
-                                                  "Laun"<lb/> Und Dich wiegen läßt in schön'ren
+                                                  <q>Laun</q><lb/> Und Dich wiegen läßt in schön'ren
                                                   Traum<lb/><pb n="3"/> So merk's, wenn Dein Geist
                                                   sich stark auch wehr,<lb/> Dein Körper der Ruhe
                                                   aber schnell begehrt<lb/> Der Schlaf die Kräfte
                                                   viel verwehrt.<lb/> Am andern Morgen frisch und
                                                   froh<lb/> Erwacht als <hi rend="u">lustiger</hi>
-                                                  <hi rend="aq">Studio</hi>.<lb/></p>
-                                                  <p>Dann denkst Du immer mit frohen Mut<lb/> Der
+<hi rend="aq">Studio</hi>.<lb/></p>
+<p>Dann denkst Du immer mit frohen Mut<lb/> Der
                                                   schöne Schlaf doch Wunder tut.<lb/> Denkst dann
                                                   der Freunde auch daheim<lb/> Und schwingst Dich
                                                   auf zum Gruße klein,<lb/> Bist dann zum Briefe
                                                   auch bereit,<lb/> Und handelt er nicht vom
-                                                  "Prinzipienstreit"<!-- <note type="ea">Prinzipienstreit</note>--><lb/>
+                                                  <q>Prinzipienstreit</q> &lt;note type=<q>ea</q>&gt;Prinzipienstreit&lt;/note&gt;<lb/>
                                                   So werden wir fröhlich sagen u froh,<lb/>
-                                                  <rs ref="#tillich_person_id__1928" type="person"
-                                                  ><hi rend="aq">Paul</hi></rs> ist ein <hi rend="u"
-                                                  >reizender"</hi>
-                                                  <hi rend="aq">Studio</hi>.<lb/></p>
-                                                  <p>An eins will ich Dich schnell noch mahnen,<lb/>
+<rs ref="#tillich_person_id__1928" type="person"><hi rend="aq">Paul</hi></rs> ist ein <hi rend="u">reizender<q/></hi>
+<hi rend="aq">Studio</hi>.<lb/></p>
+<p>An eins will ich Dich schnell noch mahnen,<lb/>
                                                   Wenn Du einst sprichst mit Herren oder Damen<lb/>
                                                   So mußt Du nicht nur an den Inhalt Deiner Rede
                                                   denken<lb/> Nein auch die schöne Form des Wort's
-                                                  bedenken<lb/> "Köstlich" zu sagen ist wohl noch
-                                                  erlaubt<lb/> Doch "Eispips" und all die Ausdrücke
+                                                  bedenken<lb/> Köstlich<q> zu sagen ist wohl noch
+                                                  erlaubt<lb/> Doch </q>Eispips<q> und all die Ausdrücke
                                                   überhaupt<lb/><pb n="4"/> Sind grausig wahrlich
                                                   mit anzuhören<lb/> Wie uns auch gar sehr würde
                                                   stören,<lb/> Wenn Du als erster Berliner trätst
-                                                  auf<lb/> Und brächtest dessen "schöne" Reden zu
+                                                  auf<lb/> Und brächtest dessen </q>schöne<q> Reden zu
                                                   Haus,<lb/> So sei im Reden, wie auch im
                                                   Denken<lb/> Stets edel! schön! dann kannst Du Dich
-                                                  erst recht versenken<lb/> In hoher Geister <hi
-                                                  rend="u">tiefes</hi> Denken!<lb/></p>
-                                                  <p>Doch schnell zum Schluß ein gutes Wort,<lb/>
+                                                  erst recht versenken<lb/> In hoher Geister <hi rend="u">tiefes</hi> Denken!<lb/></q></p>
+<p>Doch schnell zum Schluß ein gutes Wort,<lb/>
                                                   Mögst fröhlich sein an jedem Ort!<lb/> Genießen
                                                   die Studentenzeit!<lb/> Im Ernst, wie auch in
                                                   Freudigkeit,<lb/> Die Wingolfsfarbe tragen mit
                                                   Ehr,<lb/> Die Freundschaft halten hoch und
                                                   sehr!<lb/> Dem Vaterlande dienen treu!<lb/> Die
                                                   Menschen weder fürcht' noch scheu!<lb/> Vor allem
-                                                  aber dankbar sein!<lb/> Dann kannst Du ein "guter"
+                                                  aber dankbar sein!<lb/> Dann kannst Du ein guter
                                                   <hi rend="aq">Studio</hi> sein!</p>
-                                             </div>
-                              </body>
-               </text>
+</div>
+</body>
+</text>
 </TEI>

@@ -1,101 +1,98 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00983">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich an Hannah Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00983" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Hannah Tillich
                <lb/>vom 2. Juni 1928 [PS]
             </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0007-2445-9093">Niklas von Hülsen</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement>Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                  <idno>bMS 721/2(25)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-                  </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__206">Heppenheim</placeName>
-              <date when="1928-06-02">02.06.1928</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-              <placeName ref="#tillich_place_id__126">Dresden</placeName>
-              
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="NH" when="2023-08-23">Initiale Auszeichnung des Transkripts</change>
-        <change who="FS" when="2023-12-19">Endabnahme</change>
-        
-       
-     </revisionDesc>
-  </teiHeader>
-  <text type="postcard">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-        </opener>
-        <p>
-           Heut früh Deinen Brief aus <rs ref="#tillich_place_id__279" type="place">Marburg</rs>!<note type="ea">Dieser Brief liegt nicht vor.</note> Ich kann in der Tat erst Sonntag fahren. Denn hier geht es bis Sonnabend Nachmittag. Und unterwegs muß ich arbeiten. – Unser Kreis, <rs ref="#tillich_person_id__1307" type="person">Karolus</rs>, <rs ref="#tillich_person_id__846" type="person">Heimann</rs>, <rs ref="#tillich_person_id__1209" type="person">Löwe</rs>, <add place="superlinear">ich,</add> ist hier sehr stark in Erscheinung getreten und wir haben uns wieder als Kreis erlebt. Überaus wichtig ist die Sache freilich nicht, aber ich mußte um der Situation willen hier sein. Ich schlafe mit <rs ref="#tillich_person_id__1696" type="person">Hermann Schafft</rs> zusammen. Es ist wie immer furchtbar nett mit ihm. <rs ref="#tillich_person_id__2672" type="person">Otto</rs> und <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> hat mir schrecklich Spaß gemacht! – Beide<pb n="2"/> Aussprachen sind vorbei.<note type="ea">Siehe hierzu die publizierten "<rs ref="#tillich__WGFM3KYX" type="work">Verhandlungen der Sozialistischen Tagung in Heppenheim a. B.</rs>".</note> Ich bin völlig erschöpft! Keine 10 Minuten außer dem Hotel in 2 Tagen. Es ist fürchterlich! Ich komme Sonntag, wahrscheinlich um 11 Uhr Abends; vielleicht schon früher!
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0007-2445-9093">Niklas von Hülsen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement>Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/2(25)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__206">Heppenheim</placeName>
+<date when="1928-06-02">02.06.1928</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+<placeName ref="#tillich_place_id__126">Dresden</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-08-23" who="NH">Initiale Auszeichnung des Transkripts</change>
+<change when="2023-12-19" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>
+           Heut früh Deinen Brief aus <rs ref="#tillich_place_id__279" type="place">Marburg</rs>!<note type="ea">Dieser Brief liegt nicht vor.</note> Ich kann in der Tat erst Sonntag fahren. Denn hier geht es bis Sonnabend Nachmittag. Und unterwegs muß ich arbeiten. – Unser Kreis, <rs ref="#tillich_person_id__1307" type="person">Karolus</rs>, <rs ref="#tillich_person_id__846" type="person">Heimann</rs>, <rs ref="#tillich_person_id__1209" type="person">Löwe</rs>, <add place="superlinear">ich,</add> ist hier sehr stark in Erscheinung getreten und wir haben uns wieder als Kreis erlebt. Überaus wichtig ist die Sache freilich nicht, aber ich mußte um der Situation willen hier sein. Ich schlafe mit <rs ref="#tillich_person_id__1696" type="person">Hermann Schafft</rs> zusammen. Es ist wie immer furchtbar nett mit ihm. <rs ref="#tillich_person_id__2672" type="person">Otto</rs> und <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> hat mir schrecklich Spaß gemacht! – Beide<pb n="2"/> Aussprachen sind vorbei.<note type="ea">Siehe hierzu die publizierten <q><rs ref="#tillich__WGFM3KYX" type="work">Verhandlungen der Sozialistischen Tagung in Heppenheim a. B.</rs></q>.</note> Ich bin völlig erschöpft! Keine 10 Minuten außer dem Hotel in 2 Tagen. Es ist fürchterlich! Ich komme Sonntag, wahrscheinlich um 11 Uhr Abends; vielleicht schon früher!
         </p>
-        <closer><salute>Viele herzliche Grüße! Auf Wiedersehn<lb/>
+<closer><salute>Viele herzliche Grüße! Auf Wiedersehn<lb/>
         Dein</salute>
-           <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-        </closer>
-     </div>
-    </body>
-  </text>
+<signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

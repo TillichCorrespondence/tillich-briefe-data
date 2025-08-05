@@ -1,110 +1,103 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01232">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief eines pseudonymen Verfassers an Paul Tillich <lb/>vom 2. Juni
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01232" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief eines pseudonymen Verfassers an Paul Tillich <lb/>vom 2. Juni
                1933</title>
-            <author ref="#tillich_person_id__2478">Melissandros</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<author ref="#tillich_person_id__2478">Melissandros</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="typescript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/165(46)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, maschinenschriftlich mit handschriftlich angefügten Fußnoten</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="typescript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/165(46)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, maschinenschriftlich mit handschriftlich angefügten Fußnoten</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__2478">Melissandros</persName>
-               <date when="1933-06-02">02.06.1933</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-07-27">Initiale Auszeichnung des Transkripts</change>
-         <change who="FS" when="2024-01-23">Endabnahme</change>
-
-
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener><dateline>
-                  <date when="1933-06-02">2. Juni 33</date><lb/>in meiner weltfernen
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2478">Melissandros</persName>
+<date when="1933-06-02">02.06.1933</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-07-27" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-01-23" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline>
+<date when="1933-06-02">2. Juni 33</date><lb/>in meiner weltfernen
                      Büchergrotte</dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr
                   Tillich</rs>,</salute>
-            </opener>
-            <p>Komisch – tiefsinnig – natürlich dass ich heut von Ihnen höre: wohlvorbereitet durch
+</opener>
+<p>Komisch – tiefsinnig – natürlich dass ich heut von Ihnen höre: wohlvorbereitet durch
                ein Zeitungsreferat über einen Vortrag hierselbst betreffend – na irgend etwas
                Schreckliches, wo völkisch-politisch philosophisch polemisch gefaselt wurde. Mein
                Sohn fragte mich, wieso denn die Philosophie versagt habe; worauf ich mich vermass zu
                antworten, Es ist nur recht und <rs ref="#tillich_person_id__1928" type="person">
-                  tillich</rs> zu bekennen, dass damit Herr T gemeint ist. – Hörend dass Sie und <rs
-                  ref="#tillich_person_id__1923" type="person">Gehmahlin</rs> bei Ihren Freunden <rs
-                  ref="#tillich_person_id__1423" type="person"><rs ref="#tillich_person_id__1424"
-                     type="person">O.</rs></rs> weilten, rief ich dort an – aber 2 Posttage zu spät,
+                  tillich</rs> zu bekennen, dass damit Herr T gemeint ist. – Hörend dass Sie und <rs ref="#tillich_person_id__1923" type="person">Gehmahlin</rs> bei Ihren Freunden <rs ref="#tillich_person_id__1423" type="person"><rs ref="#tillich_person_id__1424" type="person">O.</rs></rs> weilten, rief ich dort an – aber 2 Posttage zu spät,
                um Sie womöglich noch einmal zu sehn. Nehmen Sie den Willen für die Tat. –
                Hoffentlich erholen Sie sich dort oben, und bekommen Lust zu neuer Arbeit. Ich zwinge
-               mich zu arbeiten, aber es "fluscht nicht" wie der Berliner sagt. Dafür bilde ich mich
-               still und altmodisch, vergleiche <rs ref="#tillich_person_id__972" type="person"
-                  >Jaspers</rs> mit den Indizien in fremden Ländern, zumal Albion,<note type="ea"
-                  >Eine alte Bezeichnung für die Britischen Inseln.</note> und lese in dreitausend
+               mich zu arbeiten, aber es <q>fluscht nicht</q> wie der Berliner sagt. Dafür bilde ich mich
+               still und altmodisch, vergleiche <rs ref="#tillich_person_id__972" type="person">Jaspers</rs> mit den Indizien in fremden Ländern, zumal Albion,<note type="ea">Eine alte Bezeichnung für die Britischen Inseln.</note> und lese in dreitausend
                Jahren goethisch herum. – <rs ref="#tillich_person_id__1610" type="person">Der
                   berühmte Altphilologe</rs> – liest wieder, was sagen Sie dazu. Man sagte mir
                schmunzelnd, man habe ihn etwas bearbeitet in Bezug auf die Form seines Gesuches; und
@@ -112,8 +105,8 @@
                könne auch anders... Glauben Sie das? – Ausserdem habe ich ein Verspaar gereimt in
                sklavischer Ausnutzung eines englischen Wortes, das leider Prosa war. Daran können
                Sie ermessen, wie ich zur Zeit verfasst bin.</p>
-            <p>Geburt ist Risiko und Agonie <lb/>Das wissen Schöpfer, – Rezensenten nie.</p>
-            <p>Ich schreib es mir zur Warnung, da ich ja eine riesige Literaturhistorie – zunächst
+<p>Geburt ist Risiko und Agonie <lb/>Das wissen Schöpfer, – Rezensenten nie.</p>
+<p>Ich schreib es mir zur Warnung, da ich ja eine riesige Literaturhistorie – zunächst
                denke, und dann kondensiere, bis der Stein der Weisen in meiner Hand Wasser
                ausschwitzt, auf 112 Seiten!<pb n="2"/> Vom Academic Assistance Council haben Sie
                wohl gehört, ich zweifle sogar nicht dass Sie in den Listen sind; es waren zunächst
@@ -124,45 +117,41 @@
                wachsend sich nähert, ja jetzt schon feste Umrisse hat. Nun soll ich auch noch
                Ehestandsbeihilfen beisteuern, dh hunderte neue Steuern unter diesem Namen
                aufbringen. – Schweigen wir davon, so interessant es ist. –</p>
-            <p>Dieser Brief ist erratisch, und kann höchstens für sich anführen, dass er Ihnen nicht
+<p>Dieser Brief ist erratisch, und kann höchstens für sich anführen, dass er Ihnen nicht
                zu viel zumutet dort oben. Pflegen Sie Ihre Nerven nur ordentlich, dh leugnen Sie
                zunächst deren Existenz, ausser dem liegen Sie viel flach. Heut nachmittag sind
                   wir<add place="foot">ich hab mich ja <hi rend="u">beurlaubt</hi></add> zu
                dringender Fak<expan>[ultäts]</expan>sitz<expan>[ung]</expan> eingeladen, Professor
-               für Kriegswissenschaften. Wenn wir Laien dadurch die Kunst der <hi rend="u"
-                  >Eumachie</hi> lernen könnten, wäre es schön. Aber ich habe das Gefühl, solches
+               für Kriegswissenschaften. Wenn wir Laien dadurch die Kunst der <hi rend="u">Eumachie</hi> lernen könnten, wäre es schön. Aber ich habe das Gefühl, solches
                Fach gehört in die Kriegsakademie – die die Feinde uns ja verboten haben. Uebrigens
                sehe ich dass da ein Wortspiel steckt; finden Sie es? – Mein Vater war lange Lehrer
                an der Kgl Kriegsakademie, und hat das sehr geschätzt – Ich las ein Heft der neuen
                   Z<expan>[eit]</expan>s<expan>[chrift]</expan> <rs ref="#tillich__CFAB4MXV" type="work">Volk im Werden</rs><add place="foot">μἀν
-                  κάνν αὖχ σάγεν "φῆρτ ἰν οὐόλκεν." ἴστ δἀς νἰχτ σχεῠν?</add><note type="ea">Der
+                  κάνν αὖχ σάγεν <q>φῆρτ ἰν οὐόλκεν.</q> ἴστ δἀς νἰχτ σχεῠν?</add><note type="ea">Der
                   Verfasser schreibt hier in deutscher Sprache, verwendet aber griechische Lettern:
-                  "Man kan auch sagen: 'Pferd/Fährt[?] in Wolken.' Ist das nicht schön?"</note> – es
+                  <q>Man kan auch sagen: 'Pferd/Fährt[?] in Wolken.' Ist das nicht schön?</q></note> – es
                ist sicher nicht alles verkehrt was da gesagt wird, aber die Formen schrecken mich,
                und ausserdem ist Manches wirklich noch schlimmer in Wirklichkeit, als es da
                erscheint. – <rs ref="#tillich_person_id__948" type="person">Aldous Huxley</rs> sagt
-               "Jeder Gesichtspunkt ist falsch". Wer hat also recht? – Es ist jetzt Kairos dass ich
+               <q>Jeder Gesichtspunkt ist falsch</q>. Wer hat also recht? – Es ist jetzt Kairos dass ich
                stoppe. Geniessen Sie das anerhythmon gelasma der Wellen,<note type="ea">Anspielung
-                  auf Aischylos' Tragödie "<rs ref="#tillich__5FMXPM5X" type="work">Der gefesselte
-                     Prometheus</rs>", Zeile 90, wo das "Wellenspiel der See" als "Unzähl'ges
-                  Lachen" umschrieben wird.</note> und lassen sich davon anstecken. Der Dichter
+                  auf Aischylos' Tragödie <q><rs ref="#tillich__5FMXPM5X" type="work">Der gefesselte
+                     Prometheus</rs></q>, Zeile 90, wo das <q>Wellenspiel der See</q> als <q>Unzähl'ges
+                  Lachen</q> umschrieben wird.</note> und lassen sich davon anstecken. Der Dichter
                sagt: Ich beschreite die Erde, trinke die Luft, fühle die Sonne; habe Geduld meine
-               Seele, es ist nur für eine Zeit.." Zu neuen Ufern lockt ein neuer Tag..</p>
-            <p>Leben Sie wohl, Sie autos, und Ihr angetrautes Weib <rs
-                  ref="#tillich_person_id__1923" type="person">Hannah</rs>. Sehn wir uns auf einer
+               Seele, es ist nur für eine Zeit..<q> Zu neuen Ufern lockt ein neuer Tag..</q></p>
+<p>Leben Sie wohl, Sie autos, und Ihr angetrautes Weib <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>. Sehn wir uns auf einer
                Nordseeinsel, so lächeln wir, und diskutieren sodann die Läufte der Zeit, die so
                hidrotisch wie karminativ sind.</p>
-            <closer>
-               <salute>Chaire kai oneso!</salute>
-               <signed><rs ref="#tillich_person_id__1610" type="person"
-                  >Melissandros</rs></signed><note type="ea">Eventuell verbirgt sich hinter dem
+<closer>
+<salute>Chaire kai oneso!</salute>
+<signed><rs ref="#tillich_person_id__1610" type="person">Melissandros</rs></signed><note type="ea">Eventuell verbirgt sich hinter dem
                   Pseudonym Melissandros der bis zum April 1933 amtierende Kurator der Frankfurter Universität, <rs ref="#tillich_person_id__1610" type="person">Kurt
                      Riezler</rs>. Dafür sprechen insbesondere der Sprachduktus, die
                   zahlreichen altphilologischen Anspielungen sowie der Bezug zur Fakultätssitzung.
                   Allerdings gibt es auch Hinweise, die gegen diese Zuschreibung sprechen. So war
                   nicht Riezlers <rs ref="#tillich_person_id__3145" type="person">Vater</rs> – der
-                  bereits verstarb, als <rs ref="#tillich_person_id__1610" type="person"
-                     >Riezler</rs> sieben Jahre alt war – Lehrer an der Kriegsakademie, sondern
+                  bereits verstarb, als <rs ref="#tillich_person_id__1610" type="person">Riezler</rs> sieben Jahre alt war – Lehrer an der Kriegsakademie, sondern
                   dessen <rs ref="#tillich_person_id__3146" type="person">Onkel</rs>. Zudem hatte
                      <rs ref="#tillich_person_id__1610" type="person">Riezler</rs> keinen Sohn,
                   sondern eine <rs ref="#tillich_person_id__3149" type="person">Tochter</rs> aus
@@ -172,9 +161,9 @@
                   ironischer Kommentar zur nationalsozialistischen Steuerpolitik oder eine
                   Anspielung auf finanzielle Belastungen durch diskriminierende Maßnahmen.
                   Allerdings ist der Brief insgesamt bewusst kryptisch formuliert, was die
-                  Möglichkeit von Ungenauigkeiten oder absichtlichen Verschleierungen eröffnet. Die Identität von "Melissandros" muss damit letztlich offen bleiben.</note>
-            </closer>
-         </div>
-      </body>
-   </text>
+                  Möglichkeit von Ungenauigkeiten oder absichtlichen Verschleierungen eröffnet. Die Identität von Melissandros muss damit letztlich offen bleiben.</note>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

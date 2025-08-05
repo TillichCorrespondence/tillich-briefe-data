@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00790">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00790" xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -41,25 +41,25 @@
 <physDesc>
 <p>Brief, maschinenschriftlich, eigenhändige Korrekturen und Unterschrift</p>
 </physDesc>
-   <additional>
-      <listBibl>
-         <biblStruct type="journal">
-            <monogr>
-               <author>Friedrich Wilhelm Graf</author>
-               <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-               <imprint>
-                  <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
-                  <date when="2020">2020</date>
-                  <biblScope>S. 26–170, hier: 133</biblScope>
-               </imprint>
-            </monogr>
-            <series>
-               <title>Zeitschrift für Neuere Theologiegeschichte</title>
-               <biblScope>27/1</biblScope>
-            </series>
-         </biblStruct>
-      </listBibl>
-   </additional></msDesc>
+<additional>
+<listBibl>
+<biblStruct type="journal">
+<monogr>
+<author>Friedrich Wilhelm Graf</author>
+<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+<imprint>
+<pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+<date when="2020">2020</date>
+<biblScope>S. 26–170, hier: 133</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Zeitschrift für Neuere Theologiegeschichte</title>
+<biblScope>27/1</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional></msDesc>
 </sourceDesc>
 </fileDesc>
 <encodingDesc>
@@ -88,31 +88,30 @@
 <revisionDesc status="approved">
 <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
 <change when="2024-01-18" who="AR">Initiale Auszeichnung des Transkripts</change>
-   <change when="2025-03-26" who="FS">Kollationierung</change>
+<change when="2025-03-26" who="FS">Kollationierung</change>
 </revisionDesc>
 </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>Berlin-Friedenau, Taunusstr. I den <date when="1923-05-28">28. Mai 1923</date><note type="ea">Schräg rechts über der Datumszeile findet sich die Notiz, wohl als Versandvermerk: "30.V.23". Unten auf dem Blatt finden sich zahlreiche Berechnungen zu Versandkosten, Rabatt etc. Beziffert wird eine Summe von "M 54 450,-"; dazu noch "P[or]to 300,- &amp; Verp[ackung] 120,-". Der Text Tillichs ist offenbar in großer Eile geschrieben worden. Die Fülle an kleinen Korrekturen wird nicht im Einzelnen nachgewiesen.</note>
-               </dateline>
-               <salute>Sehr geehrter <rs ref="#tillich_person_id__2569" type="person">Herr Ruprecht</rs>!</salute>
-            </opener>
-            <p>Gestern erhielt ich Ihren <rs ref="L00789" type="letter">Brief</rs>, der mir eine große Freude war. Ich nehme Ihre
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>Berlin-Friedenau, Taunusstr. I den <date when="1923-05-28">28. Mai 1923</date><note type="ea">Schräg rechts über der Datumszeile findet sich die Notiz, wohl als Versandvermerk: <q>30.V.23</q>. Unten auf dem Blatt finden sich zahlreiche Berechnungen zu Versandkosten, Rabatt etc. Beziffert wird eine Summe von <q>M 54 450,-</q>; dazu noch <q>P[or]to 300,- &amp; Verp[ackung] 120,-</q>. Der Text Tillichs ist offenbar in großer Eile geschrieben worden. Die Fülle an kleinen Korrekturen wird nicht im Einzelnen nachgewiesen.</note>
+</dateline>
+<salute>Sehr geehrter <rs ref="#tillich_person_id__2569" type="person">Herr Ruprecht</rs>!</salute>
+</opener>
+<p>Gestern erhielt ich Ihren <rs ref="L00789" type="letter">Brief</rs>, der mir eine große Freude war. Ich nehme Ihre
                Erhöhung der zweiten Rate auf den geschuldeten Betrag von 45.000,- M. gern
                an, da mich gegenwärtig dieser Betrag natürlich schwer belasten würde. Das um
                so mehr, als ich gezwungen bin, noch fünf weitere Exemplare zu bestellen, die
                ich sonst erst im nächsten, nun schon zu Beginn dieses Monats begleichen kann.
                Ich bitte Sie also, mir diese 5 Exemplare möglichst bald zu schicken, ich werde
-               sie sofort nach Eintreffen meines Gehaltes bei Beginn des Monats bezahlen<note type="ea">Von Tillich eigenhändig korrigiert aus: "begleichen".</note>.
-               Gleichzeitig bitte ich Sie, noch Rezensionsexemplare zu schicken: 1.) an Herrn <rs ref="#tillich_person_id__2744" type="person">Alfred de Quervain</rs>, <hi rend="u"><rs ref="#tillich_place_id__143" type="place">Frankfurt a/Main</rs></hi> Fellnerstr. 9 p., für die akademisch-soziale Monatsschrift<note type="ea">Dahinter ist von Verlagsseite ein "?" gesetzt.</note>, das Kirchenblatt für die reformierte Schweiz und die Frankfurter Zeitung, 2.) an Herrn Privatdozenten <rs ref="#tillich_person_id__1783" type="person">Dr. Siegfried</rs>, <hi rend="u"><rs ref="#tillich_place_id__224" type="place">Jena</rs> Universität</hi>, für Blätter, über die wir noch in Verhandlung stehen. Er ist ein Schüler von mir und seine Rezension ist mir sehr wichtig.<note type="ea">Dahinter ist die Versandnotiz "2./VI" angebracht.</note></p>
-            <p>Über die Herabsetzung der Grundzahl von 6, 00 M auf 5, 50 M habe ich mich sehr gefreut. Nach einer sehr schönen zustimmenden Postkarte, die ich von <sic><rs ref="#tillich_person_id__808" type="person">Harnak</rs></sic> erhalten habe, hoffe ich doch, daß das Buch nicht ganz ohne äußeren Erfolg sein wird. <hi rend="u">Meine kommenden Absichten</hi><note type="ea">Diese und die folgenden Stellen wurden zusätzlich am linken Rand markiert.</note> konzentrieren sich auf ein <hi rend="u">umfassendes, religionsphilosophisch-theologisches System</hi>, das ich <hi rend="u">Ihnen</hi> gern <hi rend="u">zuerst anbieten werde.</hi></p>
-            <closer>
-               <salute>Ihr sehr ergebener</salute>
-               <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
-            </closer>
-            
-         </div>
-      </body></text></TEI>
+               sie sofort nach Eintreffen meines Gehaltes bei Beginn des Monats bezahlen<note type="ea">Von Tillich eigenhändig korrigiert aus: <q>begleichen</q>.</note>.
+               Gleichzeitig bitte ich Sie, noch Rezensionsexemplare zu schicken: 1.) an Herrn <rs ref="#tillich_person_id__2744" type="person">Alfred de Quervain</rs>, <hi rend="u"><rs ref="#tillich_place_id__143" type="place">Frankfurt a/Main</rs></hi> Fellnerstr. 9 p., für die akademisch-soziale Monatsschrift<note type="ea">Dahinter ist von Verlagsseite ein <q>?</q> gesetzt.</note>, das Kirchenblatt für die reformierte Schweiz und die Frankfurter Zeitung, 2.) an Herrn Privatdozenten <rs ref="#tillich_person_id__1783" type="person">Dr. Siegfried</rs>, <hi rend="u"><rs ref="#tillich_place_id__224" type="place">Jena</rs> Universität</hi>, für Blätter, über die wir noch in Verhandlung stehen. Er ist ein Schüler von mir und seine Rezension ist mir sehr wichtig.<note type="ea">Dahinter ist die Versandnotiz <q>2./VI</q> angebracht.</note></p>
+<p>Über die Herabsetzung der Grundzahl von 6, 00 M auf 5, 50 M habe ich mich sehr gefreut. Nach einer sehr schönen zustimmenden Postkarte, die ich von <sic><rs ref="#tillich_person_id__808" type="person">Harnak</rs></sic> erhalten habe, hoffe ich doch, daß das Buch nicht ganz ohne äußeren Erfolg sein wird. <hi rend="u">Meine kommenden Absichten</hi><note type="ea">Diese und die folgenden Stellen wurden zusätzlich am linken Rand markiert.</note> konzentrieren sich auf ein <hi rend="u">umfassendes, religionsphilosophisch-theologisches System</hi>, das ich <hi rend="u">Ihnen</hi> gern <hi rend="u">zuerst anbieten werde.</hi></p>
+<closer>
+<salute>Ihr sehr ergebener</salute>
+<signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
+</closer>
+</div>
+</body></text></TEI>
