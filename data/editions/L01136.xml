@@ -1,142 +1,136 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01136">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Kurt Leese <lb/>vom 16. April 1932 </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01136" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Kurt Leese <lb/>vom 16. April 1932 </title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="typescript">
-               <msIdentifier>
-                  <!--???-->
-                  <country>Germany</country>
-                  <collection>Privatbesitz Hans-Joachim Mähl</collection>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, maschinenschriftlich</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="typescript">
+<msIdentifier>
+<!--???-->
+<country>Germany</country>
+<collection>Privatbesitz Hans-Joachim Mähl</collection>
+</msIdentifier>
+<physDesc>
+<p>Brief, maschinenschriftlich</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
-               <date when="1932-04-16">16.04.1932</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1154">Kurt Leese</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="FS" when="2024-03-26">Initiale Auszeichnung des Transkripts und
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+<date when="1932-04-16">16.04.1932</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1154">Kurt Leese</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2024-03-26" who="FS">Initiale Auszeichnung des Transkripts und
             Endabnahme</change>
-
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__143" type="place">Frankfurtmain</rs>, <date
-                     when="1932-04-16">16. April 1932</date>.</dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1154" type="person">Kurt</rs>!</salute>
-            </opener>
-            <p>Deine Zusendungen<note type="ea">Liegen nicht vor.</note> habe ich alle bekommen, zum
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__143" type="place">Frankfurtmain</rs>, <date when="1932-04-16">16. April 1932</date>.</dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1154" type="person">Kurt</rs>!</salute>
+</opener>
+<p>Deine Zusendungen<note type="ea">Liegen nicht vor.</note> habe ich alle bekommen, zum
                Teil sind sie mir nach <rs ref="#tillich_place_id__289" type="place">Mentone</rs>
                nachgeschickt worden, wo ich zwischen den zwei Dekanatssemestern mich etwas verpustet
                habe. Ich schicke sie Dir anbei zurück und verspreche Dir, so bald es irgend möglich
                ist, an den Aufsatz in den Kantstudien heranzugehen.<note type="ea">Gemeint ist
                   vermutlich <rs ref="#tillich_person_id__1178" type="person">Arthur Lieberts</rs>
-                  Aufsatz "<rs ref="#tillich__N8JQEE2F" type="work">Goethes Platonismus</rs>", in
+                  Aufsatz <q><rs ref="#tillich__N8JQEE2F" type="work">Goethes Platonismus</rs></q>, in
                   welchem der Verfasser <rs ref="#tillich_person_id__1154" type="person">Kurt
-                     Leeses</rs> Arbeit über "<rs ref="#tillich__FL58Z4YY" type="work">Die Krisis
-                     und Wende des christlichen Geistes</rs>" als "bedeutendes und eindrucksvolles
-                  Buch" würdigt (ebd., S. 22, Anm. 1).</note> Aber meine Ueberlastung ist fast zu
+                     Leeses</rs> Arbeit über <q><rs ref="#tillich__FL58Z4YY" type="work">Die Krisis
+                     und Wende des christlichen Geistes</rs></q> als <q>bedeutendes und eindrucksvolles
+                  Buch</q> würdigt (ebd., S. 22, Anm. 1).</note> Aber meine Ueberlastung ist fast zu
                groß, um etwas versprechen zu können.</p>
-            <p>Dein heutiger Brief<note type="ea">Liegt nicht vor.</note> hat mich sehr
-               ergriffen. Ich finde Deinen Schritt<note type="ea"><rs ref="#tillich_person_id__1154"
-                     type="person">Leese</rs> hatte im <date when="1932-04">April 1932</date> sein
+<p>Dein heutiger Brief<note type="ea">Liegt nicht vor.</note> hat mich sehr
+               ergriffen. Ich finde Deinen Schritt<note type="ea"><rs ref="#tillich_person_id__1154" type="person">Leese</rs> hatte im <date when="1932-04">April 1932</date> sein
                   Pastorenamt niedergelegt und hatte sich in den Ruhestand versetzen lassen. Er
                   berief sich dabei auf die entsprechende Möglichkeit laut Verfassung der
-                  Evangelisch-lutherischen Kirche im Hamburgischen Staate, "wenn sich der Geistliche
+                  Evangelisch-lutherischen Kirche im Hamburgischen Staate, <q>wenn sich der Geistliche
                   aus Gewissensgründen nicht mehr imstande sieht, die mit dem Amtsgelübde
-                  übernommenen Verpflichtungen zu erfüllen" (<rs ref="#tillich__SR2X6H3E"
-                     type="work">Verfassung der Evangelisch-lutherischen Kirche im Hamburgischen
+                  übernommenen Verpflichtungen zu erfüllen</q> (<rs ref="#tillich__SR2X6H3E" type="work">Verfassung der Evangelisch-lutherischen Kirche im Hamburgischen
                      Staate vom 30.05.1923, §36 Abs. 2</rs>).</note> höchst anständig und konsequent,
                und glaube, daß er Dir seelisch wie jede wirkliche Tat sehr viel nützen und Dich auch
-               geistig befruchten wird. Von uns dreien, <rs ref="#tillich_person_id__2020"
-                  type="person">Wegener</rs>, Dir und mir, steht nun keiner mehr im unmittelbaren
+               geistig befruchten wird. Von uns dreien, <rs ref="#tillich_person_id__2020" type="person">Wegener</rs>, Dir und mir, steht nun keiner mehr im unmittelbaren
                Kirchendienst; doch finde ich, daß wir beide keinen Augenblick vergessen sollten, daß
                wir letztlich dem in der Kirche Gemeinten und Verfälschtem zu dienen haben. Und das
                tust Du ja auch mit Deinem <rs ref="#tillich__FL58Z4YY" type="work">Buch</rs>.</p>
-            <p>Selbstverständlich werde ich alles tun, um Dir zu helfen. Doch ist das augenblicklich
+<p>Selbstverständlich werde ich alles tun, um Dir zu helfen. Doch ist das augenblicklich
                sehr wenig. Seit Weihnachten haben auch meine Vorträge völlig aufgehört. Hast Du
                keine Beziehungen zum Rundfunk? Freilich bringt auch das nicht viel ein. Was die
                pädagogischen Akademien betrifft, so ist ja nach Abschaffung von 7 Akademien
                keinerlei Möglichkeit von Neueinstellungen. Erst müssen alle andern untergebracht
-               sein. Das Beste wäre, wenn Du Deine Position in <rs ref="#tillich_place_id__198"
-                  type="place">Hamburg</rs> weiter ausbauen würdest. Nachdem Du den<pb n="2"/>
+               sein. Das Beste wäre, wenn Du Deine Position in <rs ref="#tillich_place_id__198" type="place">Hamburg</rs> weiter ausbauen würdest. Nachdem Du den<pb n="2"/>
                Lehrauftrag für die Lehrerstudenten bekommen hast, muß das doch möglich sein. Oder
                ist der in Folge Deiner Amtsniederlegung illusorisch geworden?</p>
-            <p>Ueberhaupt wäre ich Dir dankbar für einige Mitteilungen über die praktische
+<p>Ueberhaupt wäre ich Dir dankbar für einige Mitteilungen über die praktische
                Situation. Wie ist es überhaupt rechtlich möglich, daß Du 60% Deiner Bezüge
                   behältst, da Du doch noch nicht pensionsberechtigt bist?
                Gibt es einen solchen Paragraphen bei Euch? Wo werdet Ihr wohnen? Was gedenkst Du
                sonst zu tun? Schreibe mir doch einmal einen ausführlicheren Brief.</p>
-            <closer>
-               <salute>In Treue<lb/> Dein<lb/></salute>
-               <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-            </closer>
-            <postscript>
-               <p> Grüße <rs ref="#tillich_person_id__2885" type="person">Minna</rs>, deren
+<closer>
+<salute>In Treue<lb/> Dein<lb/></salute>
+<signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+</closer>
+<postscript>
+<p> Grüße <rs ref="#tillich_person_id__2885" type="person">Minna</rs>, deren
                   Tapferkeit ich bewunde<supplied>re</supplied>
-               </p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+</p>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

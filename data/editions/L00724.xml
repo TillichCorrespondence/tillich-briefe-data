@@ -1,89 +1,88 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00724">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom Juli 1921</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Anna Rüther</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00724" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich <lb/>vom Juli 1921</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Anna Rüther</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">Wien</placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                  <idno>bMS 721/2(17)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/2(17)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date when="1921-07">07.1921</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-         <change when="2024-02-07" who="AR">Initiale Auszeichnung des Transkripts</change>
-         <change when="2025-03-19" who="FS">Kollationierung</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <salute>Geliebte <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>! </salute>
-            </opener>
-            <p>Hoffentlich wirst Du nun alle drei Briefe, die ich nach <rs
-                  ref="#tillich_place_id__569" type="place">Gera</rs> schrieb, in den Händen haben,
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1921-07">07.1921</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2024-02-07" who="AR">Initiale Auszeichnung des Transkripts</change>
+<change when="2025-03-19" who="FS">Kollationierung</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Geliebte <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>! </salute>
+</opener>
+<p>Hoffentlich wirst Du nun alle drei Briefe, die ich nach <rs ref="#tillich_place_id__569" type="place">Gera</rs> schrieb, in den Händen haben,
                ich warte sehr dringend auf Antwort bez. Schweden, und bitte Dich, mir in
                Ruhe und Umsicht Deine Gedanken zu entwickeln; denn alles andere hat jetzt keinen
                Sinn mehr. Ich warte täglich in Sehnsucht und Ruhe auf Deine Briefe. In Sehnsucht,
@@ -95,32 +94,27 @@
                der Weg, den wir in gemeinsamer Überlegung finden müssen. Ich warte auf das erste,
                und sinne über den zweiten. – In mir selbst bewegt sich unsere Tat als mein tiefstes
                Schicksal, und jedes Ereignis und jede Anspielung setzt die Untergründe meiner Seele
-               in Bewegung. Gestern war ich im Theater und sah ein Stück: "Der Teufel", das von
+               in Bewegung. Gestern war ich im Theater und sah ein Stück: <q>Der Teufel</q>, das von
                ähnlichen Dingen handelt.<note type="ea">Es dürfte sich um das gleichnamige Stück von <rs ref="#tillich_person_id__3202" type="person">Ferenc Molnár</rs> handeln.</note> Trotz bühnenmäßiger und geistiger Mängel – ich hatte
                natürlich Freibillet – war ich erschüttert. Der Schicksalssturm auf der Bühne, wurde
                Sturm für das Schicksal, das in uns sich bereitet und trieb das meist ruhende Meer zu
-               wilden Wogen; und doch triumphierte in mir der "<hi rend="aq">amor fati</hi>", die Liebe zum Schicksal,
+               wilden Wogen; und doch triumphierte in mir der <q><hi rend="aq">amor fati</hi></q>, die Liebe zum Schicksal,
                das durch Leiden die Größe gibt, von ihm gewürdigt zu sein. – Meine äußere Lage
-               scheint günstiger zu werden; ich habe einen Brief von Professor <rs
-                  ref="#tillich_person_id__2803" type="person">Kestenberg</rs>, Kunstreferent im
+               scheint günstiger zu werden; ich habe einen Brief von Professor <rs ref="#tillich_person_id__2803" type="person">Kestenberg</rs>, Kunstreferent im
                Kultusministerium, der mich schätzt und mir helfen will, daß er mit
                   verschiedenen gesprochen habe, daß man meine Arbeiten aufmerksam
                verfolge, und daß er sich über die Zukunft sehr optimistisch äußern könne. Sonnabend
                gehe ich zu ihm und werde näheres hören. – Wie ist es eigentlich mit Eurer
                Berufung <unclear cert="high" reason="damage">nach</unclear><note type="ea">Am rechten unteren Seitenrand ist das Papier beschädigt, wodurch einige Worte nur teilweise zu lesen sind.</note> <rs ref="#tillich_place_id__37" type="place">Berlin</rs>? Ich habe lange nichts darüber
                gehört. Ist die Sache eingeschlafen? <unclear cert="high">Bitte</unclear> gib mir
-               doch sofort Nachricht darüber. – Ist es nicht möglich, daß Ihr <unclear cert="high"
-                  >nach</unclear>
-               <rs ref="#tillich_place_id__352" type="place">Neuendorf</rs> über <rs
-                  ref="#tillich_place_id__37" type="place">Berlin</rs> fahrt? Und daß wir uns dann
-               ein paar <unclear cert="high">Stunden</unclear><unclear>¿¿¿ ... ¿¿¿</unclear><pb
-                  n="2"/> Vielleicht kannst Du einen neuen festen oder beweglichen "Gain" machen
+               doch sofort Nachricht darüber. – Ist es nicht möglich, daß Ihr <unclear cert="high">nach</unclear>
+<rs ref="#tillich_place_id__352" type="place">Neuendorf</rs> über <rs ref="#tillich_place_id__37" type="place">Berlin</rs> fahrt? Und daß wir uns dann
+               ein paar <unclear cert="high">Stunden</unclear><unclear>¿¿¿ ... ¿¿¿</unclear><pb n="2"/> Vielleicht kannst Du einen neuen festen oder beweglichen <q>Gain</q> machen
                lassen? Vielleicht kannst Du zu diesem Zweck zwei Tage vor Urlaubsanfang kommen,
                damit Ihr an der See keine Zeit verliert. Auch darüber, und wann das etwa sein
                könnte, gib mir bitte Nachricht! – Ich selbst habe noch keine festen Pläne; es ist
                alles so teuer und es kommt hinzu, daß ich noch nicht recht weiß, mit wem ich gehen
-               könnte; allein ist unmöglich, da ich jemand haben muß, mit dem ich außer Mittag alle Mahlzeiten esse, da es sonst zu teuer wird. Und <rs
-                  ref="#tillich_person_id__2085" type="person">Toni</rs> muß hierbleiben wegen des
+               könnte; allein ist unmöglich, da ich jemand haben muß, mit dem ich außer Mittag alle Mahlzeiten esse, da es sonst zu teuer wird. Und <rs ref="#tillich_person_id__2085" type="person">Toni</rs> muß hierbleiben wegen des
                Mieters. – Deinen Brief an <rs ref="#tillich_person_id__2825" type="person">Nora</rs>
                habe ich erhalten; er ist sehr scharf; denn er trifft die wundeste Stelle, die
                Eifersucht; ich will ihn abschicken und selbst dazu schreiben, ohne auf die
@@ -142,10 +136,10 @@
                <unclear>Bin¿¿¿</unclear>, sondern um eine Stätte der Ruhe zur Entscheidung.
                <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>! Die ungeheuren <unclear cert="high">Schwankungen</unclear> Deiner Seele
                machen mir Sorgen!</p>
-            <closer>
-               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

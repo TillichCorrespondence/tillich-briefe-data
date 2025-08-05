@@ -1,94 +1,92 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01073">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Helmuth Schreiner an Paul Tillich <lb/>vom 11. Juli 1930</title>
-            <author ref="#tillich_person_id__1739">Helmuth Schreiner</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01073" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Helmuth Schreiner an Paul Tillich <lb/>vom 11. Juli 1930</title>
+<author ref="#tillich_person_id__1739">Helmuth Schreiner</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="typescript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__307">Münster</settlement>
-                  <institution>Westfälische Wilhelms-Universität Münster</institution>
-                  <repository>Universitäts- und Landesbibliothek Münster</repository>
-                  <collection>Nachlass Helmuth Schreiner</collection>
-                  <idno>Kapsel 24: Briefwechsel 1924-1928 +1929-1931, 24,051</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, maschinenschriftlich</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="typescript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__307">Münster</settlement>
+<institution>Westfälische Wilhelms-Universität Münster</institution>
+<repository>Universitäts- und Landesbibliothek Münster</repository>
+<collection>Nachlass Helmuth Schreiner</collection>
+<idno>Kapsel 24: Briefwechsel 1924-1928 +1929-1931, 24,051</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, maschinenschriftlich</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1739">Helmuth Schreiner</persName>
-
-               <date when="1930-07-11">11.07.1930</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-07-07">Initiale Auszeichnung des Transkripts</change>
-         <change who="FS" when="2024-01-16">Endabnahme</change>
-
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener><dateline>
-                  <date when="1930-07-11">11. Juli 1930</date></dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>!</salute>
-            </opener>
-            <p>Vor einigen Tagen bin ich vom Kultusministerium gebeten worden, ihnen in der Frage
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1739">Helmuth Schreiner</persName>
+<date when="1930-07-11">11.07.1930</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-07-07" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-01-16" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline>
+<date when="1930-07-11">11. Juli 1930</date></dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>!</salute>
+</opener>
+<p>Vor einigen Tagen bin ich vom Kultusministerium gebeten worden, ihnen in der Frage
                der Erteilung der öffentlichen Körperschaftsrechte an die Freidenker ein Gutachten zu
                erstatten. In einer Vorbesprechung vor einigen Wochen habe ich auch auf Befragen
                Deinen Namen unter denjenigen genannt, die in erster Linie für ein solches Gutachten
@@ -97,18 +95,16 @@
                wenn wir uns über die Gründe und Gegengründe, die für die Anerkennung der Freidenker
                von Seiten des Staates sprechen, irgendwie unterhalten könnten. Ich halte die Sache
                für wichtig, da sie u.U. sehr starke kulturpolitische Konsequenzen hat.</p>
-            <p>Vor Ostern habe ich Deine "<rs type="work" ref="#tillich__9C4WYQAG">Religiöse
-                  Verwirklichung</rs>" gelesen. Ich wollte Dir schon immer einmal schreiben und
+<p>Vor Ostern habe ich Deine <q><rs ref="#tillich__9C4WYQAG" type="work">Religiöse
+                  Verwirklichung</rs></q> gelesen. Ich wollte Dir schon immer einmal schreiben und
                aussprechen, welchen grossen Gewinn ich davon gehabt habe. Ja, ich kann fast sagen,
                dass mir manche Kapitel eine Offenbarung waren. Allerdings hätte ich das <rs ref="#tillich__XYSIHYS3" type="work">1.Kapitel</rs>
-               gern noch<pb n="2"/> konkreter gestaltet gesehen. In meinem Buch <rs type="work" ref="#tillich__DVV3U655">"Pädagogik aus
-                  Glauben"</rs> bin ich öfters auf Deine Gedanken zurückgekommen.</p>
-            <closer>
-               <salute>Mit herzlichem Gruss</salute>
-            </closer>
-
-         </div>
-
-      </body>
-   </text>
+               gern noch<pb n="2"/> konkreter gestaltet gesehen. In meinem Buch <rs ref="#tillich__DVV3U655" type="work"><q>Pädagogik aus
+                  Glauben</q></rs> bin ich öfters auf Deine Gedanken zurückgekommen.</p>
+<closer>
+<salute>Mit herzlichem Gruss</salute>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

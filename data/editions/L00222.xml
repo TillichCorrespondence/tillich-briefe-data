@@ -1,277 +1,240 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00222">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Friedrich Büchsel an Paul Tillich <lb/>vom 12. Oktober 1907</title>
-            <author ref="#tillich_person_id__310">Friedrich Büchsel</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00222" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Friedrich Büchsel an Paul Tillich <lb/>vom 12. Oktober 1907</title>
+<author ref="#tillich_person_id__310">Friedrich Büchsel</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/127</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-               <additional>
-                  <listBibl>
-                     <biblStruct type="monograph" n="firstPrint">
-                        <monogr>
-                           <author>Paul Tillich</author>
-                           <editor>Renate Albrecht/René Trautmann (Hg.)</editor>
-                           <title>Briefwechsel und Streitschriften. Theologische, philosophische und
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/127</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct n="firstPrint" type="monograph">
+<monogr>
+<author>Paul Tillich</author>
+<editor>Renate Albrecht/René Trautmann (Hg.)</editor>
+<title>Briefwechsel und Streitschriften. Theologische, philosophische und
                               politische Stellungnahmen und Gespräche</title>
-                           <edition>Erste Auflage</edition>
-                           <imprint>
-                              <publisher>De Gruyter</publisher>
-                              <pubPlace ref="#tillich_place_id__143">Frankfurt a.M.</pubPlace>
-                              <date when="1983">1983</date>
-                              <biblScope>14-20</biblScope>
-                           </imprint>
-                        </monogr>
-                        <series>
-                           <title>Ergänzungs- und Nachlassbände zu den gesammelten Werken von Paul
+<edition>Erste Auflage</edition>
+<imprint>
+<publisher>De Gruyter</publisher>
+<pubPlace ref="#tillich_place_id__143">Frankfurt a.M.</pubPlace>
+<date when="1983">1983</date>
+<biblScope>14-20</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Ergänzungs- und Nachlassbände zu den gesammelten Werken von Paul
                               Tillich</title>
-                           <biblScope>VI</biblScope>
-                        </series>
-                     </biblStruct>
-                  </listBibl>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+<biblScope>VI</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__310">Friedrich Büchsel</persName>
-               <placeName ref="#tillich_place_id__416">Stettin</placeName>
-               <date when="1907-10-12">12.10.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-02-24">Initiale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2024-02-09">Vorbereitende Endabnahme</change>
-         <change who="EL" when="2024-02-26">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs type="place" ref="#tillich_place_id__416">Stettin</rs> Kronenhofstr 17a d.
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__310">Friedrich Büchsel</persName>
+<placeName ref="#tillich_place_id__416">Stettin</placeName>
+<date when="1907-10-12">12.10.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-02-24" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-02-09" who="PS">Vorbereitende Endabnahme</change>
+<change when="2024-02-26" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__416" type="place">Stettin</rs> Kronenhofstr 17a d.
                      <date when="1907-10-12">12. Okt. 1907</date></dateline>
-               <salute>Lieber <rs type="person" ref="#tillich_person_id__1928">Paul</rs>,</salute>
-            </opener>
-            <p><hi rend="aq"><foreign xml:lang="lat">animus fert</foreign></hi> der Geist treibt
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
+</opener>
+<p><hi rend="aq"><foreign xml:lang="lat">animus fert</foreign></hi> der Geist treibt
                mich, zwar nicht die Verwandlungen die die Götter mit alten Formen vornahmen zu
-                  besingen<note type="ea">Vgl. <rs type="work" ref="#tillich__GDZ8A7XV" n="1">Ovid,
+                  besingen<note type="ea">Vgl. <rs n="1" ref="#tillich__GDZ8A7XV" type="work">Ovid,
                      Metamorphosen, I, S. lf</rs>.</note>, aber Dich von den Verwandlungen meiner
                Ideen in Sachen des irrationalen u. des rationalen Mysticismus in Kenntnis zu setzen.
                   <hi rend="u" resp="#tillich_person_id__1928">Es wird besser sein wenn wir jene
                   methodische Grundlegung der Theologie zum alten Eisen legen</hi>. Ich fürchte
-               nämlich, daß der rationale Mysticismus unser gemeinsamer Feind nicht anders als "ein
-               hölzernes Eisen" genannt zu werden verdient. Er scheint mir eine Waffe die nicht
-               schneidet, gegen die wir uns daher auch nicht mit einem irrationalen <hi rend="aq"
-                  >Sauls</hi>panzer<note type="ea">Vgl. <rs type="bible" ref="Sam-17,38">I. Sam. 17,
+               nämlich, daß der rationale Mysticismus unser gemeinsamer Feind nicht anders als <q>ein
+               hölzernes Eisen</q> genannt zu werden verdient. Er scheint mir eine Waffe die nicht
+               schneidet, gegen die wir uns daher auch nicht mit einem irrationalen <hi rend="aq">Sauls</hi>panzer<note type="ea">Vgl. <rs ref="Sam-17,38" type="bible">I. Sam. 17,
                      38f.</rs></note> zu schützen<pb n="2"/> brauchen der uns doch auf die Dauer nur
                hinderlich wäre. <hi rend="u" resp="#tillich_person_id__1928">Verschanzen wir uns
-                  lieber einfach hinter den Mysticismus und argumentieren <hi rend="aq"><foreign
-                        xml:lang="ita">e concesso</foreign></hi>, daß es sich hier eben um <hi
-                     rend="aq"><foreign xml:lang="lat">mysteria</foreign></hi> handelt.</hi> Das muß
-               uns <rs type="person" ref="#tillich_person_id__1291">Medicus</rs> u. alle
+                  lieber einfach hinter den Mysticismus und argumentieren <hi rend="aq"><foreign xml:lang="ita">e concesso</foreign></hi>, daß es sich hier eben um <hi rend="aq"><foreign xml:lang="lat">mysteria</foreign></hi> handelt.</hi> Das muß
+               uns <rs ref="#tillich_person_id__1291" type="person">Medicus</rs> u. alle
                seinesgleichen zugeben. Eine Religionsphilosophie die das <hi rend="u">Mysterium</hi>
-               aus der Religion streicht ist ja möglich kann uns aber nach dem Auftreten der <rs
-                  type="work" ref="#tillich__MJJW8KDJ">Kritik der reinen Vernunft</rs> nicht mehr
-               imponieren. Diesen Grundgedanken des seligen <rs type="person"
-                  ref="#tillich_person_id__1020">Kant</rs> den er ja nicht zuerst gehabt hat, können
+               aus der Religion streicht ist ja möglich kann uns aber nach dem Auftreten der <rs ref="#tillich__MJJW8KDJ" type="work">Kritik der reinen Vernunft</rs> nicht mehr
+               imponieren. Diesen Grundgedanken des seligen <rs ref="#tillich_person_id__1020" type="person">Kant</rs> den er ja nicht zuerst gehabt hat, können
                wir immer festhalten: Alles kategoriale Denken reicht an eine erschöpfende
                Darstellung des religiösen Erlebnisses nicht heran u. dies Zugeständnis ist ein
                wesentliches Stück der Religion, so daß keine Religionsphilosophie sich ihm entziehen
-               darf; auf ihm beruht die Selbständigkeit u. Möglichkeit einer <hi rend="u"
-                  resp="#tillich_person_id__1928">Religionsphilosophie</hi> gegenüber den
+               darf; auf ihm beruht die Selbständigkeit u. Möglichkeit einer <hi rend="u" resp="#tillich_person_id__1928">Religionsphilosophie</hi> gegenüber den
                empirischen Wissenschaften.<pb n="3"/> Haben wir das aber erst einmal fest ins Auge
                gefaßt, so wird eine Unterscheidung zwischen rationalem u. irrationalem Mysticismus
-               einigermaßen schief, insofern das erste eine <hi rend="aq"><foreign xml:lang="lat"
-                     >contradictio in adiecto</foreign></hi> u. das zweite eine Tautologie bedeutet.
+               einigermaßen schief, insofern das erste eine <hi rend="aq"><foreign xml:lang="lat">contradictio in adiecto</foreign></hi> u. das zweite eine Tautologie bedeutet.
                Du könntest mir gegen <hi rend="u" resp="#tillich_person_id__1928">diese letztere
                   Behauptung einwenden, daß <hi rend="aq">ratio</hi> hier eben die Vernunft im
                   Unterschied von <hi rend="aq">intellectus</hi>, dem Verstand bedeute</hi> u. so
-               jene oben genannte Unterscheidung von <hi rend="aq">mysticism</hi>. <hi rend="aq"
-                  >rat. u. myst. irrat</hi>. möglich sei. Nun gut. Dann will ich mich jedenfalls,
-               wie schon angedeutet nicht in Gegensatz zur "<hi rend="aq"><foreign xml:lang="lat"
-                     >ratio</foreign></hi>" setzen u. überlasse den <hi rend="aq">myst. irrat</hi>.
+               jene oben genannte Unterscheidung von <hi rend="aq">mysticism</hi>. <hi rend="aq">rat. u. myst. irrat</hi>. möglich sei. Nun gut. Dann will ich mich jedenfalls,
+               wie schon angedeutet nicht in Gegensatz zur <q><hi rend="aq"><foreign xml:lang="lat">ratio</foreign></hi></q> setzen u. überlasse den <hi rend="aq">myst. irrat</hi>.
                andern Leuten. Die Finsternis eines <hi rend="aq">irrat. myst.</hi> wird mir zu dick,
-               da kann ich mich nicht drin bewegen. Ich möchte versuchen "<rs type="person"
-                  ref="#tillich_person_id__1291">Med.</rs>" von einer andern Seite aus beizukommen.
+               da kann ich mich nicht drin bewegen. Ich möchte versuchen <q><rs ref="#tillich_person_id__1291" type="person">Med.</rs></q> von einer andern Seite aus beizukommen.
                   <hi rend="u" resp="#tillich_person_id__1928">Dir ist bekannt, daß es sich zwischen
-                     "<rs type="person" ref="#tillich_person_id__1291">M</rs>." u. mir um das
+                     <q><rs ref="#tillich_person_id__1291" type="person">M</rs>.</q> u. mir um das
                   Persönliche in der Religion handelt: Gebet- u. Schuldbegriff.</hi> Seine Religion
                ist orientiert am Seinsbegriff, meine am Persönlichkeitsbegriff.<pb n="4"/> (Ich kann
                es nicht unterlassen <add place="superlinear">hervorzuheben</add>, daß der in meiner
-               Religionsphilosophie als Gegner figurierende <rs type="person"
-                  ref="#tillich_person_id__1291">Medicus</rs> mit dem lebendigen Privatdozenten
+               Religionsphilosophie als Gegner figurierende <rs ref="#tillich_person_id__1291" type="person">Medicus</rs> mit dem lebendigen Privatdozenten
                nicht einfach identifiziert werden darf; Du verstehst mich ja.) Der Seinsbegriff
                scheint zum Grundbestandteil des Gottesbegriffs deswegen gewählt, weil ein Sein dem
-               Ich immanent gedacht werden kann. Das ergiebt <add place="sublinear"
-                  >anscheinend</add> keine großen Schwierigkeiten, mich mit einem Gehalt einem
-               "reinen Sein" erfüllt zu denken. Von hier aus ergiebt sich aber ebenso <del rend="s"
-                  >sehr</del>
-               <add place="superlinear">klar</add> die Ablehnung des Schuldbegriffs, <del rend="s"
-                  >im</del>
-               <add place="superlinear">der die</add> Schuld <del rend="s">der</del>
-               <add place="superlinear">als</add> Vergebungsbedürftigkeit als etwas Seiendes
+               Ich immanent gedacht werden kann. Das ergiebt <add place="sublinear">anscheinend</add> keine großen Schwierigkeiten, mich mit einem Gehalt einem
+               <q>reinen Sein</q> erfüllt zu denken. Von hier aus ergiebt sich aber ebenso <del rend="s">sehr</del>
+<add place="superlinear">klar</add> die Ablehnung des Schuldbegriffs, <del rend="s">im</del>
+<add place="superlinear">der die</add> Schuld <del rend="s">der</del>
+<add place="superlinear">als</add> Vergebungsbedürftigkeit als etwas Seiendes
                betrachtet, u. des Gebetsbegriffs, der im Gebet etwas anderes als Selbstbesinnung
                sieht. Denn beides zeigt eben, daß die Verbindung zwischen Gottheit u. Mensch nicht
                nur auf <add place="superlinear">der</add> menschlichen Seite persönlich ist, sondern
-               auch auf göttlichen, daß nicht menschlicher Wille göttlichem "Sein" sondern
+               auch auf göttlichen, daß nicht menschlicher Wille göttlichem <q>Sein</q> sondern
                göttlichem Willen gegenüber steht. Ich habe ja an diesem Punkte keine ausführlichen
-                  Auseinandersetzungen<pb n="5"/> "<rs type="person" ref="#tillich_person_id__1291"
-                  >M</rs>"s. Jedenfalls sind sie schon sehr lange her. Aber hier scheint mir das <hi
-                  rend="aq"><foreign xml:lang="lat">punctum saliens</foreign></hi>. <hi rend="u"
-                  resp="#tillich_person_id__1928"><rs type="person" ref="#tillich_person_id__1291"
-                     >M</rs>.", vom Ich ausgehend, macht Gott zum Korrelat des Ichs.</hi> Bei <rs
-                  type="person" ref="#tillich_person_id__589">Fichte</rs> in den
+                  Auseinandersetzungen<pb n="5"/> <q><rs ref="#tillich_person_id__1291" type="person">M</rs></q>s. Jedenfalls sind sie schon sehr lange her. Aber hier scheint mir das <hi rend="aq"><foreign xml:lang="lat">punctum saliens</foreign></hi>. <hi rend="u" resp="#tillich_person_id__1928"><rs ref="#tillich_person_id__1291" type="person">M</rs>.<q>, vom Ich ausgehend, macht Gott zum Korrelat des Ichs.</q></hi> Bei <rs ref="#tillich_person_id__589" type="person">Fichte</rs> in den
                Atheismusstreitschriften ist das deutlich. Später findet sich formal auch die
-               umgekehrte Konstruktion, (<rs type="work" ref="#tillich__KT6Q23TM">WL von 1810</rs>
-               vgl <rs type="work" ref="#tillich__EDIF8PIL">Medicus Fichte</rs>
-               <add place="left">Fortsetzung 9.13.</add> S 241 ff) aber, wie <rs type="person"
-                  ref="#tillich_person_id__1291">Medicus</rs> S 243 zeigt, ist das im Grunde nur
-               äußerlich: "der <hi rend="u">Ichcharakter</hi> der Lebensinhalte garantiert deren
-               Herkunft aus dem absoluten Ich, aus Gott"<del rend="s">)</del>. Diese Wertung des
-               "Ichs" ist charakteristisch für <rs type="person" ref="#tillich_person_id__1291"
-                  >Medicus</rs>-<rs type="person" ref="#tillich_person_id__589">Fichte</rs>.
-               (Hierbei möchte ich anmerken: ob <rs type="person" ref="#tillich_person_id__1291"
-                  >Med</rs>.-<rs type="person" ref="#tillich_person_id__589">F</rs> der größte der
+               umgekehrte Konstruktion, (<rs ref="#tillich__KT6Q23TM" type="work">WL von 1810</rs>
+               vgl <rs ref="#tillich__EDIF8PIL" type="work">Medicus Fichte</rs>
+<add place="left">Fortsetzung 9.13.</add> S 241 ff) aber, wie <rs ref="#tillich_person_id__1291" type="person">Medicus</rs> S 243 zeigt, ist das im Grunde nur
+               äußerlich: der <hi rend="u">Ichcharakter</hi> der Lebensinhalte garantiert deren
+               Herkunft aus dem absoluten Ich, aus Gott<q><del rend="s">)</del>. Diese Wertung des
+               </q>Ichs<q> ist charakteristisch für <rs ref="#tillich_person_id__1291" type="person">Medicus</rs>-<rs ref="#tillich_person_id__589" type="person">Fichte</rs>.
+               (Hierbei möchte ich anmerken: ob <rs ref="#tillich_person_id__1291" type="person">Med</rs>.-<rs ref="#tillich_person_id__589" type="person">F</rs> der größte der
                einzige d.h. die Konsequenz aller Gegner ist, wie wir damals feststellten, ist mir
                zweifelhaft, jedenfalls ist er der den ich am besten kenne) Was fangen wir nun mit
-               dieser Autonomie an? Jedenfalls ist sie nicht die Rationalität u. treibende in "<rs
-                  type="person" ref="#tillich_person_id__1291">Med</rs>"s Gedanken. <add
-                  place="superlinear">Die</add> Rationalität ist durchaus der Autonomie
+               dieser Autonomie an? Jedenfalls ist sie nicht die Rationalität u. treibende in </q><rs ref="#tillich_person_id__1291" type="person">Med</rs><q>s Gedanken. <add place="superlinear">Die</add> Rationalität ist durchaus der Autonomie
                untergeordnet, sie<note type="ea">Pfeil auf das in der oberen Zeile stehende Wort
-                  "Rationalität".</note> empfängt von der Autonomie ihre Macht u. wird nötigenfalls
+                  Rationalität<q>.</q></note> empfängt von der Autonomie ihre Macht u. wird nötigenfalls
                aufgegeben (im ontologischen Gottesbeweis), wenn nur die <hi rend="u">Autonomie</hi>
                gerettet wird! Die Autonomie ist eine Forderung der praktischen Ver<pb n="6"/>nunft
-               d.h. des sittlichen Willens, sagt "<rs type="person" ref="#tillich_person_id__589"
-                  >Med</rs>." Daß <del rend="s">sie</del>
-               <add place="superlinear">diese Forderung</add> aus dem Willen hervorgeht, ist
+               d.h. des sittlichen Willens, sagt <rs ref="#tillich_person_id__589" type="person">Med</rs>.<q> Daß <del rend="s">sie</del>
+<add place="superlinear">diese Forderung</add> aus dem Willen hervorgeht, ist
                deutlich; wie kommt aber dieser Wille dazu für sich das Prädikat: sittlich in
                Anspruch zu nehmen. Warum ist <hi rend="u">Freiheit</hi>
-               <hi rend="u">göttlich</hi>? Es ist ja natürlich unmöglich jemand an dieser Meinung zu
+<hi rend="u">göttlich</hi>? Es ist ja natürlich unmöglich jemand an dieser Meinung zu
                behindern, der sagt: <hi rend="aq"><foreign xml:lang="lat">sic volo, sic jubeo, stat
-                  pro ratione voluntas</foreign></hi><note type="ea">Vgl. <rs type="work" ref="#tillich__KMCRV2SQ" n="223">Juvenal VI, 223</rs></note>. Aber gegegenüber den <hi rend="u"
-                  >Prädikaten</hi>: Freiheit, Wollen, sollen ja auch die: sittlich göttlich "<hi
-                  rend="aq"><foreign xml:lang="lat">ratio</foreign></hi>" zur Geltung kommen; beide
-               Prädikatreihen sollen als zusammenstimmend, "einträchtig", würde <rs type="person"
-                  ref="#tillich_person_id__1712">Schlatter</rs> sagen, <del rend="s">nach</del>
-               <add place="superlinear">zusammen</add> geordnet werden. Giebt es nun aber einen
-               anderen Maßstab für Sittlichkeit Göttlichkeit "Vernünftigkeit" als Autonomie? Das ist
-               die Frage um die es sich Kollege "<rs type="person" ref="#tillich_person_id__1291"
-                  >Medicus</rs>" gegenüber handelt<del rend="s">?</del>. Hier hat uns der alte <rs
-                  type="person" ref="#tillich_person_id__1020">Kant</rs> mit seiner praktischen
+                  pro ratione voluntas</foreign></hi><note type="ea">Vgl. <rs n="223" ref="#tillich__KMCRV2SQ" type="work">Juvenal VI, 223</rs></note>. Aber gegegenüber den <hi rend="u">Prädikaten</hi>: Freiheit, Wollen, sollen ja auch die: sittlich göttlich </q><hi rend="aq"><foreign xml:lang="lat">ratio</foreign></hi><q> zur Geltung kommen; beide
+               Prädikatreihen sollen als zusammenstimmend, </q>einträchtig<q>, würde <rs ref="#tillich_person_id__1712" type="person">Schlatter</rs> sagen, <del rend="s">nach</del>
+<add place="superlinear">zusammen</add> geordnet werden. Giebt es nun aber einen
+               anderen Maßstab für Sittlichkeit Göttlichkeit </q>Vernünftigkeit<q> als Autonomie? Das ist
+               die Frage um die es sich Kollege </q><rs ref="#tillich_person_id__1291" type="person">Medicus</rs><q> gegenüber handelt<del rend="s">?</del>. Hier hat uns der alte <rs ref="#tillich_person_id__1020" type="person">Kant</rs> mit seiner praktischen
                Vernunft, die blind wie die jungen Hunde ist obwohl sie Königin der Welt sein will,
                in arge Verlegenheit gebracht. Vollständig zugegeben daß man zu: sittlich göttlich
-               "vernünftig" nur auf Grund einer Gewissensentscheidung kommt, daß Wollen dabei <del
-                  rend="s">nur</del>
-               <add place="superlinear">die</add>
-               <hi rend="aq"><foreign xml:lang="lat">conditio sine qua non</foreign></hi> bildet,
+               </q>vernünftig<q> nur auf Grund einer Gewissensentscheidung kommt, daß Wollen dabei <del rend="s">nur</del>
+<add place="superlinear">die</add>
+<hi rend="aq"><foreign xml:lang="lat">conditio sine qua non</foreign></hi> bildet,
                aber zwischen der <hi rend="aq"><foreign xml:lang="lat">conditio sine qua
                      non</foreign></hi> u. dem eigentlichen constitutiven das Wesen eines
-               "Gegenstandes" bildenden ist noch ein Unterschied. Aber was ist nun das Constitutive?
+               </q>Gegenstandes<q> bildenden ist noch ein Unterschied. Aber was ist nun das Constitutive?
                Wie bringen wir Vernunft u. Freiheit zusammen? Wir<pb n="7"/> sprachen damals vom
                Risiko u. waren geneigt uns dabei zu beruhigen. Freilich, wenn man als Ferienmensch
                in Wald u. See herumstreift, dann mag man sich dabei beruhigen; aber steht der ernste
                Schreibtisch u. die Größe des Theologenberufs als Studieninspektor vor einem, so mag
                man nicht riskieren. Hier muß es besser sein! Ich ver<del rend="s">stehe</del>gleiche
-               die Anfänge der WL, die sog. <rs type="work" ref="#tillich__QKEX4HWX">2.
-                  Einleitung</rs> (bei <rs type="work" ref="#tillich__EDIF8PIL" n="127">Medicus
+               die Anfänge der WL, die sog. <rs ref="#tillich__QKEX4HWX" type="work">2.
+                  Einleitung</rs> (bei <rs n="127" ref="#tillich__EDIF8PIL" type="work">Medicus
                   Fichte S 127</rs>), wo die intellektuelle Anschauung als Princip der Philosophie
                auftritt. Leben u. Thun der Vernunft wird durch dieselbe vom Philosophen
-               "beobachtet". Hier geht <rs type="person" ref="#tillich_person_id__589">F.</rs>
+               </q>beobachtet<q>. Hier geht <rs ref="#tillich_person_id__589" type="person">F.</rs>
                deutlich über die reine Thätigkeit hinaus er faßt sich so in der ihm gegebenen
-               Organisation auf. Er entdeckt sich selbst d.h. <hi rend="u">er macht "Erfahrung" zur
-                  Grundposition</hi>. Freilich er grenzt diese Erfahrung als Selbsterfahrung gegen
+               Organisation auf. Er entdeckt sich selbst d.h. <hi rend="u">er macht Erfahrung<q> zur
+                  Grundposition</q></hi>. Freilich er grenzt diese Erfahrung als Selbsterfahrung gegen
                alle Dingerfahrung ab, worin ich ihm natürlich zustimme, da ich nicht gesonnen bin
-               mich mit <hi rend="aq"><rs type="person" ref="#tillich_person_id__1832"
-                  >Spinoza</rs></hi> in den <hi rend="aq"><foreign xml:lang="lat"
-                  >Deus</foreign></hi>
-               <figure>
-                  <figDesc>[Darstellung: Logisches Oder-Zeichen.]</figDesc>
-               </figure><hi rend="aq"><foreign xml:lang="lat">natura</foreign></hi> zu verlieren.
-               Aber soll mit der intellektuellen Anschauung wirklich etwas gesagt sein, dann ist <hi
-                  rend="u">Selbst</hi>erfahrung (ich gestatte freilich nicht über dem Selbst die
+               mich mit <hi rend="aq"><rs ref="#tillich_person_id__1832" type="person">Spinoza</rs></hi> in den <hi rend="aq"><foreign xml:lang="lat">Deus</foreign></hi>
+<figure>
+<figDesc>[Darstellung: Logisches Oder-Zeichen.]</figDesc>
+</figure><hi rend="aq"><foreign xml:lang="lat">natura</foreign></hi> zu verlieren.
+               Aber soll mit der intellektuellen Anschauung wirklich etwas gesagt sein, dann ist <hi rend="u">Selbst</hi>erfahrung (ich gestatte freilich nicht über dem Selbst die
                Erfahrung zu streichen) die Grundlage. Jedenfalls ist nicht mehr die
                junge-Hunde-Blindheit die Grundlage, sondern das geöffnete Auge für das Selbst. Ich
                schaue mich selbst an, <add place="sublinear">das <del rend="ow">sagt</del>
-                  <add place="superlinear">ist</add> etwas conkreter als ich besinne mich auf mich
+<add place="superlinear">ist</add> etwas conkreter als ich besinne mich auf mich
                   selbst.</add> Die <del rend="ow">Vernunft</del>
-               <add place="superlinear">Idee</add> in mir kommt zu sich selbt mit <rs
-                  ref="#tillich_person_id__839" type="person">Hegel</rs> zu<pb n="8"/> reden. <del
-                  rend="ow">Der</del>
-               <add place="superlinear">Das</add> mir immanente göttliche Sein gewinnt Dasein in
+<add place="superlinear">Idee</add> in mir kommt zu sich selbt mit <rs ref="#tillich_person_id__839" type="person">Hegel</rs> zu<pb n="8"/> reden. <del rend="ow">Der</del>
+<add place="superlinear">Das</add> mir immanente göttliche Sein gewinnt Dasein in
                mir. (Das ist die theologische Formel für diesen Vorgang. Verwundert erkenne ich
                meine trotz allem vorhandene Einheit mit Gott. Aber ist dies die tiefste
-               Interpretation dieses Vorganges dieses angeschauten "Thuns u. Lebens der Vernunft"?
+               Interpretation dieses Vorganges dieses angeschauten Thuns u. Lebens der Vernunft<q>?
                Ist dies hier überhaupt an seinem tiefsten innerlichsten wesentlichsten Punkt erfaßt?
                Die WL ist erkenntnistheoretische Logik. Soll die Lehre vom Erkennen die Grundlage
                der Theologie abgeben? Ich meine es findet eine Verflachung statt, wenn man, wie es
-               ja seit <rs type="person" ref="#tillich_person_id__1020">Kant</rs> Brauch ist, die
+               ja seit <rs ref="#tillich_person_id__1020" type="person">Kant</rs> Brauch ist, die
                Methodologie des Erkennens zur führenden Wissenschaft macht. Die größten Probleme des
-               Lebens liegen nicht im Erkennen. Erfassen wir den Vorgang der Offenbarung <add
-                  place="superlinear">u. Religion</add> in der Erkenntnissphäre wie ich es oben zu
+               Lebens liegen nicht im Erkennen. Erfassen wir den Vorgang der Offenbarung <add place="superlinear">u. Religion</add> in der Erkenntnissphäre wie ich es oben zu
                beschreiben versuchte, so werden wir ihn doch nicht erschöpfen. Was wir erkennen
                haben wir um das ihm eigentümliche Leben gebracht, uns assimiliert auf Kosten seiner
-               Eigenexistenz. Dein <rs type="person" ref="#tillich_person_id__1924">Vater</rs>
+               Eigenexistenz. Dein <rs ref="#tillich_person_id__1924" type="person">Vater</rs>
                verglich das Erkennen dem Essen, aber der Hase, den ich esse, der ist nur noch der
                Leichnam des<del rend="ow">sen</del> wirklichen Hasen. <del rend="s">Erkennen wir die
                   Welt so lösen wir sie auf in eine toten mathematisch mechanisch wirksamen
@@ -283,81 +246,70 @@
                Eigenexistenz im strengen Sinne des Wortes haben will ich nicht behaupten, sie gehen
                   <del rend="s">wohl</del> unter in dem Gesamtzusammenhang des Seins. Bei den
                historisch wirksamen Persönlichkeiten stellt sich die Frage nach der Eigenexistenz.
-                  "<rs type="person" ref="#tillich_person_id__1291">Medicus</rs>" scheint sie mit
+                  </q><rs ref="#tillich_person_id__1291" type="person">Medicus</rs><q> scheint sie mit
                seinem <foreign xml:lang="grc">πληρωμα</foreign>-Begriff zu beseitigen. Hier stoßen
                wir wieder an das große Problem: wem kommt die Eigenexistenz zu der menschlichen
-               Persönlichkeit oder Gott. "<rs type="person" ref="#tillich_person_id__1712">Med</rs>"
+               Persönlichkeit oder Gott. </q><rs ref="#tillich_person_id__1712" type="person">Med</rs><q>
                löst die Frage so: Die erstere hat ihre Eigenexistenz in der letzteren (sie ist
                   <foreign xml:lang="grc">ενυποστατος</foreign>); d.h. wir haben hier wie die
                Kategorien der Immanenz. – Aber setzen wir diese ab, so bleibt nichts übrig als die
-               Eigenexistenz (falls wir nicht in den Illusionismus eines <rs type="person"
-                  ref="#tillich_person_id__586">Feuerbach</rs> versinken wollen um Gott zum Produkt
+               Eigenexistenz (falls wir nicht in den Illusionismus eines <rs ref="#tillich_person_id__586" type="person">Feuerbach</rs> versinken wollen um Gott zum Produkt
                des Menschen zu machen) <del rend="s">als sie</del> beiden zuzuerkennen (unbeschadet
                sie dessen als empfangene hat, während sie Gott <hi rend="aq">a se</hi> besitzt). Wir
                stellen uns also das Gottesverhältnis analog vor unserm Verhältnis zu dem einzigen
                das uns seine Eigenexistenz kundgibt, zu den Persönlichkeiten. Unsern Gottesbegriff
                gewinnen wir also entweder<pb n="10"/> durch Kategorien der Immanenz oder aus der
-               Analogie der Persönlichkeit. Denn daß das <hi rend="aq"><rs type="person"
-                     ref="#tillich_person_id__1832">Spinoza</rs></hi>sche Ding über uns herrsche
+               Analogie der Persönlichkeit. Denn daß das <hi rend="aq"><rs ref="#tillich_person_id__1832" type="person">Spinoza</rs></hi>sche Ding über uns herrsche
                dulden wir nicht. Die Immanenz-Kategorien müßten wir auf uns nehmen wenn tatsächlich
                dieselben das Thun und Leben der Vernunft, das wir in uns beobachten, richtig
                wiedergäben. Thun sie das? Haben wir Grund, ihre eigentümlich nebelhaft berückenden
                aber auch verwirrenden Resultate anzuerkennen? Wir wissen unsere Eigenexistenz.
                Sollen wir sie so drangeben, daß wir uns nur als existierend in Gott, als zeitliche
                Ausgestaltungen seines <foreign xml:lang="grc">πληρομα</foreign>, ihn widerspiegelnde
-               aber wie das Abendrot auf den Wolken vergängliche Abbilder seine<del rend="ow"
-                  >r</del>s <del rend="s">Majestät</del> Lichtes erkennen? Oder sollte es uns
-               einfallen an Gottes Eigenexistenz zu rühren, Ihn zum <hi rend="aq"><foreign
-                     xml:lang="lat">ordo ordinans</foreign></hi>, der <del rend="s">sich</del> in
+               aber wie das Abendrot auf den Wolken vergängliche Abbilder seine<del rend="ow">r</del>s <del rend="s">Majestät</del> Lichtes erkennen? Oder sollte es uns
+               einfallen an Gottes Eigenexistenz zu rühren, Ihn zum <hi rend="aq"><foreign xml:lang="lat">ordo ordinans</foreign></hi>, der <del rend="s">sich</del> in
                unserer sittlichen Tat erwüchse zu machen? Fassen wir den tiefsten Eindruck, den wir
                von Thun und Leben der Vernunft haben, ins Auge: den, welchen wir haben, wenn wir dem
                gegenüber treten, der von sich gesagt hat <foreign xml:lang="grc">ο εωρακως εμε
-                  εωρακεν τον πατερα</foreign><note type="ea">Vgl. <rs type="bible" ref="Joh-14-9">Joh 14,9</rs>.</note>. Es handelt sich zunächst noch nicht um ihn, sondern
+                  εωρακεν τον πατερα</foreign><note type="ea">Vgl. <rs ref="Joh-14-9" type="bible">Joh 14,9</rs>.</note>. Es handelt sich zunächst noch nicht um ihn, sondern
                nur um den Eindruck, den <hi rend="u">wir</hi>
-               <hi rend="u">in</hi>
-               <hi rend="u">uns</hi> erhalten von dem was er uns zu sagen hat. Daß dies Erlebnis
+<hi rend="u">in</hi>
+<hi rend="u">uns</hi> erhalten von dem was er uns zu sagen hat. Daß dies Erlebnis
                nicht mit den Immanenz-Kate<pb n="12"/>gorien zu erschöpfen ist scheint mir klar.
                Denn in ihm erleben wir Gottes rettendes und richtendes Reden zu uns. In ihm erleben
                wir den persönlichen lebendigen Gott. Hier spitzt sich alles zu, die christologische
-               wie die "theo"logische Frage, denn beides hängt ja letztlich ineinander in Frage: hat
+               wie die </q>theo<q>logische Frage, denn beides hängt ja letztlich ineinander in Frage: hat
                die Grundnorm seines persönliches Gottesverhältnisses für uns zwingende Macht?
                Freilich hier ist ein Risiko nicht zu umgehen, nämlich das: an einer Stelle etwas
-               sagen zu müssen, wo man schweigen möchte wegen der Schwierigkeiten die <hi rend="u"
-                  >jede</hi> positive Aussage hier drücken. Aber hier auf eine Aussage überhaupt
+               sagen zu müssen, wo man schweigen möchte wegen der Schwierigkeiten die <hi rend="u">jede</hi> positive Aussage hier drücken. Aber hier auf eine Aussage überhaupt
                verzichten ist zu bequem modern u. noch einiges mehr aber unser unwürdig. Also sagen
                wir etwas. Thun wir dies dann riskieren wir mit unserer Persönlichkeitsanalogie nicht
-               mehr als <del rend="ow">sonst</del> "<rs type="person" ref="#tillich_person_id__1291"
-                  >Med</rs>", sind nicht irrationaler als er. Wir haben aber zwei Vorzüge: 1) einen
+               mehr als <del rend="ow">sonst</del> </q><rs ref="#tillich_person_id__1291" type="person">Med</rs><q>, sind nicht irrationaler als er. Wir haben aber zwei Vorzüge: 1) einen
                religiös-sittlichen: Das Leben ist beherrscht von persönlichen Kategorien die in
                größere Tiefen hinabreichen als die Immanenz-Kategorien. Dies kann ich freilich hier
-               nicht ausführen aber ein Vergleich einer (etwa der <rs type="person"
-                  ref="#tillich_person_id__1013">Kählerschen</rs>) Dogmatik mit "<rs type="person"
-                  ref="#tillich_person_id__1291">Med</rs>" praktischer Philosophie müßte das zeigen
+               nicht ausführen aber ein Vergleich einer (etwa der <rs ref="#tillich_person_id__1013" type="person">Kählerschen</rs>) Dogmatik mit </q><rs ref="#tillich_person_id__1291" type="person">Med</rs><q> praktischer Philosophie müßte das zeigen
                u. könnte es m. E. auch unschwer. 2) einen onto<pb n="13"/>logisch
-               erkenntnistheoretischen Vorzug. Ich habe mich nie damit befreunden können daß "Ich"
+               erkenntnistheoretischen Vorzug. Ich habe mich nie damit befreunden können daß </q>Ich<q>
                die <hi rend="u"><hi rend="aq">reale</hi></hi> Voraussetzung der Existenz der Dinge
                bin. So wenig ich, wie Dir bekannt, die Dinge an sich schätze diese Basierung des
                Seins auf die uns immanente Vernunft übersteigt meine Begriffe insofern als eben ihr
-               uns-immanent-Sein ein unfaßbares bleibt. Persönlichkeit u. Vernunft als <del
-                  rend="ow">Princip</del>
-               <add place="superlinear">Trägerin</add> aller gedachten Gesetzmäßigkeit stimmt
+               uns-immanent-Sein ein unfaßbares bleibt. Persönlichkeit u. Vernunft als <del rend="ow">Princip</del>
+<add place="superlinear">Trägerin</add> aller gedachten Gesetzmäßigkeit stimmt
                zusammen, aber <add place="superlinear">unsere</add> Persönlichkeit u. Vernunft als
                Trägerin aller realen Gesetzmäßigkeit nicht nur<del rend="s">,</del> sondern alles
                Seins, diese Auflösung des Weltalls in Gedachtes übersteigt mein Vermögen. Der
-               ontologische Idealismus ist mir zu viel, er ist mir nur faßbar als <hi rend="aq"
-                  >Solipsismus</hi> Gottes d.h. als idealistischer "<hi rend="aq">Spinozismus</hi>",
-               u. so ist er ja auch von "<rs type="person" ref="#tillich_person_id__1291">Med</rs>"
-               nicht gewollt.</p>
-            <p>Aber nun will ich schließen mit dem Ausdruck meines doppelten Bedauerns 1) daß Du all
+               ontologische Idealismus ist mir zu viel, er ist mir nur faßbar als <hi rend="aq">Solipsismus</hi> Gottes d.h. als idealistischer </q><hi rend="aq">Spinozismus</hi><q>,
+               u. so ist er ja auch von </q><rs ref="#tillich_person_id__1291" type="person">Med</rs>
+               nicht gewollt.</q></q></p>
+<p>Aber nun will ich schließen mit dem Ausdruck meines doppelten Bedauerns 1) daß Du all
                dies lesen mußt, 2) daß die Schwierigkeit der Probleme die ich aufs neue ganz
-               empfinde mich zu nicht mehr als dieser Stümperei kommen läßt. Aber was wir in <rs
-                  type="place" ref="#tillich_place_id__293">Misdroy</rs> begonnen durfte doch nicht
+               empfinde mich zu nicht mehr als dieser Stümperei kommen läßt. Aber was wir in <rs ref="#tillich_place_id__293" type="place">Misdroy</rs> begonnen durfte doch nicht
                unter dem Niveau der erreichten Erkenntnis unvollendet liegen bleiben. </p>
-            <closer>
-               <salute>Mit herzlichen Grüßen auch an die Deinen</salute>
-               <signed>Dein getr. <rs type="person" ref="#tillich_person_id__310">F. B.</rs></signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<salute>Mit herzlichen Grüßen auch an die Deinen</salute>
+<signed>Dein getr. <rs ref="#tillich_person_id__310" type="person">F. B.</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

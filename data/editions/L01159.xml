@@ -1,186 +1,174 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01159">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von der SPD Groß-Frankfurt an Paul Tillich <lb/>vom 7. Oktober 1932 </title>
-            <author ref="#tillich_person_id__2390">SPD Gross-Frankfurt</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0006-5231-3094">Sebastian Kueffner</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01159" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von der SPD Groß-Frankfurt an Paul Tillich <lb/>vom 7. Oktober 1932 </title>
+<author ref="#tillich_person_id__2390">SPD Gross-Frankfurt</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0006-5231-3094">Sebastian Kueffner</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="typescript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>023, Nr. 3</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, maschinenschriftlich</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="typescript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>023, Nr. 3</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, maschinenschriftlich</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__2390">SPD Gross-Frankfurt</persName>
-               <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
-               <date when="1932-10-07">07.10.1932</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="SK" when="2023-05-16">Initiale Auszeichnung des Transkripts</change>
-         <change who="SK" when="2023-06-28">Korrekturen, Absätze, Daten-Korrektur/Addition, nun 3
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2390">SPD Gross-Frankfurt</persName>
+<placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+<date when="1932-10-07">07.10.1932</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-05-16" who="SK">Initiale Auszeichnung des Transkripts</change>
+<change when="2023-06-28" who="SK">Korrekturen, Absätze, Daten-Korrektur/Addition, nun 3
             Personen (SPD, SPD-Vorstand Gross Frankfurt, Reichsparteivorstand)</change>
-         <change who="FS" when="2024-01-23">Endabnahme</change>
-
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__143" type="place">Frankfurt-M</rs>, <date
-                     when="1932-10-07">7. Oktober 32</date>.</dateline>
-               <salute>Werter Genosse, werte Genossin!</salute>
-            </opener>
-            <p>Sie gehören zu den Mitgliedern der S.P.D., die nach den Beschlüssen der Parteitage
-               von <rs ref="#tillich_place_id__275" type="place">Magdeburg</rs> u. <rs
-                  ref="#tillich_place_id__260" type="place">Leipzig</rs> zur regelmässigen Zahlung
+<change when="2024-01-23" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__143" type="place">Frankfurt-M</rs>, <date when="1932-10-07">7. Oktober 32</date>.</dateline>
+<salute>Werter Genosse, werte Genossin!</salute>
+</opener>
+<p>Sie gehören zu den Mitgliedern der S.P.D., die nach den Beschlüssen der Parteitage
+               von <rs ref="#tillich_place_id__275" type="place">Magdeburg</rs> u. <rs ref="#tillich_place_id__260" type="place">Leipzig</rs> zur regelmässigen Zahlung
                eines Extrabeitrages verpflichtet sind.</p>
-            <p>Die Zahlung erfolgte bisher an das Bezirkssekretariat. Nach den <hi rend="u"
-                  >neuesten Beschlüssen des Parteiausschusses</hi> sind von nun an die <hi rend="u">örtlichen</hi>
+<p>Die Zahlung erfolgte bisher an das Bezirkssekretariat. Nach den <hi rend="u">neuesten Beschlüssen des Parteiausschusses</hi> sind von nun an die <hi rend="u">örtlichen</hi>
                Parteiorganisationen verpflichtet, diese Extrabeiträge einzuziehen.</p>
-            <p>Die bisherige Staffelung wird wie folgt geändert: bei einem <hi rend="u"
-               >Brutto</hi>monatseinkommen v.
+<p>Die bisherige Staffelung wird wie folgt geändert: bei einem <hi rend="u">Brutto</hi>monatseinkommen v.
                <table>
-                  <row>
-                     <cell>200-300 M</cell>
-                     <cell>…….. 1 M</cell>
-                     <cell>Zuschlagsbeitrag</cell>
-                  </row>
-                  <row>
-                     <cell>300-400 M</cell>
-                     <cell>…….. 2 M</cell>
-                     <cell>“ “</cell>
-                  </row>
-                  <row>
-                     <cell>400-500 M</cell>
-                     <cell>…….. 4 M</cell>
-                     <cell>“ “</cell>
-                  </row>
-                  <row>
-                     <cell>500-600 M</cell>
-                     <cell>…….. 5 M</cell>
-                     <cell>“ “</cell>
-                  </row>
-                  <row>
-                     <cell>600-700 M</cell>
-                     <cell>…….. 7 M</cell>
-                     <cell>“ “</cell>
-                  </row>
-                  <row>
-                     <cell>700-800 M</cell>
-                     <cell>…….. 10 M</cell>
-                     <cell>“ “</cell>
-                  </row>
-                  <row>
-                     <cell>800-900 M</cell>
-                     <cell>…….. 15 M</cell>
-                     <cell>“ “</cell>
-                  </row>
-                  <row>
-                     <cell>900-1000 M</cell>
-                     <cell>…….. 20 M</cell>
-                     <cell>“ “</cell>
-                  </row>
-                  <row>
-                     <cell>1000-1100 M</cell>
-                     <cell>…….. 25 M</cell>
-                     <cell>“ “</cell>
-                  </row>
-                  <row>
-                     <cell>1100-1200 M</cell>
-                     <cell>…….. 30 M</cell>
-                     <cell>“ “</cell>
-                  </row>
-               </table></p>
-
-            <p>Für jede weiteren 200 Mark steigert sich der Zuschlagsbeitrag um 1% des Einkommens.
-                  <hi rend="u">Diese neu gestaffelten Beiträge werden für den <date when="1932-10"
-                     >Monat Oktober</date> in doppelter Höhe erhoben im Hinblick auf den schweren
+<row>
+<cell>200-300 M</cell>
+<cell>…….. 1 M</cell>
+<cell>Zuschlagsbeitrag</cell>
+</row>
+<row>
+<cell>300-400 M</cell>
+<cell>…….. 2 M</cell>
+<cell>“ “</cell>
+</row>
+<row>
+<cell>400-500 M</cell>
+<cell>…….. 4 M</cell>
+<cell>“ “</cell>
+</row>
+<row>
+<cell>500-600 M</cell>
+<cell>…….. 5 M</cell>
+<cell>“ “</cell>
+</row>
+<row>
+<cell>600-700 M</cell>
+<cell>…….. 7 M</cell>
+<cell>“ “</cell>
+</row>
+<row>
+<cell>700-800 M</cell>
+<cell>…….. 10 M</cell>
+<cell>“ “</cell>
+</row>
+<row>
+<cell>800-900 M</cell>
+<cell>…….. 15 M</cell>
+<cell>“ “</cell>
+</row>
+<row>
+<cell>900-1000 M</cell>
+<cell>…….. 20 M</cell>
+<cell>“ “</cell>
+</row>
+<row>
+<cell>1000-1100 M</cell>
+<cell>…….. 25 M</cell>
+<cell>“ “</cell>
+</row>
+<row>
+<cell>1100-1200 M</cell>
+<cell>…….. 30 M</cell>
+<cell>“ “</cell>
+</row>
+</table></p>
+<p>Für jede weiteren 200 Mark steigert sich der Zuschlagsbeitrag um 1% des Einkommens.
+                  <hi rend="u">Diese neu gestaffelten Beiträge werden für den <date when="1932-10">Monat Oktober</date> in doppelter Höhe erhoben im Hinblick auf den schweren
                   Wahlkampf.</hi></p>
-            <p>Für diese laufenden Extrabeiträge werden besondere Klebekarten und Marken
+<p>Für diese laufenden Extrabeiträge werden besondere Klebekarten und Marken
                herausgegeben.<lb/>Um eine regelmässige Zahlung zu ermöglichen, werden unsere
                Hauskassierer beauftragt, diese Extrabeiträge mit den ordentlichen Beiträgen
                einzuziehen.</p>
-            <p>Der Reichsparteivorstand weisst uns noch einmal darauf hin, dass es sich hierbei um
+<p>Der Reichsparteivorstand weisst uns noch einmal darauf hin, dass es sich hierbei um
                Pflichtbeiträge handelt, die von der obersten Instanz, dem Parteitag beschlossen
                wurden.</p>
-            <closer>
-               <salute>Ohne Opfer kein Kampf, ohne Kampf kein Sieg.<lb/>
-                  <hi rend="g">Freiheit!</hi><lb/> Vorstand der S.P.D. <rs
-                     ref="#tillich_place_id__182" type="place">Gross-Frankfurt</rs>.<lb/>
+<closer>
+<salute>Ohne Opfer kein Kampf, ohne Kampf kein Sieg.<lb/>
+<hi rend="g">Freiheit!</hi><lb/> Vorstand der S.P.D. <rs ref="#tillich_place_id__182" type="place">Gross-Frankfurt</rs>.<lb/>
                   i.A.</salute>
-               <signed><rs ref="#tillich_person_id__2445" type="person">Broßwitz</rs></signed>
-            </closer>
-
-            <postscript>
-               <p>Bitte <hi rend="uu"> 25,00 M</hi><note type="ea">Von <rs
-                        ref="#tillich_person_id__1928" type="person">Tillichs</rs> Hand am
+<signed><rs ref="#tillich_person_id__2445" type="person">Broßwitz</rs></signed>
+</closer>
+<postscript>
+<p>Bitte <hi rend="uu"> 25,00 M</hi><note type="ea">Von <rs ref="#tillich_person_id__1928" type="person">Tillichs</rs> Hand am
                      Briefkopf. Dazu drei Stempel von der Deutschen Bank und Disconto-Gesellschaft,
-                     Filiale Frankfurt (Main), Depositenkasse F Bockenheim, vom <date
-                        when="1932-12-02">2. Dezember 1932</date>, <date when="1933-01-02">2. Januar
+                     Filiale Frankfurt (Main), Depositenkasse F Bockenheim, vom <date when="1932-12-02">2. Dezember 1932</date>, <date when="1933-01-02">2. Januar
                         1933</date>, sowie <date when="1933-02-03">3. Februar 1933</date>, jeweils
-                     mit dem handschriftlichen Vermerk: "überwiesen".</note></p>
-            </postscript>
-
-         </div>
-      </body>
-   </text>
+                     mit dem handschriftlichen Vermerk: <q>überwiesen</q>.</note></p>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

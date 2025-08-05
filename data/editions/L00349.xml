@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00349">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00349" xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -69,8 +69,8 @@
 </profileDesc>
 <revisionDesc status="approved">
 <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-   <change when="2023-12-06" who="AA">Initiale Auszeichnung des Transkripts</change>
-   <change when="2025-02-25" who="EL">Endabnahme</change>
+<change when="2023-12-06" who="AA">Initiale Auszeichnung des Transkripts</change>
+<change when="2025-02-25" who="EL">Endabnahme</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
@@ -79,15 +79,15 @@
 <pb n="1"/>
 <opener>
 <dateline>
-   Eldena b <rs ref="#tillich_place_id__181" type="place">Greifswald</rs> bei Prof. D. <rs type="person" ref="#tillich_person_id__2833">Kögel</rs>. den 
+   Eldena b <rs ref="#tillich_place_id__181" type="place">Greifswald</rs> bei Prof. D. <rs ref="#tillich_person_id__2833" type="person">Kögel</rs>. den 
    <date when="1913-07-29">29.VII.13</date>
 </dateline>
-   <salute>Lieber <rs type="person" ref="#tillich_person_id__1928">Tillich</rs>,</salute>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>,</salute>
 </opener>
 <p>
    ich weiß zwar nicht,
    warum Sie mir auf meinen vorigen
-   <rs type="letter" ref="#L00348">Brief</rs> nicht geantwortet haben,
+   <rs ref="#L00348" type="letter">Brief</rs> nicht geantwortet haben,
    aber vielleicht hatten Sie nicht genug
    Zeit. Wissen Sie, jeden Tag denke ich
    alles noch einmal durch. Ich muß Ihnen
@@ -98,10 +98,10 @@
    nicht liebt, denn ich will nicht <hi rend="u">aus
    Mitleid</hi> womöglich geheiratet werden.
    Obgleich eine Stimme in meinem
-   Inneren dagegen sagt: "Nur
+   Inneren dagegen sagt: <q>Nur
    ihn besitzen, das muß dir genug
    sein, daß du ihm ohne Rückhalt Liebe
-   erweisen kannst." Aber diesen Gedanken
+   erweisen kannst.</q> Aber diesen Gedanken
    verwerfe ich. Denn ich kann
    nicht nur <del rend="s">die S</del> den Leib besitzen
    sondern ich will die Seele haben.
@@ -191,7 +191,7 @@
   </p>
 <closer>
 <salute>Ihre </salute>
-   <signed><rs type="person" ref="#tillich_person_id__1594">Maria Klein</rs>.</signed>
+<signed><rs ref="#tillich_person_id__1594" type="person">Maria Klein</rs>.</signed>
 </closer>
 <postscript>
 <p>

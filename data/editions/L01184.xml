@@ -1,133 +1,115 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01184">
-        <teiHeader>
-                <fileDesc>
-                        <titleStmt>
-                                <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 2.
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01184" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 2.
                                         Januar 1933 [PS] </title>
-                                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                                <respStmt>
-                                        <resp>Editor</resp>
-                                        <name key="https://orcid.org/0009-0007-2445-9093">Niklas von
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0007-2445-9093">Niklas von
                                                 Hülsen</name>
-                                </respStmt>
-                        </titleStmt>
-                        <editionStmt>
-                                <edition>
-                                        <title type="editionstitel">Edition der Korrespondenz von
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von
                                                 Paul Tillich 1887-1933</title>
-                                </edition>
-                        </editionStmt>
-                        <publicationStmt>
-                                <publisher>
-                                        <name>Institut für Systematische Theologie und
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und
                                                 Religionswissenschaft</name>
-                                        <address>
-                                                <street>Schenkenstraße 8-10</street>
-                                                <postCode>1010</postCode>
-                                                <placeName ref="#tillich_place_id__470">
-                                                  <settlement>Wien</settlement>
-                                                  <country>Österreich</country>
-                                                </placeName>
-                                        </address>
-                                </publisher>
-                                <availability>
-                                        <licence
-                                                target="http://creativecommons.org/licenses/by-sa/4.0/"
-                                                >Creative Commons Attribution 4.0 International (CC
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC
                                                 BY 4.0)</licence>
-                                </availability>
-                        </publicationStmt>
-                        <sourceDesc>
-                                <msDesc type="manuscript">
-                                        <msIdentifier>
-                                                <country>USA</country>
-                                                <settlement>Cambridge, MA</settlement>
-                                                <institution>Harvard University</institution>
-                                                <repository>Harvard Divinity School
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement>Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School
                                                   Library</repository>
-                                                <collection>Tillich, Hannah. Papers,
+<collection>Tillich, Hannah. Papers,
                                                   1896-1976</collection>
-                                                <idno>bMS 721/3(3)</idno>
-                                        </msIdentifier>
-                                        <physDesc>
-                                                <p>Postkarte, eigenhändig</p>
-                                        </physDesc>
-                                </msDesc>
-                        </sourceDesc>
-                </fileDesc>
-                <encodingDesc>
-                        <projectDesc>
-                                <p>online-Edition: Edition der Korrespondenz von Paul Tillich
+<idno>bMS 721/3(3)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich
                                         1887-1933.</p>
-                        </projectDesc>
-                        <editorialDecl>
-                                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des
                                         DTA-Basisformats. Vgl.
                                         https://www.deutschestextarchiv.de/doku/basisformat/</p>
-                        </editorialDecl>
-                </encodingDesc>
-                <profileDesc>
-                        <correspDesc>
-                                <correspAction type="sent">
-                                        <persName ref="#tillich_person_id__1928">Paul
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul
                                                 Tillich</persName>
-                                        <placeName ref="#tillich_place_id__37"
-                                                >Berlin-Charlottenburg</placeName>
-                                        <date when="1933-01-02">02.01.1933</date>
-                                </correspAction>
-                                <correspAction type="received">
-                                        <persName ref="#tillich_person_id__1923">Hannah
+<placeName ref="#tillich_place_id__37">Berlin-Charlottenburg</placeName>
+<date when="1933-01-02">02.01.1933</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah
                                                 Tillich</persName>
-                                        <placeName ref="#tillich_place_id__144">Frankfurt a.
+<placeName ref="#tillich_place_id__144">Frankfurt a.
                                                 M.-Niederrad</placeName>
-                                </correspAction>
-                        </correspDesc>
-                        <langUsage>
-                                <language ident="deu">Deutsch</language>
-                        </langUsage>
-                </profileDesc>
-                <revisionDesc status="approved">
-                        <change when="2023-10-24" who="NH">Initiale Auszeichnung des
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-10-24" who="NH">Initiale Auszeichnung des
                                 Transkripts</change>
-                        <change when="2023-11-16" who="FS">Endabnahme</change>
-                </revisionDesc>
-        </teiHeader>
-        <text type="postcard">
-                <body>
-                        <div type="writingSession">
-                                <pb n="1"/>
-                                <opener>
-                                        <salute>Liebste <rs ref="#tillich_person_id__1923"
-                                                  type="person">Hannah</rs>!</salute>
-                                </opener>
-                                <p>Ein kurzer Telegramm-Bericht über die Sylvesternacht: Nachm. bis
-                                        5 <rs ref="#tillich_person_id__1762" type="person"
-                                                >Elisabeth</rs>, bis 8 <rs
-                                                ref="#tillich_person_id__641" type="person"
-                                                >Frede</rs>, dann Abendbrot bei <rs
-                                                ref="#tillich_person_id__1672" type="person"
-                                                >Emmy</rs> mit ihrem Freund. Sie völlig verändert,
+<change when="2023-11-16" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Ein kurzer Telegramm-Bericht über die Sylvesternacht: Nachm. bis
+                                        5 <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs>, bis 8 <rs ref="#tillich_person_id__641" type="person">Frede</rs>, dann Abendbrot bei <rs ref="#tillich_person_id__1672" type="person">Emmy</rs> mit ihrem Freund. Sie völlig verändert,
                                         sehr schön und glücklich; dann in ein Atelier von einem
                                         Maler Weißenberg<note type="ea">Meint eventuell den Maler
-                                                  <rs ref="#tillich_person_id__2598" type="person"
-                                                  >Alfred Weissenberg</rs>.</note> dort eine Reihe
+                                                  <rs ref="#tillich_person_id__2598" type="person">Alfred Weissenberg</rs>.</note> dort eine Reihe
                                         sehr schöner Frauen, vom Theater, Film etc. später kam auch
-                                                <rs type="person" ref="#tillich_person_id__2599"
-                                                >Elli Beinhorn</rs>, die Australienfliegerin. Im
+                                                <rs ref="#tillich_person_id__2599" type="person">Elli Beinhorn</rs>, die Australienfliegerin. Im
                                         übrigen die Gruppe <unclear>Sernau-Plache</unclear>, wie im
-                                        vorigen Jahr. Nach 2 kamen auch die <rs
-                                                ref="#tillich_person_id__1498" type="person"><rs
-                                                  ref="#tillich_person_id__1499" type="person"><rs
-                                                  ref="#tillich_person_id__1211" type="person"><rs
-                                                  ref="#tillich_person_id__1212" type="person"
-                                                  >Küsselleute</rs></rs></rs></rs>. Ungefähr<pb
-                                                n="2"/>um 4 ins Bett Heut früh ohne Brief von dir...
-                                        Fortsetzung folgt anbei. Nun sind wir "1933" </p>
-                                <closer> Dein <signed><rs ref="#tillich_person_id__1928"
-                                                  type="person">Paul</rs></signed>
-                                </closer>
-                        </div>
-                </body>
-        </text>
+                                        vorigen Jahr. Nach 2 kamen auch die <rs ref="#tillich_person_id__1498" type="person"><rs ref="#tillich_person_id__1499" type="person"><rs ref="#tillich_person_id__1211" type="person"><rs ref="#tillich_person_id__1212" type="person">Küsselleute</rs></rs></rs></rs>. Ungefähr<pb n="2"/>um 4 ins Bett Heut früh ohne Brief von dir...
+                                        Fortsetzung folgt anbei. Nun sind wir <q>1933</q> </p>
+<closer> Dein <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

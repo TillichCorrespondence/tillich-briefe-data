@@ -1,106 +1,103 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00562">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Maria Klein <lb/>vom 21. Februar 1918 </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00562" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Maria Klein <lb/>vom 21. Februar 1918 </title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/178(10)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/178(10)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date when="1918-02-21">21.02.1918</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1594">Maria Klein</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-05-17">Initiale Auszeichnung des Transkripts</change>
-         <change who="Initialien des Editors" when="2024-02-09">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>D. <date when="1918-02-21">21. II. 18.</date></dateline>
-               <salute>Liebe <rs ref="#tillich_person_id__1594" type="person">Maria</rs>!</salute>
-            </opener>
-            <p>Dein Brief <note type="ea">Liegt nicht vor.</note> hat mich nicht nur nicht geärgert,
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1918-02-21">21.02.1918</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1594">Maria Klein</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-05-17" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-02-09" who="Initialien des Editors">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>D. <date when="1918-02-21">21. II. 18.</date></dateline>
+<salute>Liebe <rs ref="#tillich_person_id__1594" type="person">Maria</rs>!</salute>
+</opener>
+<p>Dein Brief <note type="ea">Liegt nicht vor.</note> hat mich nicht nur nicht geärgert,
                sondern – nach einem kurzen Ruck – so befriedigt, daß ich sofort antworte und darüber
                den fälligen Brief an <rs ref="#tillich_person_id__1931" type="person">Greti</rs>
-               versäume! Du hast Recht mit Deiner Empfindung, und ich teile sie. Die Stunde bei <rs
-                  ref="#tillich_person_id__2020" type="person">Dox</rs> entsprach nicht unserem
+               versäume! Du hast Recht mit Deiner Empfindung, und ich teile sie. Die Stunde bei <rs ref="#tillich_person_id__2020" type="person">Dox</rs> entsprach nicht unserem
                Verhältnis, sie war insofern unwahr; nicht einmal Deine Annahme, dass eine starke
-               Sinnlichkeit meinerseits dabei mitspielte, ist richtig, das war ganz sekundär; <del
-                  rend="s">sondern</del> das liegt <hi rend="u">gar nicht in meinen Gefühlen
+               Sinnlichkeit meinerseits dabei mitspielte, ist richtig, das war ganz sekundär; <del rend="s">sondern</del> das liegt <hi rend="u">gar nicht in meinen Gefühlen
                   zu</hi><note type="eb">Die Unterstreichungen in diesem Brief sind wahrscheinlich
                   nicht von <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> selbst,
                   sondern von <rs ref="#tillich_person_id__1594" type="person">Maria
                   Klein</rs>.</note> Dir, dazu empfinde ich noch viel zu viel unmittelbar
                Kindliches, noch nicht Dame Gewordenes in Deinem Wesen; vielleicht kommt es noch
                einmal, wenn Du ganz Dame geworden bist; aber auch dann würde ich es nur aktuell
-               werden lassen, wenn es naturgemäß aus unserer Beziehung hervorginge und <hi rend="u"
-                  >wir es gestalten wollen</hi>. Ich bin insofern noch der "alte Junge" von 1909,
+               werden lassen, wenn es naturgemäß aus unserer Beziehung hervorginge und <hi rend="u">wir es gestalten wollen</hi>. Ich bin insofern noch der <q>alte Junge</q> von 1909,
                als ich in dieser Be<pb n="2"/>ziehung ein klares Wollen habe, das mich in den
                unglaublichsten Situationen <hi rend="u">nie über meinen Willen hat hinausgehen
                   lassen</hi>. Im Gegenteil, <hi rend="u">jeder Schritt in dieser Richtung kostet
@@ -114,11 +111,10 @@
                unseres Verhältnisses zu überwinden ist. Darum haben weitere Reflexionen keinen Wert.
                – Träume also wieder im Sinne von 1909 von mir, falls ich noch einmal die Ehre haben
                sollte... <hi rend="u">denn das ist mein wahres Gefühl</hi>.</p>
-            <closer>
-               Dein Freund <signed><rs ref="#tillich_person_id__1928" type="person"
-                  >Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+               Dein Freund <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

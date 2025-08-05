@@ -1,91 +1,91 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00133">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Alfred Fritz <lb/>von 1906/1907</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00133" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Alfred Fritz <lb/>von 1906/1907</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008C </idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008C </idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__328">ohne Ort</placeName>
-               <date when="1906">1906</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2022-07-21" who="AB">Initiale Auszeichnung des Transkripts</change>
-         <change when="2022-07-21" who="AB">Überprüfung und Ergänzung der Auszeichnungen</change>
-         <change when="2024-02-13" who="EL">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <salute>Lieber <rs ref="#tillich_person_id__641" type="person">Alfred</rs>!</salute>
-            </opener>
-            <p>Hätte ich nicht schon längst den Wunsch gehabt, Dir zu schreiben, Deine Karten hätten
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__328">ohne Ort</placeName>
+<date when="1906">1906</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-07-21" who="AB">Initiale Auszeichnung des Transkripts</change>
+<change when="2022-07-21" who="AB">Überprüfung und Ergänzung der Auszeichnungen</change>
+<change when="2024-02-13" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Lieber <rs ref="#tillich_person_id__641" type="person">Alfred</rs>!</salute>
+</opener>
+<p>Hätte ich nicht schon längst den Wunsch gehabt, Dir zu schreiben, Deine Karten hätten
                mir einen derartigen Stoß gegeben, daß ich es nicht länger hätte aushalten können.
                Dazu kommt die erfreuliche Tatsache, daß ich jetzt täglich einige Zeit für Ruhe und
                Arbeit habe, ganz im Gegensatz zum Ende des vorigen Semesters; es ist doch etwas ganz
@@ -98,82 +98,55 @@
                gewöhnt hat. Auf der <rs ref="#tillich_place_id__467" type="place">Wartburg</rs>
                werde ich ja noch einiges davon zu riechen bekommen, zumal ein verrücktes Konglomerat
                von Vertagungs- und Halbvertagungsanträgen die Aufhebung des
-               Aktivitätszwanges<!--<note type="ea">Aktivitätszwang</note>--> doch auf die <rs
-                  ref="#tillich_place_id__467" type="place">Wartburg</rs> schleppen<pb n="2"/> wird.
+               Aktivitätszwanges&lt;note type=<q>ea</q>&gt;Aktivitätszwang&lt;/note&gt; doch auf die <rs ref="#tillich_place_id__467" type="place">Wartburg</rs> schleppen<pb n="2"/> wird.
                Das Anspiel wird eine Sitzung bilden, die der Ph.A.D. der Straßburger, Marburger x
-               und ich, während der Begrüßungskneipe in <rs ref="#tillich_place_id__374"
-                  type="place">Ruhla</rs>, im Fürstenhof haben werden. Also nicht einmal <rs
-                  ref="#tillich_place_id__374" type="place">Ruhla</rs> wird bleiben! Und was dann
+               und ich, während der Begrüßungskneipe in <rs ref="#tillich_place_id__374" type="place">Ruhla</rs>, im Fürstenhof haben werden. Also nicht einmal <rs ref="#tillich_place_id__374" type="place">Ruhla</rs> wird bleiben! Und was dann
                kommt....?? (<rs ref="#tillich_place_id__259" type="place">Leimtopf</rs>? etc.) Was
                wird nun mit Euch? (<rs ref="#tillich_person_id__1050" type="person">Albert</rs> und
                Du). Selbstverständlich pumpe ich Euch hiermit feierlichst ein, unter den
                beschlossenen Bedingungen (sämtliche Kosten, die es Euch mehr machen würde, als das
                diesbezügliche <rs ref="#tillich_place_id__395" type="place">Schwarzwalddorf</rs>?)
                zu kommen. Doch bleibt noch die Frage, ob es wirklich praktisch wäre, und nicht doch
-               eventuell besser, wenn <hi rend="u">wir</hi> bei Gelegenheit des <rs
-                  ref="#tillich_place_id__418" type="place">Straßburger</rs> Stiftungsfestes über
+               eventuell besser, wenn <hi rend="u">wir</hi> bei Gelegenheit des <rs ref="#tillich_place_id__418" type="place">Straßburger</rs> Stiftungsfestes über
                   <rs ref="#tillich_place_id__448" type="place">Tübingen</rs> gingen. Bitte erwäge
                es recht genau mit <rs ref="#tillich_person_id__1050" type="person">Albert</rs>! In
-               Betracht kommt natürlich vor allem auch, ob <rs ref="#tillich_person_id__1696"
-                  type="person">Hermann</rs> auf die <rs ref="#tillich_place_id__467" type="place"
-                  >Wartburg</rs> kommt, was ja jetzt leider sehr unsicher ist. Es war noch
+               Betracht kommt natürlich vor allem auch, ob <rs ref="#tillich_person_id__1696" type="person">Hermann</rs> auf die <rs ref="#tillich_place_id__467" type="place">Wartburg</rs> kommt, was ja jetzt leider sehr unsicher ist. Es war noch
                wunderschön mit ihm die Paar Tage und nach den ersten Aufregungen immer eine
-               Abspannung und Erholung; ich erwarte stündlich Nachricht aus <rs
-                  ref="#tillich_place_id__208" type="place">Hersfeld</rs> resp. <rs
-                  ref="#tillich_place_id__236" type="place">Kassel</rs>. Wenn es nur nichts
+               Abspannung und Erholung; ich erwarte stündlich Nachricht aus <rs ref="#tillich_place_id__208" type="place">Hersfeld</rs> resp. <rs ref="#tillich_place_id__236" type="place">Kassel</rs>. Wenn es nur nichts
                Gefährliches ist! – Ich bin natürlich infolge<pb n="3"/> seiner Abreise auch etwas
-               einsamer (natürlich in Bezug auf die "Alten"); denn Jugend(!) schwirrt in Fülle um
+               einsamer (natürlich in Bezug auf die <q>Alten</q>); denn Jugend(!) schwirrt in Fülle um
                mich rum, 60 t. Brüder eine Frau, u.s.w. was kann man mehr wünschen, wirst Du denken
                Und doch!..... – – –<lb/> An Tatsachen noch folgendes: Der Konvent wies das gewohnte
-               Bild auf: "Der König sprach und alle, alle schwiegen;" und dabei sprach er noch so
-               wenig absolut, daß wirklich keine Gefahr dabei war; aber die Angst ist zu groß. <rs
-                  ref="#tillich_person_id__2161" type="person">Gaul</rs> ist sehr artig; er war
+               Bild auf: <q>Der König sprach und alle, alle schwiegen;</q> und dabei sprach er noch so
+               wenig absolut, daß wirklich keine Gefahr dabei war; aber die Angst ist zu groß. <rs ref="#tillich_person_id__2161" type="person">Gaul</rs> ist sehr artig; er war
                nicht einmal dagegen, als wir heute im <choice><abbr>a-h-c</abbr><expan>Alt-Häuser-Collegium</expan></choice><note type="ea">Gremium, das die Beschlüsse des Convents vorbereitet.</note>
-               <rs ref="#tillich_person_id__203" type="person">Lorenz</rs> als Ersatz für <rs
-                  ref="#tillich_person_id__2163" type="person">Hessig</rs> zum
+<rs ref="#tillich_person_id__203" type="person">Lorenz</rs> als Ersatz für <rs ref="#tillich_person_id__2163" type="person">Hessig</rs> zum
                   <choice><abbr>a-h-c</abbr><expan>Alt-Häuser-Collegium</expan></choice> aufstellten; natürlich ist es eine etwas zweifelhafte
                Sache, doch hoffe ich, <del rend="s">w</del> es wird gutgehn und auch für ihn gut
                sein. – Kraßfüxe haben wir also 12, Brandner<note type="ea">Brandfux = Mitglied der Verbindung im 2. Semester.</note> 4, Summe 16 Füxe in
-                  <rs ref="#tillich_place_id__189" type="place">Halle</rs>, seit "<hi rend="u"
-                  >der</hi> Konfuxie" nicht mehr dagewesen. – Die Bundesbrüder sind alles diejenigen,
+                  <rs ref="#tillich_place_id__189" type="place">Halle</rs>, seit <q><hi rend="u">der</hi> Konfuxie</q> nicht mehr dagewesen. – Die Bundesbrüder sind alles diejenigen,
                welche im vorigen Semester eine stille, resp. oppositionelle Hallenser Gemeinde in
                den Brüderverbindungen gebildet hatten und deren Einleben daher ohne Schwierigkeit
                vor sich geht. Die Gefahr<pb n="4"/> liegt eher im Schlafen, wenn auch eine Menge
-               begabte Leute da sind. –<lb/> Zwar-Aber hat sich gestern getrennt.<lb/><hi rend="u"
-                  >Zwar</hi>: Papst <rs ref="#tillich_person_id__128" type="person">Balke</rs>. <rs
-                  ref="#tillich_person_id__203" type="person">Lorenz</rs>, <rs
-                  ref="#tillich_person_id__2154" type="person">Stosch</rs>, <rs
-                  ref="#tillich_person_id__2164" type="person">Jungklaussen</rs>, <rs
-                  ref="#tillich_person_id__2165" type="person">Heermann</rs> (Wa) <rs
-                  ref="#tillich_person_id__2166" type="person">Veit</rs> (Gi) [Letzterer begabt,
-                  <foreign xml:lang="grc">ὑιός ε. πν.</foreign> von <rs
-                  ref="#tillich_person_id__2167" type="person">Zentgraf</rs><lb/>
-               <hi rend="u">Aber</hi>: Papst Joh. <rs ref="#tillich_person_id__1738" type="person"
-                  >Schreiber</rs>, <rs ref="#tillich_person_id__2168" type="person">Schuster</rs>,
-                  <rs ref="#tillich_person_id__1050" type="person">Kilger</rs>, <rs
-                  ref="#tillich_person_id__2147" type="person">Vethake</rs>, (Ro,
-                  <unclear>¿¿</unclear>ts) <rs ref="#tillich_person_id__2169" type="person"
-                  >Struckmaier</rs> (<rs ref="#tillich_place_id__68" type="place">Bonn</rs>)<lb/>
+               begabte Leute da sind. –<lb/> Zwar-Aber hat sich gestern getrennt.<lb/><hi rend="u">Zwar</hi>: Papst <rs ref="#tillich_person_id__128" type="person">Balke</rs>. <rs ref="#tillich_person_id__203" type="person">Lorenz</rs>, <rs ref="#tillich_person_id__2154" type="person">Stosch</rs>, <rs ref="#tillich_person_id__2164" type="person">Jungklaussen</rs>, <rs ref="#tillich_person_id__2165" type="person">Heermann</rs> (Wa) <rs ref="#tillich_person_id__2166" type="person">Veit</rs> (Gi) [Letzterer begabt,
+                  <foreign xml:lang="grc">ὑιός ε. πν.</foreign> von <rs ref="#tillich_person_id__2167" type="person">Zentgraf</rs><lb/>
+<hi rend="u">Aber</hi>: Papst Joh. <rs ref="#tillich_person_id__1738" type="person">Schreiber</rs>, <rs ref="#tillich_person_id__2168" type="person">Schuster</rs>,
+                  <rs ref="#tillich_person_id__1050" type="person">Kilger</rs>, <rs ref="#tillich_person_id__2147" type="person">Vethake</rs>, (Ro,
+                  <unclear>¿¿</unclear>ts) <rs ref="#tillich_person_id__2169" type="person">Struckmaier</rs> (<rs ref="#tillich_place_id__68" type="place">Bonn</rs>)<lb/>
                Bis jetzt also 6 auf jeder Seite, im übrigen Spekulation auf die
-               diesbezüglichen....<lb/> Was Kollegs betrifft, so höre ich nur <rs
-                  ref="#tillich_person_id__258" type="person">Bornhäuser</rs>, Praktische Theologie
-               II (Seelsorge), [gut] und Ethik, die ich einigermaßen kapiere (40 t. Brüder), <rs
-                  ref="#tillich_person_id__845" type="person">Heim</rs> ??? näheres später!, <rs
-                  ref="#tillich_person_id__258" type="person">Bornhäuser</rs> Homiletisches Seminar (Predigt!!!!!).<lb/>
-               <hi rend="u">An <rs ref="#tillich_person_id__1050" type="person">Albert</rs></hi>: Er
-               soll <hi rend="uu">schleunigst</hi> antworten, besonders in Bezug auf <rs
-                  ref="#tillich_place_id__37" type="place">Berlin</rs>!!! <hi rend="u">An <rs
-                     ref="#tillich_person_id__2170" type="person">Daniel</rs></hi>: Besten Dank für
+               diesbezüglichen....<lb/> Was Kollegs betrifft, so höre ich nur <rs ref="#tillich_person_id__258" type="person">Bornhäuser</rs>, Praktische Theologie
+               II (Seelsorge), [gut] und Ethik, die ich einigermaßen kapiere (40 t. Brüder), <rs ref="#tillich_person_id__845" type="person">Heim</rs> ??? näheres später!, <rs ref="#tillich_person_id__258" type="person">Bornhäuser</rs> Homiletisches Seminar (Predigt!!!!!).<lb/>
+<hi rend="u">An <rs ref="#tillich_person_id__1050" type="person">Albert</rs></hi>: Er
+               soll <hi rend="uu">schleunigst</hi> antworten, besonders in Bezug auf <rs ref="#tillich_place_id__37" type="place">Berlin</rs>!!! <hi rend="u">An <rs ref="#tillich_person_id__2170" type="person">Daniel</rs></hi>: Besten Dank für
                   Brief<note type="ea">Nicht überliefert.</note> (Wo ist er jetzt?) <hi rend="u">An
                      <rs ref="#tillich_person_id__641" type="person">Dich</rs></hi>: Hast du den
                Philistern hier zum Geburtstag gratuliert? Ist wohl überflüssig!! Wo hast Du alle
                Briefe etc. aufbewahrt und was davon kommt ins Gehirn?</p>
-            <closer>
-               <salute>Antworte bald! Herzlichen Gruß</salute>
-               <signed>Dein treuer <rs ref="#tillich_person_id__1928" type="person"
-                  >Paul</rs></signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<salute>Antworte bald! Herzlichen Gruß</salute>
+<signed>Dein treuer <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

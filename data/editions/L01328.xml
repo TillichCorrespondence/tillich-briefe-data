@@ -1,98 +1,95 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01328">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Hannah Tillich <lb/>von Dezember 1921</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01328" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich <lb/>von Dezember 1921</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">Wien</placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                  <idno>bMS 721/2(17)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/2(17)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date notBefore="1921-12-05" notAfter="1921-12-19">05.12.1921</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-         <change when="2024-02-04" who="AA">Initiale Auszeichnung des Transkripts</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>Montag<note type="ea"> Am oberen Rand des Briefes wurde von fremder Hand
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date notAfter="1921-12-19" notBefore="1921-12-05">05.12.1921</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2024-02-04" who="AA">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>Montag<note type="ea"> Am oberen Rand des Briefes wurde von fremder Hand
                      (wahrscheinlich <rs ref="#tillich_person_id__1923" type="person">Hannah
-                        Tillich</rs>) "Dezember 21" vermerkt.</note></dateline>
-               <salute>Liebe liebe <rs ref="#tillich_person_id__1923" type="person"
-                  >Hannah</rs>!</salute>
-            </opener>
-            <p> Dein Brief<note type="ea">Liegt nicht vor.</note> hat mich tief erschüttert; weniger
-               der Deiner <rs ref="#tillich_person_id__2039" type="person">Mutter</rs>;<note
-                  type="ea">Liegt nicht vor.</note> das sind Wellenbewegungen. Aber Dein Brief an
+                        Tillich</rs>) <q>Dezember 21</q> vermerkt.</note></dateline>
+<salute>Liebe liebe <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p> Dein Brief<note type="ea">Liegt nicht vor.</note> hat mich tief erschüttert; weniger
+               der Deiner <rs ref="#tillich_person_id__2039" type="person">Mutter</rs>;<note type="ea">Liegt nicht vor.</note> das sind Wellenbewegungen. Aber Dein Brief an
                   <rs ref="#tillich_person_id__705" type="person">Albert</rs>. Damit hast Du die
                Voraussetzung, auf der alles stand, und die Du selbst am Energischsten
                aufrechterhalten wolltest, preisgegeben. Ich übersehe noch nicht die Konsequenzen;
-               jedenfalls wird <del>D</del>eine Auseinandersetzung zwischen <rs
-                  ref="#tillich_person_id__705" type="person">Albert</rs> und mir nun zur
+               jedenfalls wird <del>D</del>eine Auseinandersetzung zwischen <rs ref="#tillich_person_id__705" type="person">Albert</rs> und mir nun zur
                unabweislichen Notwendigkeit. Ich fürchte mich nicht davor; denn ich kann ihm ruhig
                in die Augen sehen. Aber ich fürchte,<pb n="2"/> daß unsere Lage nach außen hin
                unendlich dadurch erschwert ist. Selbstverständlich mußt Du, wenn er es irgend will,
@@ -100,14 +97,14 @@
                ersten Impuls wollte ich sofort kommen; <hi rend="u">aber es ist nötig, daß ich bis
                   Mittwoch bleibe; ich erzähle Dir dann, welches der tiefste Grund ist.</hi> Nur
                eine Bitte: Tue und schreibe nichts Wesentliches mehr, bis ich da bin! – Ich war
-               gestern in <rs ref="#tillich__X3Q3RTFT" type="work">"King Lear"</rs> und bin noch
+               gestern in <rs ref="#tillich__X3Q3RTFT" type="work"><q>King Lear</q></rs> und bin noch
                fast zerbrochen daran. Wer Schicksal hat, kann Schicksal sehen. Mein ungewisses
                Dasein steht auf den <unclear cert="high">Zügen</unclear> Deiner Briefe. Mein inneres
                Dasein suche ich zu verankern in Gott und dem ewigen Schicksal.</p>
-            <closer>
-               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

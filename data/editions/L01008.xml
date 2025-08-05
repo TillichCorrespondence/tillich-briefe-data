@@ -1,111 +1,107 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01008">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Harald Poelchau an Paul Tillich <lb/>vom 8. März 1929</title>
-            <author ref="#tillich_person_id__1516">Harald Poelchau</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01008" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Harald Poelchau an Paul Tillich <lb/>vom 8. März 1929</title>
+<author ref="#tillich_person_id__1516">Harald Poelchau</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/175(14)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/175(14)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1516">Harald Poelchau</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1929-03-08">08.03.1929</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-07-07">Initiale Auszeichnung des Transkripts</change>
-         <change who="FS" when="2024-01-17">Endabnahme</change>
-
-
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener><dateline>
-                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs> SO16, Brückenstr<unclear>.</unclear> 13a, <date when="1929-03-08">8. 3. 29.</date></dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>!</salute>
-            </opener>
-            <p>Ich las von Ihrer Berufung nach <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> und
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1516">Harald Poelchau</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1929-03-08">08.03.1929</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-07-07" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-01-17" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline>
+<rs ref="#tillich_place_id__37" type="place">Berlin</rs> SO16, Brückenstr<unclear>.</unclear> 13a, <date when="1929-03-08">8. 3. 29.</date></dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>!</salute>
+</opener>
+<p>Ich las von Ihrer Berufung nach <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> und
                freute mich sehr. Für Sie und mich; denn nun darf ich Sie fragen, ob ich bei Ihnen
-               promovieren kann.<note type="ea">Harald Poelchau wurde in weiterer Folge bei Tillich mit einer Arbeit über "Die sozialphilosophischen Anschauungen der deutschen Wohlfahrtsgesetzgebung" promoviert (erschienen unter dem Titel "<rs ref="#tillich__MZQZYZVM" type="work">Das Menschenbild des Fürsorgerechts</rs>").</note> Sie kommen doch gewiß vor Ihrer endgültigen Abreise noch einmal
+               promovieren kann.<note type="ea">Harald Poelchau wurde in weiterer Folge bei Tillich mit einer Arbeit über <q>Die sozialphilosophischen Anschauungen der deutschen Wohlfahrtsgesetzgebung</q> promoviert (erschienen unter dem Titel <q><rs ref="#tillich__MZQZYZVM" type="work">Das Menschenbild des Fürsorgerechts</rs></q>).</note> Sie kommen doch gewiß vor Ihrer endgültigen Abreise noch einmal
                nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs>. Können Sie dann ½ Stunde für mich freihalten und über meine
                Arbeit mit mir sprechen? Bitte schreiben Sie mir, ob, wann u. wo? Ich bin tagsüber
                unter <rs ref="#tillich_place_id__677" type="place">Moabit</rs> 3435 auch<pb n="2"/> telephonisch zu erreichen.</p>
-            <p>Bitte grüßen Sie Ihre
+<p>Bitte grüßen Sie Ihre
                   <rs ref="#tillich_person_id__1923" type="person">Frau</rs> von mir; ihr Brief ist mitsamt dem
                Himmelfahrtsgeburtstag eins unser schönsten Geschenke des Jahres 1928.</p>
-            <p>Hoffentlich dauert die Frankfurter Zeit nicht zu lange, und Sie kommen bald in Ihre
+<p>Hoffentlich dauert die Frankfurter Zeit nicht zu lange, und Sie kommen bald in Ihre
                Heimat – <rs ref="#tillich_place_id__37" type="place">Berlin</rs>. Sonst bekommen wir Sie beide
                garnicht wieder zu sehen! Also bitte eine Audienz! Viele Grüße von <rs ref="#tillich_person_id__2737" type="person">Dorothee</rs></p>
-            <closer>
-               <signed>Ihr dankbarer <rs ref="#tillich_person_id__1516" type="person">Harald Poelchau</rs></signed>
-            </closer>
-
-         </div>
-
-      </body>
-   </text>
+<closer>
+<signed>Ihr dankbarer <rs ref="#tillich_person_id__1516" type="person">Harald Poelchau</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

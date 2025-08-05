@@ -1,100 +1,100 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00248">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Gottfried von Hanffstengel an Paul Tillich <lb/>vom 28. November 1907</title>
-            <author ref="#tillich_person_id__788">Gottfried von Hanffstengel</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00248" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Gottfried von Hanffstengel an Paul Tillich <lb/>vom 28. November 1907</title>
+<author ref="#tillich_person_id__788">Gottfried von Hanffstengel</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/147</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/147</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__788">Gottfried von Hanffstengel</persName>
-               <placeName ref="#tillich_place_id__186">Göttingen</placeName>
-               <date when="1907-11-28">28.11.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-05-03">Initiale Auszeichnung des Transkripts</change>
-         <change who="NH" when="2024-02-21">Vorbereitung/Korrektur für die Endabnahme</change>
-         <change who="EL" when="2024-04-16">Endabnahme</change>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__788">Gottfried von Hanffstengel</persName>
+<placeName ref="#tillich_place_id__186">Göttingen</placeName>
+<date when="1907-11-28">28.11.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-05-03" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-02-21" who="NH">Vorbereitung/Korrektur für die Endabnahme</change>
+<change when="2024-04-16" who="EL">Endabnahme</change>
 </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__186" type="place">Göttingen</rs>, <date when="1907-11-28">28.11.07.</date></dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
-            </opener>
-            <p>Obgleich ich eigentlich keine Zeit habe, will ich doch den auf der <!--<rs type="letter" ref="L00247">-->Karte<!--</rs>-->
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__186" type="place">Göttingen</rs>, <date when="1907-11-28">28.11.07.</date></dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+</opener>
+<p>Obgleich ich eigentlich keine Zeit habe, will ich doch den auf der &lt;rs type=<q>letter</q> ref=<q>L00247</q>&gt;Karte<!--</rs>-->
                versprochenen Brief schreiben, um Dir von Großalmerode zu erzählen. Also zunächst
                verbrenne die proletige Karte, derer
                ich mich bis auf den Grund schäme.</p>
-            <p>Am Sonntag verabredeten wir 5 Theologen uns, die Tour zu machen. Wir hatten viel von
+<p>Am Sonntag verabredeten wir 5 Theologen uns, die Tour zu machen. Wir hatten viel von
                der Bewegung gehört, ich speziell von meinem <choice><abbr>Lbb</abbr><expan>Leibburschen</expan></choice>. in
-               <rs type="place" ref="#tillich_place_id__628">Hofgeismar</rs>, es war fast zu einem Austritt der dortigen
+               <rs ref="#tillich_place_id__628" type="place">Hofgeismar</rs>, es war fast zu einem Austritt der dortigen
                Liberalen aus der Landeskirche gekommen. Am Sonntag Morgen in aller Frühe <formula notation="TeX">\frac{1}{2}</formula> 5 fuhren wir hier mit der Bahn los, es fing
                ganz sachte an zu schneien. Um <formula notation="TeX">\frac{1}{2}</formula> 7 kamen
                wir in <rs ref="#tillich_place_id__623" type="place">Witzenhausen</rs> an, von wo wir noch 3 Stunden zu laufen
@@ -105,13 +105,13 @@
                Kirche an, <rs ref="#tillich_person_id__2376" type="person">Pastor Holzapfel</rs>, der Führer der
                Gemeinschaftsbewegung predigte. Die kleine Kirche faßte unglaublich viele Menschen u.
                sie war ganz voll, die Liturgie war ganz besonders fein, ebenso der Gemeindegesang.
-               Der Text war <rs type="bible" ref="Matt-25,1-13">Matth 25,1-13</rs> die 10
+               Der Text war <rs ref="Matt-25,1-13" type="bible">Matth 25,1-13</rs> die 10
                Jungfrauen. Er verlas auch diesen Text, seine Predigt stand jedoch damit in keinem
                Zusammenhang. Weil Totensonntag war, predigte er über die Todesgemeinschaft, ein sehr
                feines Thema, das führte er auch ganz gut aus, allerdings mit besonderer Betonung des
                Geistes usw. Er hatte uns wohl bemerkt, denn er ließ eine kurze Apologie einfließen,
-               etwa "Ist das nun unbiblisch, ist das schwärmerisch, oder ist das nicht gerade
-               biblisch!" Auch die moderne ungläubige Wissenschaft wies er mit schwersten Worten ab,
+               etwa <q>Ist das nun unbiblisch, ist das schwärmerisch, oder ist das nicht gerade
+               biblisch!</q> Auch die moderne ungläubige Wissenschaft wies er mit schwersten Worten ab,
                auch ohne viel Zusammenhang mit dem Thema. Natürlich war die Predigt nicht
                präpariert, da ja der Geist es ihm eingeben muß, und dafür war die<pb n="3"/> Predigt
                fein. Vor allem merkte man, daß er eine energische und tief religiöse Natur ist, fern
@@ -126,7 +126,7 @@
                bekommt man den Geist, den er sich fast wie eine Materie denkt. Damit ist man
                bekehrt, der Geist äußert sich nun in den Früchten, die eine völlige Umwälzung des
                Menschen verursachen, die sich auch in der Gnadengabe, Zungenreden, Beten, Auslegen
-               usw. <rs type="bible" ref="1Kor">1 Kor.</rs> zeige. Auch von Krankenheilungen
+               usw. <rs ref="1Kor" type="bible">1 Kor.</rs> zeige. Auch von Krankenheilungen
                wird viel erzählt. Nun erscheint einem auch das Neue Testament u. das AT in einem
                   ganz<pb n="4"/> anderen Lichte. Waren für den menschlichen Geist Widersprüche und
                Unklarheiten drin, so rückt der Geist alles unter die Betrachtung für die Bedeutung
@@ -141,30 +141,30 @@
                seinen Willen tun, sich mit anderen Weltanschauungen zu beschäftigen, und dann einer
                sich anzuschließen, ist auch falsch – . Daran ist sicher viel richtiges, aber man kann
                doch nur mit Reserve zustimmen. Besonders anziehend ist vor allem die Betonung des
-                  <rs type="bible" ref="Matt-7,16">"an ihren Früchten sollt ihr sie
-                  erkennen"</rs>, aber auch darin sind sie einseitig.<pb n="5"/> Das scharfe
-               Urteil über "Unbekehrte" haben sie mit allen Gemeinschaftsbewegungen gemein.</p>
-            <p><date when="1907-11-29">29.11.07.</date></p>
-            <p>Gestern wurde ich gestört, u kam Abends nicht mehr zum Schreiben, ich will jetzt das
+                  <rs ref="Matt-7,16" type="bible"><q>an ihren Früchten sollt ihr sie
+                  erkennen</q></rs>, aber auch darin sind sie einseitig.<pb n="5"/> Das scharfe
+               Urteil über <q>Unbekehrte</q> haben sie mit allen Gemeinschaftsbewegungen gemein.</p>
+<p><date when="1907-11-29">29.11.07.</date></p>
+<p>Gestern wurde ich gestört, u kam Abends nicht mehr zum Schreiben, ich will jetzt das
                Seminar bei <rs ref="#tillich_person_id__2213" type="person">Titius</rs> etwas weiter machen. Wir lesen
                da <rs ref="#tillich_person_id__1020" type="person">Kants</rs> ethische Schriften, die Du natürlich
                längst intus hast; ich habe viel davon, weniger vom Seminar als von der Lektüre, ich
-               mache mir immer Exzerpte. Bis jetzt haben wir die <rs type="work" ref="#tillich__8RH5WN9N"><hi rend="u">Prolegomena</hi> zur Grundlegung zur Metaphysik der Sitten</rs>
-               gelesen und sind mitten in der <rs type="work" ref="#tillich__QFAXMSNL">Kritik der
+               mache mir immer Exzerpte. Bis jetzt haben wir die <rs ref="#tillich__8RH5WN9N" type="work"><hi rend="u">Prolegomena</hi> zur Grundlegung zur Metaphysik der Sitten</rs>
+               gelesen und sind mitten in der <rs ref="#tillich__QFAXMSNL" type="work">Kritik der
                   praktischen Vernunft</rs>, die wir noch vor Weihnachten beenden. So lernt man
                doch <rs ref="#tillich_person_id__1020" type="person">Kant</rs> etwas kennen. Ich habe eine Arbeit zu
-               liefern über den <rs type="work" ref="#tillich__HHC56KFY">Streit d.
+               liefern über den <rs ref="#tillich__HHC56KFY" type="work">Streit d.
                   Fakultäten</rs>, am <date when="1908-02-07">7. Februar</date>; hoffentlich fällt das nicht mit dem
-               Februarkommers zusammen. Am <date when="1908-02-22">22. Febr.</date> habe ich eine Predigt zu halten über <rs type="bible" ref="1-Thess-5,9-10">1Thess. 5,9 u. 10</rs>. Als Thema denke ich
-               mir "Unsre Seligkeit besteht in der Gemeinschaft mit Christen, 1. Christus hat sie
+               Februarkommers zusammen. Am <date when="1908-02-22">22. Febr.</date> habe ich eine Predigt zu halten über <rs ref="1-Thess-5,9-10" type="bible">1Thess. 5,9 u. 10</rs>. Als Thema denke ich
+               mir <q>Unsre Seligkeit besteht in der Gemeinschaft mit Christen, 1. Christus hat sie
                   <del rend="s">d.h.</del> durch seinen Tod erworben, 2. wir erlangen sie, indem wir
-               mit ihm sterben, Schlußged: Erst dann haben wir rechtes Leben in ihm." Was meinst Du
+               mit ihm sterben, Schlußged: Erst dann haben wir rechtes Leben in ihm.</q> Was meinst Du
                davon? Z.T. hat mich <rs ref="#tillich_person_id__2376" type="person">Holzapfels</rs> Thema beeinflusst,
                   auch<pb n="6"/> die Erinnerung an einige Collegs bei <rs ref="#tillich_person_id__1227" type="person">Schmuhl</rs>.</p>
-            <p>Die Sache <rs type="place" ref="#tillich_place_id__136">Erlangen</rs>-<rs type="place" ref="#tillich_place_id__189">Halle</rs> klärt sich ja auf, alle 7 haben um Entschuldigung gebeten,
-               die Philister sind auf die Seite der Verbindung getreten. <rs type="place" ref="#tillich_place_id__136">Erlangen</rs> wird nächstens in
-               einem Bundesbrief den Verkehrsbruch mit <rs type="place" ref="#tillich_place_id__189">Halle</rs> rückgängig machen.</p>
-            <p>Am <date when="1907-11-27">27.</date> hatten wir hier unsern <unclear>Arminen</unclear> Kommers mit Landesvater, der
+<p>Die Sache <rs ref="#tillich_place_id__136" type="place">Erlangen</rs>-<rs ref="#tillich_place_id__189" type="place">Halle</rs> klärt sich ja auf, alle 7 haben um Entschuldigung gebeten,
+               die Philister sind auf die Seite der Verbindung getreten. <rs ref="#tillich_place_id__136" type="place">Erlangen</rs> wird nächstens in
+               einem Bundesbrief den Verkehrsbruch mit <rs ref="#tillich_place_id__189" type="place">Halle</rs> rückgängig machen.</p>
+<p>Am <date when="1907-11-27">27.</date> hatten wir hier unsern <unclear>Arminen</unclear> Kommers mit Landesvater, der
                sehr nett verlief. Ich sprach mit <rs ref="#tillich_person_id__2142" type="person">Tielking</rs> und
                   <rs ref="#tillich_person_id__2377" type="person">Hukmann</rs> I, der keinen
                   <unclear>Conlands</unclear> hatte finden können u. mich schon lange fragen wollte,
@@ -176,23 +176,23 @@
                offiziellen eingerichtet, auf dem Geschichte der Philosophie getrieben wird.
                   <rs ref="#tillich_person_id__853" type="person">Heinzelmann</rs> verkehrt sehr viel mit <unclear>Gerd
                   Frieshammer</unclear>
-               <figure>
-                  <figDesc>[Darstellung: Wingolfzirkel.]</figDesc>
-               </figure>!, der hier als 9. Semester herumläuft. Ein Hallenser u. Marburger Philister
+<figure>
+<figDesc>[Darstellung: Wingolfzirkel.]</figDesc>
+</figure>!, der hier als 9. Semester herumläuft. Ein Hallenser u. Marburger Philister
                ist jetzt hergekommen, ein<pb n="7"/> Hilfsprediger Stefan, wann er Vikar war, weiß
                ich nicht. Professoren waren leider nicht da, da denselben Abend eine Festlichkeit
                beim Kurhaus stattfand. Heute Abend werden wir über die
                Inaktivenfrage behandeln, davon will ich doch auch berichten.</p>
-            <p>1.12. Bisher kam ich nicht wieder dazu. Das Göttinger <choice><abbr>A.H.C</abbr><expan>Alt-Häuser-Collegium</expan></choice><note type="ea">Gremium, das die Beschlüsse des Convents vorbereitet.</note> schlug vor, 4 Semester
+<p>1.12. Bisher kam ich nicht wieder dazu. Das Göttinger <choice><abbr>A.H.C</abbr><expan>Alt-Häuser-Collegium</expan></choice><note type="ea">Gremium, das die Beschlüsse des Convents vorbereitet.</note> schlug vor, 4 Semester
                zu verlangen, nach 2 Semestern bekommt man das Band, wenn eins ein Burschensemester
                war. Gegen beides ging ich an, mindestens 5 müssen verlangt werden, <del rend="s">da</del> u. nach 2 Fuxsemestern muß einer das Band haben. Mit ersterem dringe ich
                vielleicht durch, aber kaum mit dem letzten, das erstere ist auch wohl wichtiger.</p>
-            <closer>
-               <salute>Doch ich muß jetzt schließen. Herzl. Grüße an <rs ref="#tillich_person_id__1050" type="person">Kilger</rs>, der mir noch sein Typ schuldet, bestelle auch Deinem
+<closer>
+<salute>Doch ich muß jetzt schließen. Herzl. Grüße an <rs ref="#tillich_person_id__1050" type="person">Kilger</rs>, der mir noch sein Typ schuldet, bestelle auch Deinem
                      <rs ref="#tillich_person_id__1924" type="person">Vater</rs>, Deiner <rs ref="#tillich_person_id__644" type="person">Schwester</rs> freundlichen Gruß von </salute>
-               <signed><rs ref="#tillich_person_id__788" type="person">G. v. Hanffstengel</rs></signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<signed><rs ref="#tillich_person_id__788" type="person">G. v. Hanffstengel</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

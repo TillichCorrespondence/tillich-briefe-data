@@ -1,120 +1,118 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01075">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Erich Gabriel an Paul Tillich <lb/>vom 23. Juli 1930</title>
-            <author ref="#tillich_person_id__650">Erich Gabriel</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01075" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Erich Gabriel an Paul Tillich <lb/>vom 23. Juli 1930</title>
+<author ref="#tillich_person_id__650">Erich Gabriel</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/144(2)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-               <additional>
-                  <listBibl>
-                     <biblStruct type="monograph" n="firstPrint">
-                        <monogr>
-                           <author>Paul Tillich</author>
-                           <editor>Renate Albrecht/Margot Hahl (Hg.)</editor>
-                           <title>Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge,
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/144(2)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct n="firstPrint" type="monograph">
+<monogr>
+<author>Paul Tillich</author>
+<editor>Renate Albrecht/Margot Hahl (Hg.)</editor>
+<title>Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge,
                               Berichte</title>
-                           <edition>Erste Auflage</edition>
-                           <imprint>
-                              <publisher>Evangelisches Verlagswerk Stuttgart</publisher>
-                              <pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
-                              <date when="1980">1980</date>
-                              <biblScope>188</biblScope>
-                           </imprint>
-                        </monogr>
-                        <series>
-                           <title>Ergänzungs- und Nachlassbände zu den Gesammelten Werken
+<edition>Erste Auflage</edition>
+<imprint>
+<publisher>Evangelisches Verlagswerk Stuttgart</publisher>
+<pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
+<date when="1980">1980</date>
+<biblScope>188</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Ergänzungs- und Nachlassbände zu den Gesammelten Werken
                               von Paul Tillich</title>
-                           <biblScope>V</biblScope>
-                        </series>
-                     </biblStruct>
-                  </listBibl>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+<biblScope>V</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__650">Erich Gabriel</persName>
-               <placeName ref="#tillich_place_id__479">Zethau</placeName>
-               <date when="1930-07-23">23.07.1930</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-08-05">Initiale Auszeichnung des Transkripts</change>
-         <change who="FS" when="2024-01-16">Endabnahme</change>
-
-
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener><dateline>
-                  <rs ref="#tillich_place_id__479" type="place">Zethau</rs>, den <date when="1930-07-23">23. Juli
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__650">Erich Gabriel</persName>
+<placeName ref="#tillich_place_id__479">Zethau</placeName>
+<date when="1930-07-23">23.07.1930</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-08-05" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-01-16" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline>
+<rs ref="#tillich_place_id__479" type="place">Zethau</rs>, den <date when="1930-07-23">23. Juli
                      1930.</date></dateline>
-               <salute>Hochverehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>!</salute>
-            </opener>
-            <p>Aus dankbarem Herzen muß ich Ihnen schreiben. Befreiend für mich waren Ihre Worte,
-               die Sie am 22. Juli abends vor der Hörerschaft des Deutschlandsenders sprachen.<note type="ea">Tillich hatte über "<rs ref="#tillich__A6VJX3GT" type="work">Was ist religiöser Sozialismus?</rs>" gesprochen.</note> Sie
+<salute>Hochverehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>!</salute>
+</opener>
+<p>Aus dankbarem Herzen muß ich Ihnen schreiben. Befreiend für mich waren Ihre Worte,
+               die Sie am 22. Juli abends vor der Hörerschaft des Deutschlandsenders sprachen.<note type="ea">Tillich hatte über <q><rs ref="#tillich__A6VJX3GT" type="work">Was ist religiöser Sozialismus?</rs></q> gesprochen.</note> Sie
                waren auch stark belebend, da <sic>sie</sic> mir die Überzeugung einpflanzten, daß Sozialismus
                und Religion keine Gegensätze sind. Sozialismus aus Erfahrung meiner Schlosserzeit
                (1919–1921) und Religion, vertieft und gewachsen unter dem Einfluß meines verehrten
@@ -129,15 +127,15 @@
                materialistischen Ideen der Sozialdemokratie. Als ich mich mit <rs ref="#tillich_person_id__1560" type="person">Walther Rathenau</rs> beschäftigte und seiner sozialistischen
                Weltanschauung<supplied>,</supplied> fand ich im tiefsten Grund bestätigt die Worte, die Sie, verehrter
                Herr Professor, zu uns sprachen. Ich muß Ihnen gestehen, daß ich mich schon seit
-               Freitag, als die "Sendung" kam, darauf freute, Sie über dieses Thema sprechen zu
+               Freitag, als die <q>Sendung</q> kam, darauf freute, Sie über dieses Thema sprechen zu
                hören. Da ich hier oben im Erzgebirge, abgeschieden von der Welt, als Junglehrer
                lebe, wäre es mir eine herzliche Freude, wenn ich erführe, wo ich mich mehr mit den
                Fragen des Religiösen Sozialismus auseinander setzen könnte. Erlaubt es Ihnen Ihre
                Zeit nicht, bitte, Herr Professor, verzeihen Sie mir, so gehe ich selbst meinen Weg
                zum Ziele.</p>
-            <p>Es dürfte Sie vielleicht interessieren, was ich innerhalb der sächsischen
+<p>Es dürfte Sie vielleicht interessieren, was ich innerhalb der sächsischen
                Volksschullehrerschaft als Erfahrung gefunden habe.</p>
-            <p>Die Leitung des Sächs. Lehrervereins und ein großer Teil seiner Mitglieder fußt auf
+<p>Die Leitung des Sächs. Lehrervereins und ein großer Teil seiner Mitglieder fußt auf
                dem sozialdemokr. Parteiprogramm. Alle Versammlungen, die ich besuchte, haben mich
                   stets<pb n="2"/> innerlich tief erregt, weil trotz allen Redens über
                Weltanschauung und Schule eine sonderbare Kluft innerhalb der Lehrerschaft besteht.
@@ -149,21 +147,18 @@
                sieht. Der Kampf geht fort. Man weiß die Kluft und scheut sich deshalb, eine
                Urabstimmung über diese Fragen herbeizuführen. Sehr verehrter Herr Professor,
                vielleicht können Sie einige Literatur über diese Gedankengänge empfehlen.</p>
-            <p>Bitte verzeihen Sie mir noch einmal, daß ich Ihre kostbare Zeit in Anspruch nehme,
+<p>Bitte verzeihen Sie mir noch einmal, daß ich Ihre kostbare Zeit in Anspruch nehme,
                aber das Vertrauen zu Ihnen befahl mir zu schreiben.</p>
-            <closer>
-               <salute>Mit Hochachtung<lb/>
+<closer>
+<salute>Mit Hochachtung<lb/>
                   bin ich Ihr ergebener</salute>
-               <signed>Gz. <rs ref="#tillich_person_id__650" type="person">Erich Gabriel</rs>, Lehrer</signed>
-            </closer>
-
-            <postscript>
-               <p><rs ref="#tillich_place_id__479" type="place">Zethau bei Mulda (<unclear>Ahm.</unclear> Freiberg)</rs></p>
-               <p>Erzgebirge</p>
-            </postscript>
-
-         </div>
-
-      </body>
-   </text>
+<signed>Gz. <rs ref="#tillich_person_id__650" type="person">Erich Gabriel</rs>, Lehrer</signed>
+</closer>
+<postscript>
+<p><rs ref="#tillich_place_id__479" type="place">Zethau bei Mulda (<unclear>Ahm.</unclear> Freiberg)</rs></p>
+<p>Erzgebirge</p>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

@@ -1,127 +1,125 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00570">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Emanuel Hirsch an Paul Tillich <lb/>vom 22. Mai 1918 </title>
-                <author ref="#tillich_person_id__904">Emanuel Hirsch</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00570" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Emanuel Hirsch an Paul Tillich <lb/>vom 22. Mai 1918 </title>
+<author ref="#tillich_person_id__904">Emanuel Hirsch</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="typoscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement ref="#tillich_place_id__82">Cambridge</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                        <idno>bMS 649/Box 152(54)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, als maschinenschriftliche Abschrift überliefert</p>
-                    </physDesc>
-                    <additional>
-                        <listBibl>
-                            <biblStruct type="monograph" n="firstPrint">
-                                <monogr>
-                                    <author>Paul Tillich</author>
-                                    <editor>Renate Albrecht/René Trautmann (Hg.)</editor>
-                                    <title>Briefwechsel und Streitschriften. Theologische,
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="typoscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS 649/Box 152(54)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, als maschinenschriftliche Abschrift überliefert</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct n="firstPrint" type="monograph">
+<monogr>
+<author>Paul Tillich</author>
+<editor>Renate Albrecht/René Trautmann (Hg.)</editor>
+<title>Briefwechsel und Streitschriften. Theologische,
                                         philosophische und politische Stellungnahmen und
                                         Gespräche</title>
-                                    <edition>Erste Auflage</edition>
-                                    <imprint>
-                                        <publisher>De Gruyter</publisher>
-                                        <pubPlace ref="#tillich_place_id__143">Frankfurt
+<edition>Erste Auflage</edition>
+<imprint>
+<publisher>De Gruyter</publisher>
+<pubPlace ref="#tillich_place_id__143">Frankfurt
                                             a.M.</pubPlace>
-                                        <date when="1983">1983</date>
-                                        <biblScope>127-134</biblScope>
-                                    </imprint>
-                                </monogr>
-                                <series>
-                                    <title>Ergänzungs- und Nachlassbände zu den gesammelten Werken
+<date when="1983">1983</date>
+<biblScope>127-134</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Ergänzungs- und Nachlassbände zu den gesammelten Werken
                                         von Paul Tillich</title>
-                                    <biblScope>VI</biblScope>
-                                </series>
-                            </biblStruct>
-                        </listBibl>
-                    </additional>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+<biblScope>VI</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__904">Emanuel Hirsch</persName>
-                    <placeName ref="#tillich_place_id__68">Bonn</placeName>
-                    <date when="1918-05-22">22.05.1918</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change who="PS" when="2023-10-12">Initiale Auszeichnung des Transkripts</change>
-            <change who="GM" when="2024-02-19">Endabnahme</change>
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener>
-                    <dateline><rs ref="#tillich_place_id__68" type="place">Bonn</rs>
-                        <date when="1918-05-22">22. Mai 1918.</date></dateline>
-                    <salute>Lieber <rs ref="#tillich_person_id__1928" type="person"
-                        >Paul</rs>,</salute>
-                </opener>
-                <p>ich danke Dir für Deine <rs type="letter" ref="L00568"><rs type="letter"
-                            ref="L00561">beiden Briefe</rs></rs>. Ich will versuchen, Dir zu
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__904">Emanuel Hirsch</persName>
+<placeName ref="#tillich_place_id__68">Bonn</placeName>
+<date when="1918-05-22">22.05.1918</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-10-12" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-02-19" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__68" type="place">Bonn</rs>
+<date when="1918-05-22">22. Mai 1918.</date></dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
+</opener>
+<p>ich danke Dir für Deine <rs ref="L00568" type="letter"><rs ref="L00561" type="letter">beiden Briefe</rs></rs>. Ich will versuchen, Dir zu
                     antworten, obwohl ich zurzeit nur einen kleinen Rest meiner Kraft zur Verfügung
                     habe und gegen Dich stets meinen ganzen Geist gebrauchen musste. Ich habe das
                     Gefühl, das Du dich mir bedeutend genähert hast. Ja, wir sind vielleicht noch
                     näher beieinander, als Du glaubst. Denn Du hast mich nach der philosophischen
                     Seite nicht ganz verstanden.</p>
-                <p><rs ref="#tillich_person_id__1438" type="person">Otto</rs> gebe ich Dir für jede
+<p><rs ref="#tillich_person_id__1438" type="person">Otto</rs> gebe ich Dir für jede
                     philosophische Kritik preis. Sein religiöses Apriori ist psychologistisch
                     gemeint. Die menschliche Vernunft ist eine große Schatzkammer. Durch
                     Selbstbeobachtung findet sie ihre ursprünglichen, nicht weiter ableitbaren
@@ -130,8 +128,7 @@
                     solche nicht weiter ableitbare Idee aufzuweisen, ist die Aufgabe, die er sich im
                         <rs ref="#tillich__KAABUFJS" type="work">Heiligen</rs> gestellt hat. – – –
                     Eine Widerlegung dieses philos. Standpunktes ist unter uns nicht nötig. Nur
-                    soviel darf ich sagen: Die psychologistische Fragestellung hat <rs
-                        ref="#tillich_person_id__1438" type="person">Ottos</rs> Beschreibung des
+                    soviel darf ich sagen: Die psychologistische Fragestellung hat <rs ref="#tillich_person_id__1438" type="person">Ottos</rs> Beschreibung des
                     Religiösen ungünstig beeinflußt. Die Religion ist ihm doch etwas recht
                     Paganistisches. Die Stellungnahme der individuellen Selbstsucht, die das
                     Numinose entweder als grauenvolle Bedrohung der eigenen Existenz empfindet, oder
@@ -139,17 +136,12 @@
                     Erlebnis mit einbezogen worden. Das mag psychologisch richtig sein, – besonders
                     für die ersten Regungen der Religion auf heidnischem Boden, – ist aber
                     religionsphilosophisch ganz falsch.<pb n="2"/></p>
-                <p>Ich möchte also nicht von Dir mit <rs ref="#tillich_person_id__1438"
-                        type="person">Otto</rs> in einen Kuchen gestoßen werden. Ich fühle mich ihm
+<p>Ich möchte also nicht von Dir mit <rs ref="#tillich_person_id__1438" type="person">Otto</rs> in einen Kuchen gestoßen werden. Ich fühle mich ihm
                     verwandt, sofern er die erste bedeutende <hi rend="u">theistische</hi>
                     Religionsphilosophie geliefert hat. Aber ich habe nur einige Worte von ihm
-                    übernommen, und das, was ich Dir schrieb, ist, was die zugrunde liegende <hi
-                        rend="u">religiöse</hi> Anschauung anlangt, nicht von <rs
-                        ref="#tillich_person_id__1438" type="person">Otto</rs>, sondern von <rs
-                        ref="#tillich_person_id__1228" type="person">LUTHER</rs> gelernt, und steht
-                        <hi rend="u">philosophisch</hi> sogar in ausdrücklichem Gegensatz zu <rs
-                        ref="#tillich_person_id__1438" type="person">OTTO</rs>. – –</p>
-                <p>Du stellst mich in Deiner Kritik vor ein Entweder-Oder. Entweder die beiden
+                    übernommen, und das, was ich Dir schrieb, ist, was die zugrunde liegende <hi rend="u">religiöse</hi> Anschauung anlangt, nicht von <rs ref="#tillich_person_id__1438" type="person">Otto</rs>, sondern von <rs ref="#tillich_person_id__1228" type="person">LUTHER</rs> gelernt, und steht
+                        <hi rend="u">philosophisch</hi> sogar in ausdrücklichem Gegensatz zu <rs ref="#tillich_person_id__1438" type="person">OTTO</rs>. – –</p>
+<p>Du stellst mich in Deiner Kritik vor ein Entweder-Oder. Entweder die beiden
                     geistigen Grunderlebnisse sind zufällige zwei aus einer prinzipiell unendlichen,
                     weil empirischen Reihe, – oder sie sind unter einem Gesichtspunkte als die
                     beiden notwendig einzigen zu erkennen. Ich glaubte keinen Zweifel gelassen zu
@@ -158,7 +150,7 @@
                     beiden ist ein Drittes nicht denkbar. Ich wollte keinen Augenblick Zweifel
                     lassen, daß ich den Grundgegensatz, unter dem alle unsere Erkenntnis steht, zur
                     Begründung der Religionsphilosophie verwandt hatte.</p>
-                <p>Eben darum kann ich nun aber auch Deinen Haupteinwand (die Dialektik des Supra)
+<p>Eben darum kann ich nun aber auch Deinen Haupteinwand (die Dialektik des Supra)
                     auflösen. Ich habe ihn selbstverständlich erwartet, wenn ich auch enttäuscht
                     bin, daß es mir nicht gelungen ist, in meinem Brief mein lebendiges Empfinden
                     dieser Dialektik so deutlich auszudrücken, dass Du merktest: das eigentliche
@@ -168,8 +160,8 @@
                         <sic>das</sic> es in einem abgründlichen Widerspruche schwebt. Freilich
                     erlebt de<supplied>r</supplied> Fromme diese Dialektik meist in ihrer
                     paradoxesten Gestalt, die Du nicht berücksichtigt hast: das Supra wird als das
-                    Absolute so tief empfunden, daß darüber das "INFRA" untergeht. "Wer bin ich, daß
-                    ich mit Gott reden könnte?" Dieser Satz drückt auch das Empfinden einer
+                    Absolute so tief empfunden, daß darüber das <q>INFRA</q> untergeht. <q>Wer bin ich, daß
+                    ich mit Gott reden könnte?</q> Dieser Satz drückt auch das Empfinden einer
                     innerlichen Unmöglichkeit aus (UND nicht etwa bloß etwas Ethisches). Ich bin
                     nichts, was überhaupt vor Gott wäre, wie kann ich denn ein Verhältnis zu ihm
                     haben? – – Auch alle religiösen Zweifel beruhen auf dem Empfinden dieser
@@ -184,13 +176,12 @@
                     allem auch Gott selbst. Der Gedanke Gottes hebt sich, wenn man ihn denken will,
                     selber auf, er ist zu stark für uns, wir können ihn nicht tragen. Darauf beruht
                     alle Gottesungewissheit bei klar und logisch angelegten Naturen, die zugleich
-                    fähig sind, den Inhalt des Gedankens "GOTT" zu ahnen. Sie scheuen sich vor
-                    diesem Widerspruch. Auch Dein Lieblingssatz: Gott "ist" nicht, ist nichts als
+                    fähig sind, den Inhalt des Gedankens <q>GOTT</q> zu ahnen. Sie scheuen sich vor
+                    diesem Widerspruch. Auch Dein Lieblingssatz: Gott <q>ist</q> nicht, ist nichts als
                     ein Ausdruck dieses religiösen Grundwiderspruches. Gott ist kein Gegenstand, den
                     unsere Erkenntnis so selbstverständlich und unbekümmert bejahen könnte wie
                     alles, was ihr sonst wahr und gewiß ist.</p>
-                <p>Nun habe ich eine Frage an Dich, <rs ref="#tillich_person_id__1928" type="person"
-                        >Paul</rs>. Du gibst doch sonst dem Paradox soviel Raum in Deinem System.
+<p>Nun habe ich eine Frage an Dich, <rs ref="#tillich_person_id__1928" type="person">Paul</rs>. Du gibst doch sonst dem Paradox soviel Raum in Deinem System.
                     Warum stellst Du Dich denn hier auf den Standpunkt des simplen Rationalismus?
                     Dass diese Grundposition nicht zu Heteronomie und sonstigen theologischen
                     Naivitäten führen muß, habe ich in meinem Briefe<note type="ea">Liegt nicht
@@ -200,7 +191,7 @@
                     heteronomen Wendungen des Gedankens. Du dagegen bist in Gefahr, daß eine ganz
                     elementare religiöse Kritik an Dir nicht nur Deinen Rationalismus (um den wäre
                     es nicht so schade), sondern auch alle Vernunft hinwegschwemmt.</p>
-                <p>Ich kann auch so sagen: die ganze Dialektik des Supra ist nichts anderes als die
+<p>Ich kann auch so sagen: die ganze Dialektik des Supra ist nichts anderes als die
                     alte Dialektik des Nicht-Ich, das außer dem Ich sein soll und doch im Ich ist.
                     Diese Dialektik zwischen Ich und Nicht-Ich ist auch im Grunde nichts als der
                     Widerschein der Dialektik Geist–Gott. Ebenso wie Du nun das Nicht-Ich von dem
@@ -213,16 +204,12 @@
                     kann sie ideell auf<pb n="4"/>heben, aber sie bleibt darum doch da. Darum hast
                     Du – und dass Du das nicht tatest, macht mir gute Hoffnung – die geistige
                     Tatsache selbst nicht bestritten, sondern allein ihre Erklärung durch den
-                    Gottesbegriff. Wir reden beide als Sehende. Ich habe <rs
-                        ref="#tillich_person_id__1705" type="person">Schelling</rs> II<note
-                        type="ea"><rs ref="#tillich_person_id__1928" type="person">Tillich</rs>
-                        unterscheidet <rs ref="#tillich_person_id__1705" type="person"
-                            >Schellings</rs> philosophisches Werk in zwei verschiedene Perioden. Die
+                    Gottesbegriff. Wir reden beide als Sehende. Ich habe <rs ref="#tillich_person_id__1705" type="person">Schelling</rs> II<note type="ea"><rs ref="#tillich_person_id__1928" type="person">Tillich</rs>
+                        unterscheidet <rs ref="#tillich_person_id__1705" type="person">Schellings</rs> philosophisches Werk in zwei verschiedene Perioden. Die
                             <rs ref="#tillich__NAK7SAKI" type="work">Freiheitsschrift</rs> bildet
-                        dabei die Zäsur.</note> gesegnet, als ich <rs type="letter" ref="L00568"
-                        >Deinen Brief</rs> bekam, obwohl ich ihn noch immer nicht liebe. Du
+                        dabei die Zäsur.</note> gesegnet, als ich <rs ref="L00568" type="letter">Deinen Brief</rs> bekam, obwohl ich ihn noch immer nicht liebe. Du
                     verdankst ihm doch <hi rend="u">sehr</hi> viel.</p>
-                <p>Vielleicht verstehen wir uns am besten, wenn ich auf Deinen tiefsten Einwand
+<p>Vielleicht verstehen wir uns am besten, wenn ich auf Deinen tiefsten Einwand
                     gegen mich komme. Ich hatte ihn, wie ich den Brief<note type="ea">Liegt nicht
                         vor.</note> schrieb, immer vor der Seele. Es ist der, der mir innerlich am
                     meisten zu schaffen gemacht hat von jeher. Ich habe mir das Recht meines
@@ -233,31 +220,27 @@
                     Geist sich als relativ gegen den absoluten setze. Er sei darum auch auf diesen
                     zweiten Satz zu reduzieren. So habe ich selbst gegen mich argumentiert, aber es
                     ist ein Trug-Einwand:</p>
-                <p>Ich knüpfe an<supplied>,</supplied> an den "Gottesbeweis", den ich Ungelehrten
-                    "aus dem Weltwiderspruch" zu führen pflege. – Der Geist ist sich absolutes
+<p>Ich knüpfe an<supplied>,</supplied> an den <q>Gottesbeweis</q>, den ich Ungelehrten
+                    <q>aus dem Weltwiderspruch</q> zu führen pflege. – Der Geist ist sich absolutes
                     Prinzip alles Wirklichen, aber die Wirklichkeit verneint diesen Anspruch, er
                     erweist sich als undurchführbar. In der <hi rend="u">Erkenntnisaufgabe</hi>: Das
                     System verfällt immer wieder dem Gericht der Geschichte. Die Erkenntnis ist
                     unvollendbar. Das absolute Bei-sich des Geistes bleibt ein Traum. Dein System
-                    verfällt diesem Gericht ebenso gut wie das <rs ref="#tillich_person_id__839"
-                        type="person">Hegels</rs>. Denn auch das Mittel, diesem Gericht ins Auge zu
+                    verfällt diesem Gericht ebenso gut wie das <rs ref="#tillich_person_id__839" type="person">Hegels</rs>. Denn auch das Mittel, diesem Gericht ins Auge zu
                     blicken, und das Wissen, um es zum Grundparadox des Systems zu machen, macht
                     nicht unsterblich. Wider den Tod ist kein Kraut. – In <hi rend="u">Natur und
                         Geschichte</hi>: Der Geist macht sich nicht zum Herrn der Welt. Er ringt um
                     seine Herrschaft, und dabei hats sein Bewenden. Das brauch ich Dir mit Deinem
-                    eschatologischen Kultur-Pessimissmus nicht erst zu beweisen. – <hi rend="u"
-                        >Prinzipiell</hi>: Dem Geiste ist in dem, was er als sein Wesen erkennt, in
+                    eschatologischen Kultur-Pessimissmus nicht erst zu beweisen. – <hi rend="u">Prinzipiell</hi>: Dem Geiste ist in dem, was er als sein Wesen erkennt, in
                     sich selbst widersprochen. Er ist sich Identität, Subjekt–Objektivität in reiner
                     Einheit, und diese Identität ist doch das Jenseits seiner. Er ist sich mit dem
                     unendlichen Widerspruch gegen sein eigenes Wesen behaftet. Und muß schließlich
-                    dafür noch dankbar sein. Denn die reine Identität ist ihm nach <rs
-                        ref="#tillich_person_id__839" type="person">Hegel</rs> die Nacht, in der
+                    dafür noch dankbar sein. Denn die reine Identität ist ihm nach <rs ref="#tillich_person_id__839" type="person">Hegel</rs> die Nacht, in der
                     alle Kühe schwarz sind. Dadurch, daß er sich in den Widerspruch gesetzt findet,
                     kommt er<pb n="5"/> erst zu einem Inhalt. – – – Darum kann das System nicht
                     anfangen: der Geist ist, sondern allein: es ist der Geist und sein Widerspruch.
                     Genauer: der Geist, und im Geist der Widerspruch. Ich würde mich getrauen, an
-                    jedem beliebigen Philosophen das nachzuweisen. <rs ref="#tillich_person_id__839"
-                        type="person">Hegel</rs> lässt das Absolute "sich entlassen". Du kennst die
+                    jedem beliebigen Philosophen das nachzuweisen. <rs ref="#tillich_person_id__839" type="person">Hegel</rs> lässt das Absolute <q>sich entlassen</q>. Du kennst die
                     Kritik, die sich gegen diesen wunderlichen Akt gerichtet hat. Ich glaube, jeder
                     Versuch, den Geist zum Prinzip seines eigenen Widerspruchs zu machen, scheitert
                     notwendig. Es gibt nur eine ehrliche Möglichkeit, dem Dualismus (der übrigens
@@ -265,31 +248,29 @@
                     seinerseits widerlegt würde) auszuweichen, und das ist der Gottesgedanke. Man
                     muss sagen: Geist und Widerspruch sind das von Gott gesetzte. Genauer: Gott ist
                     der den Geist als in Widerspruch mit sich selbst Setzende. – – Daran, daß er im
-                    Widerspruch mit sich ist, erkennt sich der Geist nicht als sich setzend <hi
-                        rend="u">schlechthin</hi>, sondern als <hi rend="u">gesetztes</hi> sich
+                    Widerspruch mit sich ist, erkennt sich der Geist nicht als sich setzend <hi rend="u">schlechthin</hi>, sondern als <hi rend="u">gesetztes</hi> sich
                     Setzendes. Der Idealismus hat recht, – aber als Philosophie der Phainomena.
                     Jenseits seiner steht noch der Urakt der Schöpfung. Ich würde die Schöpfung
                     ebenso, wie die christliche Theologie es tut, beschreiben, nur ist mir das
                     Erschaffene nicht die reale Welt, sondern die Welt des Geistes. – Ich habe noch
                     immer gefunden, dass dieser Gottesbeweis leicht verstanden und gut gefasst wird,
                     wenn man ihn in der richtigen Weise an die Menschen heranbringt. Wir sind nicht
-                    von uns selber her, wir hängen nicht als selige Kugeln in der Luft. Dieses "WIR"
+                    von uns selber her, wir hängen nicht als selige Kugeln in der Luft. Dieses <q>WIR</q>
                     aber gilt nicht bloß von uns als Individuen, wir empfinden, wenn wir solche
                     Sätze aussprechen, vielmehr etwas durchaus Ueberindividuelles – so geht es uns
                     als Geist, und allem Geist, dem Geist. – – Nur noch eins: den Ausdruck
-                    "Gottesbeweis" wirst Du cum grano salis nehmen. Der Gottesgedanke ist dabei
+                    <q>Gottesbeweis</q> wirst Du cum grano salis nehmen. Der Gottesgedanke ist dabei
                     nichts logisch Erschlossenes, – Gott sei dank nicht. Er ist die Synthesis zu
                     einem gegebenen Widerstreit von Thesis und Antithesis, und jede Synthesis will
                     geschaut sein. Niemand aber wird sie schauen, dem nicht die Gottesahnung, von
                     der ich im vorigen Briefe soviel sprach, aufgegangen ist oder eben aufgeht, wenn
                     ich ihm vom Weltwiderspruch und von dem Jenseits des Geistes, auf das er
                     hinweist, spreche.</p>
-                <p>So glaube ich Dir gezeigt zu haben, daß es für mich keine sinnlose Rede ist, wenn
+<p>So glaube ich Dir gezeigt zu haben, daß es für mich keine sinnlose Rede ist, wenn
                     ich den Geist als solchen sich als relativ gegen Gott setzen lasse. Das ist
                     wirklich ein ganz anderer Gedanke, als wenn ich meine individuelle Bedingtheit
                     im Verhältnis zum allgemeinen Geistesleben erkenne.<pb n="6"/></p>
-                <p>Vielleicht wird mein Gedanke durch folgendes noch anschaulicher. <rs
-                        ref="#tillich_person_id__589" type="person">Fichte</rs> hat erkannt, dass
+<p>Vielleicht wird mein Gedanke durch folgendes noch anschaulicher. <rs ref="#tillich_person_id__589" type="person">Fichte</rs> hat erkannt, dass
                     die Fassung des Geistes als des <hi rend="u">schlechthin</hi> sich Setzenden
                     bedingt ist durch die strenge Fassung des Widerspruchs als einer rein negativen
                     Schranke. Das hat ihn bewogen, den Vorsehungsglauben und die
@@ -298,32 +279,26 @@
                     Alles andere Handeln fällt ihm aus der Geschichte hinaus. Aehnlich konnte er
                     sich ein Walten der Vorsehung im gewöhnlichen Sinn nicht denken. Es gibt keine
                     objektive, jenseits unser waltende Macht, es gibt nur ein Zusammenstimmen alles
-                    Handelns, das aus dem Geist geboren ist. Damit vergleiche nun <rs
-                        ref="#tillich_person_id__839" type="person">Hegels</rs> objektive
-                    Geschichtsphilosophie, seinen Gedanken von der List der Vernunft usw. <rs
-                        ref="#tillich_person_id__839" type="person">Hegel</rs> hat den Widerspruch
-                    zu einem positiven Element in der Entwicklung des Geistes gemacht. – – <rs
-                        ref="#tillich_person_id__1291" type="person">Medicus</rs> sieht in <rs
-                        ref="#tillich_person_id__839" type="person">Hegels</rs> Gedanken den Abfall
-                    vom Idealismus. Es ist aber klar, daß <rs ref="#tillich_person_id__839"
-                        type="person">Hegel</rs> nicht nur der christlichen Anschauungsweise sehr
+                    Handelns, das aus dem Geist geboren ist. Damit vergleiche nun <rs ref="#tillich_person_id__839" type="person">Hegels</rs> objektive
+                    Geschichtsphilosophie, seinen Gedanken von der List der Vernunft usw. <rs ref="#tillich_person_id__839" type="person">Hegel</rs> hat den Widerspruch
+                    zu einem positiven Element in der Entwicklung des Geistes gemacht. – – <rs ref="#tillich_person_id__1291" type="person">Medicus</rs> sieht in <rs ref="#tillich_person_id__839" type="person">Hegels</rs> Gedanken den Abfall
+                    vom Idealismus. Es ist aber klar, daß <rs ref="#tillich_person_id__839" type="person">Hegel</rs> nicht nur der christlichen Anschauungsweise sehr
                     nahe steht, sondern einfach die Tatsachen für sich hat. Die Frage ist nur, ob
                     diese geheimnisvolle positive Bedeutung des Widerspruchs nicht unerklärlich ist,
                     wenn man nicht den Geist als den von Gott in der Schöpfung gesetzten faßt.
-                    Jedenfalls dann wird man so urteilen müssen, wenn man die strenge Logik, die <rs
-                        ref="#tillich_person_id__839" type="person">Hegel</rs> im Geschichtsprozesse
+                    Jedenfalls dann wird man so urteilen müssen, wenn man die strenge Logik, die <rs ref="#tillich_person_id__839" type="person">Hegel</rs> im Geschichtsprozesse
                     zu finden glaubte, preis gibt und dem Geheimnis in der Geschichtsphilosophie die
                     Stelle gibt, die ihm gebührt. Wir können wirklich das, was in der Geschichte
                     geschieht, nicht ganz verstehen. Es ist eine Weisheit da, die über uns
                     geht. – – –</p>
-                <p>Eins bin ich Dir noch schuldig: den Nachweis, wie ich mir das religiöse Paradox
+<p>Eins bin ich Dir noch schuldig: den Nachweis, wie ich mir das religiöse Paradox
                     denn im Konkreten denke. Wie finde ich diejenige Einheit von Supra und Infra,
                     die dadurch, daß beide ein Verhältnis zueinander haben, vorausgesetzt wird? Die
                     Antwort liegt in der Synthesis der Begriffe Offenbarung und Rechtfertigung.</p>
-                <p><hi rend="u">Die Rechtfertigung ist eine Tat des göttlichen Willens</hi>, und
+<p><hi rend="u">Die Rechtfertigung ist eine Tat des göttlichen Willens</hi>, und
                     Gott vollzieht sie dadurch, daß er sich uns offenbart. Beginnende Offenbarung
                     ist beginnende Rechtfertigung, und vollendete Offenbarung ist vollendete
-                    Rechtfertigung. – – Wenn dem Geist die Gewißheit des "Andern" gegenwärtig wird, er
+                    Rechtfertigung. – – Wenn dem Geist die Gewißheit des <q>Andern</q> gegenwärtig wird, er
                     an dem Gedanken des Andern zu vergehen droht und infolgedessen an seiner
                     Gewißheit des Andern wieder irre werden möchte, ohne daß er doch von dem ihm
                     sich Bezeugenden loskommen könnte, – so hilft ihm nur eins: Er sieht eben darin,
@@ -337,7 +312,7 @@
                     ist diese Offenbarung anhebend schon in der Schöpfung. Wo nur creatürlicher
                     Geist ist, da ist Gottesahnung, sei es noch so dunkle und mißverstandene, da ist
                     anhebende Gemeinschaft mit Gott.</p>
-                <p>Ich beschränke mich auf diese prinzipiellen und formalen Dinge. Ich möchte Dich
+<p>Ich beschränke mich auf diese prinzipiellen und formalen Dinge. Ich möchte Dich
                     aber bitten, dass Du nun nach diesem <sic>Authentischen</sic> Commentar, meinen vorigen
                     Brief (Teil I und II)<note type="ea">Liegt nicht vor.</note> noch einmal liest. Du kannst aus
                     diesem hier allein meine Religionsphilosophie nicht verstehen. Du mußt auch
@@ -348,15 +323,14 @@
                     bißchen Geisteskraft aber, das ich für die Wissenschaft übrig habe, gehört
                     eigentlich einer kleinen Studie, die ich als Blinder sozusagen, arbeiten muß.
                     Denn ich darf um des kranken Auges willen auch das gesunde nur eine Stunde
-                    täglich im ganzen gebrauchen.<note type="ea"><rs ref="#tillich_person_id__904"
-                            type="person">Emanuel Hirsch</rs> verlor 1918 krankheitsbediungt ein
+                    täglich im ganzen gebrauchen.<note type="ea"><rs ref="#tillich_person_id__904" type="person">Emanuel Hirsch</rs> verlor 1918 krankheitsbediungt ein
                         Auge. 1946 erblindete er ganz.</note> Und ich habe wenig Hilfen im
                     Verhältnis zu meinem Arbeitsbedürfnis.</p>
-                <p>Ich formuliere das Problem: Die wissenschaftliche Differenz zwischen uns <sic>Beruht</sic>
+<p>Ich formuliere das Problem: Die wissenschaftliche Differenz zwischen uns <sic>Beruht</sic>
                     auf einem Doppelten: 1.) Du wagst es nicht, das von Dir anerkannte Dialektische
                     Verhältnis, das ich beschrieb, theistisch zu verstehen. Du mußt es Dir darum
                     wegerklären vom Standpunkt Deiner Geistphilosophie aus. Das tust Du mit Hilfe
-                    des "Unendlichkeitsbewusstseins", das allerdings meinem
+                    des <q>Unendlichkeitsbewusstseins</q>, das allerdings meinem
                     Andern oder Fremden näher steht als das Wertbewusstsein. 2) Ich fürchte auch
                     eine Differenz im Verständnis des Fremden. Ich habe das Empfinden, daß das, was
                     Du meinst, ästhetischer, stimmungsmäßiger ist als das, was ich meine. Wir müssten
@@ -364,32 +338,27 @@
                     Dinge, die man nicht gut in einen Brief bringen kann. Wenn Du bei Deinem Urlaub
                     über <rs ref="#tillich_place_id__68" type="place">Bonn</rs> kommen könntest, so wäre es nicht nur eine Freude für mich, sondern
                     auch gut für unsere Debatte.<pb n="8"/></p>
-                <p>Für das Verstehen nach der religiösen Seite hoffe ich etwas beitragen zu können.
+<p>Für das Verstehen nach der religiösen Seite hoffe ich etwas beitragen zu können.
                     In Kürze erscheint ein Vortrag, oder wie man es sonst nennen mag, etwas, was ich
-                    in der Klinik diktierte, mit Hilfe einer Vorleserin. <rs
-                        ref="#tillich__A5JKJ6UC" type="work">"LUTHERS GOTTESANSCHAUUNG"</rs> Wenn
+                    in der Klinik diktierte, mit Hilfe einer Vorleserin. <rs ref="#tillich__A5JKJ6UC" type="work"><q>LUTHERS GOTTESANSCHAUUNG</q></rs> Wenn
                     Du mir Versprichst, es zu lesen, so will ich's Dir, sobald es da ist, schicken.
                     Die Correkturen sind schon erledigt.</p>
-                <p>Wenn Du bei Deinem Urlaub nach <rs type="place" ref="#tillich_place_id__74"
-                        >Bremen</rs> kommst, so <sic>liess</sic> auch den kleinen populären Artikel
-                        <rs ref="#tillich__IFQUXBDI" type="work">"LIEBE UND
-                            PERSOENLICHKEIT"</rs>, den ich eben <rs
-                        ref="#tillich_person_id__644" type="person">Johanna</rs> schickte. Er ist
-                    eine Auseinandersetzung mit dem Persönlichkeitsideal von <rs
-                        ref="#tillich_person_id__690" type="person">Goethe</rs> und <rs
-                        ref="#tillich_person_id__1394" type="person">Nietzsche</rs>. Du lernst
+<p>Wenn Du bei Deinem Urlaub nach <rs ref="#tillich_place_id__74" type="place">Bremen</rs> kommst, so <sic>liess</sic> auch den kleinen populären Artikel
+                        <rs ref="#tillich__IFQUXBDI" type="work"><q>LIEBE UND
+                            PERSOENLICHKEIT</q></rs>, den ich eben <rs ref="#tillich_person_id__644" type="person">Johanna</rs> schickte. Er ist
+                    eine Auseinandersetzung mit dem Persönlichkeitsideal von <rs ref="#tillich_person_id__690" type="person">Goethe</rs> und <rs ref="#tillich_person_id__1394" type="person">Nietzsche</rs>. Du lernst
                     nichts neues draus, aber Du lernst mich gut daraus kennen.</p>
-                <p>Nun leb wohl. Ich hoffe, wir kommen zusammen. Du wirst Dich für Deine Kritik an
+<p>Nun leb wohl. Ich hoffe, wir kommen zusammen. Du wirst Dich für Deine Kritik an
                     mir am ehesten richtig einstellen, wenn Du mich nicht unter das Schema des
                     Supranaturalismus bringst, das trifft mich nicht. Wohl aber hat bei mir das
                     idealistische System einen realistischen Unterton bekommen. Die idealistische
                     Erkenntnistheorie ist richtig, aber sie hat einen religiösen Realismus zur
                     Geheimen Voraussetzung.</p>
-                <closer>
-                    <salute>von Herzen Dein treuer</salute>
-                    <signed><rs ref="#tillich_person_id__904" type="person">Emanuel</rs></signed>
-                </closer>
-            </div>
-        </body>
-    </text>
+<closer>
+<salute>von Herzen Dein treuer</salute>
+<signed><rs ref="#tillich_person_id__904" type="person">Emanuel</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

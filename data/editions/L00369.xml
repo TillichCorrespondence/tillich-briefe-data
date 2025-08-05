@@ -1,103 +1,100 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00369">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Eckart von Sydow an Paul Tillich <lb/>vom 30. August 1913</title>
-            <author ref="#tillich_person_id__2008">Eckart von Sydow</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00369" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Eckart von Sydow an Paul Tillich <lb/>vom 30. August 1913</title>
+<author ref="#tillich_person_id__2008">Eckart von Sydow</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">Wien</placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                  <idno>bMS 649/191(6)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS 649/191(6)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__2008">Eckart von Sydow</persName>
-               <placeName ref="#tillich_place_id__306">München</placeName>
-               <date when="1913-08-30">30.08.1913</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="where"><!--Ort--></placeName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-         <change when="2023-12-06" who="AA">Initiale Auszeichnung des Transkripts</change>
-         <change when="2025-03-03" who="EL">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__306" type="place">München</rs>, d. <date
-                     when="1913-08-30">30.VIII.1913</date> Fürstenstr 13. </dateline>
-               <salute>Lieber <rs type="person" ref="#tillich_person_id__1928">Paul</rs>!</salute>
-            </opener>
-            <p> Ich danke Dir für Deinen Brief<note type="ea">Nicht überliefert.</note>, den Du
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2008">Eckart von Sydow</persName>
+<placeName ref="#tillich_place_id__306">München</placeName>
+<date when="1913-08-30">30.08.1913</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="where"><!--Ort--></placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2023-12-06" who="AA">Initiale Auszeichnung des Transkripts</change>
+<change when="2025-03-03" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__306" type="place">München</rs>, d. <date when="1913-08-30">30.VIII.1913</date> Fürstenstr 13. </dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+</opener>
+<p> Ich danke Dir für Deinen Brief<note type="ea">Nicht überliefert.</note>, den Du
                gelegentlich hoffentlich fortsetzen wirst. – Dass die Vorträge ins Wasser fallen, tut
                mir eines Teils sehr leid. Aber wahrscheinlich hätte ich doch nicht mich beteiligen
                können. Meine Arbeit stellt sich nun, wo ich so ziemlich am Schluss bin und sie schon
-               dem <rs type="person" ref="#tillich_person_id__3187">Verleger</rs> meines <rs
-                  type="work" ref="#tillich__VGDC8MII">Kant-Kommentars</rs> angeboten habe, doch
+               dem <rs ref="#tillich_person_id__3187" type="person">Verleger</rs> meines <rs ref="#tillich__VGDC8MII" type="work">Kant-Kommentars</rs> angeboten habe, doch
                noch als umfangreicher heraus, als ich <pb n="2"/> annahm. Sodass ich frühestens Ende
                September – dann aber auch energisch – meine Dekadenz-Arbeit in Angriff nehmen kann.
                Von meiner zuerst erwähnten Arbeit schrieb ich Dir doch schon? : „Der Gedanke des
-               Ideal-Reichs von <rs ref="#tillich_person_id__1020" type="person">Kant</rs> – <rs
-                  ref="#tillich_person_id__839" type="person">Hegel</rs> in Zusammenhang der
+               Ideal-Reichs von <rs ref="#tillich_person_id__1020" type="person">Kant</rs> – <rs ref="#tillich_person_id__839" type="person">Hegel</rs> in Zusammenhang der
                geschichtsphilosophischen Entwicklung“!! Ein schrecklich langer Titel, der aber nicht
                zu umgehen ist. Ich arbeite jetzt ziemlich energisch daran. Soweit meine Nerven, die
                   <pb n="3"/> sich immer mehr zu verabsolutieren scheinen, es zulassen. Es ist eine
@@ -108,45 +105,39 @@
                dort eine ganze Zeit lang in den hintersten Hintergrund stellen zu müssen.
                Literarisch klug ist es jedenfalls nicht, aber aus den <pb n="4"/> obigen Gründen
                doch wohl nicht zu umgehen. Ich beneide Dich im Moment herzlich um Segeln, Rudern
-               u.s.w. Das Bibliotheken-Sitzen ist auf die Dauer doch zu miess. – <del rend="s"
-                  >Ich</del> Im Grunde sind wir beide, glaube ich, doch Romantiker-Veranlagungen und
+               u.s.w. Das Bibliotheken-Sitzen ist auf die Dauer doch zu miess. – <del rend="s">Ich</del> Im Grunde sind wir beide, glaube ich, doch Romantiker-Veranlagungen und
                ich glaube hin und wieder, dass wir das Systematisieren in einiger Zeit aufgeben
-               werden. – Was verstehst Du unter "Paradoxon" in Deiner Arbeit. Schicke mir doch bitte
+               werden. – Was verstehst Du unter <q>Paradoxon</q> in Deiner Arbeit. Schicke mir doch bitte
                mal das Vorwort. – A propos von Dekadenz – kannst Du mir ein Buch nennen, in dem die
                Ansichten über das Böse <pb n="5"/> in übersichtlicher Form zusammengestellt sind?
                Ich glaube mich an ein Buch von einem Theologen Müller zu erinnern? Stimmts
                vielleicht und kennst Du den Vornamen dieses respektablen Mannes? – Hast Du im
                letzten Halbjahr schon wieder diesen cherry kobler getrunken? Ich noch
                   nicht<supplied>.</supplied>
-               <rs type="place" ref="#tillich_place_id__306">München</rs> ist leer. Ich habe kaum
+<rs ref="#tillich_place_id__306" type="place">München</rs> ist leer. Ich habe kaum
                einen Bekannten und so langweile ich mich häufig etwas<supplied>.</supplied> Gestern
-               war ich in <rs type="person" ref="#tillich_person_id__1879">Strindberg</rs>s-<rs
-                  type="work" ref="#tillich__X6RB7EN8">Totentanz I</rs>. Kennst Du? Eines der
+               war ich in <rs ref="#tillich_person_id__1879" type="person">Strindberg</rs>s-<rs ref="#tillich__X6RB7EN8" type="work">Totentanz I</rs>. Kennst Du? Eines der
                furchtbarsten <pb n="6"/> und ergreifendsten Stücke, die ich je gesehen. Das
                Nachtasyland der Lebende Leichnam sind dagegen das reine Zuckerwasser. Zum Schluss
                ist man wortlos, wütend und die Nerven sind einfach totgetrampelt. – Denke Dir die
                IX-Symphonie in Dekadente umgedreht. Bitte empfiehl mir ein paar Werke (Romane) von
-                  <rs ref="#tillich_person_id__1049" type="person">Kierkegaard</rs>. Das <rs
-                  type="work" ref="#tillich__HTWLRUSQ">Tagebuch</rs> kenne ich. – Ich fürchte: nach
-                  <rs type="place" ref="#tillich_place_id__80">Butterfelde</rs> werde ich kaum
+                  <rs ref="#tillich_person_id__1049" type="person">Kierkegaard</rs>. Das <rs ref="#tillich__HTWLRUSQ" type="work">Tagebuch</rs> kenne ich. – Ich fürchte: nach
+                  <rs ref="#tillich_place_id__80" type="place">Butterfelde</rs> werde ich kaum
                können. Sieh mal: ich muss am <date when="1913-09-16">16. Sept.</date> abfahren einen
-               Tag in <rs type="place" ref="#tillich_place_id__224">Jena</rs> bleiben, <pb n="7"/>
+               Tag in <rs ref="#tillich_place_id__224" type="place">Jena</rs> bleiben, <pb n="7"/>
                mich im Museum vorstellen, Besuche machen und leider auch Wohnung suchen. Da habe ich
                kaum Zeit, Vernünftigeres zu tun. – Eher im Oktober kann ich wohl mal zum Sonntag
                hinausfahren. Wir müssen unbedingt mal wieder Philosophie-Schach-spielen. – Hörtest
                Du von <rs ref="#tillich_person_id__1291" type="person">Medikus</rs> etwas? Ich muss
-               ihn in meiner Arbeit leider ansägen. Aber in sehr höflicher Form. – Bitte grüsse <rs
-                  ref="#tillich_person_id__644" type="person">Johanna</rs> und Deinen <rs
-                  ref="#tillich_person_id__641" type="person">Schwager</rs>. </p>
-            <closer>
-               <salute>Herzliche Grüsse Dein tr.</salute>
-               <signed><rs type="person" ref="#tillich_person_id__2008">Eckhart</rs></signed>
-            </closer>
-            <postscript>
-               <p>Wann entscheidet sich <rs type="place" ref="#tillich_place_id__68">Bonn</rs>-<rs
-                     type="place" ref="#tillich_place_id__37">Berlin</rs>?</p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+               ihn in meiner Arbeit leider ansägen. Aber in sehr höflicher Form. – Bitte grüsse <rs ref="#tillich_person_id__644" type="person">Johanna</rs> und Deinen <rs ref="#tillich_person_id__641" type="person">Schwager</rs>. </p>
+<closer>
+<salute>Herzliche Grüsse Dein tr.</salute>
+<signed><rs ref="#tillich_person_id__2008" type="person">Eckhart</rs></signed>
+</closer>
+<postscript>
+<p>Wann entscheidet sich <rs ref="#tillich_place_id__68" type="place">Bonn</rs>-<rs ref="#tillich_place_id__37" type="place">Berlin</rs>?</p>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

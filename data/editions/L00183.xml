@@ -1,111 +1,108 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00183">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Gottfried von Hanffstengel an Paul Tillich <lb/>vom 13. August 1907 </title>
-            <author ref="#tillich_person_id__788">Gottfried von Hanffstengel</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00183" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Gottfried von Hanffstengel an Paul Tillich <lb/>vom 13. August 1907 </title>
+<author ref="#tillich_person_id__788">Gottfried von Hanffstengel</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/147</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/147</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__788">Gottfried von Hanffstengel</persName>
-               <placeName ref="#tillich_place_id__75">Bremervörde</placeName>
-               <date when="1907-08-13">13.08.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2022-08-30" who="PS">Initiale Auszeichnung des Transkripts</change>
-         <change when="2024-02-06" who="PS">Vorbereitende Endabnahme</change>
-         <change when="2024-02-20" who="EL">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__75" type="place">Bremervörde</rs>, <date
-                     when="1907-08-13">13. VIII. 07.</date></dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
-            </opener>
-            <p>Irgendwie muß sich doch ein Geburtstagsbrief vor anderen Briefen auszeichnen;
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__788">Gottfried von Hanffstengel</persName>
+<placeName ref="#tillich_place_id__75">Bremervörde</placeName>
+<date when="1907-08-13">13.08.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-08-30" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-02-06" who="PS">Vorbereitende Endabnahme</change>
+<change when="2024-02-20" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__75" type="place">Bremervörde</rs>, <date when="1907-08-13">13. VIII. 07.</date></dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+</opener>
+<p>Irgendwie muß sich doch ein Geburtstagsbrief vor anderen Briefen auszeichnen;
                meistens wird das ja wohl durch besondere Geistverzapfung geschehen; da das aber
                bekannter Weise bei mir unmöglich ist, so greife ich zu dem Quantitativen, und dazu
                fange ich volle 8 Tage vorher damit an.</p>
-            <p>Den heidnischen Wunsch vom vorigen Male wiederhole ich nur mit großer Einschränkung,
+<p>Den heidnischen Wunsch vom vorigen Male wiederhole ich nur mit großer Einschränkung,
                Dein eigener Wunsch dürfte wohl kaum immer zum eignen Besten sein, besonders wenn es
                gilt, auf die Gesundheit u die Nerven Rücksicht zu nehmen. Am liebsten wünschte ich
-               Dir noch ein ruhiges Hallenser Semester, aber auch das in <rs
-                  ref="#tillich_place_id__37" type="place">Berlin</rs> kann Dir nicht schaden. – Das
+               Dir noch ein ruhiges Hallenser Semester, aber auch das in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> kann Dir nicht schaden. – Das
                war bis jetzt Quatsch, aber wie ich meinen Wunsch formulieren soll, weiß ich selbst
                kaum, also alles Gute.</p>
-            <p>Das möchte ich gleich vorweg bemerken, daß Du mein Geschreibsel so bekommst, wie
+<p>Das möchte ich gleich vorweg bemerken, daß Du mein Geschreibsel so bekommst, wie
                grade mir die Einfälle und Gedanken kommen. Auf <pb n="2"/>stilistische
                Vollkommenheit mache ich hier keinen Anspruch, im Gegenteil, wenn auch sonst ich
                selbst leicht durch schlechten Stil in Büchern unangenehmer berührt bin.</p>
-            <p>Morgen bin ich eine Woche hier, und mir ist, als wenn ich kaum weggewesen wäre, dazu
-               trägt sicher die Regelmäßigkeit des Lebens viel bei im Unterschied zu <rs
-                  ref="#tillich_place_id__189" type="place">Halle</rs>. Die Reise war öde, 14
+<p>Morgen bin ich eine Woche hier, und mir ist, als wenn ich kaum weggewesen wäre, dazu
+               trägt sicher die Regelmäßigkeit des Lebens viel bei im Unterschied zu <rs ref="#tillich_place_id__189" type="place">Halle</rs>. Die Reise war öde, 14
                Stunden in 4. Klasse sind kein Vergnügen. Die vielgerühmten psychologischen Studien,
                die man ja machen kann, dienen doch meistens nur der Erheiterung, und sind auch nicht
                allzu oft zu finden, allerdings sind gewisse Strecken ja besonders dazu geeignet.
@@ -113,8 +110,7 @@
                   <del rend="s">wir</del> mit einem Taschenkünstler zusammen, der von Wagen zu Wagen
                ging u seine Kunststücke vormachte, dabei auch nicht schlecht verdiente. Der Mann
                verdient damit sein täglich Brodt, daß er immer reist u seine 3-4 Kunststücke zeigt.
-               Dann fuhr ein Assessor mit Familie mit mir, sie wollten nach <rs
-                  ref="#tillich_place_id__198" type="place">Hamburg</rs>. Er hatte <sic>eine</sic>
+               Dann fuhr ein Assessor mit Familie mit mir, sie wollten nach <rs ref="#tillich_place_id__198" type="place">Hamburg</rs>. Er hatte <sic>eine</sic>
                gar reizende Gören, die sich mit fast allen Mitreisenden famos anbiederten. Außerdem
                wurden uns mehrere Sorten Bonbons von 3 Leuten nacheinander angeboten, doch mit wenig
                Erfolg. Um 9 war ich hier,<pb n="3"/> und bekam gleich soviel zu essen, daß ich am
@@ -124,45 +120,34 @@
                als Regel dienen soll <del rend="s">da</del> an den ich mich aber nicht sklavisch
                binde, z. B. heute habe ich mit dem Brief eine Ausnahme gemacht. – Doch jetzt muß ich
                herunter zum Mittagessen.</p>
-            <p>Nachdem ich meine Mittagszigarre geraucht u dazu eine Broschüre von <rs
-                  ref="#tillich_person_id__2179" type="person">Dennert</rs> "<rs
-                  ref="#tillich__MUGHTL9U" type="work">Naturgesetz Zufall</rs>" gelesen habe, fahre
+<p>Nachdem ich meine Mittagszigarre geraucht u dazu eine Broschüre von <rs ref="#tillich_person_id__2179" type="person">Dennert</rs> <q><rs ref="#tillich__MUGHTL9U" type="work">Naturgesetz Zufall</rs></q> gelesen habe, fahre
                ich fort. </p>
-            <p>Vielleicht interessiert es Dich, etwas über meine Arbeit zu erfahren. Um 6 <formula
-                  notation="TeX">\frac{3}{4}</formula> stehe ich auf, trinke Kaffee und mache mir
+<p>Vielleicht interessiert es Dich, etwas über meine Arbeit zu erfahren. Um 6 <formula notation="TeX">\frac{3}{4}</formula> stehe ich auf, trinke Kaffee und mache mir
                dann im Garten zu tun. Um 8 gehe ich auf meine Bude u arbeite, 8-9 AT/ Jesajas, 9-10
-                  <rs ref="#tillich_person_id__807" type="person">Häring</rs>, <rs type="work"
-                  ref="#tillich__8HL7CKYF">Dogmatik</rs>, 10-12 NT nach <rs
-                  ref="#tillich_person_id__2027" type="person">Weiß</rs> u <rs
-                  ref="#tillich_person_id__2180" type="person">Zahns</rs>
-               <rs type="work" ref="#tillich__A82EIMUY"><rs type="work" ref="#tillich__QNMM37ZA"
-                     >Einleitung</rs></rs>. Nach Tisch lese ich erst etwas u dann arbeite ich
+                  <rs ref="#tillich_person_id__807" type="person">Häring</rs>, <rs ref="#tillich__8HL7CKYF" type="work">Dogmatik</rs>, 10-12 NT nach <rs ref="#tillich_person_id__2027" type="person">Weiß</rs> u <rs ref="#tillich_person_id__2180" type="person">Zahns</rs>
+<rs ref="#tillich__A82EIMUY" type="work"><rs ref="#tillich__QNMM37ZA" type="work">Einleitung</rs></rs>. Nach Tisch lese ich erst etwas u dann arbeite ich
                Geschichte der Philosophie. Nachmittags, d.h. nach 4 gehe ich spazieren oder tue was
-               im Garten, aber 1 Stunde bleibt für <rs ref="#tillich_person_id__807" type="person"
-                  >Härings</rs>
-               <rs type="work" ref="#tillich__RATTCBW8">Ethik</rs> vorbehalten. Diesen Plan habe ich
+               im Garten, aber 1 Stunde bleibt für <rs ref="#tillich_person_id__807" type="person">Härings</rs>
+<rs ref="#tillich__RATTCBW8" type="work">Ethik</rs> vorbehalten. Diesen Plan habe ich
                bis jetzt ziemlich durchgehalten, z. T. auch noch etwas Kirchengeschichte gearbeitet.
                Aber auf allen<pb n="4"/> Gebieten habe ich eine furchtbare Unkenntnis, u was noch
                mehr ist, alle die Probleme oder wenigstens viele stoßen mir zum ersten Male auf. Und
                dann wenn ich etwas lese so fehlt mir der rechte Maßstab der Kritik, ich bin manchem
                einfach ausgeliefert. Auch wenn ich ein Gefühl der Antipathie dagegen habe. </p>
-            <p>Vielleicht zum letzten Male für lange Zeit sind wir 8 Geschwister vollzählig hier,
+<p>Vielleicht zum letzten Male für lange Zeit sind wir 8 Geschwister vollzählig hier,
                mein ältester Bruder aus <rs ref="#tillich_place_id__189" type="place">Halle</rs>,
                der übrigens nicht mit dem <rs ref="#tillich_person_id__2181" type="person">Georg v.
-                  Hanffstengel</rs> zu verwechseln ist der sich an der Technischen Hochschule in <rs
-                  ref="#tillich_place_id__37" type="place">Berlin</rs> als Privatdozent habilitiert
+                  Hanffstengel</rs> zu verwechseln ist der sich an der Technischen Hochschule in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> als Privatdozent habilitiert
                hat, hat <del rend="s">f</del> auch für diese Woche Urlaub genommen. Mein jüngerer
-               Bruder, der bis jetzt in <rs type="place" ref="#tillich_place_id__274">Lübeck</rs> in
+               Bruder, der bis jetzt in <rs ref="#tillich_place_id__274" type="place">Lübeck</rs> in
                einer Maschinenfabrik <del rend="s">ge</del> praktisch gearbeitet hat, will Tiefbau
                studieren u nach Hannover gehen, doch ist er selbst noch nicht <del rend="s">k</del>
                ganz klar über seinen Beruf, er schwankt noch, ob er nicht doch Theologie studieren
                soll. Ich rate ihm natürlich sehr zu, ich hoffe, mit Erfolg.</p>
-            <p>Gestern kam von <rs ref="#tillich_person_id__2178" type="person">Wilm v. d.
-                  Smissen</rs> eine Karte mit der kurzen Notiz "anschwirren", wir hatten in <rs
-                  ref="#tillich_place_id__189" type="place">Halle</rs> schon verabredet, einander zu
+<p>Gestern kam von <rs ref="#tillich_person_id__2178" type="person">Wilm v. d.
+                  Smissen</rs> eine Karte mit der kurzen Notiz <q>anschwirren</q>, wir hatten in <rs ref="#tillich_place_id__189" type="place">Halle</rs> schon verabredet, einander zu
                besuchen. Leider kann ich nun erst am Freitag,<pb n="5"/> eben jener
-               Familienversammlung wegen, <rs ref="#tillich_person_id__2091" type="person"
-                  >Witte</rs> werde ich dort auch treffen, worauf ich mich sehr freue. Heute bekam
+               Familienversammlung wegen, <rs ref="#tillich_person_id__2091" type="person">Witte</rs> werde ich dort auch treffen, worauf ich mich sehr freue. Heute bekam
                ich auch die Wingolfsblätter mit seinem Artikel<note type="ea">Nicht
                   ermittelt.</note>. Was er an Schäden geißelt, ist ja ganz richtig, wenn auch wohl
                übertrieben, aber der Weg der Besserung, den er vorschlägt, scheint mir ungangbar.
@@ -172,116 +157,83 @@
                andern Parteien dasselbe Mittel benutzen, d. h. durch irgendwelche nicht
                stimmberechtigte Leute ihre Leute zur Wahl zu bringen. Doch wird man abwarten müssen,
                was in der nächsten Nummer kommt.</p>
-            <p>Um meinen schwachen Körper etwas zu stärken, turne ich abends ziemlich viel. Mein
+<p>Um meinen schwachen Körper etwas zu stärken, turne ich abends ziemlich viel. Mein
                Bruder <rs ref="#tillich_person_id__2182" type="person">Otto</rs> turnt ganz
-               großartig und hat vor allem Riesenkräfte. Auch mein 12jähriger Bruder <rs
-                  ref="#tillich_person_id__2171" type="person">Karl</rs>, genannt Salem, turnt
+               großartig und hat vor allem Riesenkräfte. Auch mein 12jähriger Bruder <rs ref="#tillich_person_id__2171" type="person">Karl</rs>, genannt Salem, turnt
                bedeutend besser als ich. Außerdem <del rend="s">hab</del> hantele ich regelmäßig,
-               die Hanteln hat <rs ref="#tillich_person_id__2182" type="person">Otto</rs> in <rs
-                  ref="#tillich_place_id__274" type="place">Lübeck</rs> selbst gemacht. Ich<pb n="6"
-               /> werde sie auch wohl mit nach <rs ref="#tillich_place_id__186" type="place"
-                  >Göttingen</rs> nehmen.</p>
-            <p><rs ref="#tillich_place_id__75" type="place">Bremervörde</rs>. <date ref="1907-08-21"
-                  >21. VIII. 07.</date></p>
-            <p>Zwar ist Dein Geburtstag schon vorbei, aber <rs ref="L00188" type="letter">meine
+               die Hanteln hat <rs ref="#tillich_person_id__2182" type="person">Otto</rs> in <rs ref="#tillich_place_id__274" type="place">Lübeck</rs> selbst gemacht. Ich<pb n="6"/> werde sie auch wohl mit nach <rs ref="#tillich_place_id__186" type="place">Göttingen</rs> nehmen.</p>
+<p><rs ref="#tillich_place_id__75" type="place">Bremervörde</rs>. <date ref="1907-08-21">21. VIII. 07.</date></p>
+<p>Zwar ist Dein Geburtstag schon vorbei, aber <rs ref="L00188" type="letter">meine
                   beiden Karten</rs><note type="ea">Eine weitere Karte ist nicht überliefert.</note>
                werden Dir zeigen, daß ich an Dich gedacht habe und daß mir der Brief schwer auf der
-               Seele lag. Einfach schlemmerhaft waren die Tage, besonders bei <rs
-                  ref="#tillich_person_id__2178" type="person">Wilm</rs>. Alles zu erzählen würde zu
-               zeitraubend sein, ich will nur von unsrer Tour nach <rs ref="#tillich_place_id__572"
-                  type="place">Blankenese</rs> erzählen, die <rs ref="#tillich_person_id__2178"
-                  type="person">Wilm</rs>, <rs ref="#tillich_person_id__2183" type="person">Hans
-                  Bertheau</rs> u ich am Sonnabend machten. <rs ref="#tillich_person_id__2178"
-                  type="person">Wilm</rs> u ich gingen morgens zu <rs ref="#tillich_person_id__2183"
-                  type="person">Bertheau</rs> u hatten vor, irgend was zu unternehmen. <rs
-                  ref="#tillich_person_id__2183" type="person">Bertheau</rs> war riesig nett u
+               Seele lag. Einfach schlemmerhaft waren die Tage, besonders bei <rs ref="#tillich_person_id__2178" type="person">Wilm</rs>. Alles zu erzählen würde zu
+               zeitraubend sein, ich will nur von unsrer Tour nach <rs ref="#tillich_place_id__572" type="place">Blankenese</rs> erzählen, die <rs ref="#tillich_person_id__2178" type="person">Wilm</rs>, <rs ref="#tillich_person_id__2183" type="person">Hans
+                  Bertheau</rs> u ich am Sonnabend machten. <rs ref="#tillich_person_id__2178" type="person">Wilm</rs> u ich gingen morgens zu <rs ref="#tillich_person_id__2183" type="person">Bertheau</rs> u hatten vor, irgend was zu unternehmen. <rs ref="#tillich_person_id__2183" type="person">Bertheau</rs> war riesig nett u
                schlug <rs ref="#tillich_place_id__572" type="place">Blankenese</rs> vor. Ich war
                noch nie dagewesen, also war es mir sehr lieb. Wir fuhren also die Elbe runter, ca
-                  <formula notation="TeX">\frac{3}{4}</formula> St. lang. In <rs
-                  ref="#tillich_place_id__572" type="place">Blankenese</rs> frühstückten wir
+                  <formula notation="TeX">\frac{3}{4}</formula> St. lang. In <rs ref="#tillich_place_id__572" type="place">Blankenese</rs> frühstückten wir
                energisch, wobei wir tadellose Aussicht hatten. Währenddessen kam ein Regen, der sich
                lange ausdehnte. Trotzdem sahen wir uns zunächst den Ort an, gingen dann nach
                mancherlei Irrungen die Elbchaussee bis<pb n="7"/>
-               <rs ref="#tillich_place_id__621" type="place">Nienstädten</rs>. An beiden Seiten der
+<rs ref="#tillich_place_id__621" type="place">Nienstädten</rs>. An beiden Seiten der
                Chaussee liegen prächtige Villen, die den reichen Hamburgern gehören. Dabei hatte man
                fast immer Aussicht auf die Elbe, auf der viele große u kleine Dampfer hin u.
                herfuhren. In <rs ref="#tillich_place_id__621" type="place">Nienstädten</rs> erholten
-               wir uns wieder bei einem sehr ergiebigen Kaffee, wie wir ihn selbst in <rs
-                  ref="#tillich_place_id__189" type="place">Halle</rs> nie gemacht haben, <rs
-                  ref="#tillich_person_id__2183" type="person">Bertheau</rs> fragte auch nach <rs
-                  ref="#tillich_person_id__2184" type="person">Kalfhaus</rs> u war mit unserem
+               wir uns wieder bei einem sehr ergiebigen Kaffee, wie wir ihn selbst in <rs ref="#tillich_place_id__189" type="place">Halle</rs> nie gemacht haben, <rs ref="#tillich_person_id__2183" type="person">Bertheau</rs> fragte auch nach <rs ref="#tillich_person_id__2184" type="person">Kalfhaus</rs> u war mit unserem
                Handeln sehr unzufrieden. Seine Darstellung lautete auch wesentlich anders als die
                   <rs ref="#tillich_person_id__2185" type="person">Meyersiecks</rs> u die der
                Godesberger Philister. Der ganzen Sache liegt offenbar ein Klatsch u Krach in der
-               Godesberger Anstalt zu Grunde, bei dem offenbar <rs ref="#tillich_person_id__2184"
-                  type="person">Kalfhaus</rs> von einigen verleumdet worden ist, aber sich
-               gerechtfertigt hat, sodaß seine Gegner den Kürzeren gezogen haben. <rs
-                  ref="#tillich_person_id__2184" type="person">Kalfhaus</rs> ist schon früh
+               Godesberger Anstalt zu Grunde, bei dem offenbar <rs ref="#tillich_person_id__2184" type="person">Kalfhaus</rs> von einigen verleumdet worden ist, aber sich
+               gerechtfertigt hat, sodaß seine Gegner den Kürzeren gezogen haben. <rs ref="#tillich_person_id__2184" type="person">Kalfhaus</rs> ist schon früh
                Inspektor u Vorsteher eines Hauses dort geworden, da er als Lehrer tüchtig ist, u das
                hat ihm Mißgunst älterer zugezogen. Also eine ganz üble Klatschgeschichte, in die
                besonders <rs ref="#tillich_person_id__2186" type="person">Ebers</rs> verwickelt ist.
                Jetzt ist ja nichts mehr zu machen,<pb n="8"/> und etwas parteiisch wird auch diese
                Darstellung wohl sein. <rs ref="#tillich_person_id__2183" type="person">Bertheau</rs>
                wußte das alles von <rs ref="#tillich_person_id__2091" type="person">Witte</rs>, der
-               aber nicht mit allem herausgerückt war. Sehr amüsierte ich mich über <rs
-                  ref="#tillich_person_id__2183" type="person">Bertheau</rs>, der genau wie <rs
-                  ref="#tillich_person_id__203" type="person">Lorenz</rs> über alles Preußische u
-               bes. <rs ref="#tillich_place_id__574" type="place">Altona</rs> herzog. <del rend="s"
-                  >Fr</del> Am Sonntag Morgen war ich mit <rs ref="#tillich_person_id__2178"
-                  type="person">Wilm</rs> u seinem älteren Bruder in <sic>die</sic> Heide, etwa 2
+               aber nicht mit allem herausgerückt war. Sehr amüsierte ich mich über <rs ref="#tillich_person_id__2183" type="person">Bertheau</rs>, der genau wie <rs ref="#tillich_person_id__203" type="person">Lorenz</rs> über alles Preußische u
+               bes. <rs ref="#tillich_place_id__574" type="place">Altona</rs> herzog. <del rend="s">Fr</del> Am Sonntag Morgen war ich mit <rs ref="#tillich_person_id__2178" type="person">Wilm</rs> u seinem älteren Bruder in <sic>die</sic> Heide, etwa 2
                Stunden von <rs ref="#tillich_place_id__414" type="place">Stellingen</rs> entfernt.
                   <rs ref="#tillich_person_id__2187" type="person">Heinrich v. d. Smissen</rs> ist
-               Chemiker, Assistent an der Hochschule in <rs ref="#tillich_place_id__37" type="place"
-                  >Berlin</rs>, u will nächstens auch seinen Dr. machen bei <rs
-                  ref="#tillich_person_id__2188" type="person">Erdmann</rs>. Wir machten geologische
+               Chemiker, Assistent an der Hochschule in <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, u will nächstens auch seinen Dr. machen bei <rs ref="#tillich_person_id__2188" type="person">Erdmann</rs>. Wir machten geologische
                Studien in Torf und Erz, dh. Eisenstein, der fast überall unter der Erde liegt. Vom
                Hagenbeckschen Tiergarten will ich nicht viel erzählen, nur daß es etwas berechtigt
                ist, daß er solch Aufsehen erregt, es ist wirklich fein. Den ganzen Tag ist es voll,
                die Elektrischen können die Besucher kaum alle befördern, selbst mit der Bahn kommen
                viele nach <rs ref="#tillich_place_id__198" type="place">Hamburg</rs>
-               <sic>blos</sic> dazu. Und das bei diesem Wetter, wo es alle Augenblicke regnet u dann
-               wieder tadellos ist. Montag Morgen fuhr ich mit der Elektrischen 1 <formula
-                  notation="TeX">\frac{1}{2}</formula> St.<pb n="9"/> nach <rs
-                  ref="#tillich_place_id__575" type="place">Horn</rs> um <rs
-                  ref="#tillich_person_id__2333" type="person"><rs ref="#tillich_person_id__1707"
-                     type="person">Scheteligs</rs></rs> zu besuchen. Wir hatten das auch schon in
-                  <rs ref="#tillich_place_id__189" type="place">Halle</rs> verabredet. Ihr <rs
-                  ref="#tillich_person_id__2881" type="person">Vater</rs> war mit meinem <rs
-                  ref="#tillich_person_id__2806" type="person">Vater</rs> in <rs
-                  ref="#tillich_place_id__260" type="place">Leipzig</rs> aktiv, u sie waren
+<sic>blos</sic> dazu. Und das bei diesem Wetter, wo es alle Augenblicke regnet u dann
+               wieder tadellos ist. Montag Morgen fuhr ich mit der Elektrischen 1 <formula notation="TeX">\frac{1}{2}</formula> St.<pb n="9"/> nach <rs ref="#tillich_place_id__575" type="place">Horn</rs> um <rs ref="#tillich_person_id__2333" type="person"><rs ref="#tillich_person_id__1707" type="person">Scheteligs</rs></rs> zu besuchen. Wir hatten das auch schon in
+                  <rs ref="#tillich_place_id__189" type="place">Halle</rs> verabredet. Ihr <rs ref="#tillich_person_id__2881" type="person">Vater</rs> war mit meinem <rs ref="#tillich_person_id__2806" type="person">Vater</rs> in <rs ref="#tillich_place_id__260" type="place">Leipzig</rs> aktiv, u sie waren
                Conhäuser, oder wie sie es damals nannten Hausknochen. Zugleich war
                   <unclear>Ragué</unclear> da, der bald nach Amerika zurückkehrt, aber erst noch
                Deutschland durchreisen will! Wir lebten die beiden Tage da sehr gemütlich. Am
-               Dienstag fuhren wir an die Alster, fuhren mit einem Alsterboot nach <del rend="s"><rs
-                     ref="#tillich_place_id__577" type="place">Ohlsdorf</rs></del><add
-                  place="sublinear">
-                  <rs ref="#tillich_place_id__576" type="place">Winterhude</rs></add>, von da mit
+               Dienstag fuhren wir an die Alster, fuhren mit einem Alsterboot nach <del rend="s"><rs ref="#tillich_place_id__577" type="place">Ohlsdorf</rs></del><add place="sublinear">
+<rs ref="#tillich_place_id__576" type="place">Winterhude</rs></add>, von da mit
                der Elektr. nach <rs ref="#tillich_place_id__577" type="place">Ohlsdorf</rs>, um den
                prächtigen Hamburger Kirchhof anzusehen. Das war dann auch wirklich prächtig. Solche
                Anlagen haben wohl wenige Parke, u nur ab u zu fliehen an den Seiten der Wege in
                wunderhübschen Blumenanlagen unter Bäumen einige Reihen von
                   <unclear>Himbern</unclear>.</p>
-            <p>Sehr interessant war es, wie an den Kapellen alles Kranzartige vermieden oder
+<p>Sehr interessant war es, wie an den Kapellen alles Kranzartige vermieden oder
                höchstens ganz oben angedeutet ist, um jedes spezifisch christliche am Bau zu
                   vermeiden.<pb n="10"/> Auf diesem Kirchhof wird ja auch alles beerdigt, wohl
                täglich 57; nur die Juden haben einen eigenen Kirchhof. Die größeren Wege sind alle
                benannt, da es ein riesig großes Gebiet ist, das noch immer vergrößert wird. Dienstag
                Nachmittag waren wir <del rend="s">auf den</del> im Hafen zu einer Rundfahrt, die
                wirklich sehr lohnend ist. Bei dem starken Winde gingen die Wellen oft vorn über
-               Bord, was uns aber nicht vertrieb. Dann brachten sie mich zur Bahn u um 5<hi
-                  rend="sup">25</hi> dampfte ich wieder ab. Ich bin doch froh wieder hier zu sein,
+               Bord, was uns aber nicht vertrieb. Dann brachten sie mich zur Bahn u um 5<hi rend="sup">25</hi> dampfte ich wieder ab. Ich bin doch froh wieder hier zu sein,
                jetzt will ich morgen wieder anfangen, ordentlich zu arbeiten. Auch im Garten ist
                allerhand zu tun. Z. B. habe ich heute den Hühnerstall gereinigt, ein besonders
                duftreiches Geschäft. Doch nun Schluß!</p>
-            <closer>
-               <salute>Herzliche Grüße sendet Dir u den Deinen</salute>
-               <signed><rs ref="#tillich_person_id__788" type="person">G. v.
+<closer>
+<salute>Herzliche Grüße sendet Dir u den Deinen</salute>
+<signed><rs ref="#tillich_person_id__788" type="person">G. v.
                   Hanffstengel</rs></signed>
-            </closer>
-            <postscript>
-               <p>Hoffentlich bald Anti.</p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+</closer>
+<postscript>
+<p>Hoffentlich bald Anti.</p>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

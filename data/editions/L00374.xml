@@ -1,100 +1,97 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00374">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Maria Rhine an Paul Tillich <lb/>vom 29. September 1913</title>
-            <author ref="#tillich_person_id__1594">Maria Rhine</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00374" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Maria Rhine an Paul Tillich <lb/>vom 29. September 1913</title>
+<author ref="#tillich_person_id__1594">Maria Rhine</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">Wien</placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                  <idno>bMS 649/178</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS 649/178</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1594">Maria Rhine</persName>
-               <placeName ref="#tillich_place_id__41">Lichtenrade</placeName>
-               <date when="1913-09-29">29.09.1913</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-         <change when="2023-12-06" who="AA">Initiale Auszeichnung des Transkripts</change>
-         <change when="2025-03-03" who="EL">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__41" type="place">Lichtenrade</rs>, <date
-                     when="1913-09-29">29.IX.13</date>.
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1594">Maria Rhine</persName>
+<placeName ref="#tillich_place_id__41">Lichtenrade</placeName>
+<date when="1913-09-29">29.09.1913</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2023-12-06" who="AA">Initiale Auszeichnung des Transkripts</change>
+<change when="2025-03-03" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__41" type="place">Lichtenrade</rs>, <date when="1913-09-29">29.IX.13</date>.
                </dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person"
-                  >Tillich</rs>,</salute>
-            </opener>
-            <p> ich kann es nicht mehr tragen. All die mühsam errungene Fassung ist zum Teil
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>,</salute>
+</opener>
+<p> ich kann es nicht mehr tragen. All die mühsam errungene Fassung ist zum Teil
                vernichtet durch <rs ref="#tillich_person_id__2020" type="person">Dox</rs>. Er konnte
                natürlich zu <rs ref="#tillich_person_id__1063" type="person">Mutti</rs> nicht
                schweigen. Das war ja vorauszusehen. Das ist kein richtiger Freund, der nicht
                schweigen kann. Nur eins hat er verschwiegen, wie nah es mich angeht, sogar scheint
-               er dabei noch Ausflüchte gebraucht zu haben, denn er sagte zu <rs
-                  ref="#tillich_person_id__1063" type="person">Mutti</rs> auf ihre Frage, wie er
+               er dabei noch Ausflüchte gebraucht zu haben, denn er sagte zu <rs ref="#tillich_person_id__1063" type="person">Mutti</rs> auf ihre Frage, wie er
                glaubte, daß die ganze Sache mich berührt hat, er glaube, die Sache sei mir nicht
                sehr nah gegangen. – Trotzdem ich ihm noch ziemlich verzweifelt schrieb. Bitte sagen
                Sie nichts zu <rs ref="#tillich_person_id__2020" type="person">Dox</rs> darüber, ich
@@ -104,32 +101,26 @@
                mir stundenlange Vorhaltungen, daß sie mein Vertrauen nicht besäße! – – Wenn Sie doch
                morgens immer so spät aufstehen, dann könnten Sie <pb n="2"/> doch wenigstens einmal
                morgen oder übermorgen etwas früher aufstehen, und mit mir am Potsdamer Platz
-               zusammentreffen, um 8 Uhr, damit ich es mit Ihnen besprechen kann, ehe <del rend="s">ich</del> <add place="superlinear">Sie</add> nach <rs
-                  ref="#tillich_place_id__41" type="place">Lichtenrade</rs> kommen. – <rs
-                     ref="#tillich_person_id__1063" type="person">Mama</rs> hat <rs type="person" ref="#tillich_person_id__3184">Emma</rs> gefragt, ob Sie
+               zusammentreffen, um 8 Uhr, damit ich es mit Ihnen besprechen kann, ehe <del rend="s">ich</del> <add place="superlinear">Sie</add> nach <rs ref="#tillich_place_id__41" type="place">Lichtenrade</rs> kommen. – <rs ref="#tillich_person_id__1063" type="person">Mama</rs> hat <rs ref="#tillich_person_id__3184" type="person">Emma</rs> gefragt, ob Sie
                mir noch einmal geschrieben hätten. Jedenfalls dürfen Sie <hi rend="u">keine
                   Karte</hi> schreiben. Gott, warum verlassen mich denn alle Menschen gerade in der
                schwersten Zeit? – Sie werden es noch bereuen. – Ich will nicht so vernachlässigt
-               werden von Ihnen! Dann zu sagen, <hi rend="u">ich</hi> sollte nichts "zu erzwingen
-               suchen" ist <hi rend="u">einfach</hi>, um mich los zu werden. Aber durch <rs
-                  ref="#tillich_person_id__2020" type="person">Doxens</rs> Tun bin ich in der
+               werden von Ihnen! Dann zu sagen, <hi rend="u">ich</hi> sollte nichts <q>zu erzwingen
+               suchen</q> ist <hi rend="u">einfach</hi>, um mich los zu werden. Aber durch <rs ref="#tillich_person_id__2020" type="person">Doxens</rs> Tun bin ich in der
                größten Verwirrung. Wenn Sie doch nur eine Viertelstunde mit mir sprächen. Ich bin
                jetzt doch immer zu Ihrer Verfügung, da Ferien sind, nur zu Mittag muß ich zu Hause
                sein! Schreiben Sie mir <hi rend="u">umgehend</hi>. Ich muß reden mit einem Menschen.
-               Sind sie denn den ganzen Tag mit <rs type="person" ref="#tillich_person_id__1931"
-                  >Gr.</rs> zusammen. – Ich kann hier nicht sitzen. <rs
-                  ref="#tillich_person_id__1928" type="person">Tillich</rs>, fühlen Sie denn gar
-               keine Verantwortung? Eine Viertelstunde könnte <rs type="person"
-                  ref="#tillich_person_id__1931">Gr.</rs> Sie auch entbehren. </p>
-            <closer>
-               <salute>Ihre</salute>
-               <signed><rs type="person" ref="#tillich_person_id__1594">Maria Klein</rs>.</signed>
-            </closer>
-            <postscript>
-               <p> Ich weiß nicht mehr, was ich tun soll. Warum verstanden Sie denn am Telefon
+               Sind sie denn den ganzen Tag mit <rs ref="#tillich_person_id__1931" type="person">Gr.</rs> zusammen. – Ich kann hier nicht sitzen. <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>, fühlen Sie denn gar
+               keine Verantwortung? Eine Viertelstunde könnte <rs ref="#tillich_person_id__1931" type="person">Gr.</rs> Sie auch entbehren. </p>
+<closer>
+<salute>Ihre</salute>
+<signed><rs ref="#tillich_person_id__1594" type="person">Maria Klein</rs>.</signed>
+</closer>
+<postscript>
+<p> Ich weiß nicht mehr, was ich tun soll. Warum verstanden Sie denn am Telefon
                   nicht, was ich wollte? </p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

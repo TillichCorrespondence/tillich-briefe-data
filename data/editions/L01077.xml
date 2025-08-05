@@ -1,96 +1,94 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01077">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Eduard Schröer an Paul Tillich <lb/>vom 23. Juli 1930</title>
-            <author ref="#tillich_person_id__2452">Eduard Schröer</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01077" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Eduard Schröer an Paul Tillich <lb/>vom 23. Juli 1930</title>
+<author ref="#tillich_person_id__2452">Eduard Schröer</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/183(10)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/183(10)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__2452">Eduard Schröer</persName>
-               <placeName ref="#tillich_place_id__305">Mühlhausen</placeName>
-               <date when="1930-07-23">23.07.1930</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-07-10">Initiale Auszeichnung des Transkripts</change>
-         <change who="FS" when="2024-01-22">Endabnahme</change>
-
-
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener><dateline>
-                  <rs ref="#tillich_place_id__305" type="place">Mühlhausen (Thüring.)</rs>, den <date when="1930-07-23">23. Juli 1930</date><lb/>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2452">Eduard Schröer</persName>
+<placeName ref="#tillich_place_id__305">Mühlhausen</placeName>
+<date when="1930-07-23">23.07.1930</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-07-10" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-01-22" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline>
+<rs ref="#tillich_place_id__305" type="place">Mühlhausen (Thüring.)</rs>, den <date when="1930-07-23">23. Juli 1930</date><lb/>
                (Allee Blobach 33)</dateline>
-               <salute>Hochgeehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>!</salute>
-            </opener>
-            <p>Auf den von Ihnen am gestrigen Tage durch den Deutschlandsender gehaltenen Vortrag:
-               "<rs ref="#tillich__A6VJX3GT" type="work">Was ist religiöser Sozialismus</rs>" war ich sehr gespannt, als ich die Ankündigung im
+<salute>Hochgeehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>!</salute>
+</opener>
+<p>Auf den von Ihnen am gestrigen Tage durch den Deutschlandsender gehaltenen Vortrag:
+               <q><rs ref="#tillich__A6VJX3GT" type="work">Was ist religiöser Sozialismus</rs></q> war ich sehr gespannt, als ich die Ankündigung im
                Programmheft gelesen hatte. Meine Erwartungen sind bei weitem übertroffen worden
                durch Ihre ganz hervorragenden Ausführungen über das behandelte Thema. Alles was Sie
                sagten, ist mir voll und ganz aus der Seele gesprochen und jeder rechtlich denkender
@@ -125,18 +123,16 @@
                Mensch, in der Richtung aber doch noch zu sehr im Überlieferten befangen. Damit muß
                aber doch mehr und mehr aufgeräumt werden, wenn wir in der wahren Religion vorwärts
                kommen wollen.</p>
-            <p>Verzeihen Sie, hochgeehrter Herr, daß ich es wage, Sie mit meinem Schreiben zu
+<p>Verzeihen Sie, hochgeehrter Herr, daß ich es wage, Sie mit meinem Schreiben zu
                belästigen. Es wäre mir aber so sehr lieb, zu einer, am liebsten aber zu beiden
                Fragen von Ihnen eine Antwort zu erhalten.</p>
-            <closer>
-               <salute>In dieser Erwartung zeichne ich mit vorzüglicher Hochachtung ganz
+<closer>
+<salute>In dieser Erwartung zeichne ich mit vorzüglicher Hochachtung ganz
                   ergebenst</salute>
-               <signed><rs ref="#tillich_person_id__2452" type="person">Eduard Schröer</rs> Oberpostsekretär
+<signed><rs ref="#tillich_person_id__2452" type="person">Eduard Schröer</rs> Oberpostsekretär
                   i.R.</signed>
-            </closer>
-
-         </div>
-
-      </body>
-   </text>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

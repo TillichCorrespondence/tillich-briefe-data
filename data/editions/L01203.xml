@@ -1,209 +1,192 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01203">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Karl Barth an Paul Tillich <lb/>vom 2. April 1933 </title>
-            <author ref="#tillich_person_id__137">Karl Barth</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0006-5231-3094">Sebastian Kueffner</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01203" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Karl Barth an Paul Tillich <lb/>vom 2. April 1933 </title>
+<author ref="#tillich_person_id__137">Karl Barth</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0006-5231-3094">Sebastian Kueffner</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="typeskript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                  <idno>bMS 649/123(9)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, maschinenschriftlich (Durchschlag)</p>
-               </physDesc>
-
-               <additional>
-                  <listBibl>
-
-
-                     <biblStruct type="journal" n="firstPrint">
-                        <monogr>
-                           <author>Ernst Wolf</author>
-                           <title>Politischer Gottesdienst</title>
-                           <imprint>
-                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
-                              <date when="1966">1966</date>
-                              <biblScope>290f.</biblScope>
-                           </imprint>
-                        </monogr>
-                        <series>
-                           <title>Blätter für deutsche und internationale Politik</title>
-                           <biblScope>XI</biblScope>
-                        </series>
-                     </biblStruct>
-
-
-                     <biblStruct type="monograph" n="secondPrint">
-                        <monogr>
-                           <author>Karl Kupisch</author>
-                           <title>Karl Barth in Selbstzeugnissen und Bilddokumenten</title>
-                           <imprint>
-                              <pubPlace ref="#tillich_place_id__198">Hamburg</pubPlace>
-                              <date when="1971">1971</date>
-                              <biblScope>75f.</biblScope>
-                           </imprint>
-                        </monogr>
-                        <series>
-                           <title>rowohlts monographien</title>
-                           <biblScope>174</biblScope>
-                        </series>
-                     </biblStruct>
-
-
-                     <biblStruct type="journal" n="thirdPrint">
-                        <monogr>
-                           <title>Karl Barth und Paul Tillich</title>
-                           <imprint>
-                              <date when="1977">1977</date>
-                              <biblScope>111f.</biblScope>
-                           </imprint>
-                        </monogr>
-                        <series>
-                           <title>Evangelische Kommentare (EVKOMM). Monatsschrift zum Zeitgeschehen
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="typeskript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS 649/123(9)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, maschinenschriftlich (Durchschlag)</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct n="firstPrint" type="journal">
+<monogr>
+<author>Ernst Wolf</author>
+<title>Politischer Gottesdienst</title>
+<imprint>
+<pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+<date when="1966">1966</date>
+<biblScope>290f.</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Blätter für deutsche und internationale Politik</title>
+<biblScope>XI</biblScope>
+</series>
+</biblStruct>
+<biblStruct n="secondPrint" type="monograph">
+<monogr>
+<author>Karl Kupisch</author>
+<title>Karl Barth in Selbstzeugnissen und Bilddokumenten</title>
+<imprint>
+<pubPlace ref="#tillich_place_id__198">Hamburg</pubPlace>
+<date when="1971">1971</date>
+<biblScope>75f.</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>rowohlts monographien</title>
+<biblScope>174</biblScope>
+</series>
+</biblStruct>
+<biblStruct n="thirdPrint" type="journal">
+<monogr>
+<title>Karl Barth und Paul Tillich</title>
+<imprint>
+<date when="1977">1977</date>
+<biblScope>111f.</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Evangelische Kommentare (EVKOMM). Monatsschrift zum Zeitgeschehen
                               in Kirche und Gesellschaft</title>
-                           <biblScope>10</biblScope>
-                        </series>
-                     </biblStruct>
-
-
-                     <biblStruct type="monograph" n="fourthPrint">
-                        <monogr>
-                           <author>Paul Tillich</author>
-                           <title>Ein Lebensbild in Dokumenten</title>
-                           <imprint>
-                              <publisher>Renate Albrecht/Margot Hahl</publisher>
-                              <pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
-                              <date when="1987">1987</date>
-                              <biblScope>192-195</biblScope>
-                           </imprint>
-                        </monogr>
-                        <series>
-                           <title>Gesamelte Werke. Ergänzungs- und Nachlaßbände</title>
-                           <biblScope>Band 5</biblScope>
-                        </series>
-                     </biblStruct>
-
-
-                     <biblStruct type="monograph" n="fifthPrint">
-                        <monogr>
-                           <author>Karl Barth</author>
-                           <title>Briefe des Jahres 1933</title>
-                           <imprint>
-                              <publisher>Eberhard Busch</publisher>
-                              <pubPlace ref="#tillich_place_id__480">Zürich</pubPlace>
-                              <date when="1987">2004</date>
-                              <biblScope>107-110</biblScope>
-                           </imprint>
-                        </monogr>
-                     </biblStruct>
-
-
-                  </listBibl>
-
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+<biblScope>10</biblScope>
+</series>
+</biblStruct>
+<biblStruct n="fourthPrint" type="monograph">
+<monogr>
+<author>Paul Tillich</author>
+<title>Ein Lebensbild in Dokumenten</title>
+<imprint>
+<publisher>Renate Albrecht/Margot Hahl</publisher>
+<pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
+<date when="1987">1987</date>
+<biblScope>192-195</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Gesamelte Werke. Ergänzungs- und Nachlaßbände</title>
+<biblScope>Band 5</biblScope>
+</series>
+</biblStruct>
+<biblStruct n="fifthPrint" type="monograph">
+<monogr>
+<author>Karl Barth</author>
+<title>Briefe des Jahres 1933</title>
+<imprint>
+<publisher>Eberhard Busch</publisher>
+<pubPlace ref="#tillich_place_id__480">Zürich</pubPlace>
+<date when="1987">2004</date>
+<biblScope>107-110</biblScope>
+</imprint>
+</monogr>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__137">Karl Barth</persName>
-               <placeName ref="#tillich_place_id__36">Bergli-Oberrieden</placeName>
-               <date when="1933-04-02">02.04.1933</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="SK" when="2023-05-17">Initiale Auszeichnung des Transkripts</change>
-         <change who="SK" when="2023-05-17">Authorveränderrung</change>
-         <change who="GM" when="2023-08-01">Publikationangabe geändert</change>
-         <change who="FS" when="2024-02-26">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>zzt. <rs ref="#tillich_place_id__36" type="place">Bergli-Oberrieden</rs>,
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__137">Karl Barth</persName>
+<placeName ref="#tillich_place_id__36">Bergli-Oberrieden</placeName>
+<date when="1933-04-02">02.04.1933</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-05-17" who="SK">Initiale Auszeichnung des Transkripts</change>
+<change when="2023-05-17" who="SK">Authorveränderrung</change>
+<change when="2023-08-01" who="GM">Publikationangabe geändert</change>
+<change when="2024-02-26" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>zzt. <rs ref="#tillich_place_id__36" type="place">Bergli-Oberrieden</rs>,
                   den <date when="1933-04-02">2. April 1933</date>.</dateline>
-               <salute>Lieber Herr <rs ref="#tillich_person_id__1928" type="person"
-                  >Tillich</rs>!</salute>
-            </opener>
-            <p>Besten Dank für Ihren <rs ref="L01201" type="letter">Brief vom 29. März</rs>. Er war in den Tat geeignet, mein "Starrsein"
-               hinsichtlich Ihrer "Ideologie" aufzulockern. Ich habe, als ich in meinem Brief<note
-                  type="ea">Liegt nicht vor.</note> an <rs
-                  ref="#tillich_person_id__1723" type="person">K. L. S.</rs> jene Wendung brachte,
-               nicht gewußt, dass die S.P.D. als solche "nicht wünscht, dass ihre Beamten ihre
-               Beamtenqualität der Zugehörigkeit zur Partei opfern". Und ich habe ferner und vor
+<salute>Lieber Herr <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>!</salute>
+</opener>
+<p>Besten Dank für Ihren <rs ref="L01201" type="letter">Brief vom 29. März</rs>. Er war in den Tat geeignet, mein <q>Starrsein</q>
+               hinsichtlich Ihrer <q>Ideologie</q> aufzulockern. Ich habe, als ich in meinem Brief<note type="ea">Liegt nicht vor.</note> an <rs ref="#tillich_person_id__1723" type="person">K. L. S.</rs> jene Wendung brachte,
+               nicht gewußt, dass die S.P.D. als solche <q>nicht wünscht, dass ihre Beamten ihre
+               Beamtenqualität der Zugehörigkeit zur Partei opfern</q>. Und ich habe ferner und vor
                allem nicht bedacht, was ich freilich hätte bedenken sollen: dass für Sie die
                Fragestellung in besten Treuen grundsätzlich eine ganz andere sein muss als für mich.
-               Ich nehme also zur Kenntnis, dass die betreffende "Ideologie" nicht nur Ihre private,
+               Ich nehme also zur Kenntnis, dass die betreffende <q>Ideologie</q> nicht nur Ihre private,
                sondern auch die führender Stellen, vielleicht aller führenden Stellen der S.P.D.
                ist. Und es ist mir deutlich, daß Sie das innere Recht dazu haben, sich diese
                Ideologie auch persönlich zu eigen zu machen. Es dient aber vielleicht der Klärung,
                wenn ich Ihnen ausdrücklich sage, dass ich und warum ich das für meine Person nicht
                tun kann.</p>
-            <p>Die Zugehörigkeit zur S.P.D. bedeutet für mich nicht das Bekenntnis zur Idee und
+<p>Die Zugehörigkeit zur S.P.D. bedeutet für mich nicht das Bekenntnis zur Idee und
                Weltanschauung des Sozialismus. Ich kann mich nach meiner Auffassung von der
                Exklusivität des christlichen Glaubensbekenntnisses zu keiner Idee noch
-               Weltanschauung in einem ernsthaften Sinn "bekennen". So habe ich auch zum "Marxismus"
+               Weltanschauung in einem ernsthaften Sinn <q>bekennen</q>. So habe ich auch zum <q>Marxismus</q>
                als solchem kein innerlich notwendiges Verhältnis. Ich wüßte nicht, in welcher Weise
                er für mich als Lehrer der Theologie jemals Inhalt und Gegenstand meiner beruflichen
                Tätigkeit werden könnte. Er ist mir in dieser Hinsicht gleich nah und gleich fern wie
                etwa der heute herrschende Nationalismus. Ich kann ihm als Idee und Weltanschauung
                weder Furcht noch Liebe noch Vertrauen entgegenbringen.</p>
-            <p>Die Zugehörigkeit zur S.P.D. bedeutet für mich schlechterdings eine praktische
+<p>Die Zugehörigkeit zur S.P.D. bedeutet für mich schlechterdings eine praktische
                politische Entscheidung. Vor die verschiedenen Möglichkeiten gestellt, die der Mensch
                in dieser Hinsicht hat, halte ich es <foreign xml:lang="lat">rebus hic et nunc sic
                   stantibus</foreign> für richtig, die Partei 1. der Arbeiterklasse, 2. der
@@ -215,9 +198,8 @@
                diese Entscheidung grundsätzlich auch in noch aktiveren Formen betätigen. Bis jetzt
                meinte ich, dazu weder das Zeug noch die Zeit noch den Ruf zu haben, und ich vermute
                bestimmt, dass es auch in Zukunft dabei bleiben <hi rend="u">wird.</hi> Ich könnte
-               mich freilich auch nicht darauf festlegen, dass es durchaus dabei bleiben <hi
-                  rend="u">muss.</hi></p>
-            <p>Damit wird einmal ein ev. sich ereignender Angriff auf die akademische Lehrfreiheit
+               mich freilich auch nicht darauf festlegen, dass es durchaus dabei bleiben <hi rend="u">muss.</hi></p>
+<p>Damit wird einmal ein ev. sich ereignender Angriff auf die akademische Lehrfreiheit
                für mich eine andere Bedeutung haben als für Sie. Ein Verbot des Bekenntnisses zur
                sozialistischen Idee im Rahmen meiner Lehrtätigkeit wäre mir gegenüber sinnlos, weil
                ich es nie übertreten habe und nach meiner grundsätzlichen Voraussetzung überhaupt
@@ -230,8 +212,8 @@
                mich widersetzen und die Konsequenzen auf mich nehmen. Wogegen, noch einmal: die
                Frage, ob ich den Sozialismus als Idee und Weltanschauung vortragen dürfe oder nicht,
                für mich gegenstandslos ist und gerade <hi rend="u">kein</hi>
-               <foreign xml:lang="lat">punctum confessionis</foreign> sein kann.</p>
-            <p>Umgekehrt ist nun gerade die Freiheit zur rein politischen Entscheidung,
+<foreign xml:lang="lat">punctum confessionis</foreign> sein kann.</p>
+<p>Umgekehrt ist nun gerade die Freiheit zur rein politischen Entscheidung,
                Stellungnahme und ev. Betätigung der Punkt, auf den für mich Alles ankommt. Diese
                Freiheit bezw. der bestimmte Gebrauch, den ich von ihr mache, indem ich mich vor
                Gleich- und Andersdenkenden, vor meinen Kollegen und Studenten, vor den Männern der
@@ -246,23 +228,21 @@
                meinige ist <hi rend="u">nur</hi> exoterisch, und gerade darum kann ich auf den
                exoterischen Sozialismus, d. h. konkret auf das Parteibuch nicht verzichten. Die
                Sache würde natürlich gegenstandslos, wenn die S.P.D. aufgelöst würde oder sich
-               selbst auflöste oder wenn sie mich, wie es akademischen Parteigenossen in <rs
-                  ref="#tillich_place_id__437" type="place">Thüringen</rs> widerfahren sein soll, um
-               mir Konflikte zu ersparen, fürsorglich "ausschließen" sollte. Dann ist mir eben diese
+               selbst auflöste oder wenn sie mich, wie es akademischen Parteigenossen in <rs ref="#tillich_place_id__437" type="place">Thüringen</rs> widerfahren sein soll, um
+               mir Konflikte zu ersparen, fürsorglich <q>ausschließen</q> sollte. Dann ist mir eben diese
                Entscheidung physisch unmöglich gemacht. Solange das nicht geschehen ist, einem
                bloßen Rat der Partei und vor allem einer Forderung des heutigen Staates gegenüber
                werde ich bei meiner Entscheidung bleiben müssen. Wenn ich dem preußischen Staat, der
                mich <date when="1921">1921</date> gerufen hat, ohne daß ich ein Anderer geworden
-               wäre, <date when="1933">1933</date> nicht mehr gefalle, dann mag er mich eben <date
-                  when="1933">1933</date> wegschicken. Er kann viel, dieser Staat, er kann z. B.
+               wäre, <date when="1933">1933</date> nicht mehr gefalle, dann mag er mich eben <date when="1933">1933</date> wegschicken. Er kann viel, dieser Staat, er kann z. B.
                nach Gutdünken pensionieren und absetzen. Er kann aber nicht Alles, er kann z. B.
                nicht einen freien Mann zwingen, seinetwegen ein anderer zu werden. Ich sage das ohne
                Heldentrotz und Märtyrerlust. Es geht eben nicht.</p>
-            <p>Nebenan, aber nur nebenan, stelle ich wohl auch die politische Erwägung an, dass es
+<p>Nebenan, aber nur nebenan, stelle ich wohl auch die politische Erwägung an, dass es
                wünschenswert sein könnte, wenn der heutige Staat vor den Augen des In- und Auslandes
                an einem freien Mann, der einen gewissen Namen hat, eben diese Erfahrung machen
                müsste, dass er zwar viel, aber nicht Alles kann. Ich will Ihnen sogar gestehen, dass
-               ich wohl wünschte, es möchte in <rs type="place" ref="#tillich_place_id__122">Deutschland</rs> noch einige andere freie Männer mit
+               ich wohl wünschte, es möchte in <rs ref="#tillich_place_id__122" type="place">Deutschland</rs> noch einige andere freie Männer mit
                einigem Namen geben, die so dran wären, daß sie in Bezug auf dieses arme, kleine
                Parteibuch dabei bleiben müssten: es geht eben nicht. Aber da wird nun jeder seiner
                Voraussetzung entsprechend handeln müssen. Und ich sehe vollkommen ein, dass Ihre
@@ -270,12 +250,12 @@
                also an Ihnen nach wie vor nur das tadeln, dass Ihre Voraussetzung nicht auch in
                einer ordentlichen Theologie (<hi rend="u">ohne</hi> esoterischen Sozialismus!)
                besteht. </p>
-            <closer>
-               <salute>Mit freundlichem Gruß<lb/>
+<closer>
+<salute>Mit freundlichem Gruß<lb/>
                   Ihr</salute>
-               <signed><rs ref="#tillich_person_id__137" type="person">K. Barth</rs></signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<signed><rs ref="#tillich_person_id__137" type="person">K. Barth</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

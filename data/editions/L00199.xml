@@ -1,100 +1,96 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00199">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Gilbert van der Smissen an Paul Tillich <lb/>vom 25. August 1907</title>
-            <author ref="#tillich_person_id__1982"/>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00199" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Gilbert van der Smissen an Paul Tillich <lb/>vom 25. August 1907</title>
+<author ref="#tillich_person_id__1982"/>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/186(49)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/186(49)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1982">Gilbert van der Smissen</persName>
-               <placeName ref="#tillich_place_id__485">Manebach</placeName>
-               <date when="1907-08-25">25.08.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2023-04-07" who="PS">Initiale Auszeichnung des Transkripts</change>
-         <change when="2024-02-07" who="PS">Vorbereitende Endabnahme</change>
-         <change when="2024-02-20" who="EL">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__276" type="place">Manebach</rs>. Kletts Hotel d. <date
-                     when="1907-08-25">25.VIII.07.</date></dateline>
-               <salute>Liebes <rs ref="#tillich_person_id__1928" type="person"
-                  >Paulchen</rs>!</salute>
-            </opener>
-            <p>Für Deinen Brief<note type="ea">Nicht überliefert.</note> vielen Dank. Ungefähr hast
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1982">Gilbert van der Smissen</persName>
+<placeName ref="#tillich_place_id__485">Manebach</placeName>
+<date when="1907-08-25">25.08.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-04-07" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-02-07" who="PS">Vorbereitende Endabnahme</change>
+<change when="2024-02-20" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__276" type="place">Manebach</rs>. Kletts Hotel d. <date when="1907-08-25">25.VIII.07.</date></dateline>
+<salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+</opener>
+<p>Für Deinen Brief<note type="ea">Nicht überliefert.</note> vielen Dank. Ungefähr hast
                Du gemerkt, wie's gedacht war. Die Genesis der Sache war furchtbar einfach, indem der
-               gute <rs type="person" ref="#tillich_person_id__3225">Teubner</rs> i. <rs ref="#tillich_place_id__260" type="place"
-                  >Leipzig</rs> allen Studikern in <rs ref="#tillich_place_id__189" type="place"
-                  >Halle</rs> u. a. auch Dir u. mir seinen Katalog zuschickte, indem mir das Bild
+               gute <rs ref="#tillich_person_id__3225" type="person">Teubner</rs> i. <rs ref="#tillich_place_id__260" type="place">Leipzig</rs> allen Studikern in <rs ref="#tillich_place_id__189" type="place">Halle</rs> u. a. auch Dir u. mir seinen Katalog zuschickte, indem mir das Bild
                vom Teufel auffiel; darauf suchte ich weiter u. fand alle Bilder sehr passend für
                eine <hi rend="aq">Vita Pauli</hi>, was nicht weiter viel Mühe machte, nur warf ich
                dabei einen Topf mit Tischleim um, was aber keinen großen Schaden anrichtete. Eine
@@ -103,8 +99,7 @@
                Daß Du Dich endlich mit dem Alkohol einlassen willst, finde ich höchst richtig u.
                heilsam. Hier in der Tannenwüste bin ich natürlich mit nichts<pb n="2"/> ausgerüstet.
                Wenn Dir am baldigem Haben liegt, so nimmst Du das Berliner Adreßbuch, suchst Dir ein
-               Guttemplerlagerhaus od. ein Blaukreuzheim, gehst hin u. kaufst Dir für 10 Pf. <rs
-                  ref="#tillich__XXW4LGKF" type="work">"Die <hi rend="u">Alkoholfrage</hi>"</rs>
+               Guttemplerlagerhaus od. ein Blaukreuzheim, gehst hin u. kaufst Dir für 10 Pf. <rs ref="#tillich__XXW4LGKF" type="work"><q>Die <hi rend="u">Alkoholfrage</hi></q></rs>
                von <rs ref="#tillich_person_id__2302" type="person">Bunge</rs>, dann wissen die
                Leute schon Bescheid. Darin steht sehr viel drin, schön kurz zusammengefaßt und
                enthält noch eine Literaturangabe über speziellere Fragen. Aber das erste wird Dir
@@ -116,8 +111,7 @@
                zu <sic>passen</sic>, daß ihm kein Anfall noch Gefahr zustoße. Das hat am Tage selten Not nur
                ist er auch etwas gelähmt und daher unbehülflich. In der Nacht lasse Ich ihn
                schreien, so viel er will. Übrigens<pb n="3"/> ist er sonst ein ganz manierlicher
-               Herr, nicht "unästhetisch", wie wahrscheinlich <rs ref="#tillich_person_id__203"
-                  type="person">Lorenz Bertheaus</rs> Kinder, aufgewachsen in einer schlemmerhaften
+               Herr, nicht <q>unästhetisch</q>, wie wahrscheinlich <rs ref="#tillich_person_id__203" type="person">Lorenz Bertheaus</rs> Kinder, aufgewachsen in einer schlemmerhaften
                Professorenfamilie, ehemals auch selbst einigermaßen gebildet, doch wird er mit der
                Zeit immer stumpfer. Peinlich ists, wenn er einem sein Leid klagt und helfen kann man
                dem armen Mann auch nicht, weil er einfach vergißt, was man ihm sagt, und die innere
@@ -128,46 +122,33 @@
                schlemmerhaft. In 6 Wochen sieht man schon allerlei; und während man sonst auf Touren
                so durch die Gegend braust, gewöhnt man sich hier an die Schönheit u. sieht vieles,
                was man sonst nicht sieht, oder als typisch übersieht. Also wunderschön<pb n="4"/>
-               ists hier, mitten im schönsten Teil von <sic><rs ref="#tillich_place_id__437" type="place"
-                  >Thyringen</rs></sic> am Fuße des Kickelhahn. Überall Wald u. schöne Täler, Aussichten
+               ists hier, mitten im schönsten Teil von <sic><rs ref="#tillich_place_id__437" type="place">Thyringen</rs></sic> am Fuße des Kickelhahn. Überall Wald u. schöne Täler, Aussichten
                usw. Nur hätte ich gern einen l. Br. oder 2 hier, aber nur <hi rend="aq">à la
                   carte</hi> zum Aussuchen. Dann wärs noch schöner. Ich bleibe also noch 3 Wochen
                hier, arbeite auch ein wenig d.h. ich ärgere u. freue mich abwechselnd am
                Hebräerbrief, lese <rs ref="#tillich_person_id__2303" type="person">Damaschkes</rs>
-               <rs ref="#tillich__K9PQ9SNC" type="work">Bodenreform</rs>, W. <rs
-                  ref="#tillich_person_id__2248" type="person">Raabe</rs>, <rs
-                  ref="#tillich_person_id__833" type="person">Hebbel</rs>. u. <rs
-                  ref="#tillich_person_id__2082" type="person">Windelbands</rs> Geschichten. Alle
+<rs ref="#tillich__K9PQ9SNC" type="work">Bodenreform</rs>, W. <rs ref="#tillich_person_id__2248" type="person">Raabe</rs>, <rs ref="#tillich_person_id__833" type="person">Hebbel</rs>. u. <rs ref="#tillich_person_id__2082" type="person">Windelbands</rs> Geschichten. Alle
                die in <rs ref="#tillich_place_id__189" type="place">Halle</rs> x<note type="ea">Als X bezeichnet man einen Erstchargierten oder Fux. Der X fungiert als Sprecher der Verbindung.</note> werden wollen,
                müßten die ja gelesen haben, hast Du mal gesagt. Auf der Rückreise werde ich Deinen
-               Neid erregen: via <rs ref="#tillich_place_id__208" type="place">Hersfeld</rs>, <rs
-                  ref="#tillich_place_id__236" type="place"><unclear>Kassel</unclear></rs> (<rs
-                  ref="#tillich_person_id__2215" type="person">Ritter</rs>), <rs
-                  ref="#tillich_place_id__318" type="place">Neviges</rs>, <rs
-                  ref="#tillich_place_id__473" type="place">Wittlage</rs>, <rs
-                  ref="#tillich_place_id__451" type="place">Ubbedissen</rs>,
+               Neid erregen: via <rs ref="#tillich_place_id__208" type="place">Hersfeld</rs>, <rs ref="#tillich_place_id__236" type="place"><unclear>Kassel</unclear></rs> (<rs ref="#tillich_person_id__2215" type="person">Ritter</rs>), <rs ref="#tillich_place_id__318" type="place">Neviges</rs>, <rs ref="#tillich_place_id__473" type="place">Wittlage</rs>, <rs ref="#tillich_place_id__451" type="place">Ubbedissen</rs>,
                <rs ref="#tillich_place_id__587" type="place">Minden</rs> (<unclear>Dorf</unclear>)
                   <rs ref="#tillich_place_id__74" type="place">Bremen</rs>
-                  (<unclear>Branisch</unclear>, <unclear>Gruber</unclear>) <rs
-                  ref="#tillich_place_id__75" type="place">Bremervörde</rs> (<rs
-                  ref="#tillich_person_id__788" type="person">v.H.</rs>) <unclear><hi rend="u"
-                     >Etsch</hi></unclear>!!</p>
-            <p>Eigentlich wollte ich noch auf Deine Schrift schimpfen, aber ich muss selbst sagen:
+                  (<unclear>Branisch</unclear>, <unclear>Gruber</unclear>) <rs ref="#tillich_place_id__75" type="place">Bremervörde</rs> (<rs ref="#tillich_person_id__788" type="person">v.H.</rs>) <unclear><hi rend="u">Etsch</hi></unclear>!!</p>
+<p>Eigentlich wollte ich noch auf Deine Schrift schimpfen, aber ich muss selbst sagen:
                   <hi rend="aq"><foreign xml:lang="lat">pater peccavi</foreign></hi>! Mein Typ
                kriegst Du, wenn ich welche habe, das dauert noch etwas. Soll Dich aber nicht
                hindern, mir Deine 2. Auflage zu schicken. </p>
-            <closer>
-               <salute>Mit herzlichem Gruß!</salute>
-               <signed>Dein treuer <sic><rs ref="#tillich_person_id__1982" type="person"
-                        >Gysbert</rs></sic></signed>
-            </closer>
-            <postscript>
-               <p><rs ref="#tillich_person_id__2178" type="person">Wilm</rs> züchtet irgendwo in
-                  <sic><rs type="place" ref="#tillich_place_id__288">Mäcklenburg</rs></sic> die dicksten Kartoffeln, wenn Du an ihn schreiben willst, schreibe
+<closer>
+<salute>Mit herzlichem Gruß!</salute>
+<signed>Dein treuer <sic><rs ref="#tillich_person_id__1982" type="person">Gysbert</rs></sic></signed>
+</closer>
+<postscript>
+<p><rs ref="#tillich_person_id__2178" type="person">Wilm</rs> züchtet irgendwo in
+                  <sic><rs ref="#tillich_place_id__288" type="place">Mäcklenburg</rs></sic> die dicksten Kartoffeln, wenn Du an ihn schreiben willst, schreibe
                   über <rs ref="#tillich_place_id__414" type="place">Stellingen</rs>,
                      <unclear>Schmiedestr</unclear> 1. </p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

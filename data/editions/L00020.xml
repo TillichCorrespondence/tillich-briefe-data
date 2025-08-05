@@ -1,95 +1,93 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00020">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Bianca Fiedler an Paul Tillich <lb/>vom 20. März 1902</title>
-            <author ref="#tillich_person_id__590">Bianca Fiedler</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0005-1475-7324">Jonas Epple</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00020" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Bianca Fiedler an Paul Tillich <lb/>vom 20. März 1902</title>
+<author ref="#tillich_person_id__590">Bianca Fiedler</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0005-1475-7324">Jonas Epple</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">Wien</placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008 A</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008 A</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__590">Bianca Fiedler</persName>
-               <placeName ref="#tillich_place_id__200">Hannover</placeName>
-               <date when="1902-03-20">20.03.1902</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="where"><!--Ort--></placeName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2023-08-04" who="JE">Initiale Auszeichnung des Transkripts</change>
-         <change when="2025-03-05" who="EL">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__200" type="place">Hannover</rs>, d. <date
-                     when="1902-03-20">20/3 1902</date>. </dateline>
-               <salute>Mein lieber <rs type="person" ref="#tillich_person_id__1928"
-                  >Paul</rs>!</salute>
-            </opener>
-            <p>Heut, zum ernsten, heiligen Ehrentage<note type="ea">Paul Tillich wird am 23.03.1902 in der Berliner 
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__590">Bianca Fiedler</persName>
+<placeName ref="#tillich_place_id__200">Hannover</placeName>
+<date when="1902-03-20">20.03.1902</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="where"><!--Ort--></placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-08-04" who="JE">Initiale Auszeichnung des Transkripts</change>
+<change when="2025-03-05" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__200" type="place">Hannover</rs>, d. <date when="1902-03-20">20/3 1902</date>. </dateline>
+<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+</opener>
+<p>Heut, zum ernsten, heiligen Ehrentage<note type="ea">Paul Tillich wird am 23.03.1902 in der Berliner 
             lutherisch-böhmischen Bethlehemskirche durch seinen Vater konfirmiert. Der Konfirmationsspruch war 
-            <rs ref="Joh. 8, 31-32" type="bible">Joh. 8, 31-32</rs>: "So ihr bleiben werdet und die Wahrheit wird 
-            euch frei machen."</note> für Dich, dem Tage Deiner Confirmation, sendet
+            <rs ref="Joh. 8, 31-32" type="bible">Joh. 8, 31-32</rs>: <q>So ihr bleiben werdet und die Wahrheit wird 
+            euch frei machen.</q></note> für Dich, dem Tage Deiner Confirmation, sendet
                Dir Deine alte Pathentante, an die Du gewiss keine Erinnerungen mehr hast, aus
                treuen, warmen Herzen die innigsten Segenswünsche. Der treue Herr u. Heiland dem Du
                nun heut selbst Liebe u. Treue für Dein ganzes Leben gelobest, er führe Dich gnädig
@@ -98,12 +96,12 @@
                magst in allen Gefahren Leiden u. Freuden des Lebens. Seiner treuen Hut und Liebe
                Dich befehlend, begleite ich Dich im Geist und fürbittenden Gebet zum Tisch des
                Herrn. </p>
-            <closer>
-               <salute>Nimm noch einen innigen Segensgruß u. Kuß und bewahre ein freundliches
+<closer>
+<salute>Nimm noch einen innigen Segensgruß u. Kuß und bewahre ein freundliches
                   Andenken Deiner alten treuen u. Dich liebenden Pathentante </salute>
-               <signed><rs type="person" ref="#tillich_person_id__590">Bianca Fiedler</rs></signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<signed><rs ref="#tillich_person_id__590" type="person">Bianca Fiedler</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

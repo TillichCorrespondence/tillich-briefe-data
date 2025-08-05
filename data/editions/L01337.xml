@@ -1,116 +1,106 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01337">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Hannah Tillich <lb/>von Dezember 1920 oder Januar 1921</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Anna Rüther</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01337" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich <lb/>von Dezember 1920 oder Januar 1921</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Anna Rüther</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">Wien</placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                  <idno>bMS 721/2(17)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/2(17)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date notBefore="1920-12-27" notAfter="1921-01-31">27.12.1920</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-         <change when="2024-02-08" who="AR">Initiale Auszeichnung des Transkripts</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <salute><note type="ea"> Am oberen Rand des Briefes wurde von fremder Hand
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date notAfter="1921-01-31" notBefore="1920-12-27">27.12.1920</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2024-02-08" who="AR">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute><note type="ea"> Am oberen Rand des Briefes wurde von fremder Hand
                      (wahrscheinlich <rs ref="#tillich_person_id__1923" type="person">Hannah
-                        Tillich</rs>) "Januar 21" vermerkt.</note>Geliebte <rs
-                     ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-            </opener>
-            <p>Du umschwebst mich jede Stunde, Du leuchtest in mir, Du läßt meine Seele zittern in
+                        Tillich</rs>) <q>Januar 21</q> vermerkt.</note>Geliebte <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Du umschwebst mich jede Stunde, Du leuchtest in mir, Du läßt meine Seele zittern in
                Sehnsucht, Sorge und Hoffnung, Du bist mein, auf welchem Ort des Alls Du auch weilst!
                Und doch sehne ich mich nach dem ganzen Nahesein, und freue mich trotz alles Schweren
                auf die Tage in Deiner Nähe. Heut habe ich den Brief<note type="ea">Liegt nicht
                   vor.</note> an <rs ref="#tillich_person_id__705" type="person">Albert</rs>
                geschickt; früher kann ich nicht kommen; aus dem Grund, den ich im Brief angegeben
                habe. Es ist schade, wenn <rs ref="#tillich_person_id__2041" type="person">M. L.</rs>
-               dann nicht mehr da ist; dafür hat aber <rs ref="#tillich_person_id__705"
-                  type="person">Albert</rs> Schule, wenigstens den Freitag Vormittag; und ein paar
-               Stunden müssen wir allein haben, sonst vergehe ich. Ich denke dann Sonnabend nach <rs
-                  ref="#tillich_place_id__260" type="place">Leipzig</rs> und Sonntag nach <rs
-                  ref="#tillich_place_id__37" type="place">Berlin</rs> zu fahren, falls nicht die
-               Lage Änderungen verlangt. – Ich danke Dir, daß Du das "Du" erzählt hast. Du mußt mich
-               sofort so anreden und mir sagen, Du hättest es <rs ref="#tillich_person_id__705"
-                  type="person">Albert</rs> gesagt, oder es mir noch offiziell schreiben, damit ich
+               dann nicht mehr da ist; dafür hat aber <rs ref="#tillich_person_id__705" type="person">Albert</rs> Schule, wenigstens den Freitag Vormittag; und ein paar
+               Stunden müssen wir allein haben, sonst vergehe ich. Ich denke dann Sonnabend nach <rs ref="#tillich_place_id__260" type="place">Leipzig</rs> und Sonntag nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> zu fahren, falls nicht die
+               Lage Änderungen verlangt. – Ich danke Dir, daß Du das <q>Du</q> erzählt hast. Du mußt mich
+               sofort so anreden und mir sagen, Du hättest es <rs ref="#tillich_person_id__705" type="person">Albert</rs> gesagt, oder es mir noch offiziell schreiben, damit ich
                Dich so an<pb n="2"/>rede. Wir müssen so schnell wie möglich eine Atmosphäre der
-               Klarheit (wenn auch nicht in alle Konsequenzen) schaffen. An <rs
-                  ref="#tillich_person_id__2776" type="person">Lotte</rs> schreibe ich gleichzeitig
-               mit diesem Brief ab; sie hat mir rührender Weise eine "Magdalena" von <rs
-                  ref="#tillich_person_id__2820" type="person">Quentin Massys</rs> geschickt, den
-               ich so liebe, und dessen Typ Dir in vielen Augenblicken ähnlich ist. – <date
-                  from="1920-12-24" to="1920-12-26">Weihnachten</date> ist still, wehmutsvoll-selig
+               Klarheit (wenn auch nicht in alle Konsequenzen) schaffen. An <rs ref="#tillich_person_id__2776" type="person">Lotte</rs> schreibe ich gleichzeitig
+               mit diesem Brief ab; sie hat mir rührender Weise eine <q>Magdalena</q> von <rs ref="#tillich_person_id__2820" type="person">Quentin Massys</rs> geschickt, den
+               ich so liebe, und dessen Typ Dir in vielen Augenblicken ähnlich ist. – <date from="1920-12-24" to="1920-12-26">Weihnachten</date> ist still, wehmutsvoll-selig
                verlaufen; Du warst viel unter uns, und der Gedanke, Dich einmal in dem
                schwermütig-reinen Frieden dieses Hauses zu wissen, ist mir Glück und Beruhigung. Die
-               vierte, die hier ist, ist die Freundin von <rs ref="#tillich_person_id__641"
-                  type="person">Alfred</rs>, <rs ref="#tillich_person_id__2821" type="person"
-                  >Gertrud Immow</rs>, Klavierkünstlerin, ein entzückendes Wesen, der er durch
+               vierte, die hier ist, ist die Freundin von <rs ref="#tillich_person_id__641" type="person">Alfred</rs>, <rs ref="#tillich_person_id__2821" type="person">Gertrud Immow</rs>, Klavierkünstlerin, ein entzückendes Wesen, der er durch
                Unterstützungen, die er ihr verschafft hat, durchgeholfen hat, und die uns täglich in
                überirdische Regionen hebt. Ich habe einen herrlichen Baum erkämpft und geschmückt,
                der wie ein Wald das Zimmer<pb n="3"/> überschattet und in seinem Aufbau ein Bild
@@ -118,36 +108,32 @@
                   <rs ref="#tillich_person_id__2822" type="person">Brahms</rs> erklingt. Wie ist es
                eigentlich mit Dir? Kannst Du Klavier spielen? Und wenn nicht, kannst Du es etwa noch
                lernen? Es wäre der größte äußere Wunsch, den Du mir erfüllen könntest. Außerdem
-               müßtest Du Italienisch lernen; ich will es jetzt auch mit Hülfe des Malers <rs
-                  ref="#tillich_person_id__2823" type="person">Egli</rs>, als Zukost zum Mittag.
-               Ostern übers Jahr müssen wir dann nach <rs ref="#tillich_place_id__219" type="place"
-                  >Italien</rs>, mit Rucksack und Schlafsack... Die Form zu suchen, die wir doch nie
+               müßtest Du Italienisch lernen; ich will es jetzt auch mit Hülfe des Malers <rs ref="#tillich_person_id__2823" type="person">Egli</rs>, als Zukost zum Mittag.
+               Ostern übers Jahr müssen wir dann nach <rs ref="#tillich_place_id__219" type="place">Italien</rs>, mit Rucksack und Schlafsack... Die Form zu suchen, die wir doch nie
                finden werden; denn unsere Form ist das Zerbrechen jeder Form und die ewige
                Paradoxie. – Ich habe in diesen Tagen einen Aufsatz entworfen über Masse und
                   Religion.<note type="ea">Vgl. <rs ref="#tillich__2QT76V2I" type="work">Paul
                      Tillich, Masse und Geist</rs>. Dort findet sich ein Kapitel mit dem Titel
-                  "Masse und Religion". Dieser Aufsatz wurde 1921 zwischen Januar und März in drei
-                  Teilen in der Zeitschrift <rs ref="#tillich__KLSGNHMM" type="work">"Blätter für
-                     Religiösen Sozialismus"</rs> veröffentlicht.</note> Er wird mir sehr schwer, da
+                  <q>Masse und Religion</q>. Dieser Aufsatz wurde 1921 zwischen Januar und März in drei
+                  Teilen in der Zeitschrift <rs ref="#tillich__KLSGNHMM" type="work"><q>Blätter für
+                     Religiösen Sozialismus</q></rs> veröffentlicht.</note> Er wird mir sehr schwer, da
                mir die Ekstasen (meine Steckenpferde!!)<pb n="4"/> fehlen; aber vielleicht wird er
-               tiefer. – Gestern Abend bei Sturzwellen von <rs ref="#tillich_person_id__1355"
-                  type="person">Mozart</rs>, <rs ref="#tillich_person_id__2824" type="person"
-                  >Chopin</rs>, <rs ref="#tillich_person_id__173" type="person">Beethoven</rs> kam
+               tiefer. – Gestern Abend bei Sturzwellen von <rs ref="#tillich_person_id__1355" type="person">Mozart</rs>, <rs ref="#tillich_person_id__2824" type="person">Chopin</rs>, <rs ref="#tillich_person_id__173" type="person">Beethoven</rs> kam
                mir der Gedanke, daß das unbedingt Wirkliche, der Abgrund, in dem das Denken versinkt
                oder geboren wird, doch auch <add place="superlinear">für</add> das Gefühl zugleich
                Abgrund und Grund <del rend="s">finden</del>
-               <add place="superlinear">sein</add> müßte; und schon in diesem Gedanken kam eine
-               seltsame Ruhe über mich, die offenbar die Form <hi rend="u">unserer</hi> "Ruhe in
-               Gott" ist, ganz etwas Anderes und doch das Gleiche, das unsere Alten hatten.</p>
-            <p>In dieser Ruhe, die tiefer ist "als alle Vernunft" – wie der Gehalt tiefer ist als
+<add place="superlinear">sein</add> müßte; und schon in diesem Gedanken kam eine
+               seltsame Ruhe über mich, die offenbar die Form <hi rend="u">unserer</hi> <q>Ruhe in
+               Gott</q> ist, ganz etwas Anderes und doch das Gleiche, das unsere Alten hatten.</p>
+<p>In dieser Ruhe, die tiefer ist <q>als alle Vernunft</q> – wie der Gehalt tiefer ist als
                alle Form und das Sein tiefer als alles Bewußtsein – will ich in das Neue Jahr gehen,
                das außer <hi rend="u">und über</hi> meiner Arbeit nur den einen Inhalt haben wird,
                Dich, Du Geliebte, mir Heilige und Segensschwere, der Stern, durch den das Ewige
                Licht auf meinen Weg scheint! </p>
-            <closer>
-               <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

@@ -1,109 +1,104 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01379">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 15. April 1922</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01379" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 15. April 1922</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">Wien</placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                  <idno>bMS 721/2(18)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/2(18)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date when="1922-04-15">15.04.1922</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-         <change when="2024-02-03" who="AA">Initiale Auszeichnung des Transkripts</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>Ostersonnabend.<note type="ea">Daneben von fremder Hand (wahrscheinlich <rs
-                        ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs>) ergänzt:
-                     "15.4.22".</note></dateline>
-               <salute>Geliebte <rs ref="#tillich_person_id__1923" type="person"
-                  >Hannah</rs>!</salute>
-            </opener>
-            <p> Hab Dank für Deinen Karfreitagsbrief,<note type="ea">Liegt nicht vor.</note> dessen
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1922-04-15">15.04.1922</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2024-02-03" who="AA">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>Ostersonnabend.<note type="ea">Daneben von fremder Hand (wahrscheinlich <rs ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs>) ergänzt:
+                     <q>15.4.22</q>.</note></dateline>
+<salute>Geliebte <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p> Hab Dank für Deinen Karfreitagsbrief,<note type="ea">Liegt nicht vor.</note> dessen
                einfache Sachlichkeit und Klarheit mir unendlich wohl tat. Was auch werden wird, ich
                danke Dir, daß Du mein Schicksal im innersten Sinne in Deinen Händen und auf Deinem
                Herzen trägst. Nur um eines bitte ich Dich noch einmal: Bedenke, daß ich in Bezug auf
                Christus und Christentum wund bin, weil dort einmal die Stätte meiner Knechtschaft
-               war; und ich bin wie ein Tier, das an der Stelle scheut, wo es geschlagen wurde,<pb
-                  n="2"/> auch wenn dort Weideplatz ist. – Und dann noch eins: <rs
-                  ref="#tillich_person_id__757" type="person">Margot</rs> war mir die Stütze, mit
+               war; und ich bin wie ein Tier, das an der Stelle scheut, wo es geschlagen wurde,<pb n="2"/> auch wenn dort Weideplatz ist. – Und dann noch eins: <rs ref="#tillich_person_id__757" type="person">Margot</rs> war mir die Stütze, mit
                der ich den Weg der Loslösung von der spielenden Vielheit fand; mitten auf diesem Weg
-               nimmst Du mir diese Stütze; wird nun das Spiel wieder kommen? O <rs
-                  ref="#tillich_person_id__1923" type="person">Hannah</rs>! Ich zeige Dir all meine
+               nimmst Du mir diese Stütze; wird nun das Spiel wieder kommen? O <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>! Ich zeige Dir all meine
                Abgründe. Du mußt sehr groß und sehr stark und vor allem sehr weit sein, um mich ganz
                zu umfassen. Ich will dasselbe Ziel wie Du. Aber vielleicht auf weiteren Wegen. Ich
                ergebe mich Deiner Liebe, die mein Stern ist in aller Qual. Ich bitte Dich: Werde
                nicht müde, um mein Bestes zu ringen!</p>
-            <closer><salute>In unendlicher Dankbarkeit – und viel Schmerz.</salute>
-               <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer><salute>In unendlicher Dankbarkeit – und viel Schmerz.</salute>
+<signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

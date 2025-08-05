@@ -1,110 +1,102 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01291">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Hannah Tillich <lb/>von Dezember 1920 oder Januar 1921</title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01291" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich <lb/>von Dezember 1920 oder Januar 1921</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">Wien</placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                        <institution>Harvard</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                        <idno>bMS 721/2(17)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/2(17)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <date notBefore="1920-12-01" notAfter="1921-01-04">01.12.1920</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-            <change when="2024-02-03" who="AA">Initiale Auszeichnung des Transkripts</change>
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener>
-                    <salute>Geliebte <rs ref="#tillich_person_id__1923" type="person"
-                        >Hannah</rs>!</salute>
-                </opener>
-                <p> Es ist Abend, <rs type="person" ref="#tillich_person_id__3186">Frl. Rudolf</rs> ist zum Atelierfest bei Maler
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date notAfter="1921-01-04" notBefore="1920-12-01">01.12.1920</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2024-02-03" who="AA">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Geliebte <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p> Es ist Abend, <rs ref="#tillich_person_id__3186" type="person">Frl. Rudolf</rs> ist zum Atelierfest bei Maler
                         <rs ref="#tillich_person_id__2823" type="person">Egli</rs>, unserm
-                    "möblierten Herrn" und Ernährer<del rend="s">, zum Atelierfest</del>, und ich muß warten,
+                    <q>möblierten Herrn</q> und Ernährer<del rend="s">, zum Atelierfest</del>, und ich muß warten,
                     bis sie kommt, damit sie meine Zimmer lüften und mein Bett machen kann; denn
                     noch immer liege ich, wenn auch fast ohne Fieber, so doch sehr matt und
-                    bettfreudig – Gestern war lange <rs ref="#tillich_person_id__2776" type="person"
-                        >Lotte Storch</rs> bei mir, und wir haben mancherlei besprochen; zunächst
+                    bettfreudig – Gestern war lange <rs ref="#tillich_person_id__2776" type="person">Lotte Storch</rs> bei mir, und wir haben mancherlei besprochen; zunächst
                     den Grund, warum mein Brief sich so versäumt hat: Familie Storch hat ihn ein
                     paar Tage liegen lassen; so etwas trifft ja immer, wenn es am wenigsten
-                    erwünscht ist. – Dann sprachen wir über mein eventuelles Kommen nach <rs
-                        ref="#tillich_place_id__567" type="place">Greiz</rs>, etwa vom <date
-                            from="1921-01-04" to="1921-01-09">4. bis 9. Jan.</date>; – sie wäre bereit,
+                    erwünscht ist. – Dann sprachen wir über mein eventuelles Kommen nach <rs ref="#tillich_place_id__567" type="place">Greiz</rs>, etwa vom <date from="1921-01-04" to="1921-01-09">4. bis 9. Jan.</date>; – sie wäre bereit,
                     selbst mit Hülfe einer Mogelei gegen die Schule, dann auch zu kommen, da 4
-                    günstiger sind als 3. Du müßtest dann <rs ref="#tillich_person_id__2041"
-                        type="person">Marie Luise</rs> eventuell vorher wegschicken (sie hat
+                    günstiger sind als 3. Du müßtest dann <rs ref="#tillich_person_id__2041" type="person">Marie Luise</rs> eventuell vorher wegschicken (sie hat
                     übrigens vorhin rührender Weise angeklingelt, wie es mir<pb n="2"/> geht). Du
-                    mußt das bald entscheiden; am Mittwoch will ich nach <rs
-                        ref="#tillich_place_id__74" type="place">Bremen</rs> fahren (Adr. bei <rs
-                        ref="#tillich_person_id__641" type="person">Pastor Fritz</rs>.
+                    mußt das bald entscheiden; am Mittwoch will ich nach <rs ref="#tillich_place_id__74" type="place">Bremen</rs> fahren (Adr. bei <rs ref="#tillich_person_id__641" type="person">Pastor Fritz</rs>.
                     Georg-Gröningstr. 40). Von dort würde ich kommen. – Aber nun eines, was aus
-                    meinem Gefühl kommt, aber von <rs ref="#tillich_person_id__2776" type="person"
-                        >Lotte Storch</rs> sehr unterstützt wurde: Kannst Du nicht <rs ref="#tillich_person_id__705" type="person">Deinem Mann</rs>
-                    sagen, daß wir uns infolge der Bälle, auf denen man sich "Du" nennt, das "Du"
+                    meinem Gefühl kommt, aber von <rs ref="#tillich_person_id__2776" type="person">Lotte Storch</rs> sehr unterstützt wurde: Kannst Du nicht <rs ref="#tillich_person_id__705" type="person">Deinem Mann</rs>
+                    sagen, daß wir uns infolge der Bälle, auf denen man sich <q>Du</q> nennt, das <q>Du</q>
                     beibehalten haben, und Du es ihm nur damals als er so unruhig war, nicht hättest
                     sagen wollen... jetzt aber...; das würde unserm Zusammensein die Form der
                     Schauspielerei nehmen und alles sehr erleichtern; ich möchte Dich ganz stark
@@ -112,12 +104,11 @@
                     Fühlung mit <rs ref="#tillich_person_id__705" type="person">Albert</rs> (den ich
                     jetzt erst visionär sehe) a priori vereitelt. <hi rend="u">Bitte</hi> ja! – Ich erlebe so vieles
                     in der Ruhe des Bettes, was sonst der Tag verschüttet hätte! – Schreibe von
-                    Montag Nachmittag ab direkt nach <rs ref="#tillich_place_id__74" type="place"
-                        >Bremen</rs>! </p>
-                <closer>
+                    Montag Nachmittag ab direkt nach <rs ref="#tillich_place_id__74" type="place">Bremen</rs>! </p>
+<closer>
                     Dein <signed><rs ref="#tillich_person_id__1228" type="person">Paul</rs>.</signed>
-                </closer>
-            </div>
-        </body>
-    </text>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

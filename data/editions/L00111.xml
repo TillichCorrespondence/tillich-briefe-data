@@ -1,98 +1,95 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00111">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Hermann Schafft an Paul Tillich <lb/>vom 19. August 1906</title>
-            <author ref="#tillich_person_id__1696">Hermann Schafft</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00111" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Hermann Schafft an Paul Tillich <lb/>vom 19. August 1906</title>
+<author ref="#tillich_person_id__1696">Hermann Schafft</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008G</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008G</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
-               <placeName ref="#tillich_place_id__485">Hersfeld</placeName>
-               <date when="1906-08-19">19.08.1906</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-03-01">Initiale Auszeichnung des Transkripts</change>
-         <change who="NH" when="2024-01-30">Vorbereitung/Korrektur für die Endabnahme</change>
-         <change who="EL" when="2024-03-12">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__208" type="place">Hersfeld</rs>, den <date
-                     when="1906-08-19">19. VIII.</date></dateline>
-               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person"
-                  >Junge</rs>,</salute>
-            </opener>
-            <p>Soviel ich weiß, fängst Du morgen an 20 Jahre zu den Erdenbürgern gezählt zu werden,
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
+<placeName ref="#tillich_place_id__485">Hersfeld</placeName>
+<date when="1906-08-19">19.08.1906</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-03-01" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-01-30" who="NH">Vorbereitung/Korrektur für die Endabnahme</change>
+<change when="2024-03-12" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__208" type="place">Hersfeld</rs>, den <date when="1906-08-19">19. VIII.</date></dateline>
+<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Junge</rs>,</salute>
+</opener>
+<p>Soviel ich weiß, fängst Du morgen an 20 Jahre zu den Erdenbürgern gezählt zu werden,
                denn zählen kannst höchstens erst 14t. Nicht versäumen aber will ich zu dem
-               "jedenfallsigen" Festtag Dir meines Herzen Wünsche <add place="superlinear"
-                  >nicht</add> zu entziehen. – Ein Zeichen – nicht quantitativ, etwa durch
+               <q>jedenfallsigen</q> Festtag Dir meines Herzen Wünsche <add place="superlinear">nicht</add> zu entziehen. – Ein Zeichen – nicht quantitativ, etwa durch
                Nachschlagen in Katalogen abzumessen – meiner Liebe sagt, bringen wir in einer Woche!
                Natürlich nicht zu verwechseln mit meiner Hauptarbeit. Die Idee einer Predigt ist
                Fieberträumen Deines lockigen Hauptes (die <unclear>¿¿¿ ... ¿¿¿</unclear>)<pb n="2"/>
@@ -107,7 +104,7 @@
                Er ist doch nun oder fängt an männlich zu sein. – Ja, meint seufzend das andere Bein
                – er müßte auch seine Kniee mehr durchdrücken beim Gehen – vielleicht, wenn er mal
                Dienen muß?!</p>
-            <p>Und die beiden Schuhe, hören aufmerksam zu und erkundigen sich, was denn los sei – –
+<p>Und die beiden Schuhe, hören aufmerksam zu und erkundigen sich, was denn los sei – –
                Mit souveränem Lächeln, ob ihrer jugendliche Unruhe giebt die Zahnbürste knirschend
                Auskunft, es sei 20ter Geburtstag, was sie freilich nicht aus Erinnerung weiß, denn
                sie ist nicht so alt, – vielmehr hat sie sichs an den Weisheitszähnen ausgerechnet,
@@ -122,8 +119,7 @@
                du, sagt das eine, praktisch sind wir ja und wenn man spät aufsteht; sehr nützlich
                anzuziehn, aber für einen zwanzigjährigen, der noch dazu ein großes Kapitel im
                kommenden Semester verwaltet taugen wir doch nicht. Und sie beschließen heldenmütig
-               sich für ihren Herren zu opfern, schleichen <unclear>¿¿¿</unclear> ge<pb n="5"
-               />wohnten Schritt zur Tür, um sich leise fortzustehlen.... Doch ihre Klincke ist
+               sich für ihren Herren zu opfern, schleichen <unclear>¿¿¿</unclear> ge<pb n="5"/>wohnten Schritt zur Tür, um sich leise fortzustehlen.... Doch ihre Klincke ist
                leider zu hoch, um im Sprunge erreicht zu werden..... – Ja – dies alles nebenbei kann
                man sich vorstellen und dem der im Bette schläft und sich im Traum vielleicht gerade
                mit einem <hi rend="aq">Qames</hi> herumschlägt, das ihn mit seinen Armen erdrücken
@@ -135,38 +131,34 @@
                Wünsche <foreign xml:lang="grc">εις τα φυσικα</foreign>. – Aber gelt, Du bist
                geduldig, – ohne doch die Geduld der andern Menschen auch Deinerseits zum Grunde zu
                erproben...</p>
-            <p>Jetzt aber damit Schluß! –</p>
-            <p>Meine Gedanken sind in der letzten Zeit öfter bei Dir gewesen – mehr als gewöhnlich –
+<p>Jetzt aber damit Schluß! –</p>
+<p>Meine Gedanken sind in der letzten Zeit öfter bei Dir gewesen – mehr als gewöhnlich –
                das kam schon durch die Erwartung, ob ich Dich sehen könnte. Ich hatte eine Art
                Sehnsucht danach. – Nb. ist meine Kousine keine Sekunde krank gewesen! Sie starb
                   nach<pb n="7"/> der Geburt ihres 2ten Kindchen, nachdem sie schon wieder fröhlich
                aufgewesen ganz plötzlich am Herzschlag – 27 Jahre erst alt. Es ist für meinen lb.
-                  <rs type="person" ref="#tillich_person_id__1698">Vater</rs> furchtbar. – Gerade
+                  <rs ref="#tillich_person_id__1698" type="person">Vater</rs> furchtbar. – Gerade
                die Stunden an ihrem Sarg haben mich innerlich etwas getroffen. Und deshalb ist mein
-               Wunsch für Dich <rs type="bible" ref="2Kor-4,16">2 Kor 4<hi rend="sup"
-               >16</hi></rs>.</p>
-            <p>Das ist nicht nur ein Scherz –</p>
-            <p>Es ist freilich mit dem äußeren Menschen auch ein Gutes, wenn er ordentlich ist –
+               Wunsch für Dich <rs ref="2Kor-4,16" type="bible">2 Kor 4<hi rend="sup">16</hi></rs>.</p>
+<p>Das ist nicht nur ein Scherz –</p>
+<p>Es ist freilich mit dem äußeren Menschen auch ein Gutes, wenn er ordentlich ist –
                eben das andere. Und, <rs ref="#tillich_person_id__1928" type="person">Paul</rs>, –
                ich habe gerade in den letzten Tagen an mir gesehen, wie <hi rend="u">leicht</hi> die
                Gedanken bloß und haltlos durch den Kopf schwirren und das tatsächliche Leben sich
                ganz anders vollzieht. Und das ist mir im Gedanken an<pb n="8"/>
-               <sic>an</sic> Dich auf die Seele gefallen, wie oft wir Gedankenspaziergänge gemacht
+<sic>an</sic> Dich auf die Seele gefallen, wie oft wir Gedankenspaziergänge gemacht
                haben – Ich weiß ja nicht ob's Dich trifft, wie mich; aber, gelt das wollen wir uns
                im nächsten Lebensjahr vornehmen – soweit wir zusammen sind – etwas noch mehr sorgen,
                daß wir wachsen – wir wissen nicht, wie lang' wir's hier unten treiben. – –</p>
-            <p>Von ""<unclear>Bruder</unclear>" <rs ref="#tillich_person_id__641" type="person"
-                  >Fritz</rs>" aus <rs type="place" ref="#tillich_place_id__58">Bethel</rs> hatte
+<p>Von <q/><unclear>Bruder</unclear><q> <rs ref="#tillich_person_id__641" type="person">Fritz</rs></q> aus <rs ref="#tillich_place_id__58" type="place">Bethel</rs> hatte
                ich einen von Gesundheit strotzenden Brief – der ist wirklich eine reine Freude! –
                Schönen Dank noch für Deine Karten<note type="ea">Nicht überliefert.</note> –
-               Herzlichen Gruß an alle lb. Deinen sonderlich Deinen <rs
-                  ref="#tillich_person_id__1924" type="person">Vater</rs></p>
-            <closer>
-               <salute>In herzlicher Freundschaft grüßt Dich heut besonders!</salute>
-               <signed>Gott befohlen Dein <rs ref="#tillich_person_id__1696" type="person"
-                     >Hermann</rs></signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+               Herzlichen Gruß an alle lb. Deinen sonderlich Deinen <rs ref="#tillich_person_id__1924" type="person">Vater</rs></p>
+<closer>
+<salute>In herzlicher Freundschaft grüßt Dich heut besonders!</salute>
+<signed>Gott befohlen Dein <rs ref="#tillich_person_id__1696" type="person">Hermann</rs></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

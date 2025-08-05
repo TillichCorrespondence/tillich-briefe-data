@@ -1,110 +1,103 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00101">
-               <teiHeader>
-                              <fileDesc>
-                                             <titleStmt>
-                                                  <title>Brief von Alfred Fritz an Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00101" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Alfred Fritz an Paul Tillich
                                                   <lb/>vom 29. März 1906 </title>
-                                                  <author ref="#tillich_person_id__641">Alfred
+<author ref="#tillich_person_id__641">Alfred
                                                   Fritz</author>
-                                                  <respStmt>
-                                                  <resp>Editor</resp>
-                                                  <name key="https://orcid.org/0009-0003-9642-5125"
-                                                  >Paul Schömann</name>
-                                                  </respStmt>
-                                             </titleStmt>
-                                             <editionStmt>
-                                                  <edition>
-                                                  <title type="editionstitel">Edition der
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der
                                                   Korrespondenz von Paul Tillich 1887-1933</title>
-                                                  </edition>
-                                             </editionStmt>
-                                             <publicationStmt>
-                                                  <publisher>
-                                                  <name>Institut für Systematische Theologie und
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und
                                                   Religionswissenschaft</name>
-                                                  <address>
-                                                  <street>Schenkenstraße 8-10</street>
-                                                  <postCode>1010</postCode>
-                                                  <placeName ref="#tillich_place_id__470">
-                                                  <settlement>Wien</settlement>
-                                                  <country>Österreich</country>
-                                                  </placeName>
-                                                  </address>
-                                                  </publisher>
-                                                  <availability>
-                                                  <licence
-                                                  target="http://creativecommons.org/licenses/by-sa/4.0/"
-                                                  >Creative Commons Attribution 4.0 International
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International
                                                   (CC BY 4.0)</licence>
-                                                  </availability>
-                                             </publicationStmt>
-                                             <sourceDesc>
-                                                  <msDesc type="manuscript">
-                                                  <msIdentifier>
-                                                  <country>USA</country>
-                                                  <settlement ref="#tillich_place_id__82">Cambridge,
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge,
                                                   MA</settlement>
-                                                  <institution>Harvard University</institution>
-                                                  <repository>Harvard Divinity School
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School
                                                   Library</repository>
-                                                  <collection>Tillich, Paul, 1886-1965. Papers,
+<collection>Tillich, Paul, 1886-1965. Papers,
                                                   1894-1974.</collection>
-                                                  <idno>bMS 649/143(10)</idno>
-                                                  </msIdentifier>
-                                                  <physDesc>
-                                                  <p>Brief, eigenhändig</p>
-                                                  </physDesc>
-                                                  </msDesc>
-                                             </sourceDesc>
-                              </fileDesc>
-                              <encodingDesc>
-                                             <projectDesc>
-                                                  <p>online-Edition: Edition der Korrespondenz von
+<idno>bMS 649/143(10)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von
                                                   Paul Tillich 1887-1933.</p>
-                                             </projectDesc>
-                                             <editorialDecl>
-                                                  <p>Die Ausgabe folgt folgenden Editorischen
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen
                                                   Richtlinien des DTA-Basisformats. Vgl.
                                                   https://www.deutschestextarchiv.de/doku/basisformat/</p>
-                                             </editorialDecl>
-                              </encodingDesc>
-                              <profileDesc>
-                                             <correspDesc>
-                                                  <correspAction type="sent">
-                                                  <persName ref="#tillich_person_id__641">Alfred
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__641">Alfred
                                                   Fritz</persName>
-                                                  <placeName ref="#tillich_place_id__485"
-                                                  >Stuttgart</placeName>
-                                                  <date when="1906-03-29">29.03.1906</date>
-                                                  </correspAction>
-                                                  <correspAction type="received">
-                                                  <persName ref="#tillich_person_id__1928">Paul
+<placeName ref="#tillich_place_id__485">Stuttgart</placeName>
+<date when="1906-03-29">29.03.1906</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul
                                                   Tillich</persName>
-                                                  </correspAction>
-                                             </correspDesc>
-                                             <langUsage>
-                                                  <language ident="deu">Deutsch</language>
-                                             </langUsage>
-                              </profileDesc>
-                              <revisionDesc status="approved">
-                                             <change when="2023-02-20" who="PS">Initiale
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-02-20" who="PS">Initiale
                                                   Auszeichnung des Transkripts</change>
-                                             <change when="2024-02-06" who="EL">Endabnahme</change>
-                              </revisionDesc>
-               </teiHeader>
-               <text type="letter">
-                              <body>
-                                             <div type="writingSession">
-                                                  <pb n="1"/>
-                                                  <opener>
-                                                  <dateline><rs ref="#tillich_place_id__420"
-                                                  type="place">Stuttgart</rs>, <date
-                                                  when="1906-03-29">29. März 1906</date></dateline>
-                                                  <salute>Liebes <rs ref="#tillich_person_id__1928"
-                                                  type="person">Paulchen</rs>!</salute>
-                                                  </opener>
-                                                  <p>Als ich heute morgen so recht behaglich im Bett
+<change when="2024-02-06" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__420" type="place">Stuttgart</rs>, <date when="1906-03-29">29. März 1906</date></dateline>
+<salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+</opener>
+<p>Als ich heute morgen so recht behaglich im Bett
                                                   lag u. für den Tag gute Vorsätze sammelte, nahm
                                                   ich mir noch vor, Dich von meiner Nochlebigkeit zu
                                                   überzeugen. U. als ich aufstand war schon ein
@@ -113,12 +106,11 @@
                                                   getreten, Dich meines Geistes einen Hauch
                                                   verspüren zu lassen, damit wäre dann der
                                                   Zweckgedanke bejaht.</p>
-                                                  <p>Also herzlichen Dank für Deinen lb. Brief. Es
+<p>Also herzlichen Dank für Deinen lb. Brief. Es
                                                   freut mich, dass Du Dich wohl befindest. Um Deine
                                                   Menge Arbeit beneide ich Dich. Besonders, daß Du
-                                                  schon <rs ref="#tillich_person_id__1012"
-                                                  type="person">Kählers</rs> Dogmatik etwas
-                                                  losbekommst. Daß du trotzdem oder vielmehr "indem"
+                                                  schon <rs ref="#tillich_person_id__1012" type="person">Kählers</rs> Dogmatik etwas
+                                                  losbekommst. Daß du trotzdem oder vielmehr <q>indem</q>
                                                   noch feste philosophierst<pb n="2"/> kann ich mir
                                                   lebhaft denken, u. freue mich über die Art Deines
                                                   Philosophierens. Denn da der Mensch aus denken u.
@@ -127,13 +119,10 @@
                                                   Intellektualismus. Im Übrigen ist mir schwer über
                                                   diese Dinge zu schreiben, weil ich noch keinen so
                                                   philosophisch verdorbenen <sic>Stiel</sic> habe
-                                                  wie Du. Wenn <rs ref="#tillich_person_id__1227"
-                                                  type="person">Lütgert</rs> Geist als Einheit von
-                                                  Denken u. Wollen bestimmt<note type="ea">Vgl. <rs
-                                                  n="84" ref="#tillich__L4JRLPHV" type="work"
-                                                  >Wilhelm Lütgert: Die Kennzeichen des Geistes
-                                                  Gottes (1905), 84 </rs>: "Denn Geist ist Einheit
-                                                  von Gedanke und Willen."</note>, so hat er unter
+                                                  wie Du. Wenn <rs ref="#tillich_person_id__1227" type="person">Lütgert</rs> Geist als Einheit von
+                                                  Denken u. Wollen bestimmt<note type="ea">Vgl. <rs n="84" ref="#tillich__L4JRLPHV" type="work">Wilhelm Lütgert: Die Kennzeichen des Geistes
+                                                  Gottes (1905), 84 </rs>: <q>Denn Geist ist Einheit
+                                                  von Gedanke und Willen.</q></note>, so hat er unter
                                                   dem Begriff Wollen sicher Gefühl hereinbezogen,
                                                   denn <del rend="s">zum</del> Wollen beruht doch
                                                   öfter auf dem Gefühl als auf Erkenntnis. Was wir
@@ -144,56 +133,35 @@
                                                   warum Dir das Problem im Bibelkränzchen solche
                                                   Schwierigkeiten machte, nämlich aus<pb n="3"/>
                                                   Deinem Intellektualismus heraus, oder um es anders
-                                                  auszudrücken, weil Du Dir eine <del rend="s"
-                                                  >aktive</del> Sittlichkeit in jedem Augenblick in
+                                                  auszudrücken, weil Du Dir eine <del rend="s">aktive</del> Sittlichkeit in jedem Augenblick in
                                                   jeder Handlung nicht denken konntest, ohne
                                                   fortwährende intellektuelle Erwägungen. Giebt man
                                                   dem viel ge- u. verschmähten Gefühl endlich sein
                                                   Recht, so fällt diese Schwierigkeit.</p>
-                                                  <p>Auf <rs ref="#tillich_person_id__1012"
-                                                  type="person">Kähler</rs> freue ich mich auch
+<p>Auf <rs ref="#tillich_person_id__1012" type="person">Kähler</rs> freue ich mich auch
                                                   sehr. So schwer er zu verstehen ist, so hat doch
-                                                  seine Sache ganz anderen Reiz als <rs
-                                                  ref="#tillich_person_id__1227" type="person"
-                                                  >Lütgerts</rs>. Ich lese zur Zeit mit Phil. <rs
-                                                  ref="#tillich_person_id__2790" type="person"
-                                                  >Schrügle</rs>
-                                                  <rs ref="#tillich__KCHB3ZP3" type="work">"unsern
-                                                  Streit um die Bibel"</rs> u. freue mich sehr
+                                                  seine Sache ganz anderen Reiz als <rs ref="#tillich_person_id__1227" type="person">Lütgerts</rs>. Ich lese zur Zeit mit Phil. <rs ref="#tillich_person_id__2790" type="person">Schrügle</rs>
+<rs ref="#tillich__KCHB3ZP3" type="work"><q>unsern
+                                                  Streit um die Bibel</q></rs> u. freue mich sehr
                                                   daran. Es ist so müßig u. doch so bestimmt. Er
                                                   giebt z. B. der religionsgeschichtlichen Methode
                                                   alle wissenschaftliche Freiheit u. stellt fest,
-                                                  dass alle religionsgeschichtl. Meth. "das was für
-                                                  unser Heil notwendig ist" nicht angreift. Ich
+                                                  dass alle religionsgeschichtl. Meth. <q>das was für
+                                                  unser Heil notwendig ist</q> nicht angreift. Ich
                                                   halte das für einen viel vornehmeren Standpunkt
                                                   als <del rend="s">unser</del> das viele
                                                   Geschrei<pb n="4"/> nach Beschränkung der
                                                                  Lehrfreiheit. Im Übrigen war ich in den ersten 8
                                                   Tg. im Wandern. Ich freute mich so am
-                                                  Schwabenland, daß ich nach <rs
-                                                  ref="#tillich_place_id__215" type="place"
-                                                  >Holzgerlingen</rs> wanderte zu meiner <rs
-                                                  ref="#tillich_person_id__2272" type="person"
-                                                  >Schwester</rs>, dann nach <rs
-                                                  ref="#tillich_place_id__448" type="place"
-                                                  >Tübingen</rs>, wo ich einen Tag blieb u. mit <rs
-                                                  ref="#tillich_person_id__2159" type="person"
-                                                  >Nell</rs> sehr nett zusammen war. Dann gieng ich
-                                                  nach <del rend="s"><rs
-                                                  ref="#tillich_place_id__448" type="place"
-                                                  >Tübingen</rs></del>
-                                                  <rs ref="#tillich_place_id__578" type="place"
-                                                  >Kirchheim</rs> zu meinem <choice><abbr>Lbb</abbr><expan>Leibburschen</expan></choice>. u. brachte einige
+                                                  Schwabenland, daß ich nach <rs ref="#tillich_place_id__215" type="place">Holzgerlingen</rs> wanderte zu meiner <rs ref="#tillich_person_id__2272" type="person">Schwester</rs>, dann nach <rs ref="#tillich_place_id__448" type="place">Tübingen</rs>, wo ich einen Tag blieb u. mit <rs ref="#tillich_person_id__2159" type="person">Nell</rs> sehr nett zusammen war. Dann gieng ich
+                                                  nach <del rend="s"><rs ref="#tillich_place_id__448" type="place">Tübingen</rs></del>
+<rs ref="#tillich_place_id__578" type="place">Kirchheim</rs> zu meinem <choice><abbr>Lbb</abbr><expan>Leibburschen</expan></choice>. u. brachte einige
                                                   schöne Tage mit ihm zusammen zu. Jetzt bin ich
                                                   wieder daheim u. schlemme bes. Kunstgeschichte,
-                                                  Missionsprobleme, höre u. staune "<rs
-                                                  ref="#tillich_person_id__2082" type="person"
-                                                  >Windelband</rs>", aber wirklich angefangen zu
+                                                  Missionsprobleme, höre u. staune <q><rs ref="#tillich_person_id__2082" type="person">Windelband</rs></q>, aber wirklich angefangen zu
                                                   arbeiten habe ich nicht. Ich brings immer noch
                                                   nicht fertig, mich philologischer Exegese
-                                                  hinzugeben. <rs ref="#tillich_person_id__1227"
-                                                  type="person">Schmuhls</rs> <rs
-                                                  ref="#tillich__UTA973SL" type="work">Christologie</rs>
+                                                  hinzugeben. <rs ref="#tillich_person_id__1227" type="person">Schmuhls</rs> <rs ref="#tillich__UTA973SL" type="work">Christologie</rs>
                                                   lese ich mit Wonne. In der letzten Woche habe ich
                                                   mich angeregt durch einen Vortrag eines
                                                   Häcklschülers, der mit unglaublicher Naivität Gott
@@ -204,13 +172,12 @@
                                                   u. <unclear>Wissen</unclear> in Beziehung auf
                                                   Darwinismus u. Wunder beschäftigt. Du siehst meine
                                                   Interessen sind immer noch rein praktisch.</p>
-                                                  <closer>
-                                                  <salute>Im Übrigen grüße ich Dich herzlich u.
+<closer>
+<salute>Im Übrigen grüße ich Dich herzlich u.
                                                   freue mich auf ein nettes Semester.</salute>
-                                                  <signed>Dein <rs ref="#tillich_person_id__641"
-                                                  type="person">Alfred</rs>.</signed>
-                                                  </closer>
-                                             </div>
-                              </body>
-               </text>
+<signed>Dein <rs ref="#tillich_person_id__641" type="person">Alfred</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

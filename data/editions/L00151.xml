@@ -1,97 +1,95 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00151">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Gottfried von Hanffstengel an Paul Tillich <lb/>vom 22. März 1907 </title>
-            <author ref="#tillich_person_id__788">Gottfried von Hanffstengel</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00151" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Gottfried von Hanffstengel an Paul Tillich <lb/>vom 22. März 1907 </title>
+<author ref="#tillich_person_id__788">Gottfried von Hanffstengel</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/147</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/147</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__788">Gottfried von Hanffstengel</persName>
-               <placeName ref="#tillich_place_id__75">Bremervörde</placeName>
-               <date when="1907-03-22">22.03.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2022-11-14" who="PS">Initiale Auszeichnung des Transkripts</change>
-         <change when="2024-01-31" who="PS">Vorbereitende Endabnahme</change>
-         <change when="2024-02-13" who="EL">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__75" type="place">Bremervörde</rs>, <date
-                     when="1907-03-22">22. III. 07.</date></dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
-            </opener>
-            <p>Lange habe ich auf den versprochenen Brief <sic>erwartet</sic>, Du hast es wohl
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__788">Gottfried von Hanffstengel</persName>
+<placeName ref="#tillich_place_id__75">Bremervörde</placeName>
+<date when="1907-03-22">22.03.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-11-14" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-01-31" who="PS">Vorbereitende Endabnahme</change>
+<change when="2024-02-13" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__75" type="place">Bremervörde</rs>, <date when="1907-03-22">22. III. 07.</date></dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+</opener>
+<p>Lange habe ich auf den versprochenen Brief <sic>erwartet</sic>, Du hast es wohl
                vergessen. Aber ich muß mich aussprechen, Dir mein Herz ausschütten.</p>
-            <p>"Wie man mich beurteilt, so bin ich", sagte am Schluß des Semesters <rs
-                  ref="#tillich_person_id__2168" type="person">Daniel</rs> mehr als einmal und
+<p><q>Wie man mich beurteilt, so bin ich</q>, sagte am Schluß des Semesters <rs ref="#tillich_person_id__2168" type="person">Daniel</rs> mehr als einmal und
                erzählte dann von seiner Erfahrung. Nicht ganz so ist es, aber ein großes Stück
                Wahrheit ist dran, Du bist x<note type="ea">Als X bezeichnet man einen Erstchargierten oder Fux. Der X fungiert als Sprecher der Verbindung.</note> fürs nächste Semester, würde man aber Dich ignorieren,
                oder nur als Drahtpuppe behandeln, so wärst Dus auch. D.h. ich nehme Dich als
@@ -99,43 +97,36 @@
                lassen, aber nicht jeder ist so wie Du, nur wenige sind so unabhängig von dem Urteil
                anderer. In dieser Lage bin ich. Ich fasse meine Aufgabe im nächsten Semester sehr
                hoch, vielleicht höher als Ihr bei meiner Aufstellung es gefordert habt; ich habe das
-               Empfinden, als wäre ich nur deshalb gewählt, weil ich der einzige bin, der so <del
-                  rend="s">so wie</del> Hallenser Partei vertritt und zugleich mit den andern gut
+               Empfinden, als wäre ich nur deshalb gewählt, weil ich der einzige bin, der so <del rend="s">so wie</del> Hallenser Partei vertritt und zugleich mit den andern gut
                auskommt. Also nur als Drahtpuppe bin ich im <choice><abbr>A.H.C</abbr><expan>Alt-Häuser-Collegium</expan></choice><note type="ea">Gremium, das die Beschlüsse des Convents vorbereitet.</note> <del rend="s">D</del> So dachte
                das <choice><abbr>AHC</abbr><expan>Alt-Häuser-Collegium</expan></choice> des vorigen Semesters, nur deshalb bin ich doch auch zum
                Leibburschberechtigten aufgestellt. Wäre ich nicht im <choice><abbr>AHC</abbr><expan>Alt-Häuser-Collegium</expan></choice> als Stimmrich nötig, so
                wäre ich auch dazu wohl kaum aufgestellt. Diese Empfindung hatte ich ganz deutlich am
-               Schluß des vorigen Semesters. Was mich dazu berechtigte, sind oft nur vielleicht<pb
-                  n="3"/> unbeabsichtigte Äußerungen vom xx<note type="ea">Als XX bezeichnet man einen Zweitchargierten oder Fuxmajor. Der XX ist für neu eingetretene Füxe (X) verantwortlich.</note> oder von Dir gewesen; auch wohl andere,
+               Schluß des vorigen Semesters. Was mich dazu berechtigte, sind oft nur vielleicht<pb n="3"/> unbeabsichtigte Äußerungen vom xx<note type="ea">Als XX bezeichnet man einen Zweitchargierten oder Fuxmajor. Der XX ist für neu eingetretene Füxe (X) verantwortlich.</note> oder von Dir gewesen; auch wohl andere,
                Anhänger der Orthodoxen, ließen das, wenn auch unabsichtlich, merken. Ich habe
                eigentlich unter solchen Äußerungen gelitten, Anöden vertrage ich sehr gut, aber das
                System darin betrübte mich. Nicht daß ich eingeschnappt wäre – das habt Ihr falsch
                verstanden – sondern das Bewußtsein, nur Drahtpuppe zu sein, war mir gräßlich. Wozu
-               schreibe ich das alles, ich bin offenbar sehr von mir <unclear cert="high"
-                  >überzogen</unclear>? Ganz im Gegenteil, Du sollst mich nun nicht etwa als großes
+               schreibe ich das alles, ich bin offenbar sehr von mir <unclear cert="high">überzogen</unclear>? Ganz im Gegenteil, Du sollst mich nun nicht etwa als großes
                   <hi rend="aq">lumen</hi> behandeln, als ob ich sehr selbständige, bedeutende
                Ansichten entwickelten könnte; nur das möchte ich, daß man mich wie andere behandelt,
                daß man nicht glaubt, mich behandeln zu können wie man will, weil ich die Hallenser
                Sache vertrete. Ihr könntet Euch mal<pb n="4"/> getäuscht haben. Ihr glaubt nicht,
                wie schlecht ich bin, wie rachsüchtig u jähzornig ich werden kann.</p>
-            <p>Du hast mich nun ganz in der Hand, beute es aus, wenn Du willst, Du siehst aber, wie
+<p>Du hast mich nun ganz in der Hand, beute es aus, wenn Du willst, Du siehst aber, wie
                ganz Du mein Vertrauen hast. Keinem andern könnte ich so schreiben, sagen könnte ich
                das nie, Verschlossenheit in allem, was mein Inneres angeht, ist auch einer meiner
                Fehler, vielleicht durchschaust Du mich auch ohne das; aber es tut einem selbst doch
                wohl, sich ausgesprochen zu haben.</p>
-            <p>Was soll ich noch schreiben, nochmals von mir? Nach Ostern denke ich <rs
-                  ref="#tillich_person_id__2178" type="person">Wilm v. d. Smissen</rs> auf einige
+<p>Was soll ich noch schreiben, nochmals von mir? Nach Ostern denke ich <rs ref="#tillich_person_id__2178" type="person">Wilm v. d. Smissen</rs> auf einige
                Tage hier zu sehen oder <rs ref="#tillich_person_id__1707" type="person">W.
                   Schetelig</rs>.</p>
-            <p>Meine Verwandten- u ll Brr-Reise habe ich ja beendet. Bei <rs
-                  ref="#tillich_person_id__2185" type="person">Meyersiecks</rs> war es ganz famos.
+<p>Meine Verwandten- u ll Brr-Reise habe ich ja beendet. Bei <rs ref="#tillich_person_id__2185" type="person">Meyersiecks</rs> war es ganz famos.
                Besonders anziehend war für mich das tiefe u rege<pb n="5"/> Interesse, das beide
-               Eltern an allen Wingolfsfragen nahmen. Bei uns fehlt das ganz, <rs
-                  ref="#tillich_person_id__2232" type="person">meine Mutter</rs> ist nicht gerade
+               Eltern an allen Wingolfsfragen nahmen. Bei uns fehlt das ganz, <rs ref="#tillich_person_id__2232" type="person">meine Mutter</rs> ist nicht gerade
                sehr eingenommen vom Wingolf, ja schätzt überhaupt studentische Art, die sich in
                etwas ungezwungenen Ausdrücken – burschikos nennt sie es –, sie ist von der alten
-               feinen Art, von unserem Tisch würde sie entsetzt sein. Das Pfarrhaus in <rs
-                  type="place" ref="#tillich_place_id__451">Ubbedissen</rs> hat mit jenen Bewohnern
+               feinen Art, von unserem Tisch würde sie entsetzt sein. Das Pfarrhaus in <rs ref="#tillich_place_id__451" type="place">Ubbedissen</rs> hat mit jenen Bewohnern
                in dem treuen schwarz-weiß-goldenen <unclear>Wachter</unclear>, der auf den
                   <unclear>Couleurpfusch</unclear> hört, so etwas anhimmelndes, altmodisches,
                ruhiges. Die Gegend ist wunderschön, im Sommer könnte man die schönsten Touren
@@ -148,26 +139,21 @@
                einen geradezu überwältigenden Eindruck machten. Das ist ein Lebenswerk, das sich
                sehen lassen kann, wenige können derartiges aufweisen. Dort ist wirklich ein
                gewaltiger Fortschritt in der inneren Mission, der da gemacht ist, und täglich wird
-               die Sache weiterausgebaut. <rs ref="#tillich_person_id__2233" type="person"
-                  >Engelmann</rs> führte uns hindurch, wir konnten natürlich nur einen
+               die Sache weiterausgebaut. <rs ref="#tillich_person_id__2233" type="person">Engelmann</rs> führte uns hindurch, wir konnten natürlich nur einen
                oberflächlichen Eindruck von allem bekommen. Einzelne Anstalten besahen wir auch
                innen, <rs ref="#tillich_person_id__2233" type="person">Engelmann</rs>, dessen Vater
                Hausvater auf einer Bandstation ist, wo ca 40 Epileptische beschäftigt werden, führte
                uns herum, er kannte natürlich fast alle Einrichtungen und auch die meisten Leute.
                4000 Einwohner hat <rs ref="#tillich_place_id__58" type="place">Bethel</rs> mit
                Kranken u Gesunden.</p>
-            <pb n="7"/>
-            <p>Von Freitag bis zum Sonnabend der andern Woche war ich dann in <rs
-                  ref="#tillich_place_id__559" type="place">Lindtorf</rs> bei meinem Onkel, <rs
-                  ref="#tillich_person_id__2234" type="person">Pastor Heintze</rs>. Wie unsere ganze
+<pb n="7"/>
+<p>Von Freitag bis zum Sonnabend der andern Woche war ich dann in <rs ref="#tillich_place_id__559" type="place">Lindtorf</rs> bei meinem Onkel, <rs ref="#tillich_person_id__2234" type="person">Pastor Heintze</rs>. Wie unsere ganze
                Familie, so ist er besonders ein fanatischer Welfe, der die preussische Regierung für
-               russisch erklärt und den <rs type="person" ref="#tillich_person_id__2070">Kaiser</rs>
+               russisch erklärt und den <rs ref="#tillich_person_id__2070" type="person">Kaiser</rs>
                einen 2. Vogtlern nennt. Besonders die Polenpolitik u die Kolonialpolitik sind ihm
                verhaßt, den Christlich-sozialen ist er auch ganz besonders übel gesinnt. Natürlich
-               ist er auch eifriger Lutheraner, und es ist ihm garnicht lieb, daß ich in <rs
-                  ref="#tillich_place_id__189" type="place">Halle</rs> bin, wo eine verwässerte
-               Theologie herrscht. Als ich da war, wurde gerade der 300 jähr. Geburtstag <rs
-                  ref="#tillich_person_id__672" type="person">Paul Gerhardts</rs> gefeiert; und
+               ist er auch eifriger Lutheraner, und es ist ihm garnicht lieb, daß ich in <rs ref="#tillich_place_id__189" type="place">Halle</rs> bin, wo eine verwässerte
+               Theologie herrscht. Als ich da war, wurde gerade der 300 jähr. Geburtstag <rs ref="#tillich_person_id__672" type="person">Paul Gerhardts</rs> gefeiert; und
                besonders sein Märtyrertum für den lutherischen Glauben hervorgehoben. – Dabei trat
                bei meinem <rs ref="#tillich_person_id__2234" type="person">Onkel</rs> wieder
                deutlich die prinzipielle Abneigung gegen alles, was preussisch heißt, hervor. Da er
@@ -176,24 +162,23 @@
                Familie denkt auch wie er, nur seine beiden Söhne – der eine ist Wingolfit – sind
                nicht welfisch. Von <rs ref="#tillich_place_id__559" type="place">Lindtorf</rs> aus
                besuche ich auch <rs ref="#tillich_person_id__1738" type="person">Schreiber</rs>, der
-               gerade von Euch wiedergekommen war, <rs ref="#tillich_person_id__2163" type="person"
-                  >Hessig</rs> war auch bei ihm, es war richtig gemütlich. Mit seiner Schwester u
+               gerade von Euch wiedergekommen war, <rs ref="#tillich_person_id__2163" type="person">Hessig</rs> war auch bei ihm, es war richtig gemütlich. Mit seiner Schwester u
                einem kleinen Bruder spielten wir Ball, leider bekam mir das sehr schlecht, ich mußte
                am folgenden Tag im Bett bleiben, und eine anhaltende Erkältung, Husten und Schnupfen
                war die Folge. Noch jetzt sind die äußeren Zeichen an Nase u Oberlippe vorhanden,
                sodaß ich mich kaum sehen lassen darf.</p>
-            <closer>
-               <salute>Herzliche Grüße sendet Dir Dein treuer</salute>
-               <signed><rs ref="#tillich_person_id__788" type="person">G. v. Hanffstengel</rs>. U.
+<closer>
+<salute>Herzliche Grüße sendet Dir Dein treuer</salute>
+<signed><rs ref="#tillich_person_id__788" type="person">G. v. Hanffstengel</rs>. U.
                   A. w. g.</signed>
-            </closer>
-            <postscript>
-               <p>Der Protest von <rs ref="#tillich_place_id__68" type="place">Bonn</rs> gegen
+</closer>
+<postscript>
+<p>Der Protest von <rs ref="#tillich_place_id__68" type="place">Bonn</rs> gegen
                   Deinen Artikel ist Quittung auf unser
                   Eintreten für <rs ref="#tillich_person_id__2184" type="person">Kalfhaus</rs>, den
                   Eindruck habe ich bekommen.</p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

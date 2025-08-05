@@ -1,132 +1,122 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00436">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Johannes Tillich <lb/>vom 28. Mai 1915 </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00436" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Johannes Tillich <lb/>vom 28. Mai 1915 </title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Briefe</collection>
-                  <idno>bMS 649/193(13)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Briefe</collection>
+<idno>bMS 649/193(13)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__227">Juvigny</placeName>
-               <date when="1915-05-28">28.05.1915</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2022-04-08" who="AB">Initiale Auszeichnung des Transkripts</change>
-         <change when="2022-04-08" who="??">Überprüfung und Ergänzung der Auszeichnungen</change>
-         <change when="2023-10-10" who="GM">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><date when="1915-05-28">28. Mai 1915</date></dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
-            </opener>
-            <p>Aus der umstehenden Seite könnt Ihr ziemlich genau ersehen wo und wie ich wohne. Ich
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__227">Juvigny</placeName>
+<date when="1915-05-28">28.05.1915</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-04-08" who="AB">Initiale Auszeichnung des Transkripts</change>
+<change when="2022-04-08" who="??">Überprüfung und Ergänzung der Auszeichnungen</change>
+<change when="2023-10-10" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><date when="1915-05-28">28. Mai 1915</date></dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
+</opener>
+<p>Aus der umstehenden Seite könnt Ihr ziemlich genau ersehen wo und wie ich wohne. Ich
                gebe einige Erläuterungen zu den Zeichnungen.</p>
-            <p><rs ref="#tillich_place_id__227" type="place">Juvigny</rs> liegt ungefähr ebensoweit
+<p><rs ref="#tillich_place_id__227" type="place">Juvigny</rs> liegt ungefähr ebensoweit
                wie <rs ref="#tillich_place_id__61" type="place">Bieuxy</rs> von der Aisne und damit
                von der Schützenlinie entfernt; nur weiter nach Osten, am linken Flügel unseres
-               Korps, fast genau nördlich <rs ref="#tillich_place_id__404" type="place"
-                  >Soissons</rs>. Es ist geographisch bestimmt durch das Tal an dessen Nordzipfel es
-               liegt, und durch das es landschaftlich außerordentlich weit <rs
-                  ref="#tillich_place_id__61" type="place">Bieuxy</rs> überlegen ist. Das Tal ist
+               Korps, fast genau nördlich <rs ref="#tillich_place_id__404" type="place">Soissons</rs>. Es ist geographisch bestimmt durch das Tal an dessen Nordzipfel es
+               liegt, und durch das es landschaftlich außerordentlich weit <rs ref="#tillich_place_id__61" type="place">Bieuxy</rs> überlegen ist. Das Tal ist
                größtenteils bewaldet, hat unendliche Krümmungen, Zipfel, Seitentäler und ist recht
-               schwierig zu übersehen. Ich habe bei meinen <unclear>Fahrten</unclear> von <rs
-                  ref="#tillich_place_id__61" type="place">Bieuxy</rs> Monate gebraucht, ehe ich es
-               ganz im Kopf hatte. Dabei sind die Entfernungen nicht groß. Die Strecke <rs
-                  ref="#tillich_place_id__227" type="place">Juvigny</rs>-<rs
-                  ref="#tillich_place_id__457" type="place">Vauxrecis</rs> kann man in einer Stunde
+               schwierig zu übersehen. Ich habe bei meinen <unclear>Fahrten</unclear> von <rs ref="#tillich_place_id__61" type="place">Bieuxy</rs> Monate gebraucht, ehe ich es
+               ganz im Kopf hatte. Dabei sind die Entfernungen nicht groß. Die Strecke <rs ref="#tillich_place_id__227" type="place">Juvigny</rs>-<rs ref="#tillich_place_id__457" type="place">Vauxrecis</rs> kann man in einer Stunde
                leicht durchreiten. Ich habe die Wege aufgezeichnet, auf denen Ihr Euch meine
-               Tätigkeit insbesondere vorstellen könnt. Durch das Schlachtfeld von <rs
-                  ref="#tillich_place_id__404" type="place">Soissons</rs> bin ich damals auf der
-               großen Chaussee gegangen. Nach Norden ist landschaftlich nichts los. Erst in <rs
-                  ref="#tillich_place_id__113" type="place">Crécy</rs>, dem Sitz des Divisionsstabs,
+               Tätigkeit insbesondere vorstellen könnt. Durch das Schlachtfeld von <rs ref="#tillich_place_id__404" type="place">Soissons</rs> bin ich damals auf der
+               großen Chaussee gegangen. Nach Norden ist landschaftlich nichts los. Erst in <rs ref="#tillich_place_id__113" type="place">Crécy</rs>, dem Sitz des Divisionsstabs,
                fängt es wieder an, hübsch zu werden. Dafür ist es aber leicht möglich in die
                östlich, bei <rs ref="#tillich_place_id__436" type="place">Terny</rs> beginnenden
-               Täler zu reiten, wo das dritte Korps liegt. Desgleichen nach <rs
-                  ref="#tillich_place_id__261" type="place">Leuilly</rs>.<lb/> Der Ort <rs
-                  ref="#tillich_place_id__227" type="place">Juvigny</rs> ist länglich, am Talzipfel
+               Täler zu reiten, wo das dritte Korps liegt. Desgleichen nach <rs ref="#tillich_place_id__261" type="place">Leuilly</rs>.<lb/> Der Ort <rs ref="#tillich_place_id__227" type="place">Juvigny</rs> ist länglich, am Talzipfel
                entlang, gebaut. Etwa 30 Bewohner, Frauen und Kinder sind noch da; alles andere ist
                abtransportiert. Da nur noch eine Artilleriekolonne außer dem Stabe hier liegt, sind
                die Hälfte der Häuser vollständig ausgeraubt. Die kahlen Wände mit Tapetenfetzen
                   sind<pb n="2"/>
-               <figure>
-                  <figDesc>[Darstellung: Auf der zweiten Seite befinden sich zwei seitenfüllende Zeichnungen mit der
-                     Überschrift "<rs ref="#tillich_place_id__227" type="place">Juvigny</rs> d.
-                        <date when="1915-05-26">26. Mai 1915</date>". In der oberen Hälfte der Seite
+<figure>
+<figDesc>[Darstellung: Auf der zweiten Seite befinden sich zwei seitenfüllende Zeichnungen mit der
+                     Überschrift <q><rs ref="#tillich_place_id__227" type="place">Juvigny</rs> d.
+                        <date when="1915-05-26">26. Mai 1915</date></q>. In der oberen Hälfte der Seite
                      ist eine detaillierte Bleistiftskizze einer Karte zu sehen, auf der Ortsnamen,
-                     Flüsse und die Topografie an der Westfront verzeichnet sind, wie sie von <rs
-                        ref="#tillich_person_id__1928" type="person">Tillich</rs> in diesem Brief
+                     Flüsse und die Topografie an der Westfront verzeichnet sind, wie sie von <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> in diesem Brief
                      beschrieben wird. Die untere Hälfte der Seite präsentiert die Vorderansicht des
-                     "Schlosses", in dem Tillich wohnt. Unter den jeweiligen Fenstern des Landhauses
+                     <q>Schlosses</q>, in dem Tillich wohnt. Unter den jeweiligen Fenstern des Landhauses
                      sind die Funktionen der einzelnen Zimmer aufgeführt.]</figDesc><pb n="3"/>
-               </figure>das einzige, was übriggeblieben ist. Der Kirchturm ist von uns
+</figure>das einzige, was übriggeblieben ist. Der Kirchturm ist von uns
                niedergelegt, damit er der Artillerie kein Ziel bietet. Sonst ist die Kirche gut
                erhalten. Einigen Schaden hat auch die mehrfache Beschießung des Ortes gemacht, die
                aber außer einem Schwein noch niemand zur Strecke gebracht hat und in keiner Weise
@@ -134,40 +124,31 @@
                worden. Gefährlich ist überhaupt nur der erste Schuß, da bis zum zweiten reichlich
                Zeit ist, in die Unterstände und Keller zu gehen; und die meisten Schüsse gehen
                drüber weg und nebenbei. – – –</p>
-            <p>Wir bewohnen das sogenannte Schloß, ein schmales langes Landhaus mit der Front nach
+<p>Wir bewohnen das sogenannte Schloß, ein schmales langes Landhaus mit der Front nach
                dem Tal, oben am Abhang mit herrlicher Aussicht auf Schloßpark und Tal. Das Haus hat
                nur eine Reihe Zimmer, unten gehen die Zimmer nach beiden Seiten durch, nach Norden
                auf die Straße, nach Süden ins Tal; oben haben die Zimmer nur Südfenster; nach Norden
                ist ein Gang. Vor dem Schloß ist eine Terrasse, links beiliegende Kastanie, unter der
                wir Kaffee trinken, rechts eine Tanne. Zur Terrasse führt eine Freitreppe mit Rampe
                herunter. Auf dem Marsch von <rs ref="#tillich_place_id__399" type="place">Sedan</rs>
-               nach <rs ref="#tillich_place_id__343" type="place">Paris</rs> soll 1870 der <rs
-                  ref="#tillich_person_id__631" type="person">Kronprinz</rs> hier Quartier gehabt
-                  haben.<note type="ea">Im Deutsch-Französischen Krieg, der von <date
-                     when="1870-07-19">1870</date> bis <date when="1871-05-10">1871</date>
-                  stattfand, wurde der französische Kaiser <rs ref="#tillich_person_id__2552"
-                     type="person">Napoleon III.</rs> in der Schlacht von <rs
-                     ref="#tillich_place_id__399" type="place">Sedan</rs> am <date when="1870-09-02"
-                     >2. September 1870</date> gefangen genommen. In der Schlacht spielte die 3.
-                  Armee unter der Leitung des damaligen Kronprinzen <rs
-                     ref="#tillich_person_id__631" type="person">Friedrich Wilhelm von Preußen</rs>
+               nach <rs ref="#tillich_place_id__343" type="place">Paris</rs> soll 1870 der <rs ref="#tillich_person_id__631" type="person">Kronprinz</rs> hier Quartier gehabt
+                  haben.<note type="ea">Im Deutsch-Französischen Krieg, der von <date when="1870-07-19">1870</date> bis <date when="1871-05-10">1871</date>
+                  stattfand, wurde der französische Kaiser <rs ref="#tillich_person_id__2552" type="person">Napoleon III.</rs> in der Schlacht von <rs ref="#tillich_place_id__399" type="place">Sedan</rs> am <date when="1870-09-02">2. September 1870</date> gefangen genommen. In der Schlacht spielte die 3.
+                  Armee unter der Leitung des damaligen Kronprinzen <rs ref="#tillich_person_id__631" type="person">Friedrich Wilhelm von Preußen</rs>
                   eine entscheidende Rolle. Nach dieser Schlacht konnten die deutschen Truppen
-                  innerhalb kurzer Zeit bis nach <rs ref="#tillich_place_id__343" type="place"
-                     >Paris</rs> vorrücken und ab dem <date when="1870-09-19">19. September</date>
+                  innerhalb kurzer Zeit bis nach <rs ref="#tillich_place_id__343" type="place">Paris</rs> vorrücken und ab dem <date when="1870-09-19">19. September</date>
                   belagern. Die Belagerung dauerte mehrere Monate und endete schließlich mit der
-                  Kapitulation von <rs ref="#tillich_place_id__343" type="place">Paris</rs> am <date
-                     when="1871-01-28">28. Januar 1871</date>.</note> Als die Brigade einrückte, war
+                  Kapitulation von <rs ref="#tillich_place_id__343" type="place">Paris</rs> am <date when="1871-01-28">28. Januar 1871</date>.</note> Als die Brigade einrückte, war
                außer den kahlen Wänden nichts vorhanden. Jetzt ist alles recht gut eingerichtet,
                vornehmlich mit Möbeln aus der Verrerie.<note type="ea">Mit Verrerie ist
                   wahrscheinlich entweder die Glashütte von Vauxrot (franz. Varrerie de Vauxrot)
-                  oder die Kapelle im nahegelegenen <rs ref="#tillich_place_id__116" type="place"
-                     >Cuffies</rs> gemeint, die den Spitznamen La Verrerie trägt.</note> Unter
+                  oder die Kapelle im nahegelegenen <rs ref="#tillich_place_id__116" type="place">Cuffies</rs> gemeint, die den Spitznamen La Verrerie trägt.</note> Unter
                Operationszimmer ist natürlich das Zimmer für militärische Operationen zu verstehen.
                Der Schloßpark ist völlig verwildert. Er ist umschlossen von einer epheuumrankten
                Mauer. Die Wege sind alle nur so breit wie Fußpfade, kein einziger ordentlicher
                Wandelgang. In der <sic>Talsole</sic> ist Obstwiese, auf der unsere Pferde weiden.
                Das Wort Park ist darum etwas<pb n="4"/> zu viel gesagt.</p>
-            <p>Mein Zimmer ist zweifenstrig mit herrlicher Aussicht. Das Innere ist durch alte
+<p>Mein Zimmer ist zweifenstrig mit herrlicher Aussicht. Das Innere ist durch alte
                Sachen aus <rs ref="#tillich_place_id__61" type="place">Bieuxy</rs> und neue von hier
                geradezu vornehm geworden. Den Steinfliesenfußboden, der hier merkwürdiger Weise im
                ersten Stock angewandt ist, habe ich vollständig mit Teppichen und Läufern belegt.
@@ -178,32 +159,25 @@
                Tisch, an der Wand zwei Ölbilder aus der Verrerie, wo auch die Vase her ist: Mein
                gutes Zimmer, dann ein altes holzgeschnitztes Möbel, als Bücherständer zu verwerten,
                sehr kunstvoll, dann eine Kommode. Bett und Kommode gehen schon zur Türwand herum,
-               und lassen zwischen sich die tuchbespannte Tür. Eine Uhr, sonstige <del rend="s"
-                  >Vase</del> Vasen, seit Pfingsten zwei Maien, viele Bilderrahmen – die einzigen
+               und lassen zwischen sich die tuchbespannte Tür. Eine Uhr, sonstige <del rend="s">Vase</del> Vasen, seit Pfingsten zwei Maien, viele Bilderrahmen – die einzigen
                Überbleibsel in den verlassenen Häusern – harren der Füllung mit Jugendbildern, zwei
                Spiegel sind angenehm und nützlich zugleich, eine elektrische Birne strahlt
                mystisch-rotes Licht durch den Raum, schwere Vorhänge lassen die Sonne nicht durch,
                wenn sie zu warm am Mittag scheint und weitere Herrlichkeiten stehen in Aussicht... Daß
-               gegen diese Pracht alle Schönheiten des neubemalten <rs ref="#tillich_place_id__61"
-                  type="place">Bieuxyer</rs> Bauernzimmers verblassen, ist klar.... und morgen
+               gegen diese Pracht alle Schönheiten des neubemalten <rs ref="#tillich_place_id__61" type="place">Bieuxyer</rs> Bauernzimmers verblassen, ist klar.... und morgen
                erzähle ich von Menschen und Ereignissen:</p>
-            <closer>
-               <salute>Es grüßt Dich herzlich</salute> Dein <signed><rs
-                     ref="#tillich_person_id__1928" type="person">Paul</rs>!</signed>
-            </closer>
-            <postscript>
-               <p>Rundlauf: <rs ref="#tillich_person_id__1924" type="person">Papa</rs> – <rs
-                     ref="#tillich_person_id__1931" type="person">Greti</rs><note type="eb">Über
-                     "Papa – Greti" ist ein halbrunder verbindender Bogen, darüber: "schnell"</note>
-                  – <rs ref="#tillich_person_id__641" type="person">Alfred</rs> – <rs
-                     ref="#tillich_person_id__1924" type="person">Papa</rs>
-                  <rs ref="#tillich_person_id__1930" type="person">(Großmama)</rs>
-                  <lb/><add resp="P01926"><rs ref="#tillich_person_id__644" type="person"
-                        >Johanna</rs> soll das zum Familientag wieder mitbringen Euer <rs
-                        ref="#tillich_person_id__1924" type="person">Vater</rs>
-                     <date when="1915-05-30">30/5</date></add></p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+<closer>
+<salute>Es grüßt Dich herzlich</salute> Dein <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</signed>
+</closer>
+<postscript>
+<p>Rundlauf: <rs ref="#tillich_person_id__1924" type="person">Papa</rs> – <rs ref="#tillich_person_id__1931" type="person">Greti</rs><note type="eb">Über
+                     <q>Papa – Greti</q> ist ein halbrunder verbindender Bogen, darüber: <q>schnell</q></note>
+                  – <rs ref="#tillich_person_id__641" type="person">Alfred</rs> – <rs ref="#tillich_person_id__1924" type="person">Papa</rs>
+<rs ref="#tillich_person_id__1930" type="person">(Großmama)</rs>
+<lb/><add resp="P01926"><rs ref="#tillich_person_id__644" type="person">Johanna</rs> soll das zum Familientag wieder mitbringen Euer <rs ref="#tillich_person_id__1924" type="person">Vater</rs>
+<date when="1915-05-30">30/5</date></add></p>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

@@ -1,160 +1,151 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00062">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Johannes Tillich, Elisabeth Tillich, Johanna Tillich und Toni Winkler an Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00062" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Johannes Tillich, Elisabeth Tillich, Johanna Tillich und Toni Winkler an Paul Tillich
                <lb/>vom 13. Juni 1905 </title>
-            <author ref="#tillich_person_id__2085">Toni Winkler</author>
-            <author ref="#tillich_person_id__1762">Elisabeth Tillich</author>
-            <author ref="#tillich_person_id__644">Johanna Tillich</author>
-            <author ref="#tillich_person_id__1924">Johannes Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<author ref="#tillich_person_id__2085">Toni Winkler</author>
+<author ref="#tillich_person_id__1762">Elisabeth Tillich</author>
+<author ref="#tillich_person_id__644">Johanna Tillich</author>
+<author ref="#tillich_person_id__1924">Johannes Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/205(15)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/205(15)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__2085">Toni Winkler</persName>
-               <persName ref="#tillich_person_id__1762">Elisabeth Tillich</persName>
-               <persName ref="#tillich_person_id__644">Johanna Tillich</persName>
-               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1905-06-13">13.06.1905</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2023-01-14" who="PS">Initiale Auszeichnung des Transkripts</change>
-         <change when="2023-10-16" who="EL">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession" resp="#tillich_person_id__1924">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>
-                  <date when="1905-06-13">13/6. 05.</date></dateline>
-               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person"
-                  >Sohn</rs>!</salute>
-            </opener>
-            <p>Dein Brief<note type="ea">Nicht überliefert.</note> vom <date when="1905-06-09"
-                  >9.</date> veranlaßt mich, schon heute an Dich zu schreiben um des teilweise
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2085">Toni Winkler</persName>
+<persName ref="#tillich_person_id__1762">Elisabeth Tillich</persName>
+<persName ref="#tillich_person_id__644">Johanna Tillich</persName>
+<persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1905-06-13">13.06.1905</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-01-14" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2023-10-16" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div resp="#tillich_person_id__1924" type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>
+<date when="1905-06-13">13/6. 05.</date></dateline>
+<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Sohn</rs>!</salute>
+</opener>
+<p>Dein Brief<note type="ea">Nicht überliefert.</note> vom <date when="1905-06-09">9.</date> veranlaßt mich, schon heute an Dich zu schreiben um des teilweise
                melancholischen Inhalts willen.<note type="ea">Paul Tillich hatte während des
                   Sommersemesters 1905 in Tübingen wiederholt eine Ohrenerkrankung.</note> Oder
                klingt es nur so? – Ich hoffe, daß Du in diesen Tagen gute Ruhe gepflegt und Dich
                erholt hast. Es scheint mir, daß es mit Deinen Kräften noch nicht besonders steht,
                und deshalb möchte ich einige bestimmte Fragen an Dich richten, die ich Dich bitte,
                genau zu beantworten. 1). Was hat der Arzt über Deine Wunde<pb n="2"/> geäußert? 2).
-               Verläuft die Heilung anders als hier in <rs ref="#tillich_place_id__37" type="place"
-                  >Berlin</rs> erwartet wurde? 3). Eventuell aus welchen Ursachen? 4). Wie lange
+               Verläuft die Heilung anders als hier in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> erwartet wurde? 3). Eventuell aus welchen Ursachen? 4). Wie lange
                wird vermutlich der Heilungsprozeß noch dauern? 5). Wie steht es mit Deinem
                Gesammtbefinden, fühlst Du Dich noch nicht frisch?</p>
-            <p>Beantworte mir das alles <hi rend="u">offen</hi> und <hi rend="u">klar</hi>!! Ich
+<p>Beantworte mir das alles <hi rend="u">offen</hi> und <hi rend="u">klar</hi>!! Ich
                habe d. Festarbeit gut überstanden, bin allerdings heute abgespannt. Morgen will ich
-               mit <rs ref="#tillich_person_id__2085" type="person">Frl. T.</rs> nach <rs
-                  ref="#tillich_place_id__34" type="place">Belzig</rs>
-               <hi rend="sup">x)</hi><add place="foot">Eben kommt Absage von dort, darum alle nach
+               mit <rs ref="#tillich_person_id__2085" type="person">Frl. T.</rs> nach <rs ref="#tillich_place_id__34" type="place">Belzig</rs>
+<hi rend="sup">x)</hi><add place="foot">Eben kommt Absage von dort, darum alle nach
                      <rs ref="#tillich_place_id__213" type="place">Hohen-Neuendorf</rs></add>. Wenn
                möglich gedenke ich zu <rs ref="#tillich_person_id__800" type="person">Harders</rs>
                Hochzeit zu fahren. Schreibe ihm ein paar Zeilen, die <pb n="3"/> Du mir zum
                Mitnehmen schicken kannst (Hochzeit ist am <date when="1905-06-21">21.</date>). – Daß
                   <rs ref="#tillich_person_id__2224" type="person">Onkel Paul</rs> d. Lizentiaten
                cum laude gemacht hat, wird Dich sehr gefreut haben. Nun findet noch die öffentliche
-               Disputation in <rs ref="#tillich_place_id__181" type="place">Greifswald</rs> am <date
-                  when="1905-06-27">27.</date> statt, bei der ich als Opponent fungieren soll. So
+               Disputation in <rs ref="#tillich_place_id__181" type="place">Greifswald</rs> am <date when="1905-06-27">27.</date> statt, bei der ich als Opponent fungieren soll. So
                liegt noch viel vor bis zur Reise, die am <date when="1905-07-03">3. Juli</date>
-               beginnen soll – hast Du schon überlegt, wo ich dort mit <rs
-                  ref="#tillich_person_id__644" type="person">Johanna</rs> logieren kann? Frage
+               beginnen soll – hast Du schon überlegt, wo ich dort mit <rs ref="#tillich_person_id__644" type="person">Johanna</rs> logieren kann? Frage
                einmal Deine Wirtin; <rs ref="#tillich_person_id__644" type="person">Johanna</rs> muß
                jedenfalls allein schlafen, wenn sie auch bei Tage kein eigenes<pb n="4"/> Zimmer
                braucht. Lieb wäre es mir, auch etwas über den Kreis zu erfahren; wir müssen alles
                möglichst billig einrichten, zumal es ungewiß ist, ob wir den Schluß der Reisezeit in
                   <rs ref="#tillich_place_id__164" type="place">Freiburg</rs> verbringen können.
                Also überlege einmal u. überschlage die Kosten der dortigen Aufenthalte! –</p>
-            <p>Mit Deinen wissenschaftlichen Ausführungen bin ich <del rend="s">mit</del> im großen
+<p>Mit Deinen wissenschaftlichen Ausführungen bin ich <del rend="s">mit</del> im großen
                und ganzen einverstanden. Auch ich will keine Theologie, die in der Luft schwebt. Der
                wissenschaftliche Platz muß als berechtigt nachgewiesen werden. Aber die Theologie
-               ist doch mehr "gegeben" als das<pb n="5"/> natürliche "Ich", nämlich das christliche
+               ist doch mehr <q>gegeben</q> als das<pb n="5"/> natürliche <q>Ich</q>, nämlich das christliche
                oder wiedergeborene Ich mit seinem eigentümlichen Bewußtseinsinhalt. Gegen diesen
                Inhalt kann <rs ref="#tillich_person_id__586" type="person">Feuerbach</rs> nicht an,
                weil diesem christlichen Bewußtsein <hi rend="u">unmittelbare</hi> Gewißheit eignet,
                die eben so reale Tatsache ist wie die unsres Daseins und Lebens überhaupt. Vergl.
-                  <rs type="bible" ref="1.Kor-2,9-14">1 Cor 2, 9-14</rs>. – Gerade das Pfingstfest
+                  <rs ref="1.Kor-2,9-14" type="bible">1 Cor 2, 9-14</rs>. – Gerade das Pfingstfest
                hat uns wieder an die <hi rend="u">Tatsache</hi> einer <hi rend="u">göttlichen</hi>
                Geistesmitteilung erinnert, die dann auch der Theologe ihren Inhalt gibt. Ohne dies
                bliebe die Theologie nur Vernunftspekulation, Geschichte<pb n="6"/> und Philologie,
                wie sie das ja zum Teil bei den Modernen geworden ist. – Doch genug davon: Eben ist
-                  <rs ref="#tillich_person_id__644" type="person">Johanna</rs> aus <rs
-                  ref="#tillich_place_id__375" type="place">Ruppin</rs> zurückgekehrt. Gott behüte
+                  <rs ref="#tillich_person_id__644" type="person">Johanna</rs> aus <rs ref="#tillich_place_id__375" type="place">Ruppin</rs> zurückgekehrt. Gott behüte
                Dich. Schreibe zum <hi rend="u">Sonnabend</hi>! </p>
-            <closer>
-               <signed>Dein tr. <rs ref="#tillich_person_id__1924" type="person">Vater</rs></signed>
-            </closer>
-         </div>
-         <div resp="#tillich_person_id__644">
-            <opener><salute>Lieber <rs ref="#tillich_person_id__1928" type="person"
-                  >Paul</rs>,</salute></opener>
-            <p>besten Dank für Deinen Brief, von dem <hi rend="u">ich</hi> ja allerdings nur die
-               Hälfte verstanden. Denkst Du auch an <rs ref="#tillich_person_id__1762" type="person"
-                  >Elisabeth's</rs> Geburtstag am Sonnabend? Warum bist Du denn so niedergeschlagen.
+<closer>
+<signed>Dein tr. <rs ref="#tillich_person_id__1924" type="person">Vater</rs></signed>
+</closer>
+</div>
+<div resp="#tillich_person_id__644">
+<opener><salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute></opener>
+<p>besten Dank für Deinen Brief, von dem <hi rend="u">ich</hi> ja allerdings nur die
+               Hälfte verstanden. Denkst Du auch an <rs ref="#tillich_person_id__1762" type="person">Elisabeth's</rs> Geburtstag am Sonnabend? Warum bist Du denn so niedergeschlagen.
                Wir alle sind besorgt. Schreib nur recht <hi rend="u">ausführlich</hi>.<pb n="7"/>
                Bist du nicht viel in der herrlichen Natur, und freust Du Dich nicht an ihr von
                ganzem Herzen? Hoffentlich bist Du recht vergnügt, wenn wir kommen. Denke Dir nur
@@ -162,34 +153,32 @@
                Dir gut schmecken. In <rs ref="#tillich_place_id__375" type="place">Ruppin</rs> war
                es sehr nett, Onkel u. Tante sind sehr freundlich, der See, den Du ja auch kennst,
                ist ja wunderhübsch. <del rend="s">Du weißt doch</del></p>
-            <p>In der Hoffnung, daß Du recht vergnügt und fröhlich bist und recht genau alles
+<p>In der Hoffnung, daß Du recht vergnügt und fröhlich bist und recht genau alles
                schreibst bin ich Deine</p>
-            <signed>Schwester <rs ref="#tillich_person_id__644" type="person">Johanna</rs></signed>
-            <postscript>
-               <p>Schreib an <rs ref="#tillich_person_id__2192" type="person">Schwester
+<signed>Schwester <rs ref="#tillich_person_id__644" type="person">Johanna</rs></signed>
+<postscript>
+<p>Schreib an <rs ref="#tillich_person_id__2192" type="person">Schwester
                   Therese</rs></p>
-               <p>Ich lerne fleißig Italienisch, habe Geigenstunden, Klavier u.s.w. u. muß mich noch
+<p>Ich lerne fleißig Italienisch, habe Geigenstunden, Klavier u.s.w. u. muß mich noch
                   immer recht erholen!!</p>
-               <p>Morgen kommen auch <rs ref="#tillich_person_id__2224" type="person"><rs
-                        ref="#tillich_person_id__2225" type="person">Dürselens</rs></rs> wieder.
+<p>Morgen kommen auch <rs ref="#tillich_person_id__2224" type="person"><rs ref="#tillich_person_id__2225" type="person">Dürselens</rs></rs> wieder.
                   Schreib an sie!</p>
-               <p>Einen Pfingstmaiengruß!</p>
-            </postscript>
-         </div>
-         <div>
-            <pb n="8"/>
-            <opener><salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person"
-                  >Paul</rs>,</salute></opener>
-            <p>Soeben habe ich Dir Alles besorgt was ich denke, was Dir Freude macht,
+<p>Einen Pfingstmaiengruß!</p>
+</postscript>
+</div>
+<div>
+<pb n="8"/>
+<opener><salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute></opener>
+<p>Soeben habe ich Dir Alles besorgt was ich denke, was Dir Freude macht,
                   <unclear>Carre</unclear> war neulich wohl etwas wenig, Wurst ist nur klein, dafür
                sende ich Dir einen ganzen lütten Schinken mit, schreibe nur, ob er gut ist. –
                Außerdem noch was an Wäsche hier ist, 1 Unterhose, u. 1 paar Manschetten dazu
                natürlich die Schokolade, die Du sonst sehr vermissen würdest. Nun ist
                Missionsnähverein.</p>
-            <closer><salute>Herzl. Gruß</salute>
-               <signed>Deine <rs ref="#tillich_person_id__2085" type="person">Tante
+<closer><salute>Herzl. Gruß</salute>
+<signed>Deine <rs ref="#tillich_person_id__2085" type="person">Tante
                   Toni</rs></signed></closer>
-         </div>
-      </body>
-   </text>
+</div>
+</body>
+</text>
 </TEI>

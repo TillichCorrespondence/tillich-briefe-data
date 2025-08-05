@@ -1,95 +1,92 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01039">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von einer unbekannten Frau an Paul Tillich <lb/>vom 25. November 1929</title>
-
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L01039" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von einer unbekannten Frau an Paul Tillich <lb/>vom 25. November 1929</title>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>Rollfilm 023</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>Rollfilm 023</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <date when="1929-11-25">25.11.1929</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-07-07">Initiale Auszeichnung des Transkripts</change>
-         <change who="FS" when="2024-01-22">Endabnahme</change>
-
-
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener><dateline>
-                  <date when="1929-11-25">25. 11. 29.</date></dateline>
-               <salute>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>!</salute>
-            </opener>
-            <p>Es ist mir nun doch nicht gleichgültig, daß Sie etwas lächelnd als Tatsache
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<date when="1929-11-25">25.11.1929</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-07-07" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-01-22" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline>
+<date when="1929-11-25">25. 11. 29.</date></dateline>
+<salute>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>!</salute>
+</opener>
+<p>Es ist mir nun doch nicht gleichgültig, daß Sie etwas lächelnd als Tatsache
                hinnahmen, was einem Mißverständnis entsprungen ist. – Aus einem seltsamen Vertrauen
                heraus habe ich Wesentliches oder Wesenhaftes von mir gesagt u. auch einiges aus
                meinem direkten Leben skizziert, von einem Brief gesprochen usw. Die angedeutete
-               Freundschaft oder besser "Liebe" ist, obwohl sie seit längerem besteht und in ihrer
+               Freundschaft oder besser <q>Liebe</q> ist, obwohl sie seit längerem besteht und in ihrer
                besonderen Schönheit dauern wird, zart geblieben. Es beherrscht sie – allerdings
                durch meinen Willen – der Eros der Ferne. Ich habe auch zurzeit keinen Geliebten oder
                einen Mann, mit dem ich lebe, wie ja überhaupt der Eros der Nähe, obwohl ich ihn
@@ -99,23 +96,21 @@
                tue es auch nicht gern, da Dritte diesen Brief, der so ganz auf ein Gespräch zwischen
                zwei Menschen abgestimmt ist, wohl etwas merkwürdig finden würden. (Das Beste wird
                wohl sein, Sie vernichten ihn gleich.) –</p>
-            <p>Nun habe ich noch gar nicht "von uns" gesagt, u. ich möchte es auch nicht. Man kann
+<p>Nun habe ich noch gar nicht <q>von uns</q> gesagt, u. ich möchte es auch nicht. Man kann
                u. soll es nicht denken u. sagen, was wie eine feine Welle zwischen zwei Menschen zu
                schwingen beginnt.<pb n="2"/> Nur soviel:</p>
-            <p>Ich bin geöffnet jedem tiefen, echten Klang, der durch meine Sphäre dringt oder gar
+<p>Ich bin geöffnet jedem tiefen, echten Klang, der durch meine Sphäre dringt oder gar
                in ihr ist. Und die Seiten meiner Seele zittern beim leisesten Wind, der im höheren
                Sinne eine Sehnsucht zu mir trägt.</p>
-            <p>Meine Augen u. meine Ohren hatten heute einen seltenen Eindruck, den sie durstend,
+<p>Meine Augen u. meine Ohren hatten heute einen seltenen Eindruck, den sie durstend,
                freudig u. dankbar aufnahmen u. immer behalten werden, selbst wenn wir uns nicht mehr
-               sehen sollten. Ja, ich gestehe, ein wenig Angst vor einem wirklichen "Wiedersehen" zu
+               sehen sollten. Ja, ich gestehe, ein wenig Angst vor einem wirklichen <q>Wiedersehen</q> zu
                haben, da mich das erste Sehen schon stark berührte!</p>
-            <p>Doch, ich will es ganz in Ihre, wie ich glaube, klugen, feinen Hände legen.</p>
-            <closer>
-               <signed><unclear>Rhe.</unclear></signed>
-            </closer>
-
-         </div>
-
-      </body>
-   </text>
+<p>Doch, ich will es ganz in Ihre, wie ich glaube, klugen, feinen Hände legen.</p>
+<closer>
+<signed><unclear>Rhe.</unclear></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

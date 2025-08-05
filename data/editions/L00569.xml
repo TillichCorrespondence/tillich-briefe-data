@@ -1,104 +1,104 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00569">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Margarete Tillich <lb/>vom 21. Mai 1918 </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00569" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Margarete Tillich <lb/>vom 21. Mai 1918 </title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/193(21)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/193(21)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date when="1918-05-21">21.05.1918</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1925">Margarete Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-06-20">Initiale Auszeichnung des Transkripts</change>
-         <change who="GM" when="2024-02-09">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>D. <date when="1918-05-21">21. Mai 1918.</date></dateline>
-               <salute>Liebe <rs ref="#tillich_person_id__1925" type="person">Tante
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1918-05-21">21.05.1918</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1925">Margarete Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-06-20" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-02-09" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>D. <date when="1918-05-21">21. Mai 1918.</date></dateline>
+<salute>Liebe <rs ref="#tillich_person_id__1925" type="person">Tante
                   Grete</rs>!</salute>
-            </opener>
-            <p>Dunkel schwant mir von <sic>Einem</sic> Geburtstage im schönen Monat Mai so um den 25<hi rend="sup">ten</hi> herum, zu dem es in <rs ref="#tillich_place_id__45" type="place">Pankow</rs> oder <rs ref="#tillich_place_id__170" type="place">Friedrichshagen</rs> in schöneren Zeiten eine "kalte Ente" und eine Ruderfahrt
-                  mang den "Badenden" gab. So was wirds nie wieder
+</opener>
+<p>Dunkel schwant mir von <sic>Einem</sic> Geburtstage im schönen Monat Mai so um den 25<hi rend="sup">ten</hi> herum, zu dem es in <rs ref="#tillich_place_id__45" type="place">Pankow</rs> oder <rs ref="#tillich_place_id__170" type="place">Friedrichshagen</rs> in schöneren Zeiten eine <q>kalte Ente</q> und eine Ruderfahrt
+                  mang den <q>Badenden</q> gab. So was wirds nie wieder
                geben; aber vielleicht doch etwas bessere Zeiten als jetzt! Und das ist mein Wunsch
                für Dich an diesem Tage; und auch daß Du eine Stätte der Ruhe finden mögest, wo wir
                Dich in kommenden Tagen besuchen und zu einem <sic>Geburtstagskaffe</sic> und Kuchen
                (!) von vergangenen guten und bösen Zeiten reden. Leb wohl, mein liebes <rs ref="#tillich_person_id__1925" type="person">Gretschlein</rs>! und denk an mich! </p>
-            <closer>
+<closer>
                Dein treuer <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-            </closer>
-            <postscript>
-               <p>(Eine französische <unclear reason="illegible">¿¿¿</unclear>)</p>
-            </postscript>
-         </div>
-      </body>
-   </text>
+</closer>
+<postscript>
+<p>(Eine französische <unclear reason="illegible">¿¿¿</unclear>)</p>
+</postscript>
+</div>
+</body>
+</text>
 </TEI>

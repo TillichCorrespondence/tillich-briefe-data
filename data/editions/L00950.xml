@@ -1,120 +1,118 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00950">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Wilhelm Ruprecht <lb/>vom 17. Oktober 1927</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0007-2445-9093">Niklas von Hülsen</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="typescript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement>Berlin</settlement>
-                  <repository>Verlagsarchiv Vandenhoeck &amp; Ruprecht</repository>
-                  <collection>Autorenkorrespodenz</collection>
-                  <idno>G 1923.138</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, maschinenschriftlich</p>
-                  </physDesc>
-               <additional>
-                  <listBibl>
-                     <biblStruct type="journal">
-                        <monogr>
-                           <author>Friedrich Wilhelm Graf</author>
-                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-                           <imprint>
-                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
-                              <date when="2020">2020</date>
-                              <biblScope>S. 26–170, hier: 146f.</biblScope>
-                           </imprint>
-                        </monogr>
-                        <series>
-                           <title>Zeitschrift für Neuere Theologiegeschichte</title>
-                           <biblScope>27/1</biblScope>
-                        </series>
-                     </biblStruct>
-                  </listBibl>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__126">Dresden</placeName>
-              <date when="1927-10-17">17.10.1927</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="NH" when="2023-08-07">Initiale Auszeichnung des Transkripts</change>
-        <change who="NH" when="2024-01-03">Vorbereitung/Korrektur für die Endabnahme</change>
-        <change who="FS" when="2024-01-24">Endabnahme</change>
-        
-       
-     </revisionDesc>
-  </teiHeader>
-  <text type="letter">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <dateline><rs ref="#tillich_place_id__126" type="place">Dresden</rs>,<note type="eb">Erklärende Anmerkungen zu vorliegendem Brief wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note> am <date when="1927-10-17">17.10.27</date>. Elisenstr. 11<note type="ea">Unterhalb der Adresse findet sich die Registraturnotiz: "<rs ref="L00951" type="letter">geschr. 21.10.27</rs>".</note></dateline>
-           <salute>Sehr geehrter <rs ref="#tillich_person_id__2569" type="person">Herr Ruprecht</rs>!</salute>
-        </opener>
-        <p>Vielleicht ist es mir schon heut möglich, Ihren in Ihrem <rs ref="L00945" type="letter">Brief</rs> geäusserten Wunsch, wenn auch nur quantitativ gering, zu erfüllen. Würden Sie eventuell bereit sein, drei Vorträge von mir über <lb/>
-           <rs ref="#tillich__8MXHUR7K" type="work">Gläubigen Realismus</rs><lb/>
-           <rs ref="#tillich__LANLX8TH" type="work">Logos und Mythos der Technik</rs><lb/>
-           <rs ref="#tillich__KPFCQCGS" type="work">Eschatologie und Geschichte</rs>,<note type="ea">Den Vortrag "Logos und Mythos der Technik" hielt Tillich am <date when="1927-06-18">18. Juni 1927</date>, einem Sonnabend, vormittags um 11.00 Uhr beim "Festaktus der Gründungsfeier der Technischen Hochschule <rs ref="#tillich_place_id__126" type="place">Dresden</rs>". Am <date when="1927-07-09">9. Juli 1927</date>, einem Samstag, sprach er auf der "Älteren Tagung" des "Bundes Deutscher Jugendvereine e.V." (BDJ) in <rs ref="#tillich_place_id__557" type="place">Hannoversch-Münden</rs> über "Gläubigen Realismus". Im <date when="1927-10">Oktober 1927</date> trug er in <rs ref="#tillich_place_id__556" type="place">Meißen</rs> seine Überlegungen zu "Eschatologie und Geschichte" vor.</note><lb/>
-           nach denen eine dauernde Nachfrage ist, unter dem Gesamttitel: "Gläubiger Realismus" sofort zu drucken? Die Länge beträgt schätzungsweise 40–50 Druckseiten. Die Manuskripte könnten Ende dieser Woche an Sie abgehen. Vielleicht wäre noch ein Druck zu Weihnachten möglich, sonst zum Januar. (Jedenfalls nicht später wegen des Semesters.) Ich bitte Sie um umgehende Antwort und eventuell Angabe der Vorschläge, die Sie mir machen.
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00950" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Wilhelm Ruprecht <lb/>vom 17. Oktober 1927</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0007-2445-9093">Niklas von Hülsen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="typescript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement>Berlin</settlement>
+<repository>Verlagsarchiv Vandenhoeck &amp; Ruprecht</repository>
+<collection>Autorenkorrespodenz</collection>
+<idno>G 1923.138</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, maschinenschriftlich</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct type="journal">
+<monogr>
+<author>Friedrich Wilhelm Graf</author>
+<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+<imprint>
+<pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+<date when="2020">2020</date>
+<biblScope>S. 26–170, hier: 146f.</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Zeitschrift für Neuere Theologiegeschichte</title>
+<biblScope>27/1</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__126">Dresden</placeName>
+<date when="1927-10-17">17.10.1927</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-08-07" who="NH">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-01-03" who="NH">Vorbereitung/Korrektur für die Endabnahme</change>
+<change when="2024-01-24" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__126" type="place">Dresden</rs>,<note type="eb">Erklärende Anmerkungen zu vorliegendem Brief wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note> am <date when="1927-10-17">17.10.27</date>. Elisenstr. 11<note type="ea">Unterhalb der Adresse findet sich die Registraturnotiz: <q><rs ref="L00951" type="letter">geschr. 21.10.27</rs></q>.</note></dateline>
+<salute>Sehr geehrter <rs ref="#tillich_person_id__2569" type="person">Herr Ruprecht</rs>!</salute>
+</opener>
+<p>Vielleicht ist es mir schon heut möglich, Ihren in Ihrem <rs ref="L00945" type="letter">Brief</rs> geäusserten Wunsch, wenn auch nur quantitativ gering, zu erfüllen. Würden Sie eventuell bereit sein, drei Vorträge von mir über <lb/>
+<rs ref="#tillich__8MXHUR7K" type="work">Gläubigen Realismus</rs><lb/>
+<rs ref="#tillich__LANLX8TH" type="work">Logos und Mythos der Technik</rs><lb/>
+<rs ref="#tillich__KPFCQCGS" type="work">Eschatologie und Geschichte</rs>,<note type="ea">Den Vortrag <q>Logos und Mythos der Technik</q> hielt Tillich am <date when="1927-06-18">18. Juni 1927</date>, einem Sonnabend, vormittags um 11.00 Uhr beim <q>Festaktus der Gründungsfeier der Technischen Hochschule <rs ref="#tillich_place_id__126" type="place">Dresden</rs></q>. Am <date when="1927-07-09">9. Juli 1927</date>, einem Samstag, sprach er auf der <q>Älteren Tagung</q> des <q>Bundes Deutscher Jugendvereine e.V.</q> (BDJ) in <rs ref="#tillich_place_id__557" type="place">Hannoversch-Münden</rs> über <q>Gläubigen Realismus</q>. Im <date when="1927-10">Oktober 1927</date> trug er in <rs ref="#tillich_place_id__556" type="place">Meißen</rs> seine Überlegungen zu <q>Eschatologie und Geschichte</q> vor.</note><lb/>
+           nach denen eine dauernde Nachfrage ist, unter dem Gesamttitel: <q>Gläubiger Realismus</q> sofort zu drucken? Die Länge beträgt schätzungsweise 40–50 Druckseiten. Die Manuskripte könnten Ende dieser Woche an Sie abgehen. Vielleicht wäre noch ein Druck zu Weihnachten möglich, sonst zum Januar. (Jedenfalls nicht später wegen des Semesters.) Ich bitte Sie um umgehende Antwort und eventuell Angabe der Vorschläge, die Sie mir machen.
         </p>
-        <closer>
-           <salute>Ihr sehr ergebener</salute>
-           <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs><note type="ea">Links unten notiert <rs ref="#tillich_person_id__2569" type="person">Wilhelm Ruprecht</rs> (in drei Zeilen untereinander): "Übersetzung ô [Kürzel für: keine / nicht nötig] Abmachung neu Setzen voraus".</note></signed>
-        </closer>
-     </div>
-    </body>
-  </text>
+<closer>
+<salute>Ihr sehr ergebener</salute>
+<signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs><note type="ea">Links unten notiert <rs ref="#tillich_person_id__2569" type="person">Wilhelm Ruprecht</rs> (in drei Zeilen untereinander): <q>Übersetzung ô [Kürzel für: keine / nicht nötig] Abmachung neu Setzen voraus</q>.</note></signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

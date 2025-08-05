@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00793">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00793" xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -41,25 +41,25 @@
 <physDesc>
 <p>Postkarte, eigenhändig</p>
 </physDesc>
-   <additional>
-      <listBibl>
-         <biblStruct type="journal">
-            <monogr>
-               <author>Friedrich Wilhelm Graf</author>
-               <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-               <imprint>
-                  <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
-                  <date when="2020">2020</date>
-                  <biblScope>S. 26–170, hier: 135f.</biblScope>
-               </imprint>
-            </monogr>
-            <series>
-               <title>Zeitschrift für Neuere Theologiegeschichte</title>
-               <biblScope>27/1</biblScope>
-            </series>
-         </biblStruct>
-      </listBibl>
-   </additional>
+<additional>
+<listBibl>
+<biblStruct type="journal">
+<monogr>
+<author>Friedrich Wilhelm Graf</author>
+<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+<imprint>
+<pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+<date when="2020">2020</date>
+<biblScope>S. 26–170, hier: 135f.</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Zeitschrift für Neuere Theologiegeschichte</title>
+<biblScope>27/1</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -88,7 +88,7 @@
 <revisionDesc status="approved">
 <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
 <change when="2024-01-19" who="AR">Initiale Auszeichnung des Transkripts</change>
-   <change when="2025-03-26" who="FS">Kollationierung</change>
+<change when="2025-03-26" who="FS">Kollationierung</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
@@ -96,13 +96,13 @@
 <div type="writingSession">
 <pb n="1"/>
 <opener>
-   <salute>Sehr geehrter <rs ref="#tillich_person_id__2569" type="person">Herr Ruprecht</rs>!</salute>
+<salute>Sehr geehrter <rs ref="#tillich_person_id__2569" type="person">Herr Ruprecht</rs>!</salute>
 </opener>
-   <p>Besten Dank für Ihre Karte! Ich mache sofort Gebrauch von Ihrem Anerbieten, und bitte Sie, mir <hi rend="u">35 Exemplare</hi> zum Verlegerpreis vom "<rs ref="#tillich__WLVL28EI" type="work">System der Wissenschaften</rs>"
-zuzusenden. Ein Vortrag vor den <rs ref="#tillich_place_id__279" type="place">Marburger</rs> Studenten<note type="ea">Tillich war im Sommersemester 1923 mehrfach in Marburg, um mit Martin Rade über seine Umhabilitation und die Ernennung zum außeretatmäßigen Professor zu verhandeln. Am Freitag, 25. Januar 1924 hielt er in Marburg "auf Einladung des Sozialen Amtes der Studentenschaft" einen Vortrag. Undatierter Brief Paul Tillichs an Martin Rade aus dem Dezember 1923, Staatsarchiv Marburg, Theologische Fakultät Marburg, Personal-Akten Dr. Tillichs 1923-1925, 307a acc. 1962/12, Nr. 64.</note> hatte den Erfolg, daß am nächsten Tag nicht nur 30 Bestellungen kamen, sondern auch das Geld sofort eingezahlt wurde trotz der offensichtlichen Notlage der meisten Besteller. Es liegt auf meinem Konto und ich lasse es Ihnen sofort überweisen, sobald ich die Rechnung und die Nummer Ihres Kontos (die ich nicht mehr weiß) habe. Bei der außerordentlichen geistigen Regsamkeit und centralen Lage der <rs ref="#tillich_place_id__279" type="place">Marburger</rs> wird das der Verbreitung des Buches sehr zu Gute kommen.</p>
+<p>Besten Dank für Ihre Karte! Ich mache sofort Gebrauch von Ihrem Anerbieten, und bitte Sie, mir <hi rend="u">35 Exemplare</hi> zum Verlegerpreis vom <q><rs ref="#tillich__WLVL28EI" type="work">System der Wissenschaften</rs></q>
+zuzusenden. Ein Vortrag vor den <rs ref="#tillich_place_id__279" type="place">Marburger</rs> Studenten<note type="ea">Tillich war im Sommersemester 1923 mehrfach in Marburg, um mit Martin Rade über seine Umhabilitation und die Ernennung zum außeretatmäßigen Professor zu verhandeln. Am Freitag, 25. Januar 1924 hielt er in Marburg <q>auf Einladung des Sozialen Amtes der Studentenschaft</q> einen Vortrag. Undatierter Brief Paul Tillichs an Martin Rade aus dem Dezember 1923, Staatsarchiv Marburg, Theologische Fakultät Marburg, Personal-Akten Dr. Tillichs 1923-1925, 307a acc. 1962/12, Nr. 64.</note> hatte den Erfolg, daß am nächsten Tag nicht nur 30 Bestellungen kamen, sondern auch das Geld sofort eingezahlt wurde trotz der offensichtlichen Notlage der meisten Besteller. Es liegt auf meinem Konto und ich lasse es Ihnen sofort überweisen, sobald ich die Rechnung und die Nummer Ihres Kontos (die ich nicht mehr weiß) habe. Bei der außerordentlichen geistigen Regsamkeit und centralen Lage der <rs ref="#tillich_place_id__279" type="place">Marburger</rs> wird das der Verbreitung des Buches sehr zu Gute kommen.</p>
 <closer>
 <salute>Ihr sehr ergebener</salute>
-   <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
+<signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
 </closer>
 </div>
 </body>

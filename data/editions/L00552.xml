@@ -1,141 +1,136 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00552">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Maria Klein <lb/>vom 5. Dezember 1917 </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00552" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Maria Klein <lb/>vom 5. Dezember 1917 </title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/178(9)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-               <additional>
-                  <listBibl>
-                     <biblStruct type="monograph" n="firstPrint">
-                        <monogr>
-                           <author>Paul Tillich</author>
-                           <editor> Renate Albrecht/Margot Hahl (Hg.)</editor>
-                           <title>Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge,
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/178(9)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct n="firstPrint" type="monograph">
+<monogr>
+<author>Paul Tillich</author>
+<editor> Renate Albrecht/Margot Hahl (Hg.)</editor>
+<title>Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge,
                               Berichte</title>
-                           <edition>Erste Auflage</edition>
-                           <imprint>
-                              <publisher>Evangelisches Verlagswerk Stuttgart</publisher>
-                              <pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
-                              <date when="1980">1980</date>
-                              <biblScope>120f.</biblScope>
-                           </imprint>
-                        </monogr>
-                        <series>
-                           <title>Ergänzungs- und Nachlassbände zu den Gesammelten Werken von Paul
+<edition>Erste Auflage</edition>
+<imprint>
+<publisher>Evangelisches Verlagswerk Stuttgart</publisher>
+<pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
+<date when="1980">1980</date>
+<biblScope>120f.</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Ergänzungs- und Nachlassbände zu den Gesammelten Werken von Paul
                               Tillich</title>
-                           <biblScope>V</biblScope>
-                        </series>
-                     </biblStruct>
-                  </listBibl>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+<biblScope>V</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date when="1917-12-05">05.12.1917</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1594">Maria Klein</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-05-30">Initiale Auszeichnung des Transkripts</change>
-         <change who="GM" when="2024-01-30">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>D. <date when="1917-12-05">5. Dez. 1917.</date></dateline>
-               <salute>Liebe <rs ref="#tillich_person_id__1594" type="person">Maria</rs>!</salute>
-            </opener>
-            <p>Dieser Brief soll zugleich Geburtstags- Weihnachts- und <del rend="s"
-                  >Geburtstag</del> Neujahrsbrief sein, – natürlich wegen des Papiermangels. Als
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1917-12-05">05.12.1917</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1594">Maria Klein</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-05-30" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-01-30" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>D. <date when="1917-12-05">5. Dez. 1917.</date></dateline>
+<salute>Liebe <rs ref="#tillich_person_id__1594" type="person">Maria</rs>!</salute>
+</opener>
+<p>Dieser Brief soll zugleich Geburtstags- Weihnachts- und <del rend="s">Geburtstag</del> Neujahrsbrief sein, – natürlich wegen des Papiermangels. Als
                   <sic>Geburtsbrief</sic> hätte er über Dich zu reden, eventuell über Dich und mich.
                Da kann ich nur sagen, daß ich mich wirklich sehr gefreut habe, als ich Deinen
                   Brief<note type="ea">Liegt nicht vor.</note> las, weil mir daraus immer deutlicher
-               sprach, was ich Dir schon vor Jahren so oft gesagt hatte: die "Dame" im besten Sinne
-               – – – . Und <sic>das</sic> diese Entwicklung fortdauern möge, ist mein "Segenswunsch"
-               zum Geburtstag: Dazu gehört auch das, was Du über "Selbstständigkeit" schreibst, denn
+               sprach, was ich Dir schon vor Jahren so oft gesagt hatte: die <q>Dame</q> im besten Sinne
+               – – – . Und <sic>das</sic> diese Entwicklung fortdauern möge, ist mein <q>Segenswunsch</q>
+               zum Geburtstag: Dazu gehört auch das, was Du über <q>Selbstständigkeit</q> schreibst, denn
                ohne diese ist die Dame undenkbar. Und das hat auch Bedeutung <hi rend="u">für Deine
-                  Freunde: Je mehr Du bist ohne sie, desto mehr kannst Du ihnen geben,</hi><note
-                  type="ea">Die Unterstreichungen in diesem Brief sind wahrscheinlich nicht von <rs
-                     ref="#tillich_person_id__1928" type="person">Tillich</rs> selbst, sondern von
+                  Freunde: Je mehr Du bist ohne sie, desto mehr kannst Du ihnen geben,</hi><note type="ea">Die Unterstreichungen in diesem Brief sind wahrscheinlich nicht von <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> selbst, sondern von
                      <rs ref="#tillich_person_id__1594" type="person">Maria Klein</rs>.</note> desto
-               gleichartiger und höherwertiger wird die Freundschaft. Und dies ist die "egoistische"
-               Seite meines "Segenswunsches". Und ich bin von beiden Seiten überzeugt, daß sie
+               gleichartiger und höherwertiger wird die Freundschaft. Und dies ist die <q>egoistische</q>
+               Seite meines <q>Segenswunsches</q>. Und ich bin von beiden Seiten überzeugt, daß sie
                erfüllt werden und <hi rend="u">freue mich auf ein Zusammensein</hi>, das einmal frei
                ist von der <hi rend="u">Belastung mit Eile und<pb n="2"/> Einmaligkeit.</hi> – – Was
-               den "Neujahrsbrief" betrifft, so müßte er sich auf den Frieden beziehen, der für Dich
+               den <q>Neujahrsbrief</q> betrifft, so müßte er sich auf den Frieden beziehen, der für Dich
                die konkrete Bedeutung einer Rückkehr und eines Wiederfindens im tiefsten Sinne haben
                sollte – das mein Neujahrswunsch. – – Und nun Weihnachten! Ich meine damit das
-               theologische Problem, das wir angeschnitten haben! Ich bin durch konsequentes <hi
-                  rend="u">Durchdenken des Rechtfertigungsgedankens schon</hi> lange zu der <hi
-                  rend="u">Paradoxie des "Glaubens ohne Gott"</hi> gekommen, dessen nähere
+               theologische Problem, das wir angeschnitten haben! Ich bin durch konsequentes <hi rend="u">Durchdenken des Rechtfertigungsgedankens schon</hi> lange zu der <hi rend="u">Paradoxie des <q>Glaubens ohne Gott</q></hi> gekommen, dessen nähere
                Bestimmung und Entfaltung den Inhalt meines gegenwärtigen religionsphilosophischen
                Denkens bildet. Dein Gedanke der Unendlichkeit und des Lebens spielt dabei eine große
-               Rolle. Doch darf das nicht zu einer neuen "Objektivierung" führen. Das "Leben" als
-               Begriff, die "Unendlichkeit" als Gegenstand sind <supplied>nicht</supplied>
+               Rolle. Doch darf das nicht zu einer neuen <q>Objektivierung</q> führen. Das <q>Leben</q> als
+               Begriff, die <q>Unendlichkeit</q> als Gegenstand sind <supplied>nicht</supplied>
                philosophische, problematische Gottesbegriffe; sondern es handelt sich um die innere
                Unendlichkeit des Lebens als Aktus, die unendliche Lebendigkeit, das Transzendieren
                über jeden Gegenstand und alles<pb n="3"/> Gegenständliche. Doch ist das nur die eine
@@ -143,19 +138,19 @@
                Unendlichkeit. Dieses Beides zusammen ist wieder eine Seite, die als
                Freiheitsbewußtsein einem Abhängigkeitsbewußtsein gegenübersteht <hi rend="u">von</hi> einer
                Wertordnung, die aber auch nicht gegenständlich zu machen ist, sondern als
-               "Wertgefühl" bezeichnet werden kann. So zerfiele das religiöse "Weltgefühl" in ein
+               <q>Wertgefühl</q> bezeichnet werden kann. So zerfiele das religiöse <q>Weltgefühl</q> in ein
                positives und negatives Freiheitsgefühl und in ein Wert<pb n="4"/>gefühl. – Beide nun
-               sind in sich rein "urständlich"; doch ist auch dieses nur wieder eine Seite, wenn
+               sind in sich rein <q>urständlich</q>; doch ist auch dieses nur wieder eine Seite, wenn
                auch die fundierende, darauf aber baut sich auf in verschiedenen Modifikationen eine
-               "gegenständliche" d. h. ein irgendwie gearteter Gottesbegriff, dessen Problematik nun
+               <q>gegenständliche</q> d. h. ein irgendwie gearteter Gottesbegriff, dessen Problematik nun
                kein Hindernis mehr ist für den Glauben. Denn nicht an ihn wird geglaubt; sondern er
                ist die Folge eines Glaubens, der in sich selber ruht. In dieser Richtung suche ich
                die Lösung. –</p>
-            <closer>
-               <salute>Leb wohl, und schreibe wieder Deinem Freund</salute>
-               <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+<closer>
+<salute>Leb wohl, und schreibe wieder Deinem Freund</salute>
+<signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

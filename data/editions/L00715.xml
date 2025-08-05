@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00715">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00715" xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -41,25 +41,25 @@
 <physDesc>
 <p>Postkarte, eigenhändig</p>
 </physDesc>
-      <additional>
-            <listBibl>
-                  <biblStruct type="journal">
-                        <monogr>
-                              <author>Friedrich Wilhelm Graf</author>
-                              <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-                              <imprint>
-                                    <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
-                                    <date when="2020">2020</date>
-                                    <biblScope>S. 26–170, hier: 114</biblScope>
-                              </imprint>
-                        </monogr>
-                        <series>
-                              <title>Zeitschrift für Neuere Theologiegeschichte</title>
-                              <biblScope>27/1</biblScope>
-                        </series>
-                  </biblStruct>
-            </listBibl>
-      </additional>
+<additional>
+<listBibl>
+<biblStruct type="journal">
+<monogr>
+<author>Friedrich Wilhelm Graf</author>
+<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+<imprint>
+<pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+<date when="2020">2020</date>
+<biblScope>S. 26–170, hier: 114</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Zeitschrift für Neuere Theologiegeschichte</title>
+<biblScope>27/1</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -89,18 +89,18 @@
 <revisionDesc status="approved">
 <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
 <change when="2024-01-18" who="AR">Initiale Auszeichnung des Transkripts</change>
-      <change when="2025-03-17" who="FS">Kollationierung</change>
+<change when="2025-03-17" who="FS">Kollationierung</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
 <body>
 <div type="writingSession">
 <pb n="1"/>
-      <p>Das Thema meines Heftes soll lauten<note type="ea">Daneben findet sich am linken Blattrand der Vermerk: "<choice><abbr><hi rend="u">not</hi></abbr><expan>notiert</expan></choice>".</note>: "<rs ref="#tillich__WLVL28EI" type="work">Das System der Wissenschaften nach Gegenständen und Methoden</rs>"<note type="ea">Darunter notiert <rs ref="#tillich_person_id__2569" type="person">Wilhelm Ruprecht</rs> interlinear: "Keine anziehendere Fassung möglich?"</note> – Falls keine höheren Gewalten, wie Krankheit etc. hindern, denke ich im Herbst mit meinem Heft fertig zu sein, so daß einer Erwähnung<note type="ea">Dazu notiert <rs ref="#tillich_person_id__2569" type="person">Wilhelm Ruprecht</rs>: "auf <rs ref="#tillich_person_id__1376" type="person">Natorp</rs>".</note> nichts im Wege steht; im Gegenteil!</p>
+<p>Das Thema meines Heftes soll lauten<note type="ea">Daneben findet sich am linken Blattrand der Vermerk: <q><choice><abbr><hi rend="u">not</hi></abbr><expan>notiert</expan></choice></q>.</note>: <q><rs ref="#tillich__WLVL28EI" type="work">Das System der Wissenschaften nach Gegenständen und Methoden</rs></q><note type="ea">Darunter notiert <rs ref="#tillich_person_id__2569" type="person">Wilhelm Ruprecht</rs> interlinear: <q>Keine anziehendere Fassung möglich?</q></note> – Falls keine höheren Gewalten, wie Krankheit etc. hindern, denke ich im Herbst mit meinem Heft fertig zu sein, so daß einer Erwähnung<note type="ea">Dazu notiert <rs ref="#tillich_person_id__2569" type="person">Wilhelm Ruprecht</rs>: <q>auf <rs ref="#tillich_person_id__1376" type="person">Natorp</rs></q>.</note> nichts im Wege steht; im Gegenteil!</p>
 <closer>
 <salute>Ergebenst</salute>
-      <signed>Dr. <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
-      <dateline><rs ref="#tillich_place_id__38" type="place">Friedenau</rs>, d. <date when="1920-06-20">20. Juni <sic>1920</sic></date>.</dateline>
+<signed>Dr. <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
+<dateline><rs ref="#tillich_place_id__38" type="place">Friedenau</rs>, d. <date when="1920-06-20">20. Juni <sic>1920</sic></date>.</dateline>
 </closer>
 </div>
 </body>

@@ -1,136 +1,122 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00169">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Alfred Fritz an Paul Tillich <lb/>vom 2. Juni 1907 </title>
-            <author ref="#tillich_person_id__641">Alfred Fritz</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00169" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Alfred Fritz an Paul Tillich <lb/>vom 2. Juni 1907 </title>
+<author ref="#tillich_person_id__641">Alfred Fritz</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/143(11)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/143(11)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
-               <placeName ref="#tillich_place_id__448">Tübingen</placeName>
-               <date when="1907-06-02">02.06.1907</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change when="2022-09-22" who="PS">Initiale Auszeichnung des Transkripts</change>
-         <change when="2024-02-09" who="NH">Vorbereitung/Korrektur für die Endabnahme</change>
-         <change when="2024-02-20" who="EL">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__448" type="place">Tübingen</rs>
-                  <date when="1907-06-02">2.VI. 07.</date></dateline>
-               <salute>Liebes <rs ref="#tillich_person_id__1928" type="person"
-                  >Paulchen</rs>!</salute>
-            </opener>
-            <p>Nun bist Du wieder zurück von Deinem Kriegspfad u. im alten Geleise. Da will ich Dir
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+<placeName ref="#tillich_place_id__448">Tübingen</placeName>
+<date when="1907-06-02">02.06.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-09-22" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-02-09" who="NH">Vorbereitung/Korrektur für die Endabnahme</change>
+<change when="2024-02-20" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__448" type="place">Tübingen</rs>
+<date when="1907-06-02">2.VI. 07.</date></dateline>
+<salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+</opener>
+<p>Nun bist Du wieder zurück von Deinem Kriegspfad u. im alten Geleise. Da will ich Dir
                von meinem Patmos ein paar Worte senden, zum Zeichen, daß ich noch ein wenig mit Dir
                lebe. Hoffentlich denkst Du auch manchmal in Deiner Höhe des mönchischen Inaktiven zu
                   <rs ref="#tillich_place_id__448" type="place">Tübs</rs>.</p>
-            <p>Ich habe mich sehr gefreut über alles, was ich von der <rs
-                  ref="#tillich_place_id__467" type="place">Wartburg</rs> von Dir hörte. Ich darf
+<p>Ich habe mich sehr gefreut über alles, was ich von der <rs ref="#tillich_place_id__467" type="place">Wartburg</rs> von Dir hörte. Ich darf
                Dir das ja ruhig schreiben, <del rend="s">weil</del> ohne <unclear>CW.</unclear> zu
                befürchten. <rs ref="#tillich_person_id__2155" type="person">Voget</rs> erzählte sehr
                erbaut u. die Andern bei allem Mißverstehen doch mit einer gewissen Achtung. Viel
                positives erreicht ist ja wohl nicht. Wo eben der Geist fehlt können wir ihn nicht
                hinblasen.</p>
-            <pb n="2"/>
-            <p>Nun kommt es mehr darauf an, daß <rs ref="#tillich_place_id__189" type="place"
-                  >Halle</rs> <rs ref="#tillich_place_id__189" type="place">Halle</rs> bleibt. Hast Du Hoffnung für
+<pb n="2"/>
+<p>Nun kommt es mehr darauf an, daß <rs ref="#tillich_place_id__189" type="place">Halle</rs> <rs ref="#tillich_place_id__189" type="place">Halle</rs> bleibt. Hast Du Hoffnung für
                die Jugend? <rs ref="#tillich_person_id__128" type="person">Hänschen</rs> wird sie ja
                wohl ordentlich ziehen. U. dann sollte immer stärker betont werden, daß ein Hallenser
                in anderen Verbindungen aktiv wird; dann erhalten wir allmählich das Übergewicht,
-               denn die Marburger <unclear cert="low">etc.</unclear> werden nicht mehr aktiv. <rs
-                  ref="#tillich_place_id__37" type="place">Be.</rs> können wir bald in unsere Herde
+               denn die Marburger <unclear cert="low">etc.</unclear> werden nicht mehr aktiv. <rs ref="#tillich_place_id__37" type="place">Be.</rs> können wir bald in unsere Herde
                bekommen u. gerade <rs ref="#tillich_place_id__37" type="place">Be</rs> ist ein
                günstiges Feld für einen modernen Wingolf. Dort fallen die Zöpfe am leichtesten ab u.
                   <rs ref="#tillich_place_id__189" type="place">Halles</rs> Bestrebungen sind ja
-               hochmodern (cf. Alkohol). – Die Reden <rs ref="#tillich_person_id__203" type="person"
-                  >Bertheaus</rs> u. <rs ref="#tillich_person_id__853" type="person"
-                  >Heinzelmanns</rs> sind ja scheints hochbegabt gewesen. Wäre es nicht möglich, daß
-               jetzt die Historiographie v. <unclear cert="low">WS.</unclear> die noch nicht er<pb
-                  n="3"/>schienen ist, ausgesandt würde mit einem Anhang "unsere Stellung bis zur
-               Beendigung der Streitigkeiten auf der <rs ref="#tillich_place_id__467" type="place"
-                  >Wartburg</rs>" u. unsere Stellung auf der <rs ref="#tillich_place_id__467"
-                  type="place">Wartburg</rs>." Dabei dann besonders eine <del rend="s">kurze</del>
-               Kürzung aus den Reden <rs ref="#tillich_person_id__203" type="person"><hi rend="aq"
-                     >Berth.</hi></rs> u. <rs ref="#tillich_person_id__853" type="person"><hi
-                     rend="aq">Manzels</hi></rs>, wo das alles noch einmal gesagt wird, was wir
+               hochmodern (cf. Alkohol). – Die Reden <rs ref="#tillich_person_id__203" type="person">Bertheaus</rs> u. <rs ref="#tillich_person_id__853" type="person">Heinzelmanns</rs> sind ja scheints hochbegabt gewesen. Wäre es nicht möglich, daß
+               jetzt die Historiographie v. <unclear cert="low">WS.</unclear> die noch nicht er<pb n="3"/>schienen ist, ausgesandt würde mit einem Anhang <q>unsere Stellung bis zur
+               Beendigung der Streitigkeiten auf der <rs ref="#tillich_place_id__467" type="place">Wartburg</rs></q> u. unsere Stellung auf der <rs ref="#tillich_place_id__467" type="place">Wartburg</rs>. Dabei dann besonders eine <del rend="s">kurze</del>
+               Kürzung aus den Reden <rs ref="#tillich_person_id__203" type="person"><hi rend="aq">Berth.</hi></rs> u. <rs ref="#tillich_person_id__853" type="person"><hi rend="aq">Manzels</hi></rs>, wo das alles noch einmal gesagt wird, was wir
                positiv <hi rend="u">praktisch</hi> wollen (also nicht in Form der Kritik).</p>
-            <p>Die Reden sind eben nur von den Chargierten gehört u. wie ich mich überzeugte (bei
-                     <unclear><hi rend="aq"><rs ref="#tillich_person_id__2879" type="person"
-                        >Eisenmann</rs></hi></unclear>), ist der Eindruck schon verflogen, vor allem
+<p>Die Reden sind eben nur von den Chargierten gehört u. wie ich mich überzeugte (bei
+                     <unclear><hi rend="aq"><rs ref="#tillich_person_id__2879" type="person">Eisenmann</rs></hi></unclear>), ist der Eindruck schon verflogen, vor allem
                wissen die Verbindungen als solche nichts davon. <del rend="s">Dabei</del> Jetzt
                könnte man bei Philistern u. Aktiven auf Interesse einer solchen Darlegung gegenüber
-               rechnen. <rs ref="#tillich_person_id__203" type="person"><hi rend="aq"
-                  >Bertheau</hi></rs> u. <rs ref="#tillich_person_id__853" type="person"><hi
-                     rend="aq">Manzel</hi></rs> wären sicher gerne bereit, so etwas zu verfassen. –
+               rechnen. <rs ref="#tillich_person_id__203" type="person"><hi rend="aq">Bertheau</hi></rs> u. <rs ref="#tillich_person_id__853" type="person"><hi rend="aq">Manzel</hi></rs> wären sicher gerne bereit, so etwas zu verfassen. –
                Doch das nur zur Anregung. Der eigentliche Kampf<pb n="4"/> beginnt jetzt erst,
                nachdem wir frei sind von theoretischen Erörterungen, doch nun auch etwas von uns
                hier. Viel ist nicht zu berichten. Wir leben sehr bieder dahin. Morgends Kolleg. Vor
@@ -138,20 +124,19 @@
                viel Geist u. Prolese. Dann Dogmengeschichte u. Hebräisch. Alle 14 Tage Kneipe.
                Abendessen mit irgend einem zu verderbenden Füxlein. Schlaf eines ruhigen Gewissens.
                Mit einem Wort Philiströsität.</p>
-            <p>Aber Pfingsten lebte ich sehr stille zu Hause. Meine Mutter ist sehr elend u.
+<p>Aber Pfingsten lebte ich sehr stille zu Hause. Meine Mutter ist sehr elend u.
                besonders ihre Augen beinahe blind. So hat man sein ordentlich Teilchen Last durch
                den schönen Frühling zu schleppen. Doch geht es ja, weil einem die Flügel geschenkt
                sind. – <rs ref="#tillich_person_id__1696" type="person">Hermann</rs> schickte mir
                Deine Throtapauke, sehr begabt, aber etwas zu sehr Predigt. Gieb acht, daß nicht die
                Römerpredigt in <rs ref="#tillich_place_id__189" type="place">Halle</rs> einreißt,
                die Gefahr war schon letztes Semester da.</p>
-            <closer>
-               <salute>Grüße xx<note type="ea">Als XX bezeichnet man einen Zweitchargierten oder Fuxmajor. Der XX ist für neu eingetretene Füxe (X) verantwortlich.</note> u. das <choice><abbr>AHC</abbr><expan>Alt-Häuser-Collegium</expan></choice>mitglied<note type="ea">Gremium, das die Beschlüsse des Convents vorbereitet.</note> <rs ref="#tillich_person_id__2162" type="person"
-                     >Lorenz</rs>.</salute>
-               <signed>Dein <rs ref="#tillich_person_id__641" type="person">Alfred</rs> in
+<closer>
+<salute>Grüße xx<note type="ea">Als XX bezeichnet man einen Zweitchargierten oder Fuxmajor. Der XX ist für neu eingetretene Füxe (X) verantwortlich.</note> u. das <choice><abbr>AHC</abbr><expan>Alt-Häuser-Collegium</expan></choice>mitglied<note type="ea">Gremium, das die Beschlüsse des Convents vorbereitet.</note> <rs ref="#tillich_person_id__2162" type="person">Lorenz</rs>.</salute>
+<signed>Dein <rs ref="#tillich_person_id__641" type="person">Alfred</rs> in
                   Treue.</signed>
-            </closer>
-         </div>
-      </body>
-   </text>
+</closer>
+</div>
+</body>
+</text>
 </TEI>

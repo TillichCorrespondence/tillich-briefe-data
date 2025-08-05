@@ -1,93 +1,91 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00807">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Margot Hahl an Paul Tillich <lb/>von 1924</title>
-            <author ref="#tillich_person_id__757">Margot Hahl</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="L00807" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Margot Hahl an Paul Tillich <lb/>von 1924</title>
+<author ref="#tillich_person_id__757">Margot Hahl</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/147</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/147</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__757">Margot Hahl</persName>
-               <placeName ref="#tillich_place_id__485">Völklingen</placeName>
-               <date when="1924">1924</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         </correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-06-01">Initiale Auszeichnung des Transkripts</change>
-         <change who="FS" when="2024-01-15">Endabnahme</change>
-
-
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
-            </opener>
-            <p>Habt Ihr schon einmal an mich gedacht? Schon einen ganzen Monat sind wir jetzt hier
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__757">Margot Hahl</persName>
+<placeName ref="#tillich_place_id__485">Völklingen</placeName>
+<date when="1924">1924</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-06-01" who="PS">Initiale Auszeichnung des Transkripts</change>
+<change when="2024-01-15" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+</opener>
+<p>Habt Ihr schon einmal an mich gedacht? Schon einen ganzen Monat sind wir jetzt hier
                und es ist so schön und wir zwei werden jeden Tag froher. Ich hatte das nie so
                gedacht, daß es immer schöner würde je länger man zusammen wäre. Aber es ist so, daß
                sich die Tiefen erst ganz langsam auftun und man ganz sacht und langsam hinter die
@@ -102,7 +100,7 @@
                Sekunde meines Lebens erleben durfte. Hier in der Ruhe kann ich das alles jetzt noch
                einmal an mir vorüberziehen lassen und geformt kommt so vieles wieder empor, nur daß
                ich jetzt wissend bin, oder wissender. Viele Stunden bin ich am Tag allein, in denen ich für mich tun kann, was ich will. Ich lese <rs ref="#tillich_person_id__1826" type="person">Spengler</rs> <rs ref="#tillich__ASRY9C7Q" type="work">II</rs>, mit und ohne Opposition. Ich lebe jetzt eigentlich
-               "geschichtslos" wie ein Tier, bald eine fettwerdende Kuh, bald auch irgend eine
+               <q>geschichtslos</q> wie ein Tier, bald eine fettwerdende Kuh, bald auch irgend eine
                Raubkatze. Viel faulenze ich, und<pb n="2"/> nach den hetzigen Jahren tat das so
                unendlich gut. Und es ist eben eine Faulenzerei, die Sinn hat, denn die Stunden, die
                ich dabei mit <rs ref="#tillich_person_id__574" type="person">Erich</rs> verbringe sind so schwer
@@ -115,7 +113,7 @@
                wieder so einen weichen Mund, und seine Stimme wird viel tiefer und klangvoller noch.
                In allem durchschaut er mich immer. Und stolz bin ich auf ihn, er ist wohl der
                klügste und begabteste unter den jungen Ingenieuren die hier sind, und wird von
-               "oben" mit ganz sanften Händen angefaßt. Viele der Ingenieure sind so richtig eklige
+               <q>oben</q> mit ganz sanften Händen angefaßt. Viele der Ingenieure sind so richtig eklige
                Kerle, die nur arbeiten und saufen. Andere sind aber dann so ganz anders, sehr
                lebendig und offen für alles, oft ganz stark künstlerisch irgendwo, und manchmal
                sagen sie dann so was, daß man ganz erstaunt aufhorcht. Ich werde von meinem
@@ -123,7 +121,7 @@
                Seite des Lebens kennen lerne. Die sehen alle poetischen, wirtschaftlichen und
                philosophischen Fragen von einer ganz anderen Seite her, manchmal aber ganz fein, und
                ich lerne viel davon. Den Arbeitern gegenüber merkt man nichts von
-                  kapitalistischem<pb n="3"/> Hochmut, aber auch nichts von "socialem Empfinden".
+                  kapitalistischem<pb n="3"/> Hochmut, aber auch nichts von <q>socialem Empfinden</q>.
                Die sind einfach ihre Kameraden. Eigentlich sind sie Socialisten allesamt in dem, was
                sie tun. Das Schönste von <rs ref="#tillich_place_id__637" type="place">Völklingen</rs> ist die Hütte. Neulich Nachts war ich mit
                   <rs ref="#tillich_person_id__574" type="person">Erich</rs> die Schlackenmühle inspizieren, es lag
@@ -151,13 +149,10 @@
                so gern jetzt drin. Jetzt wißt Ihr alles und fühlt wohl, wie schön es ist. Schreibt
                mir einmal wieder, denn ich möchte gern auch als <rs ref="#tillich_person_id__757" type="person">Margot Faust</rs> mit teilhaben an Deiner
                Arbeit und dem, was Euch das Leben bringt.</p>
-            <closer>
-              
-               <signed>Eure <rs ref="#tillich_person_id__757" type="person">Margot</rs>.</signed>
-            </closer>
-
-         </div>
-
-      </body>
-   </text>
+<closer>
+<signed>Eure <rs ref="#tillich_person_id__757" type="person">Margot</rs>.</signed>
+</closer>
+</div>
+</body>
+</text>
 </TEI>
