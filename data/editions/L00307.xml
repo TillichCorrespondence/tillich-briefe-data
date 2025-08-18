@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00307">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Muth an Tillich, Paul <lb/>vom den 28.4.12 </title>
+<author ref="#tillich_person_id__3007">Muth</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+ <country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<collection>archive_collection</collection>
+<idno>-</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__3007">Muth</persName>
+<placeName ref="#tillich_place_id__549">Nauen</placeName>
+<date when="1912-04-28">28.04.1912</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Tillich, Paul</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession" resp="tillich_person_id__3007">
+<pb n="1"/>
+<opener>
+
+<dateline><rs ref="#tillich_place_id__549" type="place">Nauen</rs>, <date when="1912-04-28">den 28.4.12</date></dateline>
+
+<salute>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr Tillich</rs>!</salute>
+
+</opener>
+
+<p>Sie würden mich und meine Frau sehr erfreuen, wenn Sie am Freitag, dem 3. Mai, um 8 Uhr ein Abendessen bei uns einnehmen wollten.</p>
+
+<closer>
+
+<salute>In Erwartung einer Zusage mit bestem Gruß</salute>
+
+<signed>Ihr <rs ref="#tillich_person_id__3007" type="person">Muth</rs>.</signed>
+
+</closer>
+</div>
+</body>
+</text>
+</TEI>
