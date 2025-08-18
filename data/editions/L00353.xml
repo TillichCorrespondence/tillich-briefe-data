@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00353">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Klutmann, Rudolf an Tillich, Paul <lb/>vom 9.3.13 </title>
+<author ref="#tillich_person_id__1070">Klutmann, Rudolf</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+ <country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>archive_collection</collection>
+<idno>bMS 649/209(11)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1070">Klutmann, Rudolf</persName>
+<placeName ref="#tillich_place_id__38">Friedenau</placeName>
+<date when="1913-03-09">09.03.1913</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Tillich, Paul</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession" resp="#tillich_person_id__1070">
+<pb n="1"/>
+<opener>
+
+<dateline><rs ref="#tillich_place_id__38" type="place">Friedenau</rs>, d. <date when="1913-03-09">9.3.13</date></dateline>
+
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr Tillich</rs>.</salute>
+
+</opener>
+
+<p>Am Sonnabend habe<lb/>ich der <rs type="person" ref="#tillich_person_id__3439">Exl. Dernburg</rs> ausführlich Vortrag<lb/>gehalten während es <rs ref="#tillich_person_id__2403" type="person">Frau v. Mendelssohn</rs><lb/>gegenüber nur zu Andeutungen kam.<lb/>Beide hörten mit Intresse zu und ich glaube<lb/>bei einiger Vorsicht läßt sich hier schon etwas<lb/>erreichen. Ihr persönlicher Besuch wird vorläufig<lb/>unwichtig u. unnötig sein. Ich<lb/>schreibe Ihnen sogleich, wenn ich etwas<lb/>Positives erreicht habe oder wenn Ihre<lb/>Gegenwart notwendig<lb/>ist. <rs type="person" ref="#tillich_person_id__3440">Frl. Cohn</rs> sehe ich heute<lb/>und ich werde ihr die Adresse angeben.<lb/>Vielen Dank für Ihre Bemühungen!</p>
+
+<closer>
+
+<salute>Herzlichen Gruß und gute<lb/>Erholung (unter Ausschaltung der<lb/>Kopfarbeit!)</salute>
+
+<signed>Ihr <rs ref="#tillich_person_id__1070" type="person">Klutmann</rs></signed>
+
+</closer>
+</div>
+</body>
+</text>
+</TEI>
