@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01556">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Frank D. Fackenthal (Columbia University) an Paul Tillich <lb/>vom 16. August 1933</title>
+            <author ref="#tillich_person_id__3698">Frank D. Fackentahl</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/132(1)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__3698">Frank D. Fackenthal</persName>
+               <date when="1933-08-16">16.08.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="eng">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="FS" when="2025-08-27">Initiale Auszeichnung des Transkripts</change>
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+               <date when="1933-08-16">August 16, 1933</date><lb/>
+               Professor <rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs><lb/>
+               University of Frankfort am Main<lb/>
+               <rs ref="#tillich_place_id__143" type="place">Frankfort am Main</rs>, <rs ref="#tillich_place_id__122" type="place">Germany</rs></dateline>
+               <salute>Dear Professor <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>:</salute>
+            </opener>
+            <p>On the nomination of the Department of Philosophy and in cooperation with Union Theological Seminary, President <rs ref="#tillich_person_id__3699" type="person">Butler</rs> directs me to extend to you an invitation to be Visiting Lecturer in Philosophy at Columbia University for the academic year 1933–34. The stipend of the Lectureship will be $1,200 paid in twelve installments, but the instruction will consist of thirty lectures to be given in the Spring Session. This arrangement will leave the Winter Session free for the acceptance by you of invitations from other institutions and organizations for lectures and conferences.</p>
+            <p>The officers of Union Theological Seminary have, I think, some suggestion to make to you in regard to living quarters but they will communicate with you direct.</p>
+            <p>We hope very much that you will find it possible to accept this invitation.</p>
+            <closer>
+               <salute>With expressions of regard, I remain<lb/>
+               Sincerely yours,</salute>
+               <signed><rs ref="#tillich_person_id__3698" type="person">Frank D. Fackenthal</rs></signed>
+            </closer>
+
+
+         </div>
+
+      </body>
+   </text>
+</TEI>
