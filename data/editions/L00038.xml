@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01279">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00038">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Brief von Paul Tillich an Wingolfsbrüder <lb/>vom 14. Mai 1907</title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <title>Postkarte von nicht ermittelbarem Großonkel und nicht ermittelbarer Großtante an <lb/>vom 22. November 1904</title>
+                <author ref="#tillich_person_id__2941">Nicht ermittelbarer Großonkel</author>
+                <author ref="#tillich_person_id__2940">Nicht ermittelbare Großtante</author>
                 <respStmt>
                     <resp>Editor</resp>
                     <name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
@@ -22,10 +23,7 @@
                     <address>
                         <street>Schenkenstraße 8-10</street>
                         <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
+                        <placeName ref="#tillich_place_id__470">Wien</placeName>
                     </address>
                 </publisher>
                 <availability>
@@ -36,14 +34,15 @@
             <sourceDesc>
                 <msDesc type="manuscript">
                     <msIdentifier>
-                        <country>Deutschland</country>
-                        <settlement ref="#tillich_place_id__68">Bonn</settlement>
-                        <institution>Bonner Wingolf</institution>
-                        <repository>Archiv des Bonner Wingolfs</repository>
-                        <idno>2849/93</idno>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                        <idno>bMS 649/193(26)</idno>
                     </msIdentifier>
                     <physDesc>
-                        <p>Brief, eigenhändig</p>
+                        <p>Postkarte, eigenhändig</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -60,12 +59,12 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich </persName>
-                    <placeName ref="#tillich_place_id__189">Halle</placeName>
-                    <date when="1907-05-07">07.05.1907</date>
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1904-11-22">22.11.1904</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#tillich_person_id__2083">Wingolf Verbindung</persName>
+                    <persName ref="#tillich_person_id__2941">Nicht ermittelbarer Großonkel</persName>
+                        <persName ref="#tillich_person_id__2940">Nicht ermittelbare Großtante</persName>
                 </correspAction>
             </correspDesc>
             <langUsage>
@@ -73,26 +72,22 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="approved">
-            <change who="EL" when="2025-08-19">Initiale Auszeichnung des Transkripts</change>
+            <change when="2025-09-10" who="EL">Initiale Auszeichnung des Transkripts</change>
         </revisionDesc>
     </teiHeader>
-    <text type="postcard">
+    <text type="letter">
         <body>
             <div type="writingSession">
                 <pb n="1"/>
                 <opener>
-                    <dateline><hi rend="print">Verbindung Wingolf, <rs ref="#tillich_place_id__189" type="place">Halle a. S.</rs>
-                        <lb/>Den</hi><date when="1907-05-14">14 Mai <hi rend="print">190</hi>7</date></dateline>
-                    <figure><figDesc>[Darstellung: Wappen mit Wingolfzirkel (Halle).</figDesc></figure>
-                    Liebe Brüder! Herzlichen Gruß zuvor!
+                    <dateline>W. 15 Düsseldorferstr. 100
+                    <date when="1904-11-22">22.IX.04.</date></dateline>
+                    <salute>Mein lieber <rs type="person" ref="#tillich_person_id__1928"
+                        >Paul</rs>!</salute>
                 </opener>
-                <p><del rend="s"><unclear>Für das</unclear> Aktivitätsprinzip</del>
-                <unclear>Für den</unclear> Ch-C stellen wir folgende Anträge, die </p>
-                <closer>
-                    Mit herzlichen <unclear>??grüßen</unclear>
-                    Der Hallenser Wingolf
-                    I. N. F. A.
-                    <signed><rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs></signed> dzt. x.<lb/><figure><figDesc>[Darstellung: Wappen mit Wingolfzirkel (Halle).</figDesc></figure>
+                <p>Herzlich freuen wir uns mit Dir, deinem lieben <rs type="person" ref="#tillich_person_id__1924">Vater</rs> und Allen, die wie wir Dich lieb haben, über die frohe Botschaft von gestern, und werden, sobald die Umstände es erlauben, noch persönlich die unsern Glück- u. Segenswünsche für die mit <unclear>???</unclear> bedeutsamen Tage beginnenden neuen Lebensabschnitt bringen.</p>                <closer>
+                    <salute>Sei herzlich gegrüßt von </salute>
+                    <signed><rs type="person" ref="#tillich_person_id__2941">Großonkel</rs> u <rs type="person" ref="#tillich_person_id__2940">Großtante</rs> <unclear>???</unclear></signed>
                 </closer>
             </div>
         </body>
