@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01119">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an das Kuratorium des Goethe-Preises der Stadt Frankfurt am Main
+                    <lb/>vom 31. Mai 1932
+               </title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement>Frankfurt/Main</settlement>
+<institution>Goethe-Universität Frankfurt</institution>
+<repository>Universitätsbibliothek Johann Christian Senckenberg</repository>
+<collection>Nachlass Alfons Paquet</collection>
+<idno>Nachl. Paquet (I), A II, 417</idno>
+</msIdentifier>
+<physDesc>
+    <p>Brief, maschinenschriftlich</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+<date when="1932-05-31">31.05.1932</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__3771">Kuratorium des Goethe-Preises der Stadt Frankfurt am Main</persName>
+<placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2025-09-17" who="FS">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline>DER DEKAN DER PHILOSOPHISCHEN FAKULTÄT<lb/>
+UNIVERSITÄT FRANKFURT A. M.<lb/>
+    DEN <date when="1932-05-31">31. Mai 1932</date>.</dateline>
+    
+    <salute><hi rend="u">Auf das Schreiben vom <date when="1932-05-15">15. d. Mts.</date></hi><note type="ea">Dieses Schreiben liegt nicht vor.</note></salute>
+</opener>
+    <p>Die Philosophische Fakultät hat zum Nachfolger des Herrn Professor <rs ref="#tillich_person_id__2477" type="person">Dr. Naumann</rs> im Kuratorium des Frankfurter Goethe-Preises Herrn Professor Dr. <hi rend="g"><rs ref="#tillich_person_id__1928" type="person">Tillich</rs></hi> bestimmt.</p>
+    <closer><salute>Mit dem Ausdruck der vorzüglichsten Hochachtung</salute>
+<signed><rs ref="#tillich_person_id__1928" type="person">Tillich</rs></signed>
+</closer>    
+<postscript><p>An das<lb/>
+Kuratorium des Goethe-Preises<lb/>
+    der Stadt <rs ref="#tillich_place_id__143" type="place">Frankfurt a.M.</rs><lb/>
+<hi rend="u">Hier</hi><lb/>
+Wolfgangstr. 122.</p></postscript>
+</div>
+</body>
+</text>
+</TEI>
