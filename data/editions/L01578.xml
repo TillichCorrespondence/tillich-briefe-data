@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01578">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Undatierte Postkarte von Wingolfsbrüder an Paul Tillich, <lb/>ungefähr aus dem Jahr 1907</title>
+                <author ref="#tillich_person_id__2083">Wingolfsbrüder</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">Wien</placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                        Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                        <idno>bMS 649/209(2)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte (Motiv: Wingolfwappen (Tübingen), Aufschrift: Wingolf sei&apos;s Panier! <foreign xml:lang="grc">ΔΙ ΕΝΟΣ ΠΑΝΤΑ!</foreign>), eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__2083">Wingolfsbrüder</persName>
+                    <date notBefore="1907-01-01" notAfter="1907-12-31">1907</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-09-22" who="EL">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Lieber <rs type="person" ref="#tillich_person_id__1928"
+                        >Paul</rs>!</salute>
+                </opener>
+                <p>Der Verbindung senden am Tage Ihrer K in treuem Gedenken und herzlicher Dankbarkeit ihre Grüße</p>
+                <closer>
+                    <signed><rs type="person" ref="#tillich_person_id__1050">Albert Kilger</rs>, theol <figure><figDesc>[Darstellung: Wingolfzirkel (Halle).]</figDesc></figure><lb/>Herzl. Gruß <unclear>??? ???</unclear> <figure><figDesc>[Darstellung: Wingolfzirkel (Halle).]</figDesc></figure> <figure><figDesc>[Darstellung: Wingolfzirkel (Tübingen).]</figDesc></figure><unclear>??? ???</unclear> <figure><figDesc>[Darstellung: Wingolfzirkel (Halle).]</figDesc></figure> <pb n="2"/>Herzlichen Gruß <rs type="person" ref="#tillich_person_id__641">A. Fritz</rs>. <figure><figDesc>[Darstellung: Wingolfzirkel (Tübingen).]</figDesc></figure> <figure><figDesc>[Darstellung: Wingolfzirkel (Halle).]</figDesc></figure>(x)
+                        Ebenso <rs type="person" ref="#tillich_person_id__2155">Joh Voget</rs>
+                        Herzl Gruß <rs type="person" ref="#tillich_person_id__2170">Daniel</rs><figure><figDesc>[Darstellung: Wingolfzirkel (Halle).]</figDesc></figure>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
