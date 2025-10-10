@@ -85,7 +85,7 @@
 
         <!-- required core elements (p and title for use in titleStmt) -->
         <moduleRef key="core"
-          include="p title head milestone lg list bibl listBibl expan l label item editor ptr foreign add sic choice abbr series imprint biblStruct monogr pubPlace del biblScope unclear note respStmt resp postCode street address publisher author hi lb name pb date rs"/>
+          include="p q title head milestone lg list bibl listBibl expan l label item editor ptr foreign add sic choice abbr series imprint biblStruct monogr pubPlace del biblScope unclear note respStmt resp postCode street address publisher author hi lb name pb date rs"/>
 
         <!-- required textstructure elements (TEI, text, and body) -->
         <moduleRef key="textstructure"
@@ -127,6 +127,30 @@
             </attDef>
           </attList>
         </elementSpec>
+
+        <!-- Make the closer element more flexible to allow also salute -->
+<elementSpec ident="closer" mode="change" module="textstructure">
+  <content>
+    <alternate minOccurs="0" maxOccurs="unbounded">
+      <textNode/>
+      <classRef key="model.gLike"/>
+      <elementRef key="signed"/>
+      <elementRef key="dateline"/>
+      <elementRef key="salute"/>
+      <classRef key="model.phrase"/>
+      <classRef key="model.global"/>
+    </alternate>
+  </content>
+</elementSpec>
+
+<!-- Make salute more flexible about where it can appear -->
+<elementSpec ident="salute" mode="change" module="textstructure">
+  <classes mode="change">
+    <memberOf key="model.divWrapper" mode="add"/>
+    <memberOf key="model.divTopPart" mode="add"/>
+    <memberOf key="model.divBottomPart" mode="add"/>
+  </classes>
+</elementSpec>
         
         <constraintSpec ident="check_note_seg" scheme="schematron">
           <constraint xmlns:s="http://purl.oclc.org/dsdl/schematron">
