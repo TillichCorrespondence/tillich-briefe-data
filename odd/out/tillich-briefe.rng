@@ -4,7 +4,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2025-10-10T08:54:39Z. . 
+Schema generated from ODD source 2025-10-10T10:10:03Z. . 
 TEI Edition: P5 Version 4.10.2. Last updated on 4th September 2025, revision bcfa98f42 
 TEI Edition Location: https://www.tei-c.org/Vault/P5/4.10.2/ 
   
@@ -4359,52 +4359,16 @@ Suggested values include: 1] sent; 2] received; 3] transmitted; 4] redirected; 5
    <define name="tei_div">
       <element name="div">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(text division) contains a subdivision of the front, body, or back of a text. [4.1. Divisions of the Body]</a:documentation>
-         <group>
-            <zeroOrMore>
-               <choice>
-                  <ref name="tei_model.divTop"/>
-                  <ref name="tei_model.global"/>
-               </choice>
-            </zeroOrMore>
-            <rng:optional xmlns:rng="http://relaxng.org/ns/structure/1.0">
-               <rng:group>
-                  <rng:choice>
-                     <oneOrMore>
-                        <rng:choice>
-                           <rng:ref name="tei_model.divLike"/>
-                           <rng:ref name="tei_model.divGenLike"/>
-                        </rng:choice>
-                        <rng:zeroOrMore>
-                           <rng:ref name="tei_model.global"/>
-                        </rng:zeroOrMore>
-                     </oneOrMore>
-                     <group>
-                        <oneOrMore>
-                           <rng:ref name="tei_model.common"/>
-                           <rng:zeroOrMore>
-                              <rng:ref name="tei_model.global"/>
-                           </rng:zeroOrMore>
-                        </oneOrMore>
-                        <rng:zeroOrMore>
-                           <rng:choice>
-                              <rng:ref name="tei_model.divLike"/>
-                              <rng:ref name="tei_model.divGenLike"/>
-                           </rng:choice>
-                           <rng:zeroOrMore>
-                              <rng:ref name="tei_model.global"/>
-                           </rng:zeroOrMore>
-                        </rng:zeroOrMore>
-                     </group>
-                  </rng:choice>
-                  <rng:zeroOrMore>
-                     <rng:ref name="tei_model.divBottom"/>
-                     <rng:zeroOrMore>
-                        <rng:ref name="tei_model.global"/>
-                     </rng:zeroOrMore>
-                  </rng:zeroOrMore>
-               </rng:group>
-            </rng:optional>
-         </group>
+         <zeroOrMore>
+            <choice>
+               <ref name="tei_model.divTop"/>
+               <ref name="tei_model.global"/>
+               <ref name="tei_model.divLike"/>
+               <ref name="tei_model.divGenLike"/>
+               <ref name="tei_model.common"/>
+               <ref name="tei_model.divBottom"/>
+            </choice>
+         </zeroOrMore>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
                   xmlns:rng="http://relaxng.org/ns/structure/1.0"
                   id="tillich-briefe-div-abstractModel-structure-div-in-l-constraint-rule-17">
@@ -4427,9 +4391,9 @@ Suggested values include: 1] sent; 2] received; 3] transmitted; 4] redirected; 5
         </sch:report>
             </sch:rule>
          </pattern>
+         <ref name="tei_att.divLike.attributes"/>
          <ref name="tei_att.global.attributes"/>
          <ref name="tei_att.declaring.attributes"/>
-         <ref name="tei_att.divLike.attributes"/>
          <ref name="tei_att.placement.attributes"/>
          <ref name="tei_att.typed.attributes"/>
          <ref name="tei_att.written.attributes"/>

@@ -152,6 +152,23 @@
   </classes>
 </elementSpec>
         
+        <!-- make div also flexible to allow for classes to appear in any order (problem with pb before p) -->
+        <elementSpec ident="div" mode="change" module="textstructure">
+          <classes mode="change">
+            <memberOf key="att.divLike" mode="add"/>
+          </classes>
+          <content>
+            <alternate minOccurs="0" maxOccurs="unbounded">
+              <classRef key="model.divTop"/>
+              <classRef key="model.global"/>
+              <classRef key="model.divLike"/>
+              <classRef key="model.divGenLike"/>
+              <classRef key="model.common"/>
+              <classRef key="model.divBottom"/>
+            </alternate>
+          </content>
+        </elementSpec>
+        
         <constraintSpec ident="check_note_seg" scheme="schematron">
           <constraint xmlns:s="http://purl.oclc.org/dsdl/schematron">
             <s:rule context="tei:rs[@type='letter']">
