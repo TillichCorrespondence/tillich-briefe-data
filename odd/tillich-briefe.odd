@@ -142,6 +142,20 @@
     </alternate>
   </content>
 </elementSpec>
+<!-- opener to allow custom order of elements-->
+<elementSpec ident="opener" mode="change" module="textstructure">
+  <content>
+    <alternate minOccurs="0" maxOccurs="unbounded">
+      <textNode/>
+      <classRef key="model.gLike"/>
+      <classRef key="model.phrase"/>
+      <elementRef key="dateline"/>
+      <elementRef key="salute"/>
+      <elementRef key="signed"/>
+      <classRef key="model.global"/>
+    </alternate>
+  </content>
+</elementSpec>
 
 <!-- Make salute more flexible about where it can appear -->
 <elementSpec ident="salute" mode="change" module="textstructure">
