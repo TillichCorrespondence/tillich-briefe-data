@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00300">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich vermutlich an Geheimrat Loofs <lb/>vom 14. März 1912</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__189">Halle</settlement>
+<institution>Universitätsarchiv Halle</institution>
+<repository>Universitätsarchiv Halle</repository>
+<collection></collection>
+<idno>Rep. 27 Nr. 855</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1912-03-14">14.03.1912</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#XXXX">Herrn Geheimrat [Loofs?]</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<pb n="1"/>
+<div type="writingSession">
+<opener><dateline><date when="1912-03-14">Donnerstag, d. 14. März 1912</date></dateline><salute>Hochgeehrter <rs type="person" ref="#XXXX">Herr Geheimrat</rs>!</salute></opener>
+<p>Der <date when="1912-04-22">22. April</date> als Datum meiner Disputation ist mir durchaus recht. Ich werde mir dann erlauben, am Sonnabend, resp. Sonntag vorher Ihnen, wie den übrigen <rs type="person" ref="#XXXX">Herrn Dozenten</rs> ein Exemplar meiner Dissertation zu überreichen.</p>
+<closer><salute>Ihr sehr ergebener</salute><signed><rs type="person" ref="#tillich_person_id__1928">Dr. P. Tillich</rs>.</signed></closer>
+</div>
+</body>
+</text>
+</TEI>
