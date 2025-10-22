@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00250">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Hans Balke an Paul Tillich <lb/>vom 11. Dezember 1907 </title>
+            <author ref="#tillich_person_id__128">Hans Balke</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/122(40)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__128">Hans Balke</persName>
+               <placeName ref="#tillich_place_id__189">Halle</placeName>
+               <date when="1907-12-11">11.12.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-09-13">Intitale Auszeichnung des Transkripts</change>
+         <change who="NH" when="2024-02-23">Vorbereitung/Korrektur für die Endabnahme</change>
+         <change who="PS" when="2024-02-26">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__189" type="place">Halle</rs>, den <date
+                     when="1907-12-11">11. Dez. 07.</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
+            </opener>
+            <p>Da Du nicht zu mir kommen willst, hätte ich sehr grosse Lust, zu Dir zu kommen; denn
+               mich verlangt mal wieder nach Dir. Würde es Dir <hi rend="u">sehr</hi>
+               <hi rend="u">gut</hi> passen, wenn ich Mittwoch, den 18. morgens käme u. bis
+               Donnerstag oder Freitag bliebe. Antworte mir bitte <hi rend="u">ganz</hi>
+               <hi rend="u">offen</hi>, u. zwar umgehend, da <rs ref="#tillich_person_id__2160"
+                  type="person">Phil. Winkler</rs> mich nach <rs type="place"
+                  ref="#tillich_place_id__627">Meisdorf</rs> eingeladen hat, u. ich ihn dann
+               besuchen würde. Verzeih die freche Anfrage, wenn es nicht sehr gut geht, schreibst
+               Du's ja offen.</p>
+            <p>Ferner: <rs ref="#tillich_person_id__2194" type="person">Buss</rs> (Erl.<expan><rs
+                     type="place" ref="#tillich_place_id__136">Erlangen</rs></expan> Ha.<expan><rs
+                     type="place" ref="#tillich_place_id__189">Halle</rs></expan>) ist aus nichtigen
+               Gründen von <rs type="place" ref="#tillich_place_id__136"><choice>
+                     <abbr>Erl.</abbr>
+                     <expan>Erlangen</expan>
+                  </choice></rs> bis Pfingsten 08 dimittiert. Wir bitten zunächst um eingehendere
+               Motivierung; wenn <rs ref="#tillich_person_id__2194" type="person">Buss</rs> die
+               Strafe nicht annimmt u <unclear cert="high">i. p.</unclear> dimittiert wird, können
+               wir ihn schützen? Ich fürchte nicht. </p>
+            <closer>
+               <salute>In rasender Eile</salute>
+               <signed>Dein <rs ref="#tillich_person_id__128" type="person">Hans</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
