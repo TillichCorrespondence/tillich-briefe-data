@@ -79,16 +79,17 @@
       <revisionDesc status="approved">
          <change who="GM" when="2023-07-11">Initiale Auszeichnung des Transkripts</change>
          <change who="PS" when="20224-01-15">Endabnahme</change>
+         <change who="EL" when="2025-10-29">Erklärenende Anmerkungen überprüft und ergänzt</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <opener> Der Preußische Minister für Wissenschaft, Kunst und Volksbildung<lb/>
-               <hi rend="u">UI Nr. 5874.1</hi> Bei Beantwortung wird um Angabe der Geschäftsnummer gebeten.<lb/>
-               <dateline><rs ref="#tillich_place_id__37" type="place">Berlin W8</rs> den <date when="1924-06-12">24. April 1924.</date>
-                  Unter den Linden 4 Fernsprecher: Zentrum 11340–11343</dateline>
+            <opener><hi rend="print">Der Preußische Minister für Wissenschaft, Kunst und Volksbildung<lb/>
+               <hi rend="u">UI Nr. 5874.1</hi> Bei Beantwortung wird um Angabe der Geschäftsnummer gebeten.</hi><lb/>
+               <dateline><hi rend="print"><rs ref="#tillich_place_id__37" type="place">Berlin W8</rs> den</hi> <date when="1924-06-12">24. April 1924.</date>
+                  <hi rend="print">Unter den Linden 4 Fernsprecher: Zentrum 11340–11343</hi></dateline>
             </opener>
             <p>Nachdem ich Sie zum nichtbeamteten außerordentlichen Professor ernannt habe,
                übersende ich Ihnen die darüber ausgefertigte Urkunde mit dem Bemerken, daß Sie durch
@@ -97,9 +98,8 @@
                Staat, insbesondere nicht auf Übertragung eines planmäßigen Lehrstuhls.</p>
             <closer>
                <salute>In Vertretung</salute>
-               <signed><unclear reason="illegible"><rs type="person">???</rs></unclear></signed><add resp="P02463"><hi rend="u"><unclear>tgl.</unclear> Nr. 1667</hi><lb/>Gesehen!<lb/>
-                  Marburg, den 29. April 1924 <figure type="stamp">
-                     <p>Universitätskurator.</p>
+               <signed><unclear reason="illegible"><rs type="person">???</rs></unclear></signed><add resp="#tillich_person_id__2458"><hi rend="u"><unclear>tgl.</unclear> Nr. 1667</hi><lb/>Gesehen!<lb/>
+                  Marburg, den <date when="1924-04-29">29. April 1924</date> <figure type="stamp"><p>[Stempel: Universitätskurator.]</p>
                   </figure>
                   <rs ref="#tillich_person_id__2458" type="person">v. Hülsen</rs>,<lb/> geheimer
                   Regierungsrat.</add>
@@ -110,9 +110,9 @@
             <p>Der Privatdozent Lic. Dr. <rs ref="#tillich_person_id__1928" type="person">Paul <hi rend="g">Tillich</hi></rs> wird zum nichtbeamteten außerordentlichen
                Professor ernannt.<lb/>
                <rs ref="#tillich_place_id__37" type="place"><hi rend="g">Berlin</hi></rs> den <date when="1924-04-24">24. April 1924</date>. <figure type="seal">
-                  <p>Drucksiegel des Preußisches Ministerium für Wissenschaft, Kunst und
-                     Volksbildung</p>
-               </figure> Der Preußische Minister für Wissenschaft, Kunst und Volksbildung<lb/> in Vertretung<lb/>
+                  <p>[Darstellung: Drucksiegel des Preußisches Ministerium für Wissenschaft, Kunst und
+                     Volksbildung.]</p>
+               </figure>Der Preußische Minister für Wissenschaft, Kunst und Volksbildung<lb/> in Vertretung<lb/>
                <rs type="person"><unclear reason="illegible"><hi rend="hand">???</hi></unclear></rs></p>
             <p><hi rend="u">Urkunde</hi><lb/> über die Ernennung des bisherigen Privatdozenten <rs ref="#tillich_person_id__1928" type="person">Lic. Dr. Paul Tillich</rs> zum
                nichtbeamteten außerordentlichen Professor in der Theologischen Fakultät der
