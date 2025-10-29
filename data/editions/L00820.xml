@@ -79,16 +79,17 @@
       <revisionDesc status="approved">
          <change who="GM" when="2023-07-11">Initiale Auszeichnung des Transkripts</change>
          <change who="PS" when="2024-01-15">Endabnahme</change>
+         <change who="EL" when="2025-10-29">Erklärenende Anmerkungen überprüft und ergänzt</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <opener> Der Preußische Minister für Wissenschaft, Kunst und Volksbildung<lb/>
-               <hi rend="u">UI Nr. 6356</hi> Bei Beantwortung wird um Angabe der Geschäftsnummer gebeten.<lb/>
-               <dateline><rs ref="#tillich_place_id__37" type="place">Berlin W8</rs> den <date when="1924-06-12">12. Juni 1924.</date>
-                  Unter den Linden 4 Fernsprecher: Zentrum 11340–11343</dateline>
+            <opener><hi rend="print">Der Preußische Minister für Wissenschaft, Kunst und Volksbildung<lb/>
+               <hi rend="u">UI Nr. 6356</hi> Bei Beantwortung wird um Angabe der Geschäftsnummer gebeten.</hi><lb/>
+               <dateline><hi rend="print"><rs ref="#tillich_place_id__37" type="place">Berlin W8</rs> den</hi> <date when="1924-06-12">12. Juni 1924.</date>
+                  <hi rend="print">Unter den Linden 4 Fernsprecher: Zentrum 11340–11343</hi></dateline>
             </opener>
             <p>Dem Antrage der Theologischen Fakultät der Universität zu <rs ref="#tillich_place_id__279" type="place">Marburg</rs> entsprechend
                beauftrage ich Sie, vorbehaltlich des Widerrufs, in der genannten Fakultät die
@@ -97,11 +98,11 @@
             <p>Für diese Lehrtätigkeit bewillige ich Ihnen außer den Ihnen zufließenden
                Vorlesungshonoraren eine Vergütung, deren Höhe Ihnen von dem <rs ref="#tillich_person_id__2458" type="person">Herrn
                   Universitätskurator</rs> noch mitgeteilt werden wird. Die Zahlung erfolgt mit
-               Wirkung vom 1. Mai 1924 ab monatlich im voraus aus der Universitätskasse.</p>
+               Wirkung vom <date when="1924-05-01">1. Mai 1924</date> ab monatlich im voraus aus der Universitätskasse.</p>
             <closer>
                <salute>Im Auftrage</salute>
-               <signed><rs ref="#tillich_person_id__1602" type="person">Richter</rs></signed><add resp="P02463">Gesehen!<lb/> Marburg, den 20. Juni 1924. <figure type="stamp">
-                     <p>Universitätskurator.</p>
+               <signed><rs ref="#tillich_person_id__1602" type="person">Richter</rs></signed><add resp="P02463">Gesehen!<lb/> Marburg, den <date when="1924-06-20">20. Juni 1924</date>. <figure type="stamp">
+                     <p>[Stempel: Universitätskurator.]</p>
                   </figure>
                   <rs ref="#tillich_person_id__2458" type="person">v. Hülsen</rs>.</add>
                <dateline>An den außerordentlichen Professor <rs ref="#tillich_person_id__1928" type="person">Herrn Lic. Dr. <hi rend="g">Tillich</hi></rs> in <hi rend="u"><hi rend="g">Marburg</hi></hi><lb/> d.d.<rs ref="#tillich_person_id__2458" type="person">Herrn Universitätskurator</rs></dateline>
