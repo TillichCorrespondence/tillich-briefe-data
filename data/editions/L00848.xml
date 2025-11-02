@@ -3,7 +3,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Paul Tillich an Verlag Mohr Siebeck <lb/>vom 17. Februar 1925 [Posteingangsstempel]</title>
+            <title>Postkarte von Paul Tillich an den Verlag Mohr Siebeck <lb/>vom 17. Februar 1925
+               [PS]</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -44,14 +45,14 @@
                   <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Postkarte; Maschinenschriftlich</p>
+                  <p>Postkarte, maschinenschriftlich</p>
                </physDesc>
             </msDesc>
             <biblStruct type="journal">
                <monogr>
                   <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                  <title>&quot;Beweise einer unsichtbaren Beziehung&quot; Die Korrespondenz zwischen Paul
-                     Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                  <title>&quot;Beweise einer unsichtbaren Beziehung&quot; Die Korrespondenz zwischen
+                     Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
                   <imprint>
                      <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
                      <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
@@ -80,10 +81,11 @@
             <correspAction type="sent">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
                <placeName ref="#tillich_place_id__279">Marburg/Lahn</placeName>
+               <date when="1925-02-17">17.02.1925</date>
                <address>
                   <street>Rotenberg 11a</street>
                </address>
-               <date when="1925-02-17">17.02.1925</date>
+
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__2440">Verlag Mohr Siebeck</persName>
@@ -104,13 +106,14 @@
          <div type="writingSession">
             <pb n="1"/>
 
-            <p>Darf ich Sie um Zusendung von sechs Exemplaren meines Vortrages
-               <q><rs type="work" ref="#tillich__3WM5MENM">Kirche und Kultur</rs></q> zum
-               Autorenpreis bitten.</p>
+            <p>Darf ich Sie um Zusendung von sechs Exemplaren meines Vortrages <q><rs type="work"
+                     ref="#tillich__3WM5MENM">Kirche und Kultur</rs></q> zum Autorenpreis
+               bitten.</p>
             <closer>
                <salute>Ergebenst</salute>
-               <signed><rs ref="#tillich_person_id__1928" type="person">Professor Dr.
-                  Tillich</rs></signed>
+               <signed><rs ref="#tillich_person_id__1928" type="person">Professor Dr. Tillich</rs>
+                  <lb/><rs ref="#tillich_place_id__279" type="place">Marburg/Lahn</rs>, Rotenberg
+                  11a</signed>
             </closer>
          </div>
       </body>
