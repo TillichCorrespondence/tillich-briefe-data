@@ -287,15 +287,22 @@
           </div>
           <div type="level3">
             <head><code>&lt;figure/&gt;</code></head>
-            <p>Abbildungen und Zeichnungen in den Briefen werden nicht visuell dargestellt, sondern
-              an der jeweiligen Stelle im Textfluss beschrieben. Die Beschreibung erfolgt in eckigen
-              Klammern und wird durch das Element <code>&lt;figure/&gt;</code> eingefügt. Alle
-              Beschreibungen beginnen mit der festen Struktur <code>[Darstellung: ...]</code> Dafür
-              wird das Element <code>&lt;figure/&gt;</code> benutzt.</p>
-            <p>Beispiel: <code>&lt;figure&gt;&lt;figDesc&gt;[Darstellung: Ein Wegweiser nach &lt;rs
+            <p>Abbildungen, Zeichnungen, Stempel und Siegel in den Briefen werden nicht visuell
+              dargestellt, sondern an der jeweiligen Stelle im Textfluss beschrieben. Die
+              Beschreibung erfolgt in eckigen Klammern und wird durch das Element
+                <code>&lt;figure/&gt;</code> eingefügt.</p>
+            <p>Alle Beschreibungen beginnen mit einer festen Struktur und enden mit einem Punkt vor
+              der schließenden Klammer:</p>
+            <p>Für Abbildungen und Zeichnungen: <code>[Darstellung: ... .]</code></p>
+            <p>Für Stempel: <code>[Stempel: ... .]</code></p>
+            <p>Für Siegel: <code>[Siegel: ... .]</code></p>
+            <p>Beispiele:</p>
+            <p><code>&lt;figure&gt;&lt;figDesc&gt;[Darstellung: Ein Wegweiser nach &lt;rs
                 ref="#tillich_place_id__189" type="place"&gt;Halle&lt;/rs&gt;. Darüber fliegt eine
                 menschliche Gestalt in die angegebene
                 Richtung.]&lt;/figDesc&gt;&lt;/figure&gt;</code></p>
+            <p><code>&lt;figure&gt;&lt;figDesc&gt;[Stempel: &lt;q&gt;BERLIN
+                12.05.1925&lt;/q&gt;.]&lt;/figDesc&gt;&lt;/figure&gt;</code></p>
           </div>
           <div type="level3">
             <head><code>&lt;date/&gt;</code></head>
