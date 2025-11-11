@@ -1,93 +1,91 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01365">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Brief von Paul Tillich an Hannah Tillich <lb/>ohne Datum, vermutlich Juni
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hannah Tillich <lb/>ohne Datum, vermutlich Juni
           1922</title>
-        <author ref="#tillich_person_id__1928">Paul Tillich</author>
-        <respStmt>
-          <resp>Editor</resp>
-          <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-        </respStmt>
-      </titleStmt>
-      <editionStmt>
-        <edition>
-          <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-        </edition>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>
-          <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-          <address>
-            <street>Schenkenstraße 8-10</street>
-            <postCode>1010</postCode>
-            <placeName ref="#tillich_place_id__470">Wien</placeName>
-          </address>
-        </publisher>
-        <availability>
-          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
             Attribution 4.0 International (CC BY 4.0)</licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <msDesc type="manuscript">
-          <msIdentifier>
-            <country>USA</country>
-            <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-            <institution>Harvard</institution>
-            <repository>Harvard Divinity School Library</repository>
-            <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-            <idno>bMS 721/2(18)</idno>
-          </msIdentifier>
-          <physDesc>
-            <p>Brief, eigenhändig</p>
-          </physDesc>
-        </msDesc>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <projectDesc>
-        <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-      </projectDesc>
-      <editorialDecl>
-        <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                  <idno>bMS 721/2(18)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
           https://www.deutschestextarchiv.de/doku/basisformat/</p>
-      </editorialDecl>
-    </encodingDesc>
-    <profileDesc>
-      <correspDesc>
-        <correspAction type="sent">
-          <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-          <date notBefore="1922-06-01" notAfter="1922-06-30">01.06.1922</date>
-        </correspAction>
-        <correspAction type="received">
-          <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-        </correspAction>
-      </correspDesc>
-      <langUsage>
-        <language ident="deu">Deutsch</language>
-      </langUsage>
-    </profileDesc>
-    <revisionDesc status="approved">
-      <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-      <change when="2024-02-08" who="AA">Initiale Auszeichnung des Transkripts</change>
-    </revisionDesc>
-  </teiHeader>
-  <text type="letter">
-    <body>
-      <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-          <salute>Süße geliebte <rs ref="#tillich_person_id__1923" type="person"
-            >Hannah</rs>!</salute>
-        </opener>
-        <p> Es ist Abend eines Segel-Sonntags; ich bin müde von Luft und Wasser; aber es ist ein
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date notBefore="1922-06-01" notAfter="1922-06-30">01.06.1922</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2024-02-08" who="AA">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Süße geliebte <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+            </opener>
+            <p> Es ist Abend eines Segel-Sonntags; ich bin müde von Luft und Wasser; aber es ist ein
           schönes Müdesein; nur meine Seele ist leicht und fliegt zu Dir hin und sieht Dich, mit
           Deinem <rs ref="#tillich_person_id__3227" type="person">Johannes</rs> an der Brust und
           freut sich des süßen Kindes, für dessen Bild ich Dir danke, und freut sich der herrlichen
-          Mutter, <del>dest</del> deren ersehntes Bild nicht kommen will. – Mein <rs
-            ref="#tillich_person_id__1923" type="person">Hannahchen</rs>! Fürchte nie, daß ich Dein
+          Mutter, <del>dest</del> deren ersehntes Bild nicht kommen will. – Mein <rs ref="#tillich_person_id__1923" type="person">Hannahchen</rs>! Fürchte nie, daß ich Dein
             <rs ref="#tillich_person_id__3227" type="person">Kind</rs> nicht lieb haben werde; denn
           ich liebe Dich ja als Mutter, und ich wollte, daß Du Mutter würdest, liebende,
           urmenschliche Mutter! Und ich litt fast darunter, daß Du so negativ zu dem Kind standest!
@@ -96,64 +94,55 @@
           Kind für Dich geben. Denn ich liebe was Du liebst; und es darf nichts Trennendes in
             unserem<pb n="2"/> Leben sein, sondern nur Verbindendes, auch wenn wir daran zu tragen
           haben! – So ist es innerlich, aber äußerlich ist es ganz anders. Ich war gestern sofort
-          nach Empfang Deines Briefes<note type="ea">Liegt nicht vor.</note> mit <rs
-            ref="#tillich_person_id__2838" type="person">Hanno Gelau</rs> zusammen. Wir fuhren
+          nach Empfang Deines Briefes<note type="ea">Liegt nicht vor.</note> mit <rs ref="#tillich_person_id__2838" type="person">Hanno Gelau</rs> zusammen. Wir fuhren
           hinaus und segelten mit dem Mann und meinem Freund eine Stunde lang. – Es handelt sich in
           der ganzen Sache nur um <hi rend="u">eine</hi> Frage: Soll unser Zusammenleben schon jetzt
           beginnen oder erst wenn wir verheiratet sind? Das aber hängt davon ab: Willst Du in dieser
-          Zwischenzeit im Wesentlichen auf das <rs ref="#tillich_person_id__3227" type="person"
-            >Kind</rs> verzichten, und für den Beruf und mich da sein oder willst Du in einem
+          Zwischenzeit im Wesentlichen auf das <rs ref="#tillich_person_id__3227" type="person">Kind</rs> verzichten, und für den Beruf und mich da sein oder willst Du in einem
           fremden Hause wohnen und Deinem <rs ref="#tillich_person_id__3227" type="person">Kind</rs>
           leben? Ich stelle die Alternative absichtlich in ihrer ganzen Schärfe heraus, und so daß
           mein eigner Egoismus unverhüllt offen liegt. <hi rend="u">Mein</hi> Gedanke war ein
           Zusammenleben, das sich von der Ehe nur dadurch unterscheidet, daß Du pro forma eine
           andere Wohnung hast. <rs ref="#tillich_person_id__2838" type="person">Hannos</rs> Gedanke
-          ist, Dir<pb n="3"/> eine Stätte zu geben, wo Du Deinem <rs ref="#tillich_person_id__3227"
-            type="person">Kinde</rs> lebst und ich Dich hin- und wieder sehen kann. <choice>
-            <abbr>D. h.</abbr>
-            <expan>Das heißt</expan>
-          </choice> wir bleiben unverheiratet, ich bleibe Junggeselle und Du Witwe. – Von dieser
-          Alternative kann nichts nachgelassen werden. Du sollst bei <rs
-            ref="#tillich_person_id__2838" type="person">Gelaus</rs> den <hi rend="u">ganzen</hi>
+          ist, Dir<pb n="3"/> eine Stätte zu geben, wo Du Deinem <rs ref="#tillich_person_id__3227" type="person">Kinde</rs> lebst und ich Dich hin- und wieder sehen kann. <choice>
+                  <abbr>D. h.</abbr>
+                  <expan>Das heißt</expan>
+               </choice> wir bleiben unverheiratet, ich bleibe Junggeselle und Du Witwe. – Von dieser
+          Alternative kann nichts nachgelassen werden. Du sollst bei <rs ref="#tillich_person_id__2838" type="person">Gelaus</rs> den <hi rend="u">ganzen</hi>
           Haushalt führen, <choice>
-            <abbr>d. h.</abbr>
-            <expan>das heißt</expan>
-          </choice> Du gehörst von Morgens bis Abends der Familie und in den Zwischenzeiten dem <rs
-            ref="#tillich_person_id__3227" type="person">Kind</rs>; für mich blieben nur Stunden,
+                  <abbr>d. h.</abbr>
+                  <expan>das heißt</expan>
+               </choice> Du gehörst von Morgens bis Abends der Familie und in den Zwischenzeiten dem <rs ref="#tillich_person_id__3227" type="person">Kind</rs>; für mich blieben nur Stunden,
           die ich durch einen freien Abend oder Nachmittag erkaufen müßte. <choice>
-            <abbr>D. h.</abbr>
-            <expan>Das heißt</expan>
-          </choice> die Zerspaltenheit meines Lebens würde vermehrt. – Und nun die andere Seite:
+                  <abbr>D. h.</abbr>
+                  <expan>Das heißt</expan>
+               </choice> die Zerspaltenheit meines Lebens würde vermehrt. – Und nun die andere Seite:
           Wenn Du bei <rs ref="#tillich_person_id__2838" type="person">Gelaus</rs> bist, hast Du
           Dein <rs ref="#tillich_person_id__3227" type="person">Kind</rs> und eine Dir angenehmere
-          Tätigkeit als Büro, und hättest gegen <rs ref="#tillich_person_id__2039" type="person">
-            <rs ref="#tillich_person_id__2040" type="person">Eltern</rs></rs> und <rs
-            ref="#tillich_person_id__705" type="person">Albert</rs> eine glänzende Position. Bist Du
-          in meiner Nähe, so hast Du schwere Arbeit, kannst Dein <rs ref="#tillich_person_id__3227"
-            type="person">Kind</rs> im besten Fall nur kurze Zeit täglich oder nur alle paar Tage
+          Tätigkeit als Büro, und hättest gegen <rs type="person" ref="#tillich_person_id__2039 #tillich_person_id__2040">Eltern</rs> und <rs ref="#tillich_person_id__705" type="person">Albert</rs> eine glänzende Position. Bist Du
+          in meiner Nähe, so hast Du schwere Arbeit, kannst Dein <rs ref="#tillich_person_id__3227" type="person">Kind</rs> im besten Fall nur kurze Zeit täglich oder nur alle paar Tage
           sehen, gibst es in fremde Hände und hast die Sehnsucht nach ihm. – Das Gespräch<pb n="4"/>
           mit <rs ref="#tillich_person_id__2838" type="person">Hanno</rs> hat mir diese Alternative
           ganz evident gemacht. Es ist letztlich unmöglich für mich, sie zu entscheiden, da ich im
           höchsten Grade beteiligt bin und es sich letztlich allein um Deine Gefühle handelt. Ich
-          kann nur noch eines tun: Eine Wohnung für Dich suchen, wo Du mit Kind wohnen <add
-            place="superlinear">könntest</add>, und die Frau das Kind besorgen würde; aber das ist
+          kann nur noch eines tun: Eine Wohnung für Dich suchen, wo Du mit Kind wohnen <add place="superlinear">könntest</add>, und die Frau das Kind besorgen würde; aber das ist
           sehr unwahrscheinlich. <hi rend="u">Rechnen</hi> mußt Du mit dem, was ich oben gesagt
           habe. <rs ref="#tillich_person_id__2838" type="person">Hanno</rs> ist bereit, die
           Entscheidung bis Oktober aufzuschieben; Du hast also Zeit, Dein Fühlen und Wollen genau zu
           prüfen.</p>
-        <p>Verzeih die nüchtern-sachliche Art, mit der ich so etwas schreibe; aber ich muß das; nur
+            <p>Verzeih die nüchtern-sachliche Art, mit der ich so etwas schreibe; aber ich muß das; nur
           dann sehe ich klar, und nur dann kann ich Dir sagen, was ich meine, wenn ich ganz klar
           alle Möglichkeiten bedenke. Wieviel schwere Gedanken in diesen nüchternen Worten stecken
           und wieviel Sehnsucht und Liebe weißt Du ja! </p>
-        <closer>
-          <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-        </closer>
-        <postscript>
-          <p><rs ref="#tillich_person_id__2085" type="person">Toni</rs> kommt Mittwoch. Schreib <hi
-              rend="u">sofort</hi> an <rs ref="#tillich_person_id__2657" type="person">Otto</rs> und
+            <closer>
+               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <rs ref="#tillich_person_id__2085" type="person">Toni</rs> kommt Mittwoch. Schreib <hi rend="u">sofort</hi> an <rs ref="#tillich_person_id__2657" type="person">Otto</rs> und
               <rs ref="#tillich_person_id__705" type="person">Albert</rs>! </p>
-        </postscript>
-      </div>
-    </body>
-  </text>
+            </postscript>
+         </div>
+      </body>
+   </text>
 </TEI>

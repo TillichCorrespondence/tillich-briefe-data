@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01076">
    <teiHeader>
       <fileDesc>
@@ -76,8 +76,6 @@
       <revisionDesc status="approved">
          <change who="PS" when="2023-08-05">Initiale Auszeichnung des Transkripts</change>
          <change who="FS" when="2024-02-17">Endabnahme</change>
-
-
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -95,16 +93,18 @@
                Gelegenheiten, die ein Näherkennenlernen ds rg. Sozialismus ermöglichen würden.</p>
             <closer>
                <salute>Mit vorzüglichr Hochachtung</salute>
-               <signed><rs ref="#tillich_person_id__875" type="person">Hilde Hennig</rs></signed><lb/>
-               Leiterin ds <abbr>Rochl.<expan>itzer</expan></abbr> Kindheims.
+               <signed>
+                  <rs ref="#tillich_person_id__875" type="person">Hilde Hennig</rs>
+               </signed>
+               <lb/>
+               Leiterin ds <abbr>Rochl.<expan>itzer</expan>
+               </abbr> Kindheims.
             </closer>
-
             <postscript>
-               <p><rs ref="#tillich_place_id__617" type="place">Johanngeorgenstadt</rs>. <date when="1930-07-23">23.7.30</date>.</p>
+               <p>
+                  <rs ref="#tillich_place_id__617" type="place">Johanngeorgenstadt</rs>. <date when="1930-07-23">23.7.30</date>.</p>
             </postscript>
-
          </div>
-
       </body>
    </text>
 </TEI>

@@ -1,105 +1,112 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00791">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Paul Tillich an Wilhelm Ruprecht <lb/>vom 30. Mai 1923</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name>Anna Rüther</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__37">Berlin</settlement>
-<institution>Stiftung Preußischer Kulturbesitz</institution>
-<repository>Staatsbibliothek zu Berlin</repository>
-<collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
-<idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
-</msIdentifier>
-<physDesc>
-<p>Postkarte, maschinenschriftlich; Unterschrift eigenhändig; Unterstreichung des Empfängers; Textverluste wegen des Abrisses der Briefmarke.</p>
-</physDesc>
-   <additional>
-      <listBibl>
-         <biblStruct type="journal">
-            <monogr>
-               <author>Friedrich Wilhelm Graf</author>
-               <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-               <imprint>
-                  <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
-                  <date when="2020">2020</date>
-                  <biblScope>S. 26–170, hier: 134</biblScope>
-               </imprint>
-            </monogr>
-            <series>
-               <title>Zeitschrift für Neuere Theologiegeschichte</title>
-               <biblScope>27/1</biblScope>
-            </series>
-         </biblStruct>
-      </listBibl>
-   </additional>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
-<date when="1923-05-30">30.05.1923</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2024-01-17" who="AR">Initiale Auszeichnung des Transkripts</change>
-   <change when="2025-03-26" who="FS">Kollationierung</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<salute>Sehr geehrte <unclear>¿¿¿ ... ¿¿¿</unclear></salute>
-</opener>
-   <p>Herzlichen dank für Ihre umgehen<unclear>¿¿¿ ... ¿¿¿</unclear> <supplied>meine</supplied>s <q><rs ref="#tillich__WLVL28EI" type="work">Systems der Wissenschaften</rs></q>.
-      Auf <unclear>¿¿¿ ... ¿¿¿</unclear> steht, dass der Preis ausnahmsweis<supplied>e</supplied> <unclear>¿¿¿ ... ¿¿¿</unclear> <unclear>¿¿¿</unclear>setzt ist. Ich wollte Sie
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Wilhelm Ruprecht <lb/>vom 30. Mai 1923</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Anna Rüther</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <institution>Stiftung Preußischer Kulturbesitz</institution>
+                  <repository>Staatsbibliothek zu Berlin</repository>
+                  <collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
+                  <idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, maschinenschriftlich; Unterschrift eigenhändig; Unterstreichung des Empfängers; Textverluste wegen des Abrisses der Briefmarke.</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal">
+                        <monogr>
+                           <author>Friedrich Wilhelm Graf</author>
+                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                              <date when="2020">2020</date>
+                              <biblScope>S. 26–170, hier: 134</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Zeitschrift für Neuere Theologiegeschichte</title>
+                           <biblScope>27/1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
+               <date when="1923-05-30">30.05.1923</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2024-01-17" who="AR">Initiale Auszeichnung des Transkripts</change>
+         <change when="2025-03-26" who="FS">Kollationierung</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Sehr geehrte <unclear>¿¿¿ ... ¿¿¿</unclear>
+               </salute>
+            </opener>
+            <p>Herzlichen dank für Ihre umgehen<unclear>¿¿¿ ... ¿¿¿</unclear>
+               <supplied>meine</supplied>s <q>
+                  <rs ref="#tillich__WLVL28EI" type="work">Systems der Wissenschaften</rs>
+               </q>.
+      Auf <unclear>¿¿¿ ... ¿¿¿</unclear> steht, dass der Preis ausnahmsweis<supplied>e</supplied>
+               <unclear>¿¿¿ ... ¿¿¿</unclear>
+               <unclear>¿¿¿</unclear>setzt ist. Ich wollte Sie
 nun fragen, ob <unclear>¿¿¿ ... ¿¿¿</unclear> eine begrenzte Anzahl von Exemplaren zum Hörerpreis zur
 Verfügung stellen dürfen. Das würde m<supplied>ich</supplied> wundern, da ich bei meinen bisherigen
 Veröffentlichungen unbegrenzt nachbestellt habe. Ist in dieser Beziehung
@@ -108,14 +115,17 @@ Anzahl meiner jüngeren Freunde das Buch zum Ladenpreis nicht kaufen kann
 und ausserdem sich für mich immer wieder wichtige Gelegenheiten ergeben, wo
 ich Exemplare frei übersenden muss. Es scheint mir diese Erleichterung auch für
 das Bekanntwerden des Buches von grosser Bedeutung zu sein und auf diese
-Weise sowohl den <hi rend="u">Sortimentern</hi><note type="ea">Hinter dem Wort setzt <rs ref="#tillich_person_id__2569" type="person">Wilhelm Ruprecht</rs> ein <q>?</q>.</note> wie dem Verlage Vorteil daraus zu erwachsen.
+Weise sowohl den <hi rend="u">Sortimentern</hi>
+               <note type="ea">Hinter dem Wort setzt <rs ref="#tillich_person_id__2569" type="person">Wilhelm Ruprecht</rs> ein <q>?</q>.</note> wie dem Verlage Vorteil daraus zu erwachsen.
 Ich wäre Ihnen für eine umgehende Mitteilung dankbar, wie die Lage ist, da ich
 die Verteilung der erhaltenen Exemplare danach einrichten muss.</p>
-<closer>
-<salute>Mit ergebenstem Gruss</salute>
-   <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
-</closer>
-</div>
-</body>
-</text>
+            <closer>
+               <salute>Mit ergebenstem Gruss</salute>
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

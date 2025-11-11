@@ -1,142 +1,130 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00145">
-               <teiHeader>
-                              <fileDesc>
-                                             <titleStmt>
-                                                  <title>Brief von Wilhelm Lütgert an Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Wilhelm Lütgert an Paul Tillich
                                                   <lb/>vom 10. März 1907</title>
-                                                  <author ref="#tillich_person_id__1227">Wilhelm
+            <author ref="#tillich_person_id__1227">Wilhelm
                                                   Lütgert</author>
-                                                  <respStmt>
-                                                  <resp>Editor</resp>
-                                                  <name key="https://orcid.org/0009-0003-9642-5125"
-                                                  >Paul Schömann</name>
-                                                  </respStmt>
-                                             </titleStmt>
-                                             <editionStmt>
-                                                  <edition>
-                                                  <title type="editionstitel">Edition der
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der
                                                   Korrespondenz von Paul Tillich 1887-1933</title>
-                                                  </edition>
-                                             </editionStmt>
-                                             <publicationStmt>
-                                                  <publisher>
-                                                  <name>Institut für Systematische Theologie und
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und
                                                   Religionswissenschaft</name>
-                                                  <address>
-                                                  <street>Schenkenstraße 8-10</street>
-                                                  <postCode>1010</postCode>
-                                                  <placeName ref="#tillich_place_id__470">
-                                                  <settlement>Wien</settlement>
-                                                  <country>Österreich</country>
-                                                  </placeName>
-                                                  </address>
-                                                  </publisher>
-                                                  <availability>
-                                                  <licence
-                                                  target="http://creativecommons.org/licenses/by-sa/4.0/"
-                                                  >Creative Commons Attribution 4.0 International
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International
                                                   (CC BY 4.0)</licence>
-                                                  </availability>
-                                             </publicationStmt>
-                                             <sourceDesc>
-                                                  <msDesc type="manuscript">
-                                                  <msIdentifier>
-                                                  <country>USA</country>
-                                                  <settlement ref="#tillich_place_id__82">Cambridge,
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge,
                                                   MA</settlement>
-                                                  <institution>Harvard University</institution>
-                                                  <repository>Harvard Divinity School
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School
                                                   Library</repository>
-                                                  <collection>Tillich, Paul, 1886-1965. Papers,
+                  <collection>Tillich, Paul, 1886-1965. Papers,
                                                   1894-1974.</collection>
-                                                  <idno>bMS 649/163(6)</idno>
-                                                  </msIdentifier>
-                                                  <physDesc>
-                                                  <p>Brief, eigenhändig</p>
-                                                  </physDesc>
-                                                  </msDesc>
-                                             </sourceDesc>
-                              </fileDesc>
-                              <encodingDesc>
-                                             <projectDesc>
-                                                  <p>online-Edition: Edition der Korrespondenz von
+                  <idno>bMS 649/163(6)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von
                                                   Paul Tillich 1887-1933.</p>
-                                             </projectDesc>
-                                             <editorialDecl>
-                                                  <p>Die Ausgabe folgt folgenden Editorischen
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen
                                                   Richtlinien des DTA-Basisformats. Vgl.
                                                   https://www.deutschestextarchiv.de/doku/basisformat/</p>
-                                             </editorialDecl>
-                              </encodingDesc>
-                              <profileDesc>
-                                             <correspDesc>
-                                                  <correspAction type="sent">
-                                                  <persName ref="#tillich_person_id__1227">Wilhelm
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1227">Wilhelm
                                                   Lütgert</persName>
-                                                  <placeName ref="#tillich_place_id__189"
-                                                  >Halle</placeName>
-                                                  <date when="1907-03-10">10.03.1907</date>
-                                                  </correspAction>
-                                                  <correspAction type="received">
-                                                  <persName ref="#tillich_person_id__1928">Paul
+               <placeName ref="#tillich_place_id__189">Halle</placeName>
+               <date when="1907-03-10">10.03.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul
                                                   Tillich</persName>
-                                                  </correspAction>
-                                             </correspDesc>
-                                             <langUsage>
-                                                  <language ident="deu">Deutsch</language>
-                                             </langUsage>
-                              </profileDesc>
-                              <revisionDesc status="approved">
-                                             <change when="2022-05-02" who="PS">Initiale
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2022-05-02" who="PS">Initiale
                                                   Auszeichnung des Transkripts</change>
-                                             <change when="2024-01-31" who="PS">Vorbereitende
+         <change when="2024-01-31" who="PS">Vorbereitende
                                                   Endabnahme</change>
-                                             <change when="2024-02-13" who="EL">Endabnahme</change>
-                              </revisionDesc>
-               </teiHeader>
-               <text type="letter">
-                              <body>
-                                             <div type="writingSession">
-                                                  <pb n="1"/>
-                                                  <opener>
-                                                  <dateline><rs ref="#tillich_place_id__189"
-                                                  type="place">Halle</rs>. <date when="1907-03-10"
-                                                  >10. März 07.</date></dateline>
-                                                  <salute>Lieber <rs ref="#tillich_person_id__1928"
-                                                  type="person">Herr Tillich</rs>!</salute>
-                                                  </opener>
-                                                  <p><rs ref="#tillich_person_id__2091"
-                                                  type="person">Witte</rs> hat mir längst
+         <change when="2024-02-13" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__189" type="place">Halle</rs>. <date when="1907-03-10">10. März 07.</date>
+               </dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr Tillich</rs>!</salute>
+            </opener>
+            <p>
+               <rs ref="#tillich_person_id__2091" type="person">Witte</rs> hat mir längst
                                                   geschrieben, ich habe ihm geantwortet und die
                                                   Sache ist damit erledigt. Es handelt sich ja wie
                                                   ich sehe im Grunde genommen um eine Kleinigkeit,
-                                                  die nur deshalb der Rede wert war, weil sich <rs
-                                                  ref="#tillich_person_id__2856" type="person"
-                                                  >Siegfried Köhler</rs> beleidigt fühlte. Ich habe
-                                                  nun aber auch <rs ref="#tillich_person_id__2856"
-                                                  type="person">Siegfried Köhler</rs> beruhigt und
+                                                  die nur deshalb der Rede wert war, weil sich <rs ref="#tillich_person_id__2856" type="person">Siegfried Köhler</rs> beleidigt fühlte. Ich habe
+                                                  nun aber auch <rs ref="#tillich_person_id__2856" type="person">Siegfried Köhler</rs> beruhigt und
                                                   damit ist die Sache abgethan.</p>
-                                                  <p>Noch weniger als ich daran<pb n="2"/> denke,
-                                                  <rs ref="#tillich_person_id__2091" type="person"
-                                                  >Witte</rs> etwas nachzutragen, fällt es mir ein,
+            <p>Noch weniger als ich daran<pb n="2"/> denke,
+                                                  <rs ref="#tillich_person_id__2091" type="person">Witte</rs> etwas nachzutragen, fällt es mir ein,
                                                   die Verbindung für die Geschichte verantwortlich
                                                   zu machen. Ich bitte Sie also noch, die Sache
                                                   nunmehr ruhen zu lassen und weder die Verbindung
-                                                  noch <rs ref="#tillich_person_id__2091"
-                                                  type="person">Witte</rs> weiter damit zu
-                                                  behelligen. Bitte grüßen Sie Ihren <rs
-                                                  ref="#tillich_person_id__1924" type="person"
-                                                  >Vater</rs>. <hi rend="uu">Es</hi> war sehr
+                                                  noch <rs ref="#tillich_person_id__2091" type="person">Witte</rs> weiter damit zu
+                                                  behelligen. Bitte grüßen Sie Ihren <rs ref="#tillich_person_id__1924" type="person">Vater</rs>. <hi rend="uu">Es</hi> war sehr
                                                   schade, daß er am Freitag nicht hier sein konnte.<note type="ea">Der genannte Freitag war der 8. März 1907. Eine auf den Wingolf bezogene Veranstaltung ließ sich in den Wingolfs-Blättern nicht nachweisen. </note>
                                                   Sagen Sie ihm, daß wir hoffen, Friede gestiftet zu
                                                   haben, wenigstens bis zu einem gewissen Grade.</p>
-                                                  <closer>
-                                                  <salute>Mit bestem Gruß</salute>
-                                                  <signed>Ihr <rs ref="#tillich_person_id__1227"
-                                                  type="person">W. Lütgert</rs></signed>
-                                                  </closer>
-                                             </div>
-                              </body>
-               </text>
+            <closer>
+               <salute>Mit bestem Gruß</salute>
+               <signed>Ihr <rs ref="#tillich_person_id__1227" type="person">W. Lütgert</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

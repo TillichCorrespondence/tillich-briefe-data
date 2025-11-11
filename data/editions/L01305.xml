@@ -1,100 +1,96 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01305">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom April 1920</title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom April 1920</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">Wien</placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
-                        <institution>Harvard</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                        <idno>bMS 721/2(16)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__85">Cambridge, MA</settlement>
+                  <institution>Harvard</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                  <idno>bMS 721/2(16)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <date notBefore="1920-04-01">01.04.1920</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change when="2024-02-09" who="AA">XML Datei generiert von Metadata</change>
-            <change when="2024-02-09" who="AA">Initiale Auszeichnung des Transkripts</change>
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener>
-                    <dateline> Donnerstag<note type="ea">Am oberen Rand des Briefes wurde von fremder Hand
-                        (wahrscheinlich <rs ref="#tillich_person_id__1923" type="person"
-                            >Hannah Tillich</rs>) <q>April 1920</q>
-                        vermerkt.</note></dateline>
-                    <salute>Liebe <rs ref="#tillich_person_id__1923" type="person"
-                        >Hannah</rs>!</salute>
-                </opener>
-                <p>Wo soll ich Dich suchen? In Deiner <q>Bude</q> in <rs ref="#tillich_place_id__43"
-                        type="place">Neu-Kölln</rs> oder im <unclear cert="low"
-                    >Crone</unclear>-Palast in <rs ref="#tillich_place_id__275" type="place"
-                        >Magdeburg</rs>? Bei <rs ref="#tillich_person_id__2825" type="person"
-                        ><q>Nora</q></rs> oder in <rs ref="#tillich_place_id__279" type="place"
-                        >Marburg</rs>? Du schreibst nicht und empfängst von mir die ungeheure
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date notBefore="1920-04-01">01.04.1920</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2024-02-09" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2024-02-09" who="AA">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline> Donnerstag<note type="ea">Am oberen Rand des Briefes wurde von fremder Hand
+                        (wahrscheinlich <rs ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs>) <q>April 1920</q>
+                        vermerkt.</note>
+               </dateline>
+               <salute>Liebe <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+            </opener>
+            <p>Wo soll ich Dich suchen? In Deiner <q>Bude</q> in <rs ref="#tillich_place_id__43" type="place">Neu-Kölln</rs> oder im <unclear cert="low">Crone</unclear>-Palast in <rs ref="#tillich_place_id__275" type="place">Magdeburg</rs>? Bei <rs ref="#tillich_person_id__2825" type="person">
+                  <q>Nora</q>
+               </rs> oder in <rs ref="#tillich_place_id__279" type="place">Marburg</rs>? Du schreibst nicht und empfängst von mir die ungeheure
                     Leistung einer Karte und zweier Briefe! – Und ich sitze hier und vertiefe mich
                     in Deine <del>Briefe</del>
-                    <add place="superlinear">Gedichte</add>; aber wenn ich durch sie hindurch zu Dir
+               <add place="superlinear">Gedichte</add>; aber wenn ich durch sie hindurch zu Dir
                     will, so weiß ich nicht, wo ich hin soll. Ich will Dich sehen, Dich haben, Dich
                     trinken, noch einmal etwas von Deiner Feuerseele trinken, ehe sie lange für mich
                     verlöscht. – Klingle bitte Sonntag Mittag an, damit wir was verabreden können!
@@ -114,11 +110,13 @@
                     Mir ist es höchste Lebenslust; ich weiß nicht warum, vielleicht mein starker
                     Tropfen rheinisches Blut! Noch immer schau ich auf das Dorf da unten; aber alle
                     Häuser sind mir leer! </p>
-                <closer>
-                    <salute>Auf Wiedersehen!</salute>
-                    <signed><rs ref="#tillich_person_id__1928" type="person">P.</rs></signed>
-                </closer>
-            </div>
-        </body>
-    </text>
+            <closer>
+               <salute>Auf Wiedersehen!</salute>
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">P.</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

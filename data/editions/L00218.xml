@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00218">
    <teiHeader>
       <fileDesc>
@@ -84,7 +84,9 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline><rs ref="#tillich_place_id__318" type="place">Neviges</rs>, den <date when="1907-10-02">2. Oktober 07.</date></dateline>
+               <dateline>
+                  <rs ref="#tillich_place_id__318" type="place">Neviges</rs>, den <date when="1907-10-02">2. Oktober 07.</date>
+               </dateline>
                <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
             </opener>
             <p>Da Du mir in Deinem ersten Briefe<note type="ea">Nicht überliefert.</note> schriebst,
@@ -124,7 +126,9 @@
                gelobte Land; teile mir bitte mit, wann Du kommst; <rs ref="#tillich_person_id__1050" type="person">Alb. Kilger</rs> wird doch gewiss auch in <rs type="place" ref="#tillich_place_id__189">Halle</rs> sein. <rs ref="#tillich_person_id__203" type="person">Lorenz</rs> kommt nicht, weil er das nicht ertragen könne.</p>
             <closer>
                <salute>In treuen gedenkt Dein</salute>
-               <signed>Dein dankbarer <rs ref="#tillich_person_id__128" type="person"><hi rend="u">Hans</hi></rs>.</signed>
+               <signed>Dein dankbarer <rs ref="#tillich_person_id__128" type="person">
+                     <hi rend="u">Hans</hi>
+                  </rs>.</signed>
             </closer>
          </div>
       </body>

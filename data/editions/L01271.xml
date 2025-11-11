@@ -1,97 +1,95 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01271">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Rudolf Otto <lb/>vom 9. Juni 1921</title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Rudolf Otto <lb/>vom 9. Juni 1921</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>Deutschland</country>
-                        <settlement>Marburg</settlement>
-                        <institution>Universität Marburg</institution>
-                        <repository>Universitätsbibliothek Marburg</repository>
-                        <collection>Rudolf Otto Archiv</collection>
-                        <idno>OA 1464</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement>Marburg</settlement>
+                  <institution>Universität Marburg</institution>
+                  <repository>Universitätsbibliothek Marburg</repository>
+                  <collection>Rudolf Otto Archiv</collection>
+                  <idno>OA 1464</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
-                    <date when="1921-06-09">09.06.1921</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1438">Rudolf Otto</persName>
-
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change who="FS" when="2024-01-23">Initiale Auszeichnung des Transkripts,
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
+               <date when="1921-06-09">09.06.1921</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1438">Rudolf Otto</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="FS" when="2024-01-23">Initiale Auszeichnung des Transkripts,
                 Endabnahme</change>
-
-
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener><dateline><rs ref="#tillich_place_id__38" type="place"
-                        >Berlin-Friedenau</rs>, Taunusstr. 1<lb/> d. <date when="1921-06-09">9. Juni
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>, Taunusstr. 1<lb/> d. <date when="1921-06-09">9. Juni
                             1921</date>.</dateline>
-                    <salute>Hoch verehrter <rs ref="#tillich_person_id__1438" type="person">Herr
+               <salute>Hoch verehrter <rs ref="#tillich_person_id__1438" type="person">Herr
                             Professor</rs>!</salute>
-                </opener>
-                <p>Wie mir mitgeteilt wurde, waren Sie am <date when="1921-06-05">letzten
+            </opener>
+            <p>Wie mir mitgeteilt wurde, waren Sie am <date when="1921-06-05">letzten
                         Sonntag</date> in <rs ref="#tillich_place_id__37" type="place">Berlin</rs>
                     und hatten die Freundlichkeit, bei mir anzuklingeln. Ich habe außerordentlich
                     bedauert, daß ich nicht da war; denn es wäre mir eine große Freude gewesen, Sie
@@ -99,11 +97,13 @@
                         über das Heilige</rs> so wichtige Anregungen verdanke. Ich<pb n="2"/> hoffe,
                     daß es bei anderer Gelegenheit möglich sein wird, und wäre für eine
                     vorhergehende Benachrichtigung sehr dankbar.</p>
-                <closer>
-                    <salute>Ihr sehr ergebener </salute><signed><rs ref="#tillich_person_id__1928"
-                            type="person">P. Tillich</rs></signed>
-                </closer>
-            </div>
-        </body>
-    </text>
+            <closer>
+               <salute>Ihr sehr ergebener </salute>
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

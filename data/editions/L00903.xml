@@ -1,96 +1,102 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00903">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 2. September
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 2. September
                1926</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Hannah. Papers, 1896-1976.</collection>
-<idno>bMS 721/2(23)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                  <idno>bMS 721/2(23)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__253">Le Conquet</placeName>
-<date when="1926-09-02">02.09.1926</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-10-23" who="PS">Initiale Auszeichnung des Transkripts</change>
-<change when="2023-10-25" who="PS">Endabnahme</change>
-   <change when="2025-08-12" who="FS">Hinzufügung von zwei bisher fehlenden Briefseiten; Brief nun kein Fragment mehr</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener><dateline>
-   <hi rend="aq"><rs ref="#tillich_place_id__253" type="place">Le Conquet</rs> - <rs ref="#tillich_place_id__445" type="place">Trouville</rs></hi>
-<date when="1926-09-02">d. 2. Sept.</date></dateline>
-<salute>Liebste süße <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-</opener>
-<p>Nun bin ich abgefahren, ohne noch einen Brief von Dir zu haben. Das kommt sicher,
-   weil ich die letzten Tage in <rs ref="#tillich_place_id__253" type="place"><hi rend="aq">Le Conquet</hi></rs>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__253">Le Conquet</placeName>
+               <date when="1926-09-02">02.09.1926</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-10-23" who="PS">Initiale Auszeichnung des Transkripts</change>
+         <change when="2023-10-25" who="PS">Endabnahme</change>
+         <change when="2025-08-12" who="FS">Hinzufügung von zwei bisher fehlenden Briefseiten; Brief nun kein Fragment mehr</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <hi rend="aq">
+                     <rs ref="#tillich_place_id__253" type="place">Le Conquet</rs> - <rs ref="#tillich_place_id__445" type="place">Trouville</rs>
+                  </hi>
+                  <date when="1926-09-02">d. 2. Sept.</date>
+               </dateline>
+               <salute>Liebste süße <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+            </opener>
+            <p>Nun bin ich abgefahren, ohne noch einen Brief von Dir zu haben. Das kommt sicher,
+   weil ich die letzten Tage in <rs ref="#tillich_place_id__253" type="place">
+                  <hi rend="aq">Le Conquet</hi>
+               </rs>
                selbst unregelmäßig war. Es ist merkwürdig, aber die Gleichmäßigkeit der Tage
                schläferte so ein, daß ich die Aktivität nicht aufbrachte, ganz konsequent zu sein.
                Dazu kam, daß mein Bauch immer wieder Schwierigkeiten machte. Übrigens war ich nicht
@@ -100,10 +106,11 @@
                immer mißverstehen. Die letzten Tage habe ich mich wesentlich von Eiern und Püree
                ernährt, was sehr gut war. Sehr gespannt sind wir, was in <rs ref="#tillich_place_id__445" type="place">Trouville</rs> wird, ob wir infolge der Preise, der Autos etc. sofort
    wieder abfahren oder ob man dort ein paar Tage sein kann. Dann über <rs ref="#tillich_place_id__373" type="place">Rouen</rs> nach <rs ref="#tillich_place_id__343" type="place">Paris</rs>.
-   <pb n="2"/> Ich schrieb Dir schon auf einer <rs ref="L00902" type="letter">Karte</rs>, daß Du nun nach <rs ref="#tillich_place_id__343" type="place">Paris</rs> <hi rend="aq">VI<hi rend="sup">e</hi>, Hotel Duguay-Trouin, Rue Duguay Trouin</hi> schreiben sollst.</p>
-   <p>Die letzten Tage war sehr zweifelhaftes Wetter, erst zum Abschied wurde es wunderbar schön, so daß es uns recht schwer wurde zu gehen. Leider haben wir kein einziges Mal auf der ganzen Reise großen Sturm gehabt, dafür war aber 2-3 Tage sogar der Atlantische Ozean still wie die Ostsee. Im Ganzen habe ich den Eindruck, daß uns diese Orte nicht so für die Dauer halten können, wie unsere. Sie sind schöner, aber durch Formung, und dadurch auch wieder begrenzter. Es ist schwer zu sagen, aber man bekommt immer die Sehnsucht nach etwas Neuem, während <rs ref="#tillich_place_id__230" type="place">Kampen</rs> und <rs ref="#tillich_place_id__532" type="place">Kloster</rs> mich sofort für immer haben wollen. Dabei ist jeder einzelne Eindruck genau wie in Süditalien unvergeßlich stark. Aber es ist nicht die Mystik der Natureinfühlung möglich. Die geht den Französen überhaupt<pb n="3"/> ziemlich ab. Sie kommen immer von Geist und Intellekt her. Das Wort ist ihr eigentliches Lebenselement und sie handhaben es vollkommen, logisch und rednerisch gleich glänzend.</p>
-   <p>Wir haben noch immer niemand kennen gelernt. Die Dame aus <rs ref="#tillich_place_id__343" type="place">Paris</rs> von der ich schon schrieb, meinte, man könnte uns nicht vergessen, was wir in <rs ref="#tillich_place_id__161" type="place">Frankreich</rs> getan. Sie wollte nicht, daß wir Freunde würden, <rs ref="#tillich_place_id__122" type="place">Deutschland</rs> und <rs ref="#tillich_place_id__161" type="place">Frankreich</rs>; es ginge noch nicht. Im Übrigen würden wir niemand finden, der gern mit uns spräche. Heut fahren wir mit einem Franzosen im Koupé, der das Gegenteil beweist, sogar mit uns Schach spielt, aber für die herrschende Tendenz ist die Dame charakteristischer.</p> 
-   <p>Der <rs ref="#tillich__G8CYBFWE" type="work">Dämonenvortrag</rs> ist fertig, mit Vorwort versehen, das sehr persönlich ist. An weiterer Arbeit hinderte der Bauch. Das Buch von <rs ref="#tillich_person_id__688" type="person">Heinrich</rs> ist angekommen. Ich will nachher etwas lesen. Wie ist seine Adresse? – Grüß <rs ref="#tillich_person_id__2564" type="person">Kallen</rs> sehr herzlich. Ich freu mich, daß sie da ist, nur sorge, daß Du Dein oder mein Zimmer für
+   <pb n="2"/> Ich schrieb Dir schon auf einer <rs ref="L00902" type="letter">Karte</rs>, daß Du nun nach <rs ref="#tillich_place_id__343" type="place">Paris</rs>
+               <hi rend="aq">VI<hi rend="sup">e</hi>, Hotel Duguay-Trouin, Rue Duguay Trouin</hi> schreiben sollst.</p>
+            <p>Die letzten Tage war sehr zweifelhaftes Wetter, erst zum Abschied wurde es wunderbar schön, so daß es uns recht schwer wurde zu gehen. Leider haben wir kein einziges Mal auf der ganzen Reise großen Sturm gehabt, dafür war aber 2-3 Tage sogar der Atlantische Ozean still wie die Ostsee. Im Ganzen habe ich den Eindruck, daß uns diese Orte nicht so für die Dauer halten können, wie unsere. Sie sind schöner, aber durch Formung, und dadurch auch wieder begrenzter. Es ist schwer zu sagen, aber man bekommt immer die Sehnsucht nach etwas Neuem, während <rs ref="#tillich_place_id__230" type="place">Kampen</rs> und <rs ref="#tillich_place_id__532" type="place">Kloster</rs> mich sofort für immer haben wollen. Dabei ist jeder einzelne Eindruck genau wie in Süditalien unvergeßlich stark. Aber es ist nicht die Mystik der Natureinfühlung möglich. Die geht den Französen überhaupt<pb n="3"/> ziemlich ab. Sie kommen immer von Geist und Intellekt her. Das Wort ist ihr eigentliches Lebenselement und sie handhaben es vollkommen, logisch und rednerisch gleich glänzend.</p>
+            <p>Wir haben noch immer niemand kennen gelernt. Die Dame aus <rs ref="#tillich_place_id__343" type="place">Paris</rs> von der ich schon schrieb, meinte, man könnte uns nicht vergessen, was wir in <rs ref="#tillich_place_id__161" type="place">Frankreich</rs> getan. Sie wollte nicht, daß wir Freunde würden, <rs ref="#tillich_place_id__122" type="place">Deutschland</rs> und <rs ref="#tillich_place_id__161" type="place">Frankreich</rs>; es ginge noch nicht. Im Übrigen würden wir niemand finden, der gern mit uns spräche. Heut fahren wir mit einem Franzosen im Koupé, der das Gegenteil beweist, sogar mit uns Schach spielt, aber für die herrschende Tendenz ist die Dame charakteristischer.</p>
+            <p>Der <rs ref="#tillich__G8CYBFWE" type="work">Dämonenvortrag</rs> ist fertig, mit Vorwort versehen, das sehr persönlich ist. An weiterer Arbeit hinderte der Bauch. Das Buch von <rs ref="#tillich_person_id__688" type="person">Heinrich</rs> ist angekommen. Ich will nachher etwas lesen. Wie ist seine Adresse? – Grüß <rs ref="#tillich_person_id__2564" type="person">Kallen</rs> sehr herzlich. Ich freu mich, daß sie da ist, nur sorge, daß Du Dein oder mein Zimmer für
    <pb n="4"/> ein paar Wochen hast. – Mit <rs ref="#tillich_person_id__2008" type="person">Eckart</rs> ist es
                immer netter. Morgens wurde uns der Tee in mein Zimmer gebracht. Ich lag im Bett und
                   <rs ref="#tillich_person_id__2008" type="person">Eckart</rs> machte mir die Brötchen, und wir
@@ -113,17 +120,19 @@
                uns gegenseitig zu wecken. Er ist oft direkt zärtlich, wie ich es nie gedacht hätte.
                Dabei ist es erstaunlich, wie er klettert und ständig darauf bedacht ist, sein Bein
                zu überwinden.</p>
-<p>Heut habe ich geträumt: Eine Königin (oder meine Mutter) lag im Sterben. Ihr Herz
+            <p>Heut habe ich geträumt: Eine Königin (oder meine Mutter) lag im Sterben. Ihr Herz
                schwamm in einem Fluß und es kam darauf an, ob es zerbrechen würde. Ich hatte die
                Aufgabe, es im Fluß so zu leiten, daß es nicht in Stücke ging. Das gelang eine Zeit
                lang; dann zerbrach es doch – und ich sah die Stücke im Fluß schwimmen. Da <unclear reason="illegible">verklang</unclear>
                der Traum <unclear reason="illegible">aus</unclear> in eine süße wehmutsvolle Stimmung. Was ist das??</p>
-<closer>
-<salute>In viel Liebe<lb/>
+            <closer>
+               <salute>In viel Liebe<lb/>
 Dein</salute>
-<signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-</closer>
-</div>
-</body>
-</text>
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Paul</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

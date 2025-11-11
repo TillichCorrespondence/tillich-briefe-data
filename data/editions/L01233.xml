@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01233">
    <teiHeader>
       <fileDesc>
@@ -80,17 +80,17 @@
       <revisionDesc status="approved">
          <change who="PS" when="2023-09-06">Initiale Auszeichnung des Transkripts</change>
          <change who="FS" when="2024-02-17">Endabnahme</change>
-
-
       </revisionDesc>
    </teiHeader>
    <text type="postcard">
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <opener><dateline>
-                  <date when="1933-06-15">15. Juni 33.</date></dateline>
-               <salute>Liebe <rs ref="#tillich_person_id__1928" type="person"><rs ref="#tillich_person_id__1923" type="person">Tillichs</rs></rs>!</salute>
+            <opener>
+               <dateline>
+                  <date when="1933-06-15">15. Juni 33.</date>
+               </dateline>
+               <salute>Liebe <rs type="person" ref="#tillich_person_id__1928 #tillich_person_id__1923">Tillichs</rs>!</salute>
             </opener>
             <p>Vielen Dank für Ihre Karte,<note type="ea">Liegt nicht vor.</note> die eine weite Reise gemacht hat (über
                <rs type="place" ref="#tillich_place_id__369">Rom</rs> wohin sie <rs ref="#tillich_person_id__2867" type="person">Claassen</rs>, der dort für 3
@@ -100,7 +100,9 @@
                wäre schön, Sie bald wiederzusehen – oder kommen Sie gar nicht mehr nach
                <rs type="place" ref="#tillich_place_id__143">Frankfurt</rs>? Herzliche Grüsse und sehr viele gute Wünsche</p>
             <closer>
-               Ihre <signed><rs ref="#tillich_person_id__2867" type="person"><rs ref="#tillich_person_id__2868" type="person">Claassens</rs></rs></signed>
+               Ihre <signed>
+                  <rs type="person" ref="#tillich_person_id__2867 #tillich_person_id__2868">Claassens</rs>
+               </signed>
             </closer>
          </div>
       </body>

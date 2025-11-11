@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01177">
    <teiHeader>
       <fileDesc>
@@ -75,30 +75,30 @@
       <revisionDesc status="approved">
          <change who="PS" when="2023-07-10">Initiale Auszeichnung des Transkripts</change>
          <change who="FS" when="2024-01-23">Endabnahme</change>
-
-
       </revisionDesc>
    </teiHeader>
    <text type="letter">
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <opener><dateline>
-                  <date notBefore="1933-04-14" notAfter="1933-04-17">Ostern 1933</date></dateline>
+            <opener>
+               <dateline>
+                  <date notBefore="1933-04-14" notAfter="1933-04-17">Ostern 1933</date>
+               </dateline>
                <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr
                   Tillich</rs>!</salute>
             </opener>
             <p>Kaum daß wir uns in <rs ref="#tillich_place_id__356" type="place">Potsdam</rs> kurz
                gesehen und gesprochen hatten, ist bereits Wirklichkeit geworden, was wir an dem
-               Abend in reinen möglichen Folgen besprachen.<note type="ea"><rs
-                     ref="#tillich_person_id__1928" type="person">Tillich</rs> wurde durch ein <rs
-                     type="letter" ref="L01205">Schreiben vom 13. April 1933</rs> durch die
+               Abend in reinen möglichen Folgen besprachen.<note type="ea">
+                  <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> wurde durch ein <rs type="letter" ref="L01205">Schreiben vom 13. April 1933</rs> durch die
                   Nationalsozialisten bis auf weiteres beurlaubt, da er gemäß dem Gesetz zur
                   Wiederherstellung des Berufsbeamtentums in § 4 als politisch unzuverlässig galt.
                   Das Gesetz bestimmte, dass Beamte, <q>die nach ihrer bisherigen politischen
                   Betätigung nicht die Gewähr dafür bieten, dass sie jederzeit rückhaltlos für den
                   nationalen Staat eintreten</q>, von ihrer Tätigkeit befreit werden
-               konnten.</note></p>
+               konnten.</note>
+            </p>
             <p>Nun da es geschehen ist, wird man Ihnen Trostbriefe schicken. Wenn ich an Sie zu
                schreiben wage, so geschieht das aus einem Gefühl der Genugtuung. Stellen Sie sich
                vor, der Kelch wäre an Ihnen vorübergegangen! Nicht auszudenken!</p>
@@ -114,7 +114,8 @@
                in der Heimat ist mehr wert als 100% Wirksamkeit in der Fremde. Sie dürfen also das
                Land meines Erachtens nicht verlassen, es sei denn, man würfe Sie heraus.</p>
             <p>Ich kann mir vorstellen, daß Ihre Freunde den Auszug aus Deutschland leichter nehmen.
-               Um so bedenklicher müssen Sie sein!<pb n="2"/></p>           
+               Um so bedenklicher müssen Sie sein!<pb n="2"/>
+            </p>
             <p>Es ist ein glücklicher Gedanke von Ihnen, sich vorerst für eine Weile zurückzuziehen.
                Die Herauslösung aus der Atmosphäre der gebrochenen Partei, der Auflösung und Flucht
                wird Ihnen den neuen Ansatz ermöglichen. Schließlich ist der Katheder nicht die
@@ -132,12 +133,11 @@
                wir <rs ref="#tillich_person_id__1923" type="person">Ihre Frau</rs> und Sie.</p>
             <closer>
                <salute>Ihr sehr ergebener</salute>
-               <signed><rs ref="#tillich_person_id__2406" type="person">Stephan Hirzel</rs></signed>
+               <signed>
+                  <rs ref="#tillich_person_id__2406" type="person">Stephan Hirzel</rs>
+               </signed>
             </closer>
-
-
          </div>
-
       </body>
    </text>
 </TEI>

@@ -1,100 +1,97 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00652">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Lotte Salz an Paul Tillich <lb/>vom 6. Januar 1920</title>
-<author ref="#tillich_person_id__1679">Lotte Salz</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
- <country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bMS 649/181(20)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1679">Lotte Salz</persName>
-<date when="1920-01-06">06.01.1920</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession" resp="#tillich_person_id__1679">
-<pb n="1"/>
-<opener>
-
-<dateline><date when="1920-01-06">6.I.20</date></dateline>
-
-<salute><rs ref="#tillich_person_id__1928" type="person">Paul</rs>, mein armer Junge!</salute>
-
-</opener>
-
-<p>So ein schweres Jahr war 1919, und nun fängt 1920 auch gleich wieder so schrecklich an. Ich habe eben in <rs ref="#tillich_place_id__42" type="place">Lichterfelde</rs> angeläutet und von Deinem <rs type="person" ref="#tillich_person_id__641">Schwager</rs> erfahren, daß Du in <unclear cert="low">Barmen</unclear> bist, und aus <pb n="2"/>welchem Anlaß. Du Armer, es wird Dir wenig erspart an Leiden. Gott muß Dir viel Kraft zu trauen, daß er soviel von Dir verlangt. Ich denke nun immer, was aus <rs ref="#tillich_person_id__1935" type="person">den Kindern</rs> wird, ob die nun wohl zu <rs ref="#tillich_person_id__1762" type="person">Deiner Schwester</rs> nach <rs ref="#tillich_place_id__129" type="place">Dölzig</rs> kommen. Wenn es mit <rs ref="#tillich_person_id__1931" type="person">Greti</rs> und Dir anders <pb n="3"/>läge, müßten sie zu Dir. Du hättest Freude daran. Ist das Neugeborene am Leben geblieben? Ach <rs ref="#tillich_person_id__1928" type="person">Paul</rs>, lieber Freund, ich merke, daß es sich nicht verwischen läßt, was einmal an Gemeinsamkeit zwischen uns aufgeblüht ist, und daß ich ganz stark und innig mit Dir fühle und Dir mit dem ganzen bißchen, was ich bin und habe, helfen möchte. Ich bin froh, daß ich erst nächste Woche (am <date when="1920-01-15">15</date> ca.) fahre. Da kann ich Dich doch noch sprechen und Dir sagen, wie ich neben Dir stehe und mit Dir fühle. Laß michs bald wissen, wenn Du wieder hier bist, ja? Ich schreibe nicht erst nach <rs ref="#tillich_place_id__74" type="place">Bremen</rs>, weil ich annehme, daß es Dich da nicht mehr erreicht.</p>
-
-<closer>
-
-<salute>In herzlicher Freundschaft</salute>
-
-<signed><rs ref="#tillich_person_id__1679" type="person">L.S.</rs></signed>
-
-</closer>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Lotte Salz an Paul Tillich <lb/>vom 6. Januar 1920</title>
+            <author ref="#tillich_person_id__1679">Lotte Salz</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/181(20)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1679">Lotte Salz</persName>
+               <date when="1920-01-06">06.01.1920</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession" resp="#tillich_person_id__1679">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <date when="1920-01-06">6.I.20</date>
+               </dateline>
+               <salute>
+                  <rs ref="#tillich_person_id__1928" type="person">Paul</rs>, mein armer Junge!</salute>
+            </opener>
+            <p>So ein schweres Jahr war 1919, und nun fängt 1920 auch gleich wieder so schrecklich an. Ich habe eben in <rs ref="#tillich_place_id__42" type="place">Lichterfelde</rs> angeläutet und von Deinem <rs type="person" ref="#tillich_person_id__641">Schwager</rs> erfahren, daß Du in <unclear cert="low">Barmen</unclear> bist, und aus <pb n="2"/>welchem Anlaß. Du Armer, es wird Dir wenig erspart an Leiden. Gott muß Dir viel Kraft zu trauen, daß er soviel von Dir verlangt. Ich denke nun immer, was aus <rs ref="#tillich_person_id__1935" type="person">den Kindern</rs> wird, ob die nun wohl zu <rs ref="#tillich_person_id__1762" type="person">Deiner Schwester</rs> nach <rs ref="#tillich_place_id__129" type="place">Dölzig</rs> kommen. Wenn es mit <rs ref="#tillich_person_id__1931" type="person">Greti</rs> und Dir anders <pb n="3"/>läge, müßten sie zu Dir. Du hättest Freude daran. Ist das Neugeborene am Leben geblieben? Ach <rs ref="#tillich_person_id__1928" type="person">Paul</rs>, lieber Freund, ich merke, daß es sich nicht verwischen läßt, was einmal an Gemeinsamkeit zwischen uns aufgeblüht ist, und daß ich ganz stark und innig mit Dir fühle und Dir mit dem ganzen bißchen, was ich bin und habe, helfen möchte. Ich bin froh, daß ich erst nächste Woche (am <date when="1920-01-15">15</date> ca.) fahre. Da kann ich Dich doch noch sprechen und Dir sagen, wie ich neben Dir stehe und mit Dir fühle. Laß michs bald wissen, wenn Du wieder hier bist, ja? Ich schreibe nicht erst nach <rs ref="#tillich_place_id__74" type="place">Bremen</rs>, weil ich annehme, daß es Dich da nicht mehr erreicht.</p>
+            <closer>
+               <salute>In herzlicher Freundschaft</salute>
+               <signed>
+                  <rs ref="#tillich_person_id__1679" type="person">L.S.</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

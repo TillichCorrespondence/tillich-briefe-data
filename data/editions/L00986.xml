@@ -1,99 +1,103 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00986">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Paul Tillich an Hannah Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich
                <lb/>vom 5. September 1928 [PS]
            </title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0007-2445-9093">Niklas von Hülsen</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement>Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Hannah. Papers, 1896-1976</collection>
-<idno>bMS 721/2(25)</idno>
-</msIdentifier>
-<physDesc>
-<p>Postkarte, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__23">Bad Reichenhall</placeName>
-<date when="1928-09-05">05.09.1928</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-<placeName ref="#tillich_place_id__532">Kloster (Hiddensee)</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-08-24" who="NH">Initiale Auszeichnung des Transkripts</change>
-<change when="2023-12-19" who="FS">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="postcard">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-</opener>
-        <p><rs ref="#tillich__QRGG4AWA" type="work">Vortrag</rs> vorbei:<note type="ea">Tillich nahm am Herbstlehrgang der Deutschen Vereinigung für staatswissenschaftliche Fortbildung teil, der vom <date from="1928-08-26" to="1928-09-15">26. August 1928 bis 15. September 1928</date> in <rs ref="#tillich_place_id__23" type="place">Bad Reichenhall</rs> stattfand.</note> Einigermaßen gelungen, vor allem wegen freien Sprechens. Vor mir <rs ref="#tillich_person_id__2673" type="person">Jakob Wassermann</rs>, mit dem ich mich sehr gut verstand. Er sprach über Judentum. – <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs> sagte mir: Je länger es dauerte, desto günstiger wäre es.<note type="ea">Hier und im Folgenden spielt Tillich auf die Verhandlungen an, ihn als Nachfolger für <rs ref="#tillich_person_id__1761" type="person">Reinhold Seeberg</rs> nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> zu holen. Der Versuch scheiterte ebenso wie die von Tillich im Verlauf dieses Schreibens erwähnte Kandidatur für die systematisch-theologische Professur in <rs ref="#tillich_place_id__68" type="place">Bonn</rs>.</note> Der <rs ref="#tillich_person_id__169" type="person">Minister</rs> hat die Sache schon gehört, wird sich aber <hi rend="u">kaum vor Weihnachten</hi> entscheiden. Kirche sehr stark gegen mich. <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs> viel meinetwegen angefeindet. Auch wegen <rs ref="#tillich_place_id__68" type="place">Bonn</rs> starke Abwehr der Kirche. – Wir wohnen in einem fabelhaften Hotel, überhaupt viel Ähnlichkeit mit <rs ref="#tillich_place_id__119" type="place">Davos</rs>, nur mehr Politiker und Berühmtheiten hier.<pb n="2"/></p>
-<p>Heute fahre ich nach <rs ref="#tillich_place_id__387" type="place">Salzburg</rs> im Auto mit <rs ref="#tillich_person_id__1760" type="person"><rs ref="#tillich_person_id__1761" type="person">Seebergs</rs></rs>: Morgen <rs ref="#tillich_place_id__533" type="place">Königssee</rs>! – Eben auf Grund meines Vortrags mit <rs ref="#tillich_person_id__2673" type="person">Wassermann</rs> sehr angefreundet. Er will mir Sachen von sich schenken. Heißes Sonnenwetter! – <rs ref="#tillich_person_id__1099" type="person">Kroner</rs> liegt Ischias-krank eine Treppe höher! Er ist erschüttert von einem fabelhaften Horoskop, den er erhalten hat!
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0007-2445-9093">Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement>Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                  <idno>bMS 721/2(25)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__23">Bad Reichenhall</placeName>
+               <date when="1928-09-05">05.09.1928</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <placeName ref="#tillich_place_id__532">Kloster (Hiddensee)</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-08-24" who="NH">Initiale Auszeichnung des Transkripts</change>
+         <change when="2023-12-19" who="FS">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+            </opener>
+            <p>
+               <rs ref="#tillich__QRGG4AWA" type="work">Vortrag</rs> vorbei:<note type="ea">Tillich nahm am Herbstlehrgang der Deutschen Vereinigung für staatswissenschaftliche Fortbildung teil, der vom <date from="1928-08-26" to="1928-09-15">26. August 1928 bis 15. September 1928</date> in <rs ref="#tillich_place_id__23" type="place">Bad Reichenhall</rs> stattfand.</note> Einigermaßen gelungen, vor allem wegen freien Sprechens. Vor mir <rs ref="#tillich_person_id__2673" type="person">Jakob Wassermann</rs>, mit dem ich mich sehr gut verstand. Er sprach über Judentum. – <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs> sagte mir: Je länger es dauerte, desto günstiger wäre es.<note type="ea">Hier und im Folgenden spielt Tillich auf die Verhandlungen an, ihn als Nachfolger für <rs ref="#tillich_person_id__1761" type="person">Reinhold Seeberg</rs> nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> zu holen. Der Versuch scheiterte ebenso wie die von Tillich im Verlauf dieses Schreibens erwähnte Kandidatur für die systematisch-theologische Professur in <rs ref="#tillich_place_id__68" type="place">Bonn</rs>.</note> Der <rs ref="#tillich_person_id__169" type="person">Minister</rs> hat die Sache schon gehört, wird sich aber <hi rend="u">kaum vor Weihnachten</hi> entscheiden. Kirche sehr stark gegen mich. <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs> viel meinetwegen angefeindet. Auch wegen <rs ref="#tillich_place_id__68" type="place">Bonn</rs> starke Abwehr der Kirche. – Wir wohnen in einem fabelhaften Hotel, überhaupt viel Ähnlichkeit mit <rs ref="#tillich_place_id__119" type="place">Davos</rs>, nur mehr Politiker und Berühmtheiten hier.<pb n="2"/>
+            </p>
+            <p>Heute fahre ich nach <rs ref="#tillich_place_id__387" type="place">Salzburg</rs> im Auto mit <rs type="person" ref="#tillich_person_id__1760 #tillich_person_id__1761">Seebergs</rs>: Morgen <rs ref="#tillich_place_id__533" type="place">Königssee</rs>! – Eben auf Grund meines Vortrags mit <rs ref="#tillich_person_id__2673" type="person">Wassermann</rs> sehr angefreundet. Er will mir Sachen von sich schenken. Heißes Sonnenwetter! – <rs ref="#tillich_person_id__1099" type="person">Kroner</rs> liegt Ischias-krank eine Treppe höher! Er ist erschüttert von einem fabelhaften Horoskop, den er erhalten hat!
         </p>
-<closer>
-<salute>Viele innigste Grüße<lb/>
+            <closer>
+               <salute>Viele innigste Grüße<lb/>
 Dein</salute>
-<signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-</closer>
-</div>
-</body>
-</text>
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Paul</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

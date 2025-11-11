@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00207">
    <teiHeader>
       <fileDesc>
@@ -83,15 +83,21 @@
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <p><foreign xml:lang="fr">Ni à <rs ref="#tillich_place_id__343" type="place">Paris</rs>,
-                  ni à <rs ref="#tillich_place_id__271" type="place">Londres</rs>, ni à <rs
-                     ref="#tillich_place_id__369" type="place">Rome</rs>, mais à <rs
-                     ref="#tillich_place_id__310" type="place">Nancy</rs>! Mes remerciements pour
-                  votre carte!</foreign></p>
+            <p>
+               <foreign xml:lang="fr">Ni à <rs ref="#tillich_place_id__343" type="place">Paris</rs>,
+                  ni à <rs ref="#tillich_place_id__271" type="place">Londres</rs>, ni à <rs ref="#tillich_place_id__369" type="place">Rome</rs>, mais à <rs ref="#tillich_place_id__310" type="place">Nancy</rs>! Mes remerciements pour
+                  votre carte!</foreign>
+            </p>
             <closer>
-               <salute><foreign xml:lang="fr">Toujours ton</foreign></salute>
-               <signed><hi rend="u"><rs ref="#tillich_person_id__2138" type="person">O.
-                     Heller</rs></hi></signed>
+               <salute>
+                  <foreign xml:lang="fr">Toujours ton</foreign>
+               </salute>
+               <signed>
+                  <hi rend="u">
+                     <rs ref="#tillich_person_id__2138" type="person">O.
+                     Heller</rs>
+                  </hi>
+               </signed>
             </closer>
             <postscript>
                <p>8st. Berufsarbeiter a. D.</p>
@@ -100,7 +106,11 @@
          </div>
          <div type="ZweiteHandschrift">
             <p>Dein alter Bekannter</p>
-            <closer><signed><unclear>¿¿¿</unclear></signed></closer>
+            <closer>
+               <signed>
+                  <unclear>¿¿¿</unclear>
+               </signed>
+            </closer>
          </div>
       </body>
    </text>

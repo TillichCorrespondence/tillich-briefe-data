@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01091">
    <teiHeader>
       <fileDesc>
@@ -77,16 +77,17 @@
          <change who="PS" when="2023-07-10">Initiale Auszeichnung des Transkripts</change>
          <change who="FS" when="2024-01-11">Endabnahme</change>
          <change when="2025-10-30" who="FS">Erklärende Anmerkungen überprüft und ergänzt</change>
-
       </revisionDesc>
    </teiHeader>
    <text type="letter">
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <opener><dateline>
+            <opener>
+               <dateline>
                   <rs ref="#tillich_place_id__223" type="place">Jade</rs>, d. <date when="1931-02-28">28. II.
-                     31.</date></dateline>
+                     31.</date>
+               </dateline>
                <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>,</salute>
             </opener>
             <p>Ich <rs ref="#tillich__KIPZB9Y2" type="work">übersende Ihnen hier eine kleine Legende</rs>, die mir formal ziemlich mißglückt zu
@@ -97,7 +98,7 @@
                Bevormundung in <rs type="place" ref="#tillich_place_id__279">Marburg</rs> entronnen zu sein. Hier auf meinem
                einsamen Herrensitz, mit dem großen Park, der von tiefen Wassergräben umgeben ist, habe ich das Gefühl der
                   Freiheit<pb n="2"/> wieder gewonnen, das die Voraussetzung für geistiges Schaffen
-               ist. Die Gemeinde ist sehr schwierig. Ich kann die Männer in Nazis, Stahlhelmer<note type="ea">Angehörige des Ende 1928 gegründeten rechtsextremen Wehrverbandes &quot;Stahlhelm, Bund der Frontsoldaten&quot;. Politisch stand dieser paramilitärische Verband der Deutschnationalen Volkspartei (DNVP) nahe.</note> und
+               ist. Die Gemeinde ist sehr schwierig. Ich kann die Männer in Nazis, Stahlhelmer<note type="ea">Angehörige des Ende 1928 gegründeten rechtsextremen Wehrverbandes "Stahlhelm, Bund der Frontsoldaten". Politisch stand dieser paramilitärische Verband der Deutschnationalen Volkspartei (DNVP) nahe.</note> und
                Tannenberger<note type="ea">Angehörige des 1925 gegründeten völkischen Tannenbergbundes.</note> aufteilen. Bei der ersten Beerdigung gab es gleich einen Zusammenschluß,
                allerdings nicht politischer Art. Außerdem muß ich einen Prozeß führen, gegen einen
                Bauern, den der Kirchenrat so wenden will, daß ich ihn verliere. –</p>
@@ -105,12 +106,12 @@
                ihn bitte!</p>
             <closer>
                <salute>Mit herzlichen Grüßen auch an <rs ref="#tillich_person_id__1923" type="person">Ihre
-                  Frau</rs></salute>
-               bin ich Ihr <signed><rs ref="#tillich_person_id__2455" type="person">Walter Spitta</rs>.</signed>
+                  Frau</rs>
+               </salute>
+               bin ich Ihr <signed>
+                  <rs ref="#tillich_person_id__2455" type="person">Walter Spitta</rs>.</signed>
             </closer>
-
          </div>
-
       </body>
    </text>
 </TEI>

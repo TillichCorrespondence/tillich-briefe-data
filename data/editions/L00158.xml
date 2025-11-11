@@ -1,98 +1,99 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00158">
-     <teiHeader>
-          <fileDesc>
-               <titleStmt>
-                    <title>Brief von Hans Balke an Paul Tillich <lb/>vom 05. April 1907</title>
-                    <author ref="#tillich_person_id__128">Hans Balke</author>
-                    <respStmt>
-                         <resp>Editor</resp>
-                         <name key="https://orcid.org/0009-0003-2985-2151">Julian Jöri</name>
-                    </respStmt>
-               </titleStmt>
-               <editionStmt>
-                    <edition>
-                         <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Hans Balke an Paul Tillich <lb/>vom 05. April 1907</title>
+            <author ref="#tillich_person_id__128">Hans Balke</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-2985-2151">Julian Jöri</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                               1887-1933</title>
-                    </edition>
-               </editionStmt>
-               <publicationStmt>
-                    <publisher>
-                         <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                         <address>
-                              <street>Schenkenstraße 8-10</street>
-                              <postCode>1010</postCode>
-                              <placeName ref="#tillich_place_id__470">
-                                   <settlement>Wien</settlement>
-                                   <country>Österreich</country>
-                              </placeName>
-                         </address>
-                    </publisher>
-                    <availability>
-                         <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                               Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                    </availability>
-               </publicationStmt>
-               <sourceDesc>
-                    <msDesc type="manuscript">
-                         <msIdentifier>
-                              <country>USA</country>
-                              <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                              <institution>Harvard University</institution>
-                              <repository>Harvard Divinity School Library</repository>
-                              <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                              <idno>bMS 649/122(40)</idno>
-                         </msIdentifier>
-                         <physDesc>
-                              <p>Brief, eigenhändig</p>
-                         </physDesc>
-                    </msDesc>
-               </sourceDesc>
-          </fileDesc>
-          <encodingDesc>
-               <projectDesc>
-                    <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-               </projectDesc>
-               <editorialDecl>
-                    <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/122(40)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats.
                          Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-               </editorialDecl>
-          </encodingDesc>
-          <profileDesc>
-               <correspDesc>
-                    <correspAction type="sent">
-                         <persName ref="#tillich_person_id__128">Hans Balke</persName>
-                         <placeName ref="#tillich_place_id__318">Neviges</placeName>
-                         <date when="1907-04-05">05.04.1907</date>
-                    </correspAction>
-                    <correspAction type="received">
-                         <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    </correspAction>
-               </correspDesc>
-               <langUsage>
-                    <language ident="deu">Deutsch</language>
-               </langUsage>
-          </profileDesc>
-          <revisionDesc status="approved">
-               <change when="2022-05-25" who="JJ">Initiale Auszeichnung des Transkripts</change>
-               <change when="2023-10-02" who="EL">Endabnahme</change>
-          </revisionDesc>
-     </teiHeader>
-     <text type="letter">
-          <body>
-               <div type="writingSession">
-                    <pb n="1"/>
-                    <opener>
-                         <dateline><rs ref="#tillich_place_id__318" type="place">Neviges</rs>, den
-                                   <date when="1907-04-05">5. April 1907.</date></dateline>
-                         <salute>Lieber <rs ref="#tillich_person_id__1928" type="person"
-                              >Paul</rs>,</salute>
-                    </opener>
-                    <p>Hab herzlichen Dank für Deinen lb. Brief<note type="ea">Nicht
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__128">Hans Balke</persName>
+               <placeName ref="#tillich_place_id__318">Neviges</placeName>
+               <date when="1907-04-05">05.04.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2022-05-25" who="JJ">Initiale Auszeichnung des Transkripts</change>
+         <change when="2023-10-02" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__318" type="place">Neviges</rs>, den
+                                   <date when="1907-04-05">5. April 1907.</date>
+               </dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
+            </opener>
+            <p>Hab herzlichen Dank für Deinen lb. Brief<note type="ea">Nicht
                               überliefert.</note>. Leider konnte ich nicht eher dazu kommen, ihn zu
                          beantworten; aber ich hoffe, Du wirst mich auch jetzt noch in Gnaden
                          ansehn.</p>
-                    <p>Dass Du mit einer Erkältung zu Bett gelegen hast, tut mir furchtbar leid.
+            <p>Dass Du mit einer Erkältung zu Bett gelegen hast, tut mir furchtbar leid.
                          Hoffentlich bist Du jetzt wiederhergestellt. Sonst lade ich Dich ein,
                          schleunigst hierher zu kommen; in der prachtvollen Luft und dem schönen
                          Sonnenschein bist Du garantiert in wenigen Tagen wieder ganz gesund. Das
@@ -108,17 +109,15 @@
                          überall herrliche Gelegenheit. Nur für die schönen Wanderlieder kann ich
                          bei meinen Geschwistern trotz aller Bemühungen kein rechtes Verständnis
                          finden, doch hoffe ich, dass das später von selbst kommt, wenn sie mal erst
-                         grösser sind. Vor einigen Tagen besuchte mich <rs
-                              ref="#tillich_person_id__2537" type="person">Phil. Nell</rs> hier und
-                         erzählte mir einige nicht sehr erfreuliche Dinge von <rs
-                              ref="#tillich_place_id__68" type="place">Bonn</rs>, die beiden, die
+                         grösser sind. Vor einigen Tagen besuchte mich <rs ref="#tillich_person_id__2537" type="person">Phil. Nell</rs> hier und
+                         erzählte mir einige nicht sehr erfreuliche Dinge von <rs ref="#tillich_place_id__68" type="place">Bonn</rs>, die beiden, die
                          nach <rs ref="#tillich_place_id__189" type="place">Ha.</rs> kämen, seien
                          sehr harmlos und würden uns keine Schwierigkeiten machen. Dass ich für
                          Kirchengeschichte schon arbeite, brauchst Du nicht zu fürchten; ich besitze
                          den den <rs ref="#tillich__KTC4BTXI" type="work">kl. Kurtz</rs> noch
                          garnicht. Auch bin ich froh, wenn ich <pb n="3"/>bei dem geplanten Pensum
                          mit sehr häufigen Ausnahmen bleiben kann.</p>
-                    <p>Ich habe mich kürzlich noch einmal etwas mit dem
+            <p>Ich habe mich kürzlich noch einmal etwas mit dem
                          Prinzipsstreit<!--<note type="ea">Prinzipienstreit</note>--> befasst und
                          habe auch jeden Rest von Freude an der Sache eingebüsst. Wir haben trotz
                          aller Anstrengungen garnichts erreicht. Das einzig Positive ist das, dass
@@ -126,12 +125,10 @@
                          geübt wurde, auch aus den Anmerkungen entfernt ist. Das ist alles wahrlich
                          wenig genug. Ferner liegt nach meiner Überzeugung die Sache so: wie vor 3
                          Semestern, so stehen sich auch heute noch die Parteien ohne ganzes
-                         Verständnis gegenüber. Es schien uns in <rs ref="#tillich_place_id__189"
-                              type="place">Ha.</rs> nur so, als ob man im andern Lager ganz
+                         Verständnis gegenüber. Es schien uns in <rs ref="#tillich_place_id__189" type="place">Ha.</rs> nur so, als ob man im andern Lager ganz
                          verstanden hätte, was wir wollten. Nach wie vor wirft man uns dogmatische
                          Engherzigkeit und fanatisches Theologisieren vor. Ein Versuch, die Lage
-                         noch irgendwie zu klären, hat gar keinen Zweck, da der Kampf <pb n="4"
-                         />allen zum Halse heraushängt. Sie erkennen die Differenzen und den Ernst
+                         noch irgendwie zu klären, hat gar keinen Zweck, da der Kampf <pb n="4"/>allen zum Halse heraushängt. Sie erkennen die Differenzen und den Ernst
                          der Entscheidung nicht. Ihnen fehlt jedes Verständnis für das biblische
                          Christentum und die christliche Verbindungsgrundlage. Sie halten die in
                          Deinem Artikel<!--<note type="ea">Artikel</note>--> herausgearbeitete
@@ -155,109 +152,99 @@
                          aufzuheben, und dann das Boot eine Zeitlang ruhig treiben zu lassen; so
                          schmerzlich es ja auch ist, nicht energisch mit Hand ans Ruder legen zu
                          können. Wie unklar noch die Sache ist, wurde mir wieder von neuem klar
-                         durch die private Nachricht, dass <rs ref="#tillich_person_id__2538"
-                              type="person">Bartels</rs> die Schuld an der verhängnisvollen
+                         durch die private Nachricht, dass <rs ref="#tillich_person_id__2538" type="person">Bartels</rs> die Schuld an der verhängnisvollen
                          Einfügung des <q>dadurch</q> u. <q>deren Mitglieder</q> trage und die Verbindung
-                         damit überrumpelt habe; so wird dann der Protest <rs
-                              ref="#tillich_place_id__186" type="place">Göttingens</rs> doch
+                         damit überrumpelt habe; so wird dann der Protest <rs ref="#tillich_place_id__186" type="place">Göttingens</rs> doch
                          verständlich. <pb n="6"/> Diese meine pessimistische Ansicht über den Bund
-                         wurde auf dem <rs ref="#tillich_place_id__130" type="place"
-                              >Düsseldorfer</rs> Philistertag<note type="ea">Der <rs ref="#tillich_place_id__130" type="place">Düsseldorfer</rs> Philistertag fand am 4. April 1907 statt.<rs ref="#tillich_person_id__128" type="person">Hans Balke</rs> nahm als Zweitchargierter der <rs ref="#tillich_place_id__189" type="place">Hallenser</rs> Verbindung daran teil. Sein Verdruss erklärte sich daraus, dass die Teilnehmer des Philistertages sich geweigert hatten, über den laufenden Prinzipienstreit zu diskutieren. <rs ref="#tillich__V67I69JL" type="work"> (Siehe: Herkenrath: Düsseldorfer Philistertag, in: Wingolfs-Blätter 36 (1906/07), Heft 15, S. 129.)</rs> Überhaupt war man in <rs ref="#tillich_place_id__189" type="place">Halle</rs> erbost über Verbindungen, die keine eigene Stellungnahme zum Prinzipienstreit erarbeiteten: <q>Die Gruppierung war die, daß auf beiden Seiten etwa 5 Verbindungen standen, die mit klarem Bewußtsein ihr Ziel verfolgten. Dazwischen stand eine Reihe von Verbindungen, die sog. Mittelpartei, die durch ihre Indifferenz und Verständnislosigkeit dem Bundesgedanken gegenüber die eigentliche Schuld an dem verhängnisvollen Resultat tragen.</q> <rs ref="#tillich__8BIIYRR2" type="work"> (Paul Tillich: Die Bundesentwicklung der letzten drei Semester, ihre Ursachen und ihr Resultat. Ein Appell an die Philister, in: Wingolfs-Blätter 36 (1906/07), Heft 10, S. 84.)</rs> Der <rs ref="#tillich_place_id__418" type="place">Straßburger</rs> Philister Nast veröffentlichte daraufhin eine Verteidigung der sog. Mittelpartei: <q>Man kämpft darum, ob man dem neuen, das herein will, Einlaß gewähren soll oder nicht.  Was aber das Neue ist, ist schwer zu sagen, denn es ist selbst noch erst in der Entwicklung [...]. Die Mittelpartei nun steht dem Neuen günstig, aber abwartend gegenüber. Ihre Angehörige sehen Fehler am  Alten, aber das Neue ist ihnen noch nicht derart geklärt, daß sie sich dafür entscheiden, wenn ihnen auch vieles daran sympathisch ist. Die Folge davon ist, daß sie entweder: abwarten, was die andern dabei herausbringen, oder: eingreifen von Fall zu Fall</q>. <rs ref="#tillich__BXEJLXW5" type="work">  (Nast: Auch ein Appell an die Philister,in: Wingolfs-Blätter 36 (1906/07), Heft 13, S. 108.)</rs> Er resümiert: „[...] die Mittelpartei hat als Verbindungsideal das einer christlichen Gemeinschaft auf biblischer Grundlage, die aber dem Subjektivismus Raum läßt.“ <rs ref="#tillich__BXEJLXW5" type="work">(Ebd.)</rs>, S. 109.</note>, an dem ich gestern teilnahm, nicht
+                         wurde auf dem <rs ref="#tillich_place_id__130" type="place">Düsseldorfer</rs> Philistertag<note type="ea">Der <rs ref="#tillich_place_id__130" type="place">Düsseldorfer</rs> Philistertag fand am 4. April 1907 statt.<rs ref="#tillich_person_id__128" type="person">Hans Balke</rs> nahm als Zweitchargierter der <rs ref="#tillich_place_id__189" type="place">Hallenser</rs> Verbindung daran teil. Sein Verdruss erklärte sich daraus, dass die Teilnehmer des Philistertages sich geweigert hatten, über den laufenden Prinzipienstreit zu diskutieren. <rs ref="#tillich__V67I69JL" type="work"> (Siehe: Herkenrath: Düsseldorfer Philistertag, in: Wingolfs-Blätter 36 (1906/07), Heft 15, S. 129.)</rs> Überhaupt war man in <rs ref="#tillich_place_id__189" type="place">Halle</rs> erbost über Verbindungen, die keine eigene Stellungnahme zum Prinzipienstreit erarbeiteten: <q>Die Gruppierung war die, daß auf beiden Seiten etwa 5 Verbindungen standen, die mit klarem Bewußtsein ihr Ziel verfolgten. Dazwischen stand eine Reihe von Verbindungen, die sog. Mittelpartei, die durch ihre Indifferenz und Verständnislosigkeit dem Bundesgedanken gegenüber die eigentliche Schuld an dem verhängnisvollen Resultat tragen.</q>
+                  <rs ref="#tillich__8BIIYRR2" type="work"> (Paul Tillich: Die Bundesentwicklung der letzten drei Semester, ihre Ursachen und ihr Resultat. Ein Appell an die Philister, in: Wingolfs-Blätter 36 (1906/07), Heft 10, S. 84.)</rs> Der <rs ref="#tillich_place_id__418" type="place">Straßburger</rs> Philister Nast veröffentlichte daraufhin eine Verteidigung der sog. Mittelpartei: <q>Man kämpft darum, ob man dem neuen, das herein will, Einlaß gewähren soll oder nicht.  Was aber das Neue ist, ist schwer zu sagen, denn es ist selbst noch erst in der Entwicklung [...]. Die Mittelpartei nun steht dem Neuen günstig, aber abwartend gegenüber. Ihre Angehörige sehen Fehler am  Alten, aber das Neue ist ihnen noch nicht derart geklärt, daß sie sich dafür entscheiden, wenn ihnen auch vieles daran sympathisch ist. Die Folge davon ist, daß sie entweder: abwarten, was die andern dabei herausbringen, oder: eingreifen von Fall zu Fall</q>. <rs ref="#tillich__BXEJLXW5" type="work">  (Nast: Auch ein Appell an die Philister,in: Wingolfs-Blätter 36 (1906/07), Heft 13, S. 108.)</rs> Er resümiert: „[...] die Mittelpartei hat als Verbindungsideal das einer christlichen Gemeinschaft auf biblischer Grundlage, die aber dem Subjektivismus Raum läßt.“ <rs ref="#tillich__BXEJLXW5" type="work">(Ebd.)</rs>, S. 109.</note>, an dem ich gestern teilnahm, nicht
                          gerade verbessert. Auf dem Konvent wurde jede Berührung des Principkampfes
                          von weitem abgehauen; (es herrschte fast ausschließlich der <q>Bonner Geist</q>
                          vor) es muss doch sehr schlimm stehen, wenn Philister und Aktive von dem,
                          was für den Bund die Lebensfrage ist, einfach nichts mehr wissen wollen,
                          obwohl die Philister sämtlich eine Aufklärung sehr nötig gehabt hätten. Ich
                          trat energisch für weitere Verbreitung inoffizieller Bibelkränze ein, drang
-                         aber nicht durch. Sie bestehen zur Zeit nur in <rs
-                              ref="#tillich_place_id__189" type="place">Ha.</rs>!! Ein Philister
+                         aber nicht durch. Sie bestehen zur Zeit nur in <rs ref="#tillich_place_id__189" type="place">Ha.</rs>!! Ein Philister
                          betonte die von der <choice>
-                              <abbr>D.C.S.V.</abbr>
-                              <expan>Deutsch-Christliche Studenten-Vereinigung</expan>
-                         </choice> uns drohende Gefahr, doch wollte man auch darauf nicht näher
+                  <abbr>D.C.S.V.</abbr>
+                  <expan>Deutsch-Christliche Studenten-Vereinigung</expan>
+               </choice> uns drohende Gefahr, doch wollte man auch darauf nicht näher
                          eingehen. <rs ref="#tillich_person_id__2539" type="person">Ohl</rs> suchte
                          energisch eine Resolution gegen den <choice>
-                              <abbr>W. Bl.</abbr>
-                              <expan>Wingolfsblätter</expan>
-                         </choice> Ausschuss durchzubringen,<note type="ea">Der Wingolfs-Blätter-Ausschuss wurde auf dem Generalkonvent des 27. Wartburgfestes am 15. Juli 1905 durch Zusammenlegung zweier bestehender Presseausschüsse des Wingolfsbundes gegründet. Dem Ausschuss, der dem Verband Alter Wingolfiten (V.A.W.), der die Wingolfs-Blätter herausgab, affiliiert wurde, oblag fortan die redaktionelle sowie finanzielle Verwaltung der Wingolfs-Blätter. Er bestand aus dem <q>Vorsitzenden des V.A.W. als Vorsitzendem, dem Schriftleiter der W.-Bl., dem Bundes-X und einem 2. Vertreter des Wingolfsbundes, der von den Verbindungen ihrem Alter nach semesterweise zu ernennen ist; ferner aus 3 Philistern, die vom Generalkonvent auf gemeinsamen Vorschlag des Ph. A. W. [Philister-Ausschuß des Wingolfsbundes] und des Vertreters des W.-B. auf 4 Jahre gewählt werden.</q> <rs ref="#tillich__SSN4VITH" type="work">(Richard Wagner: Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juni 1905 im Festsaale des Fürstenhofes zu Eisenach, in: Wingolfs-Blätter 34 (1904/05), Heft 21, S. 187.)</rs> <lb/>Im Laufe des sog. Prinzipienstreits wuchs offenkundig das Misstrauen gegen die Berichterstattung der Wingolfs-Blätter bei eher liberal eingestellten Verbindungen. Am 5. Mai 1907 stellte der <rs ref="#tillich_place_id__68" type="place">Bonner</rs> Wingolf vor dem Bund den Antrag, den Wingolfs-Blätter-Ausschuss neu zu konstituieren und den Verbindungen des Wingolfsbundes bei dessen Zusammensetzung mehr Einfluss zu geben. Dieser Antrag wurde abgelehnt. <rs ref="#tillich__5EF6WG2L" type="work"> (Vgl. August Hirtzel: Bundesprotokoll für das I. Quartal des Sommersemesters 1907, in: Wingolfs-Blätter 36 (1906/07), Heft 19, S. 171.)</rs> In diesem Kontext dürfte auch die genannte gescheiterte Resolution auf dem <rs ref="#tillich_place_id__130" type="place">Düsseldorfer</rs> Philister-Tag zu verstehen sein.</note> um liberale Elemente hereinzukriegen,
+                  <abbr>W. Bl.</abbr>
+                  <expan>Wingolfsblätter</expan>
+               </choice> Ausschuss durchzubringen,<note type="ea">Der Wingolfs-Blätter-Ausschuss wurde auf dem Generalkonvent des 27. Wartburgfestes am 15. Juli 1905 durch Zusammenlegung zweier bestehender Presseausschüsse des Wingolfsbundes gegründet. Dem Ausschuss, der dem Verband Alter Wingolfiten (V.A.W.), der die Wingolfs-Blätter herausgab, affiliiert wurde, oblag fortan die redaktionelle sowie finanzielle Verwaltung der Wingolfs-Blätter. Er bestand aus dem <q>Vorsitzenden des V.A.W. als Vorsitzendem, dem Schriftleiter der W.-Bl., dem Bundes-X und einem 2. Vertreter des Wingolfsbundes, der von den Verbindungen ihrem Alter nach semesterweise zu ernennen ist; ferner aus 3 Philistern, die vom Generalkonvent auf gemeinsamen Vorschlag des Ph. A. W. [Philister-Ausschuß des Wingolfsbundes] und des Vertreters des W.-B. auf 4 Jahre gewählt werden.</q>
+                  <rs ref="#tillich__SSN4VITH" type="work">(Richard Wagner: Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juni 1905 im Festsaale des Fürstenhofes zu Eisenach, in: Wingolfs-Blätter 34 (1904/05), Heft 21, S. 187.)</rs>
+                  <lb/>Im Laufe des sog. Prinzipienstreits wuchs offenkundig das Misstrauen gegen die Berichterstattung der Wingolfs-Blätter bei eher liberal eingestellten Verbindungen. Am 5. Mai 1907 stellte der <rs ref="#tillich_place_id__68" type="place">Bonner</rs> Wingolf vor dem Bund den Antrag, den Wingolfs-Blätter-Ausschuss neu zu konstituieren und den Verbindungen des Wingolfsbundes bei dessen Zusammensetzung mehr Einfluss zu geben. Dieser Antrag wurde abgelehnt. <rs ref="#tillich__5EF6WG2L" type="work"> (Vgl. August Hirtzel: Bundesprotokoll für das I. Quartal des Sommersemesters 1907, in: Wingolfs-Blätter 36 (1906/07), Heft 19, S. 171.)</rs> In diesem Kontext dürfte auch die genannte gescheiterte Resolution auf dem <rs ref="#tillich_place_id__130" type="place">Düsseldorfer</rs> Philister-Tag zu verstehen sein.</note> um liberale Elemente hereinzukriegen,
                          doch glückte ihm das <sic>glücklicherweise vorbei</sic>. Im <choice>
-                              <abbr>S.S.</abbr>
-                              <expan>Sommersemester</expan>
-                         </choice> wird <rs ref="#tillich_place_id__68" type="place">Bonn</rs>
+                  <abbr>S.S.</abbr>
+                  <expan>Sommersemester</expan>
+               </choice> wird <rs ref="#tillich_place_id__68" type="place">Bonn</rs>
                               mit<pb n="7"/> einem derartigen Antrag kommen. Es schien mir, als ob
                          die anwesenden Philister doch meist auf unser Seite gestanden hätten und
                          hatte grosse Lust, Einiges ihnen klarzuschneiden, aber es war leider
                          garnichts zu machen. Doch nun genug davon; verzeih, dass ich meinem etwas
                          bedrückten Herzen mal Luft gemacht habe. Ich fange an, an der Zukunft des
                          Wingolfs zu verzweifeln, wenn nur die <choice>
-                              <abbr>D.C.S.V.</abbr>
-                              <expan>Deutsch-Christliche Studenten-Vereinigung</expan>
-                         </choice> vernünftig wäre, vor ab ist da aber noch garnichts zu machen.
+                  <abbr>D.C.S.V.</abbr>
+                  <expan>Deutsch-Christliche Studenten-Vereinigung</expan>
+               </choice> vernünftig wäre, vor ab ist da aber noch garnichts zu machen.
                          Jedenfalls weg mit längerem Bundeskampf, ich glaube es ist Unrecht, noch
                          mehr Zeit und Kraft daranzuwenden; draussen warten unser weit grössere
-                         Aufgaben. <q>Im engen Kreis verengert sich der Sinn</q><note type="ea"><rs
-                                   type="work" ref="#tillich__2LCL8RRU" n="11">Schiller, Friedrich:
+                         Aufgaben. <q>Im engen Kreis verengert sich der Sinn</q>
+               <note type="ea">
+                  <rs type="work" ref="#tillich__2LCL8RRU" n="11">Schiller, Friedrich:
                                    Wallenstein, 11</rs>
-                         </note>. Vielleicht zeigt <rs ref="#tillich_person_id__1874" type="person"
-                              >Stratmann</rs> uns einen Weg, der uns aus dem Labyrinth herausführt
-                         und wenigstens einige Trümmer rettet. – Die Kneipe in <rs
-                              ref="#tillich_place_id__130" type="place">Düsseldorf</rs> war für mich
-                         wenig erfreulich, am liebsten wäre ich wie <rs
-                              ref="#tillich_person_id__2159" type="person">Nell</rs> und <rs
-                              ref="#tillich_person_id__2542" type="person">Bredt</rs>, sofort nach
+               </note>. Vielleicht zeigt <rs ref="#tillich_person_id__1874" type="person">Stratmann</rs> uns einen Weg, der uns aus dem Labyrinth herausführt
+                         und wenigstens einige Trümmer rettet. – Die Kneipe in <rs ref="#tillich_place_id__130" type="place">Düsseldorf</rs> war für mich
+                         wenig erfreulich, am liebsten wäre ich wie <rs ref="#tillich_person_id__2159" type="person">Nell</rs> und <rs ref="#tillich_person_id__2542" type="person">Bredt</rs>, sofort nach
                          Hause gefahren, doch blieb ich wegen einiger<pb n="8"/> Philister noch
                          etwas da. Erfreulicher als der Philistertag waren die beiden Konferenzen,
-                         die ihm vorangingen.<note type="ea">Am 3. und 4. April 1907 fanden im Hotel Heck in <rs ref="#tillich_place_id__130" type="place">Düsseldorf</rs> zunächst die <rs ref="#tillich_place_id__987" type="place">Niederrheinische</rs> Missionskonferenz und dann die <rs ref="#tillich_place_id__987" type="place">Niederrheinische</rs> Predigerkonferenz statt. <rs ref="#tillich_person_id__1712" type="person">Adolf Schlatters</rs> Vortrag auf der Predigerkonferenz hatte den Titel <rs ref="#tillich__J3CYSYUL" type="work"><q>Recht und Geltung des kirchlichen Bekenntnisses</q></rs>. ([Anonym]: Lokales, in: Düsseldorfer General-Anzeiger, Nr. 94, 5. April 1907, 1. Beilage, S. 3.)</note> Auf der Missionskonferenz hielt <rs
-                              ref="#tillich_person_id__2543" type="person">lic. Warneck</rs> einen
+                         die ihm vorangingen.<note type="ea">Am 3. und 4. April 1907 fanden im Hotel Heck in <rs ref="#tillich_place_id__130" type="place">Düsseldorf</rs> zunächst die <rs ref="#tillich_place_id__987" type="place">Niederrheinische</rs> Missionskonferenz und dann die <rs ref="#tillich_place_id__987" type="place">Niederrheinische</rs> Predigerkonferenz statt. <rs ref="#tillich_person_id__1712" type="person">Adolf Schlatters</rs> Vortrag auf der Predigerkonferenz hatte den Titel <rs ref="#tillich__J3CYSYUL" type="work">
+                     <q>Recht und Geltung des kirchlichen Bekenntnisses</q>
+                  </rs>. ([Anonym]: Lokales, in: Düsseldorfer General-Anzeiger, Nr. 94, 5. April 1907, 1. Beilage, S. 3.)</note> Auf der Missionskonferenz hielt <rs ref="#tillich_person_id__2543" type="person">lic. Warneck</rs> einen
                          sehr interessanten Vortrag über die eingebornen Lehrer und Helfer unter den
-                         Batak, Missionsinspektor <rs ref="#tillich_person_id__3706" type="person"
-                              >Spicker</rs>, der gerade von einer 1 ½ jährigen Reise durch ganz
+                         Batak, Missionsinspektor <rs ref="#tillich_person_id__3706" type="person">Spicker</rs>, der gerade von einer 1 ½ jährigen Reise durch ganz
                          Afrika zurückgekehrt war, berichtete von der grossartigen Sammelarbeit der
                          rheinischen Missionare nach dem Kriege, man dürfe hoffen, dass aus den
                          Trümmern ein um so schönerer Neubau entstünde, es hätten weit mehr
                          Heidenchristen, als man erwartet hatte, Treue gehalten. – Mittwoch Abend
                          sass ich mit einigen bekannten Philistern noch recht gemütlich zusammen.
-                         Donnerstag morgen hielt auf der Predigerkonferenz <rs
-                              ref="#tillich_person_id__1712" type="person">Schlatter</rs> den
+                         Donnerstag morgen hielt auf der Predigerkonferenz <rs ref="#tillich_person_id__1712" type="person">Schlatter</rs> den
                          Hauptvortrag über Recht und Geltung des Bekenntnisses, wo er die Interessen
                          der Kirche wahrte und doch eine grossartige Weitherzigkeit an den Tag
                          legte, weswegen er in der Discussion heftig angegriffen<pb n="9"/> wurde.
                          Er demonstrierte absichtlich am Unservater. Bei der 2 stündigen erregten
-                         Discussion war der Ertrag sehr gering. Meine alte Vorliebe für <rs
-                              ref="#tillich_person_id__1712" type="person">Schlatter</rs> wurde mir
+                         Discussion war der Ertrag sehr gering. Meine alte Vorliebe für <rs ref="#tillich_person_id__1712" type="person">Schlatter</rs> wurde mir
                          bestärkt. Ich habe ihn auch kurz begrüsst, er freute sich, dass ich noch in
                               <rs ref="#tillich_place_id__189" type="place">Halle</rs> bliebe. Die
-                         ganze gestrige Anregung in <rs ref="#tillich_place_id__130" type="place"
-                              >Düsseldorf</rs> hat mir sehr wohl getan, man kann von solchen Tagen
-                         lange zehren. Als übrigens lic. <rs ref="#tillich_person_id__2543"
-                              type="person">Warneck</rs> von den eingebornen Helfern erzählte, sie
+                         ganze gestrige Anregung in <rs ref="#tillich_place_id__130" type="place">Düsseldorf</rs> hat mir sehr wohl getan, man kann von solchen Tagen
+                         lange zehren. Als übrigens lic. <rs ref="#tillich_person_id__2543" type="person">Warneck</rs> von den eingebornen Helfern erzählte, sie
                          könnte stundenlang mit Verstocktheit und Dummheit der Leute disputieren,
                          ohne sich aufzuregen oder es leid zu werden sah ich im Geiste Dich auf der
                               <rs ref="#tillich_place_id__467" type="place">Wartburg</rs>. – Heute
-                         nachmittag gibt&apos;s wieder eine sehr angenehme Unterhaltung des ruhigen
-                         Lebens: es kommen fünf Cousinen aus <rs ref="#tillich_place_id__30"
-                              type="place">Barmen</rs> in meinem Alter zu Besuch, worauf ich mich
-                         sehr freue. Nächste Woche erscheinen dann <rs
-                              ref="#tillich_person_id__2545" type="person">Schreiberle</rs> und <rs
-                              ref="#tillich_person_id__2185" type="person">Johs Meyersieck</rs>. Bis
+                         nachmittag gibt's wieder eine sehr angenehme Unterhaltung des ruhigen
+                         Lebens: es kommen fünf Cousinen aus <rs ref="#tillich_place_id__30" type="place">Barmen</rs> in meinem Alter zu Besuch, worauf ich mich
+                         sehr freue. Nächste Woche erscheinen dann <rs ref="#tillich_person_id__2545" type="person">Schreiberle</rs> und <rs ref="#tillich_person_id__2185" type="person">Johs Meyersieck</rs>. Bis
                          dahin hoffe ich noch ein ganz klein wenig zu arbeiten, obwohl bei dem
-                         schönen Wetter die Versuchung oft gar zu gross ist.<pb n="10"/> Von <rs
-                              ref="#tillich_person_id__203" type="person">Lorenz</rs> erhielt ich
+                         schönen Wetter die Versuchung oft gar zu gross ist.<pb n="10"/> Von <rs ref="#tillich_person_id__203" type="person">Lorenz</rs> erhielt ich
                          einen sehr netten Brief, worin er sich über alles sehr nett aussprach; wir
                          wollen ihm im nächsten Sommer sehr entgegenkommen; ich bin überzeugt, es
                          wird weit besser mit ihm gehen. Es tut mir leid, dass er nicht <choice>
-                              <abbr>Lbb.</abbr>
-                              <expan>Leibb</expan>
-                         </choice> berechtigt ist, obwohl er selbst es jetzt so für besser hält.</p>
-                    <p>Doch nun Schluss. Verzeih bitte das grässliche Geschmiere, hoffentlich kannst
+                  <abbr>Lbb.</abbr>
+                  <expan>Leibb</expan>
+               </choice> berechtigt ist, obwohl er selbst es jetzt so für besser hält.</p>
+            <p>Doch nun Schluss. Verzeih bitte das grässliche Geschmiere, hoffentlich kannst
                          Du es lesen.</p>
-                    <p>An Deine lb. Hausgenossen einen herzlichen Gruss</p>
-                    <closer>
-                         <salute>In Treuen Dein</salute>
-                         <signed><rs ref="#tillich_person_id__128" type="person">Hans
-                              B.</rs></signed>
-                    </closer>
-               </div>
-          </body>
-     </text>
+            <p>An Deine lb. Hausgenossen einen herzlichen Gruss</p>
+            <closer>
+               <salute>In Treuen Dein</salute>
+               <signed>
+                  <rs ref="#tillich_person_id__128" type="person">Hans
+                              B.</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

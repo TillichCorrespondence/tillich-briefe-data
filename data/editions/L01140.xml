@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01140">
    <teiHeader>
       <fileDesc>
@@ -51,7 +51,7 @@
             <biblStruct type="journal">
                <monogr>
                   <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                  <title>&quot;Beweise einer unsichtbaren Beziehung&quot; Die Korrespondenz zwischen Paul
+                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
                      Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
                   <imprint>
                      <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
@@ -93,14 +93,14 @@
       </profileDesc>
       <revisionDesc status="approved">
          <change who="SK" when="2023-07-18">Initiale Auszeichnung des Transkripts</change>
-
       </revisionDesc>
    </teiHeader>
    <text type="letter">
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <note type="eb">Der Brief enthält die Liste aus dem <rs type="letter" ref="L01139">vorherigen Brief </rs>mit einem Zusatz am Ende.</note><p> Deutsche Literaturzeitung<lb/>Logos
+            <note type="eb">Der Brief enthält die Liste aus dem <rs type="letter" ref="L01139">vorherigen Brief </rs>mit einem Zusatz am Ende.</note>
+            <p> Deutsche Literaturzeitung<lb/>Logos
                <lb/> Blätter für deutsche Philosophie<lb/> Geisteskultur<lb/> Philosophisches
                Jahrbuch<lb/> Philosophie und Leben<lb/> Die Tatwelt<lb/> Theologische Rundschau<lb/>
                Theologische Literaturzeitung<lb/> Christliche Welt<lb/> Zwischen den Zeiten<lb/>
@@ -114,11 +114,16 @@
                Leipziger Zeitung<lb/> Basler Nachrichten<lb/> Neue Zürcher Zeitung<lb/>
             </p>
             <p>ich vermisse noch <hi rend="u">Theologische Blätter</hi> und <hi rend="u">Zeitschrift für Religion und Sozialismus</hi>.<lb/>
-               <rs ref="#tillich_person_id__1723" type="person">Prof. D. K. L. Schmidt</rs>, <rs ref="#tillich_place_id__68" type="place">Bonn (Rhein)</rs><lb/>
+               <rs ref="#tillich_person_id__1723" type="person">Prof. D. K. L. Schmidt</rs>, <rs ref="#tillich_place_id__68" type="place">Bonn (Rhein)</rs>
+               <lb/>
                <rs ref="#tillich_person_id__2107" type="person">Prof. D. G. Wünsch</rs>, <rs ref="#tillich_place_id__279" type="place">Marburg (Lahn) Frankfurterstr. 16.</rs>
             </p>
             <closer>
-               <signed><ptr/><rs ref="#tillich_person_id__1928" type="person"><hi rend="hand">Tillich</hi></rs>.</signed>
+               <signed>
+                  <ptr/>
+                  <rs ref="#tillich_person_id__1928" type="person">
+                     <hi rend="hand">Tillich</hi>
+                  </rs>.</signed>
             </closer>
          </div>
       </body>

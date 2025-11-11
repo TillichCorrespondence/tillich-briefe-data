@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00061">
    <teiHeader>
       <fileDesc>
@@ -88,7 +88,9 @@
          <div type="writingSession" resp="#tillich_person_id__2085">
             <pb n="1"/>
             <opener>
-               <dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs> d. <date when="1905-06-05">5. Juni 1905.</date></dateline>
+               <dateline>
+                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs> d. <date when="1905-06-05">5. Juni 1905.</date>
+               </dateline>
                <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
             </opener>
             <p>Dein lieber Geburtstagsbrief<note type="ea">Nicht überliefert.</note> hat mich
@@ -113,33 +115,46 @@
                mich über folgendes gefreut:</p>
             <closer>
                <salute>Mit herzlichem Gruß</salute>
-               <signed><figure>
+               <signed>
+                  <figure>
                      <figDesc>[Darstellung: Stempel mit der Aufschrift: Toni Winkler Berlin S.W. 13.
                         Neuenburgerstr. 3.]</figDesc>
-                  </figure></signed>
+                  </figure>
+               </signed>
             </closer>
             <postscript>
                <p>Ich habe bis jetzt 59 Briefe bekommen, u. darunter sehr viele lange. <rs ref="#tillich_person_id__1924" type="person">Papa</rs> läßt Dir sagen, wenn es
                   Dir Freude macht, doch eine Depesche Dir zu besorgen, Du kannst Dir ja überlegen,
-                  ob es praktisch für das ist. Deine <rs ref="#tillich_person_id__2085" type="person">T. T.</rs></p>
+                  ob es praktisch für das ist. Deine <rs ref="#tillich_person_id__2085" type="person">T. T.</rs>
+               </p>
             </postscript>
          </div>
          <div resp="#tillich_person_id__1924">
             <p>Habe vielen Dank für Deinen Geburtstagsbrief<note type="ea">Nicht
                überliefert.</note>, m. l. Junge. –</p>
-            <closer><salute>Tausend Grüße</salute>
-               <signed>Dein tr. <rs ref="#tillich_person_id__1924" type="person">Vater</rs></signed></closer>
+            <closer>
+               <salute>Tausend Grüße</salute>
+               <signed>Dein tr. <rs ref="#tillich_person_id__1924" type="person">Vater</rs>
+               </signed>
+            </closer>
             <postscript>
                <p>Schreibe, wo Du Pfingsten bist. – Ich reise nicht.</p>
             </postscript>
          </div>
          <div resp="#tillich_person_id__1762">
-            <opener><salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute></opener>
+            <opener>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+            </opener>
             <p>Dem Garten geht es jetzt sehr gut. Ich war krank aber es war diesmal nicht schlim<add place="superlinear">m</add> Vielen Dank für Deine liebe Karte<note type="ea">Nicht überliefert.</note>. Auf Dich wurde von uns allen
                ein Hoch ausgebracht was Du wenn Du kommst hören <del rend="s">kanst</del>
-               kannst.</p><note type="ea">Offenkundig war bei dieser Gelegenheit der neue <q>Phonograph</q> zum Einsatz gekommen.</note>
-            <closer><salute>Herzlichen Gruß u. Kuß von Deiner treuen Schwester</salute>
-               <signed><rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs></signed></closer>
+               kannst.</p>
+            <note type="ea">Offenkundig war bei dieser Gelegenheit der neue <q>Phonograph</q> zum Einsatz gekommen.</note>
+            <closer>
+               <salute>Herzlichen Gruß u. Kuß von Deiner treuen Schwester</salute>
+               <signed>
+                  <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs>
+               </signed>
+            </closer>
          </div>
       </body>
    </text>

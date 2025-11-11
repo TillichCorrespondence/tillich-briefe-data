@@ -1,98 +1,91 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00732">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Richard Wegener an Paul Tillich <lb/>vom 30. August 1921</title>
-<author ref="#tillich_person_id__2020">Richard Wegener</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bMS 649/202(44)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__2020">Richard Wegener</persName>
-<date when="1921-08-30">30.08.1921</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession" resp="#tillich_person_id__2020">
-<pb n="1"/>
-<opener>
-
-<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paulus</rs>,</salute>
-
-</opener>
-
-<p>ich komme zum Abendessen nach Hause und finde wieder einen Brief<note type="ea">Nicht überliefert.</note> von <rs ref="#tillich_person_id__1931" type="person">Grethi</rs>. Im Allgemeinen hätte ich mich gefreut, mit ihr alles, was Kl. Betrifft, direkt brieflich besprechen zu können. Ich habe <sic>ich</sic> dieser auch bis vor wenigen Tagen geantwortet. Aber sie schmäht. Und das will ich nicht hören. Es ist aufs äußerste geschmacklos und unerfreulich. Von jetzt an werde ich keinen einzigen Brief mehr von ihr lesen, sondern jeden uneröffnet über die Flamme halten.</p>
-
-<closer>
-
-<salute>Meinen Brief bekamst Du wohl. Ich warte auf Antwort. Inzwischen grüße ich Dich.</salute>
-
-<signed>Dein <rs ref="#tillich_person_id__2020" type="person">Dox</rs>.</signed>
-
-</closer>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Richard Wegener an Paul Tillich <lb/>vom 30. August 1921</title>
+            <author ref="#tillich_person_id__2020">Richard Wegener</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/202(44)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2020">Richard Wegener</persName>
+               <date when="1921-08-30">30.08.1921</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession" resp="#tillich_person_id__2020">
+            <pb n="1"/>
+            <opener>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paulus</rs>,</salute>
+            </opener>
+            <p>ich komme zum Abendessen nach Hause und finde wieder einen Brief<note type="ea">Nicht überliefert.</note> von <rs ref="#tillich_person_id__1931" type="person">Grethi</rs>. Im Allgemeinen hätte ich mich gefreut, mit ihr alles, was Kl. Betrifft, direkt brieflich besprechen zu können. Ich habe <sic>ich</sic> dieser auch bis vor wenigen Tagen geantwortet. Aber sie schmäht. Und das will ich nicht hören. Es ist aufs äußerste geschmacklos und unerfreulich. Von jetzt an werde ich keinen einzigen Brief mehr von ihr lesen, sondern jeden uneröffnet über die Flamme halten.</p>
+            <closer>
+               <salute>Meinen Brief bekamst Du wohl. Ich warte auf Antwort. Inzwischen grüße ich Dich.</salute>
+               <signed>Dein <rs ref="#tillich_person_id__2020" type="person">Dox</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

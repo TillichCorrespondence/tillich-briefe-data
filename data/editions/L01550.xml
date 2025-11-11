@@ -1,95 +1,98 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01550">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Paul Tillich an Theodor Siegfried
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Theodor Siegfried
                     <lb/>vom 8. Januar 1931 [PS]
                </title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Germany</country>
-<settlement>Marburg a. d. Lahn</settlement>
-<institution>Philipps-Universität Marburg</institution>
-    <repository>Archiv der Philipps-Universität Marburg</repository>
-<collection>Theodor Siegfried Nachlass</collection>
-    <idno>309/84, Nr.: 0. Altsignatur: Ms. 870(5)</idno>
-</msIdentifier>
-<physDesc>
-    <p>Postkarte, maschinenschriftlich</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__143">Frankfurt/Main</placeName>
-<date when="1931-01-08">08.01.1931</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1783">Theodor Siegfried</persName>
-<placeName ref="#tillich_place_id__279">Marburg/Lahn</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2025-10-07" who="FS">Initiale Auszeichnung des Transkripts</change>
-    <change when="2025-10-30" who="FS">Erklärende Anmerkungen überprüft und ergänzt</change>
-</revisionDesc>
-</teiHeader>
-<text type="postcard">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<salute>Lieber <rs ref="#tillich_person_id__1783" type="person">Siegfried</rs>!</salute>
-</opener>
-    <p>Ich kann mich nicht erinnern, das Exemplar meiner Dogmatik<note type="ea">Gemeint ist eine Art Kurzversion der Marburger bzw. Dresdner Dogmatikvorlesung (veröffentlich als "<rs ref="#tillich__USP533DI" type="work">Beilagen 1 und 2</rs>" in der <rs ref="#tillich__XQKJY3QX" type="work">Edition der Vorlesung</rs>), welche Tillich im Jahr 1928 seiner Frau diktiert hatte und die Anfang 1929 im Zuge des Marburger Berufungsverfahrens (Nachfolge <rs ref="#tillich_person_id__1438" type="person">Rudolf Otto</rs>) nach <rs ref="#tillich_place_id__279" type="place">Marburg</rs> geschickt worden war.</note> auch nur gesehen zu haben; jedenfalls habe ich es nicht zurückbekommen. Es muss also, wenn es überhaupt bei <rs ref="#tillich_person_id__2401" type="person">Hermelink</rs> gewesen ist, noch bei ihm sein oder sonst bei einem Marburger Professor oder Studenten. Ich selbst würde ausserordentlich bedauern, wenn es verloren gegangen ist, aber sicher bin ich nicht daran schuld<supplied>,</supplied> denn ich hätte es natürlich als kostbaren Schatz wohl aufbewahrt. Ich habe mich sehr gefreut, Sie neulich zu sehen und grüsse Sie und Ihre <rs ref="#tillich_person_id__3035" type="person">Frau</rs> herzlich</p>
-    <closer><salute>Ihr</salute>
-<signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
-</closer>    
-</div>
-</body>
-</text>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Germany</country>
+                  <settlement>Marburg a. d. Lahn</settlement>
+                  <institution>Philipps-Universität Marburg</institution>
+                  <repository>Archiv der Philipps-Universität Marburg</repository>
+                  <collection>Theodor Siegfried Nachlass</collection>
+                  <idno>309/84, Nr.: 0. Altsignatur: Ms. 870(5)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt/Main</placeName>
+               <date when="1931-01-08">08.01.1931</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1783">Theodor Siegfried</persName>
+               <placeName ref="#tillich_place_id__279">Marburg/Lahn</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2025-10-07" who="FS">Initiale Auszeichnung des Transkripts</change>
+         <change when="2025-10-30" who="FS">Erklärende Anmerkungen überprüft und ergänzt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Lieber <rs ref="#tillich_person_id__1783" type="person">Siegfried</rs>!</salute>
+            </opener>
+            <p>Ich kann mich nicht erinnern, das Exemplar meiner Dogmatik<note type="ea">Gemeint ist eine Art Kurzversion der Marburger bzw. Dresdner Dogmatikvorlesung (veröffentlich als "<rs ref="#tillich__USP533DI" type="work">Beilagen 1 und 2</rs>" in der <rs ref="#tillich__XQKJY3QX" type="work">Edition der Vorlesung</rs>), welche Tillich im Jahr 1928 seiner Frau diktiert hatte und die Anfang 1929 im Zuge des Marburger Berufungsverfahrens (Nachfolge <rs ref="#tillich_person_id__1438" type="person">Rudolf Otto</rs>) nach <rs ref="#tillich_place_id__279" type="place">Marburg</rs> geschickt worden war.</note> auch nur gesehen zu haben; jedenfalls habe ich es nicht zurückbekommen. Es muss also, wenn es überhaupt bei <rs ref="#tillich_person_id__2401" type="person">Hermelink</rs> gewesen ist, noch bei ihm sein oder sonst bei einem Marburger Professor oder Studenten. Ich selbst würde ausserordentlich bedauern, wenn es verloren gegangen ist, aber sicher bin ich nicht daran schuld<supplied>,</supplied> denn ich hätte es natürlich als kostbaren Schatz wohl aufbewahrt. Ich habe mich sehr gefreut, Sie neulich zu sehen und grüsse Sie und Ihre <rs ref="#tillich_person_id__3035" type="person">Frau</rs> herzlich</p>
+            <closer>
+               <salute>Ihr</salute>
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,95 +1,92 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00530">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Johannes Tillich <lb/>vom 31. Januar 1917</title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Johannes Tillich <lb/>vom 31. Januar 1917</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement>Cambridge, MA</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                        <idno>bMS 649/193(15)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement>Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/193(15)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <date when="1917-01-31">31.01.1917</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change who="FS" when="2022-05-24">Initiale Auszeichnung des Transkripts</change>
-            <change who="GM" when="2024-01-09">Endabnahme</change>
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener>
-                    <dateline>D. <date when="1917-01-31">31. Jan. 1917</date>.</dateline>
-                    <salute>Lieber <rs ref="#tillich_person_id__1924" type="person"
-                        >Papa</rs>!</salute>
-                </opener>
-                <p>Hab herzlichen Dank für Deinen ausführlichen <rs type="letter">Brief</rs>!<note
-                        type="ea">Liegt nicht vor.</note> Er brachte ja manches, was mich überrascht
-                    und bewegt hat! – Also <rs ref="#tillich_person_id__2085" type="person"
-                        >Toni</rs> gehört nicht mehr so zu uns wie früher; sie ist nicht mehr die
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1917-01-31">31.01.1917</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="FS" when="2022-05-24">Initiale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2024-01-09">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>D. <date when="1917-01-31">31. Jan. 1917</date>.</dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
+            </opener>
+            <p>Hab herzlichen Dank für Deinen ausführlichen <rs type="letter">Brief</rs>!<note type="ea">Liegt nicht vor.</note> Er brachte ja manches, was mich überrascht
+                    und bewegt hat! – Also <rs ref="#tillich_person_id__2085" type="person">Toni</rs> gehört nicht mehr so zu uns wie früher; sie ist nicht mehr die
                     unsre im eigentlichen Sinne des Wortes. Das ist schwer für uns alle und fast
                     unbegreiflich für mich. Aber es muß wohl so das Beste sein, obwohl ich nicht
                     weiß warum. Aber es werden ja nun bald drei Jahre, die ich nicht nur von Euch
@@ -98,12 +95,11 @@
                     selbst sagt, was der Grund war. Sie hat mir ja immer alles anvertraut. Wie alt
                     sind wir doch in diesen drei Jahren geworden, daß auch das nun Vergangenheit
                     ist! – – –</p>
-                <p>Um so mehr verstehe ich Deinen Entschluß, das Amt aufzugeben. Auch für Dich haben
+            <p>Um so mehr verstehe ich Deinen Entschluß, das Amt aufzugeben. Auch für Dich haben
                     die Kriegsjahre doppelt gezählt und niemand hat die Ruhe mehr verdient als Du.
                     Dann ist also auch die Neuenburgerstrasse und Bethlehemskirche<note type="ea">In
                         der Neuenburgerstraße stand das Pfarrhaus der Tillichs nur unweit der
-                        Gemeinde Bethlehemkirche, in der <rs ref="#tillich_person_id__1924"
-                            type="person">Johannes Tillich</rs> Pfarrer war.</note> Vergangenheit!
+                        Gemeinde Bethlehemkirche, in der <rs ref="#tillich_person_id__1924" type="person">Johannes Tillich</rs> Pfarrer war.</note> Vergangenheit!
                     Ich habe etwas von Deinem Gefühl des Gedrängtseins durch die Arbeit geerbt. Ich
                     merke es jetzt oft, wenn vieles zusammenkommt und alles zusammen, wie ein Berg,
                     vor mir liegt. Am schwersten wird Dir wie mir die Seelsorge und die Predigt,
@@ -116,25 +112,22 @@
                     mit großem, ich mit kleinem Erfolg, predigen. Aber innerlich leiden wir doch
                     darunter und verbrauchen einen großen Teil unserer Kraft für quälende Gedanken
                     und Skrupel. Das kam mir alles beim Nachdenken über Deinen Brief!</p>
-                <p> Den <rs ref="#tillich__M3KFAP5S" type="work">Vortrag</rs> von <rs
-                        ref="#tillich_person_id__2693" type="person">Seidel</rs> habe ich gern
-                    gelesen; es ist viel Klugheit und Tiefe darin. Ich war mal bei <rs
-                        ref="#tillich_person_id__2020" type="person">Wegener</rs> mit ihm zum
-                    Kaffee. Da las er Gedichte vor; er ist ja der Sohn des Dichters <rs
-                        ref="#tillich_person_id__2699" type="person">Seidel</rs>.</p>
-                <p>Von Deiner Musik habe ich lange nichts mehr gehört. Nun Du wirst ja in der Ruhe
+            <p> Den <rs ref="#tillich__M3KFAP5S" type="work">Vortrag</rs> von <rs ref="#tillich_person_id__2693" type="person">Seidel</rs> habe ich gern
+                    gelesen; es ist viel Klugheit und Tiefe darin. Ich war mal bei <rs ref="#tillich_person_id__2020" type="person">Wegener</rs> mit ihm zum
+                    Kaffee. Da las er Gedichte vor; er ist ja der Sohn des Dichters <rs ref="#tillich_person_id__2699" type="person">Seidel</rs>.</p>
+            <p>Von Deiner Musik habe ich lange nichts mehr gehört. Nun Du wirst ja in der Ruhe
                     Zeit dazu haben und ich freue mich darauf, von Dir zu lernen. Man kann in diesen
                     Dingen lernen, wie ich an meinen Bildern sehe, die mir jetzt das sind, was Dir
                     die Musik war. – –</p>
-                <p>Hier ist noch immer Winter, viel Schnee und Kälte, aber ich habe ein schönes
+            <p>Hier ist noch immer Winter, viel Schnee und Kälte, aber ich habe ein schönes
                     Zimmer und ein warmes Bett, mehr, als man hier draußen beanspruchen kann. Nun
                     kommt das große Blutjahr 1917. Viel Änderung wird es kaum bringen! –</p>
-                <closer>
-                    <salute>Noch einmal vielen Dank für Deinen Brief und Gruß an <rs
-                            ref="#tillich_person_id__1762" type="person">Elisabeth</rs>!</salute>
-                    Dein <signed><rs ref="#tillich_person_id__1928" type="person"
-                    >Paul</rs>.</signed></closer>
-            </div>
-        </body>
-    </text>
+            <closer>
+               <salute>Noch einmal vielen Dank für Deinen Brief und Gruß an <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs>!</salute>
+                    Dein <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

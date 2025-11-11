@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00991">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 04. Oktober 1928 [PS]</title>
@@ -29,7 +29,7 @@
             </publisher>
             <availability>
                <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc type="manuscript">
@@ -43,59 +43,61 @@
                </msIdentifier>
                <physDesc>
                   <p>Postkarte, eigenhändig</p>
-                  </physDesc>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__24">Bad Schönfließ</placeName>
-              <date when="1928-10-04">04.10.1928</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="NH" when="2023-08-31">Initiale Auszeichnung des Transkripts</change>
-        <change who="NH" when="2023-12-19">Vorbereitung/Korrektur für die Endabnahme</change>
-        <change who="FS" when="2024-02-17">Endabnahme</change>
-        
-       
-     </revisionDesc>
-  </teiHeader>
-  <text type="letter">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-        </opener>
-        <p>Vortrag<note type="ea">Nicht ermittelt.</note> und erste Diskussion überstanden, Erfolg sehr durchschlagend. Also: Ich komme Freitag Abend <hi rend="u">8 Uhr 6</hi> Friedrichstr., also <hi rend="u">etwa</hi> <hi rend="uu">8 Uhr 15</hi> Zoo an aus Richtung <rs ref="#tillich_place_id__619" type="place">Küstrin</rs>. Bitte hole mich wenn möglich ab. Sei auf dem Bahnsteig, da mehrere Ausgänge sind. Und vor allem: Benachrichtige gleich <rs ref="#tillich_person_id__1672" type="person">Emmy</rs> und sage ihr, daß ich also ca 8<hi rend="sup">30</hi> Abends bei ihnen ankomme. Bist Du nicht auf dem Bahnhof, so gehe ich gleich<pb n="2"/> zu <rs ref="#tillich_person_id__1672" type="person"><rs ref="#tillich_person_id__2871" type="person">Sachs&apos;</rs></rs> und rufe Dich von dort an.
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__24">Bad Schönfließ</placeName>
+               <date when="1928-10-04">04.10.1928</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="NH" when="2023-08-31">Initiale Auszeichnung des Transkripts</change>
+         <change who="NH" when="2023-12-19">Vorbereitung/Korrektur für die Endabnahme</change>
+         <change who="FS" when="2024-02-17">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+            </opener>
+            <p>Vortrag<note type="ea">Nicht ermittelt.</note> und erste Diskussion überstanden, Erfolg sehr durchschlagend. Also: Ich komme Freitag Abend <hi rend="u">8 Uhr 6</hi> Friedrichstr., also <hi rend="u">etwa</hi>
+               <hi rend="uu">8 Uhr 15</hi> Zoo an aus Richtung <rs ref="#tillich_place_id__619" type="place">Küstrin</rs>. Bitte hole mich wenn möglich ab. Sei auf dem Bahnsteig, da mehrere Ausgänge sind. Und vor allem: Benachrichtige gleich <rs ref="#tillich_person_id__1672" type="person">Emmy</rs> und sage ihr, daß ich also ca 8<hi rend="sup">30</hi> Abends bei ihnen ankomme. Bist Du nicht auf dem Bahnhof, so gehe ich gleich<pb n="2"/> zu <rs type="person" ref="#tillich_person_id__1672 #tillich_person_id__2871">Sachs'</rs> und rufe Dich von dort an.
         </p>
-        <closer>
-           <salute>Aufs Wiedersehn freut sich<lb/>
+            <closer>
+               <salute>Aufs Wiedersehn freut sich<lb/>
            Dein</salute>
-           <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-        </closer>
-        
-        <postscript><p>Herzl Gruß. Das Referat war <unclear>¿¿¿</unclear> u hat uns sehr weitergebracht. <rs ref="#tillich_person_id__641" type="person">Frede</rs><note type="ea">Von Alfred Fritz&apos; Hand.</note></p></postscript>
-      
-     </div>
-    </body>
-  </text>
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+            <postscript>
+               <p>Herzl Gruß. Das Referat war <unclear>¿¿¿</unclear> u hat uns sehr weitergebracht. <rs ref="#tillich_person_id__641" type="person">Frede</rs>
+                  <note type="ea">Von Alfred Fritz' Hand.</note>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
 </TEI>

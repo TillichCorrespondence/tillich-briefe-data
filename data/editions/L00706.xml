@@ -1,102 +1,96 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00706">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Richard Wegener an Paul Tillich <lb/>vom 2. April 1921</title>
-<author ref="#tillich_person_id__2020">Richard Wegener</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bMS 649/202(44)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__2020">Richard Wegener</persName>
-<date when="1921-04-02">02.04.1921</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession" resp="#tillich_person_id__2020">
-<pb n="1"/>
-<opener>
-
-<dateline><date when="1921-04-02">II.IV.21.</date></dateline>
-
-<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paulus</rs>,</salute>
-
-</opener>
-
-<p>Sonntag abend. Von einer Tagessegelfahrt luftmüde. Ich finde Deinen Brief<note type="ea">Konnte nicht ermittelt werden.</note>. Will Dir die Hand drücken und Dir nur meine nächsten Dispositionen mitteilen. <date when="1921-04-16">In 14 Tagen</date> bin ich verheiratet. <date when="1921-09-24">Am 24. Sept.</date> geht&apos;s für drei Tage an den Rhein (Familientag der <rs ref="#tillich_person_id__3239" type="person">Erbslöhs</rs> in <rs ref="#tillich_place_id__902" type="place">Königswinter</rs>, freie Fahrt) dann <date notBefore="1921-09-27" notAfter="1921-10-07">bis 7. Okt.</date> zum Kursus nach <rs ref="#tillich_place_id__639" type="place">Wernigerode</rs>. Von dann an immer in <rs ref="#tillich_place_id__37" type="place">Berlin</rs>.</p>
-
-<p>Ja, daß <rs ref="#tillich_person_id__1931" type="person">Grethi</rs>, anstatt zu <rs type="work" ref="#tillich_person_id__2116">Zarathustra</rs>, zur Mantik geht (das ist die <q>Metaphysik</q> in ihr, die <pb n="2"/>ich schonen sollte) ist traurig.</p>
-
-<closer>
-
-<salute>Ich grüße Dich von Herzen</salute>
-
-<signed>Dein <rs ref="#tillich_person_id__2020" type="person">Dox.</rs></signed>
-
-</closer>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Richard Wegener an Paul Tillich <lb/>vom 2. April 1921</title>
+            <author ref="#tillich_person_id__2020">Richard Wegener</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/202(44)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2020">Richard Wegener</persName>
+               <date when="1921-04-02">02.04.1921</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession" resp="#tillich_person_id__2020">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <date when="1921-04-02">II.IV.21.</date>
+               </dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paulus</rs>,</salute>
+            </opener>
+            <p>Sonntag abend. Von einer Tagessegelfahrt luftmüde. Ich finde Deinen Brief<note type="ea">Konnte nicht ermittelt werden.</note>. Will Dir die Hand drücken und Dir nur meine nächsten Dispositionen mitteilen. <date when="1921-04-16">In 14 Tagen</date> bin ich verheiratet. <date when="1921-09-24">Am 24. Sept.</date> geht's für drei Tage an den Rhein (Familientag der <rs ref="#tillich_person_id__3239" type="person">Erbslöhs</rs> in <rs ref="#tillich_place_id__902" type="place">Königswinter</rs>, freie Fahrt) dann <date notBefore="1921-09-27" notAfter="1921-10-07">bis 7. Okt.</date> zum Kursus nach <rs ref="#tillich_place_id__639" type="place">Wernigerode</rs>. Von dann an immer in <rs ref="#tillich_place_id__37" type="place">Berlin</rs>.</p>
+            <p>Ja, daß <rs ref="#tillich_person_id__1931" type="person">Grethi</rs>, anstatt zu <rs type="work" ref="#tillich_person_id__2116">Zarathustra</rs>, zur Mantik geht (das ist die <q>Metaphysik</q> in ihr, die <pb n="2"/>ich schonen sollte) ist traurig.</p>
+            <closer>
+               <salute>Ich grüße Dich von Herzen</salute>
+               <signed>Dein <rs ref="#tillich_person_id__2020" type="person">Dox.</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

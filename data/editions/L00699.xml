@@ -1,108 +1,111 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00699">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Wilhelm Ruprecht an Paul Tillich <lb/>vom 14. Dezember 1920</title>
-<author ref="#tillich_person_id__2569">Wilhelm Ruprecht</author>
-<respStmt>
-<resp>Editor</resp>
-<name>Anna Rüther</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__37">Berlin</settlement>
-<institution>Stiftung Preußischer Kulturbesitz</institution>
-<repository>Staatsbibliothek zu Berlin</repository>
-<collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
-<idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
-</msIdentifier>
-<physDesc>
-<p>Briefdurchschlag, maschinenschriftlich</p>
-</physDesc>
-      <additional>
-            <listBibl>
-                  <biblStruct type="journal">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Wilhelm Ruprecht an Paul Tillich <lb/>vom 14. Dezember 1920</title>
+            <author ref="#tillich_person_id__2569">Wilhelm Ruprecht</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Anna Rüther</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <institution>Stiftung Preußischer Kulturbesitz</institution>
+                  <repository>Staatsbibliothek zu Berlin</repository>
+                  <collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
+                  <idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Briefdurchschlag, maschinenschriftlich</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal">
                         <monogr>
-                              <author>Friedrich Wilhelm Graf</author>
-                              <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-                              <imprint>
-                                    <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
-                                    <date when="2020">2020</date>
-                                    <biblScope>S. 26–170, hier: 109f.</biblScope>
-                              </imprint>
+                           <author>Friedrich Wilhelm Graf</author>
+                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                              <date when="2020">2020</date>
+                              <biblScope>S. 26–170, hier: 109f.</biblScope>
+                           </imprint>
                         </monogr>
                         <series>
-                              <title>Zeitschrift für Neuere Theologiegeschichte</title>
-                              <biblScope>27/1</biblScope>
+                           <title>Zeitschrift für Neuere Theologiegeschichte</title>
+                           <biblScope>27/1</biblScope>
                         </series>
-                  </biblStruct>
-            </listBibl>
-      </additional>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
-<date when="1920-12-14">14.12.1920</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
-<change when="2024-01-19" who="AR">Initiale Auszeichnung des Transkripts</change>
-      <change when="2025-03-17" who="FS">Kollationierung</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline>
-      <date when="1920-12-14">14. Dezember 1920</date>. Herrn Privatdozent Dr. <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>, <rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>.
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
+               <date when="1920-12-14">14.12.1920</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2024-01-19" who="AR">Initiale Auszeichnung des Transkripts</change>
+         <change when="2025-03-17" who="FS">Kollationierung</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <date when="1920-12-14">14. Dezember 1920</date>. Herrn Privatdozent Dr. <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>, <rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>.
 </dateline>
-      <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1928" type="person">Doktor</rs>!</salute>
-</opener>
-      <p>Wie es mit den <q><rs ref="tillich__8RNNTBFR" type="work">Verhandlungen</rs></q> des letzten evang.-sozialen Kongresses werden
+               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1928" type="person">Doktor</rs>!</salute>
+            </opener>
+            <p>Wie es mit den <q>
+                  <rs ref="tillich__8RNNTBFR" type="work">Verhandlungen</rs>
+               </q> des letzten evang.-sozialen Kongresses werden
 wird, ist noch keineswegs sicher. Grundsätzlich hat man seinerzeit die von uns
 gestellten neuen Bedingungen für die Uebernahme des Verlages angenommen,
 uns auch einen großen Teil des Manuskriptes zur Abschätzung gesandt. Dann hat
@@ -110,7 +113,8 @@ aber kein Wort weiter verlautet. Unter diesen Umständen sind wir in keiner Weis
 berechtigt, irgend welchen Widerspruch gegen einen gesonderten Abdruck Ihres
 Vortrages zu erheben, und werden das natürlich auch nachher nicht können,
 wenn es wirklich noch zum Druck der ganzen Verhandlungen kommen wird.</p>
-<p><hi rend="u">Wege zur Philosophie</hi>. Gern hätten wir Ihr Heft schon früher gehabt. Aber
+            <p>
+               <hi rend="u">Wege zur Philosophie</hi>. Gern hätten wir Ihr Heft schon früher gehabt. Aber
 es ist natürlich, daß Ihnen dessen Ausarbeitung, da es doch eine Art Musterheft
 werden soll, besonders viel Kopfzerbrechen macht, und wir wollen Sie in keiner
 Weise drängen, sind wir doch selber mit den Vorschlägen für den endgültigen
@@ -122,17 +126,17 @@ einen formellen Vertrag ungefähr desselben Wortlauts, wie ihn die Grundsätze
 enthalten, abgeschlossen. Wir können uns das aber und die Abgabe für den
 Stempel<note type="ea">Stempelsteuer oder Stempelgebühren wurden fällig, wenn Verträge oder sonstige schriftlich fixierte Vereinbarungen mit einer Stempelmarke für beide Seiten als rechtsverbindlich dokumentiert wurden.</note> sparen, wenn wir brieflich, unter Bezugnahme auf die beigelegten
 Grundsätze abschließen.</p>
-<p>Die Vervielfältigung des von Ihnen aufgestellten Planes hat wohl noch etwas
+            <p>Die Vervielfältigung des von Ihnen aufgestellten Planes hat wohl noch etwas
 Zeit? Sie kann aber schnellstens erfolgen, wenn Sie, was vielleicht doch ganz angebracht ist, zunächst erst einmal für einige besonders nützliche Hefte
 Mitarbeiter werben wollen.</p>
-<p>Ferner fügen wir hier bei die seinerzeit für die Mitarbeiter aufgestellten Richtlinien,
+            <p>Ferner fügen wir hier bei die seinerzeit für die Mitarbeiter aufgestellten Richtlinien,
 von denen noch etwa fünfzig Stück vorhanden sind. Vielleicht kommen Sie mit diesen Richtlinien aus; sie können evt. durch ein hier zu vervielfältigendes Blatt ergänzt werden, wenn das Ihnen nötig erscheint. Die Hauptwerbearbeit verschieben Sie aber doch wohl besser, bis wir auf Ihr eigenes Heft verweisen können.</p>
-<p>Ferner fügen wir noch einen Prospekt bei, aus dem Sie sehen, daß noch drei Hefte in Aussicht genommen waren. Sollen wir die Betreffenden daran erinnern?
+            <p>Ferner fügen wir noch einen Prospekt bei, aus dem Sie sehen, daß noch drei Hefte in Aussicht genommen waren. Sollen wir die Betreffenden daran erinnern?
 Mit <rs ref="#tillich_person_id__3120" type="person">Joel</rs> liegt ein formeller Vertrag nicht vor.</p>
-<closer>
-<salute>Mit besten Empfehlungen</salute>
-</closer>
-</div>
-</body>
-</text>
+            <closer>
+               <salute>Mit besten Empfehlungen</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

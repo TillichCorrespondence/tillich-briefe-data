@@ -1,118 +1,113 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01241">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 31. Juli 1933 [PS]</title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 31. Juli 1933 [PS]</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement>Cambridge, MA</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                        <idno>bMS 721/3(3)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Postkarte, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement>Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                  <idno>bMS 721/3(3)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__37">Berlin</placeName>
-                    <date when="1933-07-31">31.07.1933</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-                    <placeName ref="#tillich_place_id__389">Sassnitz (Rügen)</placeName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change when="2023-05-24" who="FS">Initiale Auszeichnung des Transkripts</change>
-            <change when="2023-12-06" who="FS">Endabnahme</change>
-        </revisionDesc>
-    </teiHeader>
-    <text type="postcard">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener>
-                    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person"
-                        >Hannah</rs>.</salute>
-                </opener>
-                <p><date when="1933-07-30">Gestern</date> Abend mit <rs
-                        ref="#tillich_person_id__641" type="person"><rs
-                            ref="#tillich_person_id__643" type="person">Fritzens</rs></rs> und <rs
-                        ref="#tillich_person_id__1762" type="person"><rs
-                            ref="#tillich_person_id__1763" type="person">Seebergers</rs></rs> bei
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1933-07-31">31.07.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <placeName ref="#tillich_place_id__389">Sassnitz (Rügen)</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-05-24" who="FS">Initiale Auszeichnung des Transkripts</change>
+         <change when="2023-12-06" who="FS">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>.</salute>
+            </opener>
+            <p>
+               <date when="1933-07-30">Gestern</date> Abend mit <rs type="person" ref="#tillich_person_id__641 #tillich_person_id__643">Fritzens</rs> und <rs type="person" ref="#tillich_person_id__1762 #tillich_person_id__1763">Seebergers</rs> bei
                         <rs ref="#tillich_person_id__641" type="person">Frede</rs>. Es war
-                    menschlich und sachlich besonders schön. <rs ref="#tillich_person_id__641"
-                        type="person">Frede</rs> unbedingt für Columbia + Union (dieses eine freie
+                    menschlich und sachlich besonders schön. <rs ref="#tillich_person_id__641" type="person">Frede</rs> unbedingt für Columbia + Union (dieses eine freie
                     Theologische Fakultät, die fast am angesehensten ist). Dazu die berühmte
-                    Columbia. Ebenso entschied eindeutig <rs ref="#tillich_person_id__445"
-                        type="person">Deißmann</rs> von dem ich eben komme. Er riet dringend, das
+                    Columbia. Ebenso entschied eindeutig <rs ref="#tillich_person_id__445" type="person">Deißmann</rs> von dem ich eben komme. Er riet dringend, das
                     andere bei Gericht zu erwähnen. Mein Ziel: Korrekte Beurlaubung auf ein Jahr,
                     Verzicht auf Bezüge, Erhaltung von Beamten-Recht<pb n="2"/> Heute früh
                     Unterhaltung mit <rs ref="#tillich_person_id__2316" type="person">Emils</rs>
-                    Assistent <rs ref="#tillich_person_id__1823" type="person">Speier</rs>.<note
-                        type="ea">Hintergrund war die mögliche Mitarbeit Tillichs an der New Yorker
+                    Assistent <rs ref="#tillich_person_id__1823" type="person">Speier</rs>.<note type="ea">Hintergrund war die mögliche Mitarbeit Tillichs an der New Yorker
                         <q>University in Exile</q>, vgl. den <rs ref="L01239" type="letter">Brief von Paul Tillich an
                             Hannah Tillich vom 29. Juli 1933</rs>.</note> Liste doch recht günstig.
-                    Übrigens ist <q>John Bull</q> <rs type="place" ref="#tillich_place_id__503">England</rs>.<note type="ea">Vgl. die <rs ref="L01239" type="letter">Karte
+                    Übrigens ist <q>John Bull</q>
+               <rs type="place" ref="#tillich_place_id__503">England</rs>.<note type="ea">Vgl. die <rs ref="L01239" type="letter">Karte
                             Paul Tillichs an Hannah Tillich vom 29. Juli 1933</rs>.</note> Bald
                     mehr! Dank für 4 Briefe!<note type="ea">Liegen nicht vor.</note>
                     Ankunft also frühestens <date when="1933-08-05">Sonnabend</date>!</p>
-                <closer>
-                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-                </closer>
-            </div>
-        </body>
-    </text>
+            <closer>
+               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

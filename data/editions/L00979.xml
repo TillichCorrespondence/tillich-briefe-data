@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00979">
    <teiHeader>
       <fileDesc>
@@ -82,9 +82,11 @@
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <opener><dateline>
+            <opener>
+               <dateline>
                   <rs ref="#tillich_place_id__260" type="place">Leipzig</rs>, den <date when="1928-04-30">30. 4.
-                     28</date></dateline>
+                     28</date>
+               </dateline>
                <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>!</salute>
             </opener>
             <p>Da die Leipziger und auswärtigen Buch- und Kunsthandlungen dringlichst Karten von
@@ -97,7 +99,9 @@
             <p>Da die Angelegenheit dringend ist, so bitte ich höfl. um baldige Antwort.</p>
             <closer>
                <salute>Hochachtungsvoll</salute>
-               <signed><rs ref="#tillich_person_id__2450" type="person">E. Hoenisch</rs></signed>
+               <signed>
+                  <rs ref="#tillich_person_id__2450" type="person">E. Hoenisch</rs>
+               </signed>
             </closer>
          </div>
       </body>

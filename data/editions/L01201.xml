@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01201">
    <teiHeader>
       <fileDesc>
@@ -46,7 +46,6 @@
                </physDesc>
                <additional>
                   <listBibl>
-
                      <biblStruct type="journal" n="thirdPrint">
                         <monogr>
                            <title>Karl Barth und Paul Tillich</title>
@@ -61,7 +60,6 @@
                            <biblScope>10</biblScope>
                         </series>
                      </biblStruct>
-
                      <biblStruct type="journal" n="reprint">
                         <monogr>
                            <author>Paul Tillich</author>
@@ -78,7 +76,6 @@
                            <biblScope>Band 5</biblScope>
                         </series>
                      </biblStruct>
-
                   </listBibl>
                </additional>
             </msDesc>
@@ -110,7 +107,6 @@
       <revisionDesc status="approved">
          <change who="SK" when="2023-05-23">Initiale Auszeichnung des Transkripts</change>
          <change who="FS" when="2024-02-26">Endabnahme</change>
-
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -118,7 +114,8 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline>d. <date when="1933-03-29">29.3.33</date></dateline>
+               <dateline>d. <date when="1933-03-29">29.3.33</date>
+               </dateline>
                <salute>Lieber <rs ref="#tillich_person_id__137" type="person">Herr
                   Barth</rs>!</salute>
             </opener>
@@ -136,10 +133,8 @@
                   Fakultät zur Folge hatte, in deren Zuge Schmidt unter anderem aufgefordert wurde,
                   sein Mandat niederzulegen. (Vgl. <rs ref="#tillich__9FWDI8RG" type="work">Karl
                      Barth, Briefe des Jahres 1933, 102</rs>.)</note> Offenbar bezieht sich dieser
-               Satz auf das Gespräch, das ich mit <rs ref="#tillich_person_id__1723" type="person"
-                  >S.</rs> am <date when="1933-03-26">Sonnabend</date> abend hatte über die Stellung
-               der Beamten zur S.P.D. Wie Sie an <rs ref="#tillich_person_id__1723" type="person"
-                  >S.</rs> schreiben, sind Sie entschlossen, einer Forderung auf Austritt aus der
+               Satz auf das Gespräch, das ich mit <rs ref="#tillich_person_id__1723" type="person">S.</rs> am <date when="1933-03-26">Sonnabend</date> abend hatte über die Stellung
+               der Beamten zur S.P.D. Wie Sie an <rs ref="#tillich_person_id__1723" type="person">S.</rs> schreiben, sind Sie entschlossen, einer Forderung auf Austritt aus der
                SPD nicht nachzugehen, d. h. im Zweifelsfall ihre Stellung als preussischer Beamter
                aufzugeben.</p>
             <p>Dieser Auffassung steht nicht etwa eine Privatideologie von mir gegenüber, sondern
@@ -155,8 +150,7 @@
                ich betone das ausdrücklich, ist nicht <hi rend="u">meine Ideologie</hi>, sondern
                Auffassung und Verhaltungsweise der Partei selbst.</p>
             <p>Unter diesen Umständen besteht bei meinen Frankfurter Freunden (auch Hamburger, Berliner usw.) vor allem auch bei solchen, die von Anfang an der S.P.D.
-               angehört haben, die Auffassung, dass die Zugehörigkeit zur Partei nicht zum <foreign
-                  xml:lang="lat">punctum Confessionis</foreign> gemacht werden dürfe. Auch hier
+               angehört haben, die Auffassung, dass die Zugehörigkeit zur Partei nicht zum <foreign xml:lang="lat">punctum Confessionis</foreign> gemacht werden dürfe. Auch hier
                handelt es sich nicht um eine Ideologie von mir, sondern um die unmittelbare
                taktische Reaktion gerade der Politiker unter uns. Die Lage wird in dem Augenblick anders,
                wo uns ein Revers vorgelegt wird, der eine inhaltliche Bindung verlangt. In diesem
@@ -175,7 +169,9 @@
                möglich. </p>
             <closer>
                <salute>Mit herzlichem Gruss<lb/> Ihr</salute>
-               <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>
+               </signed>
             </closer>
          </div>
       </body>

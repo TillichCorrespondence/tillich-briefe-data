@@ -1,99 +1,102 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00504">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Paul Tillich an Johannes Tillich <lb/>vom 8. September 1916</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Johannes Tillich <lb/>vom 8. September 1916</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement>Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bMS 649/237(9)</idno>
-</msIdentifier>
-<physDesc>
-<p>Postkarte (Motiv: Trier, St. Paulinuskirche (Inneres)), eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement>Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/237(9)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte (Motiv: Trier, St. Paulinuskirche (Inneres)), eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__442">Trier</placeName>
-<date when="1916-09-08">08.09.1916</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
-<placeName ref="#tillich_place_id__358">Butterfelde bei Mohrin
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__442">Trier</placeName>
+               <date when="1916-09-08">08.09.1916</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+               <placeName ref="#tillich_place_id__358">Butterfelde bei Mohrin
                         (Neumark)</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2022-05-23" who="FS">Initiale Auszeichnung des Transkripts</change>
-<change when="2023-12-12" who="GM">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="postcard">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener><salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute></opener>
-<p>
-                        <date when="1916-09-07">Gestern</date> kam ein Telegramm<note type="ea">Liegt nicht vor.</note> von <rs ref="#tillich_person_id__252"
-                                                type="person">Bonin</rs><unclear>:</unclear> Nachurlaub bis <date
-                                                                        when="1916-09-16">16<hi rend="sup">ten</hi></date> bewilligt... ganz ohne
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2022-05-23" who="FS">Initiale Auszeichnung des Transkripts</change>
+         <change when="2023-12-12" who="GM">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
+            </opener>
+            <p>
+               <date when="1916-09-07">Gestern</date> kam ein Telegramm<note type="ea">Liegt nicht vor.</note> von <rs ref="#tillich_person_id__252" type="person">Bonin</rs>
+               <unclear>:</unclear> Nachurlaub bis <date when="1916-09-16">16<hi rend="sup">ten</hi>
+               </date> bewilligt... ganz ohne
                         mein Zutun. Es war eine große Freude für mich! Wir gehen nun an der Mosel
-                        entlang irgendwohin. Adresse bleibt. <rs ref="#tillich_place_id__442"
-                                                type="place">Trier</rs>, Hotel Porta nigra.</p>
-                        <closer>Dein tr. <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed></closer>
-</div>
-</body>
-</text>
+                        entlang irgendwohin. Adresse bleibt. <rs ref="#tillich_place_id__442" type="place">Trier</rs>, Hotel Porta nigra.</p>
+            <closer>Dein tr. <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

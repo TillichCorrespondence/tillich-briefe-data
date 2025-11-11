@@ -1,108 +1,106 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01297">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Gustav Hoelscher <lb/>vom 31. Dezember 1923</title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Gustav Hoelscher <lb/>vom 31. Dezember 1923</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">Wien</placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>Deutschland</country>
-                        <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                        <institution>Hessisches Staatsarchiv Marburg</institution>
-                        <idno>307a acc. 1962/i2 Nr. 64</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
+                  <institution>Hessisches Staatsarchiv Marburg</institution>
+                  <idno>307a acc. 1962/i2 Nr. 64</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
-                    <date when="1923-12-31">31.12.1923</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__2801">Gustav Hoelscher</persName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change when="2024-02-07" who="AA">Initiale Auszeichnung des Transkripts</change>
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener>
-                    <dateline><rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>,
-                        Taunusstr. 1, den <date when="1923-12-31">31.12.1923</date></dateline>
-                    <salute>Hochverehrter <rs type="person" ref="#tillich_person_id__2801">Herr
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
+               <date when="1923-12-31">31.12.1923</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__2801">Gustav Hoelscher</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2024-02-07" who="AA">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>,
+                        Taunusstr. 1, den <date when="1923-12-31">31.12.1923</date>
+               </dateline>
+               <salute>Hochverehrter <rs type="person" ref="#tillich_person_id__2801">Herr
                             Professor</rs>!</salute>
-                </opener>
-                <p>Einige Tage vor Weihnachten erhielt ich von Herrn <rs
-                        ref="#tillich_person_id__1602" type="person">Ministerialrat Richter</rs> die
+            </opener>
+            <p>Einige Tage vor Weihnachten erhielt ich von Herrn <rs ref="#tillich_person_id__1602" type="person">Ministerialrat Richter</rs> die
                     Mittteilung, dass nach erfolgter Umhabilitation die Unterrichtsverwaltung
                     versuchen wird, zu den Übersiedlugskosten eine Beihilfe bis zu 300 Mark zu
                     gewähren. Diese Mitteilung bedeutet, dass ich die Umzugskosten in Höhe von 1100
                     Mark erst einmal selbst aufbringen müsst, dass ich auch nach vollzogener
                     Umhabilitierung nicht einmal die Sicherheit hätte, überhaupt etwas zu erhalten.
-                    Da nun aber auch nach Ihrer Andeutung Herr <rs ref="#tillich_person_id__2592"
-                        type="person">Professor Rade</rs> im besten Falle nur einen <q>kleinen
+                    Da nun aber auch nach Ihrer Andeutung Herr <rs ref="#tillich_person_id__2592" type="person">Professor Rade</rs> im besten Falle nur einen <q>kleinen
                     Bruchteil</q> der erforderlichen Summe aufbringen könnte, so scheint mir die Frage
                     des Umzugs vorläufig negativ entschieden zu sein.</p>
-                <p>Nach vielfacher Überlegung möchte ich mir nun erlauben, Ihnen folgenden Vorschlag
+            <p>Nach vielfacher Überlegung möchte ich mir nun erlauben, Ihnen folgenden Vorschlag
                     zu machen: Ich behalte meine Berliner Wohnung und meinen Lehrauftrag in der
                     Berliner Theologischen Fakultät; die Marburger Fakultät stellt aber beim
-                    Kultusministerium den Antrag, mich zur Unterstützung des erkrankten <rs
-                        ref="#tillich_person_id__1438" type="person">Professors Otto</rs> auf
-                    bestimmte oder unbestimmte Zeit zu beurlauben. Zugleich versuche ich, in <rs
-                        ref="#tillich_place_id__279" type="place">Marburg</rs> eine kleine möblierte
+                    Kultusministerium den Antrag, mich zur Unterstützung des erkrankten <rs ref="#tillich_person_id__1438" type="person">Professors Otto</rs> auf
+                    bestimmte oder unbestimmte Zeit zu beurlauben. Zugleich versuche ich, in <rs ref="#tillich_place_id__279" type="place">Marburg</rs> eine kleine möblierte
                     Wohnung zu finden. Die beiden anderen Punkte (Professorentitel und 90 % der
                     Gehaltsklasse 10) bleiben unberührt durch den neuen Vorschlag.</p>
-                <p>Dieser Weg, der mich zwänge, meine Wohnung und den größten Teil meiner Sachen auf
+            <p>Dieser Weg, der mich zwänge, meine Wohnung und den größten Teil meiner Sachen auf
                     unbestimmte Zeit zu verlassen, wäre ja für mich mit großen Unannehmlichkeiten
                     verknüpft. Ich möchte aber die Sache daran nicht scheitern lassen. Nur könnte
                     ich auf keinen Fall meinen Berliner Lehrauftrag aufgeben, solange ich die
@@ -111,36 +109,39 @@
                     Existenzbasis (Lehrauftrag) getrennt bleiben. Meiner Überzeugung nach kann mein
                     Vorschlag keine wesentlichen Schwierigkeiten formeller Art machen, denn es
                     finden sich zahlreiche Beispiele ähnlicher Beurlaubungen <choice>
-                        <abbr>resp.</abbr>
-                        <expan>respektive</expan>
-                    </choice> Vertretungen. Sollte die Marburger Fakultät sich mit meinem Vorschlag
+                  <abbr>resp.</abbr>
+                  <expan>respektive</expan>
+               </choice> Vertretungen. Sollte die Marburger Fakultät sich mit meinem Vorschlag
                     einverstanden erklären, so bitte ich um Mitteilung, ob die Fakultät von sich aus
                     den Beurlaubungsantrag stellen will, oder ob ich es unter Berufung auf die
                     Fakultät tun soll.</p>
-                <p>Falls die Beurlaubung im Sinne meines Vorschlags erfolgen sollte, würde ich
-                    bereit sein, selbst wenn die Wohnungsfrage in <rs ref="#tillich_place_id__279"
-                        type="place">Marburg</rs> vorläufig noch sehr unzulänglich gelöst werden
+            <p>Falls die Beurlaubung im Sinne meines Vorschlags erfolgen sollte, würde ich
+                    bereit sein, selbst wenn die Wohnungsfrage in <rs ref="#tillich_place_id__279" type="place">Marburg</rs> vorläufig noch sehr unzulänglich gelöst werden
                     könnte, auf alle Fälle im Sommersemester mit den Vorlesungen zu beginnen. Da die
                     Übersiedlung auch in der neuen Form, sowie die Einarbeitung in die neuen
                     Verhältnisse viel Zeit in Anspruch nehmen werden, so wäre es mir lieber, mit
                     Gegenständen anzufangen, die ich schon gelesen habe. In Betracht käme für den
                     Sommer vor allem eine vierstündig zu lesende Übung über die neueste
                     Religionsphilosophie (seit 1900) sowie der dritte Teil meiner Vorlesung über den
-                    religiösen Gehalt der europäischen Geistesgeschichte (<rs type="work" ref="#tillich__HJP8PPH2"><q>der religiöse Gehalt und
+                    religiösen Gehalt der europäischen Geistesgeschichte (<rs type="work" ref="#tillich__HJP8PPH2">
+                  <q>der religiöse Gehalt und
                     die religionsgeschichtliche Bedeutung der abendländischen Philosophie seit der
-                    Renaissance</q></rs>). Meine Religionsphilosophie könnte ich dann im Winter lesen. Der
+                    Renaissance</q>
+               </rs>). Meine Religionsphilosophie könnte ich dann im Winter lesen. Der
                     Stoff ist für eine Sommervorlesung zu groß. Sollten jedoch von Seiten der
                     Fakultät Wünsche bestehen, dass ich noch ein anderes Gebiet behandele, so würde
                     ich versuchen, <choice>
-                        <abbr>evtl.</abbr>
-                        <expan>eventuell</expan>
-                    </choice> auch eine kürzere neue Vorlesung auszuarbeiten.</p>
-                <p>Für eine baldige Antwort wäre ich sehr dankbar.</p>
-                <closer>
-                    <salute>Mit ergebensten Gruß</salute>
-                    Ihr <signed><rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs></signed>
-                </closer>
-            </div>
-        </body>
-    </text>
+                  <abbr>evtl.</abbr>
+                  <expan>eventuell</expan>
+               </choice> auch eine kürzere neue Vorlesung auszuarbeiten.</p>
+            <p>Für eine baldige Antwort wäre ich sehr dankbar.</p>
+            <closer>
+               <salute>Mit ergebensten Gruß</salute>
+                    Ihr <signed>
+                  <rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

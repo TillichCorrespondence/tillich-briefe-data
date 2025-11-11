@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00852">
    <teiHeader>
       <fileDesc>
@@ -87,14 +87,14 @@
                <dateline>
                   <rs ref="#tillich_place_id__37" type="place">Berlin NO18</rs>
                   Werneuchener Str. 8
-                  <date when="1925-08-10">10. 8. 25.</date></dateline>
+                  <date when="1925-08-10">10. 8. 25.</date>
+               </dateline>
                <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr
                      Professor</rs>!</salute>
             </opener>
             <p>Mein Brief führt Sie in eine Zeit zurück, an die Sie vielleicht kaum noch denken, mir
                aber um so lebhafter in Erinnerung kam, als ich in unserer Lehrerzeitung las, daß Sie
-               als Professor an die Technische Hochschule in <rs type="place"
-                  ref="#tillich_place_id__126">Dresden</rs> berufen sind. Wenn ich Ihnen aus diesem
+               als Professor an die Technische Hochschule in <rs type="place" ref="#tillich_place_id__126">Dresden</rs> berufen sind. Wenn ich Ihnen aus diesem
                Anlaß meinen herzlichen Glückwunsch übermittele, denke ich lebhaft an die Zeit zurück,
                wo wir als Kinder in <rs type="place" ref="#tillich_place_id__398">Schönfließ</rs>
                miteinander spielten und lebhaften<pb n="2"/> Verkehr unterhielten. Unsere Wege haben
@@ -132,8 +132,10 @@
                wende. Die Erinnerung an unsere gemeinsame Jugend drückte mir die Feder in die Hand,
                Ihnen meine Bitte vorzutragen. Indem ich Ihnen nochmals meinen Glückwunsch
                ausspreche, grüße ich Sie in freundlichem Gedenken.</p>
-            <closer><salute>Ihr ergebener</salute>
-               <signed><rs ref="#tillich_person_id__2413" type="person">Paul Viergutz</rs>.</signed>
+            <closer>
+               <salute>Ihr ergebener</salute>
+               <signed>
+                  <rs ref="#tillich_person_id__2413" type="person">Paul Viergutz</rs>.</signed>
             </closer>
          </div>
       </body>

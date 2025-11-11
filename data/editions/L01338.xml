@@ -1,118 +1,112 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01338">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Brief von Paul Tillich an Hannah Tillich <lb/>von Januar 1921</title>
-        <author ref="#tillich_person_id__1928">Paul Tillich</author>
-        <respStmt>
-          <resp>Editor</resp>
-          <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-        </respStmt>
-      </titleStmt>
-      <editionStmt>
-        <edition>
-          <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-        </edition>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>
-          <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-          <address>
-            <street>Schenkenstraße 8-10</street>
-            <postCode>1010</postCode>
-            <placeName ref="#tillich_place_id__470">Wien</placeName>
-          </address>
-        </publisher>
-        <availability>
-          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hannah Tillich <lb/>von Januar 1921</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
             Attribution 4.0 International (CC BY 4.0)</licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <msDesc type="manuscript">
-          <msIdentifier>
-            <country>USA</country>
-            <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-            <institution>Harvard</institution>
-            <repository>Harvard Divinity School Library</repository>
-            <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-            <idno>bMS 721/2(17)</idno>
-          </msIdentifier>
-          <physDesc>
-            <p>Brief, eigenhändig</p>
-          </physDesc>
-        </msDesc>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <projectDesc>
-        <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-      </projectDesc>
-      <editorialDecl>
-        <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                  <idno>bMS 721/2(17)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
           https://www.deutschestextarchiv.de/doku/basisformat/</p>
-      </editorialDecl>
-    </encodingDesc>
-    <profileDesc>
-      <correspDesc>
-        <correspAction type="sent">
-          <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-          <date notBefore="1921-01-01">01.01.1921</date>
-        </correspAction>
-        <correspAction type="received">
-          <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-        </correspAction>
-      </correspDesc>
-      <langUsage>
-        <language ident="deu">Deutsch</language>
-      </langUsage>
-    </profileDesc>
-    <revisionDesc status="approved">
-      <change when="2024-02-09" who="AA">XML Datei generiert von Metadata</change>
-      <change when="2024-02-09" who="AA">Initiale Auszeichnung des Transkripts</change>
-    </revisionDesc>
-  </teiHeader>
-  <text type="letter">
-    <body>
-      <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-          <dateline>Dienstag</dateline>
-          <salute>Geliebte <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-        </opener>
-        <p> Täglich bist Du mein Glück; denn täglich gibst Du mir die Ruhe der Erfülltheit, und die
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date notBefore="1921-01-01">01.01.1921</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2024-02-09" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2024-02-09" who="AA">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>Dienstag</dateline>
+               <salute>Geliebte <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+            </opener>
+            <p> Täglich bist Du mein Glück; denn täglich gibst Du mir die Ruhe der Erfülltheit, und die
           Seligkeit der unbedingten Liebe und die Freudigkeit der unendlichen Hoffnung. Täglich bist
           Du mir nah und Deine Hand segnet mich in allem wilden Toben der Berliner Tage. Es ist so
           viel Glück in meiner Ruhe, daß ich gestern jemand sagte: Seit Weihnachten bin ich
           glücklich, wie ich es seit 10 Jahren nicht mehr gewesen bin; Du glaubst nicht an mich und
-          meine Kraft zu Dir; ich bin stark genug, auch diesen Deinen Unglauben zu tragen. – Als <rs
-            ref="#tillich_person_id__100" type="person">Augustin</rs> alle Richtungen der antiken
+          meine Kraft zu Dir; ich bin stark genug, auch diesen Deinen Unglauben zu tragen. – Als <rs ref="#tillich_person_id__100" type="person">Augustin</rs> alle Richtungen der antiken
           Philosophie und Religion durchgemacht hatte, fand er das Christentum; er verlor darüber
           das andere nicht; er nahm es in sein Christentum auf und gab ihm den Geist und die Fülle,
           die es bei ihm erst gewinnt. Mit Recht konnte jemand erwarten, daß er auch dieses wieder
           aufgeben würde; aber es war ein Unterschied: dieses war groß genug, daß es alles in sich
-          aufnehmen konnte, erhöht, gereinigt, durchleuchtet. – Du bist groß genug, alle Seiten<pb
-            n="2"/> meines Wesens in Dich aufzunehmen. Ich habe gesucht und gesucht und habe nicht
+          aufnehmen konnte, erhöht, gereinigt, durchleuchtet. – Du bist groß genug, alle Seiten<pb n="2"/> meines Wesens in Dich aufzunehmen. Ich habe gesucht und gesucht und habe nicht
           aufgehört zu suchen, als ich Dir schon nahe war; jetzt suche ich nicht mehr, oder nur das,
           was ich hineintragen kann in Deine Fülle; denn auch Du bist gewachsen und wirst wachsen
-          durch alles was ich in Dich hineintragen werde, wie das Christentum wuchs, als <rs
-            ref="#tillich_person_id__100" type="person">Augustin</rs> seinen gewaltigen Geist
+          durch alles was ich in Dich hineintragen werde, wie das Christentum wuchs, als <rs ref="#tillich_person_id__100" type="person">Augustin</rs> seinen gewaltigen Geist
           hineintrug. Ich liebe Dich, Geliebte; und diese Liebe ist die Kraft und Realität meines
-          Lebens. Es gibt keinen Weg mehr, der nicht zu Dir führt, <rs
-            ref="#tillich_person_id__1923" type="person">Hannah</rs>! – – </p>
-        <p> Ich komme schon <hi rend="u">Freitag</hi> zu Dir. Donnerstag habe ich noch Vortrag. Aber
-          dann will ich keinen Tag verlieren, nachdem ich mich nun einmal für <rs
-            ref="#tillich_place_id__74" type="place">Bremen</rs> entschlossen habe. – Falls die
-          Elektrischen noch nicht gehen, wäre ich dankbar, wenn <rs ref="#tillich_person_id__641"
-            type="person">Frede</rs> oder das Mädchen zu dem üblichen Zug Mittags am Bahnhof
+          Lebens. Es gibt keinen Weg mehr, der nicht zu Dir führt, <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>! – – </p>
+            <p> Ich komme schon <hi rend="u">Freitag</hi> zu Dir. Donnerstag habe ich noch Vortrag. Aber
+          dann will ich keinen Tag verlieren, nachdem ich mich nun einmal für <rs ref="#tillich_place_id__74" type="place">Bremen</rs> entschlossen habe. – Falls die
+          Elektrischen noch nicht gehen, wäre ich dankbar, wenn <rs ref="#tillich_person_id__641" type="person">Frede</rs> oder das Mädchen zu dem üblichen Zug Mittags am Bahnhof
           wäre.</p>
-        <p>Alles was sonst geschehen ist und geschieht, erzähle ich Dir! </p>
-        <closer>
-          <salute>In großer Freude –</salute> Dein <signed><rs ref="#tillich_person_id__1928"
-              type="person">Paul</rs>.</signed>
-        </closer>
-      </div>
-    </body>
-  </text>
+            <p>Alles was sonst geschehen ist und geschieht, erzähle ich Dir! </p>
+            <closer>
+               <salute>In großer Freude –</salute> Dein <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

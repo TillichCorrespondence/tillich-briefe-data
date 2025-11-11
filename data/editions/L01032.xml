@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01032">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Postkarte von Paul Tillich an Hannah Tillich
@@ -31,7 +31,7 @@
             </publisher>
             <availability>
                <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc type="manuscript">
@@ -45,58 +45,65 @@
                </msIdentifier>
                <physDesc>
                   <p>Postkarte, eigenhändig</p>
-                  </physDesc>
-            </msDesc>     
+               </physDesc>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__37">Berlin</placeName>
-              <date when="1929-10-21">21.10.1929</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-              <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="SK" when="2023-11-21">Initiale Auszeichnung des Transkripts</change>
-        <change who="FS" when="2023-12-20">Endabnahme</change>
-        
-       
-     </revisionDesc>
-  </teiHeader>
-  <text type="postcard">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>   
-           <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-        </opener>
-        <p>2 Tage Sitzung hinter mir.<note type="ea">Hintergrund ist die Gründung der <q><rs ref="#tillich__WRN74NUQ" type="work">Neuen Blätter für den Sozialismus</rs></q>.</note> <date when="1929-10-19">Sonnabend</date> von ½ 10 bis Abends um 12. Zum Abendbrot und nachher mit <rs ref="#tillich_person_id__1209" type="person">Löwe</rs> und <rs ref="#tillich_person_id__846" type="person">Heimann</rs> allein bei Stöcklers<note type="ea"><q>Stöcklers</q> war ein <q>Restaurant für Besonderheiten</q> auf dem <rs ref="#tillich_place_id__37" type="place">Berliner</rs> Kurfürstendamm.</note>. Dort <persName ref="#tillich_person_id__2560" type="person">Ullichen</persName> mit Freund. Ich gleich totmüde nach Haus. <date when="1929-10-20">Sonntag</date> von 10-4. Dann mit <rs ref="#tillich_person_id__1209" type="person">Löwe</rs> und <rs ref="#tillich_person_id__846" type="person">Heimann</rs> bei <rs ref="#tillich_person_id__2094" type="person">Arnold</rs> bis 8. Dann bei <hi rend="aq"><rs ref="#tillich_person_id__1307" type="person">Carolus</rs></hi> und <rs ref="#tillich_person_id__1308" type="person">Trude</rs> im <unclear>Norden</unclear>. Jetzt in der Untergrund nach Haus. Mit <rs ref="#tillich_person_id__2094" type="person">Arnold</rs> glänzende Unterhaltung. Es war so gut wie nie. <hi rend="aq"><rs ref="#tillich_person_id__1307" type="person">Carolus</rs></hi> etwas müde und resigniert. Aber fein wie immer. Die Sitzung z. Teil<pb n="2"/> sehr schwierig. Titel immer noch fraglich. Sonst niemand gesehen und telephoniert: Die Strapaze geht weiter<supplied>.</supplied> Jetzt und steigend.
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1929-10-21">21.10.1929</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="SK" when="2023-11-21">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2023-12-20">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+            </opener>
+            <p>2 Tage Sitzung hinter mir.<note type="ea">Hintergrund ist die Gründung der <q>
+                     <rs ref="#tillich__WRN74NUQ" type="work">Neuen Blätter für den Sozialismus</rs>
+                  </q>.</note>
+               <date when="1929-10-19">Sonnabend</date> von ½ 10 bis Abends um 12. Zum Abendbrot und nachher mit <rs ref="#tillich_person_id__1209" type="person">Löwe</rs> und <rs ref="#tillich_person_id__846" type="person">Heimann</rs> allein bei Stöcklers<note type="ea">
+                  <q>Stöcklers</q> war ein <q>Restaurant für Besonderheiten</q> auf dem <rs ref="#tillich_place_id__37" type="place">Berliner</rs> Kurfürstendamm.</note>. Dort <persName ref="#tillich_person_id__2560" type="person">Ullichen</persName> mit Freund. Ich gleich totmüde nach Haus. <date when="1929-10-20">Sonntag</date> von 10-4. Dann mit <rs ref="#tillich_person_id__1209" type="person">Löwe</rs> und <rs ref="#tillich_person_id__846" type="person">Heimann</rs> bei <rs ref="#tillich_person_id__2094" type="person">Arnold</rs> bis 8. Dann bei <hi rend="aq">
+                  <rs ref="#tillich_person_id__1307" type="person">Carolus</rs>
+               </hi> und <rs ref="#tillich_person_id__1308" type="person">Trude</rs> im <unclear>Norden</unclear>. Jetzt in der Untergrund nach Haus. Mit <rs ref="#tillich_person_id__2094" type="person">Arnold</rs> glänzende Unterhaltung. Es war so gut wie nie. <hi rend="aq">
+                  <rs ref="#tillich_person_id__1307" type="person">Carolus</rs>
+               </hi> etwas müde und resigniert. Aber fein wie immer. Die Sitzung z. Teil<pb n="2"/> sehr schwierig. Titel immer noch fraglich. Sonst niemand gesehen und telephoniert: Die Strapaze geht weiter<supplied>.</supplied> Jetzt und steigend.
  
         </p>
-        <closer>
-           <salute>Ach <persName ref="#tillich_person_id__1923" type="person">Hannahchen</persName>!<lb/>
+            <closer>
+               <salute>Ach <persName ref="#tillich_person_id__1923" type="person">Hannahchen</persName>!<lb/>
            Dein</salute>
-           <signed><rs type="person" ref="#tillich_person_id__1928">Paul</rs></signed>
-        </closer>
-      
-     </div>
-    </body>
-  </text>
+               <signed>
+                  <rs type="person" ref="#tillich_person_id__1928">Paul</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01557">
    <teiHeader>
       <fileDesc>
@@ -74,30 +74,35 @@
       </profileDesc>
       <revisionDesc status="approved">
          <change who="FS" when="2025-08-27">Initiale Auszeichnung des Transkripts</change>
-
       </revisionDesc>
    </teiHeader>
    <text type="letter">
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <opener><dateline>
-               <date when="1933-10-02">October 2, 1933</date></dateline>
-               <salute><hi rend="g">My <rs ref="#tillich_person_id__1928" type="person">dear Sir</rs></hi>:</salute>
+            <opener>
+               <dateline>
+                  <date when="1933-10-02">October 2, 1933</date>
+               </dateline>
+               <salute>
+                  <hi rend="g">My <rs ref="#tillich_person_id__1928" type="person">dear Sir</rs>
+                  </hi>:</salute>
             </opener>
             <p>I have the honor to advise you that you have been appointed to be<lb/>
-            <hi rend="g">Visiting Lecturer in Philosophy</hi><lb/>
+               <hi rend="g">Visiting Lecturer in Philosophy</hi>
+               <lb/>
             in Columbia University at a salary at the rate of <hi rend="g">$1,200</hi> per annum, payable monthly.</p>
-<p>This appointment will take effect on <hi rend="g">July 1, 1933</hi> and is made, in accordance with the provisions of the Charter, during the pleasure of the Trustees. The appointment will expire, unless renewed, on <hi rend="g">June 30, 1934</hi></p>
+            <p>This appointment will take effect on <hi rend="g">July 1, 1933</hi> and is made, in accordance with the provisions of the Charter, during the pleasure of the Trustees. The appointment will expire, unless renewed, on <hi rend="g">June 30, 1934</hi>
+            </p>
             <closer>
                <salute>By authority of the Trustees,</salute>
-               <signed><rs ref="#tillich_person_id__3698" type="person">Frank D. Fackenthal</rs><lb/>
-                  <hi rend="i">Secretary</hi></signed>
+               <signed>
+                  <rs ref="#tillich_person_id__3698" type="person">Frank D. Fackenthal</rs>
+                  <lb/>
+                  <hi rend="i">Secretary</hi>
+               </signed>
             </closer>
-
-
          </div>
-
       </body>
    </text>
 </TEI>

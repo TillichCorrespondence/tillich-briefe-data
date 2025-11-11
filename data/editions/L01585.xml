@@ -1,98 +1,110 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01585">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Paul Tillich an Hannah Tillich mit Zusätzen von Eckart von Sydow sowie Friedrich Spiegelberg und seiner Frau
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich mit Zusätzen von Eckart von Sydow sowie Friedrich Spiegelberg und seiner Frau
                     <lb/>vom 6. September 1926
                </title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement>Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Hannah. Papers, 1896-1976</collection>
-<idno>bMS 721/2(22)</idno>
-</msIdentifier>
-<physDesc>
-    <p>Ansichtskarte (Motivüberschrift: Trouville – La Touque à marée basse; eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__445">Trouville</placeName>
-<date when="1926-09-06">06.09.1926</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-<placeName ref="#tillich_place_id__126">Dresden</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2025-09-09" who="FS">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="postcard">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-</opener>
-    <p>Gestern<unclear reason="covered">,</unclear> Sonntag (<date when="1926-09-05">5.9</date>) sind <unclear cert="low" reason="covered">plötzlich</unclear><note type="ea">Ein Poststempel über dem rechten oberen Kartentext macht das Wort schwer lesbar.</note> beide <rs type="person" ref="#tillich_person_id__1829">Spiegelberge</rs> im Hotel erschienen. Heute (<date when="1926-09-06">6.9</date>) fährt <rs type="person" ref="#tillich_person_id__1887">Eckart</rs> nach <rs type="place" ref="#tillich_place_id__343">Paris</rs>. Ich folge in 2 Tagen. Jetzt sitzen wir auf dem Seesteg in herrlichem Meer und grüßen Dich alle vier.</p>
-    <closer><salute>Dein</salute>
-<signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-</closer>
-    <postscript><p>Gleich trauerreicher Abschied von <rs type="place" ref="#tillich_place_id__445">Tr.</rs> – Vor-Abschied von <rs type="place" ref="#tillich_place_id__161">Frankreich</rs> – <unclear reason="illegible">¿¿¿ ¿¿¿</unclear> Dein weinender <rs type="person" ref="#tillich_person_id__1887">Eckart</rs>. –<note type="ea">Zusatz in <rs type="person" ref="#tillich_person_id__1887">Eckart von Sydows</rs> Handschrift.</note></p></postscript>
-    <postscript><p>Hier ist es wunderschön, leider fanden wir Paul etwas magenverstimmt. Herzlichst <unclear reason="illegible">¿¿¿</unclear> und <rs type="person" ref="#tillich_person_id__1829">Friedrich</rs> Sp.<note type="ea">Zusatz von fremder Hand. Friedrich Spiegelberg war zweimal verheiratet, einerseits mit <rs type="person" ref="#tillich_person_id__1830">Rosalie</rs> (genannt Rösli), andererseits mit einer nicht ermittelten Frau. Letztere scheint hier unterschrieben zu haben.</note><pb n="2"/></p></postscript>
-    <postscript><p>unser Hotel<note type="ea">Auf der Kartenfront von Tillichs Hand neben meinem Bleistiftpfeil, der hinter eine Baumreihe auf der linken Kartenhälfte weist.</note></p></postscript>
-    
-</div>
-</body>
-</text>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement>Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                  <idno>bMS 721/2(22)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Ansichtskarte (Motivüberschrift: Trouville – La Touque à marée basse; eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__445">Trouville</placeName>
+               <date when="1926-09-06">06.09.1926</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <placeName ref="#tillich_place_id__126">Dresden</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2025-09-09" who="FS">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+            </opener>
+            <p>Gestern<unclear reason="covered">,</unclear> Sonntag (<date when="1926-09-05">5.9</date>) sind <unclear cert="low" reason="covered">plötzlich</unclear>
+               <note type="ea">Ein Poststempel über dem rechten oberen Kartentext macht das Wort schwer lesbar.</note> beide <rs type="person" ref="#tillich_person_id__1829">Spiegelberge</rs> im Hotel erschienen. Heute (<date when="1926-09-06">6.9</date>) fährt <rs type="person" ref="#tillich_person_id__1887">Eckart</rs> nach <rs type="place" ref="#tillich_place_id__343">Paris</rs>. Ich folge in 2 Tagen. Jetzt sitzen wir auf dem Seesteg in herrlichem Meer und grüßen Dich alle vier.</p>
+            <closer>
+               <salute>Dein</salute>
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+            <postscript>
+               <p>Gleich trauerreicher Abschied von <rs type="place" ref="#tillich_place_id__445">Tr.</rs> – Vor-Abschied von <rs type="place" ref="#tillich_place_id__161">Frankreich</rs> – <unclear reason="illegible">¿¿¿ ¿¿¿</unclear> Dein weinender <rs type="person" ref="#tillich_person_id__1887">Eckart</rs>. –<note type="ea">Zusatz in <rs type="person" ref="#tillich_person_id__1887">Eckart von Sydows</rs> Handschrift.</note>
+               </p>
+            </postscript>
+            <postscript>
+               <p>Hier ist es wunderschön, leider fanden wir Paul etwas magenverstimmt. Herzlichst <unclear reason="illegible">¿¿¿</unclear> und <rs type="person" ref="#tillich_person_id__1829">Friedrich</rs> Sp.<note type="ea">Zusatz von fremder Hand. Friedrich Spiegelberg war zweimal verheiratet, einerseits mit <rs type="person" ref="#tillich_person_id__1830">Rosalie</rs> (genannt Rösli), andererseits mit einer nicht ermittelten Frau. Letztere scheint hier unterschrieben zu haben.</note>
+                  <pb n="2"/>
+               </p>
+            </postscript>
+            <postscript>
+               <p>unser Hotel<note type="ea">Auf der Kartenfront von Tillichs Hand neben meinem Bleistiftpfeil, der hinter eine Baumreihe auf der linken Kartenhälfte weist.</note>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
 </TEI>

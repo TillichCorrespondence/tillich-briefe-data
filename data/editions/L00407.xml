@@ -1,94 +1,97 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00407">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Paul Tillich an Johannes Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Johannes Tillich
                <lb/>vom 12. Dezember 1914</title>
-<author ref="Paul Tillich">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+            <author ref="Paul Tillich">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-<idno>bMS 649/193(12)</idno>
-</msIdentifier>
-<physDesc>
-<p>Feldpostkarte, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/193(12)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Feldpostkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__61">Bieuxy</placeName>
-<date when="1914-12-12">12. Dezember 1914</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2022-05-30" who="PS">Initiale Auszeichnung des Transkripts</change>
-<change when="2023-09-26" who="GM">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="postcard">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, d. <date when="1914-12-12">12.
-                     Dez. 1914</date><note type="ea">Das Datum ist nicht deutlich zu lesen. Die Karte könnte auch vom <date when="1914-12-02">2. Dezember</date> sein.</note></dateline>
-<salute>L. <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
-</opener>
-<p>Wie <rs ref="#tillich_person_id__1762" type="person">El.</rs> schreibt, bist Du in die
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__61">Bieuxy</placeName>
+               <date when="1914-12-12">12. Dezember 1914</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2022-05-30" who="PS">Initiale Auszeichnung des Transkripts</change>
+         <change when="2023-09-26" who="GM">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, d. <date when="1914-12-12">12.
+                     Dez. 1914</date>
+                  <note type="ea">Das Datum ist nicht deutlich zu lesen. Die Karte könnte auch vom <date when="1914-12-02">2. Dezember</date> sein.</note>
+               </dateline>
+               <salute>L. <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
+            </opener>
+            <p>Wie <rs ref="#tillich_person_id__1762" type="person">El.</rs> schreibt, bist Du in die
                Generalsynode gewählt. Ich freue mich sehr darüber und gratuliere Dir herzlich! Ich
                möchte die positiven und liberalen Parteischreier einmal nehmen, über das
                Granatenfeld bei <rs ref="#tillich_place_id__344" type="place">Pasly</rs> führen, und dann in die
@@ -96,15 +99,17 @@
                haben; ich glaube, da würde manchen manches vergehen und sich zeigen, was in
                Wirklichkeit <hi rend="aq">articulus stantis et cadentis ecclesiae</hi> ist! Sicher
                nicht das, was diese Schreier meinen! Nichts gar nichts als die heilige und
-               errettende Gegenwart Gottes! Wehe <rs ref="#tillich_person_id__2532" type="person"><sic>Phillipps</sic></rs> und Genossen, wenn<pb n="2"/> sie unser jetzt
+               errettende Gegenwart Gottes! Wehe <rs ref="#tillich_person_id__2532" type="person">
+                  <sic>Phillipps</sic>
+               </rs> und Genossen, wenn<pb n="2"/> sie unser jetzt
                neu angepacktes und fein empfindendes Volk durch Parteifanatismus wieder von der
                Kirche wegstoßen! Es kann eine furchtbare Katastrophe werden! </p>
-<closer>
-<salute>Herzl. Neujahrswünsche!</salute>
-Dein <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</signed>
-</closer>
-</div>
-</body>
-</text>
+            <closer>
+               <salute>Herzl. Neujahrswünsche!</salute>
+Dein <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>
-

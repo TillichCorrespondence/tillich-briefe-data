@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01045">
    <teiHeader>
       <fileDesc>
@@ -77,8 +77,6 @@
       <revisionDesc status="approved">
          <change who="PS" when="2023-08-23">Initiale Auszeichnung des Transkripts</change>
          <change who="FS" when="2024-01-17">Endabnahme</change>
-
-
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,9 +87,9 @@
                Tgb.-Nr. 3138.<lb/>
                Um Angabe der Nummer im Antwortschreiben wird gebeten.<lb/>
                Haushaltsplan 1930.<lb/>
-               
                <dateline>
-                  <rs ref="#tillich_place_id__143" type="place">Frankfurt (Main)</rs>, den <date when="1929-12-23">23. Dezember 1929.</date><lb/>
+                  <rs ref="#tillich_place_id__143" type="place">Frankfurt (Main)</rs>, den <date when="1929-12-23">23. Dezember 1929.</date>
+                  <lb/>
                Mertonstraße 17<lb/>
                Fernruf: Maingau 72216</dateline>
                <salute/>
@@ -103,10 +101,12 @@
                tritt erst nach gesetzlicher Feststellung des Staatshaushalts 1930 in Kraft.</p>
             <p>Der außerdem beantragte außerplanmäßige Assistent ist leider nicht bewilligt
                worden.</p>
-            <closer><signed><rs ref="#tillich_person_id__1610" type="person">Riezler</rs></signed></closer>
-
+            <closer>
+               <signed>
+                  <rs ref="#tillich_person_id__1610" type="person">Riezler</rs>
+               </signed>
+            </closer>
          </div>
-
       </body>
    </text>
 </TEI>

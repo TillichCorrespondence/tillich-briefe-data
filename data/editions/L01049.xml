@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01049">
    <teiHeader>
       <fileDesc>
@@ -40,7 +40,7 @@
                   <settlement ref="#tillich_place_id__37">Berlin</settlement>
                   <repository>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</repository>
                   <collection>Handschriftenabteilung, Archiv des Verlages Vandenhoeck &amp; Ruprecht - Autorenkorrespondenz/G 1888-1936</collection>
-                  <idno>Nachl. 494, G 1923. 138</idno>   
+                  <idno>Nachl. 494, G 1923. 138</idno>
                </msIdentifier>
                <physDesc>
                   <p>Briefdurchschlag, maschinenschriftlich</p>
@@ -52,7 +52,8 @@
                            <author>Friedrich Wilhelm Graf</author>
                            <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
                            <imprint>
-                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
                               <date when="2020">2020</date>
                               <biblScope>S. 26–170, hier: 151f.</biblScope>
                            </imprint>
@@ -94,25 +95,30 @@
       <revisionDesc status="approved">
          <change who="PS" when="2023-09-07">Initiale Auszeichnung des Transkripts</change>
          <change who="FS" when="2024-01-24">Endabnahme</change>
-
-
       </revisionDesc>
    </teiHeader>
    <text type="letter">
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <opener><dateline>
-                  <date when="1930-01-06">6. Januar 1930</date><lb/>
-               Herrn Professor Dr. <rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs>, <rs ref="#tillich_place_id__143" type="place">Frankfurt a. M.</rs><note type="eb">Erklärende Anmerkungen zu vorliegendem Brief wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note></dateline>
+            <opener>
+               <dateline>
+                  <date when="1930-01-06">6. Januar 1930</date>
+                  <lb/>
+               Herrn Professor Dr. <rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs>, <rs ref="#tillich_place_id__143" type="place">Frankfurt a. M.</rs>
+                  <note type="eb">Erklärende Anmerkungen zu vorliegendem Brief wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note>
+               </dateline>
                <salute>Hochgeehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>!</salute>
             </opener>
-            <p><rs ref="#tillich_person_id__2517" type="person">Herr Lic. Eisenhuth</rs> übersendet uns die Handschrift
+            <p>
+               <rs ref="#tillich_person_id__2517" type="person">Herr Lic. Eisenhuth</rs> übersendet uns die Handschrift
                seiner <rs ref="#tillich__JNVAYVE5" type="work">Promotionsarbeit</rs> zum Dr. phil. <q>Studien zum Begriff des Irrationalen</q> oder
                auch <q>Der Begriff des Irrationalen bei <rs ref="#tillich_person_id__1438" type="person">R. Otto</rs> als
                philosophisches Problem</q> und bietet zugleich eine Arbeit an, die er als
-               Habilitationsschrift einzureichen gedenkt: <q><rs ref="#tillich__CZQQ425Q" type="work">Versuch einer ontologischen Grundlegung
-               der Religion</rs></q>.</p>
+               Habilitationsschrift einzureichen gedenkt: <q>
+                  <rs ref="#tillich__CZQQ425Q" type="work">Versuch einer ontologischen Grundlegung
+               der Religion</rs>
+               </q>.</p>
             <p>Er möchte, daß wir beide Arbeiten in unsern Verlag nähmen, und bittet um Beratung, in
                welcher Weise sie am besten erscheinen könnten.</p>
             <p>Vom Standpunkt des jungen Gelehrten aus gesehen, ist es sehr begreiflich, daß er
@@ -144,13 +150,10 @@
             <closer>
                <salute>Mit besten Empfehlungen</salute>
             </closer>
-
             <postscript>
                <p>Anbei ein Frei-Umschlag.</p>
             </postscript>
-
          </div>
-
       </body>
    </text>
 </TEI>

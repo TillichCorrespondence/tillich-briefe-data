@@ -1,122 +1,115 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00088">
-               <teiHeader>
-                              <fileDesc>
-                                             <titleStmt>
-                                                  <title>Postkarte von Unbekannt und Tante Emma an
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Unbekannt und Tante Emma an
                                                   Paul Tillich <lb/>vom 30. Mai 1905</title>
-                                                  <author ref="#tillich_person_id__2227">Tante
+            <author ref="#tillich_person_id__2227">Tante
                                                   Emma</author>
-                                                  <respStmt>
-                                                  <resp>Editor</resp>
-                                                  <name key="https://orcid.org/0009-0003-9642-5125"
-                                                  >Paul Schömann</name>
-                                                  </respStmt>
-                                             </titleStmt>
-                                             <editionStmt>
-                                                  <edition>
-                                                  <title type="editionstitel">Edition der
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der
                                                   Korrespondenz von Paul Tillich 1887-1933</title>
-                                                  </edition>
-                                             </editionStmt>
-                                             <publicationStmt>
-                                                  <publisher>
-                                                  <name>Institut für Systematische Theologie und
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und
                                                   Religionswissenschaft</name>
-                                                  <address>
-                                                  <street>Schenkenstraße 8-10</street>
-                                                  <postCode>1010</postCode>
-                                                  <placeName ref="#tillich_place_id__470">
-                                                  <settlement>Wien</settlement>
-                                                  <country>Österreich</country>
-                                                  </placeName>
-                                                  </address>
-                                                  </publisher>
-                                                  <availability>
-                                                  <licence
-                                                  target="http://creativecommons.org/licenses/by-sa/4.0/"
-                                                  >Creative Commons Attribution 4.0 International
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International
                                                   (CC BY 4.0)</licence>
-                                                  </availability>
-                                             </publicationStmt>
-                                             <sourceDesc>
-                                                  <msDesc type="manuscript">
-                                                  <msIdentifier>
-                                                  <country>USA</country>
-                                                  <settlement ref="#tillich_place_id__82">Cambridge,
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge,
                                                   MA</settlement>
-                                                  <institution>Harvard University</institution>
-                                                  <repository>Harvard Divinity School
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School
                                                   Library</repository>
-                                                  <collection>Tillich, Paul, 1886-1965. Papers,
+                  <collection>Tillich, Paul, 1886-1965. Papers,
                                                   1894-1974.</collection>
-                                                  <idno>bMS 649/208(4)</idno>
-                                                  </msIdentifier>
-                                                  <physDesc>
-                                                  <p>Postkarte, eigenhändig</p>
-                                                  </physDesc>
-                                                  </msDesc>
-                                             </sourceDesc>
-                              </fileDesc>
-                              <encodingDesc>
-                                             <projectDesc>
-                                                  <p>online-Edition: Edition der Korrespondenz von
+                  <idno>bMS 649/208(4)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von
                                                   Paul Tillich 1887-1933.</p>
-                                             </projectDesc>
-                                             <editorialDecl>
-                                                  <p>Die Ausgabe folgt folgenden Editorischen
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen
                                                   Richtlinien des DTA-Basisformats. Vgl.
                                                   https://www.deutschestextarchiv.de/doku/basisformat/</p>
-                                             </editorialDecl>
-                              </encodingDesc>
-                              <profileDesc>
-                                             <correspDesc>
-                                                  <correspAction type="sent">
-                                                  <persName ref="#tillich_person_id__2227">Tante
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2227">Tante
                                                   Emma</persName>
-                                                  <placeName ref="#tillich_place_id__485">Freiburg
+               <placeName ref="#tillich_place_id__485">Freiburg
                                                   im Breisgau</placeName>
-                                                  <date when="1905-05-30">30.05.1905</date>
-                                                  </correspAction>
-                                                  <correspAction type="received">
-                                                  <persName ref="#tillich_person_id__1928">Paul
+               <date when="1905-05-30">30.05.1905</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul
                                                   Tillich</persName>
-                                                  </correspAction>
-                                             </correspDesc>
-                                             <langUsage>
-                                                  <language ident="deu">Deutsch</language>
-                                             </langUsage>
-                              </profileDesc>
-                              <revisionDesc status="approved">
-                                             <change when="2023-10-03" who="PS">Initiale
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-10-03" who="PS">Initiale
                                                   Auszeichnung des Transkripts</change>
-                                             <change when="2024-01-17" who="EL">Endabnahme</change>
-                                   <change when="2025-07-23" who="FS">Datum korrigiert</change>
-                              </revisionDesc>
-               </teiHeader>
-               <text type="postcard">
-                              <body>
-                                             <div type="writingSession">
-                                                  <pb n="1"/>
-                                                  <opener><dateline>
-                                                  <rs ref="#tillich_place_id__164" type="place"
-                                                  >Freiburg i. Br.</rs>, <date when="1905-08-30">30.
-                                                  V. 1905</date></dateline>
-                                                  <salute>Lieber <rs ref="#tillich_person_id__1928"
-                                                  type="person">Paul</rs>!</salute>
-                                                  </opener>
-                                                  <p>Deine Nachricht vom <date when="1905-08-23"
-                                                  >23.</date> hat uns erfreut.<note type="ea"
-                                                  >Nicht überliefert.</note>
+         <change when="2024-01-17" who="EL">Endabnahme</change>
+         <change when="2025-07-23" who="FS">Datum korrigiert</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__164" type="place">Freiburg i. Br.</rs>, <date when="1905-08-30">30.
+                                                  V. 1905</date>
+               </dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+            </opener>
+            <p>Deine Nachricht vom <date when="1905-08-23">23.</date> hat uns erfreut.<note type="ea">Nicht überliefert.</note>
                                                   Du sprichst von Deiner Wunde, die leider noch
                                                   nicht gut ist.<note type="ea">Paul Tillich hatte
                                                   während des Sommersemesters 1905 in Tübingen
                                                   wiederholt eine Ohrenerkrankung.</note> Du wirst wohl genaue Kenntnis u.
                                                   die besten Weisungen für die Sache haben, die Du
                                                   vor allem sorgsam beachten mußt. Daß Land u. Leute
-                                                  in Süddeutschland Dich freuen, ist uns lieb. <rs
-                                                  ref="#tillich_place_id__37" type="place"
-                                                  >Berlin</rs> mit seinen Bauten u. seinem Leben
+                                                  in Süddeutschland Dich freuen, ist uns lieb. <rs ref="#tillich_place_id__37" type="place">Berlin</rs> mit seinen Bauten u. seinem Leben
                                                   findest Du freilich nicht; Du lernst eben die sehr
                                                   verschiedenen Elemente kennen, aus denen sich
                                                   unser Deutschland aufbaut in Natur u. Kunst u. Staat
@@ -128,32 +121,27 @@
                                                   Deine fröhlichen Kreise, was Natur u. Menschen Dir
                                                   bieten; <foreign xml:lang="gre">Μηδὲν
                                                   ἄγαν</foreign>.</p>
-                                             </div>
-                                             <div type="handwriting2">
-                                                  <opener><salute>L. <rs
-                                                  ref="#tillich_person_id__1928" type="person"
-                                                  >Paul</rs>!</salute></opener>
-                                                  <p>Das war eine schwere Zeit für mich u. bin ich
+         </div>
+         <div type="handwriting2">
+            <opener>
+               <salute>L. <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+            </opener>
+            <p>Das war eine schwere Zeit für mich u. bin ich
                                                   auch jetzt noch sehr angegriffen. Ich mache mir so
                                                   schwere Gedanken u. denke viel u. oft an Deine arme
-                                                  <rs ref="#tillich_person_id__1929" type="person"
-                                                                 >Mutter</rs>, in der Klinik war ich 14 Tage u.
+                                                  <rs ref="#tillich_person_id__1929" type="person">Mutter</rs>, in der Klinik war ich 14 Tage u.
                                                   hatte die beste Behandlung u. nun soll es mit den
-                                                  Nerven noch besser werden. Ich gehe nicht nach <rs
-                                                  ref="#tillich_place_id__539" type="place"
-                                                  >Nauheim</rs> u. was ich hier will ist noch
-                                                  unbestimmt. <rs ref="#tillich_person_id__1924"
-                                                  type="person">Vater</rs> schreibt es ginge gut u.
-                                                  <sic><rs ref="#tillich_person_id__644" type="person"
-                                                  >Johanna</rs> gekräftigt zurückgekommen</sic>, schon
+                                                  Nerven noch besser werden. Ich gehe nicht nach <rs ref="#tillich_place_id__539" type="place">Nauheim</rs> u. was ich hier will ist noch
+                                                  unbestimmt. <rs ref="#tillich_person_id__1924" type="person">Vater</rs> schreibt es ginge gut u.
+                                                  <sic>
+                  <rs ref="#tillich_person_id__644" type="person">Johanna</rs> gekräftigt zurückgekommen</sic>, schon
                                                   Dich nur u. trinke wenig Geistiges. Nun laß bald mal
-                                                  wieder von Dir hören. Wann hat <rs
-                                                  ref="#tillich_person_id__1924" type="person"
-                                                  >Vater</rs> Geburtstag?</p>
-                                                  <closer><signed>Deine Tante <rs
-                                                  ref="#tillich_person_id__2227" type="person"
-                                                  >Emma</rs></signed></closer>
-                                             </div>
-                              </body>
-               </text>
+                                                  wieder von Dir hören. Wann hat <rs ref="#tillich_person_id__1924" type="person">Vater</rs> Geburtstag?</p>
+            <closer>
+               <signed>Deine Tante <rs ref="#tillich_person_id__2227" type="person">Emma</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

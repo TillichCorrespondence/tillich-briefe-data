@@ -1,108 +1,98 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00614">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Anna-Margarete Bahr <lb/>vom 29. Mai 1919</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
- <country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__tillich_place_id__279">Marburg</settlement>
-<institution>Philipps-Universität Marburg</institution>
-<repository>Deutsches Paul-Tillich-Archiv</repository>
-<idno>008 B</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
-<date when="1919-05-29">29.05.1919</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__3577">Anna-Margarete Bahr</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession" resp="tillich_person_id__1928">
-<pb n="1"/>
-<opener>
-
-<dateline><rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>, d. <date when="1919-05-29">29. Mai 19.</date></dateline>
-
-<salute>Liebe <rs ref="#tillich_person_id__3577" type="person">Anna-Margareta Bahr</rs>!</salute>
-
-</opener>
-
-<p>So, nun habe auch ich das <q>Fräulein</q> vermieden, was vielleicht noch <q>bedenklicher</q> ist, als der Verlust des <q>Herr</q>, weswegen ich zur Strafe auch dem demnächstigen Verlust des <q>Doktor</q> noch entgegenhoffe... Vielen Dank für Ihren Brief, der mir eine große Freude war und mich an den Nachmittag mit den gelben Blumen auf der roten Seidendecke erinnerte, die reizende Einweihung meines Zimmers...</p>
-
-<p>Der Abend in <rs ref="#tillich_place_id__52" type="place">Zehlendorf</rs> war wirklich sehr nett für mich; man hatte das Gefühl, gern gehört zu werden; leider war das Gespräch mit Ihrer Frau Mutter und Frl. Schwester zu kurz; es kamen andere dazwischen und auf einmal waren sie weg, sodaß ich keinen rechten Eindruck gewinnen konnte; um so mehr freut mich, daß meine Rede Ihnen gefallen hat. - - -</p>
-
-<p>Ich sitze jetzt so viel wie möglich auf meinem Balkon, der von blauen Glycinien märchenhaft überrankt ist, und mir nach 4 Kriegsjahren zum ersten Mal wieder das Gefühl einer Freude an der Natur gibt; denn im Krieg war die Natur entweiht; man hatte das Gefühl, daß ein Riß durch sie hindurchgeht; in jedes unvorstellbare Glücksgefühl über ihre Schönheit mischte sich die Reflexion auf das Grauenvolle...</p>
-
-<p>An Ihren Ritten möchte ich wirklich teilnehmen, und wäre bereit sogar noch mehr als meine ganzen Kollegeinnahmen (!?) zu opfern; doch würde ich wohl das Segeln vorziehen...</p>
-
-<p>Wie es Pfingsten wird, kann ich noch nicht sagen; meine Schwester ist nämlich auf 3 Monate nach <rs ref="#tillich_place_id__396" type="place">Schweden</rs> gereist und mein Schwager will nun mit mir zusammensein; ein Wunsch, dem ich mich vielleicht nicht versagen kann! - Vor allem aber warte ich von Tag zu Tag vergeblich auf Nachricht von <rs ref="#tillich_person_id__1679" type="person">Lotte Salz</rs>; ist mein letzter Brief nicht angekommen; oder ist was mit ihr los? Sagen Sie ihr doch bitte, daß ich sehr warte, um mich entschließen zu können.</p>
-
-<closer>
-
-<salute>Herzliche Grüße und spätestens im Sommer<lb/>auf Wiedersehn!</salute>
-
-<signed>Ihr <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
-
-</closer>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Anna-Margarete Bahr <lb/>vom 29. Mai 1919</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__tillich_place_id__279">Marburg</settlement>
+                  <institution>Philipps-Universität Marburg</institution>
+                  <repository>Deutsches Paul-Tillich-Archiv</repository>
+                  <idno>008 B</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
+               <date when="1919-05-29">29.05.1919</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__3577">Anna-Margarete Bahr</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession" resp="tillich_person_id__1928">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>, d. <date when="1919-05-29">29. Mai 19.</date>
+               </dateline>
+               <salute>Liebe <rs ref="#tillich_person_id__3577" type="person">Anna-Margareta Bahr</rs>!</salute>
+            </opener>
+            <p>So, nun habe auch ich das <q>Fräulein</q> vermieden, was vielleicht noch <q>bedenklicher</q> ist, als der Verlust des <q>Herr</q>, weswegen ich zur Strafe auch dem demnächstigen Verlust des <q>Doktor</q> noch entgegenhoffe... Vielen Dank für Ihren Brief, der mir eine große Freude war und mich an den Nachmittag mit den gelben Blumen auf der roten Seidendecke erinnerte, die reizende Einweihung meines Zimmers...</p>
+            <p>Der Abend in <rs ref="#tillich_place_id__52" type="place">Zehlendorf</rs> war wirklich sehr nett für mich; man hatte das Gefühl, gern gehört zu werden; leider war das Gespräch mit Ihrer Frau Mutter und Frl. Schwester zu kurz; es kamen andere dazwischen und auf einmal waren sie weg, sodaß ich keinen rechten Eindruck gewinnen konnte; um so mehr freut mich, daß meine Rede Ihnen gefallen hat. - - -</p>
+            <p>Ich sitze jetzt so viel wie möglich auf meinem Balkon, der von blauen Glycinien märchenhaft überrankt ist, und mir nach 4 Kriegsjahren zum ersten Mal wieder das Gefühl einer Freude an der Natur gibt; denn im Krieg war die Natur entweiht; man hatte das Gefühl, daß ein Riß durch sie hindurchgeht; in jedes unvorstellbare Glücksgefühl über ihre Schönheit mischte sich die Reflexion auf das Grauenvolle...</p>
+            <p>An Ihren Ritten möchte ich wirklich teilnehmen, und wäre bereit sogar noch mehr als meine ganzen Kollegeinnahmen (!?) zu opfern; doch würde ich wohl das Segeln vorziehen...</p>
+            <p>Wie es Pfingsten wird, kann ich noch nicht sagen; meine Schwester ist nämlich auf 3 Monate nach <rs ref="#tillich_place_id__396" type="place">Schweden</rs> gereist und mein Schwager will nun mit mir zusammensein; ein Wunsch, dem ich mich vielleicht nicht versagen kann! - Vor allem aber warte ich von Tag zu Tag vergeblich auf Nachricht von <rs ref="#tillich_person_id__1679" type="person">Lotte Salz</rs>; ist mein letzter Brief nicht angekommen; oder ist was mit ihr los? Sagen Sie ihr doch bitte, daß ich sehr warte, um mich entschließen zu können.</p>
+            <closer>
+               <salute>Herzliche Grüße und spätestens im Sommer<lb/>auf Wiedersehn!</salute>
+               <signed>Ihr <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

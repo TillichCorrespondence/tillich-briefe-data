@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01038">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Postkarte von Paul Tillich an Verlag Vandenhoeck &amp; Ruprecht
@@ -31,7 +31,7 @@
             </publisher>
             <availability>
                <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc type="typescript">
@@ -40,11 +40,11 @@
                   <settlement ref="#tillich_place_id__37">Berlin</settlement>
                   <repository>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</repository>
                   <collection>Handschriftenabteilung, Archiv des Verlages Vandenhoeck &amp; Ruprecht - Autorenkorrespondenz/G 1888-1936</collection>
-                  <idno>Nachl. 494, G 1923. 138; 493-517</idno>       
+                  <idno>Nachl. 494, G 1923. 138; 493-517</idno>
                </msIdentifier>
                <physDesc>
                   <p>Postkarte; maschinenschriftlich mit eigenhändiger Unterschrift; Unterstreichung des Empfängers</p>
-                  </physDesc>
+               </physDesc>
                <additional>
                   <listBibl>
                      <biblStruct type="journal">
@@ -52,7 +52,8 @@
                            <author>Friedrich Wilhelm Graf</author>
                            <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
                            <imprint>
-                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
                               <date when="2020">2020</date>
                               <biblScope>S. 26–170, hier: 151</biblScope>
                            </imprint>
@@ -67,49 +68,54 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <date when="1929-10-29">29.10.1929</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__2301">Verlag Vandenhoeck &amp; Ruprecht</persName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="SK" when="2023-06-13">Initiale Auszeichnung des Transkripts</change>
-        <change who="Fs" when="2024-01-24">Endabnahme</change>
-        
-     </revisionDesc>
-  </teiHeader>
-  <text type="postcard">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-    
-        <p>
-           Hierdurch<note type="eb">Erklärende Anmerkungen zu vorliegendem Schreiben wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note> bitte ich Sie, <hi rend="u">zum Autorenpreis</hi><note type="ea">Unterstreichung des Empfängers.</note> ein Exemplar meiner Schrift <q><rs ref="#tillich__WLVL28EI" type="work">System der Wissenschaften</rs></q>, zu senden an das Freie deutsche Hochstift <rs ref="#tillich_place_id__143" type="place">Frankfurt/M</rs> Goethehaus
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1929-10-29">29.10.1929</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__2301">Verlag Vandenhoeck &amp; Ruprecht</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="SK" when="2023-06-13">Initiale Auszeichnung des Transkripts</change>
+         <change who="Fs" when="2024-01-24">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <p>
+           Hierdurch<note type="eb">Erklärende Anmerkungen zu vorliegendem Schreiben wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note> bitte ich Sie, <hi rend="u">zum Autorenpreis</hi>
+               <note type="ea">Unterstreichung des Empfängers.</note> ein Exemplar meiner Schrift <q>
+                  <rs ref="#tillich__WLVL28EI" type="work">System der Wissenschaften</rs>
+               </q>, zu senden an das Freie deutsche Hochstift <rs ref="#tillich_place_id__143" type="place">Frankfurt/M</rs> Goethehaus
         </p>
-        <closer>
-           <salute> <rs ref="#tillich_person_id__1928" type="person">Professor D. Dr. Paul Tillich</rs><note type="ea">Darunter findet sich der Erledigungsvermerk des Verlages <q>4,15 30 / X. 29</q> sowie der Eingangsstempel <q><date when="1929-10-30">30. Okt. 1929</date></q>.</note>
-           </salute>
-           <signed><rs ref="#tillich_person_id__1928" type="person">Tillich</rs>.</signed>
-        </closer>    
-      
-     </div>
-    </body>
-  </text>
+            <closer>
+               <salute>
+                  <rs ref="#tillich_person_id__1928" type="person">Professor D. Dr. Paul Tillich</rs>
+                  <note type="ea">Darunter findet sich der Erledigungsvermerk des Verlages <q>4,15 30 / X. 29</q> sowie der Eingangsstempel <q>
+                        <date when="1929-10-30">30. Okt. 1929</date>
+                     </q>.</note>
+               </salute>
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,144 +1,142 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01392">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Hannah Tillich <lb/>verm. April 1933</title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hannah Tillich <lb/>verm. April 1933</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement>Cambridge, MA</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                        <idno>bMS 721/3(6)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig.</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement>Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                  <idno>bMS 721/3(6)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig.</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__37">Berlin</placeName>
-                    <date notBefore="1933-04-03" notAfter="1933-04-06">03.-06.04.1933</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change when="2024-04-29" who="FS">Initiale Auszeichnung des Transkripts und
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date notBefore="1933-04-03" notAfter="1933-04-06">03.-06.04.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2024-04-29" who="FS">Initiale Auszeichnung des Transkripts und
                 Endabnahme</change>
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener><dateline><add place="top">Montag zw. 6–7<lb/> Dienstag vormittag<lb/> Dienstag früh<lb/>
-                    Donnerstag 9. u. 10</add><note type="ea">Rechts oben am Briefkopf, von
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <add place="top">Montag zw. 6–7<lb/> Dienstag vormittag<lb/> Dienstag früh<lb/>
+                    Donnerstag 9. u. 10</add>
+                  <note type="ea">Rechts oben am Briefkopf, von
                         fremder (verm. <rs ref="#tillich_person_id__1923" type="person">Hannah
-                            Tillichs</rs>) Hand.</note></dateline>
-                    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person"
-                        >Hannah</rs>!<note type="ea">Dieser undatierte Brief lässt sich grob auf die erste
+                            Tillichs</rs>) Hand.</note>
+               </dateline>
+               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!<note type="ea">Dieser undatierte Brief lässt sich grob auf die erste
                             Aprilwoche 1933 datieren. Er steht inhaltlich im Zusammenhang mit
-                            weiteren undatierten Briefen <rs ref="#tillich_person_id__1928"
-                                type="person">Tillichs</rs> an seine <rs
-                                    ref="#tillich_person_id__1923" type="person">Frau</rs> vom April
-                            1933.</note></salute>
-                </opener>
-                    <p>Gestern und heute viel geredet und gehört. Situation in höchster Zuspitzung.
-                    Spannungen äußerst scharf. Von uns aus gar nichts zu tun möglich. – <rs
-                        ref="#tillich_person_id__846" type="person">Peter</rs> zum Essen hier bei
+                            weiteren undatierten Briefen <rs ref="#tillich_person_id__1928" type="person">Tillichs</rs> an seine <rs ref="#tillich_person_id__1923" type="person">Frau</rs> vom April
+                            1933.</note>
+               </salute>
+            </opener>
+            <p>Gestern und heute viel geredet und gehört. Situation in höchster Zuspitzung.
+                    Spannungen äußerst scharf. Von uns aus gar nichts zu tun möglich. – <rs ref="#tillich_person_id__846" type="person">Peter</rs> zum Essen hier bei
                         <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs>; er ist sehr
-                    zerbrochen, ganz monomanisch in seinen Gedanken, kann nicht zuhören. – <rs
-                        ref="#tillich_person_id__15" type="person">Teddy</rs> ebenfalls zerbrochen,
+                    zerbrochen, ganz monomanisch in seinen Gedanken, kann nicht zuhören. – <rs ref="#tillich_person_id__15" type="person">Teddy</rs> ebenfalls zerbrochen,
                     wohnt in nobler Pension Unter den Linden, wird auf Anraten von mir im nächsten
                     Semester nicht lesen; war rührend und wie erlöst, daß ich bei ihm war, lebt in
                     Schaum-Phantasien für sich und seine Leute, will aber auf keinen Fall heraus,
-                    fühlt sich ganz an <rs ref="#tillich_place_id__122" type="place"
-                        >Deutschland</rs> gebunden. Alle seine Freunde sind draußen. – <rs
-                        ref="#tillich_person_id__1845" type="person">Hans St.</rs> ist lebendig wie
+                    fühlt sich ganz an <rs ref="#tillich_place_id__122" type="place">Deutschland</rs> gebunden. Alle seine Freunde sind draußen. – <rs ref="#tillich_person_id__1845" type="person">Hans St.</rs> ist lebendig wie
                     immer, berichtet viel Interessantes. Er geht auf keinen Fall heraus. Ich bin
                     jetzt noch froher als vorher, daß wir nicht gereist sind. – Über
                     Universitätsdinge ist nichts zu erfahren. Sie wissen es offenbar selbst noch
                     nicht. Die Juden wird es auf alle Fälle irgendwie treffen. – Freitag Nachmittag
-                    wichtige Sitzung. Ich hoffe, daß auch <rs ref="#tillich_person_id__1307"
-                        type="person">Carolus</rs> kommt,<pb n="2"/> der noch ganz in Illusionen
+                    wichtige Sitzung. Ich hoffe, daß auch <rs ref="#tillich_person_id__1307" type="person">Carolus</rs> kommt,<pb n="2"/> der noch ganz in Illusionen
                     schwebt. Sollte <rs ref="#tillich_person_id__1209" type="person">Adolf</rs>
                     kommen, so soll er sich so einrichten, daß er <hi rend="u">spätestens Freitag um
                         5</hi> hier ankommt und gleich bei mir anruft. Bitte teile ihm das mit: Und
                     er soll mir unbedingt ein paar Worte schreiben. Ich <hi rend="u">muß</hi> wieder
                     Verbindung mit ihm kriegen. Über die Schneeverhältnisse in den Alpenpässen ziehe
                     ich Erkundigungen ein.</p>
-                <p>Falls Du jetzt nach <rs ref="#tillich_place_id__629" type="place">Lindau</rs>
-                    gehst, müßte ich zurück. Denn mit einem Bein (Deinem Bein) muß ich in <rs
-                        ref="#tillich_place_id__143" type="place">Frankfurt</rs> sein. Die Fahrt
+            <p>Falls Du jetzt nach <rs ref="#tillich_place_id__629" type="place">Lindau</rs>
+                    gehst, müßte ich zurück. Denn mit einem Bein (Deinem Bein) muß ich in <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> sein. Die Fahrt
                     nach <rs ref="#tillich_place_id__277" type="place">Mannheim</rs> ängstigt mich
                     natürlich (Auto als Symbol für andere Angst??). – Hat sich mal wieder ein
                     freundlicher Kritiker mit mir oder anderen Leuten öffentlich beschäftigt. Wenn
-                    ja, schick mir das Käse-Papier! – <rs ref="#tillich_person_id__1760"
-                        type="person">Seeberg</rs> lädt mich und <rs ref="#tillich_person_id__1723"
-                        type="person">K. L.</rs> nach <rs ref="#tillich_place_id__7" type="place"
-                        >Ahrenshoop</rs> in sein Haus. Soll ich nächste Woche fahren? – Schick mir
+                    ja, schick mir das Käse-Papier! – <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs> lädt mich und <rs ref="#tillich_person_id__1723" type="person">K. L.</rs> nach <rs ref="#tillich_place_id__7" type="place">Ahrenshoop</rs> in sein Haus. Soll ich nächste Woche fahren? – Schick mir
                     <hi rend="u">gleich</hi> aus meiner Briefmappe den <hi rend="u">Zettel für die Ankündigungen</hi> und das
-                    <hi rend="u">Vorlesungsverzeichnis</hi>!! – Was ist mit dem <rs ref="#tillich_person_id__2954"
-                        type="person">Rektor</rs> los?? </p>
-                <closer>
-                    <salute>Schreibe täglich!!</salute>
-                    Dein <signed><rs ref="#tillich_person_id__1928" type="person"
-                        >Paulus</rs>.</signed>
-                </closer>
-                <postscript><p><add>Viele sehr herzliche Grüsse<lb/> Ihr <unclear>bD</unclear></add><note type="ea">Links oben auf
-                    dem Kopf stehend, von fremder Hand.</note></p></postscript>
-            </div>
-        </body>
-    </text>
+                    <hi rend="u">Vorlesungsverzeichnis</hi>!! – Was ist mit dem <rs ref="#tillich_person_id__2954" type="person">Rektor</rs> los?? </p>
+            <closer>
+               <salute>Schreibe täglich!!</salute>
+                    Dein <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Paulus</rs>.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <add>Viele sehr herzliche Grüsse<lb/> Ihr <unclear>bD</unclear>
+                  </add>
+                  <note type="ea">Links oben auf
+                    dem Kopf stehend, von fremder Hand.</note>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
 </TEI>

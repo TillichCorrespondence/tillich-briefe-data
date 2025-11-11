@@ -1,110 +1,114 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00698">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Verlag Vandenhoeck und Ruprecht <lb/>vom 13. Dezember 1920</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name>Anna Rüther</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__37">Berlin</settlement>
-<institution>Stiftung Preußischer Kulturbesitz</institution>
-<repository>Staatsbibliothek zu Berlin</repository>
-<collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
-<idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-      <additional>
-            <listBibl>
-                  <biblStruct type="journal">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Verlag Vandenhoeck und Ruprecht <lb/>vom 13. Dezember 1920</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Anna Rüther</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <institution>Stiftung Preußischer Kulturbesitz</institution>
+                  <repository>Staatsbibliothek zu Berlin</repository>
+                  <collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
+                  <idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal">
                         <monogr>
-                              <author>Friedrich Wilhelm Graf</author>
-                              <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-                              <imprint>
-                                    <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
-                                    <date when="2020">2020</date>
-                                    <biblScope>S. 26–170, hier: 108f.</biblScope>
-                              </imprint>
+                           <author>Friedrich Wilhelm Graf</author>
+                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                              <date when="2020">2020</date>
+                              <biblScope>S. 26–170, hier: 108f.</biblScope>
+                           </imprint>
                         </monogr>
                         <series>
-                              <title>Zeitschrift für Neuere Theologiegeschichte</title>
-                              <biblScope>27/1</biblScope>
+                           <title>Zeitschrift für Neuere Theologiegeschichte</title>
+                           <biblScope>27/1</biblScope>
                         </series>
-                  </biblStruct>
-            </listBibl>
-      </additional>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
-<date when="1920-12-13">13.12.1920</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__2301">??? Verlag Vandenhoeck und Ruprecht</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
-<change when="2024-01-19" who="AR">Initiale Auszeichnung des Transkripts</change>
-      <change when="2025-03-17" who="FS">Kollationierung</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-      <rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>, Taunusstr. 1<note type="ea">Über der Adresse findet sich der Registraturvermerk: <q>Tillich</q>. Links daneben notiert <rs ref="#tillich_person_id__2569" type="person">Wilhelm Ruprecht</rs>: <q><hi rend="u">Neues</hi> Programm? Die Beiträge von <rs ref="#tillich_person_id__2746" type="person">Steinmann</rs>, <rs ref="#tillich_person_id__1189" type="person">Lipps</rs> und <rs ref="#tillich_person_id__3120" type="person">Joel</rs> 14.12. geschr.</q> In der von ihm herausgegebenen Reihe, also den <hi rend="i">Wegen zur Philosophie</hi>, sowie in der Ergänzungsreihe publizierte <rs ref="#tillich_person_id__2746" type="person">Steinmann</rs> keinen eigenen Beitrag. Auch der Philosoph und Pädagoge <rs ref="#tillich_person_id__1189" type="person">Theodor Lipps</rs> (1851–1914) ist in der Reihe nicht vertreten. Dies gilt auch für <rs ref="#tillich_person_id__3120" type="person">Karl Joel</rs> (1864–1934).</note> d. 13. Dez. 1920.
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
+               <date when="1920-12-13">13.12.1920</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__2301">??? Verlag Vandenhoeck und Ruprecht</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2024-01-19" who="AR">Initiale Auszeichnung des Transkripts</change>
+         <change when="2025-03-17" who="FS">Kollationierung</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>, Taunusstr. 1<note type="ea">Über der Adresse findet sich der Registraturvermerk: <q>Tillich</q>. Links daneben notiert <rs ref="#tillich_person_id__2569" type="person">Wilhelm Ruprecht</rs>: <q>
+                     <hi rend="u">Neues</hi> Programm? Die Beiträge von <rs ref="#tillich_person_id__2746" type="person">Steinmann</rs>, <rs ref="#tillich_person_id__1189" type="person">Lipps</rs> und <rs ref="#tillich_person_id__3120" type="person">Joel</rs> 14.12. geschr.</q> In der von ihm herausgegebenen Reihe, also den <hi rend="i">Wegen zur Philosophie</hi>, sowie in der Ergänzungsreihe publizierte <rs ref="#tillich_person_id__2746" type="person">Steinmann</rs> keinen eigenen Beitrag. Auch der Philosoph und Pädagoge <rs ref="#tillich_person_id__1189" type="person">Theodor Lipps</rs> (1851–1914) ist in der Reihe nicht vertreten. Dies gilt auch für <rs ref="#tillich_person_id__3120" type="person">Karl Joel</rs> (1864–1934).</note> d. 13. Dez. 1920.
 </opener>
-<p>Zu der Sache der <q>Wege zur Philosophie</q> möcht ich Ihnen heut mitteilen, daß
+            <p>Zu der Sache der <q>Wege zur Philosophie</q> möcht ich Ihnen heut mitteilen, daß
 Herr <rs ref="#tillich_person_id__2752" type="person">Dr. Reyer</rs>, <rs ref="#tillich_place_id__198" type="place">Hamburg</rs>, mir seine <rs ref="#tillich__ANAC8ASA" type="work">Schrift</rs> zur Phänomenologie gesandt hat,
 und ich sie demnächst auf Brauchbarkeit für unsere Zwecke durchsehen will. – Meine eigne Ausarbeitung schreitet nur langsam fort, da das Thema außerordentlich
 schwierig ist und nirgends mehr die Aufgabe deutlich wird, höchste Abstraktheiten ins Verständliche zu übersetzen. Ich denke aber, daß ich etwa Ostern die Lieferung in Aussicht stellen kann. – Es wäre die Frage, ob ich bis dahin schon irgendwelche Schritte tun soll; vielleicht ist es am besten, ich warte,
 und wir treten gleichzeitig mit Heft und Programm hervor.</p>
-      <p>Nun noch eine ganz andere Sache: Ich habe im Sommer im Ev.-sozialen Kongreß einen Vortrag über <q><rs ref="#tillich__8JC9C2VJ" type="work">Masse und Persönlichkeit</rs></q> gehalten, der jetzt mit den übrigen Vorträgen gedruckt werden soll. Ich habe nun inzwischen einen
+            <p>Nun noch eine ganz andere Sache: Ich habe im Sommer im Ev.-sozialen Kongreß einen Vortrag über <q>
+                  <rs ref="#tillich__8JC9C2VJ" type="work">Masse und Persönlichkeit</rs>
+               </q> gehalten, der jetzt mit den übrigen Vorträgen gedruckt werden soll. Ich habe nun inzwischen einen
 Plan in die Wege geleitet, in dem ich den Druck dreier Vorträge über Masse,
 darunter auch den genannten als selbständige <rs ref="#tillich__2QT76V2I" type="work">Broschüre</rs> machen will. <hi rend="u">Ich würde
 dabei natürlich nachdrücklich auf die Verhandlungen des Kongresses und den
@@ -112,12 +116,12 @@ Abdruck daselbst im Zusammenhange mit den übrigen Vorträgen hinweisen.</hi> D
 es sich um einen ganz anderen Leserkreis handelt, so glaube ich, daß es für Sie
 nur von Vorteil wäre. Sollten Sie aber nicht einverstanden sein, so müßte ich für die <q>Verhandlungen</q> eine veränderte Ausgabe herstellen, was verzögernd
 und erschwerend wirken würde.</p>
-<p>Für baldige Antwort wäre ich Ihnen sehr dankbar.</p>
-<closer>
-<salute>Ergebenst</salute>
-      <signed>Dr. <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
-</closer>
-</div>
-</body>
-</text>
+            <p>Für baldige Antwort wäre ich Ihnen sehr dankbar.</p>
+            <closer>
+               <salute>Ergebenst</salute>
+               <signed>Dr. <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,138 +1,131 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00389">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Hermann Schafft an Paul Tillich <lb/>18. August 1914</title>
-                <author ref="#tillich_person_id__1696">Hermann Schafft</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Hermann Schafft an Paul Tillich <lb/>18. August 1914</title>
+            <author ref="#tillich_person_id__1696">Hermann Schafft</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement>Cambridge, MA</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                        <idno>bMS 649/182(4)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig.</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement>Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/182(4)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig.</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
-                    <placeName ref="#tillich_place_id__236">Kassel</placeName>
-                    <date when="1914-08-18">18.08.1914</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change when="2025-02-10" who="CO">Initiale Auszeichnung des Transkripts und
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
+               <placeName ref="#tillich_place_id__236">Kassel</placeName>
+               <date when="1914-08-18">18.08.1914</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2025-02-10" who="CO">Initiale Auszeichnung des Transkripts und
                 Endabnahme</change>
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener>
-                    <dateline><hi rend="print"><rs ref="#tillich_place_id__236" type="place"
-                                >Cassel-Wilhelmshöhe</rs><lb/>Grüner Waldweg 24<lb/></hi>
-                        <date when="1914-08-18">18.VIII.14.</date>
-                    </dateline>
-                    <salute>Liebster <rs ref="#tillich_person_id__1928" type="person"
-                        >Paul</rs>!</salute>
-                </opener>
-                <p>Bist du noch der alte demütige <rs ref="#tillich_person_id__1928" type="person"
-                        >Paul</rs> von 1906, der die Rechtfertigung erlebte? Ja, du bistʼs und wir
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <hi rend="print">
+                     <rs ref="#tillich_place_id__236" type="place">Cassel-Wilhelmshöhe</rs>
+                     <lb/>Grüner Waldweg 24<lb/>
+                  </hi>
+                  <date when="1914-08-18">18.VIII.14.</date>
+               </dateline>
+               <salute>Liebster <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+            </opener>
+            <p>Bist du noch der alte demütige <rs ref="#tillich_person_id__1928" type="person">Paul</rs> von 1906, der die Rechtfertigung erlebte? Ja, du bistʼs und wir
                     haben dich allein gelassen in deinem Gehorsam gegen die Wahrheit im Kampf gegen
                     alle empirischen <hi rend="u">Götzen</hi> auch wenn sie Christus und Gott
-                    hießen. Ein weiter Weg liegt hinter mir seit wir uns sahen. Getragen, <rs
-                        ref="#tillich_person_id__1928" type="person">Paul</rs>, zerschlagen – durch
-                    Nacht und Tod, aber von starken Kräften. – und zum Ziel. – L. <rs
-                        ref="#tillich_person_id__1928" type="person">Paul</rs>! Denk mal über das
+                    hießen. Ein weiter Weg liegt hinter mir seit wir uns sahen. Getragen, <rs ref="#tillich_person_id__1928" type="person">Paul</rs>, zerschlagen – durch
+                    Nacht und Tod, aber von starken Kräften. – und zum Ziel. – L. <rs ref="#tillich_person_id__1928" type="person">Paul</rs>! Denk mal über das
                     Verhältnis des Rechtfertigungsbewußtseins u. des Autonomiebewußtseins nach. Läßt
-                    sich das Autonomiebewußtsein nicht am tiefsten verstehen: als <hi rend="u"
-                        >Horchen</hi> u. <hi rend="u">Gehorchen</hi> auf die Stimme des Absoluten
-                    und als<pb n="2"/> williges hergeben Wollen jedes empirischen Götzen.. das <hi
-                        rend="u">Bewußtsein</hi>
-                    <del rend="s">das Recht</del>
-                    <hi rend="u">unter dem Rechtfertigungsurteil</hi> auch auf dem Gebiet des
-                    Denkens zu stehen – erhebt <hi rend="u">dieses Bewußtsein</hi>, <add
-                        place="superlinear">das</add> den demütigen Sünder, u. irrenden zagenden
+                    sich das Autonomiebewußtsein nicht am tiefsten verstehen: als <hi rend="u">Horchen</hi> u. <hi rend="u">Gehorchen</hi> auf die Stimme des Absoluten
+                    und als<pb n="2"/> williges hergeben Wollen jedes empirischen Götzen.. das <hi rend="u">Bewußtsein</hi>
+               <del rend="s">das Recht</del>
+               <hi rend="u">unter dem Rechtfertigungsurteil</hi> auch auf dem Gebiet des
+                    Denkens zu stehen – erhebt <hi rend="u">dieses Bewußtsein</hi>, <add place="superlinear">das</add> den demütigen Sünder, u. irrenden zagenden
                     Denker tröstet – zu etwas ganz Wunderbarem. Es ist die Stimme des Ewigen Geistes
                     im endlichen... <rs ref="#tillich_person_id__1928" type="person">Paul</rs> – in
-                    ihm kommt Gott zu dir u. mir – das Wort <rs ref="#tillich_person_id__981"
-                        type="person">Jesu</rs> ist mir – ein neues stilles Pfingsten ohne
+                    ihm kommt Gott zu dir u. mir – das Wort <rs ref="#tillich_person_id__981" type="person">Jesu</rs> ist mir – ein neues stilles Pfingsten ohne
                     gegenständliches Brausen im Kampf mit <unclear reason="illegible">¿¿¿</unclear>
-                    – als unmittelbare demütigende befreiende Gewißheit ins Herz gefallen: <hi
-                        rend="u"><rs type="bible" ref="Joh-16,14">Ich will d. Vater bitten: er soll Euch einen andern Tröster senden,
+                    – als unmittelbare demütigende befreiende Gewißheit ins Herz gefallen: <hi rend="u">
+                  <rs type="bible" ref="Joh-16,14">Ich will d. Vater bitten: er soll Euch einen andern Tröster senden,
                         den Geist der Wahrheit, – der bei Euch bleibe ewiglich – der wird Euch in
-                        alle Wahrheit leiten.</rs></hi> Das habe ich der schwache Mensch in stündlichem
+                        alle Wahrheit leiten.</rs>
+               </hi> Das habe ich der schwache Mensch in stündlichem
                     unmittelbaren Wundern seither erlebt. – Und seltsam, Gott gab mir Menschen
                     gleichen Erlebens noch jeden Tag. – Nun zeigt das Leben keine sonderbaren
                     Launen mehr – nun heißt es Gott wirken u. führen lassen. Ich kann dir nicht
-                    schweigen .. weil ja das Evangelium gesagt werden muß. – Die ganze <hi rend="u"
-                        >äußere</hi> Welt ist mir versunken die Einheit mit <add place="superlinear"
-                        >d. gnädigen</add> Gott im heiligen Geist <del rend="s">(der Gott der
+                    schweigen .. weil ja das Evangelium gesagt werden muß. – Die ganze <hi rend="u">äußere</hi> Welt ist mir versunken die Einheit mit <add place="superlinear">d. gnädigen</add> Gott im heiligen Geist <del rend="s">(der Gott der
                         Gnade)</del> ist da und die ganze äußere Welt Geschichte wird nun als
-                    Geschichte des endlichen im ewigen Geiste geschaut. Vielleicht geht&apos;s noch durch
+                    Geschichte des endlichen im ewigen Geiste geschaut. Vielleicht geht's noch durch
                     die Trümmer unserer Großstädte .. aber das neue Reich d. heiligen Geistes hat
-                    Gott begonnen.. Nun kehren <rs ref="#tillich_person_id__312" type="person"
-                        >Buddha</rs> u. <rs ref="#tillich_person_id__1394" type="person"
-                        >Nietzsche</rs> auch zur Einheit zurück... Ich bitte Gott, daß wir uns im
+                    Gott begonnen.. Nun kehren <rs ref="#tillich_person_id__312" type="person">Buddha</rs> u. <rs ref="#tillich_person_id__1394" type="person">Nietzsche</rs> auch zur Einheit zurück... Ich bitte Gott, daß wir uns im
                     Geiste eins werden im Geist der heil. Liebe d. ewigen Gottes –</p>
-                <closer> Dein tr. <signed><rs ref="#tillich_person_id__1696" type="person"
-                        >H.</rs></signed>
-                </closer>
-            </div>
-        </body>
-    </text>
+            <closer> Dein tr. <signed>
+                  <rs ref="#tillich_person_id__1696" type="person">H.</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

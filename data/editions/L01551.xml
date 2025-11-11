@@ -1,97 +1,112 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01551">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul und Hannah Tillich an Margot Faust
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul und Hannah Tillich an Margot Faust
                     <lb/>vom 19. April 1933
                </title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-    <author ref="#tillich_person_id__1923">Hannah Tillich</author>
-    
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-    <msIdentifier>
-        <country>Deutschland</country>
-        <settlement>Marburg</settlement>
-        <institution>Universität Marburg</institution>
-        <repository>Archiv der Universitätsbibliothek Marburg</repository>
-        <collection>Nachlass Margot Hahl (Tillichiana 1)</collection>
-        <idno>Ms. 1041/23</idno>
-    </msIdentifier>
-    <physDesc>
-    <p>Brief, maschinenschriftlich mit handschriftlichen Einfügungen.</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-<date when="1933-04-19">19.04.1933</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__757">Margot Faust</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2025-10-13" who="FS">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-    <opener><dateline>d. <date when="1933-04-19">19.4.33</date></dateline><salute>Liebe <rs ref="#tillich_person_id__757" type="person">Margot</rs>!</salute>
-</opener>
-    <p>Vielleicht hast Du inzwischen gelesen, dass ich beurlaubt bin. Das bedeutet Abbruch der Frankfurter Existenz. Und zwar sofort, da wir schon im nächsten <add rend="hand" place="superlinear">diesem!</add> Monat die Miete nicht mehr bezahlen können. Wir wären Euch sehr dankbar, wenn Ihr beide oder einer von euch sofort nach eurer Rückkehr auf einen Tag herüberkämet. Die Lage ist ausserordentlich schwer für uns und nicht nur für uns. Schickt uns, wenn Ihr nicht kommen könnt, sofort eine dringende Einladung, dass wir zu Euch kommen sollen im Laufe der nächsten Tage oder Woche. <hi rend="u">Wir müssen beweisen können, dass wir nur ins Saargebiet wollen.</hi> Adressiert den Brief an <rs ref="#tillich_person_id__1923" type="person">Hannah</rs> und schreibt sehr vorsichtig. Teilt vor allem mit, ob es möglich ist, dass Ihr <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> nehmt, entweder indem Ihr sie mitnehmt oder indem <rs ref="#tillich_person_id__1923" type="person">Hannah</rs> sie bringt.</p>
-    <closer><salute>Hoffentlich hier auf Wiedersehen<lb/>
-        Eure <rs ref="#tillich_person_id__1928" type="person">P.</rs> u. <rs ref="#tillich_person_id__1923" type="person">H.</rs></salute></closer>    
-</div>
-    <div><opener><salute>Liebe <rs ref="#tillich_person_id__757" type="person">Margot</rs>,</salute></opener>
-        <p>wir wollen unsere wohnung, wenn es geht, schon ende april auflösen, ich möchte <rs ref="#tillich_person_id__570" type="person">erdmuthe</rs> nicht mehr hier haben, da wir im notfall behindert sein werden, uns schnell zu entscheiden oder abzureisen. bitte bringt doch auch wenn ihr kommt, einen leeren koffer mit, da ich bei der gelegenheit auch den pelz und die winterkleider mitgeben möchte, so dass wir mit möglichst wenig gepäck bereit sind. wir wollen hier die möbel unterstellen und ein paar monate (dann wieder mit <rs ref="#tillich_person_id__570" type="person">erdmuthe</rs>) an die ostsee gehen, und im herbst evtl. eine ganz kleine dreizimmerwohnung nehmen, wenn wir dazu geld genug haben.</p>
-        <p>der andere brief von mir, der direkt von <rs ref="#tillich_place_id__143" type="place">frankfurt</rs> kommt, ist in dem stil geschrieben, der notwendig ist.</p>
-        <closer><add rend="hand">Ich umarme Euch</add><lb/></closer><signed><rs ref="#tillich_person_id__1923" type="person">H.</rs></signed></div>
-</body>
-</text>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <author ref="#tillich_person_id__1923">Hannah Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement>Marburg</settlement>
+                  <institution>Universität Marburg</institution>
+                  <repository>Archiv der Universitätsbibliothek Marburg</repository>
+                  <collection>Nachlass Margot Hahl (Tillichiana 1)</collection>
+                  <idno>Ms. 1041/23</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich mit handschriftlichen Einfügungen.</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <date when="1933-04-19">19.04.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__757">Margot Faust</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2025-10-13" who="FS">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>d. <date when="1933-04-19">19.4.33</date>
+               </dateline>
+               <salute>Liebe <rs ref="#tillich_person_id__757" type="person">Margot</rs>!</salute>
+            </opener>
+            <p>Vielleicht hast Du inzwischen gelesen, dass ich beurlaubt bin. Das bedeutet Abbruch der Frankfurter Existenz. Und zwar sofort, da wir schon im nächsten <add rend="hand" place="superlinear">diesem!</add> Monat die Miete nicht mehr bezahlen können. Wir wären Euch sehr dankbar, wenn Ihr beide oder einer von euch sofort nach eurer Rückkehr auf einen Tag herüberkämet. Die Lage ist ausserordentlich schwer für uns und nicht nur für uns. Schickt uns, wenn Ihr nicht kommen könnt, sofort eine dringende Einladung, dass wir zu Euch kommen sollen im Laufe der nächsten Tage oder Woche. <hi rend="u">Wir müssen beweisen können, dass wir nur ins Saargebiet wollen.</hi> Adressiert den Brief an <rs ref="#tillich_person_id__1923" type="person">Hannah</rs> und schreibt sehr vorsichtig. Teilt vor allem mit, ob es möglich ist, dass Ihr <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> nehmt, entweder indem Ihr sie mitnehmt oder indem <rs ref="#tillich_person_id__1923" type="person">Hannah</rs> sie bringt.</p>
+            <closer>
+               <salute>Hoffentlich hier auf Wiedersehen<lb/>
+        Eure <rs ref="#tillich_person_id__1928" type="person">P.</rs> u. <rs ref="#tillich_person_id__1923" type="person">H.</rs>
+               </salute>
+            </closer>
+         </div>
+         <div>
+            <opener>
+               <salute>Liebe <rs ref="#tillich_person_id__757" type="person">Margot</rs>,</salute>
+            </opener>
+            <p>wir wollen unsere wohnung, wenn es geht, schon ende april auflösen, ich möchte <rs ref="#tillich_person_id__570" type="person">erdmuthe</rs> nicht mehr hier haben, da wir im notfall behindert sein werden, uns schnell zu entscheiden oder abzureisen. bitte bringt doch auch wenn ihr kommt, einen leeren koffer mit, da ich bei der gelegenheit auch den pelz und die winterkleider mitgeben möchte, so dass wir mit möglichst wenig gepäck bereit sind. wir wollen hier die möbel unterstellen und ein paar monate (dann wieder mit <rs ref="#tillich_person_id__570" type="person">erdmuthe</rs>) an die ostsee gehen, und im herbst evtl. eine ganz kleine dreizimmerwohnung nehmen, wenn wir dazu geld genug haben.</p>
+            <p>der andere brief von mir, der direkt von <rs ref="#tillich_place_id__143" type="place">frankfurt</rs> kommt, ist in dem stil geschrieben, der notwendig ist.</p>
+            <closer>
+               <add rend="hand">Ich umarme Euch</add>
+               <lb/>
+            </closer>
+            <signed>
+               <rs ref="#tillich_person_id__1923" type="person">H.</rs>
+            </signed>
+         </div>
+      </body>
+   </text>
 </TEI>

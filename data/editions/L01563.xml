@@ -1,87 +1,88 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01563">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Hannah Gottschow
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hannah Gottschow
                     <lb/>vom Juni oder Juli 1922
                </title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-    <msIdentifier>
-        <country>Deutschland</country>
-        <settlement ref="#tillich_place_id__279">Marburg</settlement>
-        <institution>Philipps-Universität Marburg</institution>
-        <repository>Deutsches Paul-Tillich-Archiv</repository>
-        <idno>023 Rollfilm Nr. 3</idno>
-    </msIdentifier>
-    <physDesc>
-    <p>Brief, eigenhändig.</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<date notBefore="1922-06-05" notAfter="1922-07-31">06./07.1922</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2025-10-15" who="FS">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-    <opener><salute>Liebe ferne <rs ref="#tillich_person_id__1923" type="person">Geliebte</rs>!</salute>
-</opener>
-    <p>Ich weiß nicht, warum Du mir diese Tage so ferne bist; vielleicht bist Du 
-        innerlich mehr bei Deinen <rs ref="#tillich_person_id__2586" type="person"><rs ref="#tillich_person_id__2041" type="person">Schwestern</rs></rs> und Deinem Kind<note type="ea">Hannah Tillich hatte am 5. Juni 1922 einen Sohn zur Welt gebracht, der jedoch nur kurze Zeit später sterben sollte. Sie war im Begriff, sich von <rs ref="#tillich_person_id__705" type="person">Albert Gottschow</rs>, dem Vater des Kindes und Hannahs erstem Ehemann, scheiden zu lassen. Zur Geburt war sie nach <rs ref="#tillich_place_id__279" type="place">Marburg</rs> gereist, wo <rs ref="#tillich_person_id__2586" type="person">eine ihrer zwei Schwestern</rs> Lernschwester im Städtischen Krankenhaus war. Wie Hannah Tillich in ihrer Autobiographie berichtet, reiste sie jedoch bereits kurz nach der Geburt auf Drängen Paul Tillichs zu ihm nach Berlin, wo das Baby bis zu seinem frühen Tod in ein Säuglingsheim kam. (Vgl. <rs ref="#tillich__37CIHSJ6" type="work">Hannah Tillich, Ich allein bin, S. 88f.</rs>) Der vorliegender Brief wurde vor jener Berlinreise verfasst.</note>; vielleicht nimmt Dich 
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
+                  <institution>Philipps-Universität Marburg</institution>
+                  <repository>Deutsches Paul-Tillich-Archiv</repository>
+                  <idno>023 Rollfilm Nr. 3</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig.</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date notBefore="1922-06-05" notAfter="1922-07-31">06./07.1922</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2025-10-15" who="FS">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebe ferne <rs ref="#tillich_person_id__1923" type="person">Geliebte</rs>!</salute>
+            </opener>
+            <p>Ich weiß nicht, warum Du mir diese Tage so ferne bist; vielleicht bist Du 
+        innerlich mehr bei Deinen <rs type="person" ref="#tillich_person_id__2586 #tillich_person_id__2041">Schwestern</rs> und Deinem Kind<note type="ea">Hannah Tillich hatte am 5. Juni 1922 einen Sohn zur Welt gebracht, der jedoch nur kurze Zeit später sterben sollte. Sie war im Begriff, sich von <rs ref="#tillich_person_id__705" type="person">Albert Gottschow</rs>, dem Vater des Kindes und Hannahs erstem Ehemann, scheiden zu lassen. Zur Geburt war sie nach <rs ref="#tillich_place_id__279" type="place">Marburg</rs> gereist, wo <rs ref="#tillich_person_id__2586" type="person">eine ihrer zwei Schwestern</rs> Lernschwester im Städtischen Krankenhaus war. Wie Hannah Tillich in ihrer Autobiographie berichtet, reiste sie jedoch bereits kurz nach der Geburt auf Drängen Paul Tillichs zu ihm nach Berlin, wo das Baby bis zu seinem frühen Tod in ein Säuglingsheim kam. (Vgl. <rs ref="#tillich__37CIHSJ6" type="work">Hannah Tillich, Ich allein bin, S. 88f.</rs>) Der vorliegender Brief wurde vor jener Berlinreise verfasst.</note>; vielleicht nimmt Dich 
         die große Müdigkeit immerzu in ihren Schoß, vielleicht liegt es auch an mir, 
         der ich immer mehr in einen Zustand versinke zwischen Absterben und Wahnsinn, 
         nichts hilft mehr, kein Schlaf, kein <unclear reason="illegible">Segel</unclear>, keine Hoffnung; es ist als ob 
@@ -92,7 +93,8 @@
         aber ich ziehe nun mit ihr; es ist vielleicht auch besser für die Nerven. 
         Ich fürchte, es ist Dir schwer, daß <rs ref="#tillich_person_id__757" type="person">Margot</rs> mitgeht. Noch ist es nicht sicher 
         wegen des Geldes, aber wenn sie nicht kann, müßte ich noch jemand anders suchen, 
-        da ich sonst dort ohne Pension nicht <unclear reason="damage">leben</unclear><note type="ea">Ein Schaden am Scan macht dieses Wort schwer lebar.</note> könnte. Glaube mir, meine lie<pb n="2"/>be, 
+        da ich sonst dort ohne Pension nicht <unclear reason="damage">leben</unclear>
+               <note type="ea">Ein Schaden am Scan macht dieses Wort schwer lebar.</note> könnte. Glaube mir, meine lie<pb n="2"/>be, 
         in Ewigkeit geliebte <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>, daß kein Augenblick sein wird, wo Du nicht unter 
         uns bist. Zu Dir hin lebe ich, auch in diesen Worten des Absterbens; zu Dir hin 
         will ich an der See wieder aufleben, und nichts anderes will auch sie, als Dir 
@@ -123,19 +125,25 @@
         untergehen wird. – Und nun liebes <rs ref="#tillich_person_id__1923" type="person">Hannahchen</rs>, muß ich Dich ein bischen 
         beschimpfen: Du hast doch die Absicht, einen Beruf zu ergreifen, der sich 
         von einer bloßen Maschine dadurch unterscheidet, daß Du selbständig eine 
-        Korrespondenz führen willst.<note type="ea"><rs ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs> nahm zu jener Zeit Stenographie-Unterricht bei ihrem Jugendfreund <rs ref="#tillich_person_id__2560" type="person">Uli Fricke</rs>, um eine Stelle in einem Büro antreten zu können. (Vgl. <rs ref="#tillich__37CIHSJ6" type="work">Hannah Tillich, Ich allein bin, S. 89.</rs>)</note> Wie kannst Du das aber, wenn Du nicht einmal 
+        Korrespondenz führen willst.<note type="ea">
+                  <rs ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs> nahm zu jener Zeit Stenographie-Unterricht bei ihrem Jugendfreund <rs ref="#tillich_person_id__2560" type="person">Uli Fricke</rs>, um eine Stelle in einem Büro antreten zu können. (Vgl. <rs ref="#tillich__37CIHSJ6" type="work">Hannah Tillich, Ich allein bin, S. 89.</rs>)</note> Wie kannst Du das aber, wenn Du nicht einmal 
         den Brief an <rs ref="#tillich_person_id__2665" type="person">Otte</rs> schreiben kannst, dessen Inhalt ich Dir schon angedeutet 
         hatte. Ich muß gestehen, daß ich etwas entsetzt war. Du sollst ihm danken, 
         daß er bereit ist, die Korrespondenz zu vermitteln und dich zu beraten, 
         wie er mir meine Sache geführt hat.<note type="ea">Gemeint ist Tillichs Scheidung von <rs ref="#tillich_person_id__1931" type="person">Greti Wever</rs>.</note> Und Du sollst ihn bitten, an einen 
         Greizer<note type="ea">Hannah lebte mit ihrem ersten Ehemann, <rs ref="#tillich_person_id__705" type="person">Albert Gottschow</rs>, in <rs ref="#tillich_place_id__567" type="place">Greiz</rs>.</note> Rechtsanwalt zu schreiben, daß er sich bereit halten soll, mit 
         dem <unclear reason="illegible">¿¿¿</unclear> Rechtsanwalt <rs ref="#tillich_person_id__705" type="person">Deines Mannes</rs> in Verhandlung über möglichst schnelle 
-        Scheidung einzutreten. Weiter nichts. Das mußt Du können und gleich tun!</p>      
-    <closer><salute>Antworte mir auf alles! In vielen Schmerzen<lb/>
+        Scheidung einzutreten. Weiter nichts. Das mußt Du können und gleich tun!</p>
+            <closer>
+               <salute>Antworte mir auf alles! In vielen Schmerzen<lb/>
         Dein</salute>
-        <signed>Paul</signed></closer>
-    <postscript><p>Was hast Du mit <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> verabredet?<note type="ea">Notiert auf der ersten Briefseite, am oberen Seitenrand, auf dem Kopf stehend.</note></p></postscript>
-    </div>
-</body>
-</text>
+               <signed>Paul</signed>
+            </closer>
+            <postscript>
+               <p>Was hast Du mit <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> verabredet?<note type="ea">Notiert auf der ersten Briefseite, am oberen Seitenrand, auf dem Kopf stehend.</note>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
 </TEI>

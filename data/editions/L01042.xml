@@ -1,101 +1,110 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01042">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 8. Dezember 1929 [PS]</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 8. Dezember 1929 [PS]</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="Wien">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="Cambridge, MA">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Hannah. Papers, 1896-1976.</collection>
-<idno>bMS 721/2(26)</idno>
-</msIdentifier>
-<physDesc>
-<p>Postkarte, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                  <idno>bMS 721/2(26)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__37">Berlin</placeName>
-<date when="1929-12-08">08.12.1929</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-<placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-12-09" who="PS">Initiale Auszeichnung des Transkripts</change>
-<change when="2023-12-09" who="PS">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="postcard">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-</opener>
-<p>Die Sitzung geht pauselos seit 10. Jetzt ist es Abends um 6. Ich wohne bei <rs ref="#tillich_person_id__1672" type="person">Emmy</rs>, habe gestern mit ihr
-               Abendbrot gegessen. Sie ist sehr ruhig und fein. Nachher mit <rs ref="#tillich_person_id__2560" type="person">Ulli</rs> und Frl <unclear cert="medium">Hannberger</unclear> bei Roberts.<note type="ea"><q>Roberts</q> war ein amerikanisches Restaurant in Berlin, vgl. auch den <rs ref="L01000" type="letter">Brief</rs> Paul Tillichs an Hannah Tillich vom 2. Januar 1929.</note> <rs ref="#tillich_place_id__37" type="place">Berlin</rs> leer wie
-               vorher! Alle begeistert über meinen Aufsatz.<note type="ea">Gemeint ist vermutlich der Aufsatz <q><rs ref="#tillich__GC2XP3MW" type="work">Sozialismus</rs></q>, der die erste Ausgabe der <q><rs ref="#tillich__WRN74NUQ" type="work">Neuen Blätter für den Sozialismus</rs></q> einleitete.</note> <rs ref="#tillich_person_id__1571" type="person">Reichwein</rs> noch nicht da. Infolgedessen morgen
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1929-12-08">08.12.1929</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-12-09" who="PS">Initiale Auszeichnung des Transkripts</change>
+         <change when="2023-12-09" who="PS">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+            </opener>
+            <p>Die Sitzung geht pauselos seit 10. Jetzt ist es Abends um 6. Ich wohne bei <rs ref="#tillich_person_id__1672" type="person">Emmy</rs>, habe gestern mit ihr
+               Abendbrot gegessen. Sie ist sehr ruhig und fein. Nachher mit <rs ref="#tillich_person_id__2560" type="person">Ulli</rs> und Frl <unclear cert="medium">Hannberger</unclear> bei Roberts.<note type="ea">
+                  <q>Roberts</q> war ein amerikanisches Restaurant in Berlin, vgl. auch den <rs ref="L01000" type="letter">Brief</rs> Paul Tillichs an Hannah Tillich vom 2. Januar 1929.</note>
+               <rs ref="#tillich_place_id__37" type="place">Berlin</rs> leer wie
+               vorher! Alle begeistert über meinen Aufsatz.<note type="ea">Gemeint ist vermutlich der Aufsatz <q>
+                     <rs ref="#tillich__GC2XP3MW" type="work">Sozialismus</rs>
+                  </q>, der die erste Ausgabe der <q>
+                     <rs ref="#tillich__WRN74NUQ" type="work">Neuen Blätter für den Sozialismus</rs>
+                  </q> einleitete.</note>
+               <rs ref="#tillich_person_id__1571" type="person">Reichwein</rs> noch nicht da. Infolgedessen morgen
                alles ungewiß. Donnerstag redet <rs ref="#tillich_person_id__1621" type="person">Robert</rs> in <rs ref="#tillich_place_id__238" type="place">Kiel</rs> und wird
                von <rs ref="#tillich_person_id__1209" type="person">Löwe</rs> abgehört. Ich<pb n="2"/> kriege
                einen Bericht. Sonst gar nichts Neues. Ich wünschte ich wäre wieder in <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs>. Donnerstag wird <rs ref="#tillich_person_id__2094" type="person">Arnold</rs> an der Universität habilitiert. Ich liebe Dich! Ich bin hier so heimatlos!</p>
-<closer><salute>Dein</salute>
-<signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-</closer>
-</div>
-</body>
-</text>
+            <closer>
+               <salute>Dein</salute>
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>
