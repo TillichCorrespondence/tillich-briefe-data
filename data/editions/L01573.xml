@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01573">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Undatiertes Fragment einer Feldpostkarte von Paul Tillich an Maria Klein
@@ -30,7 +31,7 @@
             </publisher>
             <availability>
                <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc type="manuscript">
@@ -44,43 +45,43 @@
                </msIdentifier>
                <physDesc>
                   <p>Postkarte, eigenhändig</p>
-                  </physDesc>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <date notBefore="1914-01-01" notAfter="1918-12-31">1914-1918</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1594">Maria Klein</persName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="GM" when="2025-09-24">Initiale Auszeichnung des Transkripts</change>
-     </revisionDesc>
-  </teiHeader>
-  <text type="postcard">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <p>Eben von <unclear>???</unclear> Deutschen oder Franzosen?<note type="ea">Die Textseite der Postkarte ist nicht überliefert.</note>
-         </p> 
-     </div>
-    </body>
-  </text>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date notBefore="1914-01-01" notAfter="1918-12-31">1914-1918</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1594">Maria Klein</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="GM" when="2025-09-24">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <p>Eben von <unclear>???</unclear> Deutschen oder Franzosen?<note type="ea">Die Textseite der Postkarte ist nicht überliefert.</note>
+            </p>
+         </div>
+      </body>
+   </text>
 </TEI>

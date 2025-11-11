@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00559">
    <teiHeader>
       <fileDesc>
@@ -82,7 +82,9 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline><date notBefore="1918-01-01" notAfter="1918-12-31">1918</date></dateline>
+               <dateline>
+                  <date notBefore="1918-01-01" notAfter="1918-12-31">1918</date>
+               </dateline>
                <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>!</salute>
             </opener>
             <p>zum Geburtstag meinen herzlichsten Glückwunsch zum dauernden Angedenk mein
@@ -91,7 +93,9 @@
             </p>
             <closer>
                <salute>Stets Ihr</salute>
-               <signed><rs ref="#tillich_person_id__507" type="person">Ebermann</rs></signed>
+               <signed>
+                  <rs ref="#tillich_person_id__507" type="person">Ebermann</rs>
+               </signed>
             </closer>
          </div>
       </body>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01194">
    <teiHeader>
       <fileDesc>
@@ -77,42 +77,37 @@
       <revisionDesc status="approved">
          <change who="PS" when="2023-07-10">Initiale Auszeichnung des Transkripts</change>
          <change who="FS" when="2024-01-09">Endabnahme</change>
-
-
       </revisionDesc>
    </teiHeader>
    <text type="letter">
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <opener><dateline>
-                  <rs ref="#tillich_place_id__143" type="place">Frankfurt <hi rend="sup"
-                     >a</hi>M.</rs>, den <date when="1933-02-04">4. Februar 1933</date></dateline>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__143" type="place">Frankfurt <hi rend="sup">a</hi>M.</rs>, den <date when="1933-02-04">4. Februar 1933</date>
+               </dateline>
                <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr
                      Professor</rs>!</salute>
             </opener>
             <p>Unter Bezugnahme auf die Ihnen bereits übersandte Einladung zu dem Diskussionsabend
-               des Bundes für wirtschaftliche und politische Bildung (Volkswirt-Kreis)<note
-                  type="ea">Der im Herbst 1932 von <rs ref="#tillich_person_id__2697" type="person"
-                     >Gustav Stolper</rs> gegründete Volkswirt-Kreis wollte - gegen die
+               des Bundes für wirtschaftliche und politische Bildung (Volkswirt-Kreis)<note type="ea">Der im Herbst 1932 von <rs ref="#tillich_person_id__2697" type="person">Gustav Stolper</rs> gegründete Volkswirt-Kreis wollte - gegen die
                   emotionalisierende und Halbwissen verbreitende Propaganda seiner Zeit - <q>die
                   Kenntnis der <q>reinen [ökonomischen, Anm.] Theorie</q> ebenso wie die Kenntnis der
                   wirtschaftlichen und politischen Wirklicheit über Deutschland so verbreiten, daß
                   diese Kenntnis zu einer größeren politischen Macht werde, als es heute ihre
                   Unkenntnis ist</q> (zit. nach <rs ref="#tillich__RTQHT2MR" type="work">Rieter, Der
                      deutsche Volkswirt 1926 bis 1933</rs>, 123.).</note> erlaube ich mir zugleich
-               im Namen der Herren Prof. <rs ref="#tillich_person_id__1610" type="person"
-                  >Riezler</rs> und <rs ref="#tillich_person_id__760" type="person">Hahn</rs> die
+               im Namen der Herren Prof. <rs ref="#tillich_person_id__1610" type="person">Riezler</rs> und <rs ref="#tillich_person_id__760" type="person">Hahn</rs> die
                Bitte auszusprechen, dass Sie die Freundlichkeit haben möchten, an der Diskussion
                teilzunehmen.</p>
             <closer>
                <salute>In vorzüglicher Hochachtung</salute>
-               <signed><rs ref="#tillich_person_id__2456" type="person">Keck</rs></signed>
+               <signed>
+                  <rs ref="#tillich_person_id__2456" type="person">Keck</rs>
+               </signed>
             </closer>
-
-
          </div>
-
       </body>
    </text>
 </TEI>

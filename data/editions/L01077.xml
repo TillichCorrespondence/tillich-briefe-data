@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01077">
    <teiHeader>
       <fileDesc>
@@ -76,21 +76,23 @@
       <revisionDesc status="approved">
          <change who="PS" when="2023-07-10">Initiale Auszeichnung des Transkripts</change>
          <change who="FS" when="2024-01-22">Endabnahme</change>
-
-
       </revisionDesc>
    </teiHeader>
    <text type="letter">
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <opener><dateline>
-                  <rs ref="#tillich_place_id__305" type="place">Mühlhausen (Thüring.)</rs>, den <date when="1930-07-23">23. Juli 1930</date><lb/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__305" type="place">Mühlhausen (Thüring.)</rs>, den <date when="1930-07-23">23. Juli 1930</date>
+                  <lb/>
                (Allee Blobach 33)</dateline>
                <salute>Hochgeehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>!</salute>
             </opener>
             <p>Auf den von Ihnen am gestrigen Tage durch den Deutschlandsender gehaltenen Vortrag:
-               <q><rs ref="#tillich__A6VJX3GT" type="work">Was ist religiöser Sozialismus</rs></q> war ich sehr gespannt, als ich die Ankündigung im
+               <q>
+                  <rs ref="#tillich__A6VJX3GT" type="work">Was ist religiöser Sozialismus</rs>
+               </q> war ich sehr gespannt, als ich die Ankündigung im
                Programmheft gelesen hatte. Meine Erwartungen sind bei weitem übertroffen worden
                durch Ihre ganz hervorragenden Ausführungen über das behandelte Thema. Alles was Sie
                sagten, ist mir voll und ganz aus der Seele gesprochen und jeder rechtlich denkender
@@ -131,12 +133,11 @@
             <closer>
                <salute>In dieser Erwartung zeichne ich mit vorzüglicher Hochachtung ganz
                   ergebenst</salute>
-               <signed><rs ref="#tillich_person_id__2452" type="person">Eduard Schröer</rs> Oberpostsekretär
+               <signed>
+                  <rs ref="#tillich_person_id__2452" type="person">Eduard Schröer</rs> Oberpostsekretär
                   i.R.</signed>
             </closer>
-
          </div>
-
       </body>
    </text>
 </TEI>

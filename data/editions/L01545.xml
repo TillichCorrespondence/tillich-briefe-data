@@ -1,99 +1,103 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01545">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Theodor Siegfried <lb/>vom 5. Januar 1928 </title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Theodor Siegfried <lb/>vom 5. Januar 1928 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>Germany</country>
-                        <settlement>Marburg a. d. Lahn</settlement>
-                        <institution>Philipps-Universität Marburg</institution>
-                        <repository>Archiv der Philipps-Universität Marburg</repository>
-                        <collection>Theodor Siegfried Nachlass</collection>
-                        <idno>309/84, Nr.: 0. Altsignatur: Ms. 870(5)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, maschinenschriftliches Diktat</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Germany</country>
+                  <settlement>Marburg a. d. Lahn</settlement>
+                  <institution>Philipps-Universität Marburg</institution>
+                  <repository>Archiv der Philipps-Universität Marburg</repository>
+                  <collection>Theodor Siegfried Nachlass</collection>
+                  <idno>309/84, Nr.: 0. Altsignatur: Ms. 870(5)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftliches Diktat</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__126">Dresden</placeName>
-                    <date when="1928-01-05">05.01.1928</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1783">Theodor Siegfried</persName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change when="2025-10-03" who="FS">Initiale Auszeichnung des Transkripts</change>
-            <change when="2025-11-03" who="GM">Erklärenende Anmerkungen überprüft und ergänzt</change>
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener><dateline><rs ref="#tillich_place_id__126" type="place">Dresden</rs>, am
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__126">Dresden</placeName>
+               <date when="1928-01-05">05.01.1928</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1783">Theodor Siegfried</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2025-10-03" who="FS">Initiale Auszeichnung des Transkripts</change>
+         <change when="2025-11-03" who="GM">Erklärenende Anmerkungen überprüft und ergänzt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__126" type="place">Dresden</rs>, am
                             <date when="1928-01-05">5.1.28</date>.<lb/> Elisenstr. 11.</dateline>
-                    <salute>Lieber <hi rend="g"><rs ref="#tillich_person_id__1783" type="person"
-                                >Siegfried</rs></hi>!</salute>
-                </opener>
-                <p>Ich habe nichts von Ihnen gehört, auch nicht durch <rs
-                        ref="#tillich_person_id__133" type="person">Nina <hi rend="g"
-                        >Baring</hi></rs>, die Dieses schreibt. Selbstverständlich habe ich sofort,
-                    als Ihr Eilbrief ankam, an <rs ref="#tillich_person_id__1602" type="person"><hi
-                            rend="g">Richter</hi></rs> geschrieben.<note type="ea">Beide Schreiben
-                        liegen nicht vor.</note> Wie liegen die Dinge nun? Falls <hi rend="g"><rs
-                            ref="#tillich_place_id__55" type="place">Bern</rs></hi> nichts geworden
+               <salute>Lieber <hi rend="g">
+                     <rs ref="#tillich_person_id__1783" type="person">Siegfried</rs>
+                  </hi>!</salute>
+            </opener>
+            <p>Ich habe nichts von Ihnen gehört, auch nicht durch <rs ref="#tillich_person_id__133" type="person">Nina <hi rend="g">Baring</hi>
+               </rs>, die Dieses schreibt. Selbstverständlich habe ich sofort,
+                    als Ihr Eilbrief ankam, an <rs ref="#tillich_person_id__1602" type="person">
+                  <hi rend="g">Richter</hi>
+               </rs> geschrieben.<note type="ea">Beide Schreiben
+                        liegen nicht vor.</note> Wie liegen die Dinge nun? Falls <hi rend="g">
+                  <rs ref="#tillich_place_id__55" type="place">Bern</rs>
+               </hi> nichts geworden
                     ist und Ihre wirtschaftliche Lage, eventuell auch Ihre seelische Situation,
                     weiter so schwierig ist wie bisher, rate ich Ihnen noch einmal aufs dringendste:
                     Lassen Sie sich vom Sommersemester an beurlauben und bemühen Sie sich um eine
@@ -105,18 +109,18 @@
                     gross, wenn Sie nur im Laufe der nächsten zwei Jahre etwas Durchschlagendes
                     publizieren. Auch besteht die Möglichkeit, dass die blosse Entschlossenheit
                     wegzugehen, die natürlich real begründet sein muss, Ihnen Vorteile bringen wird.
-                    Jedenfalls würde ich, falls <rs ref="#tillich_place_id__55" type="place"
-                        >Bern</rs> nichts geworden ist und nichts Anderes in unmittelbarer Aussicht
+                    Jedenfalls würde ich, falls <rs ref="#tillich_place_id__55" type="place">Bern</rs> nichts geworden ist und nichts Anderes in unmittelbarer Aussicht
                     steht, so wie ich die Dinge sehe, nicht weiter mitmachen. (Selbstverständlich
-                    besteht für die &quot;Sekretärin&quot; absolutes Amtsgeheimnis!)</p>
-                <closer><salute>Herzliche Grüsse Ihnen und Ihrer <rs ref="#tillich_person_id__3035"
-                            type="person">Frau</rs> und die feste Zuversicht, dass in diesem Jahr
+                    besteht für die "Sekretärin" absolutes Amtsgeheimnis!)</p>
+            <closer>
+               <salute>Herzliche Grüsse Ihnen und Ihrer <rs ref="#tillich_person_id__3035" type="person">Frau</rs> und die feste Zuversicht, dass in diesem Jahr
                         eine Wendung eintritt, die auf alle Fälle eine Wendung zum Besseren
                         ist.<lb/> Ihr</salute>
-                    <signed><rs ref="#tillich_person_id__1928" type="person">P.
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">P.
                         Tillich</rs>.</signed>
-                </closer>
-            </div>
-        </body>
-    </text>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

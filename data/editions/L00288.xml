@@ -1,104 +1,99 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00288">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Gertrud Zschorsch an Paul Tillich <lb/>vom 9. Mai 1911</title>
-                <author ref="#tillich_person_id__2128">Gertrud Zschorsch</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Gertrud Zschorsch an Paul Tillich <lb/>vom 9. Mai 1911</title>
+            <author ref="#tillich_person_id__2128">Gertrud Zschorsch</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">Wien</placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>Deutschland</country>
-                        <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                        <institution>Philipps-Universität Marburg</institution>
-                        <repository>Deutsches Paul-Tillich-Archiv</repository>
-                        <idno>008 G</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
+                  <institution>Philipps-Universität Marburg</institution>
+                  <repository>Deutsches Paul-Tillich-Archiv</repository>
+                  <idno>008 G</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__2128">Gertrud Zschorsch</persName>
-                    <placeName ref="#tillich_place_id__549">Nauen</placeName>
-                    <date when="1911-05-09">09.05.1911</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-            <change when="2024-01-17" who="AA">Initiale Auszeichnung des Transkripts</change>
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener>
-                    <dateline>
-                        <rs type="place" ref="#tillich_place_id__549">Nauen</rs>, d. <date
-                            when="1911-05-09">9. Mai 11</date>. </dateline>
-                    <salute>Sehr geehrter Herr <rs type="person" ref="#tillich_person_id__1928"
-                            >Doktor</rs>,</salute>
-                </opener>
-                <p> In Eile ein paar Zeilen, um Ihnen zu sagen, daß ich am <date when="1911-05-10"
-                        >Freitag d. 10.</date> in <rs ref="#tillich_place_id__37" type="place"
-                        >Berlin</rs> bin u. sehr gern einen Spaziergang durch den Tiergarten mit
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2128">Gertrud Zschorsch</persName>
+               <placeName ref="#tillich_place_id__549">Nauen</placeName>
+               <date when="1911-05-09">09.05.1911</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2024-01-17" who="AA">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs type="place" ref="#tillich_place_id__549">Nauen</rs>, d. <date when="1911-05-09">9. Mai 11</date>. </dateline>
+               <salute>Sehr geehrter Herr <rs type="person" ref="#tillich_person_id__1928">Doktor</rs>,</salute>
+            </opener>
+            <p> In Eile ein paar Zeilen, um Ihnen zu sagen, daß ich am <date when="1911-05-10">Freitag d. 10.</date> in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> bin u. sehr gern einen Spaziergang durch den Tiergarten mit
                     Ihnen machen würde. Wenn es Ihre Zeit erlaubt u. Ihnen auch sonst paßt kommen
                     Sie, bitte, in die Tiergartenstr., Ecke Bendlerstr. Ich erwarte <pb n="2"/> Sie
-                    dort zwischen 3 <formula notation="TeX">½</formula> u. 3 <formula
-                        notation="TeX">¾</formula> Uhr. Auch wenn Sie nicht dort sein
+                    dort zwischen 3 <formula notation="TeX">½</formula> u. 3 <formula notation="TeX">¾</formula> Uhr. Auch wenn Sie nicht dort sein
                     können, schreiben Sie mir, bitte, nicht, da meine Korrespondenzen alle durch die
                     Hände meiner Mutter gehen. </p>
-                <closer>
-                    <salute>Herzliche Grüße!</salute>
-                    <signed>Ihre Gertrud Zschorsch</signed>
-                </closer>
-            </div>
-        </body>
-    </text>
+            <closer>
+               <salute>Herzliche Grüße!</salute>
+               <signed>Ihre Gertrud Zschorsch</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

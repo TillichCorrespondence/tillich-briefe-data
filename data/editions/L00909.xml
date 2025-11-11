@@ -1,98 +1,100 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00909">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 24. September 1926</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 24. September 1926</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Hannah. Papers, 1896-1976.</collection>
-<idno>bMS 721/2(23)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                  <idno>bMS 721/2(23)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__343">Paris</placeName>
-<date when="1926-09-24">24.09.1926</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-10-31" who="PS">Initiale Auszeichnung des Transkripts</change>
-<change when="2023-10-31" who="PS">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener><dateline>
-<date when="1926-09-24">d. 24.</date>
-<rs ref="#tillich_place_id__343" type="place">Garten des <hi rend="aq">Palais-Royal</hi></rs>,
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__343">Paris</placeName>
+               <date when="1926-09-24">24.09.1926</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-10-31" who="PS">Initiale Auszeichnung des Transkripts</change>
+         <change when="2023-10-31" who="PS">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <date when="1926-09-24">d. 24.</date>
+                  <rs ref="#tillich_place_id__343" type="place">Garten des <hi rend="aq">Palais-Royal</hi>
+                  </rs>,
                   Springbrunnen. Sanfte September-Mittagssonne.</dateline>
-<salute>Süße <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-</opener>
-<p>Nun ist die Sache entschieden: Bis zum 3.<hi rend="sup">ten</hi> Oktober darf ich
+               <salute>Süße <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+            </opener>
+            <p>Nun ist die Sache entschieden: Bis zum 3.<hi rend="sup">ten</hi> Oktober darf ich
                bleiben. Dann einen Tag <rs ref="#tillich_place_id__130" type="place">Düsseldorf</rs> (4<hi rend="sup">ten</hi>) dann <rs ref="#tillich_place_id__126" type="place">Dresden</rs> (5.<hi rend="sup">ten</hi>). Gestern hast Du den Bericht über die Einkäufe bekommen.
                Heute Fortsetzung: Ein rotes Kleid aus <hi rend="aq">Crêpe de Chine</hi>, mit langen
                Ärmeln, handgenäht, Begeisterung von <rs ref="#tillich_person_id__2008" type="person">Eckart</rs> und
-                  <rs ref="#tillich_person_id__1829" type="person"><rs ref="#tillich_person_id__1830" type="person">Spiegelbergs</rs></rs>.
+                  <rs type="person" ref="#tillich_person_id__1829 #tillich_person_id__1830">Spiegelbergs</rs>.
                Diese kamen gestern Abend an. Sie fanden, daß ich durch meinen großen Hut völlig
                verändert bin, sehr viel jünger geworden. Die Anzugsuche hat noch keinen Erfolg
                gehabt. Ich hoffe aber, es wird noch werden. Die französischen Sachen haben alle
@@ -100,17 +102,17 @@
                entweder sehr teuer oder sehr schlecht. <rs ref="#tillich_person_id__2437" type="person">Malla</rs> rät
                davon ab. Etwas in Sorge bin ich nur über Deinen Wintermantel. Aber im Notfall
                schenkst Du ihn weiter.</p>
-<p>Als Dein Brief<note type="ea">Dieser Brief liegt nicht vor.</note> wegen Deiner Geldnöte kam,
+            <p>Als Dein Brief<note type="ea">Dieser Brief liegt nicht vor.</note> wegen Deiner Geldnöte kam,
                habe ich sofort an <rs ref="#tillich_person_id__1924" type="person">Vaterchen</rs> geschrieben und ihn
                bis 1. Nov. (<rs ref="#tillich_place_id__103" type="place">Chemnitz</rs>!) um 200M gebeten.
                Hoffentlich hast Du sie schon<supplied>.</supplied> An die Kasse zu schreiben lohnt sich jetzt nicht mehr.
                Es macht sehr viel Mühe und höchstens 2 Tage Unterschied. Dagegen bin ich bereit,
                   an<pb n="3"/>
-   <rs ref="#tillich_person_id__2592" type="person">Rade</rs> zu schreiben. Bitte gib sofort Antwort, ob das
+               <rs ref="#tillich_person_id__2592" type="person">Rade</rs> zu schreiben. Bitte gib sofort Antwort, ob das
                nötig ist. Glücklicherweise habe ich <rs ref="#tillich_person_id__2513" type="person">Nora</rs> nicht
                angepumpt. Das hätte die Wirkung Deines Briefes wegen <rs ref="#tillich_person_id__2564" type="person">Kallen</rs> sehr gestört. – Seit 2 Tagen kein Brief von Dir! Was ist? Bist
                Du müde oder zu sehr im Betrieb?</p>
-<p>Ich bin sehr bewegt durch Deinen Brief<note type="ea">Dieser Brief liegt nicht vor.</note> über die Realität. Ich halte es nicht für
+            <p>Ich bin sehr bewegt durch Deinen Brief<note type="ea">Dieser Brief liegt nicht vor.</note> über die Realität. Ich halte es nicht für
                wichtig, die wilden Ausbrüche von Liebe und Haß, die starken Nöte und Kampf für
                realer zu halten, als das, was sich in höherer Ebene, geformt abspielt. Wir sind
                exklusiv, weil wir in Realitätsschichten leben, die den meisten<pb n="4"/>
@@ -121,12 +123,14 @@
                Realität verstanden ist. Die französische Kunst steht fortwährend auf dieser Grenze.
                Sie bleibt ihr aber immer nah und entfernt sich nur so weit nach beiden Seiten, wie
                wir. (Kerngedanken zu dem in mir wachsenden Kolleg über die <q>Form</q>)</p>
-<closer>
-<salute>In Liebe und Sehnsucht.<lb/>
+            <closer>
+               <salute>In Liebe und Sehnsucht.<lb/>
 Dein</salute>
-<signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-</closer>
-</div>
-</body>
-</text>
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Paul</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

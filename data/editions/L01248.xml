@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01248">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Postkarte von Paul Tillich und (verm.) Claire Löwenfeld an Hannah Tillich
@@ -32,7 +32,7 @@
             </publisher>
             <availability>
                <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc type="manuscript">
@@ -46,60 +46,63 @@
                </msIdentifier>
                <physDesc>
                   <p>Postkarte, eigenhändig</p>
-                  </physDesc>
-            </msDesc>     
+               </physDesc>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>   
-              <placeName ref="#tillich_place_id__37">Berlin</placeName>
-              <date when="1933-08-03">03.08.1933</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-              <placeName ref="#tillich_place_id__389">Sassnitz (Rügen)</placeName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="SK" when="2023-12-19">Initiale Auszeichnung des Transkripts</change>
-        <change who="FS" when="2024-02-21">Endabnahme</change>
-        
-       
-     </revisionDesc>
-  </teiHeader>
-  <text type="postcard">
-     <body>
-     <div type="Claire-Löwenfeld">
-        <pb n="1"/>
-        <opener><salute>Liebe <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>,<note type="ea">Der Haupttext der Karte stammt von Claire Löwenfelds Hand.</note></salute>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1933-08-03">03.08.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <placeName ref="#tillich_place_id__389">Sassnitz (Rügen)</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="SK" when="2023-12-19">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2024-02-21">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="Claire-Löwenfeld">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebe <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>,<note type="ea">Der Haupttext der Karte stammt von Claire Löwenfelds Hand.</note>
+               </salute>
             </opener>
-        <p>nach vollbrachter Tat sitzen wir beim Kaffee. Die Geburt war nicht leicht, aber <rs type="person" ref="#tillich_person_id__1928">Paulus</rs> wird schön wie ein junger Gott bei Euch auftauchen. Wir haben beinahe alles erledigt, soweit <rs type="person" ref="#tillich_person_id__1928">P.</rs> ohne Gewalt mit d. Kraft des Worts allein zu bewegen war. Mir tut nur leid, daß ich das vollendete Werk nicht sehen kann. Hoffentlich findet alles Ihre Zustimmung, auch das für Sie bestimmte – Wir haben uns große Mühe gegeben. Schreiben Sie mir ob Sie zufrieden sind. </p>
-          <closer>
-             <salute>Allen viele Grüße u. schöne Tage allen.</salute>
-          </closer>  
-     </div>
-     <div type="Paul-Tillich">
-        <p>     
-           <note type="ea">Dieser Abschnitt stammt von Paul Tillichs Hand.</note><hi rend="uu">2</hi> Anzüge bei <rs ref="#tillich_person_id__2682" type="person"><hi rend="uu">Hoffmann</hi></rs>(!!!) Das sagt alles         
+            <p>nach vollbrachter Tat sitzen wir beim Kaffee. Die Geburt war nicht leicht, aber <rs type="person" ref="#tillich_person_id__1928">Paulus</rs> wird schön wie ein junger Gott bei Euch auftauchen. Wir haben beinahe alles erledigt, soweit <rs type="person" ref="#tillich_person_id__1928">P.</rs> ohne Gewalt mit d. Kraft des Worts allein zu bewegen war. Mir tut nur leid, daß ich das vollendete Werk nicht sehen kann. Hoffentlich findet alles Ihre Zustimmung, auch das für Sie bestimmte – Wir haben uns große Mühe gegeben. Schreiben Sie mir ob Sie zufrieden sind. </p>
+            <closer>
+               <salute>Allen viele Grüße u. schöne Tage allen.</salute>
+            </closer>
+         </div>
+         <div type="Paul-Tillich">
+            <p>
+               <note type="ea">Dieser Abschnitt stammt von Paul Tillichs Hand.</note>
+               <hi rend="uu">2</hi> Anzüge bei <rs ref="#tillich_person_id__2682" type="person">
+                  <hi rend="uu">Hoffmann</hi>
+               </rs>(!!!) Das sagt alles         
         </p>
-        <closer>Dein <signed><rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
-        </closer>
-      
-     </div>
-    </body>
-  </text>
+            <closer>Dein <signed>
+                  <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

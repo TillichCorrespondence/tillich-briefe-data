@@ -1,105 +1,106 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00667">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Wilhelm Ruprecht an Paul Tillich <lb/>vom 5. Juni 1920</title>
-<author ref="#tillich_person_id__2569">Wilhelm Ruprecht</author>
-<respStmt>
-<resp>Editor</resp>
-<name>Anna Rüther</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__37">Berlin</settlement>
-<institution>Stiftung Preußischer Kulturbesitz</institution>
-<repository>Staatsbibliothek zu Berlin</repository>
-<collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
-<idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
-</msIdentifier>
-<physDesc>
-<p>Briefdurchschlag, maschinenschriftlich</p>
-</physDesc>
-   <additional>
-      <listBibl>
-         <biblStruct type="journal">
-            <monogr>
-               <author>Friedrich Wilhelm Graf</author>
-               <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-               <imprint>
-                  <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
-                  <date when="2020">2020</date>
-                  <biblScope>S. 26–170, hier: 69</biblScope>
-               </imprint>
-            </monogr>
-            <series>
-               <title>Zeitschrift für Neuere Theologiegeschichte</title>
-               <biblScope>27/1</biblScope>
-            </series>
-         </biblStruct>
-      </listBibl>
-   </additional>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
-<date when="1920-06-05">05.06.1920</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__38">Friedenau</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
-<change when="2024-01-19" who="AR">Initiale Auszeichnung des Transkripts</change>
-   <change when="2025-02-24" who="FS">Kollationierung</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-   <salute>Hochgeehrter <rs ref="#tillich_person_id__1928" type="person">Herr</rs>!</salute>
-</opener>
-   <p>Am <rs ref="L00666" type="letter">21. Mai</rs> schrieben wir Ihnen nochmals wegen der <q>Wege zur Philosophie</q> und
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Wilhelm Ruprecht an Paul Tillich <lb/>vom 5. Juni 1920</title>
+            <author ref="#tillich_person_id__2569">Wilhelm Ruprecht</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Anna Rüther</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <institution>Stiftung Preußischer Kulturbesitz</institution>
+                  <repository>Staatsbibliothek zu Berlin</repository>
+                  <collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
+                  <idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Briefdurchschlag, maschinenschriftlich</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal">
+                        <monogr>
+                           <author>Friedrich Wilhelm Graf</author>
+                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                              <date when="2020">2020</date>
+                              <biblScope>S. 26–170, hier: 69</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Zeitschrift für Neuere Theologiegeschichte</title>
+                           <biblScope>27/1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
+               <date when="1920-06-05">05.06.1920</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__38">Friedenau</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2024-01-19" who="AR">Initiale Auszeichnung des Transkripts</change>
+         <change when="2025-02-24" who="FS">Kollationierung</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Hochgeehrter <rs ref="#tillich_person_id__1928" type="person">Herr</rs>!</salute>
+            </opener>
+            <p>Am <rs ref="L00666" type="letter">21. Mai</rs> schrieben wir Ihnen nochmals wegen der <q>Wege zur Philosophie</q> und
 fügten einen Brief eines Herrn <rs ref="#tillich_person_id__2752" type="person">Reyer</rs> bei. Es wäre uns sehr lieb, wenn wir Ihre
 Ansicht über letzteren recht bald und zugleich den Brief zurück hätten, damit wir
 dem Herrn antworten können. Auch wüßten wir gern, zu welchem Ergebnis Sie
@@ -108,10 +109,10 @@ Herr <rs ref="#tillich_person_id__2735" type="person">Albers</rs>, der uns geste
 ihm in Beziehung gesetzt, was ja auch nicht unumgänglich nötig, aber uns doch
 recht erwünscht sein würde, da <rs ref="#tillich_person_id__2735" type="person">A</rs> als geistiger Vater der Sammlung sicherlich
 für die Fortsetzung gute Gedanken beisteuern könnte.</p>
-<closer>
-<salute>Hochachtungsvoll und ergebenst</salute>
-</closer>
-</div>
-</body>
-</text>
+            <closer>
+               <salute>Hochachtungsvoll und ergebenst</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

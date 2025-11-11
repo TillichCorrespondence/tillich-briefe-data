@@ -1,139 +1,128 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00155">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Lorenz Bertheau an Paul Tillich <lb/>vom 30. März 1907</title>
-                <author ref="#tillich_person_id__203">Lorenz Bertheau</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Lorenz Bertheau an Paul Tillich <lb/>vom 30. März 1907</title>
+            <author ref="#tillich_person_id__203">Lorenz Bertheau</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>Deutschland</country>
-                        <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                        <institution>Philipps-Universität Marburg</institution>
-                        <repository>Deutsches Paul-Tillich-Archiv</repository>
-                        <idno>008 B</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
+                  <institution>Philipps-Universität Marburg</institution>
+                  <repository>Deutsches Paul-Tillich-Archiv</repository>
+                  <idno>008 B</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__203">Lorenz Bertheau</persName>
-                    <placeName ref="#tillich_place_id__189">Halle</placeName>
-                    <date when="1907-03-30">30.03.1907</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change when="2022-05-03" who="PS">Initiale Auszeichnung des Transkripts</change>
-            <change when="2024-01-02" who="PS">Vorbereitende Endabnahme</change>
-            <change when="2024-02-14" who="EL">Endabnahme</change>
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener>
-                    <dateline><rs ref="#tillich_place_id__189" type="place">Halle a/S</rs>
-                        <date when="1907-03-30">30.3.07.</date>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__203">Lorenz Bertheau</persName>
+               <placeName ref="#tillich_place_id__189">Halle</placeName>
+               <date when="1907-03-30">30.03.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2022-05-03" who="PS">Initiale Auszeichnung des Transkripts</change>
+         <change when="2024-01-02" who="PS">Vorbereitende Endabnahme</change>
+         <change when="2024-02-14" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__189" type="place">Halle a/S</rs>
+                  <date when="1907-03-30">30.3.07.</date>
                         Gübenstr. 21</dateline>
-                    <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person"
-                        >Paul</rs>!</salute>
-                </opener>
-                <p>Wie geht es Dir nun eigentl.? Für Deine Karte<note type="ea">Nicht
+               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+            </opener>
+            <p>Wie geht es Dir nun eigentl.? Für Deine Karte<note type="ea">Nicht
                         überliefert.</note> und Deine freundliche Einladung vielen Dank! Aber sieh,
                     wenn <rs ref="#tillich_person_id__2859" type="person">Vater</rs> mich, damit ich
-                    arbeite, hier läßt, kann ich unmögl. zu Dir nach <rs ref="#tillich_place_id__37"
-                        type="place">Berlin</rs> fahren. Außerdem würde <rs
-                        ref="#tillich_person_id__2154" type="person">Stosch</rs> dann wutentbrannt
+                    arbeite, hier läßt, kann ich unmögl. zu Dir nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> fahren. Außerdem würde <rs ref="#tillich_person_id__2154" type="person">Stosch</rs> dann wutentbrannt
                     sein, da er mich etwa zum 5. Mal eingeladen hat, ohne daß ich je gekommen wäre.
                     Also sei nicht bös! Mir geht es auch hier außerordentlich gut, und ich feiere in
                     der Stille ein schönes Ostern. Ja, ich kann Dir<pb n="2"/> sagen, daß es sehr
-                    schön ist, einmal so ganz allein zu sein. <rs ref="#tillich_person_id__2282"
-                        type="person">Sepp</rs> ist ja nun auch zu Haus. Es hat mich sehr gefreut,
-                    daß er gefahren ist. Er sah doch recht blaß aus u. hatte immer Kopfweh. <rs
-                        ref="#tillich_person_id__2860" type="person">Jens</rs> ist mit seiner ganzen
+                    schön ist, einmal so ganz allein zu sein. <rs ref="#tillich_person_id__2282" type="person">Sepp</rs> ist ja nun auch zu Haus. Es hat mich sehr gefreut,
+                    daß er gefahren ist. Er sah doch recht blaß aus u. hatte immer Kopfweh. <rs ref="#tillich_person_id__2860" type="person">Jens</rs> ist mit seiner ganzen
                     Familie nach <rs ref="#tillich_place_id__60" type="place">Bielefeld</rs>
                     gefahren. So sind <rs ref="#tillich_person_id__2340" type="person">Fritsch</rs>
-                    u. ich hier allein. Von <rs ref="#tillich_person_id__2091" type="person"
-                        >Witte</rs> habe ich noch nichts gesehen, außer einmal flüchtig, obgleich er
+                    u. ich hier allein. Von <rs ref="#tillich_person_id__2091" type="person">Witte</rs> habe ich noch nichts gesehen, außer einmal flüchtig, obgleich er
                     nun schon 1 Woche hier ist. In den Ferien sieht man sich schwerer als im
-                    Semester. Dafür spukt mir <rs ref="#tillich_person_id__2082" type="person"
-                        >Windelband</rs> im Kopf herum. Ich bin jetzt bei den Apologeten, müßte aber
+                    Semester. Dafür spukt mir <rs ref="#tillich_person_id__2082" type="person">Windelband</rs> im Kopf herum. Ich bin jetzt bei den Apologeten, müßte aber
                     eigentl. nach dem Plan schon 60 Sei<pb n="3"/>ten weiter sein. Das
                     Deprimierenste daran ist aber, daß ich jetzt schon denke, daß es am schlausten
                     wäre, wenn ich es gleich im Semester noch einmal durcharbeitete. Dann würde ich
-                    es vielleicht capieren. Man vergißt so enorm viel. <rs
-                        ref="#tillich_person_id__1712" type="person">Schlatters</rs> <rs ref="#tillich__8SKA24M9" type="work">Gl.</rs> muß noch hintanstehen. Nun muß
-                    ich auch noch eine Arbeit für <rs ref="#tillich_person_id__1227" type="person"
-                        >Schmuhl</rs> machen. Na, es ist jedenfalls sehr angenehm, wenn man so den
+                    es vielleicht capieren. Man vergißt so enorm viel. <rs ref="#tillich_person_id__1712" type="person">Schlatters</rs>
+               <rs ref="#tillich__8SKA24M9" type="work">Gl.</rs> muß noch hintanstehen. Nun muß
+                    ich auch noch eine Arbeit für <rs ref="#tillich_person_id__1227" type="person">Schmuhl</rs> machen. Na, es ist jedenfalls sehr angenehm, wenn man so den
                     ganzen Tag mit Arbeiten ausfüllen muß. Dann hat man bei Zeiten der Ruhe ein
                     enorm schönes u. befriedigendes Gefühl. Man muß sich eben nicht über Mißerfolge
-                    u. Dösen etc. bei der Arbeit ärgern. Bei <rs ref="#tillich_person_id__1227"
-                        type="person">Schmuhl</rs> bin ich<pb n="4"/> morgens fast tägl. Er arbeitet
+                    u. Dösen etc. bei der Arbeit ärgern. Bei <rs ref="#tillich_person_id__1227" type="person">Schmuhl</rs> bin ich<pb n="4"/> morgens fast tägl. Er arbeitet
                     an der Einleitung ins N.T., die er noch nicht gelesen hat. Abends 3 Minimal kann
-                    ich immer hingehen. Dann muß ich aus <rs ref="#tillich_person_id__1600"
-                        type="person">Richters</rs> Selbstbiographie vorlesen. Seine Mutter u.
-                    Schwester sind, scheints ständig, da. Bei <rs ref="#tillich_person_id__1013"
-                        type="person">Kähler</rs> bin ich natürlich viel. Jetzt muß ich ihm öfter
+                    ich immer hingehen. Dann muß ich aus <rs ref="#tillich_person_id__1600" type="person">Richters</rs> Selbstbiographie vorlesen. Seine Mutter u.
+                    Schwester sind, scheints ständig, da. Bei <rs ref="#tillich_person_id__1013" type="person">Kähler</rs> bin ich natürlich viel. Jetzt muß ich ihm öfter
                     Pauken helfen bei seinen Büchern. Ach, das ist fein. Neulich hat er mir die
                     Korrekturbögen von seinen <rs ref="#tillich__2RX93W7G" type="work">dogmat.
                         Zeitfragen</rs> geschenkt.</p>
-                <closer>
-                    <salute>Doch nun leb wohl! Hoffentlich geht es Dir recht gut!</salute>
-                    <signed>Herzl. Gruß u. fröhl. Ostern! Dein <rs ref="#tillich_person_id__203"
-                            type="person">Lorenz</rs>.</signed>
-                </closer>
-            </div>
-        </body>
-    </text>
+            <closer>
+               <salute>Doch nun leb wohl! Hoffentlich geht es Dir recht gut!</salute>
+               <signed>Herzl. Gruß u. fröhl. Ostern! Dein <rs ref="#tillich_person_id__203" type="person">Lorenz</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,101 +1,112 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01591">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Karl Barth an Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Karl Barth an Paul Tillich
                     <lb/>vom 10. Februar 1929
                </title>
-<author ref="#tillich_person_id__137">Karl Barth</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="typescript">
-    <msIdentifier>
-        <country>Schweiz</country>
-        <settlement ref="#tillich_place_id__31">Basel</settlement>
-        <institution>Universität Basel</institution>
-        <repository>Karl-Barth-Archiv</repository>
-        <idno>KBA 9229.49.2</idno>
-    </msIdentifier>
-    <physDesc>
-    <p>Brief (Durchschlag), maschinenschriftlich</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__137">Karl Barth</persName>
-    <placeName ref="#tillich_place_id__307">Münster</placeName>
-<date when="1929-02-10">10.02.1929</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-    <placeName ref="#tillich_place_id__126">Dresden</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2025-10-29" who="FS">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-    <opener><dateline><rs ref="#tillich_place_id__307" type="place">Münster i. W.</rs>, Himmelreichallee 43, <date when="1929-02-10">10. Febr. 1929</date></dateline>
-        <salute>Lieber Herr Kollege <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>!</salute>
-</opener>
-    <p>Fürchten Sie nichts, ich komme in einer ganz profanen Angelegenheit zu Ihnen. Da sitzt in <rs ref="#tillich_place_id__260" type="place">Leipzig</rs>, wo Sie ja auch bekannt sind, ein <rs ref="#tillich_person_id__4060" type="person">Mann</rs> – ich lege Ihnen seinen Brief an mich bei,<note type="ea">Dieser Brief liegt nicht vor.</note> dem es sichtlich, wie wohl noch manchen ähnlich situierten Zeitgenossen nicht gut geht. Ich habe nun wirklich nichts für ihn zu arbeiten, habe mich daher begnügt, ihm 50 M. zu schicken, möchte nun aber Sie fragen, ob Sie Gelegenheit haben, an Ort und Stelle etwas für ihn d.h. dafür dass er angemessene Arbeit bekommt, zu tun?</p>
-    <p>Ich habe Ihren Besuch hier in überaus freundlicher Erinnerung.<note type="ea">Tillich hatte im Januar 1929 in Münster einen Vortrag über "<rs ref="#tillich__HJ7ADK2B" type="work">Protestantische Gestaltung</rs>" gehalten, der im darauffolgenden Jahr in seiner "<rs ref="#tillich__9C4WYQAG" type="work">Religiösen Verwirklichung</rs>" erschien.</note> Inzwischen haben wir nun <rs ref="#tillich_person_id__1537" type="person">Przywara</rs> erlebt<note type="ea"><rs ref="#tillich_person_id__1537" type="person">Erich Przywara</rs> hatte am <date when="1929-02-08">8. Februar 1929</date> einen Vortrag im "Staatswissenschaftlichen Institut" seines Freundes <rs ref="#tillich_person_id__2451" type="person">Johann Plenge</rs> gehalten. Siehe auch den <rs ref="#L01002" type="letter">Brief</rs> Plenges an Tillich vom 15. Februar 1929.</note> und es wird Sie nicht wundern zu hören, dass mir die <foreign xml:lang="lat">analogia entis</foreign><note type="ea">Obwohl der Sache nach bereits in der Scholastik thematisiert, wurde der Begriff der <foreign xml:lang="lat">analogia entis</foreign> durch den Jesuiten Erich Przywara in die neuere theologische Debatte wegweisend eingeführt (vgl. auch <rs ref="#tillich__QZQHJ84R" type="work">Przywara, Analogia entis, München 1932</rs>). <rs ref="#tillich_person_id__137" type="person">Barth</rs> gilt als entschiedener Kritiker der Lehre von der <foreign xml:lang="lat">analogia entis</foreign>. Zwischen <rs ref="#tillich_person_id__1537" type="person">Przywara</rs> und <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> war es bereits im Jahr 1928 bei den ersten <rs ref="#tillich_place_id__119" type="place">Davoser</rs> Hochschulkursen zur Debatte gekommen.</note> unverhältnismässig mehr Eindruck gemacht hat als die Gestalt der Gnade,<note type="ea">Vgl. zu dieser Formulierung Tillichs insb. die <rs ref="#tillich__HJ7ADK2B" type="work">Veröffentlichung</rs> des oben bereits genannten Vortrags vom Januar 1929.</note> obwohl doch auch diese eine sehr schöne Konstruktion war. Heute morgen habe ich eine Predigt von Ihrem Freund <rs ref="#tillich_person_id__1837" type="person">Stählin</rs> gehört, über die ich mich wieder einmal rechtschaffen ärgern musste. Ueber den <rs ref="#tillich_place_id__126" type="place">Dresdener</rs> russischen Kreis,<note type="ea">Dem Kreis dürften u. a. <rs ref="#tillich_person_id__1856" type="person">Fedor Stepun</rs> und <rs ref="#tillich_person_id__3126" type="person">Dimitri Obolensky</rs> angehört haben.</note> zu dem ich nun zwei mal eingeladen worden bin und absagen musste, werde ich Sie, wenn die Sache je wiederkommen und ich anzunehmen in der Lage sein sollte, um einige Auskunft betr. meine Darbietung dort um Rat bitten müssen. Aber vorläufig ist die Sache nicht akut.</p>
-    <closer><salute>Mit herzlichem Gruss (aus der Kirche!)<lb/>
-        Ihe</salute></closer>
-    </div>
-    
-    <div><opener><dateline><rs ref="#tillich_place_id__307" type="place">Münster i. W.</rs>, Himmelreichallee 43, <date when="1929-02-10">10. Febr. 1929</date><note type="ea">Auf derselben Seite des Briefdurchschlags befindet sich dieser Brief Karl Barths an den oben erwähnten Bittsteller.</note></dateline>
-        <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__4060" type="person">Leopold Schumacher</rs>!</salute>
-    </opener>
-        <p>Leider muss ich Sie insofern enttäuschen, als ich mir, als ich Ihren Brief erhielt, nicht anders zu helfen wusste, als indem ich Ihnen die bewusste Summe schickte, über die ich Sie zu verfügen bitte, ohne dass ich in der Lage wäre, Ihnen die gewünschte Arbeit zu verschaffen. Die Hilfsarbeit die ich brauchen könnte ist nicht von der Art, dass sie von jemand der mir nicht persönlich und wissenschaftlich sehr nahe steht, besorgt werden könnte. Ich habe nun Ihren ersten Brief an einen dortigen Kollegen weitergeschickt, der Ihnen vielleicht beistehen kann.</p>
-        <closer>Mit bestem Gruss<lb/>
+            <author ref="#tillich_person_id__137">Karl Barth</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Schweiz</country>
+                  <settlement ref="#tillich_place_id__31">Basel</settlement>
+                  <institution>Universität Basel</institution>
+                  <repository>Karl-Barth-Archiv</repository>
+                  <idno>KBA 9229.49.2</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief (Durchschlag), maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__137">Karl Barth</persName>
+               <placeName ref="#tillich_place_id__307">Münster</placeName>
+               <date when="1929-02-10">10.02.1929</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__126">Dresden</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2025-10-29" who="FS">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__307" type="place">Münster i. W.</rs>, Himmelreichallee 43, <date when="1929-02-10">10. Febr. 1929</date>
+               </dateline>
+               <salute>Lieber Herr Kollege <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>!</salute>
+            </opener>
+            <p>Fürchten Sie nichts, ich komme in einer ganz profanen Angelegenheit zu Ihnen. Da sitzt in <rs ref="#tillich_place_id__260" type="place">Leipzig</rs>, wo Sie ja auch bekannt sind, ein <rs ref="#tillich_person_id__4060" type="person">Mann</rs> – ich lege Ihnen seinen Brief an mich bei,<note type="ea">Dieser Brief liegt nicht vor.</note> dem es sichtlich, wie wohl noch manchen ähnlich situierten Zeitgenossen nicht gut geht. Ich habe nun wirklich nichts für ihn zu arbeiten, habe mich daher begnügt, ihm 50 M. zu schicken, möchte nun aber Sie fragen, ob Sie Gelegenheit haben, an Ort und Stelle etwas für ihn d.h. dafür dass er angemessene Arbeit bekommt, zu tun?</p>
+            <p>Ich habe Ihren Besuch hier in überaus freundlicher Erinnerung.<note type="ea">Tillich hatte im Januar 1929 in Münster einen Vortrag über "<rs ref="#tillich__HJ7ADK2B" type="work">Protestantische Gestaltung</rs>" gehalten, der im darauffolgenden Jahr in seiner "<rs ref="#tillich__9C4WYQAG" type="work">Religiösen Verwirklichung</rs>" erschien.</note> Inzwischen haben wir nun <rs ref="#tillich_person_id__1537" type="person">Przywara</rs> erlebt<note type="ea">
+                  <rs ref="#tillich_person_id__1537" type="person">Erich Przywara</rs> hatte am <date when="1929-02-08">8. Februar 1929</date> einen Vortrag im "Staatswissenschaftlichen Institut" seines Freundes <rs ref="#tillich_person_id__2451" type="person">Johann Plenge</rs> gehalten. Siehe auch den <rs ref="#L01002" type="letter">Brief</rs> Plenges an Tillich vom 15. Februar 1929.</note> und es wird Sie nicht wundern zu hören, dass mir die <foreign xml:lang="lat">analogia entis</foreign>
+               <note type="ea">Obwohl der Sache nach bereits in der Scholastik thematisiert, wurde der Begriff der <foreign xml:lang="lat">analogia entis</foreign> durch den Jesuiten Erich Przywara in die neuere theologische Debatte wegweisend eingeführt (vgl. auch <rs ref="#tillich__QZQHJ84R" type="work">Przywara, Analogia entis, München 1932</rs>). <rs ref="#tillich_person_id__137" type="person">Barth</rs> gilt als entschiedener Kritiker der Lehre von der <foreign xml:lang="lat">analogia entis</foreign>. Zwischen <rs ref="#tillich_person_id__1537" type="person">Przywara</rs> und <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> war es bereits im Jahr 1928 bei den ersten <rs ref="#tillich_place_id__119" type="place">Davoser</rs> Hochschulkursen zur Debatte gekommen.</note> unverhältnismässig mehr Eindruck gemacht hat als die Gestalt der Gnade,<note type="ea">Vgl. zu dieser Formulierung Tillichs insb. die <rs ref="#tillich__HJ7ADK2B" type="work">Veröffentlichung</rs> des oben bereits genannten Vortrags vom Januar 1929.</note> obwohl doch auch diese eine sehr schöne Konstruktion war. Heute morgen habe ich eine Predigt von Ihrem Freund <rs ref="#tillich_person_id__1837" type="person">Stählin</rs> gehört, über die ich mich wieder einmal rechtschaffen ärgern musste. Ueber den <rs ref="#tillich_place_id__126" type="place">Dresdener</rs> russischen Kreis,<note type="ea">Dem Kreis dürften u. a. <rs ref="#tillich_person_id__1856" type="person">Fedor Stepun</rs> und <rs ref="#tillich_person_id__3126" type="person">Dimitri Obolensky</rs> angehört haben.</note> zu dem ich nun zwei mal eingeladen worden bin und absagen musste, werde ich Sie, wenn die Sache je wiederkommen und ich anzunehmen in der Lage sein sollte, um einige Auskunft betr. meine Darbietung dort um Rat bitten müssen. Aber vorläufig ist die Sache nicht akut.</p>
+            <closer>
+               <salute>Mit herzlichem Gruss (aus der Kirche!)<lb/>
+        Ihe</salute>
+            </closer>
+         </div>
+         <div>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__307" type="place">Münster i. W.</rs>, Himmelreichallee 43, <date when="1929-02-10">10. Febr. 1929</date>
+                  <note type="ea">Auf derselben Seite des Briefdurchschlags befindet sich dieser Brief Karl Barths an den oben erwähnten Bittsteller.</note>
+               </dateline>
+               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__4060" type="person">Leopold Schumacher</rs>!</salute>
+            </opener>
+            <p>Leider muss ich Sie insofern enttäuschen, als ich mir, als ich Ihren Brief erhielt, nicht anders zu helfen wusste, als indem ich Ihnen die bewusste Summe schickte, über die ich Sie zu verfügen bitte, ohne dass ich in der Lage wäre, Ihnen die gewünschte Arbeit zu verschaffen. Die Hilfsarbeit die ich brauchen könnte ist nicht von der Art, dass sie von jemand der mir nicht persönlich und wissenschaftlich sehr nahe steht, besorgt werden könnte. Ich habe nun Ihren ersten Brief an einen dortigen Kollegen weitergeschickt, der Ihnen vielleicht beistehen kann.</p>
+            <closer>Mit bestem Gruss<lb/>
         Ihr sehr ergebener</closer>
-    </div>
-</body>
-</text>
+         </div>
+      </body>
+   </text>
 </TEI>

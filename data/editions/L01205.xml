@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01205">
    <teiHeader>
       <fileDesc>
@@ -85,12 +85,15 @@
             <pb n="1"/>
             <opener>
                <rs ref="#tillich_person_id__1663" type="person">Der Preußische Minister für
-                  Wissenschaft, Kunst und Volksbildung</rs><lb/><hi rend="u">U I Nr. 753.1</hi><lb/>
-               <dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs> den <date
-                     when="1933-04-13">13. April 1933.</date><lb/>W 8 – Postfach – </dateline>
+                  Wissenschaft, Kunst und Volksbildung</rs>
+               <lb/>
+               <hi rend="u">U I Nr. 753.1</hi>
+               <lb/>
+               <dateline>
+                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs> den <date when="1933-04-13">13. April 1933.</date>
+                  <lb/>W 8 – Postfach – </dateline>
             </opener>
-            <p>Auf Grund des Gesetzes zur Wiederherstellung des Berufsbeamtentums vom <date
-                  when="1933-04-07">7. April 1933</date> (RGBl. S. 175 ff.) sehe ich mich veranlaßt,
+            <p>Auf Grund des Gesetzes zur Wiederherstellung des Berufsbeamtentums vom <date when="1933-04-07">7. April 1933</date> (RGBl. S. 175 ff.) sehe ich mich veranlaßt,
                Sie bis zur endgültigen Entscheidung mit sofortiger Wirkung aus Ihrem Amte zu
                beurlauben. Diese Beurlaubung gilt auch für jede Tätigkeit, die Sie in Verbindung mit
                Ihrem Hauptamt oder im Zusammenhang mit Ihrer Universitätsstellung ausüben. Ihre
@@ -98,7 +101,9 @@
                weitergezahlt.</p>
             <closer>
                <salute>Der Kommissar des Reichs</salute>
-               <signed><rs type="person" ref="#tillich_person_id__1663">B Rust</rs></signed>
+               <signed>
+                  <rs type="person" ref="#tillich_person_id__1663">B Rust</rs>
+               </signed>
             </closer>
          </div>
       </body>

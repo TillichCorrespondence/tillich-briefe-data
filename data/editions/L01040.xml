@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01040">
    <teiHeader>
       <fileDesc>
@@ -93,9 +93,11 @@
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <opener><dateline>
+            <opener>
+               <dateline>
                   <rs ref="#tillich_place_id__238" type="place">Kiel</rs>, <date when="1929-12-03">3. Dezember
-                     1929</date></dateline>
+                     1929</date>
+               </dateline>
                <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr Tillich</rs>!</salute>
             </opener>
             <p>Dieser Brief soll Ihnen danken für das, was Sie mir mit Ihrem <rs ref="#tillich__GC2XP3MW" type="work">Aufsatz</rs> gegeben haben!
@@ -116,9 +118,7 @@
                      <rs ref="#tillich_person_id__570" type="person">Tochter</rs> alles Gute</salute>
                <signed>Ihre <rs ref="#tillich_person_id__1208" type="person">Beatrice Löwe</rs>.</signed>
             </closer>
-
          </div>
-
       </body>
    </text>
 </TEI>

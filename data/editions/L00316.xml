@@ -1,132 +1,139 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00316">
-      <teiHeader>
-            <fileDesc>
-                  <titleStmt>
-                        <title>Brief von Käte an Paul Tillich <lb/>vom 19. August 1912</title>
-                        <author ref="#tillich_person_id__2196">Käte</author>
-                        <respStmt>
-                              <resp>Editor</resp>
-                              <name>Anna Rüther</name>
-                        </respStmt>
-                  </titleStmt>
-                  <editionStmt>
-                        <edition>
-                              <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Käte an Paul Tillich <lb/>vom 19. August 1912</title>
+            <author ref="#tillich_person_id__2196">Käte</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Anna Rüther</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                                     1887-1933</title>
-                        </edition>
-                  </editionStmt>
-                  <publicationStmt>
-                        <publisher>
-                              <name>Institut für Systematische Theologie und
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und
                                     Religionswissenschaft</name>
-                              <address>
-                                    <street>Schenkenstraße 8-10</street>
-                                    <postCode>1010</postCode>
-                                    <placeName ref="#tillich_place_id__470">Wien</placeName>
-                              </address>
-                        </publisher>
-                        <availability>
-                              <licence target="http://creativecommons.org/licenses/by-sa/4.0/"
-                                    >Creative Commons Attribution 4.0 International (CC BY
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY
                                     4.0)</licence>
-                        </availability>
-                  </publicationStmt>
-                  <sourceDesc>
-                        <msDesc type="manuscript">
-                              <msIdentifier>
-                                    <country>USA</country>
-                                    <settlement ref="#tillich_place_id__82">Cambridge,
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge,
                                           MA</settlement>
-                                    <institution>Harvard</institution>
-                                    <repository>Harvard Divinity School Library</repository>
-                                    <collection>Tillich, Paul, 1886-1965. Papers,
+                  <institution>Harvard</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers,
                                           1894-1974</collection>
-                                    <idno>bMS 649/208(4)</idno>
-                              </msIdentifier>
-                              <physDesc>
-                                    <p>Brief, eigenhändig</p>
-                              </physDesc>
-                        </msDesc>
-                  </sourceDesc>
-            </fileDesc>
-            <encodingDesc>
-                  <projectDesc>
-                        <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-                  </projectDesc>
-                  <editorialDecl>
-                        <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des
+                  <idno>bMS 649/208(4)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des
                               DTA-Basisformats. Vgl.
                               https://www.deutschestextarchiv.de/doku/basisformat/</p>
-                  </editorialDecl>
-            </encodingDesc>
-            <profileDesc>
-                  <correspDesc>
-                        <correspAction type="sent">
-                              <persName ref="#tillich_person_id__2196">Käte</persName>
-                              <placeName ref="#tillich_place_id__37">Berlin</placeName>
-                              <date when="1912-08-19">19.08.1912</date>
-                        </correspAction>
-                        <correspAction type="received">
-                              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                        </correspAction>
-                  </correspDesc>
-                  <langUsage>
-                        <language ident="deu">Deutsch</language>
-                  </langUsage>
-            </profileDesc>
-            <revisionDesc status="approved">
-                  <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
-                  <change when="2023-12-11" who="AA">Initiale Auszeichnung des Transkripts</change>
-                  <change when="2025-03-10" who="EL">Endabnahme</change>
-            </revisionDesc>
-      </teiHeader>
-      <text type="letter">
-            <body>
-                  <div type="writingSession">
-                        <pb n="1"/>
-                        <opener>
-                              <dateline>
-                                    <rs type="place" ref="#tillich_place_id__37">Berlin</rs>, den
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2196">Käte</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1912-08-19">19.08.1912</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2023-12-11" who="AA">Initiale Auszeichnung des Transkripts</change>
+         <change when="2025-03-10" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs type="place" ref="#tillich_place_id__37">Berlin</rs>, den
                                           <date when="1912-08-19">19. August 1912</date> + 1.
                               </dateline>
-                        </opener>
-                        <p><foreign xml:lang="fr">J&apos;y pense</foreign>!!!</p>
-                        <p><pb n="2"/><lg>
-                                    <l>Das große Ereignis.</l>
-                                    <lb/>
-                                    <l>Was trug sich zu? Was soll doch nur</l>
-                                    <lb/>
-                                    <l>der ganze Aufruhr der Natur?</l>
-                                    <lb/>
-                                    <l>Alltägliches kann es nicht sein,</l>
-                                    <lb/>
-                                    <l>blickt selbst der Mond ja staunend drein... !</l>
-                                    <lb/>
-                                    <l>Am Himmel jagen die Wolken erregt,</l>
-                                    <lb/>
-                                    <l>das Meer scheint in tiefster Tiefe bewegt....</l>
-                                    <lb/>
-                                    <l>Verwundert schüttelt der Bergwald sein Haupt –</l>
-                                    <lb/>
-                                    <l>Wer hätte so etwas möglich geglaubt... ?!</l>
-                                    <lb/>
-                                    <l>Die Engelschaar jubelt, der Teufel tobt:</l>
-                                    <lb/>
-                              </lg></p>
-                        <p><pb n="3"/><lg>
-                                    <l>Jetzt wird mir alles, alles klar!</l>
-                                    <lb/>
-                                    <l><rs type="person" ref="#tillich_person_id__1928">Paul
+            </opener>
+            <p>
+               <foreign xml:lang="fr">J'y pense</foreign>!!!</p>
+            <p>
+               <pb n="2"/>
+               <lg>
+                  <l>Das große Ereignis.</l>
+                  <lb/>
+                  <l>Was trug sich zu? Was soll doch nur</l>
+                  <lb/>
+                  <l>der ganze Aufruhr der Natur?</l>
+                  <lb/>
+                  <l>Alltägliches kann es nicht sein,</l>
+                  <lb/>
+                  <l>blickt selbst der Mond ja staunend drein... !</l>
+                  <lb/>
+                  <l>Am Himmel jagen die Wolken erregt,</l>
+                  <lb/>
+                  <l>das Meer scheint in tiefster Tiefe bewegt....</l>
+                  <lb/>
+                  <l>Verwundert schüttelt der Bergwald sein Haupt –</l>
+                  <lb/>
+                  <l>Wer hätte so etwas möglich geglaubt... ?!</l>
+                  <lb/>
+                  <l>Die Engelschaar jubelt, der Teufel tobt:</l>
+                  <lb/>
+               </lg>
+            </p>
+            <p>
+               <pb n="3"/>
+               <lg>
+                  <l>Jetzt wird mir alles, alles klar!</l>
+                  <lb/>
+                  <l>
+                     <rs type="person" ref="#tillich_person_id__1928">Paul
                                                 Tillich</rs> wird heut 28 Jahr!!!!</l>
-                                    <lb/>
-                              </lg></p>
-                        <closer>
-                              <salute>Gottes reichsten Segen, tausend Grüße</salute>
-                              <signed>Deine <rs type="person" ref="#tillich_person_id__2196"
-                                          >Käte</rs></signed>
-                        </closer>
-                  </div>
-            </body>
-      </text>
+                  <lb/>
+               </lg>
+            </p>
+            <closer>
+               <salute>Gottes reichsten Segen, tausend Grüße</salute>
+               <signed>Deine <rs type="person" ref="#tillich_person_id__2196">Käte</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

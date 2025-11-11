@@ -1,112 +1,120 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00796">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Paul Tillich an Wilhelm Ruprecht <lb/>vom 6. Juli 1923</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name>Anna Rüther</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__37">Berlin</settlement>
-<institution>Stiftung Preußischer Kulturbesitz</institution>
-<repository>Staatsbibliothek zu Berlin</repository>
-<collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
-<idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
-</msIdentifier>
-<physDesc>
-<p>Postkarte, maschinenschriftlich; Korrekturen und Unterschrift eigenhändig; Unterstreichungen des Empfängers</p>
-</physDesc>
-   <additional>
-      <listBibl>
-         <biblStruct type="journal">
-            <monogr>
-               <author>Friedrich Wilhelm Graf</author>
-               <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-               <imprint>
-                  <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
-                  <date when="2020">2020</date>
-                  <biblScope>S. 26–170, hier: 137</biblScope>
-               </imprint>
-            </monogr>
-            <series>
-               <title>Zeitschrift für Neuere Theologiegeschichte</title>
-               <biblScope>27/1</biblScope>
-            </series>
-         </biblStruct>
-      </listBibl>
-   </additional>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
-<date when="1923-07-06">06.07.1923</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
-<change when="2024-01-20" who="AR">Initiale Auszeichnung des Transkripts</change>
-   <change when="2025-03-26" who="FS">Kollationierung</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-   <salute>Sehr geehrter <rs ref="#tillich_person_id__2569" type="person">Herr Ruprecht</rs>,</salute>
-</opener>
-   <p>darf ich Sie bitten, ein Rezensionsexemplar an meinen Kollegen Herrn Professor <rs ref="#tillich_person_id__567" type="person">Fabricius</rs> <rs ref="#tillich_place_id__37" type="place">Berlin</rs> NW.87 Jagowstr. 2 zu senden? Er will das <hi rend="u"><rs ref="#tillich__WLVL28EI" type="work">Buch</rs> in der Deutschen Allgemeinen und im Tag rezensieren</hi>.<note type="ea">Am linken Rand findet sich der Erledigungsvermerk des Verlags: <q>erl. 11. Juli</q>.</note> Gleichzeitig habe ich ein Reserveexemplar von mir an Herrn Professor <rs ref="#tillich_person_id__188" type="person">Berdjajeff</rs>, Vorsitzenden der religionsphilosophischen russischen Akademie gegeben, der schon eine andere ausführliche Besprechung eines Aufsatzes von mir in der <hi rend="u">russischen philosophischen Zeitschrift <q>Sofia</q></hi> veranlaßt hat, und mein Buch ausführlich besprechen will. Ich wäre Ihnen dankbar, wenn Sie <hi rend="u">mir das Exemplar</hi>, mein letztes eigenes, wieder erstatten würden. Gleichzeitig bitte ich Sie um die Übersendung von <hi rend="u">sechs Exemplaren des Systems der Wissenschaften zum Autorenpreis</hi>.<note type="ea">Darunter ist am unteren Rand der Seite vermerkt: <q>12.VII.23. 321750,- plus 2820,- = 324570,-</q>.</note></p>
-   <p>Also im Ganzen bitte ich um die Zusendung von <hi rend="u">sieben</hi> Exemplaren. Sind
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Wilhelm Ruprecht <lb/>vom 6. Juli 1923</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Anna Rüther</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <institution>Stiftung Preußischer Kulturbesitz</institution>
+                  <repository>Staatsbibliothek zu Berlin</repository>
+                  <collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
+                  <idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, maschinenschriftlich; Korrekturen und Unterschrift eigenhändig; Unterstreichungen des Empfängers</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal">
+                        <monogr>
+                           <author>Friedrich Wilhelm Graf</author>
+                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                              <date when="2020">2020</date>
+                              <biblScope>S. 26–170, hier: 137</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Zeitschrift für Neuere Theologiegeschichte</title>
+                           <biblScope>27/1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
+               <date when="1923-07-06">06.07.1923</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2024-01-20" who="AR">Initiale Auszeichnung des Transkripts</change>
+         <change when="2025-03-26" who="FS">Kollationierung</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Sehr geehrter <rs ref="#tillich_person_id__2569" type="person">Herr Ruprecht</rs>,</salute>
+            </opener>
+            <p>darf ich Sie bitten, ein Rezensionsexemplar an meinen Kollegen Herrn Professor <rs ref="#tillich_person_id__567" type="person">Fabricius</rs>
+               <rs ref="#tillich_place_id__37" type="place">Berlin</rs> NW.87 Jagowstr. 2 zu senden? Er will das <hi rend="u">
+                  <rs ref="#tillich__WLVL28EI" type="work">Buch</rs> in der Deutschen Allgemeinen und im Tag rezensieren</hi>.<note type="ea">Am linken Rand findet sich der Erledigungsvermerk des Verlags: <q>erl. 11. Juli</q>.</note> Gleichzeitig habe ich ein Reserveexemplar von mir an Herrn Professor <rs ref="#tillich_person_id__188" type="person">Berdjajeff</rs>, Vorsitzenden der religionsphilosophischen russischen Akademie gegeben, der schon eine andere ausführliche Besprechung eines Aufsatzes von mir in der <hi rend="u">russischen philosophischen Zeitschrift <q>Sofia</q>
+               </hi> veranlaßt hat, und mein Buch ausführlich besprechen will. Ich wäre Ihnen dankbar, wenn Sie <hi rend="u">mir das Exemplar</hi>, mein letztes eigenes, wieder erstatten würden. Gleichzeitig bitte ich Sie um die Übersendung von <hi rend="u">sechs Exemplaren des Systems der Wissenschaften zum Autorenpreis</hi>.<note type="ea">Darunter ist am unteren Rand der Seite vermerkt: <q>12.VII.23. 321750,- plus 2820,- = 324570,-</q>.</note>
+            </p>
+            <p>Also im Ganzen bitte ich um die Zusendung von <hi rend="u">sieben</hi> Exemplaren. Sind
 sonst schon Bestellungen gekommen?</p>
-<closer>
-<salute>Mit ergebenstem Gruß</salute>
-   <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed><note type="ea">Schräg darunter schreibt <rs ref="#tillich_person_id__2569" type="person">Wilhelm Ruprecht</rs>: <q>Notiz: </q>Der Absatz ist ganz erfreulich<q> Dazu schreibe ich WR</q>.</note>
-</closer>
-</div>
-</body>
-</text>
+            <closer>
+               <salute>Mit ergebenstem Gruß</salute>
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>
+               </signed>
+               <note type="ea">Schräg darunter schreibt <rs ref="#tillich_person_id__2569" type="person">Wilhelm Ruprecht</rs>: <q>Notiz: </q>Der Absatz ist ganz erfreulich<q> Dazu schreibe ich WR</q>.</note>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

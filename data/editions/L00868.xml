@@ -1,112 +1,114 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00868">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Paul Tillich an Hannah Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich
                     <lb/>vom 15. März 1926 [PS]
                </title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement>Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Hannah. Papers, 1896-1976</collection>
-<idno>bMS 721/2(22)</idno>
-</msIdentifier>
-<physDesc>
-<p>Postkarte, eigehändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__74">Bremen</placeName>
-<date when="1926-03-15">15.03.1926</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-<placeName ref="#tillich_place_id__126">Dresden</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-07-17" who="EL">Initiale Auszeichnung des Transkripts</change>
-<change when="2023-11-24" who="FS">Endabnahme</change>
-<change who="EL" when="2025-11-05">Erklärende Anmerkungen überprüft und ergänzt</change>
-</revisionDesc>
-</teiHeader>
-<text type="postcard">
-<body>
-<div type="hand1">
-<pb n="1"/>
-<opener>
-<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-</opener>
-<p>Die Fahrt war lang und müde. Der Abend bei <rs ref="#tillich_person_id__1868" type="person">St.</rs> sehr schön. Viele wertvolle Unterhaltungen. Die Nacht traumreich, wie jetzt immer. Gleich will mich <rs ref="#tillich_person_id__1868" type="person">St.</rs> untersuchen. Er meint Du solltest auf alle Fälle nähren.<note type="ea">Bezieht sich auf das Stillen der am <date when="1926-02-17">17. Februar 1926</date> geborenen Tochter Tillichs, <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs>.</note> Die Müdigkeit käme vom Körperumbau, auch ohne Nähren und wäre gut. Ich bin jetzt sehr vergnügt!
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement>Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                  <idno>bMS 721/2(22)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigehändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__74">Bremen</placeName>
+               <date when="1926-03-15">15.03.1926</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <placeName ref="#tillich_place_id__126">Dresden</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-07-17" who="EL">Initiale Auszeichnung des Transkripts</change>
+         <change when="2023-11-24" who="FS">Endabnahme</change>
+         <change who="EL" when="2025-11-05">Erklärende Anmerkungen überprüft und ergänzt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="hand1">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+            </opener>
+            <p>Die Fahrt war lang und müde. Der Abend bei <rs ref="#tillich_person_id__1868" type="person">St.</rs> sehr schön. Viele wertvolle Unterhaltungen. Die Nacht traumreich, wie jetzt immer. Gleich will mich <rs ref="#tillich_person_id__1868" type="person">St.</rs> untersuchen. Er meint Du solltest auf alle Fälle nähren.<note type="ea">Bezieht sich auf das Stillen der am <date when="1926-02-17">17. Februar 1926</date> geborenen Tochter Tillichs, <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs>.</note> Die Müdigkeit käme vom Körperumbau, auch ohne Nähren und wäre gut. Ich bin jetzt sehr vergnügt!
                 </p>
-<closer>In Liebe
+            <closer>In Liebe
                     <signed>
-<lb/>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-</closer>
-</div>
-<div type="hand2">
-<p/>
-<closer>
+                  <lb/>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+         <div type="hand2">
+            <p/>
+            <closer>
                     Herzl. Gruss
                     <signed>
-<rs ref="#tillich_person_id__1868" type="person">Karl Stoevesandt</rs>
-</signed>
-</closer>
-</div>
-<pb n="2"/>
-<div type="hand1">
-<p/>
-<postscript><p>Ergebnis der Untersuchung: Alles tadellos in Ordnung!</p></postscript>
-</div>
-</body>
-</text>
+                  <rs ref="#tillich_person_id__1868" type="person">Karl Stoevesandt</rs>
+               </signed>
+            </closer>
+         </div>
+         <pb n="2"/>
+         <div type="hand1">
+            <p/>
+            <postscript>
+               <p>Ergebnis der Untersuchung: Alles tadellos in Ordnung!</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
 </TEI>

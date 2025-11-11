@@ -1,133 +1,119 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00191">
-               <teiHeader>
-                              <fileDesc>
-                                             <titleStmt>
-                                                  <title>Brief von C. Nickelby an Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von C. Nickelby an Paul Tillich
                                                   <lb/>vom 19. August 1907</title>
-                                                  <author ref="#tillich_person_id__2157">C.
+            <author ref="#tillich_person_id__2157">C.
                                                   Nickelby</author>
-                                                  <respStmt>
-                                                  <resp>Editor</resp>
-                                                  <name key="https://orcid.org/0009-0007-2445-9093"
-                                                  >Niklas von Hülsen</name>
-                                                  </respStmt>
-                                             </titleStmt>
-                                             <editionStmt>
-                                                  <edition>
-                                                  <title type="editionstitel">Edition der
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0007-2445-9093">Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der
                                                   Korrespondenz von Paul Tillich 1887-1933</title>
-                                                  </edition>
-                                             </editionStmt>
-                                             <publicationStmt>
-                                                  <publisher>
-                                                  <name>Institut für Systematische Theologie und
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und
                                                   Religionswissenschaft</name>
-                                                  <address>
-                                                  <street>Schenkenstraße 8-10</street>
-                                                  <postCode>1010</postCode>
-                                                  <placeName ref="#tillich_place_id__470">
-                                                  <settlement>Wien</settlement>
-                                                  <country>Österreich</country>
-                                                  </placeName>
-                                                  </address>
-                                                  </publisher>
-                                                  <availability>
-                                                  <licence
-                                                  target="http://creativecommons.org/licenses/by-sa/4.0/"
-                                                  >Creative Commons Attribution 4.0 International
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International
                                                   (CC BY 4.0)</licence>
-                                                  </availability>
-                                             </publicationStmt>
-                                             <sourceDesc>
-                                                  <msDesc type="manuscript">
-                                                  <msIdentifier>
-                                                  <country>USA</country>
-                                                  <settlement ref="#tillich_place_id__82">Cambridge,
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge,
                                                   MA</settlement>
-                                                  <institution>Harvard University</institution>
-                                                  <repository>Harvard Divinity School
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School
                                                   Library</repository>
-                                                  <collection>Tillich, Paul, 1886-1965. Papers,
+                  <collection>Tillich, Paul, 1886-1965. Papers,
                                                   1894-1974</collection>
-                                                  <idno>bMS 649/170(33)</idno>
-                                                  </msIdentifier>
-                                                  <physDesc>
-                                                  <p>Brief, eigenhändig</p>
-                                                  </physDesc>
-                                                  </msDesc>
-                                             </sourceDesc>
-                              </fileDesc>
-                              <encodingDesc>
-                                             <projectDesc>
-                                                  <p>online-Edition: Edition der Korrespondenz von
+                  <idno>bMS 649/170(33)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von
                                                   Paul Tillich 1887-1933.</p>
-                                             </projectDesc>
-                                             <editorialDecl>
-                                                  <p>Die Ausgabe folgt folgenden Editorischen
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen
                                                   Richtlinien des DTA-Basisformats. Vgl.
                                                   https://www.deutschestextarchiv.de/doku/basisformat/</p>
-                                             </editorialDecl>
-                              </encodingDesc>
-                              <profileDesc>
-                                             <correspDesc>
-                                                  <correspAction type="sent">
-                                                  <persName ref="#tillich_person_id__2157">C.
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2157">C.
                                                   Nickelby</persName>
-                                                  <placeName ref="#tillich_place_id__111"
-                                                  >Collinghorst</placeName>
-                                                  <date when="1907-08-19">19.08.1907</date>
-                                                  </correspAction>
-                                                  <correspAction type="received">
-                                                  <persName ref="#tillich_person_id__1928">Paul
+               <placeName ref="#tillich_place_id__111">Collinghorst</placeName>
+               <date when="1907-08-19">19.08.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul
                                                   Tillich</persName>
-                                                  </correspAction>
-                                             </correspDesc>
-                                             <langUsage>
-                                                  <language ident="deu">Deutsch</language>
-                                             </langUsage>
-                              </profileDesc>
-                              <revisionDesc status="approved">
-                                             <change when="2022-06-21" who="NH">Initiale
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2022-06-21" who="NH">Initiale
                                                   Auszeichnung des Transkripts</change>
-                                             <change when="2024-02-06" who="PS">Vorbereitende
+         <change when="2024-02-06" who="PS">Vorbereitende
                                                   Endabnahme</change>
-                                             <change when="2024-02-20" who="EL">Endabnahme</change>
-                              </revisionDesc>
-               </teiHeader>
-               <text type="letter">
-                              <body>
-                                             <div type="writingSession">
-                                                  <pb n="1"/>
-                                                  <opener>
-                                                  <dateline><rs ref="#tillich_place_id__111"
-                                                  type="place">Collinghorst</rs>, <date
-                                                  when="1907-08-19">19 August
-                                                  1907.</date></dateline>
-                                                  <salute>Liebes <rs ref="#tillich_person_id__1928"
-                                                  type="person">Paulchen</rs>!</salute>
-                                                  </opener>
-                                                  <p>Die Frage, ob ich im nächsten Semester nach <rs
-                                                  ref="#tillich_place_id__37" type="place"
-                                                  >Berlin</rs> komme, kann ich Dir jetzt noch nicht
+         <change when="2024-02-20" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__111" type="place">Collinghorst</rs>, <date when="1907-08-19">19 August
+                                                  1907.</date>
+               </dateline>
+               <salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+            </opener>
+            <p>Die Frage, ob ich im nächsten Semester nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> komme, kann ich Dir jetzt noch nicht
                                                   beantworten. Die Entscheidung darüber ist
                                                   wesentlich davon abhängig, was aus meinen Arbeiten
                                                   in den Ferien wird, und daß ich es darin bis jetzt
                                                   allzuweit gebracht hätte, kann ich gerade nicht
                                                   behaupten. Daß erklärt sich aber daraus, daß ich
-                                                  erst am letzten Donnerstag im vielgeliebten <rs
-                                                  ref="#tillich_place_id__335" type="place"
-                                                  >Ostfriesland</rs> angelangt bin, nachdem ich mich
-                                                  bis dahin in <rs ref="#tillich_place_id__333"
-                                                  type="place">Osnabrück</rs> auf<pb n="2"/>gehalten
+                                                  erst am letzten Donnerstag im vielgeliebten <rs ref="#tillich_place_id__335" type="place">Ostfriesland</rs> angelangt bin, nachdem ich mich
+                                                  bis dahin in <rs ref="#tillich_place_id__333" type="place">Osnabrück</rs> auf<pb n="2"/>gehalten
                                                   hatte. Während ich dort die Zeit dazu benutzt
                                                   habe, meine stenographischen Kenntnisse etwas zu
                                                   vervollkommnen, wird es hier zunächst meine
-                                                  Aufgabe sein, mich in die Geheimnisse der <rs
-                                                  ref="#tillich_person_id__2269" type="person"
-                                                  >Steuernagel</rs>&apos;schen <rs
-                                                  ref="#tillich__F5BQYJ8F" type="work"
-                                                  >Grammatik</rs> zu vertiefen. Daß ich aber auch
+                                                  Aufgabe sein, mich in die Geheimnisse der <rs ref="#tillich_person_id__2269" type="person">Steuernagel</rs>'schen <rs ref="#tillich__F5BQYJ8F" type="work">Grammatik</rs> zu vertiefen. Daß ich aber auch
                                                   noch an andere Arbeiten denke, davon können die
                                                   Bücher Zeugnis ablegen, die ich mitgebracht habe.
                                                   Hoffentlich kann ich Dir bald von einer
@@ -135,10 +121,10 @@
                                                   Unterhaltungslektüre hat mir unsere Hallenser
                                                   Wingolfsbibliothek geliefert, deren Katalog mich
                                                   übrigens bis hierher begleitet hat. Als erstes
-                                                  Buch davon<pb n="3"/> nahm ich gestern die <q><rs
-                                                  ref="#tillich__3LASBZNI" type="work">Skizzen aus
-                                                  unserm heutigen Volksleben</rs></q> von <rs
-                                                  ref="#tillich_person_id__2789" type="person">Fritz
+                                                  Buch davon<pb n="3"/> nahm ich gestern die <q>
+                  <rs ref="#tillich__3LASBZNI" type="work">Skizzen aus
+                                                  unserm heutigen Volksleben</rs>
+               </q> von <rs ref="#tillich_person_id__2789" type="person">Fritz
                                                   Anders</rs> zur Hand, und die Erzählung, die ich
                                                   gleich zu Anfang des Buches las, betitelt sich,
                                                   wie Dir vielleicht bekannt ist: <q>Der Herr
@@ -158,23 +144,22 @@
                                                   Beziehung sicherlich gut getan, wenn ich auch
                                                   nicht daran zweifle, daß die Nordseeluft Dir
                                                   dieselben Dienste leisten würde. Jedenfalls wäre
-                                                  in diesem Herbste ein Aufenthalt in <rs
-                                                  ref="#tillich_place_id__335" type="place"
-                                                  >Ostfriesland</rs> sehr lohnend. Unser Garten
+                                                  in diesem Herbste ein Aufenthalt in <rs ref="#tillich_place_id__335" type="place">Ostfriesland</rs> sehr lohnend. Unser Garten
                                                   stellt eine Fülle von Obst in Aussicht, und diese
                                                   Hoffnung ist ganz dazu angetan, mir die Ferien
                                                   möglichst angenehm zu machen. Was ich aber in und
                                                   nach diesen Ferien treiben werde, darüber ein
                                                   anderes Mal. </p>
-                                                  <closer>
-                                                  <salute>Für diesmal verbleibt mit herzlichem Gruße
+            <closer>
+               <salute>Für diesmal verbleibt mit herzlichem Gruße
                                                   Dein getr. <unclear>Chans, Cfx, Cfan,
                                                   Clandi</unclear>
-                                                  </salute>
-                                                  <signed><rs ref="#tillich_person_id__2157"
-                                                  type="person">Nickelby</rs></signed>
-                                                  </closer>
-                                             </div>
-                              </body>
-               </text>
+               </salute>
+               <signed>
+                  <rs ref="#tillich_person_id__2157" type="person">Nickelby</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

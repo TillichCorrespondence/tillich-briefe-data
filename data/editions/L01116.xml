@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01116">
    <teiHeader>
       <fileDesc>
@@ -99,10 +99,6 @@
          <change who="SK" when="2023-06-28">Absätze hinzugefügt</change>
          <change who="FS" when="2024-01-22">Endabnahme</change>
          <change when="2025-11-05" who="FS">Erklärende Anmerkungen überprüft und ergänzt</change>
-         
-
-
-
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -110,7 +106,9 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline><date when="1931-12-14">14. 12. 1931</date></dateline>
+               <dateline>
+                  <date when="1931-12-14">14. 12. 1931</date>
+               </dateline>
                <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr
                      Tillich</rs>,</salute>
             </opener>
@@ -119,12 +117,16 @@
                Vorstellungskraft von dem haben, worum es geht.<note type="ea">Hintergrund dieses
                   Briefes ist die in den Jahren 1931 und 1932 in der Frankfurter Allgemeinen Zeitung geführte
                   bildungspolitische und -philosophische Debatte, die unter der Frage <q>Gibt es noch
-                  eine Universität?</q> firmierte. <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> hatte mit seinem Text <q><rs
-                     ref="#tillich__6C5D7J9M" type="work">Fachhochschulen und Universität</rs></q>
+                  eine Universität?</q> firmierte. <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> hatte mit seinem Text <q>
+                     <rs ref="#tillich__6C5D7J9M" type="work">Fachhochschulen und Universität</rs>
+                  </q>
                   einen vielwidersprochenen Beitrag dazu geliefert. Zu der Debatte insgesamt sowie
                   zu den einzelnen Beiträgen vgl. <rs ref="#tillich__X2QLF786" type="work">Thomae
-                     (Hg.), Gibt es noch eine Universität?</rs></note></p>
-            <p><hi rend="i">Das</hi> aber gerade hatten <hi rend="i">Sie</hi> aufs deutlichste
+                     (Hg.), Gibt es noch eine Universität?</rs>
+               </note>
+            </p>
+            <p>
+               <hi rend="i">Das</hi> aber gerade hatten <hi rend="i">Sie</hi> aufs deutlichste
                ausgesagt. Sie hatten doch wenigstens ein Gesicht: Sie <hi rend="i">sahen</hi> eine
                Gestalt einer Universitas. Mag man mit Ihrem Modell nicht einverstanden sein. Gut.
                Dann sollte einer ein anderes Modell machen. Aber das tut keiner Ihrer Gegner.</p>
@@ -137,10 +139,11 @@
                kann man nicht leben, man kann nur aus der Wahrheit leben. </p>
             <closer>
                <salute>Ihr sehr ergebener</salute>
-               <signed><rs ref="#tillich_person_id__221" type="person">Rudolph G.
-                  Binding</rs></signed>
+               <signed>
+                  <rs ref="#tillich_person_id__221" type="person">Rudolph G.
+                  Binding</rs>
+               </signed>
             </closer>
-
          </div>
       </body>
    </text>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01025">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Paul Tillich an Erich Seeberg 
@@ -31,7 +31,7 @@
             </publisher>
             <availability>
                <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc type="typescript">
@@ -44,15 +44,16 @@
                </msIdentifier>
                <physDesc>
                   <p>Brief, maschinenschriftlich</p>
-                  </physDesc>
-               <additional> 
+               </physDesc>
+               <additional>
                   <listBibl>
                      <biblStruct type="journal" n="firstPrint">
                         <monogr>
                            <author>Erdmann Sturm</author>
-                           <title>&quot;Vielleicht kommen wir nun doch zu einer gemeinsamen Arbeit in Berlin&quot;. Paul Tillichs Briefe an Reinhold und Erich Seeberg (1924–1935)</title>
+                           <title>"Vielleicht kommen wir nun doch zu einer gemeinsamen Arbeit in Berlin". Paul Tillichs Briefe an Reinhold und Erich Seeberg (1924–1935)</title>
                            <imprint>
-                              <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace><pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+                              <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
                               <date when="2012">2012</date>
                               <biblScope>211–253, hier: 237f.</biblScope>
                            </imprint>
@@ -61,58 +62,61 @@
                            <title>International Yearbook for Tillich Research</title>
                            <biblScope>Bd. 7, H. 1</biblScope>
                         </series>
-                     </biblStruct>  
+                     </biblStruct>
                   </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
-              <date when="1929-07-29">29.07.1929</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1760">Erich Seeberg</persName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="FS" when="2023-09-04">Initiale Auszeichnung des Transkripts</change>
-        <change who="FS" when="2024-01-10">Endabnahme</change>
-        
-     </revisionDesc>
-  </teiHeader>
-  <text type="letter">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <dateline>Feldbergstr. 7, den <date when="1929-07-29">29. 7. 29</date><note type="eb">Erklärende Anmerkungen zu vorliegendem Brief wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note></dateline>
-           <salute>Lieber Herr <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs>!</salute>
-        </opener>
-        <p>Herzlichen Dank für Ihre Anfrage<note type="ea">Gemeint ist der Auftrag, ein Lehrbuch der Ethik für eine von E. Seeberg herausgegebene Reihe zu schreiben. Das dazugehörige Schreiben liegt nicht vor.</note>. Mich lockt Ihr Auftrag nach wie vor sehr. Ich würde Sie nur bitten, den Termin um ein Jahr herauszuschieben. Mit den Bedingungen bin ich einverstanden.</p>
-        <p>Ihr <rs ref="#tillich__VGJ2P6BX" type="work">Buch</rs> lege ich eben in meinen Koffer, um es in <rs ref="#tillich_place_id__230" type="place">Kampen auf Sylt</rs> durchzustudieren. Ich freue mich darauf und gebe Ihnen Nachricht, sobald ich es gelesen habe. Im übrigen bewaffne ich mich mit <rs ref="#tillich__NHUL3K3B" type="work">Heideggers Kantbuch</rs> und einigem Material für mein <rs ref="#tillich__DEWQEL6Z" type="work">geschichtsphilosophisches Kolleg</rs> im nächsten Winter. Sollte der Druck Ihrer <rs ref="#tillich__VSI752RY" type="work">Vorträge</rs> bis zum <date when="1929-11">November</date> nicht möglich sein, so wäre ich Ihnen für einen Schreibmaschinendurchschlag dankbar.</p>
-        <p>Ich komme Ende <date when="1929-10">Oktober</date> nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> zu einem Vortrag über <rs ref="#tillich__BVIJMA5A" type="work">Philosophie der Macht</rs> in der sozialen Frauenakademie, werde mehrere Tage bleiben und Sie selbstverständlich aufsuchen, vielleicht mit <rs ref="#tillich_person_id__1923" type="person">meiner Frau</rs>. Wo fahren Sie im Sommer hin? Hoffentlich befolgen Sie meine Ratschläge, die ich Ihnen in <rs ref="#tillich_place_id__23" type="place">Reichenhall</rs> vor einem Jahr gab, und ruhen sich gründlich an einem Ort aus.
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+               <date when="1929-07-29">29.07.1929</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1760">Erich Seeberg</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="FS" when="2023-09-04">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2024-01-10">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>Feldbergstr. 7, den <date when="1929-07-29">29. 7. 29</date>
+                  <note type="eb">Erklärende Anmerkungen zu vorliegendem Brief wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note>
+               </dateline>
+               <salute>Lieber Herr <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs>!</salute>
+            </opener>
+            <p>Herzlichen Dank für Ihre Anfrage<note type="ea">Gemeint ist der Auftrag, ein Lehrbuch der Ethik für eine von E. Seeberg herausgegebene Reihe zu schreiben. Das dazugehörige Schreiben liegt nicht vor.</note>. Mich lockt Ihr Auftrag nach wie vor sehr. Ich würde Sie nur bitten, den Termin um ein Jahr herauszuschieben. Mit den Bedingungen bin ich einverstanden.</p>
+            <p>Ihr <rs ref="#tillich__VGJ2P6BX" type="work">Buch</rs> lege ich eben in meinen Koffer, um es in <rs ref="#tillich_place_id__230" type="place">Kampen auf Sylt</rs> durchzustudieren. Ich freue mich darauf und gebe Ihnen Nachricht, sobald ich es gelesen habe. Im übrigen bewaffne ich mich mit <rs ref="#tillich__NHUL3K3B" type="work">Heideggers Kantbuch</rs> und einigem Material für mein <rs ref="#tillich__DEWQEL6Z" type="work">geschichtsphilosophisches Kolleg</rs> im nächsten Winter. Sollte der Druck Ihrer <rs ref="#tillich__VSI752RY" type="work">Vorträge</rs> bis zum <date when="1929-11">November</date> nicht möglich sein, so wäre ich Ihnen für einen Schreibmaschinendurchschlag dankbar.</p>
+            <p>Ich komme Ende <date when="1929-10">Oktober</date> nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> zu einem Vortrag über <rs ref="#tillich__BVIJMA5A" type="work">Philosophie der Macht</rs> in der sozialen Frauenakademie, werde mehrere Tage bleiben und Sie selbstverständlich aufsuchen, vielleicht mit <rs ref="#tillich_person_id__1923" type="person">meiner Frau</rs>. Wo fahren Sie im Sommer hin? Hoffentlich befolgen Sie meine Ratschläge, die ich Ihnen in <rs ref="#tillich_place_id__23" type="place">Reichenhall</rs> vor einem Jahr gab, und ruhen sich gründlich an einem Ort aus.
 </p>
-        <closer>
-           <salute>Herzlichen Gruß Ihnen Beiden und auf Wiedersehen im <date when="1929-10">Oktober</date> Ihr</salute>
-           <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
-        </closer>  
-     </div>
-    </body>
-  </text>
+            <closer>
+               <salute>Herzlichen Gruß Ihnen Beiden und auf Wiedersehen im <date when="1929-10">Oktober</date> Ihr</salute>
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

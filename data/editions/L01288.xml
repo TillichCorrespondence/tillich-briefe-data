@@ -1,93 +1,91 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01288">
-      <teiHeader>
-            <fileDesc>
-                  <titleStmt>
-                        <title>Brief von Paul Tillich an Hannah Tillich <lb/>von November
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hannah Tillich <lb/>von November
                               1920</title>
-                        <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                        <respStmt>
-                              <resp>Editor</resp>
-                              <name>Anna Rüther</name>
-                        </respStmt>
-                  </titleStmt>
-                  <editionStmt>
-                        <edition>
-                              <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Anna Rüther</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                                     1887-1933</title>
-                        </edition>
-                  </editionStmt>
-                  <publicationStmt>
-                        <publisher>
-                              <name>Institut für Systematische Theologie und
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und
                                     Religionswissenschaft</name>
-                              <address>
-                                    <street>Schenkenstraße 8-10</street>
-                                    <postCode>1010</postCode>
-                                    <placeName ref="#tillich_place_id__470">Wien</placeName>
-                              </address>
-                        </publisher>
-                        <availability>
-                              <licence target="http://creativecommons.org/licenses/by-sa/4.0/"
-                                    >Creative Commons Attribution 4.0 International (CC BY
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY
                                     4.0)</licence>
-                        </availability>
-                  </publicationStmt>
-                  <sourceDesc>
-                        <msDesc type="manuscript">
-                              <msIdentifier>
-                                    <country>USA</country>
-                                    <settlement ref="#tillich_place_id__85">Cambridge,
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__85">Cambridge,
                                           MA</settlement>
-                                    <institution>Harvard</institution>
-                                    <repository>Harvard Divinity School Library</repository>
-                                    <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                                    <idno>bMS 721/2 (17)</idno>
-                              </msIdentifier>
-                              <physDesc>
-                                    <p>Brief, eigenhändig</p>
-                              </physDesc>
-                        </msDesc>
-                  </sourceDesc>
-            </fileDesc>
-            <encodingDesc>
-                  <projectDesc>
-                        <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-                  </projectDesc>
-                  <editorialDecl>
-                        <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des
+                  <institution>Harvard</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                  <idno>bMS 721/2 (17)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des
                               DTA-Basisformats. Vgl.
                               https://www.deutschestextarchiv.de/doku/basisformat/</p>
-                  </editorialDecl>
-            </encodingDesc>
-            <profileDesc>
-                  <correspDesc>
-                        <correspAction type="sent">
-                              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                              <date notBefore="1920-11-01" notAfter="1920-11-25">01.01.1920</date>
-                        </correspAction>
-                        <correspAction type="received">
-                              <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-                        </correspAction>
-                  </correspDesc>
-                  <langUsage>
-                        <language ident="deu">Deutsch</language>
-                  </langUsage>
-            </profileDesc>
-            <revisionDesc status="approved">
-                  <change when="2024-02-09" who="AA">XML Datei generiert von Metadata</change>
-                  <change when="2024-02-09" who="AR">Initiale Auszeichnung des Transkripts</change>
-            </revisionDesc>
-      </teiHeader>
-      <text type="letter">
-            <body>
-                  <div type="writingSession">
-                        <pb n="1"/>
-                        <opener>
-                              <salute>Geliebte <rs type="person" ref="#tillich_person_id__1923"
-                                          >Hannah</rs>!</salute>
-                        </opener>
-                        <p>Unendlich froh hat mich Dein Brief<note type="ea">Liegt nicht vor.</note>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date notBefore="1920-11-01" notAfter="1920-11-25">01.01.1920</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2024-02-09" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2024-02-09" who="AR">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Geliebte <rs type="person" ref="#tillich_person_id__1923">Hannah</rs>!</salute>
+            </opener>
+            <p>Unendlich froh hat mich Dein Brief<note type="ea">Liegt nicht vor.</note>
                               gemacht, mir einen Mut und eine Kraft in die Seele gegossen, die stark
                               genug sind, allem zu trotzen, was uns an dem völligen Einswerden
                               hindern könnte. Denke nicht, daß ich Dir früher ferner war; aber ich
@@ -107,7 +105,7 @@
                               anderen will um des Vollkommenen willen, was in der Gemeinschaft
                               allein Wirklichkeit werden kann; ja ich liebe Dich, mit Seele und Leib
                               und Geist, mehr als mich selbst!</p>
-                        <p>Du bist ganz Frau, und ich bin Mann geworden; weil ich das aber bin,
+            <p>Du bist ganz Frau, und ich bin Mann geworden; weil ich das aber bin,
                               darum muß ich kommen, Dich aufzurütteln aus Deinem Schlaf; nicht weil
                               ich ungeduldig bin; wie sollte ich; gehört uns doch die Ewigkeit! Aber
                               es gibt ein hartes Gesetz, das sich in mir jetzt durchringt, auf dem
@@ -127,7 +125,7 @@
                               diese fast nüchterne Klarheit den Willen zu Dir zur unbedingten,
                               absoluten Selbstgewißheit und die Liebe zur tiefsten, heißesten Glut
                               geführt hat.</p>
-                        <p>Und weil ich so klar sehe, so sage ich noch etwas Anderes: Wir haben nur
+            <p>Und weil ich so klar sehe, so sage ich noch etwas Anderes: Wir haben nur
                               dann ein Recht, eins zu werden über den unendlichen Schmerz eines
                               Dritten, wenn dadurch etwas geschaffen wird in ihm und in uns, was als
                               Menschenwerk vor Gott höher steht, als der Weg, in den Du durch ein
@@ -137,28 +135,26 @@
                               entscheiden als ich; für Dich und mich ist die Sache entschieden; wir
                               werden nicht auf blumigen Wiesen wandeln, wir werden kalte,
                               stürmische, dunkle Wege mit einander wandern; weil wir Licht und Wärme
-                              bringen müssen für viele. Wie aber ist es mit ihm?<note type="ea"
-                                    >Gemeint ist <rs type="person" ref="#tillich_person_id__705"
-                                          >Albert Gottschow</rs>, der erste Ehemann von <rs
-                                          type="person" ref="#tillich_person_id__1923">Hannah
+                              bringen müssen für viele. Wie aber ist es mit ihm?<note type="ea">Gemeint ist <rs type="person" ref="#tillich_person_id__705">Albert Gottschow</rs>, der erste Ehemann von <rs type="person" ref="#tillich_person_id__1923">Hannah
                                           Tillich</rs>.</note> Hast Du die Gewißheit, daß das, was
                               jetzt ist, im Grunde auch seinetwegen nicht sein darf? Hast Du sie –
                               und das ist ja sicher: Wirst Du innerlich weniger, in Eurem
                               Zusammensein, so wird auch er es – dann warte nicht lange mehr! </p>
-                        <p>Weißt Du nun, warum ich nicht zu Euch kommen kann? Aber wir müssen uns
+            <p>Weißt Du nun, warum ich nicht zu Euch kommen kann? Aber wir müssen uns
                               sehen; und ich verlange es als erste Tat der Wahrhaftigkeit, daß Du es
                               erzwingst, vielleicht damit eine erste Hülle von Dir werfend, hier, in
                                     <rs ref="#tillich_place_id__224" type="place">Jena</rs>, wo Du
-                              willst, vor Weihnachten, nach Weihnachten. In diesen Tagen kommt <rs
-                                    ref="#tillich_person_id__1931" type="person">Gretis</rs> <rs ref="#tillich_person_id__1933" type="person">Kind</rs>;
+                              willst, vor Weihnachten, nach Weihnachten. In diesen Tagen kommt <rs ref="#tillich_person_id__1931" type="person">Gretis</rs>
+               <rs ref="#tillich_person_id__1933" type="person">Kind</rs>;
                               da geht nichts; sonst habe ich nur Sonnabend – Sonntag.* Am besten, Du
                               kommst her.</p>
-                        <p><rs type="person" ref="#tillich_person_id__1923">Hannah</rs>, ich bin zu
+            <p>
+               <rs type="person" ref="#tillich_person_id__1923">Hannah</rs>, ich bin zu
                               allem bereit, um mit Dir leben zu können, Ich umfasse Dich mit der
                               Liebe, die tiefer ist, als die Wurzeln des eigenen Seins.</p>
-                        <p>*Im Notfall lasse ich Freitag ausfallen und habe dann Mittwoch bis
+            <p>*Im Notfall lasse ich Freitag ausfallen und habe dann Mittwoch bis
                               Sonntag.</p>
-                  </div>
-            </body>
-      </text>
+         </div>
+      </body>
+   </text>
 </TEI>

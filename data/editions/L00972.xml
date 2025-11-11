@@ -1,91 +1,92 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 25. März 1928</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 25. März 1928</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="Wien">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="Cambridge, MA">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Hannah. Papers, 1896-1976.</collection>
-<idno>bMS 721/2(24)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig. Briefpapier vom Grand Hotel Curhaus, Davos.</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                  <idno>bMS 721/2(24)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig. Briefpapier vom Grand Hotel Curhaus, Davos.</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__119">Davos</placeName>
-<date when="1928-03-25">25.03.1928</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-11-22" who="PS">Initiale Auszeichnung des Transkripts</change>
-<change when="2023-11-22" who="PS">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-   <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!<note type="ea">Das Datum dieses im Original undatierten Briefes wurde durch seinen Kontext ermittelt.</note></salute>
-</opener>
-<p>Mir gegenüber am Kaffeetisch sitzt ein Maler, dem ich Porträt sitze für eine Skizze
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__119">Davos</placeName>
+               <date when="1928-03-25">25.03.1928</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-11-22" who="PS">Initiale Auszeichnung des Transkripts</change>
+         <change when="2023-11-22" who="PS">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!<note type="ea">Das Datum dieses im Original undatierten Briefes wurde durch seinen Kontext ermittelt.</note>
+               </salute>
+            </opener>
+            <p>Mir gegenüber am Kaffeetisch sitzt ein Maler, dem ich Porträt sitze für eine Skizze
                der hier erschienenen <q>Köpfe</q> – – Du siehst, welche Verpflichtungen erwachsen. Die
                schlimmste war die, daß ich gestern Abend mit Frau <rs ref="#tillich_person_id__3049" type="person">Driesch</rs>, (ca 55 Jahre, internationale komische Figur) Tango tanzen mußte
    zur Seelenerquickung aller Anwesenden. Freitag Abend war ein Vortrag des <rs ref="#tillich_person_id__3051" type="person">Direktors
@@ -102,23 +103,28 @@
                Trotzdem ist er der feinste Kopf hier. Viele fragen, ob er Katholik ist. – Nein. Herr
    <rs ref="#tillich_person_id__3050" type="person">Donath</rs> hat in der Diskussion über <rs ref="#tillich_person_id__520" type="person">Einsteins</rs> Vortrag <rs ref="#tillich_place_id__126" type="place">Dresden</rs> zu Ehren gebracht, indem er
                die beiden ersten und formal besten Fragen stellte. – </p>
-<p>Die Atmosphäre <q><rs ref="#tillich_place_id__119" type="place">Davos</rs></q> wird mir
+            <p>Die Atmosphäre <q>
+                  <rs ref="#tillich_place_id__119" type="place">Davos</rs>
+               </q> wird mir
                immer unheimlicher. Heut Nacht erschienen mir vor dem Einschlafen die Kranken im
                Geiste und beunruhigten meine Seele. Ich bin ganz froh, daß es nur noch 2 Tage sind.
                Es kommen immer neue Leute, die einen irgendwoher kennen. Der Kreis der Bekannten
                geht schon über das Menschen-<pb n="4"/>Mögliche. [Ich werde immer noch skizziert].</p>
-               <p>Für Deine Karte<note type="ea">Diese Karte liegt nicht vor.</note> tausend Dank! Ich habe direkte Sehnsucht nach Euch und dem Meer.
-                  Jedenfalls hat mir die Sache ungeheuren Schwung gegeben, und ich sehe, daß weder <rs ref="#tillich_person_id__520" type="person">Einstein</rs> noch <rs ref="#tillich_person_id__816" type="person">Hartmann</rs>, noch <rs ref="#tillich_person_id__697" type="person">Goldstein</rs> wirklich über mein <q><rs ref="#tillich__WLVL28EI" type="work">System d.
-                  Wissenschaften</rs></q> hinaus sind. Es lohnt sich schon, hier noch einmal zu arbeiten. Aber
+            <p>Für Deine Karte<note type="ea">Diese Karte liegt nicht vor.</note> tausend Dank! Ich habe direkte Sehnsucht nach Euch und dem Meer.
+                  Jedenfalls hat mir die Sache ungeheuren Schwung gegeben, und ich sehe, daß weder <rs ref="#tillich_person_id__520" type="person">Einstein</rs> noch <rs ref="#tillich_person_id__816" type="person">Hartmann</rs>, noch <rs ref="#tillich_person_id__697" type="person">Goldstein</rs> wirklich über mein <q>
+                  <rs ref="#tillich__WLVL28EI" type="work">System d.
+                  Wissenschaften</rs>
+               </q> hinaus sind. Es lohnt sich schon, hier noch einmal zu arbeiten. Aber
                zuerst die Dogmatik. Ich habe viele neue Intensitäten bekommen. – Über Deinen Vino
                Orvieto Bigi freue ich mich, und auch auf ihn. Heut habe ich viel dienstliche Post
                erledigt! – Auf Wiedersehn mein Liebstes! Donnerstag! Grüß <rs ref="#tillich_person_id__688" type="person">Heinrich</rs> und <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs>!</p>
-<closer>
-<salute>In viel Liebe.<lb/>
+            <closer>
+               <salute>In viel Liebe.<lb/>
 Dein</salute>
-<signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-</closer>
-</div>
-</body>
-</text>
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

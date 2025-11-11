@@ -1,107 +1,112 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00055">
-               <teiHeader>
-                              <fileDesc>
-                                             <titleStmt>
-                                                  <title>Brief von Johannes Tillich an Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Johannes Tillich an Paul Tillich
                                                   <lb/>vom 12. Mai 1905</title>
-                                                  <author ref="#tillich_person_id__1924">Johannes
+            <author ref="#tillich_person_id__1924">Johannes
                                                   Tillich</author>
-                                                  <respStmt>
-                                                  <resp>Editor</resp>
-                                                  <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-                                                  </respStmt>
-                                             </titleStmt>
-                                             <editionStmt>
-                                                  <edition>
-                                                  <title type="editionstitel">Edition der
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der
                                                   Korrespondenz von Paul Tillich 1887-1933</title>
-                                                  </edition>
-                                             </editionStmt>
-                                             <publicationStmt>
-                                                  <publisher>
-                                                  <name>Institut für Systematische Theologie und
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und
                                                   Religionswissenschaft</name>
-                                                  <address>
-                                                  <street>Schenkenstraße 8-10</street>
-                                                  <postCode>1010</postCode>
-                                                  <placeName ref="#tillich_place_id__470">
-                                                  <settlement>Wien</settlement>
-                                                  <country>Österreich</country>
-                                                  </placeName>
-                                                  </address>
-                                                  </publisher>
-                                                  <availability>
-                                                  <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International
                                                   (CC BY 4.0)</licence>
-                                                  </availability>
-                                             </publicationStmt>
-                                             <sourceDesc>
-                                                  <msDesc type="manuscript">
-                                                  <msIdentifier>
-                                                  <country>USA</country>
-                                                  <settlement ref="#tillich_place_id__82">Cambridge,
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge,
                                                   MA</settlement>
-                                                  <institution>Harvard University</institution>
-                                                  <repository>Harvard Divinity School
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School
                                                   Library</repository>
-                                                  <collection>Tillich, Paul, 1886-1965. Papers,
+                  <collection>Tillich, Paul, 1886-1965. Papers,
                                                   1894-1974.</collection>
-                                                  <idno>bMS 649/205(15)</idno>
-                                                  </msIdentifier>
-                                                  <physDesc>
-                                                  <p>Brief, eigenhändig</p>
-                                                  </physDesc>
-                                                  </msDesc>
-                                             </sourceDesc>
-                              </fileDesc>
-                              <encodingDesc>
-                                             <projectDesc>
-                                                  <p>online-Edition: Edition der Korrespondenz von
+                  <idno>bMS 649/205(15)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von
                                                   Paul Tillich 1887-1933.</p>
-                                             </projectDesc>
-                                             <editorialDecl>
-                                                  <p>Die Ausgabe folgt folgenden Editorischen
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen
                                                   Richtlinien des DTA-Basisformats. Vgl.
                                                   https://www.deutschestextarchiv.de/doku/basisformat/</p>
-                                             </editorialDecl>
-                              </encodingDesc>
-                              <profileDesc>
-                                             <correspDesc>
-                                                  <correspAction type="sent">
-                                                  <persName ref="#tillich_person_id__1924">Johannes
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1924">Johannes
                                                   Tillich</persName>
-                                                  <date when="1905-05-12">12.05.1905</date>
-                                                  </correspAction>
-                                                  <correspAction type="received">
-                                                  <persName ref="#tillich_person_id__1928">Paul
+               <date when="1905-05-12">12.05.1905</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul
                                                   Tillich</persName>
-                                                  </correspAction>
-                                             </correspDesc>
-                                             <langUsage>
-                                                  <language ident="deu">Deutsch</language>
-                                             </langUsage>
-                              </profileDesc>
-                              <revisionDesc status="approved">
-                                             <change when="2023-01-12" who="PS">Initiale
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-01-12" who="PS">Initiale
                                                   Auszeichnung des Transkripts</change>
-                                             <change when="2023-09-25" who="EL">Endabnahme</change>
-                              </revisionDesc>
-               </teiHeader>
-               <text type="letter">
-                              <body>
-                                             <div type="writingSession">
-                                                  <pb n="1"/>
-                                                  <opener><dateline><date when="1905-05-12">12/5.05.</date></dateline>
-                                                  <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Sohn</rs>!</salute>
-                                                  </opener>
-                                                  <p>Mit Deinem ausführl. u. fröhl. <!--<rs ref="L00050" type="letter">-->Briefe<note type="ea">Nicht überliefert.</note>v<!--</rs>--> hast Du mir e. rechte
+         <change when="2023-09-25" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <date when="1905-05-12">12/5.05.</date>
+               </dateline>
+               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Sohn</rs>!</salute>
+            </opener>
+            <p>Mit Deinem ausführl. u. fröhl. <!--<rs ref="L00050" type="letter">-->Briefe<note type="ea">Nicht überliefert.</note>v<!--</rs>--> hast Du mir e. rechte
                                                   Freude bereitet. Möchte es dir weiter dort gut
                                                   gehen u. gut gefallen. Raten möchte ich Dir doch
                                                   auch e. Alttestamentl. Kolleg<note type="ea"> Im Sommersemester 1905 hielt Professor Dr. <rs ref="#tillich_person_id__2244" type="person">Julius von Grill</rs> in <rs ref="#tillich_place_id__448" type="place">Tübingen</rs> eine Vorlesung <q>Theologie des Alten Testaments, erster Teil (Mosaismus)</q>, wöchentlich <q>2mal, Dienstag, Freitag um 4 Uhr</q>.</note> zu belegen, auch
                                                   wenn Du es nur selten hören kannst; Du kommst
                                                   sonst in d. späteren Semestern ins Gedränge. – Der
-                                                  eine <unclear><rs ref="#tillich_person_id__2037" type="person">Werdermann</rs></unclear> hat vor 2
+                                                  eine <unclear>
+                  <rs ref="#tillich_person_id__2037" type="person">Werdermann</rs>
+               </unclear> hat vor 2
                                                   Jahren Besuch bei mir gemacht. Ich konnte ihn
                                                   nicht einladen, da <rs ref="#tillich_person_id__1929" type="person">Mama</rs> bald darauf krank wurde.<note type="ea"> Paul Tillichs Mutter <rs ref="#tillich_person_id__1929" type="person">Mathilde Wilhelmina Tillich</rs>, geb. Dürselen, starb am 24. September 1903 in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> infolge eines Augenkarzinoms. Der hier gegebene Hinweis auf den Beginn der Leidenszeit der Mutter legt nahe, dass zwischen Diagnose und Tod nur sehr wenig Zeit verblieben war.</note> Sage ihm das mit meinem Gruß. –
                                                   Macht Ihr schon Pläne für d. Wartburgreise? Bei
@@ -118,17 +123,20 @@
                                                   Tillichs</rs> akademische Lehrer <rs ref="#tillich_person_id__1712" type="person">Adolf
                                                   Schlatter</rs>, <rs ref="#tillich_person_id__1227" type="person">Wilhelm Lütgert</rs>, <rs ref="#tillich_person_id__1013" type="person">Martin Kähler</rs> und <rs ref="#tillich_person_id__258" type="person">Karl
                                                        Bornhäuser</rs>.
-                                                  </note> in <rs ref="#tillich_place_id__246" type="place">Kösen</rs> statt.<note type="ea">Im <q>Versammlungskalender</q> der Juninummern 22 und 23 der <rs type="work" ref="#tillich_work_id__340"><q>Christliche[n] Welt 19 (1905)</q></rs> findet sich in Sp. 526 und Sp. 550 die Anzeige <q>13.-16. Juni Gemeinschafts-Konferenz <rs ref="#tillich_place_id__246" type="place"> Bad Kösen</rs></q>. Ein Nachbericht über die Versammlung in späteren Nummern ließ sich nicht finden.</note> So weiß ich noch
+                                                  </note> in <rs ref="#tillich_place_id__246" type="place">Kösen</rs> statt.<note type="ea">Im <q>Versammlungskalender</q> der Juninummern 22 und 23 der <rs type="work" ref="#tillich_work_id__340">
+                     <q>Christliche[n] Welt 19 (1905)</q>
+                  </rs> findet sich in Sp. 526 und Sp. 550 die Anzeige <q>13.-16. Juni Gemeinschafts-Konferenz <rs ref="#tillich_place_id__246" type="place"> Bad Kösen</rs>
+                  </q>. Ein Nachbericht über die Versammlung in späteren Nummern ließ sich nicht finden.</note> So weiß ich noch
                                                   garnicht, wie es mit meiner Pfingstreise werden
                                                   wird. – Den Sommer-Reiseplan habe ich weiter
                                                   überlegt. <rs ref="#tillich_person_id__2240" type="person">Onkel Walz</rs> u. <rs ref="#tillich_person_id__644" type="person">Johanna</rs> werden 14 Tage sich anschließen. –
                                                   Im Garten sprenge ich jetzt; Tante <rs ref="#tillich_person_id__2085" type="person">Toni</rs> streicht die <unclear>Zäune</unclear>. Behüte dich Gott mein
                                                   Herzensjunge. Wir freuen uns
                                                   auf d. Brief. – </p>
-                                                  <closer>
-                                                  <signed>D. tr. <rs ref="#tillich_person_id__1924" type="person">Vater</rs>.</signed>
-                                                  </closer>
-                                             </div>
-                              </body>
-               </text>
+            <closer>
+               <signed>D. tr. <rs ref="#tillich_person_id__1924" type="person">Vater</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

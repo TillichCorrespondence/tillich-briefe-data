@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01556">
    <teiHeader>
       <fileDesc>
@@ -74,18 +74,21 @@
       </profileDesc>
       <revisionDesc status="approved">
          <change who="FS" when="2025-08-27">Initiale Auszeichnung des Transkripts</change>
-
       </revisionDesc>
    </teiHeader>
    <text type="letter">
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <opener><dateline>
-               <date when="1933-08-16">August 16, 1933</date><lb/>
-               Professor <rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs><lb/>
+            <opener>
+               <dateline>
+                  <date when="1933-08-16">August 16, 1933</date>
+                  <lb/>
+               Professor <rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs>
+                  <lb/>
                University of Frankfort am Main<lb/>
-               <rs ref="#tillich_place_id__143" type="place">Frankfort am Main</rs>, <rs ref="#tillich_place_id__122" type="place">Germany</rs></dateline>
+                  <rs ref="#tillich_place_id__143" type="place">Frankfort am Main</rs>, <rs ref="#tillich_place_id__122" type="place">Germany</rs>
+               </dateline>
                <salute>Dear Professor <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>:</salute>
             </opener>
             <p>On the nomination of the Department of Philosophy and in cooperation with Union Theological Seminary, President <rs ref="#tillich_person_id__3699" type="person">Butler</rs> directs me to extend to you an invitation to be Visiting Lecturer in Philosophy at Columbia University for the academic year 1933–34. The stipend of the Lectureship will be $1,200 paid in twelve installments, but the instruction will consist of thirty lectures to be given in the Spring Session. This arrangement will leave the Winter Session free for the acceptance by you of invitations from other institutions and organizations for lectures and conferences.</p>
@@ -94,12 +97,11 @@
             <closer>
                <salute>With expressions of regard, I remain<lb/>
                Sincerely yours,</salute>
-               <signed><rs ref="#tillich_person_id__3698" type="person">Frank D. Fackenthal</rs></signed>
+               <signed>
+                  <rs ref="#tillich_person_id__3698" type="person">Frank D. Fackenthal</rs>
+               </signed>
             </closer>
-
-
          </div>
-
       </body>
    </text>
 </TEI>

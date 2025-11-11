@@ -1,123 +1,113 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00539">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Johannes Tillich <lb/>vom 30. Mai 1917</title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Johannes Tillich <lb/>vom 30. Mai 1917</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement ref="#tillich_place_id__82">Cambdridge, MA</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                        <idno>bMS 649/193(15)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambdridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/193(15)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <date when="1917-05-30">30.05.1917</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change who="FS" when="2022-04-19">Initiale Auszeichnung des Transkripts</change>
-            <change who="FS" when="2022-05-18">Anpassungen auf Basis der Projektbesprechung vom
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1917-05-30">30.05.1917</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="FS" when="2022-04-19">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2022-05-18">Anpassungen auf Basis der Projektbesprechung vom
                 9.5.2022</change>
-            <change who="GM" when="2024-01-11">Endabnahme</change>
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener>
-                    <dateline>D. <date when="1917-05-30">30. Mai 1917</date>.</dateline>
-                    <salute>Lieber <rs ref="#tillich_person_id__1924" type="person"
-                        >Papa</rs>!</salute>
-                </opener>
-                <p>Heut früh sollte dieser Brief abgehen; statt dessen lagen wir, wie alle paar Tage
+         <change who="GM" when="2024-01-11">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>D. <date when="1917-05-30">30. Mai 1917</date>.</dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
+            </opener>
+            <p>Heut früh sollte dieser Brief abgehen; statt dessen lagen wir, wie alle paar Tage
                     jetzt, auf der Landstraße, und wanderten, ca. 20 km weit; und nun sitze ich in
                     einer neuen Bude und weiß nicht, ob es 3 oder 13 Tage dauern wird! In diese
                     Unruhe hinein kommt nun der Gedanke an Deinen Geburtstag und mit ihm der Wunsch,
                     Dir zu schreiben, aller Unruhe zum Trotz! Und es ist ja auch wie ein
                     Herausgleiten aus der Unruhe dieser Zeit, wenn ich an den 3 Juni im Garten der
                     Neuenburgerstr.<note>In der Neuenburgerstraße stand das Pfarrhaus der Tillichs.</note> denke!
-                    Wieviele Gestalten ziehen da am Geiste vorüber; allen voran die <rs
-                        ref="#tillich_person_id__1926" type="person"><rs
-                            ref="#tillich_person_id__1930" type="person">Großeltern</rs></rs>, ruhig
-                    sitzend in den eisernen Federstühlen, <rs ref="#tillich_person_id__2085"
-                        type="person">Toni</rs> mit <rs ref="#tillich_person_id__1925" type="person"
-                        >Tante Grete</rs> und <rs ref="#tillich_person_id__2192" type="person"
-                        >Schwester Therese</rs> und <sic><rs ref="#tillich_person_id__2256" type="person"
-                        >Käthe Wirchel</rs></sic>, <rs ref="#tillich_person_id__2528" type="person"><rs
-                            ref="#tillich_person_id__2242" type="person">Schmidts</rs></rs>, alte
-                    und junge, <rs ref="#tillich_person_id__1310" type="person"
-                            >Luci<unclear>e</unclear>
-                    </rs> und <rs ref="#tillich_person_id__2230" type="person">Edith</rs>, und
-                    zuletzt, immer etwas zu spät, <rs ref="#tillich_person_id__2709" type="person"
-                        >Onkel Paul</rs> und <rs ref="#tillich_person_id__2236" type="person">Tante
+                    Wieviele Gestalten ziehen da am Geiste vorüber; allen voran die <rs type="person" ref="#tillich_person_id__1926 #tillich_person_id__1930">Großeltern</rs>, ruhig
+                    sitzend in den eisernen Federstühlen, <rs ref="#tillich_person_id__2085" type="person">Toni</rs> mit <rs ref="#tillich_person_id__1925" type="person">Tante Grete</rs> und <rs ref="#tillich_person_id__2192" type="person">Schwester Therese</rs> und <sic>
+                  <rs ref="#tillich_person_id__2256" type="person">Käthe Wirchel</rs>
+               </sic>, <rs type="person" ref="#tillich_person_id__2528 #tillich_person_id__2242">Schmidts</rs>, alte
+                    und junge, <rs ref="#tillich_person_id__1310" type="person">Luci<unclear>e</unclear>
+               </rs> und <rs ref="#tillich_person_id__2230" type="person">Edith</rs>, und
+                    zuletzt, immer etwas zu spät, <rs ref="#tillich_person_id__2709" type="person">Onkel Paul</rs> und <rs ref="#tillich_person_id__2236" type="person">Tante
                         Else</rs>; dazu <rs ref="#tillich_person_id__2712" type="person">Herr
                         Krüger</rs> mit dem Chor und über allem die blühenden Akazien, und der leise
                     von Raupen angefressene Eichbaum; Wein und Torte, Musik, Glückwünsche, und
                     schließlich Abschied Nehmen auf dem warmen Hof, wo der Springbrunnen ging zur
-                    Ehre des Tages, unter Feigen und Oleander… und dazu <rs
-                        ref="#tillich_person_id__2085" type="person">Tonichens</rs> Geburtstag und
-                    das Problem der gemeinsamen Feier, und <rs ref="#tillich_person_id__2085"
-                        type="person">Tonichens</rs> Verwandte, und<pb n="2"/> <rs
-                        ref="#tillich_person_id__2085" type="person">Tonichens</rs> Sorgen und Nöte
+                    Ehre des Tages, unter Feigen und Oleander… und dazu <rs ref="#tillich_person_id__2085" type="person">Tonichens</rs> Geburtstag und
+                    das Problem der gemeinsamen Feier, und <rs ref="#tillich_person_id__2085" type="person">Tonichens</rs> Verwandte, und<pb n="2"/>
+               <rs ref="#tillich_person_id__2085" type="person">Tonichens</rs> Sorgen und Nöte
                     und großen Geschenke – – – und ich dazwischen, im letzten Grunde nur halb dabei,
                     umhergehend, den Geist und den letzten Ernst allein in der fremden Welt des
                     Gedankens mit ihren wundersamen Visionen und Begeisterungen und Nöten – – –
@@ -127,23 +117,25 @@
                     außerhalb des Amtes und Du wirst ihn doppelt genießen; und ich wünsche Dir, daß
                     er der Geburtstag neuer Frische und Fröhlichkeit werden möge, damit Du noch viel
                     arbeiten kannst in dem was Dir am meisten liegt! – – – Ich bin schwer getroffen
-                    durch den Verlust von <rs ref="#tillich_place_id__358" type="place"
-                        >Butterfelde</rs>; er wirft einen dunklen Schatten auf die ganze Zukunft;
+                    durch den Verlust von <rs ref="#tillich_place_id__358" type="place">Butterfelde</rs>; er wirft einen dunklen Schatten auf die ganze Zukunft;
                     wovon sollen wir leben? Hier ist jetzt auf meinen Antrag hin ein dritter
                     Pfarrer, bisher Soldat gewesen, frisch, bewußt, 24 Jahre alt, und auch im Wesen
                     und Denken jung! Ich bin froh über die Hilfe! – – </p>
-                <closer><salute>Nun noch einmal alles Gute! und viel Segen und Kraft!</salute> Dein
-                            <signed><rs ref="#tillich_person_id__1928" type="person"
-                        >Paul</rs>.</signed></closer>
-                <postscript>
-                    <p>An <rs ref="#tillich_person_id__2085" type="person">Toni</rs> schrieb ich
+            <closer>
+               <salute>Nun noch einmal alles Gute! und viel Segen und Kraft!</salute> Dein
+                            <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+            <postscript>
+               <p>An <rs ref="#tillich_person_id__2085" type="person">Toni</rs> schrieb ich
                         nach <rs ref="#tillich_place_id__416" type="place">Stettin</rs>; ist sie in
                             <rs ref="#tillich_place_id__74" type="place">Bremen</rs>, so sage ihr
                         meinen Glückwunsch!<note type="ea">Das Postskriptum ist auf dem oberen
                             Seitenrand der zweiten Briefseite, auf dem Kopf stehend notiert
-                            worden.</note></p>
-                </postscript>
-            </div>
-        </body>
-    </text>
+                            worden.</note>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00575">
    <teiHeader>
       <fileDesc>
@@ -82,18 +82,24 @@
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <head>Reichwehr-Brigade No. 15<lb/><rs ref="#tillich_place_id__37" type="place">(Berlin)</rs></head>
-               <opener><dateline>
-                  <date when="1918-07-26">26/VII</date></dateline>
+            <head>Reichwehr-Brigade No. 15<lb/>
+               <rs ref="#tillich_place_id__37" type="place">(Berlin)</rs>
+            </head>
+            <opener>
+               <dateline>
+                  <date when="1918-07-26">26/VII</date>
+               </dateline>
                <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>!</salute>
             </opener>
             <p>Erst heute erhielt ich Ihre Karte<note>Liegt nicht vor.</note>. Allerherzlichsten Glückwunsch. Ich habe mehrmals
                wiederum vergeblich antelefoniert. Morgen fahre ich <add place="sublinear">auf Urlaub
-                  nach <rs ref="#tillich_place_id__437" type="place">Thüringen</rs> u. <rs ref="#tillich_place_id__32" type="place">Oberbayern</rs></add> u. fahre erst
+                  nach <rs ref="#tillich_place_id__437" type="place">Thüringen</rs> u. <rs ref="#tillich_place_id__32" type="place">Oberbayern</rs>
+               </add> u. fahre erst
                Ende August<pb n="2"/> zurück. Leider macht es sich mit dem Koffer nicht mehr! </p>
             <closer>
                <salute>Herzlichst Ihr</salute>
-               <signed><rs ref="#tillich_person_id__1487" type="person">Pfeiffer</rs>.</signed>
+               <signed>
+                  <rs ref="#tillich_person_id__1487" type="person">Pfeiffer</rs>.</signed>
             </closer>
          </div>
       </body>

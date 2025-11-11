@@ -1,113 +1,116 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00808">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Maria Klein <lb/>vom 1. Januar 1924</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Maria Klein <lb/>vom 1. Januar 1924</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="typescript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-<idno>bMS 649/178(11)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, maschinenschriftlich</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/178(11)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__37">Berlin</placeName>
-<date when="1924-01-01">01.01.1924</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1594">Maria Klein</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-10-03" who="PS">Inititale Auszeichnung des Transkripts</change>
-<change when="2023-10-19" who="FS">Endabnahme</change>
-   <change who="EL" when="2025-10-27">Erklärende Anmerkungen überprüft und ergänzt</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener><dateline>
-<rs ref="#tillich_place_id__37" type="place">Berlin-Friedenau</rs>, den <date when="1924-01-01">1.1.1924</date></dateline>
-<salute>Liebe <rs ref="#tillich_person_id__1594" type="person">Maria</rs>!</salute>
-</opener>
-<p>Zu meiner grossen Freude hörte ich schon von <rs ref="#tillich_person_id__2760" type="person">Peter</rs>, den ich manchmal in der
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1924-01-01">01.01.1924</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1594">Maria Klein</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-10-03" who="PS">Inititale Auszeichnung des Transkripts</change>
+         <change when="2023-10-19" who="FS">Endabnahme</change>
+         <change who="EL" when="2025-10-27">Erklärende Anmerkungen überprüft und ergänzt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__37" type="place">Berlin-Friedenau</rs>, den <date when="1924-01-01">1.1.1924</date>
+               </dateline>
+               <salute>Liebe <rs ref="#tillich_person_id__1594" type="person">Maria</rs>!</salute>
+            </opener>
+            <p>Zu meiner grossen Freude hörte ich schon von <rs ref="#tillich_person_id__2760" type="person">Peter</rs>, den ich manchmal in der
                Universität treffe, von Deiner Verlobung und bevorstehenden Hochzeit.<note type="ea">Das genaue Hochzeitsdatum konnte nicht ermittelt werden.</note> Wie sehr ich
                mich für Dich gefreut habe, nach allem, was Du erlebt hast, und auch im Gedanken an alles, was wir zusammen erlebt haben, kannst Du Dir
                denken. Wenn ich Dir etwas wünschen darf, so ist es dies, dass Dir Deine Ehe das sein
                möchte, was mir das Zusammenleben mit <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>
                geworden ist.</p>
-<p>Dass ich zu Deinem Polterabend nicht komme, wirst Du verstehen: ich habe schon damals
+            <p>Dass ich zu Deinem Polterabend nicht komme, wirst Du verstehen: ich habe schon damals
                <rs ref="#tillich_person_id__2760" type="person">Peter</rs> abgesagt und mich dann für den Abend anderweitig fest gebunden. Um so mehr
                hoffe ich, und mit mir <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>, dass wir Dich und
                Deinen <sic>Ma</sic> Mann irgend wann einmal in Ruhe sehen können<sic>.</sic>, hier oder in
                   <rs ref="#tillich_place_id__198" type="place">Hamburg</rs>.</p>
-<p>Auch unsere Hochzeit wird nun hoffentlich bald möglich werden<sic>. nachdem</sic> vor einigen
+            <p>Auch unsere Hochzeit wird nun hoffentlich bald möglich werden<sic>. nachdem</sic> vor einigen
                Tagen <rs ref="#tillich_person_id__1923" type="person">Hannahs</rs> Scheidung rechtskräftig geworden ist.<note type="ea">Die Hochzeit fand am <date when="1924-03-22">22. März 1924</date> statt.</note>
                Wahrscheinlich werden wir im Sommer nach <rs ref="#tillich_place_id__279" type="place">Marburg</rs> gehen, wo ich den meistens
                kränklichen <rs ref="#tillich_person_id__1438" type="person">Rudolf Otto</rs> vertreten werde.</p>
-<p>Ich wünsche Dir ein gutes neues Jahr und einen guten neuen Lebensanfang und bitte
+            <p>Ich wünsche Dir ein gutes neues Jahr und einen guten neuen Lebensanfang und bitte
    Dich<add resp="vf">,</add> auch alle Bekannten in <rs ref="#tillich_place_id__41" type="place">Lichtenrade</rs> zu grüssen.</p>
-<closer>
-<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-</closer>
-</div>
-</body>
-</text>
+            <closer>
+               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

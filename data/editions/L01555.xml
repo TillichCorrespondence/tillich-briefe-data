@@ -1,91 +1,102 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01555">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul und Hannah Tillich sowie Heinrich Goesch an Harald und Dorothee Poelchau
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul und Hannah Tillich sowie Heinrich Goesch an Harald und Dorothee Poelchau
                     <lb/>vom 24. Mai 1928 [PS]
                </title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-    <author ref="#tillich_person_id__1923">Hannah Tillich</author>
-    <author ref="#tillich_person_id__688">Heinrich Goesch</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-    <msIdentifier>
-        <repository>Nachlass Harald Poelchau (im Privatbesitz der Familie)</repository>
-    </msIdentifier><physDesc>
-    <p>Brief, maschinenschritlich</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-    <persName ref="#tillich_person_id__688">Heinrich Goesch</persName>
-    <placeName ref="#tillich_place_id__126">Dresden</placeName>
-<date when="1928-05-24">24.05.1928</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1516">Harald Poelchau</persName>
-    <persName ref="#tillich_person_id__2737">Dorothee Poelchau</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2025-10-13" who="FS">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="postcard">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-    <opener><dateline><rs ref="#tillich_place_id__126" type="place">Dresden</rs>, Elisenstr. 11</dateline><salute>Lieber <rs ref="#tillich_person_id__1516" type="person">Harald</rs> und liebe <rs ref="#tillich_person_id__2737" type="person">Dorothee</rs></salute>
-</opener>
-    <p>Die zarte Schale war uns eine grosse Freude. Eigentlich hätten wir sie <hi rend="u">Ihnen</hi> schicken müssen, denn sie war so etwas wie der Ausdruck dessen, was wir für Sie empfunden haben. Es ist wirklich so selten, dass sich die richtigen Menschen zusammentun, und es ist so selten, dass sich ein Wiesenprinz in der Ehe nicht in ein kompakteres un weniger schönes Geschöpf verwandelt, dass Sie verstehen müssen, dass wir hoffnungsvoller  und freundlicher in die Zukunft sehen, wenn wir dabei an Sie Beide denken können.</p>
-    <closer><salute>Es grüsst Sie herzlichst aus vieler äusserer und auch innerer Unruhe<lb/>
-        <rs ref="#tillich_person_id__1928" type="person">Paulus</rs> und <rs ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs> und <rs ref="#tillich_person_id__688" type="person">Heinrich Goesch</rs></salute></closer>    
-    <postscript><p><rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> nicht zu vergessen, die eine zärtliche Neigung für den putzigen Piepmatz hat, den ich übrigens auch gelegentlich mit Begeisterung drehe.</p></postscript>
-</div>
-</body>
-</text>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <author ref="#tillich_person_id__1923">Hannah Tillich</author>
+            <author ref="#tillich_person_id__688">Heinrich Goesch</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <repository>Nachlass Harald Poelchau (im Privatbesitz der Familie)</repository>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschritlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <persName ref="#tillich_person_id__688">Heinrich Goesch</persName>
+               <placeName ref="#tillich_place_id__126">Dresden</placeName>
+               <date when="1928-05-24">24.05.1928</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1516">Harald Poelchau</persName>
+               <persName ref="#tillich_person_id__2737">Dorothee Poelchau</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2025-10-13" who="FS">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__126" type="place">Dresden</rs>, Elisenstr. 11</dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1516" type="person">Harald</rs> und liebe <rs ref="#tillich_person_id__2737" type="person">Dorothee</rs>
+               </salute>
+            </opener>
+            <p>Die zarte Schale war uns eine grosse Freude. Eigentlich hätten wir sie <hi rend="u">Ihnen</hi> schicken müssen, denn sie war so etwas wie der Ausdruck dessen, was wir für Sie empfunden haben. Es ist wirklich so selten, dass sich die richtigen Menschen zusammentun, und es ist so selten, dass sich ein Wiesenprinz in der Ehe nicht in ein kompakteres un weniger schönes Geschöpf verwandelt, dass Sie verstehen müssen, dass wir hoffnungsvoller  und freundlicher in die Zukunft sehen, wenn wir dabei an Sie Beide denken können.</p>
+            <closer>
+               <salute>Es grüsst Sie herzlichst aus vieler äusserer und auch innerer Unruhe<lb/>
+                  <rs ref="#tillich_person_id__1928" type="person">Paulus</rs> und <rs ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs> und <rs ref="#tillich_person_id__688" type="person">Heinrich Goesch</rs>
+               </salute>
+            </closer>
+            <postscript>
+               <p>
+                  <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> nicht zu vergessen, die eine zärtliche Neigung für den putzigen Piepmatz hat, den ich übrigens auch gelegentlich mit Begeisterung drehe.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00834">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Gustav Ruprecht an Paul Tillich
@@ -31,7 +31,7 @@
             </publisher>
             <availability>
                <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc type="typescript">
@@ -40,11 +40,11 @@
                   <settlement ref="#tillich_place_id__37">Berlin</settlement>
                   <repository>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</repository>
                   <collection>Handschriftenabteilung, Archiv des Verlages Vandenhoeck &amp; Ruprecht - Autorenkorrespondenz/G 1888-1936</collection>
-                  <idno>Nachl. 494, G 1923. 138</idno>   
+                  <idno>Nachl. 494, G 1923. 138</idno>
                </msIdentifier>
                <physDesc>
                   <p>Briefdurchschlag maschinenschriftlich</p>
-                  </physDesc>
+               </physDesc>
                <additional>
                   <listBibl>
                      <biblStruct type="journal">
@@ -52,7 +52,8 @@
                            <author>Friedrich Wilhelm Graf</author>
                            <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
                            <imprint>
-                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
                               <date when="2020">2020</date>
                               <biblScope>S. 26–170, hier: 141</biblScope>
                            </imprint>
@@ -67,51 +68,50 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__2518">Gustav Ruprecht</persName>
-              <date when="1924-11-10">10.11.1924</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__279">Marburg/Lahn</placeName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="NH" when="2023-07-17">Initiale Auszeichnung des Transkripts</change>
-        <change who="FS" when="2024-01-24">Endabnahme</change>
-        
-       
-     </revisionDesc>
-  </teiHeader>
-  <text type="letter">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <dateline><rs ref="#tillich_person_id__1928" type="person">Herrn Professor Dr. P. Tillich</rs>, <rs ref="#tillich_place_id__279" type="place">Marburg/Lahn</rs>.</dateline>
-           <salute>Sehr geehrter Herr!</salute>
-        </opener>
-        <p>Von Besprechungen ist nur eine kürzlich noch eingegangen, die wir Ihnen gleichzeitig unter Kreuzband zusenden. Sie brauchen diese nicht zurückzusenden, da wir das Wichtigste ausgeschrieben haben. – Der Gesamt-Absatz Ihrer <rs ref="#tillich__WLVL28EI" type="work">Schrift</rs> bis zum <date when="1924-07-01">1. Juli d. Js.</date> beträgt 340 Stück. Das ist nicht so viel, wie Sie und wir gehofft hatten, aber der Absatz ist, wenn auch materiell nicht genügend, doch immer ein erfreuliches Zeichen, wie Ihre Schrift geschätzt worden ist, und wir hoffen auch, daß der Absatz noch längere Zeit anhält und schließlich vielleicht sogar die Auflage ausverkauft werden wird. Hoffentlich kommen wir bald einmal in die Lage, etwas Neues von Ihnen zu veröffentlichen. Dann wird sich der Absatz der alten Schrift auch noch wieder heben.
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2518">Gustav Ruprecht</persName>
+               <date when="1924-11-10">10.11.1924</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__279">Marburg/Lahn</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="NH" when="2023-07-17">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2024-01-24">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_person_id__1928" type="person">Herrn Professor Dr. P. Tillich</rs>, <rs ref="#tillich_place_id__279" type="place">Marburg/Lahn</rs>.</dateline>
+               <salute>Sehr geehrter Herr!</salute>
+            </opener>
+            <p>Von Besprechungen ist nur eine kürzlich noch eingegangen, die wir Ihnen gleichzeitig unter Kreuzband zusenden. Sie brauchen diese nicht zurückzusenden, da wir das Wichtigste ausgeschrieben haben. – Der Gesamt-Absatz Ihrer <rs ref="#tillich__WLVL28EI" type="work">Schrift</rs> bis zum <date when="1924-07-01">1. Juli d. Js.</date> beträgt 340 Stück. Das ist nicht so viel, wie Sie und wir gehofft hatten, aber der Absatz ist, wenn auch materiell nicht genügend, doch immer ein erfreuliches Zeichen, wie Ihre Schrift geschätzt worden ist, und wir hoffen auch, daß der Absatz noch längere Zeit anhält und schließlich vielleicht sogar die Auflage ausverkauft werden wird. Hoffentlich kommen wir bald einmal in die Lage, etwas Neues von Ihnen zu veröffentlichen. Dann wird sich der Absatz der alten Schrift auch noch wieder heben.
         </p>
-        <closer>
-           <salute>Mit hochachtungsvollem Gruße</salute>
-           <signed>Ihr</signed>
-        </closer>
-     </div>
-    </body>
-  </text>
+            <closer>
+               <salute>Mit hochachtungsvollem Gruße</salute>
+               <signed>Ihr</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

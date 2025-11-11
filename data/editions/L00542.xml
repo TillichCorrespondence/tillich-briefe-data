@@ -1,10 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00542">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Postkarte von Paul Tillich an Maria Klein <lb/>vom 26. Juli 1917 [PS]</title>
-            <author><persName ref="#tillich_person_id__1928">Paul Tillich</persName></author>
+            <author>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </author>
             <respStmt>
                <resp>Editor</resp>
                <name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
@@ -84,21 +86,22 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <salute>L. <rs ref="#tillich_person_id__1594" type="person">M.</rs></salute>
+               <salute>L. <rs ref="#tillich_person_id__1594" type="person">M.</rs>
+               </salute>
             </opener>
-            <p><unclear reason="illegible">¿¿¿</unclear><note type="eb">Es folgen zwei bis vier
+            <p>
+               <unclear reason="illegible">¿¿¿</unclear>
+               <note type="eb">Es folgen zwei bis vier
                   unleserliche, weil durchgestrichene bzw. überschriebene Worte.</note> bitte
-                  d<unclear reason="illegible">¿¿¿(¿)</unclear>ster gegen <unclear cert="high"
-                  reason="illegible" resp="AB">Abend</unclear> an: <hi rend="u"><rs
-                     ref="#tillich_place_id__42" type="place">Lichterfelde</rs> 3244</hi>. Ich kann wahrscheinlich Donnerstag
+                  d<unclear reason="illegible">¿¿¿(¿)</unclear>ster gegen <unclear cert="high" reason="illegible" resp="AB">Abend</unclear> an: <hi rend="u">
+                  <rs ref="#tillich_place_id__42" type="place">Lichterfelde</rs> 3244</hi>. Ich kann wahrscheinlich Donnerstag
                Nachm. 4-5 Kaffee. <unclear>¿¿¿</unclear> mit dir zusammen sein falls du Lust hast.
-               Dienstag hier ab. Freitag ab nach <rs ref="#tillich_place_id__74" type="place"
-                  >Bremen</rs>; Sonntag ab dort!<lb/></p>
+               Dienstag hier ab. Freitag ab nach <rs ref="#tillich_place_id__74" type="place">Bremen</rs>; Sonntag ab dort!<lb/>
+            </p>
             <closer>
-               <salute>Auf Wiedersehen. Gruß an <rs ref="#tillich_person_id__1063" type="person"
-                     >Mutter</rs> und <rs ref="#tillich_person_id__1062" type="person"
-                  >Lisa</rs>!</salute>
-               Dein <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+               <salute>Auf Wiedersehen. Gruß an <rs ref="#tillich_person_id__1063" type="person">Mutter</rs> und <rs ref="#tillich_person_id__1062" type="person">Lisa</rs>!</salute>
+               Dein <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
             </closer>
          </div>
       </body>

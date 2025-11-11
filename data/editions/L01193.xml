@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01193">
    <teiHeader>
       <fileDesc>
@@ -43,7 +43,6 @@
                      Siebeck)</collection>
                   <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
                </msIdentifier>
-
                <physDesc>
                   <p>Brief, maschinenschriftlich; Durchschlag</p>
                </physDesc>
@@ -51,7 +50,7 @@
             <biblStruct type="journal">
                <monogr>
                   <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                  <title>&quot;Beweise einer unsichtbaren Beziehung&quot; Die Korrespondenz zwischen Paul
+                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
                      Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
                   <imprint>
                      <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
@@ -102,13 +101,13 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline><date when="1933-01-17">17. Januar 1933</date>
-               </dateline><salute>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person"
-                     >Herr Professor</rs>,</salute>
+               <dateline>
+                  <date when="1933-01-17">17. Januar 1933</date>
+               </dateline>
+               <salute>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>,</salute>
             </opener>
             <p> es ist zwar sehr schade, dass nach Ihrer <rs ref="L01192" type="letter">letzten Karte</rs> nicht mehr damit zu rechnen
-               ist, dass Ihr <rs ref="#tillich__5J2FGJ3T"
-                  type="work">Vortrag</rs> auf das <rs ref="#tillich_person_id__1275" type="person">Karl
+               ist, dass Ihr <rs ref="#tillich__5J2FGJ3T" type="work">Vortrag</rs> auf das <rs ref="#tillich_person_id__1275" type="person">Karl
                   Marx</rs>-Jubiläum erscheinen kann. Da Sie somit noch keinen Termin nennen können,
                auf den die Drucklegung in Frage kommen kann, kann wohl zunächst offen bleiben, in
                welcher meiner Schriftenreihen Ihr Heft erscheint. Da Sie die letzte Entscheidung
@@ -119,8 +118,10 @@
                <salute>Mit der wiederholten Versicherung, dass mir Ihr Manuskript jederzeit sehr
                   willkommen ist, bin ich mit freundlicher Begrüssung Ihr ganz ergebener</salute>
                <signed>
-                  <rs ref="#tillich_person_id__1780" type="person"><hi rend="hand">Dr. O.
-                        Siebeck</hi></rs>.</signed>
+                  <rs ref="#tillich_person_id__1780" type="person">
+                     <hi rend="hand">Dr. O.
+                        Siebeck</hi>
+                  </rs>.</signed>
             </closer>
          </div>
       </body>

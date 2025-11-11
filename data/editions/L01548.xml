@@ -1,91 +1,98 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01548">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Dietrich Mahnke
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Dietrich Mahnke
                     <lb/>vom 10. Mai 1929
                </title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-    
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-    <msIdentifier>
-        <country>Deutschland</country>
-        <settlement>Marburg</settlement>
-        <institution>Universität Marburg</institution>
-        <repository>Archiv der Universitätsbibliothek Marburg</repository>
-        <collection>Nachlass Dietrich Mahnke</collection>
-        <idno>Ms. 862/1044</idno>
-    </msIdentifier>
-    <physDesc>
-    <p>Brief, maschinenschriftlich.</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<date when="1929-05-10">10.05.1929</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__3994">Dietrich Mahnke</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2025-10-13" who="FS">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-    <opener><dateline><date when="1929-05-10">10. Mai 1929</date></dateline><salute>Sehr verehrter Herr <rs ref="#tillich_person_id__3994" type="person">Kollege</rs>!</salute>
-</opener>
-    <p>Es ist an mich die Bitte gelangt, Sie zu fragen, ob es der philosophischen Fakultät in <rs ref="#tillich_place_id__279" type="place">Marburg</rs> nicht möglich wäre, Herrn Professor <rs ref="#tillich_person_id__1178" type="person">Liebert</rs> zum 25jährigen Jubiläum der Kantgesellschaft, welches zugleich die Feier seines fünfzigsten Geburtstages ist, die Würde eines Ehrendoktors zu verleihen.<note type="ea">Soweit nachvollziehbar, ist die Marburger philosophische Fakultät dieser Anfrage nicht nachgekommen.</note> Da <rs ref="#tillich_person_id__1178" type="person">Liebert</rs> von <rs ref="#tillich_place_id__279" type="place">Marburg</rs> geistig ausgegangen ist und die Kantgesellschaft und die Kantstudien immer ein besonders nahes Verhältnis zu <rs ref="#tillich_place_id__279" type="place">Marburg</rs> gehabt haben, so ist vielleicht die <rs ref="#tillich_place_id__279" type="place">Marburger</rs> Fakultät gewillt, dem Wunsch nachzugeben. Ich persönlich würde es sehr begrüssen. Ich bitte Sie, diese Anfrag<supplied>e</supplied> zu verzeihen.</p>
-    <closer><salute>Mit kollegialem Gruss<lb/>
-    Ihr sehr ergebner<lb/></salute><signed>P. Tillich.</signed></closer>    
-</div>
-</body>
-</text>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement>Marburg</settlement>
+                  <institution>Universität Marburg</institution>
+                  <repository>Archiv der Universitätsbibliothek Marburg</repository>
+                  <collection>Nachlass Dietrich Mahnke</collection>
+                  <idno>Ms. 862/1044</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich.</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1929-05-10">10.05.1929</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__3994">Dietrich Mahnke</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2025-10-13" who="FS">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <date when="1929-05-10">10. Mai 1929</date>
+               </dateline>
+               <salute>Sehr verehrter Herr <rs ref="#tillich_person_id__3994" type="person">Kollege</rs>!</salute>
+            </opener>
+            <p>Es ist an mich die Bitte gelangt, Sie zu fragen, ob es der philosophischen Fakultät in <rs ref="#tillich_place_id__279" type="place">Marburg</rs> nicht möglich wäre, Herrn Professor <rs ref="#tillich_person_id__1178" type="person">Liebert</rs> zum 25jährigen Jubiläum der Kantgesellschaft, welches zugleich die Feier seines fünfzigsten Geburtstages ist, die Würde eines Ehrendoktors zu verleihen.<note type="ea">Soweit nachvollziehbar, ist die Marburger philosophische Fakultät dieser Anfrage nicht nachgekommen.</note> Da <rs ref="#tillich_person_id__1178" type="person">Liebert</rs> von <rs ref="#tillich_place_id__279" type="place">Marburg</rs> geistig ausgegangen ist und die Kantgesellschaft und die Kantstudien immer ein besonders nahes Verhältnis zu <rs ref="#tillich_place_id__279" type="place">Marburg</rs> gehabt haben, so ist vielleicht die <rs ref="#tillich_place_id__279" type="place">Marburger</rs> Fakultät gewillt, dem Wunsch nachzugeben. Ich persönlich würde es sehr begrüssen. Ich bitte Sie, diese Anfrag<supplied>e</supplied> zu verzeihen.</p>
+            <closer>
+               <salute>Mit kollegialem Gruss<lb/>
+    Ihr sehr ergebner<lb/>
+               </salute>
+               <signed>P. Tillich.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

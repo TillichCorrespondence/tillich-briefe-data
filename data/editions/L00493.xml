@@ -1,103 +1,115 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00493">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Paul Tillich an Johannes Tillich <lb/>vom 27. Juni 1916</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Johannes Tillich <lb/>vom 27. Juni 1916</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambdridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bMS 649/193(14)</idno>
-</msIdentifier>
-<physDesc>
-<p>Postkarte nach Berlin weitergeleitet nach Butterfelde, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambdridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/193(14)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte nach Berlin weitergeleitet nach Butterfelde, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<date when="1916-06-27">27.06.1916</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
-<placeName ref="#tillich_place_id__37">Berlin</placeName>
-<placeName ref="#tillich_place_id__358">Butterfelde</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2022-05-19" who="FS">Initiale Auszeichnung des Transkripts</change>
-<change when="2023-12-05" who="GM">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="postcard">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline><hi rend="print">Geschrieben, den</hi> <date when="1916-06-27">27. Juni
-                        <hi rend="print">191</hi>6</date></dateline>
-<salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
-</opener>
-<p>Eben habe ich einen Urlaub vom <date from="1916-07-02" to="1916-07-22">2–22
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1916-06-27">27.06.1916</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <placeName ref="#tillich_place_id__358">Butterfelde</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2022-05-19" who="FS">Initiale Auszeichnung des Transkripts</change>
+         <change when="2023-12-05" who="GM">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <hi rend="print">Geschrieben, den</hi>
+                  <date when="1916-06-27">27. Juni
+                        <hi rend="print">191</hi>6</date>
+               </dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
+            </opener>
+            <p>Eben habe ich einen Urlaub vom <date from="1916-07-02" to="1916-07-22">2–22
                         Juli</date> beantragt, will in <rs ref="#tillich_place_id__189" type="place">Halle</rs> am <date when="1916-07-03">3.</date> die geheime <rs ref="#tillich__J8LRMQ7Y" type="work">Probevorlesung</rs> halten, dann ein
                     Thema zur <rs ref="#tillich__4Y3HCQIG" type="work">Antrittsvorlesung</rs>
-                    bereden und diese am <date when="1916-07-20">20<hi rend="sup">ten</hi></date> in
+                    bereden und diese am <date when="1916-07-20">20<hi rend="sup">ten</hi>
+               </date> in
                         <rs ref="#tillich_place_id__189" type="place">Halle</rs> öffentlich halten.
-                    Ich will in der Zwischenzeit in <rs ref="#tillich_place_id__488" type="place"><hi rend="u">Swinemünde</hi></rs> mit <rs ref="#tillich_person_id__1931" type="person">Greti</rs> sein.<note type="ea">In der <q>Beilage zu Nr. 12 des <q>Swinemünder Bader-Anzeiger[s]</q></q> vom 13. Juli 1916 findet sich unter der Liste <q>der angekommenen Fremden</q> <q>Tillich, Paul, Dr., Privatdozent, mit <rs ref="#tillich_person_id__1931" type="person">Frau</rs>, <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, Seeschloß</q>. <rs ref="#tillich_person_id__1931" type="person">Margarete Tillich</rs> findet sich bereits in Nr. 1 des <q>Swinemünder Bade-Anzeiger[s]</q> vom 07. Juni 1916 unter <q><rs ref="#tillich_person_id__1931" type="person">Tillich, Margarethe</rs>, mit Schwestern, <rs ref="#tillich_place_id__80" type="place">Butterfelde</rs>, Seeschloß</q>. Ob sie dort auf Paul Tillichs Ankunft wartete oder gemeinsam mit ihm erneut anreiste, ist nicht überliefert.</note> <hi rend="u">Bitte teile <rs ref="#tillich_person_id__1931" type="person">Greti</rs> mit, wann und wo Du mich sehen willst</hi>. Ich gebe dann
+                    Ich will in der Zwischenzeit in <rs ref="#tillich_place_id__488" type="place">
+                  <hi rend="u">Swinemünde</hi>
+               </rs> mit <rs ref="#tillich_person_id__1931" type="person">Greti</rs> sein.<note type="ea">In der <q>Beilage zu Nr. 12 des <q>Swinemünder Bader-Anzeiger[s]</q>
+                  </q> vom 13. Juli 1916 findet sich unter der Liste <q>der angekommenen Fremden</q>
+                  <q>Tillich, Paul, Dr., Privatdozent, mit <rs ref="#tillich_person_id__1931" type="person">Frau</rs>, <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, Seeschloß</q>. <rs ref="#tillich_person_id__1931" type="person">Margarete Tillich</rs> findet sich bereits in Nr. 1 des <q>Swinemünder Bade-Anzeiger[s]</q> vom 07. Juni 1916 unter <q>
+                     <rs ref="#tillich_person_id__1931" type="person">Tillich, Margarethe</rs>, mit Schwestern, <rs ref="#tillich_place_id__80" type="place">Butterfelde</rs>, Seeschloß</q>. Ob sie dort auf Paul Tillichs Ankunft wartete oder gemeinsam mit ihm erneut anreiste, ist nicht überliefert.</note>
+               <hi rend="u">Bitte teile <rs ref="#tillich_person_id__1931" type="person">Greti</rs> mit, wann und wo Du mich sehen willst</hi>. Ich gebe dann
                     sofort Nachricht, wenn ich in <rs ref="#tillich_place_id__189" type="place">Halle</rs> bin. Nachricht hierher hat keinen Zweck mehr.</p>
-<closer>
-<salute>Auf Wiedersehen.</salute> Dein <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed></closer>
-</div>
-</body>
-</text>
+            <closer>
+               <salute>Auf Wiedersehen.</salute> Dein <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

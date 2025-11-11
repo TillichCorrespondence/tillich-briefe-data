@@ -1,109 +1,99 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00604">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Lotte Salz an Paul Tillich <lb/>vom 7. Mai 1919</title>
-<author ref="#tillich_person_id__1679">Lotte Salz</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
- <country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bMS 649/181(20)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1679">Lotte Salz</persName>
-<date when="1919-05-07">07.05.1919</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession" resp="#tillich_person_id__1679">
-<pb n="1"/>
-
-<opener>
-
-<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
-
-</opener>
-
-<p>Aus einem <rs type="work" ref="#tillich_work_id__V38L6822">Kolleg: Kirche u. Staat</rs> von <rs ref="#tillich_person_id__3589" type="person">v.d. Goltz</rs>: Wir haben daher die richtige Anschauung, daß im <hi rend="u">Religions</hi> unterricht nicht gehauen<unclear reason="illegible">¿¿¿</unclear> wird.</p>
-
-<p>U<unclear reason="illegible">¿¿</unclear>, über Euch Theologen! U<unclear reason="illegible">¿¿</unclear>, über das arme deutsche Volk, dem auf diese Weise Priester u. Lehrer erzogen werden!</p>
-
-<p>Ein anderes Zitat: Denn eine Neuordnung zwischen Kirche u. Staat <hi rend="u">muß</hi> kommen. Denn ich als evang. Christ kann in meiner Überzeugung unmöglich so von <rs ref="#tillich_person_id__3590" type="person">Herrn Hänisch</rs> abhängen wollen wie von meinem König.<pb n="2"/></p>
-
-<p>Die Menschen sind keine Engel, sondern Egoisten u. man kann 10000 Egoisten nicht verhindern, Warenhäuser zu plündern etc. außer mit Gewalt!</p>
-
-<p>Es tut gut, in solche Kollegs zu gehen. Mein Sozialismus erfährt eine erhebliche Stärkung.</p>
-
-<p>Ihr armen sozialistischen Theologen! Was für Mauern von Hemmungen habt Ihr überwinden müssen, die Ihr jahrelang in diesem Sinne gedrillt wurdet!</p>
-
-<closer>
-
-<salute>Es kautet Gottlob. Leb wohl, ich grüße Dich!</salute>
-
-<signed><rs ref="#tillich_person_id__1679" type="person">L.S.</rs></signed>
-
-</closer>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Lotte Salz an Paul Tillich <lb/>vom 7. Mai 1919</title>
+            <author ref="#tillich_person_id__1679">Lotte Salz</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/181(20)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1679">Lotte Salz</persName>
+               <date when="1919-05-07">07.05.1919</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession" resp="#tillich_person_id__1679">
+            <pb n="1"/>
+            <opener>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
+            </opener>
+            <p>Aus einem <rs type="work" ref="#tillich_work_id__V38L6822">Kolleg: Kirche u. Staat</rs> von <rs ref="#tillich_person_id__3589" type="person">v.d. Goltz</rs>: Wir haben daher die richtige Anschauung, daß im <hi rend="u">Religions</hi> unterricht nicht gehauen<unclear reason="illegible">¿¿¿</unclear> wird.</p>
+            <p>U<unclear reason="illegible">¿¿</unclear>, über Euch Theologen! U<unclear reason="illegible">¿¿</unclear>, über das arme deutsche Volk, dem auf diese Weise Priester u. Lehrer erzogen werden!</p>
+            <p>Ein anderes Zitat: Denn eine Neuordnung zwischen Kirche u. Staat <hi rend="u">muß</hi> kommen. Denn ich als evang. Christ kann in meiner Überzeugung unmöglich so von <rs ref="#tillich_person_id__3590" type="person">Herrn Hänisch</rs> abhängen wollen wie von meinem König.<pb n="2"/>
+            </p>
+            <p>Die Menschen sind keine Engel, sondern Egoisten u. man kann 10000 Egoisten nicht verhindern, Warenhäuser zu plündern etc. außer mit Gewalt!</p>
+            <p>Es tut gut, in solche Kollegs zu gehen. Mein Sozialismus erfährt eine erhebliche Stärkung.</p>
+            <p>Ihr armen sozialistischen Theologen! Was für Mauern von Hemmungen habt Ihr überwinden müssen, die Ihr jahrelang in diesem Sinne gedrillt wurdet!</p>
+            <closer>
+               <salute>Es kautet Gottlob. Leb wohl, ich grüße Dich!</salute>
+               <signed>
+                  <rs ref="#tillich_person_id__1679" type="person">L.S.</rs>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

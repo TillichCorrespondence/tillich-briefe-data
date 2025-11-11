@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00815">
    <teiHeader>
       <fileDesc>
@@ -52,7 +52,8 @@
                            <author>Friedrich Wilhelm Graf</author>
                            <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
                            <imprint>
-                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
                               <date when="2020">2020</date>
                               <biblScope>S. 27–170, hier: 140f.</biblScope>
                            </imprint>
@@ -98,7 +99,6 @@
          <change when="2024-01-17" who="AA">XML Datei generiert von Metadata (2)</change>
          <change when="2024-01-18" who="AR">Initiale Auszeichnung des Transkripts (2)</change>
          <change when="2024-04-10" who="FS">Zusammenführung der beiden vorliegenden Versionen</change>
-         
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -106,7 +106,8 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline><rs ref="#tillich_person_id__1928" type="person">Herrn Privatdozent Dr. P.
+               <dateline>
+                  <rs ref="#tillich_person_id__1928" type="person">Herrn Privatdozent Dr. P.
                      Tillich</rs>, <rs ref="#tillich_place_id__37" type="place">Friedenau</rs>.</dateline>
                <salute>Hochgeehrter <rs ref="#tillich_person_id__1928" type="person">Herr
                      Doktor</rs>!</salute>

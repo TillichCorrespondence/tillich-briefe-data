@@ -1,110 +1,113 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00913">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich und Malla Jessen an Hannah Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich und Malla Jessen an Hannah Tillich
                     <lb/>vom 27. September 1926
 </title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement>Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Hannah. Papers, 1896-1976</collection>
-<idno>bMS 721/2(23)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, von zweierlei Hand (<rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs> und <rs ref="#tillich_person_id__2437" type="person">Malla Jessen</rs>)</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__343">Paris</placeName>
-<date when="1926-09-27">27.09.1926</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-06-07" who="FS">Initiale Auszeichnung des Transkripts</change>
-<change when="2023-12-18" who="FS">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div n="1" type="hand">
-<pb n="1"/>
-<opener>
-                <salute>Liebe <rs ref="#tillich_person_id__1923" type="person">Hanna</rs>,<note type="ea">Dieser Abschnitt stammt von <rs ref="#tillich_person_id__2437" type="person">Malla Jessen</rs>.</note><note type="ea">Das Briefmanuskript ist undatiert. Die hier vorgenommene Datierung kann durch den Kontext erschlossen werden.</note></salute>
-</opener>
-                <p>ich bin sehr traurig, daß Du nicht auch in <rs ref="#tillich_place_id__343" type="place">Paris</rs> bist; es ist <hi rend="uu">so</hi> schön in einer Stadt zu sein, an deren Wiege ein ganz besonders begabter Gott Pate gestanden haben muß. Aber ich hoffe, daß wir Dir durch Einkäufe wenigstens ein <sic>bischen</sic> mitbringen können. Bin sehr neugierig, was Du sagen wirst, hab mir große Mühe gegeben, <hi rend="u">Dich</hi> zu denken, Dich vorzustellen. Aber nächstes Mal muß <rs ref="#tillich_person_id__570" type="person">das Kind</rs> eingepackt und mitgenommen werden.
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement>Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                  <idno>bMS 721/2(23)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, von zweierlei Hand (<rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs> und <rs ref="#tillich_person_id__2437" type="person">Malla Jessen</rs>)</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__343">Paris</placeName>
+               <date when="1926-09-27">27.09.1926</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-06-07" who="FS">Initiale Auszeichnung des Transkripts</change>
+         <change when="2023-12-18" who="FS">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div n="1" type="hand">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebe <rs ref="#tillich_person_id__1923" type="person">Hanna</rs>,<note type="ea">Dieser Abschnitt stammt von <rs ref="#tillich_person_id__2437" type="person">Malla Jessen</rs>.</note>
+                  <note type="ea">Das Briefmanuskript ist undatiert. Die hier vorgenommene Datierung kann durch den Kontext erschlossen werden.</note>
+               </salute>
+            </opener>
+            <p>ich bin sehr traurig, daß Du nicht auch in <rs ref="#tillich_place_id__343" type="place">Paris</rs> bist; es ist <hi rend="uu">so</hi> schön in einer Stadt zu sein, an deren Wiege ein ganz besonders begabter Gott Pate gestanden haben muß. Aber ich hoffe, daß wir Dir durch Einkäufe wenigstens ein <sic>bischen</sic> mitbringen können. Bin sehr neugierig, was Du sagen wirst, hab mir große Mühe gegeben, <hi rend="u">Dich</hi> zu denken, Dich vorzustellen. Aber nächstes Mal muß <rs ref="#tillich_person_id__570" type="person">das Kind</rs> eingepackt und mitgenommen werden.
                 </p>
-<closer>
-<salute>Beiden, Mutter wie <rs ref="#tillich_person_id__570" type="person">Kind</rs>, die herzlichsten Grüße von</salute>
-<signed><rs ref="#tillich_person_id__2437" type="person">Malla</rs> –</signed>
-</closer>
-</div>
-<div n="2" type="hand">
-
-<opener>
-                <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!<note type="ea">Dieser Abschnitt stammt von <rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs>.</note></salute>
-</opener>
-<p>Eben auch den Anzug gekauft, zweireihig, sehr angenehmes Grau 65M. Ich bin auch damit zufrieden, sehr sogar. Hier hat <rs ref="#tillich_person_id__1887" type="person">Eckart</rs> entscheidend mitgewirkt. Er fährt<pb n="2"/> heut Abend ab.</p>
-<p>Wenn Du noch irgendwie 50M mobil machen kannst, so tue es und schicke sie sofort eingeschrieben. Ich kann dann noch einiges Andere kaufen. Der Mantel ist doch besser als ich dachte. Wenn Du noch das Geld schickst, könnten wir noch einen besseren Pelzbesatz dazu nehmen. – Stoffe mitzubringen ist wegen des Zolls nicht praktisch.</p>
-<p>Nun noch eine Woche, dann ist <rs ref="#tillich_place_id__343" type="place">Paris</rs> zu Ende und dann sind Du und <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> da.
+            <closer>
+               <salute>Beiden, Mutter wie <rs ref="#tillich_person_id__570" type="person">Kind</rs>, die herzlichsten Grüße von</salute>
+               <signed>
+                  <rs ref="#tillich_person_id__2437" type="person">Malla</rs> –</signed>
+            </closer>
+         </div>
+         <div n="2" type="hand">
+            <opener>
+               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!<note type="ea">Dieser Abschnitt stammt von <rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs>.</note>
+               </salute>
+            </opener>
+            <p>Eben auch den Anzug gekauft, zweireihig, sehr angenehmes Grau 65M. Ich bin auch damit zufrieden, sehr sogar. Hier hat <rs ref="#tillich_person_id__1887" type="person">Eckart</rs> entscheidend mitgewirkt. Er fährt<pb n="2"/> heut Abend ab.</p>
+            <p>Wenn Du noch irgendwie 50M mobil machen kannst, so tue es und schicke sie sofort eingeschrieben. Ich kann dann noch einiges Andere kaufen. Der Mantel ist doch besser als ich dachte. Wenn Du noch das Geld schickst, könnten wir noch einen besseren Pelzbesatz dazu nehmen. – Stoffe mitzubringen ist wegen des Zolls nicht praktisch.</p>
+            <p>Nun noch eine Woche, dann ist <rs ref="#tillich_place_id__343" type="place">Paris</rs> zu Ende und dann sind Du und <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> da.
 </p>
-<closer>
-                <salute>Leb wohl süße <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>! Ich komme bald – zu Dir, nur zu Dir!<lb/>
+            <closer>
+               <salute>Leb wohl süße <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>! Ich komme bald – zu Dir, nur zu Dir!<lb/>
 Dein Mann</salute>
-</closer>
-</div>
-</body>
-</text>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

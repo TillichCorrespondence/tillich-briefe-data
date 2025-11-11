@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01065">
    <teiHeader>
       <fileDesc>
@@ -51,7 +51,7 @@
             <biblStruct type="journal">
                <monogr>
                   <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                  <title>&quot;Beweise einer unsichtbaren Beziehung&quot; Die Korrespondenz zwischen Paul
+                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
                      Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
                   <imprint>
                      <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
@@ -101,7 +101,9 @@
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <dateline><rs ref="#tillich_place_id__220" type="place">Sorrento Italia</rs>, d. <date when="1930-03-29">29.3.30</date></dateline>
+            <dateline>
+               <rs ref="#tillich_place_id__220" type="place">Sorrento Italia</rs>, d. <date when="1930-03-29">29.3.30</date>
+            </dateline>
             <opener>
                <salute>An den Verlag Mohr<lb/>
                   in Sachen <rs type="work" ref="#tillich__NY5UZ9CG">R.G.G.</rs>
@@ -116,7 +118,8 @@
                nachgeschickt werden.</p>
             <closer>
                <salute>Ihr sehr ergebener</salute>
-               <signed><rs ref="#tillich_person_id__1928" type="person">Prof. D. P.
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Prof. D. P.
                   Tillich</rs>.</signed>
             </closer>
          </div>

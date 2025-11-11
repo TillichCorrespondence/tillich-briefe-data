@@ -1,148 +1,139 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00120">
-               <teiHeader>
-                              <fileDesc>
-                                             <titleStmt>
-                                                  <title>Brief von Hermann Schafft an Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Hermann Schafft an Paul Tillich
                                                   <lb/>vom 26. August 1906</title>
-                                                  <author ref="#tillich_person_id__1696">Hermann
+            <author ref="#tillich_person_id__1696">Hermann
                                                   Schafft</author>
-                                                  <respStmt>
-                                                  <resp>Editor</resp>
-                                                  <name key="https://orcid.org/0009-0003-9642-5125"
-                                                  >Paul Schömann</name>
-                                                  </respStmt>
-                                             </titleStmt>
-                                             <editionStmt>
-                                                  <edition>
-                                                  <title type="editionstitel">Edition der
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der
                                                   Korrespondenz von Paul Tillich 1887-1933</title>
-                                                  </edition>
-                                             </editionStmt>
-                                             <publicationStmt>
-                                                  <publisher>
-                                                  <name>Institut für Systematische Theologie und
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und
                                                   Religionswissenschaft</name>
-                                                  <address>
-                                                  <street>Schenkenstraße 8-10</street>
-                                                  <postCode>1010</postCode>
-                                                  <placeName ref="#tillich_place_id__470">
-                                                  <settlement>Wien</settlement>
-                                                  <country>Österreich</country>
-                                                  </placeName>
-                                                  </address>
-                                                  </publisher>
-                                                  <availability>
-                                                  <licence
-                                                  target="http://creativecommons.org/licenses/by-sa/4.0/"
-                                                  >Creative Commons Attribution 4.0 International
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International
                                                   (CC BY 4.0)</licence>
-                                                  </availability>
-                                             </publicationStmt>
-                                             <sourceDesc>
-                                                  <msDesc type="manuscript">
-                                                  <msIdentifier>
-                                                  <country>Deutschland</country>
-                                                  <settlement ref="#tillich_place_id__279"
-                                                  >Marburg</settlement>
-                                                  <institution>Philipps-Universität
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
+                  <institution>Philipps-Universität
                                                   Marburg</institution>
-                                                  <repository>Deutsches
+                  <repository>Deutsches
                                                   Paul-Tillich-Archiv</repository>
-                                                  <idno>008G</idno>
-                                                  </msIdentifier>
-                                                  <physDesc>
-                                                  <p>Brief, eigenhändig</p>
-                                                  </physDesc>
-                                                  </msDesc>
-                                             </sourceDesc>
-                              </fileDesc>
-                              <encodingDesc>
-                                             <projectDesc>
-                                                  <p>online-Edition: Edition der Korrespondenz von
+                  <idno>008G</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von
                                                   Paul Tillich 1887-1933.</p>
-                                             </projectDesc>
-                                             <editorialDecl>
-                                                  <p>Die Ausgabe folgt folgenden Editorischen
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen
                                                   Richtlinien des DTA-Basisformats. Vgl.
                                                   https://www.deutschestextarchiv.de/doku/basisformat/</p>
-                                             </editorialDecl>
-                              </encodingDesc>
-                              <profileDesc>
-                                             <correspDesc>
-                                                  <correspAction type="sent">
-                                                  <persName ref="#tillich_person_id__1696">Hermann
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1696">Hermann
                                                   Schafft</persName>
-                                                  <date when="1906-08-26">26.08.1906</date>
-                                                  </correspAction>
-                                                  <correspAction type="received">
-                                                  <persName ref="#tillich_person_id__1928">Paul
+               <date when="1906-08-26">26.08.1906</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul
                                                   Tillich</persName>
-                                                  </correspAction>
-                                             </correspDesc>
-                                             <langUsage>
-                                                  <language ident="deu">Deutsch</language>
-                                             </langUsage>
-                              </profileDesc>
-                              <revisionDesc status="approved">
-                                             <change when="2023-03-06" who="PS">Initiale
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-03-06" who="PS">Initiale
                                                   Auszeichnung des Transkripts</change>
-                                             <change when="2024-02-01" who="NH"
-                                                  >Vorbereitung/Korrektur für die
+         <change when="2024-02-01" who="NH">Vorbereitung/Korrektur für die
                                                   Endabnahme</change>
-                                             <change when="2024-02-07" who="EL">Endabnahme</change>
-                              </revisionDesc>
-               </teiHeader>
-               <text type="letter">
-                              <body>
-                                             <div type="writingSession">
-                                                  <pb n="1"/>
-                                                  <opener>
-                                                  <dateline><date when="1906-08-26">26.
-                                                  VIII.</date></dateline>
-                                                  <salute>So mein <rs ref="#tillich_person_id__1928"
-                                                  type="person">Paulchen</rs>!</salute>
-                                                  </opener>
-                                                  <p>Dazu bemerke ich noch folgendes:</p>
-                                                  <p>1) Der Termin war auf den <date
-                                                  when="1906-08-27">27. VIII</date> angegeben.</p>
-                                                  <p>2) Die Arbeit ist ein hundsgemeines Elaborat,
+         <change when="2024-02-07" who="EL">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <date when="1906-08-26">26.
+                                                  VIII.</date>
+               </dateline>
+               <salute>So mein <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+            </opener>
+            <p>Dazu bemerke ich noch folgendes:</p>
+            <p>1) Der Termin war auf den <date when="1906-08-27">27. VIII</date> angegeben.</p>
+            <p>2) Die Arbeit ist ein hundsgemeines Elaborat,
                                                   deren Dasein meinen Lebensweg verdunkelt – Du hast
                                                   die Aufgabe auf Orthografie u. Logik Einkehr zu
                                                   halten. Ich weiß z. B. einen groben Schlußfehler
-                                                  bei Gelegenheit des <foreign xml:lang="grc"
-                                                  >νους</foreign> begriffs. –</p>
-                                                  <p>3) Dein <rs ref="#tillich_person_id__1924"
-                                                  type="person">Vater</rs> darf sie mit keinem Auge
+                                                  bei Gelegenheit des <foreign xml:lang="grc">νους</foreign> begriffs. –</p>
+            <p>3) Dein <rs ref="#tillich_person_id__1924" type="person">Vater</rs> darf sie mit keinem Auge
                                                   sehen oder ein Wort von ihrer Existenz
                                                   hören...</p>
-                                                  <p>4) Die Historiografie zur gleichen<pb n="2"/>
+            <p>4) Die Historiografie zur gleichen<pb n="2"/>
                                                   Durchsicht.</p>
-                                                  <p>5) ohne das Schweigegebot deinem <rs
-                                                  ref="#tillich_person_id__1924" type="person"
-                                                  >Vater</rs> gegenüber.</p>
-                                                  <p>6) Die Fingerabdrücke möglichst unsichtbar
+            <p>5) ohne das Schweigegebot deinem <rs ref="#tillich_person_id__1924" type="person">Vater</rs> gegenüber.</p>
+            <p>6) Die Fingerabdrücke möglichst unsichtbar
                                                   gestalten.</p>
-                                                  <p>7) Schämen sollst Du Dich, daß Du – obschon Du
+            <p>7) Schämen sollst Du Dich, daß Du – obschon Du
                                                   mir den ersten Brief versprachst nicht
                                                   antwortetest auf meinen langen Brief!!</p>
-                                                  <p>Im übrigen, also schreibe schnell. Was von
+            <p>Im übrigen, also schreibe schnell. Was von
                                                   <unclear>lieb. Bodern</unclear> gehört?</p>
-                                                  <closer>
-                                                  <salute>Ein kleinwenig über Dich zürnend wegen
+            <closer>
+               <salute>Ein kleinwenig über Dich zürnend wegen
                                                   Schreibfaulheit</salute>
-                                                  <signed>Dein <rs ref="#tillich_person_id__1696"
-                                                  type="person">Hermann</rs></signed>
-                                                  </closer>
-                                                  <postscript>
-                                                  <p>PS 8) Die Historiographie muß gar bald zurück
+               <signed>Dein <rs ref="#tillich_person_id__1696" type="person">Hermann</rs>
+               </signed>
+            </closer>
+            <postscript>
+               <p>PS 8) Die Historiographie muß gar bald zurück
                                                   sein – z. 3. IX.</p>
-                                                  <p>9) Über die Arbeit wünsche ich natürlich eine
+               <p>9) Über die Arbeit wünsche ich natürlich eine
                                                   <del rend="s">auch</del>
-                                                  <hi rend="sup">in</hi> die Tiefe gehende
+                  <hi rend="sup">in</hi> die Tiefe gehende
                                                   Kritik. –</p>
-                                                  </postscript>
-                                             </div>
-                              </body>
-               </text>
+            </postscript>
+         </div>
+      </body>
+   </text>
 </TEI>

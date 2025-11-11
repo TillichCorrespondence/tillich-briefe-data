@@ -1,101 +1,95 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00651">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Margarete Tillich an Paul Tillich <lb/>vom 5. Januar 1920</title>
-<author ref="#tillich_person_id__1931">Margarete Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
- <country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bMS 649/209(13)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1931">Margarete Tillich</persName>
-<placeName ref="#tillich_place_id__37">Berlin</placeName>
-<date when="1920-01-05">05.01.1920</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession" resp="#tillich_person_id__1931">
-<pb n="1"/>
-<opener>
-
-<dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>, d. <date when="1920-01-05">5.1.20.</date></dateline>
-
-<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paulus</rs>!</salute>
-
-</opener>
-
-<p>Ich kann doch nicht schlafen gehen heute, als den letzten Tag unsres Beisammenseins, als Dir innig zu danken für das, was Du daran getan hast, die Tage schön zu gestalten. Es war fast eine ununterbrochne Folge von Harmonie, und wenn sie unterbrochen war, lag es an meinem Unvermögen und nicht an Deiner Hingabe für diese Idee. Ich bin sehr glücklich in der Erinnerung und hoffe, Du bist es auch.</p>
-
-<p>Der graue Tag hat mich hier wieder mit seinen Armen umfangen und ich bin noch recht wiederstrebend gegen seine Liebe, sie erscheint mir doch recht arm bis jetzt. Aber vielleicht bin ich doch etwas übermüdet, deshalb schön gute Nacht, lieber Bruder und Freund von</p>
-
-<closer>
-
-<signed>Deiner <rs ref="#tillich_person_id__1931" type="person">Grethe</rs>.</signed>
-
-</closer>
-</div>
-</body>
-</text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Margarete Tillich an Paul Tillich <lb/>vom 5. Januar 1920</title>
+            <author ref="#tillich_person_id__1931">Margarete Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/209(13)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1931">Margarete Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1920-01-05">05.01.1920</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession" resp="#tillich_person_id__1931">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, d. <date when="1920-01-05">5.1.20.</date>
+               </dateline>
+               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paulus</rs>!</salute>
+            </opener>
+            <p>Ich kann doch nicht schlafen gehen heute, als den letzten Tag unsres Beisammenseins, als Dir innig zu danken für das, was Du daran getan hast, die Tage schön zu gestalten. Es war fast eine ununterbrochne Folge von Harmonie, und wenn sie unterbrochen war, lag es an meinem Unvermögen und nicht an Deiner Hingabe für diese Idee. Ich bin sehr glücklich in der Erinnerung und hoffe, Du bist es auch.</p>
+            <p>Der graue Tag hat mich hier wieder mit seinen Armen umfangen und ich bin noch recht wiederstrebend gegen seine Liebe, sie erscheint mir doch recht arm bis jetzt. Aber vielleicht bin ich doch etwas übermüdet, deshalb schön gute Nacht, lieber Bruder und Freund von</p>
+            <closer>
+               <signed>Deiner <rs ref="#tillich_person_id__1931" type="person">Grethe</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00996">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Brief von Paul Tillich an Erich Seeberg 
@@ -31,7 +31,7 @@
             </publisher>
             <availability>
                <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc type="manuscript">
@@ -44,15 +44,16 @@
                </msIdentifier>
                <physDesc>
                   <p>Brief, eigenhändig</p>
-                  </physDesc>
-               <additional> 
+               </physDesc>
+               <additional>
                   <listBibl>
                      <biblStruct type="journal" n="firstPrint">
                         <monogr>
                            <author>Erdmann Sturm</author>
-                           <title>&quot;Vielleicht kommen wir nun doch zu einer gemeinsamen Arbeit in Berlin&quot;. Paul Tillichs Briefe an Reinhold und Erich Seeberg (1924–1935)</title>
+                           <title>"Vielleicht kommen wir nun doch zu einer gemeinsamen Arbeit in Berlin". Paul Tillichs Briefe an Reinhold und Erich Seeberg (1924–1935)</title>
                            <imprint>
-                              <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace><pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+                              <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
                               <date when="2012">2012</date>
                               <biblScope>211–253, hier: 235f.</biblScope>
                            </imprint>
@@ -61,58 +62,62 @@
                            <title>International Yearbook for Tillich Research</title>
                            <biblScope>Bd. 7, H. 1</biblScope>
                         </series>
-                     </biblStruct>  
+                     </biblStruct>
                   </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__126">Dresden</placeName>
-              <date when="1928-12-06">06.12.1928</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1760">Erich Seeberg</persName>
-           </correspAction>
-        </correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="FS" when="2023-08-16">Initiale Auszeichnung des Transkripts</change>
-        <change who="FS" when="2024-01-10">Endabnahme</change>
-        
-       
-     </revisionDesc>
-  </teiHeader>
-  <text type="letter">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <dateline><rs ref="#tillich_place_id__126" type="place">Dresden</rs>, d. <date when="1928-12-06">6. 12. 28</date> Elisenstr. 11<note type="eb">Erklärende Anmerkungen zu vorliegendem Brief wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note></dateline>
-           <salute>Lieber Herr <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs>!</salute>
-        </opener>
-        <p>Haben Sie sehr herzlichen Dank für Ihren Brief<note type="ea">Dieser Brief liegt nicht vor.</note>, der mir außerordentlich wertvoll ist. Die Mitteilungen des <rs ref="#tillich_person_id__169" type="person">Ministers</rs> an <rs ref="#tillich_person_id__1965" type="person">Dr. Ulich</rs> konnte ich nicht anders verstehen, als dass er selbst innerlich entschieden ist und zwar auf Grund einer so principiellen Ablehnung des <abbr>E.<expan>vangelischen</expan> O.<expan>ber</expan> K.<expan>irchenrats</expan></abbr>, dass nur noch ein Übergang in die Philosophische Fakultät übrig bleibt, wenn ich <rs ref="#tillich_place_id__126" type="place">Dresden</rs> überhaupt verlassen will. Dass mein <q>Daimonion</q> unbedingt für die Theologie steht, wissen Sie ja. Ich würde mit demselben Bruch wie <rs ref="#tillich_person_id__1954" type="person">Tröltsch</rs> zur Philosophie übergehen. Aber ich würde es tun, wenn es keinen andern Weg gäbe, in eine mir angemessenere Situation zu kommen. – – – Nun scheinen die Dinge hier doch anders zu liegen. Gleichzeitig mit Ihrem Brief erhielt ich einen<note type="ea">Dieser Brief liegt nicht vor.</note> von meinem <rs ref="#tillich_person_id__1924" type="person">Vater</rs>, der im Kirchensenat<note type="ea">Die Leitung der Ev. Kirche der Altpreußischen Union, die bis 1918 beim preußischen Monarchen gelegen hatte, war gemäß der Verfassung von 1922 auf den Kirchensenat übergegangen. Dieser setzte sich aus Trägern des synodalen, konsistorialen und geistlichen Amtes zusammen. Tilichs Vater war als Geheimer Konsistorialrat Mitglied des Kirchensenats.</note> mit <rs ref="#tillich_person_id__2487" type="person">Sellin</rs> gesprochen hat. Dabei hat sich <rs ref="#tillich_person_id__2487" type="person">Sellin</rs> sehr freundlich geäußert und zum Ausdruck gebracht, dass weder er noch der <abbr>E.<expan>vangelische</expan> O.<expan>ber</expan> K.<expan>irchenrat</expan></abbr> gegen mich <hi rend="u">an sich</hi> Stellung nehmen, sondern nur für <hi rend="u">diese Stelle</hi>, dass sie es im Gegenteil bedauern würden, wenn ich den Weg von <rs ref="#tillich_person_id__1954" type="person">Tröltsch</rs> ginge. Vielleicht wäre es nicht unwichtig, wenn <rs ref="#tillich_person_id__1602" type="person">Richter</rs> diese grundsätzliche Haltung der Herren erführe. – Dann noch eins: <rs ref="#tillich_person_id__1965" type="person">Ulich</rs> meinte (und auch mein <rs ref="#tillich_person_id__1924" type="person">Vater</rs>), dass der Widerstand der Kirche sich sehr stark auf die Prüfung bezöge, die wohl grundsätzlich den Ordinarien zusteht. Von dieser Sorge könnte man den <abbr>E.<expan>vangelischen</expan> O.<expan>ber</expan> K.<expan>irchenrat</expan></abbr> ja durch eine vorläufige Abmachung befreien. Aber ich übersehe die Dinge nicht.
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__126">Dresden</placeName>
+               <date when="1928-12-06">06.12.1928</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1760">Erich Seeberg</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="FS" when="2023-08-16">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2024-01-10">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__126" type="place">Dresden</rs>, d. <date when="1928-12-06">6. 12. 28</date> Elisenstr. 11<note type="eb">Erklärende Anmerkungen zu vorliegendem Brief wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note>
+               </dateline>
+               <salute>Lieber Herr <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs>!</salute>
+            </opener>
+            <p>Haben Sie sehr herzlichen Dank für Ihren Brief<note type="ea">Dieser Brief liegt nicht vor.</note>, der mir außerordentlich wertvoll ist. Die Mitteilungen des <rs ref="#tillich_person_id__169" type="person">Ministers</rs> an <rs ref="#tillich_person_id__1965" type="person">Dr. Ulich</rs> konnte ich nicht anders verstehen, als dass er selbst innerlich entschieden ist und zwar auf Grund einer so principiellen Ablehnung des <abbr>E.<expan>vangelischen</expan> O.<expan>ber</expan> K.<expan>irchenrats</expan>
+               </abbr>, dass nur noch ein Übergang in die Philosophische Fakultät übrig bleibt, wenn ich <rs ref="#tillich_place_id__126" type="place">Dresden</rs> überhaupt verlassen will. Dass mein <q>Daimonion</q> unbedingt für die Theologie steht, wissen Sie ja. Ich würde mit demselben Bruch wie <rs ref="#tillich_person_id__1954" type="person">Tröltsch</rs> zur Philosophie übergehen. Aber ich würde es tun, wenn es keinen andern Weg gäbe, in eine mir angemessenere Situation zu kommen. – – – Nun scheinen die Dinge hier doch anders zu liegen. Gleichzeitig mit Ihrem Brief erhielt ich einen<note type="ea">Dieser Brief liegt nicht vor.</note> von meinem <rs ref="#tillich_person_id__1924" type="person">Vater</rs>, der im Kirchensenat<note type="ea">Die Leitung der Ev. Kirche der Altpreußischen Union, die bis 1918 beim preußischen Monarchen gelegen hatte, war gemäß der Verfassung von 1922 auf den Kirchensenat übergegangen. Dieser setzte sich aus Trägern des synodalen, konsistorialen und geistlichen Amtes zusammen. Tilichs Vater war als Geheimer Konsistorialrat Mitglied des Kirchensenats.</note> mit <rs ref="#tillich_person_id__2487" type="person">Sellin</rs> gesprochen hat. Dabei hat sich <rs ref="#tillich_person_id__2487" type="person">Sellin</rs> sehr freundlich geäußert und zum Ausdruck gebracht, dass weder er noch der <abbr>E.<expan>vangelische</expan> O.<expan>ber</expan> K.<expan>irchenrat</expan>
+               </abbr> gegen mich <hi rend="u">an sich</hi> Stellung nehmen, sondern nur für <hi rend="u">diese Stelle</hi>, dass sie es im Gegenteil bedauern würden, wenn ich den Weg von <rs ref="#tillich_person_id__1954" type="person">Tröltsch</rs> ginge. Vielleicht wäre es nicht unwichtig, wenn <rs ref="#tillich_person_id__1602" type="person">Richter</rs> diese grundsätzliche Haltung der Herren erführe. – Dann noch eins: <rs ref="#tillich_person_id__1965" type="person">Ulich</rs> meinte (und auch mein <rs ref="#tillich_person_id__1924" type="person">Vater</rs>), dass der Widerstand der Kirche sich sehr stark auf die Prüfung bezöge, die wohl grundsätzlich den Ordinarien zusteht. Von dieser Sorge könnte man den <abbr>E.<expan>vangelischen</expan> O.<expan>ber</expan> K.<expan>irchenrat</expan>
+               </abbr> ja durch eine vorläufige Abmachung befreien. Aber ich übersehe die Dinge nicht.
 </p>
-        <closer>Spätestens nach Weihnachten werde ich in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> sein und bei Ihnen anrufen. Ich wünsche Ihnen schöne Weihnachtstage!
+            <closer>Spätestens nach Weihnachten werde ich in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> sein und bei Ihnen anrufen. Ich wünsche Ihnen schöne Weihnachtstage!
            <salute>Mit herzlichem Gruß und Dank<lb/>
 Ihr</salute>
-           <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
-        </closer>  
-     </div>
-    </body>
-  </text>
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

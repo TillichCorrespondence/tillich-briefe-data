@@ -1,107 +1,109 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00775">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Wilhelm Ruprecht an Paul Tillich <lb/>vom 19. Januar 1923</title>
-<author ref="#tillich_person_id__2569">Wilhelm Ruprecht</author>
-<respStmt>
-<resp>Editor</resp>
-<name>Anna Rüther</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__37">Berlin</settlement>
-<institution>Stiftung Preußischer Kulturbesitz</institution>
-<repository>Staatsbibliothek zu Berlin</repository>
-<collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
-<idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
-</msIdentifier>
-<physDesc>
-<p>Briefdurchschlag, maschinenschriftlich</p>
-</physDesc>
-   <additional>
-      <listBibl>
-         <biblStruct type="journal">
-            <monogr>
-               <author>Friedrich Wilhelm Graf</author>
-               <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-               <imprint>
-                  <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
-                  <date when="2020">2020</date>
-                  <biblScope>S. 26–170, hier: 119-121</biblScope>
-               </imprint>
-            </monogr>
-            <series>
-               <title>Zeitschrift für Neuere Theologiegeschichte</title>
-               <biblScope>27/1</biblScope>
-            </series>
-         </biblStruct>
-      </listBibl>
-   </additional>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
-<date when="1923-01-19">19.01.1923</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
-<change when="2024-01-18" who="AR">Initiale Auszeichnung des Transkripts</change>
-   <change when="2025-03-24" who="FS">Kollationierung</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-   <dateline><date when="1923-01-19">19. Januar 1923</date>. Herrn Privatdozent Dr. <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>, <rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>.
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Wilhelm Ruprecht an Paul Tillich <lb/>vom 19. Januar 1923</title>
+            <author ref="#tillich_person_id__2569">Wilhelm Ruprecht</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Anna Rüther</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <institution>Stiftung Preußischer Kulturbesitz</institution>
+                  <repository>Staatsbibliothek zu Berlin</repository>
+                  <collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
+                  <idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Briefdurchschlag, maschinenschriftlich</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal">
+                        <monogr>
+                           <author>Friedrich Wilhelm Graf</author>
+                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                              <date when="2020">2020</date>
+                              <biblScope>S. 26–170, hier: 119-121</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Zeitschrift für Neuere Theologiegeschichte</title>
+                           <biblScope>27/1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
+               <date when="1923-01-19">19.01.1923</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2024-01-18" who="AR">Initiale Auszeichnung des Transkripts</change>
+         <change when="2025-03-24" who="FS">Kollationierung</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <date when="1923-01-19">19. Januar 1923</date>. Herrn Privatdozent Dr. <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>, <rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>.
 </dateline>
-   <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr</rs>!</salute>
-</opener>
-   <p>Sie haben gewiß unsere Antwort die letzten Tage schon erwartet. Aber Ihr <rs ref="L00774" type="letter">Brief</rs>
+               <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr</rs>!</salute>
+            </opener>
+            <p>Sie haben gewiß unsere Antwort die letzten Tage schon erwartet. Aber Ihr <rs ref="L00774" type="letter">Brief</rs>
 erforderte recht eingehende Erwägungen und Berechnungen. Die Aenderung der
 Anlage und des Planes löste ein gewisses Gefühl der Erleichterung bei mir aus,
 da ein Buch dieser Anlage eigentlich niemals ein passendes Heft für die <q>Wege
@@ -113,7 +115,7 @@ die Entstehung schreiben, das volle Vertrauen, daß Ihre Arbeit sehr wertvoll un
 Buch dieses Titels in unserm Verlage erscheinen soll, zurücktreten, obwohl ja
 natürlich unser ganzes Abkommen nun auf eine neue Grundlage gestellt werden
 muß.</p>
-<p>Freilich ist ein derartiges Buch heute kein leichtes Unternehmen, da nach
+            <p>Freilich ist ein derartiges Buch heute kein leichtes Unternehmen, da nach
 dem von Ihnen angegebenen Umfang, etwa 10 bis 11 Bogen Groß-Oktav, die Kosten
 tief in eine siebenstellige Zahl hineinreichen. Wie ein derartiges Buch gehen
 wird, ist nicht leicht vorherzusagen. Es kann bei einem Achtungserfolg bleiben,
@@ -130,8 +132,8 @@ wiederzusehen, namentlich sie, auch bei gutem Erfolge, erst langsam zu uns
 zurückkehren zu sehen, zu riskieren. Wi<supplied>e</supplied> ich oben schon angedeutet habe,
 ist die Entscheidung aber dafür ausgefallen, und wir schlagen Ihnen folgende
 Bedingungen vor:</p>
-<p>Gedruckt wird eine Auflage von 1000 Stück zuzüglich des für Pflicht- und Freiexemplare nötigen Zuschusses.</p>
-<p>Wir zahlen Ihnen nach Fertigstellung sofort ein Honorar von 10 000 M., und
+            <p>Gedruckt wird eine Auflage von 1000 Stück zuzüglich des für Pflicht- und Freiexemplare nötigen Zuschusses.</p>
+            <p>Wir zahlen Ihnen nach Fertigstellung sofort ein Honorar von 10 000 M., und
 dieselbe Summe nochmals, wenn und sobald innerhalb von fünf Jahren 650
 Stück verkauft sind, da wir dann erwarten können, auch noch die zur vollen
 Kostendeckung nötige Anzahl Exemplare abzusetzen. Dazu erhalten Sie zwölf
@@ -140,19 +142,19 @@ verändert und der Preis des Buches dem folgen muß, würden wir, wenn die
 zweite Rate fällig wird, die tatsächlich zur Auszahlung gelangende Summe nach
 dem Verhältnis des bei der Ausgabe und zur Zeit der Fälligkeit des Honorars
 geltenden Ladenpreis berechnen.</p>
-<p>Sollten Uebersetzungen in fremde Sprachen erscheinen, würden wir die
+            <p>Sollten Uebersetzungen in fremde Sprachen erscheinen, würden wir die
 Verhandlungen mit den betr. ausländischen Verlegern zu führen haben und das
 auszumachende Honorar zu gleichen Teilen mit Ihnen <sic>Teilen</sic>.</p>
-<p>Weitere Auflagen sollen ebenfalls in unserm Verlage erscheinen. Bei den
+            <p>Weitere Auflagen sollen ebenfalls in unserm Verlage erscheinen. Bei den
 schwankenden Verhältnissen liegt es aber nicht im beiderseitigen Interesse,
 die Honorar-Bedingungen schon heute festzulegen. Sollten wir uns über diese
 nicht, wie wir erwarten, leicht einigen, so würden Sie die Berechtigung haben,
 die 2. Auflage einem anderen Verleger anzubieten, aber an uns gebunden sein, falls unsere Bedingungen besser sind oder wir uns bereit erklären, in die Ihnen
 angebotenen Bedingungen einzutreten.</p>
-<p>Die Erwartung, daß Sie uns, wenn wir diesen nicht ganz leichten Verlag
+            <p>Die Erwartung, daß Sie uns, wenn wir diesen nicht ganz leichten Verlag
 übernehmen, auch weitere Werke, die Sie etwa veröffentlichen wollen, zuerst
 anbieten, dürfen wir wohl aussprechen, ohne eine rechtliche Bindung zu verlangen.</p>
-<p>Das Format möchten wir heute noch nicht genau feststellen, weil wir mit
+            <p>Das Format möchten wir heute noch nicht genau feststellen, weil wir mit
 Ihnen den Wunsch haben, die Arbeit so schnell wie irgend möglich zu drucken
 und die Wahl der Ausstattung mit davon abhängt, wann wir das druckfertige
 Manuskript erhalten. Augenblicklich könnten wir sofort mit mehreren Setzern
@@ -167,13 +169,13 @@ Geld kosten. Einige wenige Aenderungen, namentlich solche, die Umbruch
 einiger Zeilen nötig machen und den Setzer leicht eine Stunde aufhalten, kosten
 heute bereits 1125 M., und wir wissen nicht einmal, welche Tariferhöhung un<supplied>s</supplied>
 wieder für den Februar bevorsteht.</p>
-<p>Wäre übrigens nicht vielleicht irgend ein Untertitel, etwa <q>Neue Grundlegung</q> oder dergleichen empfehlenswert?</p>
-<p>Haben Sie die Freundlichkeit, sich zu unsern Vorschlägen zu äußern und uns wenn möglich, recht bald das Ms. oder den Anfang zu schicken.</p>
-<closer>
-<salute>Mit hochachtungsvollem Gruße</salute>
-<signed>Ihr</signed>
-</closer>
-</div>
-</body>
-</text>
+            <p>Wäre übrigens nicht vielleicht irgend ein Untertitel, etwa <q>Neue Grundlegung</q> oder dergleichen empfehlenswert?</p>
+            <p>Haben Sie die Freundlichkeit, sich zu unsern Vorschlägen zu äußern und uns wenn möglich, recht bald das Ms. oder den Anfang zu schicken.</p>
+            <closer>
+               <salute>Mit hochachtungsvollem Gruße</salute>
+               <signed>Ihr</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

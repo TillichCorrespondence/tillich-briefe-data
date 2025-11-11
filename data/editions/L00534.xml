@@ -1,127 +1,115 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00534">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Johannes Tillich <lb/>vom 5. April 1917</title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Johannes Tillich <lb/>vom 5. April 1917</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
                         Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement>Cambridge, MA</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                        <idno>bMS 649/193(15)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement>Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/193(15)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <date when="1917-04-05">05.04.1917</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change who="FS" when="2022-05-24">Initiale Auszeichnung des Transkripts</change>
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-
-                <opener>
-                    <dateline>D. <date when="1917-04-05">5. Apr. 1917</date>.</dateline>
-                    <salute>Lieber <rs ref="#tillich_person_id__1924" type="person"
-                        >Papa</rs>!</salute>
-                </opener>
-
-                <p>Nun ist schon mehr als ein halber Monat vergangen, daß ich zum letzten Mal in der
-                    Neuenburgers. war,<note type="ea"><rs ref="#tillich_person_id__1928"
-                            type="person">Tillich</rs> war vom 23. Februar bis Mitte März auf
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1917-04-05">05.04.1917</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="FS" when="2022-05-24">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>D. <date when="1917-04-05">5. Apr. 1917</date>.</dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
+            </opener>
+            <p>Nun ist schon mehr als ein halber Monat vergangen, daß ich zum letzten Mal in der
+                    Neuenburgers. war,<note type="ea">
+                  <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> war vom 23. Februar bis Mitte März auf
                         Heimaturlaub. Vgl. <rs ref="#tillich__GBVRLWQM" type="work">Paul Tillich,
-                            Ergänzungs- und Nachlassbände, Bd. 5, S. 76</rs></note> und ich habe
+                            Ergänzungs- und Nachlassbände, Bd. 5, S. 76</rs>
+               </note> und ich habe
                     noch nicht geschrieben! Ich habe viel zu tun gehabt. Denn wir sind immer noch an
-                    derselben <rs ref="#tillich_place_id__97" type="place">Stelle</rs><note type="ea">Vgl. <rs
-                            ref="#tillich__GBVRLWQM" type="work">Paul Tillich, Ergänzungs- und
-                        Nachlassbände, Bd. 5, S. 76</rs>. Dort steht, dass <rs ref="#tillich_person_id__1928"
-                            type="person">Tillich</rs> zu der Zeit in <rs ref="#tillich_place_id__97" type="place">Chaumont</rs> war.</note> wie vorher; nur daß wir infolge
+                    derselben <rs ref="#tillich_place_id__97" type="place">Stelle</rs>
+               <note type="ea">Vgl. <rs ref="#tillich__GBVRLWQM" type="work">Paul Tillich, Ergänzungs- und
+                        Nachlassbände, Bd. 5, S. 76</rs>. Dort steht, dass <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> zu der Zeit in <rs ref="#tillich_place_id__97" type="place">Chaumont</rs> war.</note> wie vorher; nur daß wir infolge
                     Beschießung zweimal das Quartier gewechselt haben, was immer mit viel Aufregung
                     und Zeitverlust verbunden ist. So verlor ich jetzt den Montag und Dienstag und
                     mußte Mittwoch und Donnerstag die Karfreitags- und Osterpredigt machen. Es geht,
                     da es muß! Auch Dir wird es nicht gut gehen in dieser Zeit; aber Du hast etwas
                     vor Dir, das Du wie Erlösung empfinden wirst, den Urlaub und dann das Ende
                     Deines Arbeitszwanges.... ich freue mich mit Dir und für Dich!</p>
-                <p>Am <date when="1917-04-01">1. Apr.</date> kam ein <rs type="letter"
-                        >Brief</rs><note type="ea">Liegt nicht vor.</note> von <rs
-                        ref="#tillich_person_id__2192" type="person">Schwester Therese</rs>, worin
-                    sie mir mitteilt, daß <rs ref="#tillich_person_id__2707" type="person"
-                        >Ekkehardt</rs> ein <rs ref="#tillich_person_id__2355" type="person"
-                        >Schwesterchen</rs> bekommen hat, mein Patenkind! Und bis heute habe ich
-                    noch keine Nachricht aus <rs ref="#tillich_place_id__74" type="place"
-                        >Bremen</rs>, so daß ich in großer Sorge bin um <rs
-                        ref="#tillich_person_id__644" type="person">Johanna</rs>! Was ist los?
-                        Und<pb n="2"/> dabei habe ich <rs ref="#tillich_person_id__1762"
-                        type="person">Elisabeth</rs> das Versprechen abgenommen, mir gleich zu
-                    schreiben! – – – Heute ist <rs ref="#tillich_person_id__1929" type="person"
-                        >Mamas</rs> Geburtstag! Es ist ein Menschenleben her, daß ich sie nicht mehr
+            <p>Am <date when="1917-04-01">1. Apr.</date> kam ein <rs type="letter">Brief</rs>
+               <note type="ea">Liegt nicht vor.</note> von <rs ref="#tillich_person_id__2192" type="person">Schwester Therese</rs>, worin
+                    sie mir mitteilt, daß <rs ref="#tillich_person_id__2707" type="person">Ekkehardt</rs> ein <rs ref="#tillich_person_id__2355" type="person">Schwesterchen</rs> bekommen hat, mein Patenkind! Und bis heute habe ich
+                    noch keine Nachricht aus <rs ref="#tillich_place_id__74" type="place">Bremen</rs>, so daß ich in großer Sorge bin um <rs ref="#tillich_person_id__644" type="person">Johanna</rs>! Was ist los?
+                        Und<pb n="2"/> dabei habe ich <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> das Versprechen abgenommen, mir gleich zu
+                    schreiben! – – – Heute ist <rs ref="#tillich_person_id__1929" type="person">Mamas</rs> Geburtstag! Es ist ein Menschenleben her, daß ich sie nicht mehr
                     habe; so fern, so undeutlich ist mir diese Zeit, daß ich nicht mehr denke, daß
                     ich es bin, der das erlebt hat! Wie fern ist überhaupt alles, was vor dem Kriege
                     lag! Ich hätte nie gedacht, daß das Älterwerden so wehmütig ist! – – – Neben mir
-                    liegt der Geburtstagsbrief<note type="ea">Liegt nicht vor.</note> für <rs
-                        ref="#tillich_person_id__1931" type="person">Greti</rs>! Am <date
-                        when="1917-04-08">ersten Ostertag</date>! Das ist hoffnungsvoll, und ich bin
+                    liegt der Geburtstagsbrief<note type="ea">Liegt nicht vor.</note> für <rs ref="#tillich_person_id__1931" type="person">Greti</rs>! Am <date when="1917-04-08">ersten Ostertag</date>! Das ist hoffnungsvoll, und ich bin
                     so hoffnungslos in Bezug auf den Krieg. Nun auch Amerika!<note type="ea">Am 2.
                         April hatte Präsident <rs type="person" ref="#tillich_person_id__3036">Wilson</rs> den US-Kongress zum Kriegseintritt
                         aufgefordert. Am 6. April erfolgte die offizielle Kriegserklärung an
@@ -130,12 +118,12 @@
                     ist Karfreitag! Ich predige immer nüchterner, um nichts zu sagen, was nicht
                     volle Realität hat. Wie anders muß es sein, zu einer Gemeinde zu reden! Ich kann
                         <hi rend="u">nichts</hi> voraussetzen.</p>
-                <closer><salute>Ich denke an Ostern in <rs ref="#tillich_place_id__398" type="place"
-                            >Schönfließ</rs>, die Osterruten, und das Eiersuchen im Garten! Und den
-                        Choral vom Kirchturm, und das ist ja geblieben!</salute> Dein <signed><rs
-                            ref="#tillich_person_id__1928" type="person"
-                    >Paul</rs>.</signed></closer>
-            </div>
-        </body>
-    </text>
+            <closer>
+               <salute>Ich denke an Ostern in <rs ref="#tillich_place_id__398" type="place">Schönfließ</rs>, die Osterruten, und das Eiersuchen im Garten! Und den
+                        Choral vom Kirchturm, und das ist ja geblieben!</salute> Dein <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

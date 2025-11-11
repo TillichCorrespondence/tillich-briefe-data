@@ -1,123 +1,134 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00521">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Rahel Martel an Paul Tillich <lb/>vom 19. November 1916</title>
-<author>Rahel Martel</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Rahel Martel an Paul Tillich <lb/>vom 19. November 1916</title>
+            <author>Rahel Martel</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-8410-4290">Andreas Burri</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Briefe</collection>
-<idno>bMS 649/174(39)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Briefe</collection>
+                  <idno>bMS 649/174(39)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__2145">Rahel Martel</persName>
-<placeName ref="#tillich_place_id__266">Lille</placeName>
-<date when="1916-11-19">19.11.1916</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="frz">Französisch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2022-06-29" who="AB">Initiale Auszeichnung des Transkripts</change>
-<change when="2022-06-29" who="AB">Überprüfung und Ergänzung der Auszeichnungen</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline><rs ref="#tillich_place_id__266" type="place">Lille</rs> den <date when="1916-11-19"> 19_ 11_ 1916 </date></dateline>
-<salute>Mon cher <rs ref="#tillich_person_id__1928" type="person">Paul</rs>
-                  !</salute><note type="ea"><rs ref="#tillich_person_id__1928" type="person">Tillich</rs> berichtet
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2145">Rahel Martel</persName>
+               <placeName ref="#tillich_place_id__266">Lille</placeName>
+               <date when="1916-11-19">19.11.1916</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="frz">Französisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2022-06-29" who="AB">Initiale Auszeichnung des Transkripts</change>
+         <change when="2022-06-29" who="AB">Überprüfung und Ergänzung der Auszeichnungen</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__266" type="place">Lille</rs> den <date when="1916-11-19"> 19_ 11_ 1916 </date>
+               </dateline>
+               <salute>Mon cher <rs ref="#tillich_person_id__1928" type="person">Paul</rs>
+                  !</salute>
+               <note type="ea">
+                  <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> berichtet
                vom Kennenlernen mit <rs ref="#tillich_person_id__2145" type="person">Rachel</rs> in
-               einem <rs ref="L00514" type="letter">Brief vom 19. Oktober 1916</rs>.</note></opener>
-
-<p>J&apos;ai été très heureuse de recevoir de tes nouvelles, mais tu dois m&apos;excuser près de
+               einem <rs ref="L00514" type="letter">Brief vom 19. Oktober 1916</rs>.</note>
+            </opener>
+            <p>J'ai été très heureuse de recevoir de tes nouvelles, mais tu dois m'excuser près de
                ton <rs ref="#tillich_person_id__1487" type="person">ami</rs> de ce que je ne
-                  l&apos;<sic>ais</sic> pas invité à rentrer chez moi. C&apos;est que ma maison n&apos;est pas chic
+                  l'<sic>ais</sic> pas invité à rentrer chez moi. C'est que ma maison n'est pas chic
                du tout et je lui <sic>ais</sic> seulement causé à la porte.</p>
-<p>Tu me <sic>demande</sic> si je suis toujours au théâtre? Oui j&apos;ai encore joué cette
-               semaine dans l&apos;opéra de <rs ref="#tillich_person_id__2146" type="person">Wagner</rs>
-<rs ref="#tillich__C25MXWQZ" type="work">«Tannhauzer»</rs>.</p>
-<p>J&apos;espère que tu es toujours en bonne santé et souhaite de tout cœur te revoir bientôt
+            <p>Tu me <sic>demande</sic> si je suis toujours au théâtre? Oui j'ai encore joué cette
+               semaine dans l'opéra de <rs ref="#tillich_person_id__2146" type="person">Wagner</rs>
+               <rs ref="#tillich__C25MXWQZ" type="work">«Tannhauzer»</rs>.</p>
+            <p>J'espère que tu es toujours en bonne santé et souhaite de tout cœur te revoir bientôt
    à <rs ref="#tillich_place_id__266" type="place">Lille</rs>. Sois certain<pb n="2"/> que ce sera pour moi un très grand plaisir.</p>
-<p>Tu peux être tranquille au sujet des officiers. J&apos;ai mis à profit les conseils que tu
-               m&apos;as donnés et les <sic>ais</sic> trouvés bons. Tant que je le pourrai je
-               t&apos;écouterai. Quand tu reviendras à <rs ref="#tillich_place_id__266" type="place">Lille</rs> dans la journée tu pourras venir chez moi. Si c&apos;est le matin et que je
+            <p>Tu peux être tranquille au sujet des officiers. J'ai mis à profit les conseils que tu
+               m'as donnés et les <sic>ais</sic> trouvés bons. Tant que je le pourrai je
+               t'écouterai. Quand tu reviendras à <rs ref="#tillich_place_id__266" type="place">Lille</rs> dans la journée tu pourras venir chez moi. Si c'est le matin et que je
                suis absente laisse une lettre sous la porte en me disant à quelle heure tu reviens.
-               Je t&apos;attendrai et te recevrai mieux que je n&apos;<sic>ais</sic> reçu ton <rs ref="#tillich_person_id__1487" type="person">ami</rs>. Je n&apos;<sic>ais</sic> pas pas
-               osé le faire rentrer car justement l&apos;oncle de mon amie était là. Tu comprends comme
-               j&apos;étais <pb n="3"/> gênée! Enfin j&apos;espère que tu lui
+               Je t'attendrai et te recevrai mieux que je n'<sic>ais</sic> reçu ton <rs ref="#tillich_person_id__1487" type="person">ami</rs>. Je n'<sic>ais</sic> pas pas
+               osé le faire rentrer car justement l'oncle de mon amie était là. Tu comprends comme
+               j'étais <pb n="3"/> gênée! Enfin j'espère que tu lui
                présentera mes excuses.</p>
-<p>En t&apos;attendant le plus tôt possible
-               je t&apos;envoie avec toutes mes amitiés mille baisers. </p>
-<closer>
-<salute>Ta petite amie</salute>
-<signed><rs ref="#tillich_person_id__2145" type="person"><hi rend="u">Rachel</hi></rs></signed>
-</closer>
-<postscript>
-<p>Rue Spriet Tellier 4</p>
-<p><rs ref="#tillich_place_id__298" type="place"><hi rend="u">Mons-en-Barœul</hi></rs>
-</p>
-</postscript>
-</div>
-</body>
-</text>
+            <p>En t'attendant le plus tôt possible
+               je t'envoie avec toutes mes amitiés mille baisers. </p>
+            <closer>
+               <salute>Ta petite amie</salute>
+               <signed>
+                  <rs ref="#tillich_person_id__2145" type="person">
+                     <hi rend="u">Rachel</hi>
+                  </rs>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Rue Spriet Tellier 4</p>
+               <p>
+                  <rs ref="#tillich_place_id__298" type="place">
+                     <hi rend="u">Mons-en-Barœul</hi>
+                  </rs>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
 </TEI>

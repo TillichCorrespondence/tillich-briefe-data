@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00997">
    <teiHeader>
       <fileDesc>
@@ -81,9 +81,11 @@
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <opener><dateline>
+            <opener>
+               <dateline>
                   <rs ref="#tillich_place_id__260" type="place">Leipzig</rs>,
-                     <date when="1928-12-15">15. Dez. 28.</date></dateline>
+                     <date when="1928-12-15">15. Dez. 28.</date>
+               </dateline>
                <salute>Geliebter <rs ref="#tillich_person_id__1928" type="person">Freund</rs>!</salute>
             </opener>
             <p>Ich muß es Ihnen ganz ernst und ruhig sagen, nein, nicht so, ich lege meine Arme um
@@ -105,7 +107,8 @@
                Feines! Doch davon in <rs ref="#tillich_place_id__126" type="place">Dresden</rs>, am
                Montag früh bin ich wieder da.</p>
             <closer>
-               <signed><rs ref="#tillich_person_id__2134" type="person">Charlotte</rs>.</signed>
+               <signed>
+                  <rs ref="#tillich_person_id__2134" type="person">Charlotte</rs>.</signed>
             </closer>
          </div>
       </body>

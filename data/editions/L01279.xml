@@ -1,114 +1,131 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01279">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Wingolfsbrüder <lb/>vom 14. Mai 1907</title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Wingolfsbrüder <lb/>vom 14. Mai 1907</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                         1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                         Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>Deutschland</country>
-                        <settlement ref="#tillich_place_id__68">Bonn</settlement>
-                        <institution>Bonner Wingolf</institution>
-                        <repository>Archiv des Bonner Wingolfs</repository>
-                        <idno>2849/93</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__68">Bonn</settlement>
+                  <institution>Bonner Wingolf</institution>
+                  <repository>Archiv des Bonner Wingolfs</repository>
+                  <idno>2849/93</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                     https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich </persName>
-                    <placeName ref="#tillich_place_id__189">Halle</placeName>
-                    <date when="1907-05-14">14.05.1907</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__2083">Wingolf Verbindung</persName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change who="EL" when="2025-08-19">Initiale Auszeichnung des Transkripts</change>
-        </revisionDesc>
-    </teiHeader>
-    <text type="postcard">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener>
-                    <dateline><hi rend="print">Verbindung Wingolf, <rs ref="#tillich_place_id__189" type="place">Halle a. S.</rs>
-                        <lb/>Den</hi><date when="1907-05-14">14 Mai <hi rend="print">190</hi>7</date></dateline>
-                    <figure><figDesc>[Darstellung: Wappen mit Wingolfszirkel (Halle).]</figDesc></figure>
-                    <p>Liebe Brüder! Herzlichen Gruß zuvor!</p>
-                </opener>
-                <p><del rend="s">In der Überzeugung</del>
-                <unclear>Für den</unclear> Ch-C stellen wir folgende Anträge, die wir hiermit zur Kenntnis der Bundesverbindungen bringen: I. Zur Geschäftsordnung betreffend die Verhandlungen über den Prinzipstreit: Die Verhandlungen mögen im Anschluss an folgende Leitsätze geführt werden.</p>
-                <p>1. Die gegenwärtige Bundesverfassung ist unhaltbar infolge des Gegensatzes der sich gezeigt hat a) in der Auffassung des Wesens des Wingolf b) in der Auffassung der praktischen Auffassung des Wingolfs.</p>
-                <p>2. Die neue Bundesverfassung hat folgende Tendenzen in sich zu vereinigen: a) sie hat dem vorhandenem Gegensatz gerecht zu werden (<hi rend="u">bedingungslose</hi> Aufhebg des Aktivitätszwanges) b) sie hat die aus der Aufhebg des Aktivitätszwanges entstehenden Gefahren nach Kräften zu überwinden (Inaktivenfrage) c) sie hat jeder Tendenz zu weiterer Entfremdung entgegenzuwirken (<unclear>???</unclear> <pb n="2"/><unclear>aller</unclear> Bundnisse, Wahrung der voll<unclear reason="damage">??</unclear> Aktivitätsmöglichkeit)
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich </persName>
+               <placeName ref="#tillich_place_id__189">Halle</placeName>
+               <date when="1907-05-14">14.05.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__2083">Wingolf Verbindung</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="EL" when="2025-08-19">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <hi rend="print">Verbindung Wingolf, <rs ref="#tillich_place_id__189" type="place">Halle a. S.</rs>
+                     <lb/>Den</hi>
+                  <date when="1907-05-14">14 Mai <hi rend="print">190</hi>7</date>
+               </dateline>
+               <figure>
+                  <figDesc>[Darstellung: Wappen mit Wingolfszirkel (Halle).]</figDesc>
+               </figure>
+               <p>Liebe Brüder! Herzlichen Gruß zuvor!</p>
+            </opener>
+            <p>
+               <del rend="s">In der Überzeugung</del>
+               <unclear>Für den</unclear> Ch-C stellen wir folgende Anträge, die wir hiermit zur Kenntnis der Bundesverbindungen bringen: I. Zur Geschäftsordnung betreffend die Verhandlungen über den Prinzipstreit: Die Verhandlungen mögen im Anschluss an folgende Leitsätze geführt werden.</p>
+            <p>1. Die gegenwärtige Bundesverfassung ist unhaltbar infolge des Gegensatzes der sich gezeigt hat a) in der Auffassung des Wesens des Wingolf b) in der Auffassung der praktischen Auffassung des Wingolfs.</p>
+            <p>2. Die neue Bundesverfassung hat folgende Tendenzen in sich zu vereinigen: a) sie hat dem vorhandenem Gegensatz gerecht zu werden (<hi rend="u">bedingungslose</hi> Aufhebg des Aktivitätszwanges) b) sie hat die aus der Aufhebg des Aktivitätszwanges entstehenden Gefahren nach Kräften zu überwinden (Inaktivenfrage) c) sie hat jeder Tendenz zu weiterer Entfremdung entgegenzuwirken (<unclear>???</unclear>
+               <pb n="2"/>
+               <unclear>aller</unclear> Bundnisse, Wahrung der voll<unclear reason="damage">??</unclear> Aktivitätsmöglichkeit)
                 </p>
-                <p>Wir bitten die Verbindungen, ihre Vertreter zur Annahme dieser Geschäftsordnung zu veranlassen. Sie geht von der Voraussetzung aus, dass e<supplied>in</supplied> gegenseitiges Überzeugen nicht mehr möglich, eine prinzipielle Debatte im eigentl. Sinne daher gänzlich aussichtslos ist. So bleibt übrig, den tatsächlichen Gegensatz klar zu <unclear>??tieren</unclear> <unclear>recht</unclear> zu bestreiten und dementsprechend die Bundesverfassung zu gestalten. Da die Annahme dieser Geschäftsordnung natürlich nicht Annahme des Inhalts der Leitsätze bedeutet, so können auch Verbindungen, die nicht damit übereinstimmen, dafür sein.</p>
-                <p>II. Zur Gestaltung der Bundesstatuten unter Voraussetzung des aufgehobenen Aktivitätszwangs machen wir folgende Vorschläge:</p>
-                <p>1. §1 erhält die Fassung: der Zweck des S.S. 07 neukonstituierten Winfolgsbundes ist, die einzelnen Bundesglieder auf Grund ihrer historischen Zusammengehörigkeit und auf Grund ihrer gemeinsamen Tendenz christl Studentenverbindungen zu sein, an einander zu schliessen und die Beziehungen derselb und <pb n="3"/>ihrer Mitglieder unter einander zu ordnen u z regeln.</p>
-                    <p>§2 die Bundesglieder erkennen ihre z.Z. geltenden Prinzipien als im Bunde berechtigt an fällt weg<supplied>.</supplied></p>
-                    <p>§3, 7 u 8 bleiben in der auf dem Ch-C angenommenen Fassung<supplied>.</supplied></p>
-                <p>2. §14 erhält folgd Fassung: Ein Inaktiver e Wing-Verbdg der nach e and Hochschule, auf der e Wing-verbindg besteht, übergeht, hat auf dem Antrittsabend des Semesters zu erscheinen u kann sich jederzeit ohne vorherige Abstimmung aktiv melden; falls weder §19 noch §23 Anwendung auf ihn finden, ist er innerhalb 4 Wochen zur Aktivmeldung verpflichtet; in der Zwischenzeit hat er die Stellung eines Inaktiven aus Bruderverbindungen. –</p><p> Dann wird §19 in folgd Fassung eingeschoben:</p>
-                <p>Wer auf alle Fälle inaktiv bleiben muss, hat sich beim Verlassen der Mutterverbindung von der Aktivität dispensieren zu lassen, hat aber die Pflicht sich mit der Stellung der Verbindung genau bekannt zu machen. Es folgen §20-22. – Dann kommt folgd §<add place="sublinear">(23)</add> neu hinzu: Wer sich innerhalb der ersten 4 Wochen nicht aktiv gemeldet hat, ohne von seiner Mutterverbindg inaktiviert zu sein, hat vor Ablauf der 4 Wochen dieser mitzuteilen, dass Bedenken gegen die prinzipielle Stellung oder praktische Lebensführung der Ortsverbindung ihn an der Aktivmeldung hindern. Über diese <pb n="4"/>Mitteilung steht der Mutterverbindung kein Urteil zu, auch braucht sie nicht wiederholt zu werden.
+            <p>Wir bitten die Verbindungen, ihre Vertreter zur Annahme dieser Geschäftsordnung zu veranlassen. Sie geht von der Voraussetzung aus, dass e<supplied>in</supplied> gegenseitiges Überzeugen nicht mehr möglich, eine prinzipielle Debatte im eigentl. Sinne daher gänzlich aussichtslos ist. So bleibt übrig, den tatsächlichen Gegensatz klar zu <unclear>??tieren</unclear>
+               <unclear>recht</unclear> zu bestreiten und dementsprechend die Bundesverfassung zu gestalten. Da die Annahme dieser Geschäftsordnung natürlich nicht Annahme des Inhalts der Leitsätze bedeutet, so können auch Verbindungen, die nicht damit übereinstimmen, dafür sein.</p>
+            <p>II. Zur Gestaltung der Bundesstatuten unter Voraussetzung des aufgehobenen Aktivitätszwangs machen wir folgende Vorschläge:</p>
+            <p>1. §1 erhält die Fassung: der Zweck des S.S. 07 neukonstituierten Winfolgsbundes ist, die einzelnen Bundesglieder auf Grund ihrer historischen Zusammengehörigkeit und auf Grund ihrer gemeinsamen Tendenz christl Studentenverbindungen zu sein, an einander zu schliessen und die Beziehungen derselb und <pb n="3"/>ihrer Mitglieder unter einander zu ordnen u z regeln.</p>
+            <p>§2 die Bundesglieder erkennen ihre z.Z. geltenden Prinzipien als im Bunde berechtigt an fällt weg<supplied>.</supplied>
+            </p>
+            <p>§3, 7 u 8 bleiben in der auf dem Ch-C angenommenen Fassung<supplied>.</supplied>
+            </p>
+            <p>2. §14 erhält folgd Fassung: Ein Inaktiver e Wing-Verbdg der nach e and Hochschule, auf der e Wing-verbindg besteht, übergeht, hat auf dem Antrittsabend des Semesters zu erscheinen u kann sich jederzeit ohne vorherige Abstimmung aktiv melden; falls weder §19 noch §23 Anwendung auf ihn finden, ist er innerhalb 4 Wochen zur Aktivmeldung verpflichtet; in der Zwischenzeit hat er die Stellung eines Inaktiven aus Bruderverbindungen. –</p>
+            <p> Dann wird §19 in folgd Fassung eingeschoben:</p>
+            <p>Wer auf alle Fälle inaktiv bleiben muss, hat sich beim Verlassen der Mutterverbindung von der Aktivität dispensieren zu lassen, hat aber die Pflicht sich mit der Stellung der Verbindung genau bekannt zu machen. Es folgen §20-22. – Dann kommt folgd §<add place="sublinear">(23)</add> neu hinzu: Wer sich innerhalb der ersten 4 Wochen nicht aktiv gemeldet hat, ohne von seiner Mutterverbindg inaktiviert zu sein, hat vor Ablauf der 4 Wochen dieser mitzuteilen, dass Bedenken gegen die prinzipielle Stellung oder praktische Lebensführung der Ortsverbindung ihn an der Aktivmeldung hindern. Über diese <pb n="4"/>Mitteilung steht der Mutterverbindung kein Urteil zu, auch braucht sie nicht wiederholt zu werden.
                 </p>
-                <p>Es folgt §15 in folgender Form: Unter denselbn Bedingungen können Conkneipanten sich beim <unclear>Burschen</unclear> der dort bestehenden Bruderverbindg zur Verfügung stellen. – §16-18 bleiben ungeändert.</p>
-                <p>3. Hinter den jetzigen §18 tritt folgd neuer §: Es ist den einzelnen Bruderverbindungen ebenso verboten Privatabkommen zum Zweck wechselseitig<add place="superlinear">er</add> unbedingter Eintrittspflicht zu schliessen wie selbständig ihre Mitglieder <unclear>zu zwingen</unclear> in anderen Brud-verbindg auf jed Fall aktiv zu werd. Ebenso darf d Aktivmeldg in e and Verbind von d Mutterverbindg. nicht verboten werden.</p>
-                <p>Schlussresolution: Die im Bunde vereinigten Verbindungen sprechen d Wunsch aus, dass es das Bestreben aller Verbindg. sein möge unter Bekämpfung aller trennenden Tendenzen, die <add place="superlinear">innerliche</add> principielle und praktische Einheit nach Kräften zu erstreben und so auch eine <unclear>engere</unclear> Bundesverfassung wieder zu ermöglichen.</p>
-                <closer>
-                    <p>Der Hallenser Wingolf</p>
-                   <p>I. N. u. A.</p>
-                    <signed><rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs></signed>
-                    <lb/>dzt. x.<lb/><figure><figDesc>[Darstellung: Stempel mit Wingolfszirkel (Halle).]</figDesc></figure>
-                </closer>
-            </div>
-        </body>
-    </text>
+            <p>Es folgt §15 in folgender Form: Unter denselbn Bedingungen können Conkneipanten sich beim <unclear>Burschen</unclear> der dort bestehenden Bruderverbindg zur Verfügung stellen. – §16-18 bleiben ungeändert.</p>
+            <p>3. Hinter den jetzigen §18 tritt folgd neuer §: Es ist den einzelnen Bruderverbindungen ebenso verboten Privatabkommen zum Zweck wechselseitig<add place="superlinear">er</add> unbedingter Eintrittspflicht zu schliessen wie selbständig ihre Mitglieder <unclear>zu zwingen</unclear> in anderen Brud-verbindg auf jed Fall aktiv zu werd. Ebenso darf d Aktivmeldg in e and Verbind von d Mutterverbindg. nicht verboten werden.</p>
+            <p>Schlussresolution: Die im Bunde vereinigten Verbindungen sprechen d Wunsch aus, dass es das Bestreben aller Verbindg. sein möge unter Bekämpfung aller trennenden Tendenzen, die <add place="superlinear">innerliche</add> principielle und praktische Einheit nach Kräften zu erstreben und so auch eine <unclear>engere</unclear> Bundesverfassung wieder zu ermöglichen.</p>
+            <closer>
+               <p>Der Hallenser Wingolf</p>
+               <p>I. N. u. A.</p>
+               <signed>
+                  <rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs>
+               </signed>
+               <lb/>dzt. x.<lb/>
+               <figure>
+                  <figDesc>[Darstellung: Stempel mit Wingolfszirkel (Halle).]</figDesc>
+               </figure>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>

@@ -1,112 +1,118 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L0394">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Hermann Schafft an Paul Tillich
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Hermann Schafft an Paul Tillich
                <lb/>vom 5. Oktober 1914</title>
-<author ref="#tillich_person_id__1696">Hermann Schafft</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+            <author ref="#tillich_person_id__1696">Hermann Schafft</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-<idno>bMS 649/182(4)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/182(4)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
-<placeName ref="#tillich_place_id__485">Bonn</placeName>
-<date when="1914-10-05">5.10.1914</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2023-05-19" who="PS">Initiale Auszeichnung des Transkripts</change>
-<change when="2023-09-20" who="GM">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline>
-<rs ref="#tillich_place_id__68" type="place">Bonn</rs>
-<date when="1914-10-05">5. X. 14.</date></dateline>
-<salute>Lieber Philister <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>!</salute>
-</opener>
-<p>Anbei schicke ich dir eine Art Meldung mit der Frage, ob Du etwas tun kannst. Es
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
+               <placeName ref="#tillich_place_id__485">Bonn</placeName>
+               <date when="1914-10-05">5.10.1914</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2023-05-19" who="PS">Initiale Auszeichnung des Transkripts</change>
+         <change when="2023-09-20" who="GM">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__68" type="place">Bonn</rs>
+                  <date when="1914-10-05">5. X. 14.</date>
+               </dateline>
+               <salute>Lieber Philister <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>!</salute>
+            </opener>
+            <p>Anbei schicke ich dir eine Art Meldung mit der Frage, ob Du etwas tun kannst. Es
                liegt mir nicht – wie Du wohl glaubst – an einer bequemen Stellung mit Burschen u.
-               Pferd, obschon ich reiten kann, sondern daran, daß die Not der Leute <hi rend="u">geistig</hi> u. geistlich gestillt wird. So ist&apos;s schlimm! Täglich 3-4 Tote. <hi rend="u">Kein</hi><pb n="2"/> Pastor in Sicht. Es ist ja garnicht möglich. Ich <hi rend="u">kann</hi> in meiner Stellung, in der ich vor jedem Unterarzt stramm
+               Pferd, obschon ich reiten kann, sondern daran, daß die Not der Leute <hi rend="u">geistig</hi> u. geistlich gestillt wird. So ist's schlimm! Täglich 3-4 Tote. <hi rend="u">Kein</hi>
+               <pb n="2"/> Pastor in Sicht. Es ist ja garnicht möglich. Ich <hi rend="u">kann</hi> in meiner Stellung, in der ich vor jedem Unterarzt stramm
                stehen muß nichts tun und halte es auch für falsch dann zu predigen: der
                Standesachtung wegen. Vielleicht kannst Du etwas tun. Am besten wäre eine
                telegraphische Berufung via <hi rend="u">Gouvernement
-                  <rs ref="#tillich_place_id__78" type="place">Brüssel</rs></hi>.<pb n="3"/> Comphil. <rs ref="#tillich_person_id__2409" type="person">Königs</rs> soll wieder da sein – deutscher Pfarrer, dem könnte ich helfen.
+                  <rs ref="#tillich_place_id__78" type="place">Brüssel</rs>
+               </hi>.<pb n="3"/> Comphil. <rs ref="#tillich_person_id__2409" type="person">Königs</rs> soll wieder da sein – deutscher Pfarrer, dem könnte ich helfen.
                Ich wäre Dir für Unterstützung sehr dankbar.</p>
-   <p>An <rs ref="#tillich_person_id__2961" type="person">Kriebitz</rs> geht via Professor <rs ref="#tillich_person_id__2347" type="person">Weber</rs> dasselbe Schreiben ab.</p>
-<closer>
-<salute>Herzl. Gruß</salute>
-d. <signed><rs ref="#tillich_person_id__1696" type="person">Schafft</rs></signed>
-</closer>
-<postscript>
-<p>dzt. auf Verwundetentransport <rs ref="#tillich_place_id__122" type="place">Deutschland</rs><pb n="4"/> morgen zurück nach
+            <p>An <rs ref="#tillich_person_id__2961" type="person">Kriebitz</rs> geht via Professor <rs ref="#tillich_person_id__2347" type="person">Weber</rs> dasselbe Schreiben ab.</p>
+            <closer>
+               <salute>Herzl. Gruß</salute>
+d. <signed>
+                  <rs ref="#tillich_person_id__1696" type="person">Schafft</rs>
+               </signed>
+            </closer>
+            <postscript>
+               <p>dzt. auf Verwundetentransport <rs ref="#tillich_place_id__122" type="place">Deutschland</rs>
+                  <pb n="4"/> morgen zurück nach
                      <rs ref="#tillich_place_id__78" type="place">Brüssel</rs>!</p>
-</postscript>
-</div>
-</body>
-</text>
+            </postscript>
+         </div>
+      </body>
+   </text>
 </TEI>

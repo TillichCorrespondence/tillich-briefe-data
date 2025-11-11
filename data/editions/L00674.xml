@@ -1,153 +1,168 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00674">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Verlag Vandenhoeck und Ruprecht
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Verlag Vandenhoeck und Ruprecht
 Göttingen <lb/>vom 25. August 1920</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name>Anna Rüther</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">Wien</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__37">Berlin</settlement>
-<institution>Stiftung Preußischer Kulturbesitz</institution>
-<repository>Staatsbibliothek zu Berlin</repository>
-<collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
-<idno>Nachl. 494, G 1923. 138; 493-517</idno><!-- Die Idno muss nachgeprüft werden, sie ist aus Referenz anderer xml dateien zu vandenhoeck und ruprecht (L00839/L01038) zu der Graf Version übernommen. Allerdings scheint sie nicht von irgendwo hergeholt zu sein, in Ernst Troeltsch Kritische Gesamtausgabe Band 6 (DeGruyter) werden Nachlass 494 und V&R Verlag ständig im Zusammenhang erwähnt. -->
-</msIdentifier>
-<physDesc>
-<p>Von fremder Hand</p>
-</physDesc>
-      <additional>
-            <listBibl>
-                  <biblStruct type="journal">
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Anna Rüther</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">Wien</placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <institution>Stiftung Preußischer Kulturbesitz</institution>
+                  <repository>Staatsbibliothek zu Berlin</repository>
+                  <collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
+                  <idno>Nachl. 494, G 1923. 138; 493-517</idno>
+                  <!-- Die Idno muss nachgeprüft werden, sie ist aus Referenz anderer xml dateien zu vandenhoeck und ruprecht (L00839/L01038) zu der Graf Version übernommen. Allerdings scheint sie nicht von irgendwo hergeholt zu sein, in Ernst Troeltsch Kritische Gesamtausgabe Band 6 (DeGruyter) werden Nachlass 494 und V&R Verlag ständig im Zusammenhang erwähnt. -->
+               </msIdentifier>
+               <physDesc>
+                  <p>Von fremder Hand</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal">
                         <monogr>
-                              <author>Friedrich Wilhelm Graf</author>
-                              <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
-                              <imprint>
-                                    <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
-                                    <date when="2020">2020</date>
-                                    <biblScope>S. 26–170, hier: 72-89</biblScope>
-                              </imprint>
+                           <author>Friedrich Wilhelm Graf</author>
+                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                              <date when="2020">2020</date>
+                              <biblScope>S. 26–170, hier: 72-89</biblScope>
+                           </imprint>
                         </monogr>
                         <series>
-                              <title>Zeitschrift für Neuere Theologiegeschichte</title>
-                              <biblScope>27/1</biblScope>
+                           <title>Zeitschrift für Neuere Theologiegeschichte</title>
+                           <biblScope>27/1</biblScope>
                         </series>
-                  </biblStruct>
-            </listBibl>
-      </additional>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__553">Rügenwaldermünde</placeName>
-<date when="1920-08-25">25.08.1920</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__2301">Verlag Vandenhoeck und Ruprecht
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__553">Rügenwaldermünde</placeName>
+               <date when="1920-08-25">25.08.1920</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__2301">Verlag Vandenhoeck und Ruprecht
 Göttingen</persName>
-
-</correspAction>
-</correspDesc>
-      
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
-<change when="2025-03-05" who="SK">Idno, TEI Struktur, Dateline, diverse Additionen mit Anhang</change>
-<change when="2025-04-02" who="FS">Kollationierung</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-      <div type="writingSession" n="1">
-<pb n="1"/>
-<opener>
-<dateline>
-<rs ref="#tillich_place_id__553" type="place">Rügenwaldermünde</rs>,<note type="ea">Die erklärenden Anmerkungen zu vorliegendem Brief wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note> d. 
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
+         <change when="2025-03-05" who="SK">Idno, TEI Struktur, Dateline, diverse Additionen mit Anhang</change>
+         <change when="2025-04-02" who="FS">Kollationierung</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession" n="1">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__553" type="place">Rügenwaldermünde</rs>,<note type="ea">Die erklärenden Anmerkungen zu vorliegendem Brief wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note> d. 
       <date when="1920-08-25">25. August 1920</date> [<rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>, Taunusstraße 1]<note type="ea">Die eckigen Klammern setzte (wohl) Tillich selbst. Darüber notierte Wilhelm Ruprecht: <q>21 / 9 beantw</q>.</note>
-</dateline>
-      
-      <salute>An den Verlag Vandenhoeck und Ruprecht, <rs ref="#tillich_place_id__186" type="place">Göttingen</rs>.</salute>
-</opener>
-<p>Die ersten Wochen der Universitätsferien habe ich benutzt, um beiliegenden Entwurf für die <q>Wege zur Philosophie</q> fertig zu stellen. Die Ausarbeitung eines einzelnen Themas habe ich nicht begonnen, da vorher eine Reihe Fragen erledigt werden müssen, die sich aus dem Gesamt-Entwurf ergeben.</p>
-            <p>Der Entwurf geht, wie ich schon mitgeteilt habe, von dem System der Wissenschaften aus. <hi rend="u">Nur so</hi><note type="ea">Hier und im Folgenden markiert die durchgezogene Unterstreichung Markierungen der Gebrüder Ruprecht: Bleistift und Blaustift kommen vor, eine eindeutige Zuordnung zu jeweils einem der Brüder ist nicht möglich. Unterstreichungen mit Tinte werden Tillich (bzw. seiner Schreibkraft) zugerechnet.</note> ist ein klarer Fortschritt der Themata, die <hi rend="u">Garantie der Vollständigkeit</hi>, sowie die <hi rend="u">Möglichkeit gegenseitiger Abgrenzung</hi> gegeben. Die Prinzipien der Einteilung wä<supplied>re</supplied>n zu behandeln in <hi rend="u">Thema 27:</hi> <q><hi rend="u">Das System der Wissenschaften</hi> u.s.w.</q><note type="ea">In Höhe dieses Satzes beginnt am linken Rand eine Notiz, wohl von Gustav Ruprecht: <q>Bd.1? Von ihm selbst zu bearbeiten gewünscht (s. 3.)</q>.</note> Der Einteilung entsprechend habe ich die Themata geordnet nach Abteilungen und Serien. Die erste Abteilung enthält die Naturphilosophie in dem weiteren Sinne, der auch Philosophie der Psychologie und Soziologie einschließt. So entstehen mindestens vier Serien. Der zweite Teil enthält die Kulturphilosophie<supplied>,</supplied> die ich in die beiden Abteilungen der theoretischen und praktischen Philosophie mit je zwei Serien zerlegt habe. Doch ließe sich ebenso zweckmäßig die Kulturphilosophie als <hi rend="u">eine</hi> Abteilung mit vier Serien behandeln. Die dritte resp. vierte Abteilung bildet dann die Religionsphilosophie, in der besondere Serien nicht zu unterscheiden sind. Die Auswahl der Themata sucht das Wichtigste in möglichster Vollständigkeit zu erfassen, und zwar so, daß jedes Thema etwa in den Grenzen des gegebenen Raumes behandelt werden kann, denselben aber auch vollauf in Anspruch nimmt. Natürlich ist es möglich, sowohl neue Themata zu finden als auch vorgeschlagene Themata zurückzustellen resp. mehrere zusammenzuziehen: <hi rend="u">Die Festigkeit des Gerüstes läßt der Ausführung großen Spielraum</hi>. Die vorhandenen Hefte sind systematisch vollkommen eingeordnet (<hi rend="u">Nr. 1: Thema 18; Nr. 2: Thema 8; Nr. 3: Thema 23; Nr. 4: Thema 28; Nr. 5: Thema 16; Nr. 6: Thema 11; Nr. 7: Thema 31; die Schrift von <rs ref="#tillich_person_id__2752" type="person">Reyer</rs> Thema 26</hi>.) Für eventuelle zweite Auflagen habe ich zum Teil die Titel etwas verändert, entsprechend dem Gesamtentwurf<note type="ea">Hier wie im Folgenden noch öfter streicht Tillich (oder seine Schreibkraft) das zweite <q>m</q> aus <q>Gesammt</q>, <q>sämmtlich</q> etc.; auf den entsprechenden Einzelnachweis wird verzichtet.</note>.</p>
-<p>Zu den neuen Themen habe ich mit geringen Ausnahmen nur das Wesentliche enthaltende Inhaltsangabe gegeben. Der Zweck der Inhaltsangaben ist der, für sämtliche Mitarbeiter einerseits den thematologischen Gesamtfortschritt deutlich zu machen, andererseits die allgemeine Richtung für die spezielle Arbeit zu geben. Eine Bindung sollen sie nur insofern bedeuten, als sie die Aufgabe gegenseitiger Ergänzung eindringlich zum Bewußtsein bringen sollen. Alles Nähere würde sich bei der Verhandlung mit den einzelnen Autoren, denen immer der Gesamtplan vorgelegt werden müßte, ergeben.</p>
-            <p>Nicht alle Themata sind gleich aktuel<supplied>l</supplied> und erfolgversprechend. Ich möchte aus den einzelnen Serien diejenigen angeben<supplied>,</supplied> die mir <hi rend="u">am wichtigsten</hi><note type="ea">Von einem der Ruprechts außer der kräftigen Unterstreichung auch noch am linken Rand durch Markierung hervorgehoben.</note> zu sein scheinen: Abteilung I Th. 2, 3, 5 (Relativitätstheorie!) 7, 9 (Energetik!) 12, 13, 14 (neues Gebiet!) 17. Abt. II Th. 24, 25 (Neuhegelianismus!) 27, 29 (<rs ref="#tillich_person_id__2135" type="person">Rickert</rs>!) 35, 36, 37, 38. Abt. III Th. 41, 42 (Pazifismus!) 43, 44, 47, 48, 50, 53. Abt. IV. 56, 58, 59, 60, 63, 64.</p>
-      <p>Durch den vorliegenden Entwurf wird das Unternehmen auf eine sehr breite Grundlage gestellt; es wird zu <hi rend="u">einer Art Bibliothek der systematischen Philosophie für die Allgemeinheit</hi>. Das gegenwärtige außerordentliche Interesse weiter Kreise an der Philosophie ist einem derartigen Unternehmen überaus günstig. Am Wichtigsten wird es, wie ich schon schrieb, für die neuentstehende Volkshochschularbeit werden. In Folge dessen darf es natürlich niemals den Charakter einer <q>Einführung in das philosophische Denken</q> verlieren, d. h. <hi rend="u">jedes einzelne Heft muß von Vorn anfangen und zum Ziel führen</hi>.<note type="ea">Zusätzlich Randmarkierung</note></p>           
-<p>Es schadet deswegen auch nichts, wenn Probleme und Gesichtspunkte in verschiedenen Heften wiederkehren. Vielmehr wird dadurch das lebendige Doppelverhältnis
+               </dateline>
+               <salute>An den Verlag Vandenhoeck und Ruprecht, <rs ref="#tillich_place_id__186" type="place">Göttingen</rs>.</salute>
+            </opener>
+            <p>Die ersten Wochen der Universitätsferien habe ich benutzt, um beiliegenden Entwurf für die <q>Wege zur Philosophie</q> fertig zu stellen. Die Ausarbeitung eines einzelnen Themas habe ich nicht begonnen, da vorher eine Reihe Fragen erledigt werden müssen, die sich aus dem Gesamt-Entwurf ergeben.</p>
+            <p>Der Entwurf geht, wie ich schon mitgeteilt habe, von dem System der Wissenschaften aus. <hi rend="u">Nur so</hi>
+               <note type="ea">Hier und im Folgenden markiert die durchgezogene Unterstreichung Markierungen der Gebrüder Ruprecht: Bleistift und Blaustift kommen vor, eine eindeutige Zuordnung zu jeweils einem der Brüder ist nicht möglich. Unterstreichungen mit Tinte werden Tillich (bzw. seiner Schreibkraft) zugerechnet.</note> ist ein klarer Fortschritt der Themata, die <hi rend="u">Garantie der Vollständigkeit</hi>, sowie die <hi rend="u">Möglichkeit gegenseitiger Abgrenzung</hi> gegeben. Die Prinzipien der Einteilung wä<supplied>re</supplied>n zu behandeln in <hi rend="u">Thema 27:</hi>
+               <q>
+                  <hi rend="u">Das System der Wissenschaften</hi> u.s.w.</q>
+               <note type="ea">In Höhe dieses Satzes beginnt am linken Rand eine Notiz, wohl von Gustav Ruprecht: <q>Bd.1? Von ihm selbst zu bearbeiten gewünscht (s. 3.)</q>.</note> Der Einteilung entsprechend habe ich die Themata geordnet nach Abteilungen und Serien. Die erste Abteilung enthält die Naturphilosophie in dem weiteren Sinne, der auch Philosophie der Psychologie und Soziologie einschließt. So entstehen mindestens vier Serien. Der zweite Teil enthält die Kulturphilosophie<supplied>,</supplied> die ich in die beiden Abteilungen der theoretischen und praktischen Philosophie mit je zwei Serien zerlegt habe. Doch ließe sich ebenso zweckmäßig die Kulturphilosophie als <hi rend="u">eine</hi> Abteilung mit vier Serien behandeln. Die dritte resp. vierte Abteilung bildet dann die Religionsphilosophie, in der besondere Serien nicht zu unterscheiden sind. Die Auswahl der Themata sucht das Wichtigste in möglichster Vollständigkeit zu erfassen, und zwar so, daß jedes Thema etwa in den Grenzen des gegebenen Raumes behandelt werden kann, denselben aber auch vollauf in Anspruch nimmt. Natürlich ist es möglich, sowohl neue Themata zu finden als auch vorgeschlagene Themata zurückzustellen resp. mehrere zusammenzuziehen: <hi rend="u">Die Festigkeit des Gerüstes läßt der Ausführung großen Spielraum</hi>. Die vorhandenen Hefte sind systematisch vollkommen eingeordnet (<hi rend="u">Nr. 1: Thema 18; Nr. 2: Thema 8; Nr. 3: Thema 23; Nr. 4: Thema 28; Nr. 5: Thema 16; Nr. 6: Thema 11; Nr. 7: Thema 31; die Schrift von <rs ref="#tillich_person_id__2752" type="person">Reyer</rs> Thema 26</hi>.) Für eventuelle zweite Auflagen habe ich zum Teil die Titel etwas verändert, entsprechend dem Gesamtentwurf<note type="ea">Hier wie im Folgenden noch öfter streicht Tillich (oder seine Schreibkraft) das zweite <q>m</q> aus <q>Gesammt</q>, <q>sämmtlich</q> etc.; auf den entsprechenden Einzelnachweis wird verzichtet.</note>.</p>
+            <p>Zu den neuen Themen habe ich mit geringen Ausnahmen nur das Wesentliche enthaltende Inhaltsangabe gegeben. Der Zweck der Inhaltsangaben ist der, für sämtliche Mitarbeiter einerseits den thematologischen Gesamtfortschritt deutlich zu machen, andererseits die allgemeine Richtung für die spezielle Arbeit zu geben. Eine Bindung sollen sie nur insofern bedeuten, als sie die Aufgabe gegenseitiger Ergänzung eindringlich zum Bewußtsein bringen sollen. Alles Nähere würde sich bei der Verhandlung mit den einzelnen Autoren, denen immer der Gesamtplan vorgelegt werden müßte, ergeben.</p>
+            <p>Nicht alle Themata sind gleich aktuel<supplied>l</supplied> und erfolgversprechend. Ich möchte aus den einzelnen Serien diejenigen angeben<supplied>,</supplied> die mir <hi rend="u">am wichtigsten</hi>
+               <note type="ea">Von einem der Ruprechts außer der kräftigen Unterstreichung auch noch am linken Rand durch Markierung hervorgehoben.</note> zu sein scheinen: Abteilung I Th. 2, 3, 5 (Relativitätstheorie!) 7, 9 (Energetik!) 12, 13, 14 (neues Gebiet!) 17. Abt. II Th. 24, 25 (Neuhegelianismus!) 27, 29 (<rs ref="#tillich_person_id__2135" type="person">Rickert</rs>!) 35, 36, 37, 38. Abt. III Th. 41, 42 (Pazifismus!) 43, 44, 47, 48, 50, 53. Abt. IV. 56, 58, 59, 60, 63, 64.</p>
+            <p>Durch den vorliegenden Entwurf wird das Unternehmen auf eine sehr breite Grundlage gestellt; es wird zu <hi rend="u">einer Art Bibliothek der systematischen Philosophie für die Allgemeinheit</hi>. Das gegenwärtige außerordentliche Interesse weiter Kreise an der Philosophie ist einem derartigen Unternehmen überaus günstig. Am Wichtigsten wird es, wie ich schon schrieb, für die neuentstehende Volkshochschularbeit werden. In Folge dessen darf es natürlich niemals den Charakter einer <q>Einführung in das philosophische Denken</q> verlieren, d. h. <hi rend="u">jedes einzelne Heft muß von Vorn anfangen und zum Ziel führen</hi>.<note type="ea">Zusätzlich Randmarkierung</note>
+            </p>
+            <p>Es schadet deswegen auch nichts, wenn Probleme und Gesichtspunkte in verschiedenen Heften wiederkehren. Vielmehr wird dadurch das lebendige Doppelverhältnis
 aller philosophischen Probleme, ihre Selbstständigkeit und ihr gegenseitiges Verbundensein um so deutlicher offenbar. Und grade dieses wäre ein Vorzug der <q>Wege</q> vor einem starr geschlossenen philosophischen System.</p>
-            <p><hi rend="u">Für mich selbst</hi><note type="ea">Zusätzlich Randmarkierung</note> würden zur Ausarbeitung folgende Themata in Betracht kommen: Th. 6, <hi rend="u">27</hi>, 32, <hi rend="u">54, 55</hi>, 56, 59, 60.<note type="ea">Die Nummern 27, 56, 59, 60 sind von einem der Ruprechts mit Bleistiftkreisen markiert worden.</note> Für Thema 27 spricht, daß es die
+            <p>
+               <hi rend="u">Für mich selbst</hi>
+               <note type="ea">Zusätzlich Randmarkierung</note> würden zur Ausarbeitung folgende Themata in Betracht kommen: Th. 6, <hi rend="u">27</hi>, 32, <hi rend="u">54, 55</hi>, 56, 59, 60.<note type="ea">Die Nummern 27, 56, 59, 60 sind von einem der Ruprechts mit Bleistiftkreisen markiert worden.</note> Für Thema 27 spricht, daß es die
                   Grundlage des gesamten Entwurfes enthält und mit einer programmatischen Einleitung an die Spitze der neuen Veröffentlichungen treten könnte. Th. 55 und 56 würden unmittelbar aus meinem letzten Kolleg hervorgehen<supplied>,</supplied> namentlich 56<note type="ea">Von einem der Ruprechts mit einem Kreis markiert.</note> würde ich nicht gern jemand anders überlassen. Ich erwarte Ihre Äußerung dazu.</p>
             <p>Buchhändlerisch erlaube ich mir die Frage, ob es nicht möglich wäre einen billigeren Abonnementspreis für den Bezug der ganzen Sammlung und der einzelnen Abteilungen festzusetzen.<note type="ea">Dazu notiert Gustav Ruprecht am linken Rand: <q>Heute nur in Form eines <hi rend="u">prozentualen</hi> Nachlasses möglich</q>.</note> Es würden dadurch auch die weniger einschlagenden Hefte einen festen Absatz haben. Zu diesem Zweck wäre es nötig, einen dem beiliegenden ähnlichen Entwurf zu drucken und an die Interessenten z. B. sämtliche Volkshochschullehrer <hi rend="u">mit einer leicht zu erreichenden ministeriellen Empfehlung</hi> zu versenden.</p>
-<p>Falls Sie entschlossen sind, die <q>Wege</q> auf diese erweiterte Grundlage zu stellen, bin ich bereit, unter näher zu vereinbarenden Bedingungen die Herausgabe zu übernehmen.</p>
-<p>Leider ist es mir hier nicht möglich, Ihnen zwei Schreibmaschinen-Abzüge zu übersenden. Falls Sie jedoch dem Plane näher treten wollen, wäre ich sehr
-      dankbar, wenn Sie mehrere Schreibmaschinen-Abzüge anfertigen ließen, auch einen für Herrn <rs ref="#tillich_person_id__2735" type="person">Dr. Albers</rs><note type="ea">Einer der Ruprechts streicht den Titel durch und markiert die Passage am linken Rand.</note>, und mir zwei davon zuschicken würden.</p>
-            <p>Ich sehe Ihrer Antwort entgegen<supplied>,</supplied> <hi rend="u">die ich an die <sic>berliner</sic> Adresse zu richten bitte</hi>,<note type="ea">Am linken Rand notiert Gustav Ruprecht: <q>2 ges. u. geschr. 3 / 9</q>.</note> u. hoffe auf weitere gedeihliche Zusammenarbeit.</p>
-<closer>
-<salute>Hochachtungsvoll <lb/>ergebenst</salute>
-      <signed><rs ref="#tillich_person_id__1928" type="person">Dr. Paul Tillich</rs>.</signed>
-      
-      
-</closer>
-</div>
-      <div type="writingSession" n="2"><pb n="1"/>
+            <p>Falls Sie entschlossen sind, die <q>Wege</q> auf diese erweiterte Grundlage zu stellen, bin ich bereit, unter näher zu vereinbarenden Bedingungen die Herausgabe zu übernehmen.</p>
+            <p>Leider ist es mir hier nicht möglich, Ihnen zwei Schreibmaschinen-Abzüge zu übersenden. Falls Sie jedoch dem Plane näher treten wollen, wäre ich sehr
+      dankbar, wenn Sie mehrere Schreibmaschinen-Abzüge anfertigen ließen, auch einen für Herrn <rs ref="#tillich_person_id__2735" type="person">Dr. Albers</rs>
+               <note type="ea">Einer der Ruprechts streicht den Titel durch und markiert die Passage am linken Rand.</note>, und mir zwei davon zuschicken würden.</p>
+            <p>Ich sehe Ihrer Antwort entgegen<supplied>,</supplied>
+               <hi rend="u">die ich an die <sic>berliner</sic> Adresse zu richten bitte</hi>,<note type="ea">Am linken Rand notiert Gustav Ruprecht: <q>2 ges. u. geschr. 3 / 9</q>.</note> u. hoffe auf weitere gedeihliche Zusammenarbeit.</p>
+            <closer>
+               <salute>Hochachtungsvoll <lb/>ergebenst</salute>
+               <signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Dr. Paul Tillich</rs>.</signed>
+            </closer>
+         </div>
+         <div type="writingSession" n="2">
+            <pb n="1"/>
             <p>
-                  <hi rend="b">Wege zur Philosophie</hi><note type="ea">Mehrseitiger Entwurf von der Hand Tillichs; Angaben zum Seitenumbruch in eckigen Klammern.</note><lb/>
-                  <lb/>
-                  Wege zur Philosophie<note type="ea">Links oben steht: <q>3 / 9 Abschrift u. Brf. T&apos;s an <rs ref="#tillich_person_id__" type="person">H. Albers</rs> ges. 2 Durchschläge an Tillich 1 an <rs ref="#tillich_person_id__" type="person">Hirsch</rs></q>. Die Zuordnung der Marginalie fällt schwer. Sie könnte von <rs ref="#tillich_person_id__" type="person">Gustav Ruprecht</rs>, aber auch
-von einem Verlagsmitarbeiter stammen.</note><lb/>
-                  <lb/>
-                  Erste Abteilung<note type="ea">In der folgenden Übersicht wurde von verschiedenen Händen markiert: Tillich unterstreicht die Serien / Themen / Titel schwarz, eine andere Person Abteilungen und Themen blau, Serienrot. Auf Einzelwiedergabe wird verzichtet. Zuweilen lassen sich die Punkte hinter den Themenzahlen nicht erkennen. Auch hier wird auf den Einzelnachweis verzichtet.</note> Naturphilosophie.<note type="ea">Dahinter ist notiert: <q>(In 20 Bänden)</q>.</note><lb/>
-                  Serie I:<note type="ea">Darüber ist von Hand notiert: <q>Reihe 1</q>.</note> Die Philosophie der Mathematik.<note type="ea"> Dahinter ist notiert: <q>(Band 1–5)</q>.</note><lb/>
-<lb/>
+               <hi rend="b">Wege zur Philosophie</hi>
+               <note type="ea">Mehrseitiger Entwurf von der Hand Tillichs; Angaben zum Seitenumbruch in eckigen Klammern.</note>
+               <lb/>
+               <lb/>
+                  Wege zur Philosophie<note type="ea">Links oben steht: <q>3 / 9 Abschrift u. Brf. T's an <rs ref="#tillich_person_id__" type="person">H. Albers</rs> ges. 2 Durchschläge an Tillich 1 an <rs ref="#tillich_person_id__" type="person">Hirsch</rs>
+                  </q>. Die Zuordnung der Marginalie fällt schwer. Sie könnte von <rs ref="#tillich_person_id__" type="person">Gustav Ruprecht</rs>, aber auch
+von einem Verlagsmitarbeiter stammen.</note>
+               <lb/>
+               <lb/>
+                  Erste Abteilung<note type="ea">In der folgenden Übersicht wurde von verschiedenen Händen markiert: Tillich unterstreicht die Serien / Themen / Titel schwarz, eine andere Person Abteilungen und Themen blau, Serienrot. Auf Einzelwiedergabe wird verzichtet. Zuweilen lassen sich die Punkte hinter den Themenzahlen nicht erkennen. Auch hier wird auf den Einzelnachweis verzichtet.</note> Naturphilosophie.<note type="ea">Dahinter ist notiert: <q>(In 20 Bänden)</q>.</note>
+               <lb/>
+                  Serie I:<note type="ea">Darüber ist von Hand notiert: <q>Reihe 1</q>.</note> Die Philosophie der Mathematik.<note type="ea"> Dahinter ist notiert: <q>(Band 1–5)</q>.</note>
+               <lb/>
+               <lb/>
                   1. Thema: Menge, Ordnung und Zahl.<lb/>
-                  <lb/>
+               <lb/>
                   2. Thema: Der Raum.<lb/>
                   Inhalt:<lb/>
                   1.) Der optische Raum.<lb/>
                   2.) Der mathematische Raum.<lb/>
                   3.) Der erkenntnistheoretische Raum.<lb/>
                   4.) Das Problem des transcendenten Raumes.<lb/>
-                  <lb/>
+               <lb/>
                   
                   3. Thema Die Zeit.<lb/>
                   Inhalt:<lb/>
@@ -155,15 +170,19 @@ von einem Verlagsmitarbeiter stammen.</note><lb/>
                   2.) Die Zeit als vierte Dimension.<lb/>
                   3.) Die Zeit als Form der inneren Anschauung.<lb/>
                   4.) Zeit und Dauer.<lb/>
-                  5.) Das Problem der transcendenten Zeit.<pb n="2"/><lb/>
-                  <lb/>
+                  5.) Das Problem der transcendenten Zeit.<pb n="2"/>
+               <lb/>
+               <lb/>
                   4. Thema: Das Stetige und das unendlich Kleine. [Philosophie des Differenzi-
-                  als]<note type="ea">Die eckigen Klammern stehen im Original.</note><lb/>
-                  <lb/>
+                  als]<note type="ea">Die eckigen Klammern stehen im Original.</note>
+               <lb/>
+               <lb/>
                   5. Thema: Die Bewegung und das Prinzip der Relativität.<lb/>
-                  <lb/>
-                  Serie II: Philosophie der Physik.<note type="ea">Dahinter ist notiert: <q>(Band 6–9)</q></note><lb/>
-                  <lb/>
+               <lb/>
+                  Serie II: Philosophie der Physik.<note type="ea">Dahinter ist notiert: <q>(Band 6–9)</q>
+               </note>
+               <lb/>
+               <lb/>
                   6. Thema: Die Natur und das Natürliche.<lb/>
                   Inhalt:<lb/>
                   1.) Formaler und materialer Naturbegriff.<lb/>
@@ -171,17 +190,19 @@ von einem Verlagsmitarbeiter stammen.</note><lb/>
                   3.) Das Natürliche und das Gesetzte.<lb/>
                   4.) Die Natur und der Geist.<lb/>
                   5.) Die Natur und die Kultur.<lb/>
-                  <lb/>
+               <lb/>
                   7. Thema: Das Gesetz der Kausalität.<lb/>
                   Inhalt:<lb/>
                   1.) Die naive Vorstellung von Ursache und Wirkung.<lb/>
                   2.) Die Zersetzung des Kausalitätsbegriffes.<lb/>
                   3.) Die kritische Rechtfertigung der Kausalität.<lb/>
                   4.) Kausalität und Wechselwirkung.<lb/>
-                  5.) Kausalität und Gravitation.<pb n="3"/><lb/>
-                  <lb/>
-8. Thema: Substanz und Materie. [s. Nr. 2. Die Materie.]<note type="ea">Die eckigen Klammern stehen im Original.</note><lb/>
-                  <lb/>
+                  5.) Kausalität und Gravitation.<pb n="3"/>
+               <lb/>
+               <lb/>
+8. Thema: Substanz und Materie. [s. Nr. 2. Die Materie.]<note type="ea">Die eckigen Klammern stehen im Original.</note>
+               <lb/>
+               <lb/>
                   9. Thema: Kraft, Masse und Energie.<lb/>
                   Inhalt:<lb/>
                   1.) Der naive Kraftbegriff und seine Auflösung.<lb/>
@@ -189,26 +210,29 @@ von einem Verlagsmitarbeiter stammen.</note><lb/>
                   3.) Der Begriff der Energie und die Auflösung des Substanzbegriffes.<lb/>
                   4.) Schöpfung und Erhaltung der Energie.<lb/>
                   5.) Die Richtung der Energie und die Einmaligkeit des Weltverlaufs.<lb/>
-                  <lb/>
-                  Serie III: Philosophie der Biologie und Technik.<note type="ea">Dahinter ist notiert: <q>(Band 10–14)</q>.</note><lb/>
-                  <lb/>
+               <lb/>
+                  Serie III: Philosophie der Biologie und Technik.<note type="ea">Dahinter ist notiert: <q>(Band 10–14)</q>.</note>
+               <lb/>
+               <lb/>
                   10. Thema: Der Zweck in Natur und Technik.<lb/>
                   Inhalt:<lb/>
                   1.) Ursache und Zweck.<lb/>
                   2.) Der äußere Zweck und das technische Handeln.<lb/>
                   3.) Der innere Zweck und der Organismus.<lb/>
                   4.) Teleologische Betrachtung der Natur.<lb/>
-                  <lb/>
-                  11. Thema: Das Lebendige: philosophische Grundfragen der Biologie. [s. Nr. 6.]<note type="ea">Die eckigen Klammern stehen im Original.</note><lb/>
-                  <lb/>
+               <lb/>
+                  11. Thema: Das Lebendige: philosophische Grundfragen der Biologie. [s. Nr. 6.]<note type="ea">Die eckigen Klammern stehen im Original.</note>
+               <lb/>
+               <lb/>
                   12. Thema: Der biologische Entwicklungsgedanke.<lb/>
-                  Inhalt:<pb n="4"/><lb/>
-                  <lb/>
+                  Inhalt:<pb n="4"/>
+               <lb/>
+               <lb/>
                   1.) Die dialektische und zeitliche Entwicklung.<lb/>
                   2.) Wert und Entwicklung.<lb/>
                   3.) Die Variationen der Typen und der Begriff des Neuen.<lb/>
                   4.) Entwicklungsgrenze und Entwicklungsziel.<lb/>
-                  <lb/>
+               <lb/>
 
 13. Thema: Leben und Tod.<lb/>
                   Inhalt:<lb/>
@@ -218,17 +242,19 @@ von einem Verlagsmitarbeiter stammen.</note><lb/>
                   4.) Die Kultur der Dekadence<note type="ea">Die Schreibung wurde verbessert aus ursprünglich <q>Dekadenz</q>.</note>.<lb/>
                   5.) Die Biologie der Kulturkreise.<lb/>
                   6.) Die Philosophie des Negativen.<lb/>
-                  <lb/>
+               <lb/>
                   14. Thema: Zur Philosophie der Technik.<lb/>
                   Inhalt:<lb/>
                   1.) Organ und Werkzeug.<lb/>
                   2.) Die Dialektik der Arbeitsteilung.<lb/>
                   3.) Das biologisch Individuelle und technisch Universale.<lb/>
                   4.) Schönheit und Zweck.<lb/>
-                  5.) Technik und Glaube.<pb n="5"/><lb/>
-                  <lb/>
-                  Serie IV. Philosophie der Psychologie.<note type="ea">Dahinter ist notiert: <q>(Band 15–20)</q>.</note><lb/>
-                  <lb/>
+                  5.) Technik und Glaube.<pb n="5"/>
+               <lb/>
+               <lb/>
+                  Serie IV. Philosophie der Psychologie.<note type="ea">Dahinter ist notiert: <q>(Band 15–20)</q>.</note>
+               <lb/>
+               <lb/>
                   15. Thema: Ziele und Formen der Psychologie<lb/>
                   Inhalt:<lb/>
                   1.) Individual- und Sozialpsychologie. (Völkerpsychologie)<lb/>
@@ -237,32 +263,36 @@ von einem Verlagsmitarbeiter stammen.</note><lb/>
                   4.) Das Seelische und das Geschichtliche. (Psychologische Typologie)<lb/>
                   5.) Die Psychologie als Gegenstand und als Methode.<lb/>
                   6.) Psychologie und Geisteswissenschaften.<lb/>
-                  <lb/>
-                  16. Thema: Seele und Leib. [s. Nr. 5. Geist und Körper.]<note type="ea">Die eckigen Klammern stehen im Original.</note><lb/>
-                  <lb/>
+               <lb/>
+                  16. Thema: Seele und Leib. [s. Nr. 5. Geist und Körper.]<note type="ea">Die eckigen Klammern stehen im Original.</note>
+               <lb/>
+               <lb/>
                   17. Thema: Seelenbegriff und Seelenproblem.<lb/>
                   1.) Die Seele als Substanz und als Funktion.<lb/>
                   2.) Einheit und Dauer der Seele. (Unsterblichkeitsproblem.)<lb/>
                   3.) Das Seelische in der organischen Welt. (Tier- und Pflanzenseele)<lb/>
                   4.) Das Seelische in der anorganischen Welt (Panpsychismus)<lb/>
                   5.) Die Idee der Weltseele.<lb/>
-                  <lb/>
-                  18. Thema: Das Problem der Willensfreiheit. [s. Nr. 1.]<note type="ea">Die eckigen Klammern stehen im Original.</note><lb/>
-                  <lb/>
-                  19. Thema: Verstandes<supplied>-</supplied> und Willensphilosophie.<pb n="6"/><lb/>
-                  <lb/>
+               <lb/>
+                  18. Thema: Das Problem der Willensfreiheit. [s. Nr. 1.]<note type="ea">Die eckigen Klammern stehen im Original.</note>
+               <lb/>
+               <lb/>
+                  19. Thema: Verstandes<supplied>-</supplied> und Willensphilosophie.<pb n="6"/>
+               <lb/>
+               <lb/>
                   Inhalt:<lb/>
                   1.) Das Verhältnis des Willens zu Vorstellung und Gefühl.<lb/>
                   2.) Die Deutungen der Welt vom Vorstellen aus.<lb/>
                   3.) Die Deutungen der Welt vom Willen aus.<lb/>
                   4.) Der Sinn und die Grenzen der psychologischen Weltdeutungen.<lb/>
-                  <lb/>
+               <lb/>
                   20. Thema: Die Grundlagen der Soziologie.<lb/>
-                  <lb/>
-Zweite Abteilung. Kulturphilosophie, theoretische Sphäre.<note type="ea">Dahinter ist notiert: <q>(In 18 Bänden)</q>.</note><lb/>
-                  <lb/>
+               <lb/>
+Zweite Abteilung. Kulturphilosophie, theoretische Sphäre.<note type="ea">Dahinter ist notiert: <q>(In 18 Bänden)</q>.</note>
+               <lb/>
+               <lb/>
                   Serie I. Philosophie des Erkennens.<lb/>
-                  <lb/>
+               <lb/>
                   21. Thema: Die Selbsterkenntnis des Erkennens und das Problem der Logik.<lb/>
                   Inhalt:<lb/>
                   1.) Die formale Logik und ihre Vollkommenheit.<lb/>
@@ -270,18 +300,20 @@ Zweite Abteilung. Kulturphilosophie, theoretische Sphäre.<note type="ea">Dahint
                   3.) Die Probleme der Urteilsbildung.<lb/>
                   4.) Die Probleme der Begriffsbildung.<lb/>
                   5.) Das Problem der Geltung.<lb/>
-                  <lb/>
-22. Thema: Subjekt und Objekt<supplied>.</supplied> Einführung in das Grundproblem der Erkenntnistheorie.<pb n="7"/><lb/>
-                  <lb/>
+               <lb/>
+22. Thema: Subjekt und Objekt<supplied>.</supplied> Einführung in das Grundproblem der Erkenntnistheorie.<pb n="7"/>
+               <lb/>
+               <lb/>
                   Inhalt:<lb/>
                   1.) Die Subjektivität der Sinnesqualitäten.<lb/>
                   2.) Die Subjektivität der Anschauungsformen.<lb/>
                   3.) Die Subjektivität der Denkformen.<lb/>
                   4.) Empirisches und erkenntnistheoretisches Subjekt.<lb/>
                   5.) Das Ding an sich.<lb/>
-                  <lb/>
-                  23. Thema: Idealismus und Realismus. [s. Nr. 3.]<note type="ea">Die eckigen Klammern stehen im Original.</note><lb/>
-                  <lb/>
+               <lb/>
+                  23. Thema: Idealismus und Realismus. [s. Nr. 3.]<note type="ea">Die eckigen Klammern stehen im Original.</note>
+               <lb/>
+               <lb/>
 24. Thema: Die Kategorien. Einführung in die Grundlagen der kritischen Philosophie.<lb/>
                   Inhalt:<lb/>
                   1.) Der ältere Sinn der Kategorien.<lb/>
@@ -290,20 +322,22 @@ Zweite Abteilung. Kulturphilosophie, theoretische Sphäre.<note type="ea">Dahint
                   4.) Der Gegenstand und die Kategorien.<lb/>
                   5.) Philosophie als Kategorienlehre.<lb/>
                   6.) Das System der Kategorie.<lb/>
-                  <lb/>
+               <lb/>
 25. Thema: Denken und Sein, Einführung in die Grundlagen der dialektischen
 Philosophie.<lb/>
                   Inhalt:<lb/>
-                  1.) Das philosophische Prinzip als Voraussetzung des Systems.<pb n="8"/><lb/>
+                  1.) Das philosophische Prinzip als Voraussetzung des Systems.<pb n="8"/>
+               <lb/>
                   2.) Die Dialektik von Denken und Sein als philosophisches Prinzip.<lb/>
                   3.) Die platonisch-aristotelische Dialektik von Form und Materie.<lb/>
                   4.) Die Fichte-Hegelsche Dialektik des Werdens.<lb/>
                   5.) Die Dialektik des Absoluten.<lb/>
                   6.) Dialektische und kritische Philosophie.<lb/>
-                  <lb/>
+               <lb/>
 26. Thema: Phänomenologie und Wesensforschung, Einführung in die Grundlagen der intuitiven Philosophie.<lb/>
-                  [s. die Schrift von <rs ref="#tillich_person_id__2752" type="person">Reyer</rs>.]<note type="ea">Die eckigen Klammern stehen im Original.</note><lb/>
-                  <lb/>
+                  [s. die Schrift von <rs ref="#tillich_person_id__2752" type="person">Reyer</rs>.]<note type="ea">Die eckigen Klammern stehen im Original.</note>
+               <lb/>
+               <lb/>
                   27. Thema: Das System der Wissenschaften nach Gegenständen und Methoden.<lb/>
                   Inhalt:<lb/>
                   1.) Der Unterschied von Seins- und Denkwissenschaften.<lb/>
@@ -313,9 +347,11 @@ Philosophie.<lb/>
                   5.) Die Philosophie als Grundlage der Denkwissenschaften.<lb/>
                   6.) Die Typologie und Geschichtsphilosophie der Kultur.<lb/>
                   7.) Die systematischen Normwissenschaften.<lb/>
-                  <lb/>
-28. Thema: Die Hypothese, und die Methodik der Naturwissenschaften. [s. Nr. 4.]<note type="ea">Die eckigen Klammern stehen im Original.</note><pb n="9"/><lb/>
-                  <lb/>
+               <lb/>
+28. Thema: Die Hypothese, und die Methodik der Naturwissenschaften. [s. Nr. 4.]<note type="ea">Die eckigen Klammern stehen im Original.</note>
+               <pb n="9"/>
+               <lb/>
+               <lb/>
                   29. Thema: Der Kampf der Methoden.<lb/>
                   Inhalt:<lb/>
                   1.) Die Generalisierende Methode der Naturwissenschaft.<lb/>
@@ -323,7 +359,7 @@ Philosophie.<lb/>
                   3.) Die Individualisierende Methode der Geschichtswissenschaft.<lb/>
                   4.) Das Eindringen derselben in das naturwissenschaftliche Denken.<lb/>
                   5.) Die universelle und spezielle Bedeutung beider Methoden.<lb/>
-                  <lb/>
+               <lb/>
                   30. Thema: Das Wesen und die Aufgabe der Philosophie.<lb/>
                   Inhalt:<lb/>
                   1.) Das Wesen der Philosophie als philosophisches Problem.<lb/>
@@ -333,10 +369,12 @@ Philosophie.<lb/>
                   5.) Die Philosophie als Kategorienlehre.<lb/>
                   6.) Die Philosophie der Geschichte.<lb/>
                   7.) Philosophie und normative Kulturwissenschaft.<lb/>
-                  <lb/>
-                  31. Thema: Die Skepsis in Philosophie und Wissenschaft. [s. Nr. 7.]<note type="ea">Die eckigen Klammern stehen im Original.</note><lb/>
-                  <lb/>
-                  32. Thema: Evidenz und Überzeugung.<pb n="10"/><lb/>
+               <lb/>
+                  31. Thema: Die Skepsis in Philosophie und Wissenschaft. [s. Nr. 7.]<note type="ea">Die eckigen Klammern stehen im Original.</note>
+               <lb/>
+               <lb/>
+                  32. Thema: Evidenz und Überzeugung.<pb n="10"/>
+               <lb/>
                   Inhalt:<lb/>
                   1.) Das Gewißheitsproblem im Verhältnis zum Gegenstands- und zum Erkenntnisproblem.<lb/>
                   2.) Die Kriterien der Evidenz.<lb/>
@@ -344,9 +382,10 @@ Philosophie.<lb/>
                   4.) Die praktische Überzeugung.<lb/>
                   5.) Die schöpferische Überzeugung.<lb/>
                   6.) Die religiöse Gewißheit.<lb/>
-                  <lb/>
-                  Serie II. Philosophie des Anschauens.<note type="ea">Dahinter ist notiert: <q>(Band 33-38)</q>.</note><lb/>
-                  <lb/>
+               <lb/>
+                  Serie II. Philosophie des Anschauens.<note type="ea">Dahinter ist notiert: <q>(Band 33-38)</q>.</note>
+               <lb/>
+               <lb/>
                   33. Thema: Das Ästhetische und seine Stellung im Geistesleben.<lb/>
                   Inhalt:<lb/>
                   1.) Das Ästhetische als selbstständige Geistesfunktion.<lb/>
@@ -354,8 +393,9 @@ Philosophie.<lb/>
                   3.) Die Abgrenzung des Ästhetischen gegen das Ethische.<lb/>
                   4.) Die Abgrenzung des Ästhetischen gegen das Logische.<lb/>
                   5.) Die Abgrenzung des Ästhetischen gegen das Religiöse.<lb/>
-                  <lb/>
-                  34. Thema: Das Ästhetische in seiner Mannigfaltigkeit.<pb n="11"/><lb/>
+               <lb/>
+                  34. Thema: Das Ästhetische in seiner Mannigfaltigkeit.<pb n="11"/>
+               <lb/>
                   Inhalt:<lb/>
                   1.) Die ästhetische Anschauung in Natur und Kunst.<lb/>
                   2.) Das Ästhetische im Verhältnis zum Schönen und zum Häßlichen.<lb/>
@@ -363,23 +403,24 @@ Philosophie.<lb/>
                   4.) Das Tragische und das Komische.<lb/>
                   5.) Der Humor als Kunst- und als Lebensform.<lb/>
                   6.) Ästhetik des Kosmos.<lb/>
-                  <lb/>
+               <lb/>
                   35. Thema: Form und Inhalt des Kunstwerkes.<lb/>
                   Inhalt:<lb/>
-                  1.) Die Form als das bestimmende Prinzip und der Grundsatz l&apos;art pour l&apos;art.<lb/>
+                  1.) Die Form als das bestimmende Prinzip und der Grundsatz l'art pour l'art.<lb/>
                   2.) Die Bedeutung der Gegenstandswahl u. das Interesse am Inhalt.<lb/>
                   3.) Der Gehalt des Kunstwerkes und seine Offenbarung durch die Form.<lb/>
                   4.) Der Eigengehalt des Gegenstandes und der Allgemeingehalt der Form.<lb/>
                   5.) Außerästhetische Zwecksetzung und Kunstform.<lb/>
-                  <lb/>
+               <lb/>
                   36. Thema: Wesen und Typen des Kunststiles.<lb/>
                   Inhalt:<lb/>
                   1.) Der formale und der gehaltliche Sinn des Stils.<lb/>
-                  2.) Die am Gegenstand orientierten Stilformen.<pb n="12"/><lb/>
+                  2.) Die am Gegenstand orientierten Stilformen.<pb n="12"/>
+               <lb/>
                   3.) Die am Gehalt orientierten Stilformen.<lb/>
                   4.) Die auf Rationalität d. Form gerichteten Stile.<lb/>
                   5.) Die Metaphysik des Stils.<lb/>
-                  <lb/>
+               <lb/>
                   37. Thema: Das System der Künste.<lb/>
                   Inhalt:<lb/>
                   1.) Die Einteilungsprinzipien der Künste.<lb/>
@@ -388,7 +429,7 @@ Philosophie.<lb/>
                   4.) Grenzen und Grenzüberschreitungen der Kunstarten.<lb/>
                   5.) Die Idee des absoluten Kunstwerkes.<lb/>
                   6.) Lebensformen als Kunstwerke.<lb/>
-                  <lb/>
+               <lb/>
                   38. Thema: Transcendentalpsychologie des Kunstschaffens.<lb/>
                   Inhalt:<lb/>
                   1.) Die Freiheit und das Schöpferische.<lb/>
@@ -396,35 +437,40 @@ Philosophie.<lb/>
                   3.) Das Genie.<lb/>
                   4.) Die Unendlichkeit des Kunstwerkes.<lb/>
                   5.) Die Freiheit des schaffenden Nacherlebens.<lb/>
-                  6.) Die Typen des Schöpferischen.<pb n="13"/><lb/>
-                  <lb/>
-Dritte Abteilung: Kulturphilosophie, praktische Sphäre.<note type="ea">Dahinter ist notiert: <q>(In 16 Bänden)</q>.</note><lb/>
-                  <lb/>
-                  Serie I. Philosophie des Rechts.<note type="ea">Dahinter ist notiert: <q>(Band 39–45.)</q>.</note><lb/>
-                  <lb/>
+                  6.) Die Typen des Schöpferischen.<pb n="13"/>
+               <lb/>
+               <lb/>
+Dritte Abteilung: Kulturphilosophie, praktische Sphäre.<note type="ea">Dahinter ist notiert: <q>(In 16 Bänden)</q>.</note>
+               <lb/>
+               <lb/>
+                  Serie I. Philosophie des Rechts.<note type="ea">Dahinter ist notiert: <q>(Band 39–45.)</q>.</note>
+               <lb/>
+               <lb/>
                   39. Thema: Die Idee des Rechts.<lb/>
                   Inhalt:<lb/>
                   1.) Die Begründungen der Rechtsidee.<lb/>
                   2.) Die Geltung des Rechts.<lb/>
                   3.) Recht und Macht.<lb/>
                   4.) Recht und Sittlichkeit.<lb/>
-                  <lb/>
+               <lb/>
                   40. Thema: Naturrecht und geltendes Recht.<lb/>
                   Inhalt:<lb/>
-                  1.) Naturrecht und <q>Goldenes Zeitalter</q><lb/>
+                  1.) Naturrecht und <q>Goldenes Zeitalter</q>
+               <lb/>
                   2.) Das vernünftige Recht.<lb/>
                   3.) Absolutes und relatives Naturrecht.<lb/>
                   4.) Irrationales Naturrecht.<lb/>
                   5.) Positives Recht und richtiges Recht.<lb/>
                   6.) Materialistische und idealistische Geschichtsphilosophie des Rechts.<lb/>
-                  <lb/>
-                  41. Thema: Staat und Gesellschaft.<pb n="14"/><lb/>
+               <lb/>
+                  41. Thema: Staat und Gesellschaft.<pb n="14"/>
+               <lb/>
                   Inhalt:<lb/>
                   1.) Die ursprüngliche Einheit beider.<lb/>
                   2.) Die Loslösung des Staates von der Gesellschaft.<lb/>
                   3.) Die Wiedervereinigung beider als Wirklichkeit und als Idee.<lb/>
                   4.) Die Staatstheorien.<lb/>
-                  <lb/>
+               <lb/>
                   42. Thema: Volk, Staat und Menschheit.<lb/>
                   Inhalt:<lb/>
                   1.) Die Idee der <sic>Souverenität</sic>.<lb/>
@@ -433,16 +479,18 @@ Dritte Abteilung: Kulturphilosophie, praktische Sphäre.<note type="ea">Dahinter
                   4.) Kultur- und Machtnationalismus.<lb/>
                   5.) Die überstaatliche Rechtsidee und das Völkerrecht.<lb/>
                   6.) Die Idee des ewigen Friedens.<lb/>
-                  <lb/>
+               <lb/>
                   43. Thema: Die Philosophie der staatspolitischen Richtungen.<lb/>
                   Inhalt:<lb/>
-                  1.) Ideeen- und Realpolitik.<note type="ea">Hier und im Folgenden steht tatsächlich: <q>Ideeen</q>.</note><lb/>
+                  1.) Ideeen- und Realpolitik.<note type="ea">Hier und im Folgenden steht tatsächlich: <q>Ideeen</q>.</note>
+               <lb/>
                   2.) Der Ideeengehalt der Demokratie.<lb/>
                   3.) Der Ideeengehalt des Konservativismus.<lb/>
-                  4.) Katholische Politik.<pb n="15"/><lb/>
+                  4.) Katholische Politik.<pb n="15"/>
+               <lb/>
                   5.) Der Ideeengehalt des Liberalismus und Anarchismus.<lb/>
                   6.) Rationales und irrationales Prinzip im Aufbau der Gesellschaft.<lb/>
-                  <lb/>
+               <lb/>
                   44. Thema: Philosophie der Wirtschaft.<lb/>
                   Inhalt:<lb/>
                   1.) Wirtschaft und Recht.<lb/>
@@ -450,16 +498,18 @@ Dritte Abteilung: Kulturphilosophie, praktische Sphäre.<note type="ea">Dahinter
                   3.) Die Philosophie des wirtschaftlichen Liberalismus.<lb/>
                   4.) Die Philosophie des Sozialismus.<lb/>
                   5.) Die ökonomische Geschichtsauffassung.<lb/>
-                  <lb/>
+               <lb/>
                   45. Thema: Philosophie des bürgerlichen Rechts.<lb/>
                   Inhalt:<lb/>
                   1.) Der Zusammenhang des bürgerlichen Rechts mit der Weltanschauung.<lb/>
                   2.) Die Typen der bürgerlichen Rechtsbegriffe.<lb/>
                   3.) Die Philosophie <sic>des</sic> Rechtsperson.<lb/>
-                  4.) Die Philosophie des Eigentums.<pb n="16"/><lb/>
-                  <lb/>
-Serie II. Philosophie des Sittlichen.<note type="ea">dahinter steht: <q>(Band 46-64)</q>.</note><lb/>
-                  <lb/>
+                  4.) Die Philosophie des Eigentums.<pb n="16"/>
+               <lb/>
+               <lb/>
+Serie II. Philosophie des Sittlichen.<note type="ea">dahinter steht: <q>(Band 46-64)</q>.</note>
+               <lb/>
+               <lb/>
 46. Thema: Die Autonomie des Sittlichen, Einführung in die Grundlagen der
 praktischen Philosophie.<lb/>
                   Inhalt:<lb/>
@@ -468,7 +518,7 @@ praktischen Philosophie.<lb/>
                   3.) Der kategorische Imperativ.<lb/>
                   4.) Der Kampf gegen den ethischen Formalismus.<lb/>
                   5.) Form und Norm des Sittlichen.<lb/>
-                  <lb/>
+               <lb/>
                   47. Thema: Die ethischen Persönlichkeitsideale.<lb/>
                   Inhalt:<lb/>
                   1.) Die Ideale des Eudämonismus.<lb/>
@@ -477,8 +527,9 @@ praktischen Philosophie.<lb/>
                   4.) Das Ideal der sozialen Vollendung.<lb/>
                   5.) Das Ideal der Romantik.<lb/>
                   6.) Das Ideal des Naturalismus.<lb/>
-                  <lb/>
-                  48. Thema: Die ethischen Gemeinschaftsideale.<pb n="17"/><lb/>
+               <lb/>
+                  48. Thema: Die ethischen Gemeinschaftsideale.<pb n="17"/>
+               <lb/>
                   Inhalt:<lb/>
                   1.) Das patriarchalische Gemeinschaftsideal.<lb/>
                   2.) Das rationalistisch-eudämonistische Gemeinschaftsideal.<lb/>
@@ -487,7 +538,7 @@ praktischen Philosophie.<lb/>
                   5.) Das Mitleidsideal.<lb/>
                   6.) Das Ideal der Aristokratie.<lb/>
                   7.) Das sozialistische Menschheitsideal.<lb/>
-                  <lb/>
+               <lb/>
                   49. Thema: Sittlichkeit und Natur.<lb/>
                   Inhalt:<lb/>
                   1.) Der ursprüngliche Sinn der Askese.<lb/>
@@ -496,18 +547,19 @@ praktischen Philosophie.<lb/>
                   4.) Die innerweltliche Askese.<lb/>
                   5.) Die Askese als Übung.<lb/>
                   6.) Luxus und ethische Adiaphora.<lb/>
-                  <lb/>
+               <lb/>
                   50. Thema: Ethische und Ästhetische Lebensanschauung.<lb/>
                   Inhalt:<lb/>
                   1.) Pflicht und Neigung.<lb/>
-                  2.) Das Ideal der Harmonie von Sittlichkeit und Natur.<pb n="18"/><lb/>
+                  2.) Das Ideal der Harmonie von Sittlichkeit und Natur.<pb n="18"/>
+               <lb/>
                   3.) Der Universalismus des Ästhetischen.<lb/>
                   4.) Der Radikalismus des Ethischen.<lb/>
                   5.) Ästhetizismus und Moralismus.<lb/>
                   6.) Genialität und Moral.<lb/>
                   7.) Ästhetik des Negativen.<lb/>
                   8.) Mystische und aktivistische Ethik.<lb/>
-                  <lb/>
+               <lb/>
                   51. Thema: Das sittliche Urteil, seine Begründung und seine Wandlungen.<lb/>
                   Inhalt:<lb/>
                   1.) Die <sic>autorative</sic> Begründung der sittlichen Urteile.<lb/>
@@ -516,7 +568,7 @@ praktischen Philosophie.<lb/>
                   4.) Die ethische Intuition.<lb/>
                   5.) Der Pflichtenkonflikt und das ethische Wagnis.<lb/>
                   6.) Der esoterische Charakter der autonomen Ethik.<lb/>
-                  <lb/>
+               <lb/>
 52. Thema: Die Erziehung zum sittlichen Ideal, Einführung in die Grundlagen
 der Pädagogik.<lb/>
                   Inhalt:<lb/>
@@ -524,9 +576,10 @@ der Pädagogik.<lb/>
                   2.) Die intellektualistische Pädagogik.<lb/>
                   3.) Die moralistische Pädagogik.<lb/>
                   4.) Der falsche und der richtige Bildungsbegriff.<lb/>
-                  5.) Bildung und Gemeinschaft.<pb n="19"/><lb/>
+                  5.) Bildung und Gemeinschaft.<pb n="19"/>
+               <lb/>
                   6.) Staat, Gesellschaft und Erziehung.<lb/>
-                  <lb/>
+               <lb/>
                   53. Thema: Die Philosophie der Geschlechter.<lb/>
                   Inhalt:<lb/>
                   1.) Die Erotik als zentral sozialethisches Zentralproblem.<lb/>
@@ -536,7 +589,7 @@ der Pädagogik.<lb/>
                   5.) Eros und Logos.<lb/>
                   6.) Eros und Agape.<lb/>
                   7.) Kosmische Erotik.<lb/>
-                  <lb/>
+               <lb/>
                   54. Thema: Persönlichkeit und Gemeinschaft.<lb/>
                   Inhalt:<lb/>
                   1.) Die autonome Persönlichkeit und die Formen des Gemeinschaftslebens.<lb/>
@@ -544,10 +597,12 @@ der Pädagogik.<lb/>
                   3.) Der Kampf der Generationen.<lb/>
                   4.) Wahrhaftigkeit und Gemeinschaft.<lb/>
                   5.) Das Problem der Esoterik.<lb/>
-                  6.) Persönlichkeits- und Gemeinschaftsperioden in der Geschichte.<pb n="20"/><lb/>
-                  <lb/>
-Vierte Abteilung: Religionsphilosophie.<note type="ea">Dahinter ist notiert: <q>(In 11 Bänden)</q>.</note><lb/>
-                  <lb/>
+                  6.) Persönlichkeits- und Gemeinschaftsperioden in der Geschichte.<pb n="20"/>
+               <lb/>
+               <lb/>
+Vierte Abteilung: Religionsphilosophie.<note type="ea">Dahinter ist notiert: <q>(In 11 Bänden)</q>.</note>
+               <lb/>
+               <lb/>
                   55. Thema: Wege und Irrwege der Religionsphilosophie.<lb/>
                   Inhalt:<lb/>
                   1.) Die spekulativen Methoden.<lb/>
@@ -557,7 +612,7 @@ Vierte Abteilung: Religionsphilosophie.<note type="ea">Dahinter ist notiert: <q>
                   5.) Die transscendentale psychologische Methode.<lb/>
                   6.) Die intuitiven Methoden.<lb/>
                   7.) Idee der kritisch-intuitiven Methode.<lb/>
-                  <lb/>
+               <lb/>
                   56. Thema: Die religiöse Funktion, Kritisch-intuitive Grundlegung der Religionsphilosophie.<lb/>
                   Inhalt:<lb/>
                   1.) Die Doppelstellung <sic>der</sic> Bewußtseins zum Sein.<lb/>
@@ -566,8 +621,9 @@ Vierte Abteilung: Religionsphilosophie.<note type="ea">Dahinter ist notiert: <q>
                   4.) Der Doppelcharakter der religiösen Funktion.<lb/>
                   5.) Die Allgemeingültigkeit und Notwendigkeit der religiösen Funktion.<lb/>
                   6.) Das Heilige.<lb/>
-                  7.) Kritische Darstellung der wichtigsten Religionsbegriffe.<pb n="21"/><lb/>
-                  <lb/>
+                  7.) Kritische Darstellung der wichtigsten Religionsbegriffe.<pb n="21"/>
+               <lb/>
+               <lb/>
                   57. Thema: Religion und Kultur.<lb/>
                   Inhalt:<lb/>
                   1.) Die ursprüngliche Einheit von Religion und Kultur.<lb/>
@@ -577,7 +633,7 @@ Vierte Abteilung: Religionsphilosophie.<note type="ea">Dahinter ist notiert: <q>
 5.) Die Aufhebung der spezifisch-religiösen Kultursphären u. die ideale Einheit
 von Religion u. Kultur.<lb/>
                   6.) Die psychologisch-pädagogische Begründung der spezifisch-religiösen Kultur.<lb/>
-                  <lb/>
+               <lb/>
                   58. Thema: Philosophie der Religionsgeschichte.<lb/>
                   Inhalt:<lb/>
                   1.) Die primitiv-biologischen Religionen.<lb/>
@@ -586,9 +642,10 @@ von Religion u. Kultur.<lb/>
                   4.) Die ethischen Religionen.<lb/>
                   5.) Die mystischen Religionen.<lb/>
                   6.) Die Synthesis von mystischer und ethischer Religion.<lb/>
-                  <lb/>
+               <lb/>
                   59. Thema: Die Stadien des Mythos.<lb/>
-                  Inhalt:<pb n="22"/><lb/>
+                  Inhalt:<pb n="22"/>
+               <lb/>
                   1.) Das primitive Welterkennen und seine Gottesvorstellungen.<lb/>
                   2.) Die Mythologien der Kulturreligionen.<lb/>
                   3.) Die Mythologie der Mysterien.<lb/>
@@ -597,7 +654,7 @@ von Religion u. Kultur.<lb/>
                   6.) Theismus und Pantheismus.<lb/>
                   7.) Die Auflösung des Mythos in der Mystik.<lb/>
                   8.) Die Auflösung der <sic>Methaphysik</sic> und die Idee des <sic>Sinnenmythos</sic>.<lb/>
-                  <lb/>
+               <lb/>
                   60. Thema: Wissenschaft und Glaube.<lb/>
                   Inhalt:<lb/>
                   1.) Der Kampf von Glauben und Wissen.<lb/>
@@ -606,15 +663,16 @@ von Religion u. Kultur.<lb/>
                   4.) Die Unbedingtheit der Glaubensgewißheit.<lb/>
                   5.) Die Bedingtheit aller Gegenstandsgewißheit.<lb/>
                   6.) Die Loslösung des Glaubens vom Gegenständlichen.<lb/>
-                  <lb/>
+               <lb/>
                   61. Thema: Frömmigkeit und Sittlichkeit.<lb/>
                   Inhalt:<lb/>
                   1.) Die Idee des Kultus.<lb/>
-                  2.) Die Überordnung des Sittlichen über das Kultische in der Religionsgeschichte.<pb n="23"/><lb/>
+                  2.) Die Überordnung des Sittlichen über das Kultische in der Religionsgeschichte.<pb n="23"/>
+               <lb/>
                   3.) Die prinzipielle Aufhebung des Kultus in der Religionsgeschichte.<lb/>
                   4.) Gebet und Andacht.<lb/>
 5.) Die Frömmigkeit als allgemeine Funktion und das sittlich-religiöse Persönlichkeitsideal<lb/>
-                  <lb/>
+               <lb/>
                   62. Thema: Natürliche und religiöse Gemeinschaft<lb/>
                   Inhalt:<lb/>
                   1.) Die Einheit der Stammesgemeinschaft mit der religiösen.<lb/>
@@ -623,7 +681,7 @@ von Religion u. Kultur.<lb/>
                   4.) Die Menschheitsreligionen und ihre Gemeinschaftsbildung.<lb/>
                   5.) Die Sozialethik der großen Religionstypen.<lb/>
                   6.) Religionsgemeinschaft und Menschheitsgemeinschaft.<lb/>
-                  <lb/>
+               <lb/>
                   63. Thema: Staat und Kirche.<lb/>
                   Inhalt:<lb/>
                   1.) Kultgemeinschaft und Gesellschaft.<lb/>
@@ -631,8 +689,9 @@ von Religion u. Kultur.<lb/>
                   3.) Die Loslösung des Staates von der Kirche.<lb/>
                   4.) Staatsrecht und Kirchenrecht.<lb/>
                   5.) Religiöse und staatliche Erziehung.<lb/>
-                  6.) Die Idee der religiösen Gesellschaft.<pb n="24"/><lb/>
-                  <lb/>
+                  6.) Die Idee der religiösen Gesellschaft.<pb n="24"/>
+               <lb/>
+               <lb/>
                   64. Thema: Kunst und Kultus.<lb/>
                   Inhalt:<lb/>
                   1.) Der Hervorgang der Kunst aus dem Kultus.<lb/>
@@ -643,8 +702,7 @@ von Religion u. Kultur.<lb/>
                   6.) Das Kunstwerk und der religiöse Zweck.<lb/>
                   7.) Künstlerisches und religiöses Weltgefühl.
     </p>
-      </div>
-      
-</body>
-</text>
+         </div>
+      </body>
+   </text>
 </TEI>

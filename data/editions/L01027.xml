@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01027">
    <teiHeader>
       <fileDesc>
@@ -50,7 +50,7 @@
             <biblStruct type="journal">
                <monogr>
                   <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                  <title>&quot;Beweise einer unsichtbaren Beziehung&quot; Die Korrespondenz zwischen Paul
+                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
                      Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
                   <imprint>
                      <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
@@ -101,10 +101,15 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline><rs ref="#tillich_place_id__230" type="place">Kampen a. Sylt</rs>, Haus
-                     Schultz-Sembten, den <date when="1929-08-20">20. 8. 29</date></dateline>
+               <dateline>
+                  <rs ref="#tillich_place_id__230" type="place">Kampen a. Sylt</rs>, Haus
+                     Schultz-Sembten, den <date when="1929-08-20">20. 8. 29</date>
+               </dateline>
                <salute>
-                  <lb/>An den <lb/>Verlag Mohr <lb/><hi rend="u"><rs ref="#tillich_place_id__448" type="place">Tübingen</rs></hi>
+                  <lb/>An den <lb/>Verlag Mohr <lb/>
+                  <hi rend="u">
+                     <rs ref="#tillich_place_id__448" type="place">Tübingen</rs>
+                  </hi>
                </salute>
             </opener>
             <p>Anbei sende ich Ihnen das <rs type="work" ref="#tillich__NY5UZ9CG">R.G.G.</rs>
@@ -119,7 +124,8 @@
             <closer>
                <salute>Ihr sehr ergebener <lb/>
                   <rs ref="#tillich_person_id__1928" type="person">Professor D. Dr. Paul
-                     <hi rend="i">Tillich</hi></rs>
+                     <hi rend="i">Tillich</hi>
+                  </rs>
                </salute>
                <signed>Tillich.</signed>
             </closer>
