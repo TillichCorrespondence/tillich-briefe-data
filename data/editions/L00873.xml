@@ -51,8 +51,8 @@
                      <biblStruct type="journal" n="firstPrint">
                         <monogr>
                            <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                           <title>"Beweise einer unsichtbaren Beziehung". Die Korrespondenz zwischen
-                              Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul
+                           <title><q>Beweise einer unsichtbaren Beziehung</q>. Die Korrespondenz
+                              zwischen Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul
                               Siebeck)</title>
                            <imprint>
                               <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
@@ -84,12 +84,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <address>
-                  <placeName ref="#tillich_place_id__126">Dresden, <address>
-                        <street>Elisenstr. 11</street>
-                     </address>
-                  </placeName>
-               </address>
+               <placeName ref="#tillich_place_id__126">Dresden</placeName>
                <date when="1926-06-04">04.06.1926</date>
             </correspAction>
             <correspAction type="received">
@@ -102,7 +97,8 @@
       </profileDesc>
       <revisionDesc status="approved">
          <change who="NH" when="2022-12-13">Initiale Auszeichnung des Transkripts</change>
-         <change who="NH" when="2023-01-28"><!-->Bitte bei Änderungen im Dokument die Art der Änderung in einer neuen Zeile angeben<!--></change>
+         <change who="NH" when="2023-01-28"
+            ><!-->Bitte bei Änderungen im Dokument die Art der Änderung in einer neuen Zeile angeben<!--></change>
          <change who="FS" when="2023-04-18">Ergänzende Auszeichnungen</change>
          <change who="PS" when="2024-02-14">Endabnahme</change>
       </revisionDesc>
@@ -113,15 +109,36 @@
             <pb n="1"/>
             <opener>
                <dateline>
-                  <rs ref="#tillich_place_id__126" type="place">Dresden, Elisenstr. 11</rs>
-                den <date when="1926-06-04">4. <sic>7.</sic> 1926</date>
-                  <note type="ea">Die Datierung im Briefkopf ist irrig, der Brief ist mit einem Posteingangsstempel vom <date when="1926-06-06">6. Juni 1926</date> versehen. Das Schreiben dürfte also vom <date when="1926-06-04">4. Juni</date> desselben Jahres stammen.</note>
+                  <rs ref="#tillich_place_id__126" type="place">Dresden</rs>, Elisenstr. 11. d.
+                     <date when="1926-06-04">4.<sic>7.</sic>1926</date>
+                  <note type="ea">Die Datierung ist ein Irrtum, der Brief ist mit einem
+                     Posteingangsstempel vom <date when="1926-06-06">6. Juni 1926</date> versehen.
+                     Das Schreiben dürfte also vom <date when="1926-06-04">4. Juni</date> desselben
+                     Jahres stammen.</note>
                </dateline>
-               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1780" type="person">Siebeck</rs>!</salute>
+               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1780" type="person"
+                     >Siebeck</rs>!</salute>
             </opener>
-            <p>Heute erhielt ich eine Abschrift Ihres Briefes an Herrn <rs ref="#tillich_person_id__438" type="person">de Man</rs>.<note type="ea">Oskar Siebeck an
-                     Hendrik de Man vom 21.5.1926 (VA, 424 4 1926 Ma–Salz), vgl. <rs ref="#tillich__99299XQD" type="work">Christophersen/Graf, Beweise einer unsichtbaren Beziehung, 253, Anm. 58</rs>
-               </note> Es tut mir sehr
+            <p>Heute erhielt ich eine Abschrift Ihres Briefes an Herrn <rs
+                  ref="#tillich_person_id__438" type="person">de Man</rs>.<note type="ea"><rs
+                     ref="#tillich_person_id__1780" type="person">Oskar Siebeck</rs> schreibt <rs
+                     ref="#tillich_person_id__438" type="person">Hendrik de Man</rs> am <date
+                     when="1926-05-21">21. Mai 1926</date>, dass er nicht mehr bereit sei, die
+                     <q>Neuen Blätter für den Sozialismus</q> zu übernehmen: <q>Im Laufe der Jahre
+                     bekommt man als Verleger ein ziemlich sicheres Gespür dafür, was man mit seiner
+                     nun einmal bestehenden Vertriebsorganisation etwa erreichen kann. Danach muss
+                     ich es als ausgeschlossen bezeichnen, dass ich für eine Zeitschrift wie die
+                     Ihrige in absehbarer Zeit eine Abonnentenzahl erreichen könnte, die sich noch
+                     ungefähr in den Grenzen Ihrer Schätzung bewegt. Eine Zeitschrift wie die Ihrige
+                     würde sich eben in einem Verlag wie dem meinigen gewissermassen zwischen zwei
+                     Stühle setzen. Die immerhin nicht kleinen Kreise, bei denen ich zunächst einmal
+                     für alle meine Veröffentlichungen ein gewisses Interesse glaube voraussetzen zu
+                     dürfen, würden eine ausgesprochen sozialistische Zeitschrift zu überwiegenden
+                     Teilen ablehnen; die gegebenen Interessenten für sozialistische Literatur
+                     wiederum würden an eine Zeitschrift, die in meinem Verlag erscheint, mit einem
+                     gewissen Misstrauen herangehen.</q> (VA, 424 4 1926 Ma–Salz) Vgl. <rs
+                     ref="#tillich__99299XQD" type="work">Christophersen/Graf, Beweise einer
+                     unsichtbaren Beziehung</rs>, 253, Anm. 58.</note> Es tut mir sehr
                   <sic>Leid</sic>, daß Sie den Plan haben fallen lassen; ich hoffe aber, daß ich
                nicht daran Schuld bin. Ich bin nach wie vor der Meinung, daß es für die Sache das
                Beste wäre, wenn Sie die Zeitschrift übernähmen, und ich bin überzeugt, daß bei der
@@ -129,35 +146,34 @@
                würden. Vielleicht ist es doch noch einmal möglich, auf den Plan zurückzukommen. Was
                die Sammlung der Vorträge betrifft, so befinde ich mich noch im Status der abstrakten
                Erwägungen, hoffe aber bald weiter zu kommen. Die Hauptarbeit liegt augenblicklich
-               auf dem <q>
-                  <rs type="work" ref="#tillich__G8CYBFWE">Dämonenvortrag</rs>
-               </q>. Ich muß ihn
-               völlig neu arbeiten – im Unterschied zu meinem damaligen Vortrag über <q>
-                  <rs type="work" ref="#tillich__3WM5MENM">Kultur und <del rend="s">Religion</del>
-                  Kirche</rs>
-               </q>. Und nun habe ich eine Bitte: Ist es Ihnen möglich, mir 100 M als
-               Honorar-Vorschuß <hi rend="u">gleich</hi> zu übersenden. Ich mußte nämlich mein
-               ganzes Monatsgehalt für Kind-Geburts-Rechnungen verwenden, und müßte jetzt, um
+               auf dem <q><rs type="work" ref="#tillich__G8CYBFWE">Dämonenvortrag</rs></q>. Ich muß
+               ihn völlig neu arbeiten – im Unterschied zu meinem damaligen Vortrag über <q><rs
+                     type="work" ref="#tillich__3WM5MENM">Kultur und <del rend="s">Religion</del>
+                     Kirche</rs></q>. Und nun habe ich eine Bitte: Ist es Ihnen möglich, mir 100 M
+               als Honorar-Vorschuß <hi rend="u">gleich</hi> zu übersenden. Ich mußte nämlich mein
+               ganzes Monatsgehalt für Kind-Geburts-Rechnungen verwenden,<note type="ea"><rs
+                     ref="#tillich_person_id__1928" type="person">Tillichs</rs> Tochter <rs
+                     ref="#tillich_person_id__570" type="person">Erdmuthe Farris</rs> kam am <date
+                     when="1926-02-17">17. Februar 1926</date> zur Welt.</note> und müßte jetzt, um
                existieren zu können, einige Zeitungs-Aufsätze schreiben, was ich <hi rend="u">sehr
-                  gern</hi> zu Gunsten des <rs type="work" ref="#tillich__G8CYBFWE">Dämonen-Vortrags</rs> vermeiden möchte. Ich würde dann in spätestens 10 Tagen das
+                  gern</hi> zu Gunsten des <rs type="work" ref="#tillich__G8CYBFWE"
+                  >Dämonen-Vortrags</rs> vermeiden möchte. Ich würde dann in spätestens 10 Tagen das
                Manuskript an Sie schicken können.</p>
             <p>Inzwischen habe ich von <rs ref="#tillich_person_id__1570" type="person">Reichl</rs>
-               den Vertragsentwurf für die Dogmatik bekommen. Ich habe noch nicht unterschrieben.
-               Hier liegen die Dinge ähnlich: Um an der Sache zu arbeiten, muß ich die Hände frei
-               haben. Um die Hände frei zu haben, muß ich die Schulden für die Rechnung los sein,
-               die mich ständig zu Vorträgen etc. zwingen. Ich bedaure es sehr, daß in diese Zeit
-               der ständigen Produktivität die Notwendigkeit fällt, eine <q>Aussteuer</q> aufzubringen.
-               Ob <rs ref="#tillich_person_id__1570" type="person">Reichl</rs> mir durch einen
-               Vorschuß hilft, ist mir zweifelhaft --- und Sie? Ich weiß ja, daß es für jeden jetzt
-               schwierig ist, auch nur die Summen, die für mich in Frage kommen, also ca 1000 M
-               aufzubringen. Andererseits habe ich nicht das Vermögen, Arbeitsruhe und Schuldenlast
-               zu vereinigen.</p>
+               den Vertragsentwurf für die Dogmatik bekommen.<note type="ea">Liegt nicht vor.</note>
+               Ich habe noch nicht unterschrieben. Hier liegen die Dinge ähnlich: Um an der Sache zu
+               arbeiten, muß ich die Hände frei haben. Um die Hände frei zu haben, muß ich die
+               Schulden für die Rechnung los sein, die mich ständig zu Vorträgen etc. zwingen. Ich
+               bedaure es sehr, daß in diese Zeit der ständigen Produktivität die Notwendigkeit
+               fällt, eine <q>Aussteuer</q> aufzubringen. Ob <rs ref="#tillich_person_id__1570"
+                  type="person">Reichl</rs> mir durch einen Vorschuß hilft, ist mir zweifelhaft – –
+               – und Sie? Ich weiß ja, daß es für jeden jetzt schwierig ist, auch nur die Summen,
+               die für mich in Frage kommen, also <sic>ca</sic> 1000 M aufzubringen. Andererseits
+               habe ich nicht das Vermögen, Arbeitsruhe und Schuldenlast zu vereinigen.</p>
             <closer>
-               <salute>Mit herzlichem Gruße!<lb/>
-                  Ihr sehr ergebener</salute>
+               <salute>Mit herzlichem Gruße!<lb/> Ihr sehr ergebener</salute>
                <signed>
-                  <rs type="person" ref="#tillich_person_id__1928">P.
-                     Tillich</rs>.</signed>
+                  <rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs>.</signed>
             </closer>
          </div>
       </body>
