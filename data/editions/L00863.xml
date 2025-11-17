@@ -45,14 +45,17 @@
                </msIdentifier>
                <physDesc>
                   <p>Brief, maschinenschriftlicher Durchschlag</p>
+                  <p>Adressiert: <q>Herrn Professor Dr. D. Paul Tillich <lb/><hi rend="u"
+                           >Dresden,</hi>
+                        <lb/>Elisenstr. 11</q></p>
                </physDesc>
                <additional>
                   <listBibl>
                      <biblStruct type="journal" n="firstPrint">
                         <monogr>
                            <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                           <title>"Beweise einer unsichtbaren Beziehung". Die Korrespondenz zwischen
-                              Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul
+                           <title><q>Beweise einer unsichtbaren Beziehung</q>. Die Korrespondenz
+                              zwischen Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul
                               Siebeck)</title>
                            <imprint>
                               <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
@@ -84,6 +87,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
+               <!-- Vermutl.: <placeName ref="#tillich_place_id__448">Tübingen</placeName> -->
                <date when="1926-02-26">26.02.1926</date>
             </correspAction>
             <correspAction type="received">
@@ -108,12 +112,7 @@
             <pb n="1"/>
             <opener>
                <dateline>
-                  <date when="1926-02-26">26.2.1926</date>.<lb/> Herrn Professor Dr. D. <rs
-                     ref="#tillich_person_id__1928" type="person">Paul Tillich</rs>
-                  <lb/>
-                  <hi rend="u">
-                     <rs ref="#tillich_place_id__126" type="place">Dresden</rs>,</hi>
-                  <lb/> Elisenstr. 11</dateline>
+                  <date when="1926-02-26">26.2.1926</date>.</dateline>
                <salute>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr
                      Professor</rs>,</salute>
             </opener>
@@ -127,18 +126,17 @@
                einiger Zeit Ihr <rs type="work" ref="#tillich__3WM5MENM">Tübinger Vortrag</rs> in
                derselben Sammlung erschienen ist, würde ich mich natürlich ganz besonders freuen,
                wenn auch dieses Ihr Manuskript recht bald als Heft der Sammlung hinausgehen
-                  könnte.<note type="ea">
-                  <rs type="work" ref="#tillich__G8CYBFWE">Der Vortrag</rs> erscheint im November
-                  1926 als Heft 119 in der Reihe <q>Sammlung gemeinverständlicher Vorträge und
-                     Schriften aus dem Gebiet der Theologie und Religionsgeschichte</q> unter dem
-                  Titel <q><rs type="work" ref="#tillich__G8CYBFWE">Das Dämonische. Ein Beitrag zur
-                        Sinndeutung der Geschichte</rs></q>. Grundlage des völlig überarbeiteten
-                  Texts ist neben dem Hamburger Vortrag auch ein Vortrag, den Tillich am <date
-                     when="1926-02-02">2. Februar 1926</date> unter dem Titel <q>Das Dämonische in
-                     Natur und Geschichte</q> vor der Dresdner Ortsgruppe der Freien
-                  Volkskirchlichen Vereinigung gehalten hat.</note></p>
-            <p>
-               <rs ref="L00862" type="letter">Meine Antwort</rs> auf <rs ref="L00860" type="letter"
+                  könnte.<note type="ea"><rs type="work" ref="#tillich__G8CYBFWE">Der Vortrag</rs>
+                  erscheint im November 1926 als Heft 119 in der Reihe <q>Sammlung
+                     gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und
+                     Religionsgeschichte</q> unter dem Titel <q><rs type="work"
+                        ref="#tillich__G8CYBFWE">Das Dämonische. Ein Beitrag zur Sinndeutung der
+                        Geschichte</rs></q>. Grundlage des völlig überarbeiteten Texts ist neben dem
+                  Hamburger Vortrag auch ein Vortrag, den <rs ref="#tillich_person_id__1928"
+                     type="person">Tillich</rs> am <date when="1926-02-02">2. Februar 1926</date>
+                  unter dem Titel <q>Das Dämonische in Natur und Geschichte</q> vor der Dresdner
+                  Ortsgruppe der Freien Volkskirchlichen Vereinigung gehalten hat.</note></p>
+            <p><rs ref="L00862" type="letter">Meine Antwort</rs> auf <rs ref="L00860" type="letter"
                   >Ihre Anfrage wegen Ihrer <q>Dogmatik</q> und der Prolegomena dazu</rs>, die sich
                durch meine Abwesenheit von <rs ref="#tillich_place_id__448" type="place"
                   >Tübingen</rs> leider verzögert hat, traf wohl ein, solange Sie Ihrer Vorträge
@@ -150,7 +148,8 @@
                <salute>In vorzüglicher Hochachtung empfehle ich mich Ihnen als Ihr ganz
                   ergebener</salute>
                <signed>
-                  <rs ref="#tillich_person_id__1780" type="person">Dr. O. Siebeck</rs>.</signed>
+                  <hi rend="hand"><rs ref="#tillich_person_id__1780" type="person">Dr. O.
+                        Siebeck</rs>.</hi></signed>
             </closer>
          </div>
       </body>
