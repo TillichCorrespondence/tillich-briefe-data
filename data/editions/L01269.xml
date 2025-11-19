@@ -64,8 +64,6 @@
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
                <placeName ref="#tillich_place_id__120">Deauville [PS]</placeName>
                <date when="1926-09-07">07.09.1926</date>
-               <note type="ea">Poststempel vom <date when="1926-09-08">8. September
-                        1926</date>.</note>
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
@@ -79,6 +77,7 @@
       <revisionDesc status="approved">
          <change when="2023-12-05" who="FS">Initiale Auszeichnung des Transkripts,
                 Endabnahme</change>
+                <change who="EL" when="2025-11-19">Erklärende Anmerkungen überprüft und ergänzt</change>
       </revisionDesc>
    </teiHeader>
    <text type="postcard">
@@ -86,7 +85,8 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline>D. <date when="1926-09-07">7.</date>
+               <dateline>D. <date when="1926-09-07">7.</date><note type="ea">Poststempel vom <date when="1926-09-08">8. September
+                        1926</date>.</note>
                </dateline>
                <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
             </opener>
