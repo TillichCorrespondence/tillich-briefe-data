@@ -50,8 +50,8 @@
             <biblStruct type="journal">
                <monogr>
                   <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
-                     Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                  <title><q>Beweise einer unsichtbaren Beziehung</q>. Die Korrespondenz zwischen
+                     Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
                   <imprint>
                      <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
                      <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
@@ -84,6 +84,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
+               <!-- <placeName ref="#tillich_place_id__448">Tübingen</placeName> -->
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -102,51 +103,64 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline>Die Kulturwissenschaftliche Abteilung der Technischen Hochschule<note type="eb">Erklärende Anmerkungen zu vorliegendem Brief wurden (ggf.
-                  geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note>
-                  <lb/>
-                  <rs ref="#tillich_place_id__126" type="place">Dresden</rs>, den <date when="1926-12-10">10. 12. 26.</date>
-                  <note type="ea">[Beantwortungsvermerk:] <date when="1926-12-14">14. 12. 26</date>
-                     <lb/>Eingangsstempel: 1. Post <date when="1926-12-12">12. Dez. 1926</date>
-                  </note>
-                  <lb/>
-               </dateline>
+               <dateline>Die Kulturwissenschaftliche Abteilung der Technischen Hochschule<lb/>
+                  <rs ref="#tillich_place_id__126" type="place">Dresden</rs>, den <date
+                     when="1926-12-10">10.12.26</date>.<note type="ea">Der Brief trägt den
+                     Beantwortungsvermerk: <q><date when="1926-12-14">14.12.26</date></q>, sowie
+                     einen Posteingangsstempel: <q>1. Post <date when="1926-12-12">12. Dez.
+                           1926</date></q></note></dateline>
                <salute>Sehr geehrter <rs ref="#tillich_person_id__1780" type="person">Herr
                      Siebeck</rs>!</salute>
             </opener>
-            <p>Zum <date when="1926-01">Januar</date> habe ich meinem Kollegen <rs ref="#tillich_person_id__1099" type="person">Kroner</rs> einen Aufsatz: <q>
-                  <rs type="work" ref="#tillich__YK9RJUAW">Die Überwindung des
-                  Persönlichkeitsideals</rs>
-               </q> für ein <rs ref="#tillich_place_id__126" type="place">Dresdner</rs> Heft des Logos zugesagt. Es handelt sich um das Manuskript eines 2x
-               gehaltenen Vortrags, das ich <rs ref="#tillich_person_id__1099" type="person">Kroner</rs> in einer kleinen Arbeitsgemeinschaft vorgelesen habe. – Nun wendet
-               sich der <rs ref="#tillich_place_id__126" type="place">Dresdener</rs> Lehrerverein,
-               vor dem ich den Vortrag gehalten
-               habe, mit der Bitte an mich, ihn für <del rend="s">die sächs</del>. ihre
-               <rs type="work" ref="#tillich__CT6PILAQ">Lehrerzeitung</rs> zu überlassen. Nach Rücksprache mit Kollege <rs ref="#tillich_person_id__1099" type="person">Kroner</rs>, der sein Einverständnis
+            <p>Zum <date when="1926-01">Januar</date> habe ich meinem Kollegen <rs
+                  ref="#tillich_person_id__1099" type="person">Kroner</rs> einen Aufsatz: <q><rs
+                     type="work" ref="#tillich__YK9RJUAW">Die Überwindung des
+                     Persönlichkeitsideals</rs></q> für ein <rs ref="#tillich_place_id__126"
+                  type="place">Dresdner</rs> Heft des Logos zugesagt. Es handelt sich um das
+               Manuskript eines 2x gehaltenen Vortrags, das ich <rs ref="#tillich_person_id__1099"
+                  type="person">Kroner</rs> in einer kleinen Arbeitsgemeinschaft vorgelesen habe. –
+               Nun wendet sich der <rs ref="#tillich_place_id__126" type="place">Dresdener</rs>
+               Lehrerverein, vor dem ich den Vortrag gehalten habe, mit der Bitte an mich, ihn für
+                  <del rend="s">die sächs</del>. ihre <rs type="work" ref="#tillich__CT6PILAQ"
+                  >Lehrerzeitung</rs> zu überlassen. Nach Rücksprache mit Kollege <rs
+                  ref="#tillich_person_id__1099" type="person">Kroner</rs>, der sein Einverständnis
                erklärt, wende ich mich an Sie mir der Bitte, zu gestatten, daß ich den Vortrag
                gleichzeitig der Lehrerzeitung <del rend="s">mit</del> überlasse, die dafür gehalten
                wäre, folgende Notiz aufzunehmen: <q>Erscheint gleichzeitig im Logosheft der
-               Professoren der <rs ref="#tillich_place_id__126" type="place">Dresdner</rs>
-               Kulturwissenschaftlichen Abteilung.</q> Das wäre eine glänzende Reklame für das betr.
-               Heft in <rs ref="#tillich_place_id__383" type="place">Sachsen</rs>. Vielleicht
+                  Professoren der <rs ref="#tillich_place_id__126" type="place">Dresdner</rs>
+                  Kulturwissenschaftlichen Abteilung.</q> Das wäre eine glänzende Reklame für das
+               betr. Heft in <rs ref="#tillich_place_id__383" type="place">Sachsen</rs>. Vielleicht
                formulieren sie die Notiz von verlegerischem Gesichtspunkte aus noch etwas anders.
                Der Herausgeber der Lehrer Zeitung ist einverstanden.</p>
-            <p>Das Gleiche gilt nun für die <rs ref="#tillich_place_id__198" type="place">Hamburger</rs> Lehrerzeitung, wo ich einen ähnlichen Vortrag gehalten habe, und
+            <p>Das Gleiche gilt nun für die <rs ref="#tillich_place_id__198" type="place"
+                  >Hamburger</rs> Lehrerzeitung, wo ich einen ähnlichen Vortrag gehalten habe, und
                zur Einsendung des <rs type="work" ref="#tillich__N26UP7EL">Manuskriptes</rs>
                aufgefordert bin.</p>
             <p>Mir liegt sehr viel daran, daß die Lehrer, für deren Nachwuchs ich hier ja zu sorgen
                habe, mich kennen lernen. Das ist für die ganze, äußerst wichtige Sache der neuen
-               Lehrerbildung von größter <unclear>
-                  <del rend="s">¿¿¿</del>
-               </unclear>
-               <note type="ea">Ein gestrichenes Wort ist hier unleserlich.</note> Bedeutung.</p>
+               Lehrerbildung von größter <unclear reason="illegible"><del rend="s"
+                  >¿¿¿</del></unclear> Bedeutung.</p>
             <p>Für eine möglichst schnelle, zusagende Antwort wäre ich Ihnen <hi rend="u">sehr</hi>
-               verbunden. Außerdem bitte ich Sie, die Zusendung von weiteren 5 Exemplaren des <q>
-                  <rs type="work" ref="#tillich__G8CYBFWE">Dämonischen</rs>
-               </q> an mich zu
-               veranlassen.</p>
-            <p>[Erledigungsvermerk vom <date when="1926-12-13">13. XII. 26</date>.]<note type="ea">Vgl. dazu den Notizzettel des Verlags vom <date when="1926-12-13">13.12.1926</date> zum Versand der Exemplare (VA, A Nr. 425 1926).</note>
-            </p>
+                  verbunden.<note type="ea">Der Vortrag Tillichs erschien in beiden Organen: <rs
+                     ref="#tillich__CT6PILAQ" type="work">Paul Tillich, Die Überwindung des
+                     Persönlichkeitsideals, in: Sächsische Schulzeitung. Eigentum des Dresdner
+                     Lehrervereins 94. Jg., 9.3.1927, Nr. 9, 149–151, 169–172</rs>; <rs
+                     ref="#tillich__N26UP7EL" type="work">dass., in: Hamburger Lehrerzeitung, hg.
+                     und verlegt v. der Gesellschaft der Freunde des vaterländischen Schul- und
+                     Erziehungswesens in Hamburg 6. Jg., 12.3.1927, Nr. 10, 193–198</rs>. Der
+                  Abdruck in der Hamburger Lehrerzeitung ist, a. a. O., 193, mit dem redaktionellen
+                  Zusatz versehen: <q>Der Vortrag erscheint im Logos 1927, Heft 1. Herausgegeben von
+                        <rs ref="#tillich_person_id__1099" type="person">Prof. Dr. Kroner</rs>, <rs
+                        ref="#tillich_place_id__126" type="place">Dresden</rs>. Verlag J. C. B. Mohr
+                        (<rs ref="#tillich_place_id__448" type="place">Tübingen</rs>).</q> Beide
+                  Abdrucke <!--sind in der Tillich-Bibliographie, GW XIV, 1975, 2. Aufl. 1990,
+                  nachzutragen. Sie -->stimmen mit der im <q>Logos</q>
+                  erschienenen Fassung überein (Logos XVI, 1927, 68–85).</note></p>
+            <p>Außerdem bitte ich Sie, die Zusendung von weiteren 5 Exemplaren des <q><rs
+                     type="work" ref="#tillich__G8CYBFWE">Dämonischen</rs></q> an mich zu
+                  veranlassen.<note type="ea">Der Brief trägt einen Erledigungsvermerk vom
+                  13.XII.26.<!--Vgl. dazu den Notizzettel des Verlags vom <date when="1926-12-13"
+                     >13.12.1926</date> zum Versand der Exemplare (VA, A Nr. 425 1926).--></note></p>
             <closer>
                <salute>Mit bestem Gruß!<lb/>Ihr sehr ergebener</salute>
                <signed>
