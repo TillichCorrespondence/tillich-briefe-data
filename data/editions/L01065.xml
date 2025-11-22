@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Brief von Paul Tillich an Verlag Mohr Siebeck (Oskar Rühle) <lb/>vom 29. März
+            <title>Brief von Paul Tillich an den Verlag Mohr Siebeck (Oskar Rühle) <lb/>vom 29. März
                1930</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
@@ -45,14 +45,15 @@
                   <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Brief, maschinenschriftich, als maschinenschriftliche Abschrift überliefert</p>
+                  <p>Brief<!-- , eigenhändig -->
+                     <lb/>Adressiert: <q>An den Verlag Mohr, in Sachen R. G. G.</q></p>
                </physDesc>
             </msDesc>
             <biblStruct type="journal">
                <monogr>
                   <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
-                     Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                  <title><q>Beweise einer unsichtbaren Beziehung</q>. Die Korrespondenz zwischen
+                     Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
                   <imprint>
                      <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
                      <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
@@ -101,25 +102,24 @@
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <dateline>
-               <rs ref="#tillich_place_id__220" type="place">Sorrento Italia</rs>, d. <date when="1930-03-29">29.3.30</date>
-            </dateline>
-            <opener>
-               <salute>An den Verlag Mohr<lb/>
-                  in Sachen <rs type="work" ref="#tillich__NY5UZ9CG">R.G.G.</rs>
-               </salute>
-            </opener>
+            <opener><dateline>
+                  <rs ref="#tillich_place_id__220" type="place">Sorrento</rs>
+                  <rs ref="#tillich_place_id__219" type="place">Italia</rs>, d. <date
+                     when="1930-03-29">29.3.30</date>
+               </dateline></opener>
             <p>Anbei sende ich Ihnen das <rs type="work" ref="#tillich__XSA4PX52">Manuskript über
-                  Philosophie im Allgemeinen</rs>. Das über <rs type="work" ref="#tillich__62RHLWJD">Philosophie und Religion</rs> folgt bald. Leider
-               hatte ich weder Schreibmaschine noch Schreibhilfe, so daß ich es selbst abschreiben
-               mußte. Ich habe Bleistift benutzt, weil ich damit schneller und leserlicher schreibe
-               als mit Tinte. Eventuell lassen Sie es vor dem Druck in Schreibmaschine übertragen. –
-               Die Korrekturbogen bitte ich Sie, als Brief zu schicken, da mir Drucksachen nicht
-               nachgeschickt werden.</p>
+                  Philosophie im Allgemeinen</rs>. Das über <rs type="work" ref="#tillich__62RHLWJD"
+                  >Philosophie und Religion</rs> folgt bald. Leider hatte ich weder Schreibmaschine
+               noch Schreibhilfe, so daß ich es selbst abschreiben mußte. Ich habe Bleistift
+               benutzt, weil ich damit schneller und leserlicher schreibe als mit Tinte. Eventuell
+               lassen Sie es vor dem Druck in Schreibmaschine übertragen. – Die Korrekturbogen bitte
+               ich Sie, als Brief zu schicken, da mir Drucksachen nicht nachgeschickt werden.<note
+                  type="ea"><rs ref="#tillich_person_id__1658" type="person">Rühle</rs> antwortet
+                     <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> am <date
+                     when="1930-04-01">01. April</date> mit einer Empfangsbestätigung.</note></p>
             <closer>
                <salute>Ihr sehr ergebener</salute>
-               <signed>
-                  <rs ref="#tillich_person_id__1928" type="person">Prof. D. P.
+               <signed><rs ref="#tillich_person_id__1928" type="person">Prof. D. P.
                   Tillich</rs>.</signed>
             </closer>
          </div>

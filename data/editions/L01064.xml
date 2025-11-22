@@ -3,8 +3,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Paul Tillich an Verlag Mohr Siebeck (Oskar Rühle) <lb/>vom 23. März
-               1930</title>
+            <title>Postkarte von Paul Tillich an den Verlag Mohr Siebeck (Oskar Rühle) <lb/>vom 23.
+               März 1930</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -45,15 +45,15 @@
                   <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Postkarte; an Verlag Mohr in <placeName ref="#tillich_place_id__448">Tübingen(<sic>Würtemberg</sic>)</placeName> Germania; Handschriftlich
-                     (Diktat), als maschinenschriftliche Abschrift überliefert</p>
+                  <p>Postkarte, handschriftliches Diktat <lb/>Adressiert: <q>Verlag Mohr, in
+                        Tübingen (<sic>Würtemberg</sic>), Germania</q></p>
                </physDesc>
             </msDesc>
             <biblStruct type="journal">
                <monogr>
                   <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
-                     Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                  <title><q>Beweise einer unsichtbaren Beziehung</q>. Die Korrespondenz zwischen
+                     Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
                   <imprint>
                      <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
                      <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
@@ -102,19 +102,27 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener> </opener>
-            <p> betr. <rs type="work" ref="#tillich__XSA4PX52">
-                  <rs type="work" ref="#tillich__62RHLWJD">R.G.G. Art. Philosophie</rs>
-               </rs>
-            </p>
+            <p>betr. <rs type="work" ref="#tillich__XSA4PX52"><rs type="work"
+                     ref="#tillich__62RHLWJD">R. G. G. Art. Philosophie</rs></rs></p>
             <p>Infolge Erkrankung <rs ref="#tillich_person_id__1923" type="person">meiner Frau</rs>
-               war es notwendig, dass ich noch vor Fertigstellung meines Manuscriptes nach Italien fuhr. Dadurch wird sich der Termin um 8–10
-               Tage verschieben –</p>
-            <p>Jedenfalls erhalten Sie das Manuscript vor <date from="1930-03-23" to="1930-04-01">1. April</date>.</p>
+               war es notwendig, dass ich noch vor Fertigstellung meines Manuscriptes nach <rs
+                  ref="#tillich_place_id__219" type="place">Italien</rs> fuhr. Dadurch wird sich der
+               Termin um 8–10 Tage verschieben –</p>
+            <p>Jedenfalls erhalten Sie das Manuscript vor <date notAfter="1930-04-01">1.
+                  April</date>.<note type="ea">Auf <rs ref="#tillich_person_id__1658" type="person"
+                     >Rühles</rs> Bitte um schnelle Übersendung des Philosophie-Artikels vom <date
+                     when="1930-02-27">27. Februar 1930</date> antwortet <rs
+                     ref="#tillich_person_id__1928" type="person">Tillich</rs> kurze Zeit
+                  später<!-- in Graf-Edition steht 29.02.1930 – 1930 war aber kein Schaltjahr, daher Datum ungewiss -->:
+                        <q>Ihre<supplied>r</supplied> Aufforderung den Artikel <q>Philosophie</q>
+                     für <rs type="work" ref="#tillich__4VIAIVSI">R. G. G.</rs> so bald wie möglich
+                     zu liefern, werde ich nachkommen, so bald ich von einer holländischen
+                     Vortragsreise zurück bin. Ich stelle Ihnen den <date when="1930-03-20">20.
+                        März</date> als Ablieferungstermin sicher in Aussicht.</q></note></p>
             <closer>
-               <salute>Hochachtungsvoll<lb/>
-                  <rs ref="#tillich_person_id__1928" type="person">Professor
-                  D. Dr. Tillich</rs>
-               </salute>
+               <salute>Hochachtungsvoll</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">Professor D. Dr.
+                     Tillich</rs></signed>
             </closer>
          </div>
       </body>
