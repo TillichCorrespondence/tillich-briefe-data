@@ -3,7 +3,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Brief von Paul Tillich an Verlag Mohr Siebeck <lb/>vom 16. November 1926</title>
+            <title>Brief von Paul Tillich an den Verlag Mohr Siebeck <lb/>vom 16. November
+               1926</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -50,8 +51,8 @@
             <biblStruct type="journal">
                <monogr>
                   <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
-                     Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                  <title><q>Beweise einer unsichtbaren Beziehung</q>. Die Korrespondenz zwischen
+                     Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
                   <imprint>
                      <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
                      <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
@@ -84,6 +85,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__2440">Verlag Mohr Siebeck</persName>
+               <!-- <placeName ref="#tillich_place_id__448">Tübingen</placeName> -->
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -101,91 +103,87 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline>[Bearbeitungsvermerk:] erl.<date when="1926-11-18">18. / XI. 26</date>
-                  <note type="eb">Erklärende Anmerkungen zu vorliegendem Brief wurden (ggf.
-                  geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note>
-                  <rs ref="#tillich_place_id__126" type="place">Dresden</rs>, d. <date when="1926-11-16">16. 11. 26</date>Elisenstr. 11</dateline>
+               <dateline><rs ref="#tillich_place_id__126" type="place">Dresden</rs>, d. <date
+                     when="1926-11-16">16.11.26</date><lb/><hi rend="hand">Elisenstr. 11</hi><note
+                     type="ea">Der Brief trägt den handschriftlichen Vermerk: <q>erl. <date
+                           when="1926-11-18">18/XI.26</date></q>
+                  </note></dateline>
             </opener>
-            <p>Hierdurch bitte ich Sie, die 25 Exemplare von <q>
-                  <rs ref="#tillich__G8CYBFWE" type="work">Das Dämonische</rs>
-               </q> mit der Bemerkung: <q>Überreicht vom Verfasser</q> an
-               folgende Adressen zu versenden:</p>
-            <p>1. Geheimrat <rs ref="#tillich_person_id__1761" type="person">Professor D. Dr.
-                  Seeberg</rs>
+            <p>Hierdurch bitte ich Sie, die 25 Exemplare von <q><rs ref="#tillich__G8CYBFWE"
+                     type="work">Das Dämonische</rs></q> mit der Bemerkung: <q>Überreicht vom
+                  Verfasser</q> an folgende Adressen zu versenden:</p>
+            <p>1. <hi rend="hand">Geheimrat</hi>
+               <rs ref="#tillich_person_id__1761" type="person">Professor <hi rend="uu">D.</hi>
+                  <hi rend="hand">Dr.</hi> Seeberg</rs>
                <rs ref="#tillich_place_id__40" type="place">Berlin-Halensee</rs>
-               <lb/>
-               Joachim-Friedrichstr. 52<lb/> 2. Geheimrat " " <rs ref="#tillich_person_id__445" type="person">Deissmann</rs>
+               Joachim-Friedrichstr. 52<lb/> 2. <hi rend="hand">Geheimrat</hi> " " <rs
+                  ref="#tillich_person_id__445" type="person">Deissmann</rs>
                <rs ref="#tillich_place_id__51" type="place">Berlin-Wilmersdorf</rs>
-               <lb/>
-               Prinzregentenstr. 6<lb/> 3. " <rs ref="#tillich_person_id__320" type="person">Dr.
-                  Bultmann</rs>
+               Prinzregentenstr. 6<lb/> 3. " <rs ref="#tillich_person_id__320" type="person"><hi
+                     rend="hand">Dr.</hi> Bultmann</rs>
                <rs ref="#tillich_place_id__279" type="place">Marburg-Lahn</rs> Friedrichstr. 1<lb/>
-               4. " " <rs ref="#tillich_person_id__1438" type="person">Otto</rs> " " Sybelstr. 8<lb/>
-               5. " " <rs ref="#tillich_person_id__2278" type="person">Büchsel</rs>
-               <rs ref="#tillich_place_id__370" type="place">Rostock</rs> Universität Patriotischer Weg
-                  116a<lb/>
-               6. " " <rs ref="#tillich_person_id__42" type="person">Althaus</rs>
-               <rs ref="#tillich_place_id__136" type="place">Erlangen</rs> Universität Hindenburgstr. 4
-                  ½<lb/> 
-               7. Geheimrat D. Dr. <rs ref="#tillich_person_id__1033" type="person">Kattenbusch</rs>
-               <rs ref="#tillich_place_id__189" type="place">Halle a.S.</rs> Universität<lb/>
-               Fasanenstr. 7<lb/> 
-               8. " " <rs ref="#tillich_person_id__904" type="person">Hirsch</rs>
+               4. " " <rs ref="#tillich_person_id__1438" type="person">Otto</rs> " " Sybelstr.
+               8<lb/> 5. " " <rs ref="#tillich_person_id__2278" type="person">Büchsel</rs>
+               <rs ref="#tillich_place_id__370" type="place">Rostock</rs> Universität <hi
+                  rend="hand">Patriotischer Weg 116a</hi><lb/> 6. " " <rs
+                  ref="#tillich_person_id__42" type="person">Althaus</rs>
+               <rs ref="#tillich_place_id__136" type="place">Erlangen</rs> Universität <hi
+                  rend="hand">Hindenburgstr. 4 ½</hi><lb/> 7. <hi rend="hand">Geheimrat D. Dr.</hi>
+               <rs ref="#tillich_person_id__1033" type="person">Kattenbusch</rs>
+               <rs ref="#tillich_place_id__189" type="place">Halle a. S.</rs> Universität <hi
+                  rend="hand">Fasanenstr. 7</hi><lb/> 8. " " <rs ref="#tillich_person_id__904"
+                  type="person">Hirsch</rs>
                <rs ref="#tillich_place_id__186" type="place">Göttingen</rs> Bauratgerberstr. 19<lb/>
                9. " " <rs ref="#tillich_person_id__1723" type="person">K. L. Schmidt</rs>
                <rs ref="#tillich_place_id__224" type="place">Jena</rs> Karl-Alexanderplatz 5<lb/>
                10. " " <rs ref="#tillich_person_id__1854" type="person">Horst-Stephan</rs>
-               <rs ref="#tillich_place_id__260" type="place">Leipzig</rs> S3 Universität Mathildenstr.
-                  10<lb/> 
-               11. " <rs ref="#tillich_person_id__1291" type="person">Dr.
+               <rs ref="#tillich_place_id__260" type="place">Leipzig</rs>
+               <hi rend="hand">S</hi>3 Universität <hi rend="hand">Mathildenstr. 10</hi><lb/> 11. "
+                  <rs ref="#tillich_person_id__1291" type="person"><hi rend="uu">Dr.</hi>
                   Medikus</rs>
-               <rs ref="#tillich_place_id__397" type="place">Rüschlikon bei Zürich</rs> Glarnischstr.
-                  5<lb/> Schweiz<lb/> 
-               12. " " <rs ref="#tillich_person_id__846" type="person">Heimann</rs>
+               <rs ref="#tillich_place_id__397" type="place">Rüschlikon bei Zürich</rs>
+               Glarnischstr. 5 <hi rend="u">Schweiz</hi><lb/> 12. " " <rs
+                  ref="#tillich_person_id__846" type="person">Heimann</rs>
                <rs ref="#tillich_place_id__35" type="place">Bergedorf bei Hamburg</rs> Brauerstr.
-               95<lb/> 
-               13. " " <rs ref="#tillich_person_id__1856" type="person">Stepun</rs>
-               <rs ref="#tillich_place_id__126" type="place">Dresden</rs> Paradiesstr. 6b<lb/> 
-               14. " " <rs ref="#tillich_person_id__1099" type="person">Kroner</rs> " Bautzenerstr. 94<lb/> 
-               15. " " <rs ref="#tillich_person_id__2443" type="person">Janentzky</rs> " " Technische Hochschule
-               Blasewitz<lb/> Residenzstr. 12b<lb/> 
+               95<lb/> 13. " " <rs ref="#tillich_person_id__1856" type="person">Stepun</rs>
+               <rs ref="#tillich_place_id__126" type="place">Dresden</rs> Paradiesstr. 6b<lb/> 14. "
+               " <rs ref="#tillich_person_id__1099" type="person">Kroner</rs> " Bautzenerstr.
+               94<lb/> 15. " " <rs ref="#tillich_person_id__2443" type="person"><hi rend="hand"
+                     >Janentzky</hi></rs> " " Technische Hochschule <hi rend="hand">Blasewitz
+                  Residenzstr.
+               12b</hi><!-- eigentlich zwei Zeilen, aber da handschriftl. Ergänzung und der einheitlichkeit wegen bloß eine --><lb/>
                16. " " <rs ref="#tillich_person_id__1209" type="person">Löwe</rs>
-               <rs ref="#tillich_place_id__238" type="place">Kiel</rs> Universität Niemannsweg 26<lb/>
-               17. <rs ref="#tillich_person_id__2094" type="person">Dr. Wolfers</rs>
+               <rs ref="#tillich_place_id__238" type="place">Kiel</rs> Universität <hi rend="hand"
+                  >Niemannsweg 26</hi><lb/> 17. <rs ref="#tillich_person_id__2094" type="person"><hi
+                     rend="uu">Dr.</hi> Wolfers</rs>
                <rs ref="#tillich_place_id__50" type="place">Berlin-Wannsee</rs> Bismarkstr. 21<lb/>
                18. " <rs ref="#tillich_person_id__1868" type="person">Stövesand</rs>
-               <rs ref="#tillich_place_id__74" type="place">Bremen</rs> Kohlhöckerstr. 56<lb/> 
-               19. " <rs ref="#tillich_person_id__856" type="person">Heller</rs>
+               <rs ref="#tillich_place_id__74" type="place">Bremen</rs> Kohlhöckerstr. 56<lb/> 19. "
+                  <rs ref="#tillich_person_id__856" type="person">Heller</rs>
                <rs ref="#tillich_place_id__52" type="place">Berlin-Zehlendorf-West</rs> Adalbertstr.
-                  41<lb/> 
-               20. " <rs ref="#tillich_person_id__2356" type="person">Herrmann</rs>
+               41<lb/> 20. " <rs ref="#tillich_person_id__2356" type="person">Herrmann</rs>
                <rs ref="#tillich_place_id__51" type="place">Berlin-Wilmersdorf</rs> Pommerschestr.
-                  14a<lb/> 
-               21. <rs ref="#tillich_person_id__2447" type="person">Geheimrat
-                  Thurmann</rs> " " Landhausstr.
-                  44<lb/> 
-               22. " <rs ref="#tillich_person_id__1924" type="person">Tillich</rs> "
-                  SW68 Neuenburgerstr. 3<lb/> 
-               23.
-                  <rs ref="#tillich_person_id__2706" type="person">Pfarrer Thomas</rs>
+               14a<lb/> 21. <rs ref="#tillich_person_id__2447" type="person">Geheimrat Thurmann</rs>
+               " " Landhausstr. 44<lb/> 22. " <rs ref="#tillich_person_id__1924" type="person"
+                  >Tillich</rs> " SW68 Neuenburgerstr. 3<lb/> 23. <rs ref="#tillich_person_id__2706"
+                  type="person">Pfarrer Thomas</rs>
                <rs ref="#tillich_place_id__279" type="place">Marburg-Lahn</rs> Bahnhofstr. 1<lb/>
                24. " <rs ref="#tillich_person_id__1154" type="person">Lic. Leese</rs>
-               <rs ref="#tillich_place_id__198" type="place">Hamburg</rs> Koppel 11<lb/> 
-               25. " " <rs ref="#tillich_person_id__1696" type="person">Schafft</rs>
-               <rs ref="#tillich_place_id__236" type="place">Cassel</rs> Sternstr. 3.<lb/>
-            </p>
+               <rs ref="#tillich_place_id__198" type="place">Hamburg</rs> Koppel 11<lb/> 25. " " <rs
+                  ref="#tillich_person_id__1696" type="person">Schafft</rs>
+               <rs ref="#tillich_place_id__236" type="place">Cassel</rs> Sternstr. 3.<pb n="2"/></p>
             <p>Ausserdem bitte ich Sie, noch 5 Exemplare direkt an mich zu senden.</p>
             <closer>
-               <salute>Ergebenst<lb/>
-                  <rs ref="#tillich_person_id__1928" type="person">Prof. Dr. P.
-                  Tillich</rs>
-               </salute>
-               <signed>
-                  <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>.</signed>
-               <lb/>
-               An den Verlag von Mohr (Siebeck) <rs ref="#tillich_place_id__448" type="place">Tübingen</rs>
-               <note type="ea">Anbei liegen zwei Notizzettel des Verlags zum Versand der Exemplare.</note>
-            </closer>
+               <salute>Ergebenst</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">Prof. D. Dr. P. Tillich</rs>
+                  <lb/>
+                  <hi rend="hand"><rs ref="#tillich_person_id__1928" type="person"
+                     >Tillich</rs>.</hi></signed></closer>
+            <postscript>
+               <p>An den Verlag von Mohr (Siebeck) <rs ref="#tillich_place_id__448" type="place"
+                     >Tübingen</rs><!--<note type="ea">Im Verlagsarchiv liegen hierzu zwei Notizzettel des Verlages zum Versand der
+                  Exemplare.</note>--></p>
+            </postscript>
          </div>
       </body>
    </text>
