@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Brief von Paul Tillich an Hannah Tillich <lb/>verm. April 1933</title>
+            <title>Brief von Paul Tillich an Hannah Tillich <lb/>verm. vom 6. April 1933</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -63,7 +63,7 @@
             <correspAction type="sent">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
                <placeName ref="#tillich_place_id__37" type="place">Berlin</placeName>
-               <date when="1933-04">04.1933</date>
+               <date when="1933-04-06">06.04.1933</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
@@ -76,6 +76,7 @@
       <revisionDesc status="approved">
          <change when="2024-04-29" who="FS">Initiale Auszeichnung des Transkripts und
                 Endabnahme</change>
+         <change when="2025-11-27" who="FS">Erklärende Anmerkungen überprüft und ergänzt</change>
 
       </revisionDesc>
    </teiHeader>
@@ -84,15 +85,16 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!<note type="ea">Dieser undatierte Brief lässt sich grob auf die erste
-                            Aprilwoche 1933 datieren. Er steht inhaltlich im Zusammenhang mit
-                            weiteren undatierten Briefen Tillichs an seine Frau vom April
-                            1933.</note>
+               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!<note type="ea">Der vorliegende,
+                  undatierte Brief steht in inhaltlichem Zusammenhang mit anderen
+                  teils undatierten Schreiben Tillichs an seine Frau aus dem April
+                  1933. Durch diesen Kontext kann vermutet werden, dass das vorliegende Schreiben auf den <date when="1933-04-06">6. April
+                     1933</date> zu datieren ist.</note>
                </salute>
             </opener>
             <p>Heut Vormittag hatte ich einen Brief an Dich angefangen. Da kam Dein großer
                         Brief,<note type="ea">Liegt nicht vor.</note> den mir <rs ref="#tillich_person_id__2041" type="person">M. L</rs> zum Mittagessen mit
-                        <rs ref="#tillich_person_id__641" type="person">Frede</rs>, Schreiner<note type="ea">Identität unsicher, womöglich <rs ref="#tillich_person_id__1739" type="person">Helmuth Schreiner</rs>.</note> und <rs ref="#tillich_person_id__3154" type="person">Elisabeth Hanau</rs>
+               <rs ref="#tillich_person_id__641" type="person">Frede</rs>, <rs ref="#tillich_person_id__1739" type="person">Schreiner</rs> und <rs ref="#tillich_person_id__3154" type="person">Elisabeth Hanau</rs>
                <note type="ea">Identität nicht ermittelt.</note>
                     in die Stadt mitbrachte. Nun ist wieder
                     alles anders und ich muß von vorn anfangen. Ich habe jeden Tag an Dich
@@ -105,12 +107,12 @@
                         Schafft</rs> sehr angefreundet. Im Übrigen ist sie so radikal gebunden, wie
                     nur selten jemand. Ihre Briefe<note type="ea">Liegen nicht vor.</note> bezogen
                     sich auf Sorgen meinet- und <rs ref="#tillich_person_id__1696" type="person">Hermanns</rs> wegen. Eine Revanche wäre hier wirklich nicht angebracht
-                    gewesen. Aber auch sonst freue ich mich, daß Du nicht in <rs ref="#tillich_place_id__277" type="place">Mannheim</rs> warst. Denn dieses
+               gewesen. Aber auch sonst freue ich mich, daß Du nicht in <rs ref="#tillich_place_id__277" type="place">Mannheim</rs> warst.<note type="ea">Siehe auch den <rs ref="L01392" type="letter">Brief</rs> Tillichs an seine Frau verm. vom 4. April 1933. Wen genau <rs ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs> in <rs ref="#tillich_place_id__277" type="place">Mannheim</rs> getroffen hätte, um sich an Tillich zu <q>revanchieren</q>, konnte nicht ermittelt werden.</note> Denn dieses
                     wäre mir schwer geworden. Als heut<pb n="2"/> bei der ersten Post kein Brief von
                     Dir da war, war ich ganz traurig und verlassen. Schreib immer, wie ich unbedingt
                     täglich schreibe.</p>
-            <p>Sobald Du den Brief vom <rs ref="#tillich_person_id__2948" type="person">Dekan</rs> hast, gehe damit zu Kurt<note type="ea">Verm. ist <rs ref="#tillich_person_id__697" type="person">Kurt
-                        Goldstein</rs> gemeint, evtl. auch <rs ref="#tillich_person_id__1610" type="person">Kurt Riezler</rs>.</note> und Julia<note type="ea">Dürfte <rs ref="#tillich_person_id__1256" type="person">Julia Mannheim</rs> meinen,
+            <p>Sobald Du den Brief vom <rs ref="#tillich_person_id__2948" type="person">Dekan</rs> hast,<note type="ea">Meint womöglich ein von Tillich bereits erwartetes Schreiben über seine Beurlaubung.</note> gehe damit zu Kurt<note type="ea">Gemeint ist wohl <rs ref="#tillich_person_id__697" type="person">Kurt
+                        Goldstein</rs> oder <rs ref="#tillich_person_id__1610" type="person">Kurt Riezler</rs>.</note> und Julia<note type="ea">Dürfte <rs ref="#tillich_person_id__1256" type="person">Julia Mannheim</rs> meinen,
                         die Frau <rs ref="#tillich_person_id__1255" type="person">Karl
                             Mannheims</rs>.</note> und erkundige dich 1) Wer sonst noch etwas
                     bekommen hat. 2) Wie wir <hi rend="u">gemeinsam</hi> reagieren sollen. Läßt sich
@@ -123,9 +125,7 @@
                     Seine Hochschule<note type="ea">Die Deutsche Hochschule für Politik in <rs ref="#tillich_place_id__37" type="place">Berlin</rs>.</note> ist für
                     Tage geschlossen. Er hat sein Urlaubsgesuch eingereicht und nimmt einen
                     gleichzeitig eingetroffenen Ruf nach <rs ref="#tillich_place_id__684" type="place">Amerika</rs> an. <rs ref="#tillich_person_id__2400" type="person">Doris</rs> ist traurig, aber tapfer. Gleichzeitig war <rs ref="#tillich_person_id__2956" type="person">Fritz Berber</rs> da, ein
-                        Jurist<pb n="3"/> und <rs ref="#tillich_person_id__137" type="person">Barth</rs>-Schüler, dem ich den <rs ref="L01203" type="letter">Brief von
-                            <rs ref="#tillich_person_id__137" type="person">Barth</rs>
-               </rs> gab und
+                        Jurist<pb n="3"/> und <rs ref="#tillich_person_id__137" type="person">Barth</rs>-Schüler, dem ich den <rs ref="L01203" type="letter">Brief</rs> von <rs ref="#tillich_person_id__137" type="person">Barth</rs> gab und
                     der ihn als Ausdruck seiner Fremdheit gegenüber der Situation empfand. Beide
                     rieten mir zu <rs ref="#tillich_place_id__319" type="place">New York</rs>, durch
                         <rs ref="#tillich_person_id__2957" type="person">Niebuhr</rs>, den
