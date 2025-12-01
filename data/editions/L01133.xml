@@ -45,16 +45,18 @@
                   <!--Das ist die Angabe, die wir aus Berlin erhalten haben; ggf. separat die (alte) Signatur von Graf angeben? (Mohr Siebeck, VA, A Nr. 469 1932)-->
                </msIdentifier>
                <physDesc>
-                  <p>Bildposkarte (Motiv auf der Vorderseite: Menton/Vue sur Garavan et la Frontière
-                     Italienne), eigenhändig</p>
+                  <p>Bildposkarte, eigenhändig; Motiv: <q><foreign xml:lang="fra">Menton/Vue sur
+                           Garavan et la Frontière Italienne</foreign></q>
+                     <lb/>Adressiert: <q>Herrn Verleger Siebeck, <hi rend="u">Tübingen</hi>,
+                           <foreign xml:lang="fra">Allemagne</foreign></q></p>
                </physDesc>
                <additional>
                   <listBibl>
                      <biblStruct type="journal" n="firstPrint">
                         <monogr>
                            <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                           <title>"Beweise einer unsichtbaren Beziehung". Die Korrespondenz zwischen
-                              Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul
+                           <title><q>Beweise einer unsichtbaren Beziehung</q>. Die Korrespondenz
+                              zwischen Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul
                               Siebeck)</title>
                            <imprint>
                               <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
@@ -108,15 +110,17 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1780" type="person">Siebeck</rs>!</salute>
+               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1780" type="person"
+                     >Siebeck</rs>!</salute>
             </opener>
             <p>Eben die erste Korrektur erhalten. 1 M 70 Strafporto. Bitte sorgen Sie beim Drucker
                dafür, daß richtig frankiert wird, da man nur 200 M zur Verfügung hat!</p>
             <closer>
                <salute>Ihr sehr ergebener</salute>
-               <signed>
-                  <rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs>
-               </signed>
+               <signed><rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs><note
+                     type="ea">Die Postkarte trägt den handschriftlichen Vermerk: <q><hi rend="hand"
+                              ><date when="1932-04-12">12.4.32</date>
+                  beantw</hi></q>.</note></signed>
             </closer>
          </div>
       </body>
