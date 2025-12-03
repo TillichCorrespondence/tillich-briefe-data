@@ -44,15 +44,15 @@
                   <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Brief, handschriftlich; Diktat</p>
+                  <p>Brief, eigenhändig; Diktat</p>
                </physDesc>
                <additional>
                   <listBibl>
                      <biblStruct type="journal" n="firstPrint">
                         <monogr>
                            <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                           <title>"Beweise einer unsichtbaren Beziehung". Die Korrespondenz zwischen
-                              Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul
+                           <title><q>Beweise einer unsichtbaren Beziehung</q>. Die Korrespondenz
+                              zwischen Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul
                               Siebeck)</title>
                            <imprint>
                               <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
@@ -89,6 +89,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
+               <!--<placeName ref="#tillich_place_id__448">Tübingen</placeName>-->
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -105,27 +106,32 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__289" type="place">Menton-Garavan</rs>
-                  <lb/> Le
-                  Garavan Palace<lb/> den <date when="1932-04-04">4. 4. 32</date>
-               </dateline>
-               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1780" type="person">Siebeck</rs>!</salute>
+               <dateline><rs ref="#tillich_place_id__289" type="place">Menton-Garavan</rs>
+                  <lb/>Le Garavan Palace <lb/>den <date when="1932-04-04">4.4.32</date><note
+                     type="ea">Der Brief trägt den handschriftlichen Vermerk: <q><hi rend="hand"
+                              ><date when="1932-04-12">12.4.32</date>
+                  beantw</hi></q>.</note></dateline>
+               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1780" type="person"
+                     >Siebeck</rs>!</salute>
             </opener>
-            <p>Haben Sie besten Dank für Ihren <rs ref="L01132" type="letter">Brief</rs>. Anbei sende ich Ihnen
-               das Manuscript des <rs type="work" ref="#tillich__7GPWJJNH">Goethevortrags</rs>. Ich
-               halte ihn nicht für geeignet, als selbstständige Schrift zu erscheinen, glaube aber,
-               dass er sachlich und formal nach dem <rs type="work" ref="#tillich__PQNW8BC6">Hegel-Aufsatz</rs> sehr geeignet wäre. Da er sehr kurz ist, glaube ich nicht,
-               dass er die Höchstgrenze überschreiten wird. Sollte es möglich sein, ihn mit dem
-               Hegelaufsatz zu verbinden, so wäre allerdings eine Veränderung des Vorwortes
-               nötig.</p>
-            <p>Ich bitte Sie, nach Donnerstag den <date when="1932-04-07">7. April</date> nichts
-               mehr hierherzuschicken, da wir Anfang nächster Woche abreisen, auch den Drucker in
-               diesem Sinne zu benachrichtigen, und alles direkt nach <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> schicken zu lassen.</p>
+            <p>Haben Sie besten Dank für <rs ref="L01132" type="letter">Ihren Brief</rs>. Anbei
+               sende ich Ihnen das Manuscript des <rs type="work" ref="#tillich__7GPWJJNH"
+                  >Goethevortrags</rs>. Ich halte ihn nicht für geeignet, als selbstständige Schrift
+               zu erscheinen, glaube aber, dass er sachlich und formal nach dem <rs type="work"
+                  ref="#tillich__PQNW8BC6">Hegel-Aufsatz</rs> sehr geeignet wäre. Da er sehr kurz
+               ist, glaube ich nicht, dass er die Höchstgrenze überschreiten wird. Sollte es möglich
+               sein, ihn mit dem <rs type="work" ref="#tillich__PQNW8BC6">Hegelaufsatz</rs> zu
+               verbinden, so wäre allerdings eine Veränderung des Vorwortes nötig.</p>
+            <p>Ich bitte Sie, nach Donnerstag den<!-- sic? -->
+               <date when="1932-04-07">7. April</date> nichts mehr hierherzuschicken, da wir Anfang
+               nächster Woche abreisen, auch den Drucker in diesem Sinne zu benachrichtigen, und
+               alles direkt nach <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs>
+               schicken zu lassen.</p>
             <closer>
-               <salute>Ihr<lb/>sehr ergebener</salute>
+               <salute>Ihr <lb/>sehr ergebener</salute>
                <signed>
-                  <rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs>
+                  <hi rend="hand"><rs type="person" ref="#tillich_person_id__1928">P.
+                     Tillich</rs></hi>
                </signed>
             </closer>
          </div>

@@ -44,17 +44,16 @@
                   <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Postkarte (Stempel durch Lochung beschädigt), nach
-                        <placeName ref="#tillich_place_id__37">Mohrenstr. 27 Hospitz am
-                           Gendarmenmarkt Berlin W. 8</placeName>
-                     , maschinenschriftlich</p>
+                  <p>Postkarte, maschinenschriftlich <lb/>Adressiert:
+                        <!-- Abs.: <q>Professor D. Dr. Tillich, Frankfurt a. M.-Niederrad, Vogelstraße 11</q> --><q>Herrn
+                        Dr. Siebeck, Mohrenstr. 27, Hospiz am Gendarmenmarkt, Berlin W. 8</q></p>
                </physDesc>
             </msDesc>
             <biblStruct type="journal">
                <monogr>
                   <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
-                     Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                  <title><q>Beweise einer unsichtbaren Beziehung</q>. Die Korrespondenz zwischen
+                     Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
                   <imprint>
                      <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
                      <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
@@ -83,10 +82,11 @@
             <correspAction type="sent">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
                <placeName ref="#tillich_place_id__144">Frankfurt am Main</placeName>
-               <date from="1932-05-08" to="1932-05-09">08.-09.05.1932</date>
+               <date from="1932-05-08" to="1932-05-09">08.–09.05.1932</date><!-- Poststempel durch Lochung beschädigt. -->
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -106,19 +106,17 @@
                <salute>Sehr geehrter <rs ref="#tillich_person_id__1780" type="person">Herr
                      Siebeck</rs>!</salute>
             </opener>
-            <p>Herzlichen Dank für Ihren <rs ref="L01143" type="letter">Brief</rs>. Leider steht
-               es mit mir am <date when="1932-05-11">Mittwoch</date> folgendermassen: Von 1/2 5–5
-               Uhr habe ich Prüfung, von 5–6 Uhr eine Antrittsvorlesung, von 6–8 Uhr Seminar. Ich
-               werde aber punkt vier in meinem Zimmer im Philosophischen Seminar der Universität
-               sein (Eingang Universität Mertonstr.) Falls Sie mich dort aufsuchen können, hätten wir noch eine halbe
-               Stunde Zeit. (Tel: 65892)</p>
+            <p>Herzlichen Dank für <rs ref="L01143" type="letter">Ihren Brief</rs>. Leider steht es
+               mit mir am <date when="1932-05-11">Mittwoch</date> folgendermassen: Von ½ 5–5 Uhr
+               habe ich Prüfung, von 5–6 Uhr eine Antrittsvorlesung, von 6–8 Uhr Seminar. Ich werde
+               aber <sic>punkt</sic> vier in meinem Zimmer im Philosophischen Seminar der
+               Universität sein (Eingang Universität Mertonstr.) Falls Sie mich dort aufsuchen
+               können, hätten wir noch eine halbe Stunde Zeit. (Tel: 65892)</p>
             <closer>
                <salute>Ihr sehr ergebener</salute>
                <signed>
-                  <rs ref="#tillich_person_id__1928" type="person">
-                     <hi rend="hand">P.
-                        Tillich</hi>
-                  </rs>
+                  <hi rend="hand"><rs ref="#tillich_person_id__1928" type="person">P.
+                     Tillich</rs></hi>
                </signed>
             </closer>
          </div>
