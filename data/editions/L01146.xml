@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Paul Tillich an Verlag Mohr Siebeck <lb/>vom 22. Mai 1932
+            <title>Postkarte von Paul Tillich an den Verlag Mohr Siebeck <lb/>vom 22. Mai 1932
                [PS]</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
@@ -45,14 +45,15 @@
                   <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Postkarte, an den Verlag Mohr <placeName ref="#tillich_place_id__448">Tübingen</placeName>, maschinenschriftlich</p>
+                  <p>Postkarte, maschinenschriftlich <lb/>Adressiert: <q>An den Verlag Mohr,
+                        Tübingen</q></p>
                </physDesc>
             </msDesc>
             <biblStruct type="journal">
                <monogr>
                   <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
-                     Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                  <title><q>Beweise einer unsichtbaren Beziehung</q>. Die Korrespondenz zwischen
+                     Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
                   <imprint>
                      <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
                      <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
@@ -85,6 +86,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__2440">Verlag Mohr Siebeck</persName>
+               <placeName ref="#tillich_place_id__448">Tübingen</placeName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -101,36 +103,23 @@
          <div type="writingSession">
             <pb n="1"/>
             <p>Hierdurch bitte ich Sie, auf meine Kosten und zum Autorenpreis zu versenden meine
-               Schrift <q>
-                  <rs type="work" ref="#tillich__5FHASIFZ">Hegel und Goethe</rs>
-               </q>
-            </p>
-            <p> 1. an Frankfurter Goethemuseum
-                  <rs ref="#tillich_place_id__143" type="place">
-                  <hi rend="u">Frankfurt</hi>/M</rs>
-               Goethehaus,<lb/> 2. an <rs ref="#tillich_person_id__1856" type="person">Herrn Prof.
-                  Dr. Fedor Stepun</rs>
-               <rs ref="#tillich_place_id__126" type="place">
-                  <hi rend="u">Dresden</hi>
-               </rs>
-               Löbtauerstr. 13<lb/> 3. <rs ref="#tillich_person_id__2490" type="person">Frau Bankier
-                  Sulzbach</rs> Rembrandtstr. 21 <rs ref="#tillich_place_id__143" type="place">
-                  <hi rend="u">Frankfurt/Main</hi>
-               </rs>
-            </p>
-            <p>Ferner bitte ich, mir selbst fünf Exemplare an meine Adresse, 11 Vogelstr.
-               <rs ref="#tillich_place_id__144" type="place">
-                  <hi rend="u">Frankfurt/Main-Niederrad</hi>
-               </rs> zu senden.</p>
+               Schrift <q><rs type="work" ref="#tillich__5FHASIFZ">Hegel und Goethe</rs></q></p>
+            <p>1. an Frankfurter Goethemuseum <hi rend="u"><rs ref="#tillich_place_id__143"
+                     type="place"> Frankfurt/M</rs></hi> Goethehaus, <lb/>2. an <rs
+                  ref="#tillich_person_id__1856" type="person">Herrn Prof. Dr. Fedor Stepun</rs>
+               <hi rend="u"><rs ref="#tillich_place_id__126" type="place">Dresden</rs></hi>
+               Löbtauerstr. 13 <lb/>3. <rs ref="#tillich_person_id__2490" type="person">Frau Bankier
+                  Sulzbach</rs> Rembrandtstr. 21 <hi rend="u"><rs ref="#tillich_place_id__143"
+                     type="place">Frankfurt/Main</rs></hi></p>
+            <p>Ferner bitte ich, mir selbst fünf Exemplare an meine Adresse, 11 Vogelstr. <hi
+                  rend="u"><rs ref="#tillich_place_id__144" type="place"
+                     >Frankfurt/Main-Niederrad</rs></hi> zu senden.</p>
             <closer>
-               <salute>Hochachtungsvoll<lb/>
-                  <rs ref="#tillich_person_id__1928" type="person">Prof.
-                     D. Dr. Paul Tillich</rs>
-               </salute>
-               <signed>
-                  <rs ref="#tillich_person_id__1928" type="person">
-                     <hi rend="hand">Tillich</hi>
-                  </rs>
+               <salute>Hochachtungsvoll </salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">Prof. D. Dr. Paul
+                     Tillich</rs>
+                  <lb/>
+                  <hi rend="hand"><rs ref="#tillich_person_id__1928" type="person">Tillich</rs></hi>
                </signed>
             </closer>
          </div>
