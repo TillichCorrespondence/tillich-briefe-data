@@ -3,7 +3,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Paul Tillich an Verlag Mohr Siebeck <lb/>vom 6. Juli 1932</title>
+            <title>Postkarte von Paul Tillich an den Verlag Mohr Siebeck <lb/>vom 6. Juli
+               1932</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -44,14 +45,16 @@
                   <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Postkarte, an den Verlag Mohr <placeName ref="#tillich_place_id__448">Tübingen</placeName>, maschinenschriftlich</p>
+                  <p>Postkarte, maschinenschriftlich <lb/>Adressiert:
+                        <!-- Abs.: <q>Professor D. Dr. Tillich, Frankfurt a. M.-Niederrad, Vogelstraße 11</q> --><q>An
+                        den Verlag Mohr, Tübingen</q></p>
                </physDesc>
             </msDesc>
             <biblStruct type="journal">
                <monogr>
                   <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
-                     Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                  <title><q>Beweise einer unsichtbaren Beziehung</q>. Die Korrespondenz zwischen
+                     Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
                   <imprint>
                      <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
                      <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
@@ -100,24 +103,19 @@
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <p>Darf ich Sie bitten, ein Exemplar meiner Schrift <q>
-                  <rs type="work" ref="#tillich__5FHASIFZ">Hegel und Goethe</rs>
-               </q> zum Autorenpreis zu übersenden an<lb/>
-               <rs ref="#tillich_person_id__2551" type="person">Herrn Pfarrer Hermann
-                  Lütze</rs>
-               <hi rend="u">
-                  <rs ref="#tillich_place_id__108" type="place">Cleinich</rs>
-                  (Hunsrück)</hi> ferner zwei Exemplare an meine Adresse
-            </p>
+            <p>Darf ich Sie bitten, ein Exemplar meiner Schrift <q><rs type="work"
+                     ref="#tillich__5FHASIFZ">Hegel und Goethe</rs></q> zum Autorenpreis zu
+               übersenden an <lb/><rs ref="#tillich_person_id__2551" type="person">Herrn Pfarrer
+                  Hermann Lütze</rs>
+               <hi rend="u"><rs ref="#tillich_place_id__108" type="place">Cleinich</rs>
+                  (Hunsrück)</hi>
+               <lb/>ferner zwei Exemplare an meine Adresse</p>
             <closer>
-               <salute>Hochachtungsvoll<lb/>
-                  <rs ref="#tillich_person_id__1928" type="person">Professor D. Dr. P.
-                  Tillich</rs>
-               </salute>
-               <signed>
-                  <rs ref="#tillich_person_id__1928" type="person">
-                     <hi rend="hand">Tillich</hi>
-                  </rs>
+               <salute>Hochachtungsvoll </salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">Professor D. Dr. P.
+                     Tillich</rs>
+                  <lb/><hi rend="hand"><rs ref="#tillich_person_id__1928" type="person"
+                     >Tillich</rs></hi>
                </signed>
             </closer>
          </div>
