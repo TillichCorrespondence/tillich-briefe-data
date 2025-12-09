@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Brief von Paul Tillich an Hannah Tillich, <lb/>vermutlich vom 4. August 1933</title>
+            <title>Brief von Paul Tillich an Hannah Tillich, <lb/>vermutlich vom 4. oder 5. August 1933</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -61,7 +61,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date when="1933-08-04">04.08.1933</date>
+               <date notAfter="1933-08-05" notBefore="1933-08-04">04/05.08.1933</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
@@ -75,6 +75,7 @@
       <revisionDesc status="approved">
          <change when="2023-06-06" who="FS">Initiale Auszeichnung des Transkripts</change>
          <change when="2023-12-07" who="FS">Endabnahme</change>
+         <change when="2025-12-09" who="FS">Erklärende Anmerkungen überprüft und ergänzt</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -86,23 +87,18 @@
                   <supplied>
                      <rs type="place" ref="#tillich_place_id__380">Rügen</rs>
                      <date when="1933">1933</date>
-                  </supplied>
-                  <note type="ea">Mit rotem Kugelschreiber von
+                  </supplied><note type="ea">Mit rotem Kugelschreiber von
               fremder Hand. Vermutlich eine wesentlich spätere Hinzufügung. Der Brief ist
-              ürsprünglich mit keinem Datum versehen. Die hier vorgenommene Datierung auf den <date when="1933-08-04">4. August 1933</date> ergibt sich aus dem Kontext. Er wurde an
-              einem Freitag und aller Wahrscheinlichkeit nach in zeitlicher Nähe zu den Briefen <rs ref="#tillich_person_id__1928" type="person">Paul Tillichs</rs> an <rs ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs> von Ende Juli bzw.
-              Anfang August 1933 verfasst. Eine letzte Unsicherheit die Datierung betreffend stellt
-              hingegen die Wiedervereinigung <rs ref="#tillich_person_id__1928" type="person">Tillichs</rs> mit seiner Tochter <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> dar, die sich zeitlich nicht mit der Erinnerung <rs ref="#tillich_person_id__575" type="person">Margot Hahls</rs> deckt (vgl. die
-              entsprechende Anmerkung).</note>
+              ürsprünglich mit keinem Datum versehen. Die hier vorgenommene Datierung auf den <date when="1933-08-04">4. August 1933</date> ergibt sich aus dem Kontext.</note>
                </dateline>
                <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
             </opener>
             <p>Also: <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> kommt <date when="1933-08-05">morgen</date>, Sonnabend früh um 7 hier an.<note type="ea">Erdmuthe
-            Tillich hatte einige Monate bei einer Freundin der Familie, <rs ref="#tillich_person_id__757" type="person">Margot Müller</rs> (bzw. Margot Hahl), in
+            Tillich hatte einige Monate bei einer Freundin der Familie, <rs ref="#tillich_person_id__757" type="person">Margot Faust</rs> (bzw. Margot Hahl), in
               <rs ref="#tillich_place_id__382" type="place">Saarbrücken</rs> verbracht. Die
             Wiedervereinigung Tillichs mit seiner Tochter in Berlin fand in der Erinnerung Hahls
             erst in der dritten Oktoberwoche 1933 statt. Dies steht in Widerspruch zu der hier
-            angenommenen Datierung des vorliegenden Briefes (vgl. zu Hahl <rs n="25" ref="#tillich__WKZ42R29" type="work">Graf, Tillich im Exil, 25</rs>).</note> Ich
+            angenommenen Datierung des vorliegenden Briefes (zu Hahl vgl. <rs n="25" ref="#tillich__WKZ42R29" type="work">Graf, Tillich im Exil, 25</rs>).</note> Ich
           dachte erst, es wäre besser, sie einen Tag ausruhen zu lassen; aber sowohl <rs ref="#tillich_person_id__757" type="person">Margot</rs>, mit der ich telephoniert habe,
           als auch <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> haben
           beschlossen, daß es wichtiger ist, gleich weiter zu fahren und ihr auf dem Schiff eine
@@ -111,11 +107,10 @@
             Bollwerk in <rs ref="#tillich_place_id__517" type="place">Sellin</rs> bzw. Baaber Hafen
             auf <rs type="place" ref="#tillich_place_id__380">Rügen</rs>.</note> Ich bin ganz voll
           von Unge<pb n="2"/>duld nach ihr.</p>
-            <p>Vor <rs type="person" ref="#tillich_person_id__1307 #tillich_person_id__1923">Euch</rs>
-               <note type="ea">Es ist nicht ganz sicher, welche Personen
+            <p>Vor <rs type="person" ref="#tillich_person_id__1307 #tillich_person_id__1923">Euch</rs><note type="ea">Es ist nicht ganz sicher, welche Personen
             hier genau gemeint sind. Neben <rs ref="#tillich_person_id__1923" type="person">Hannah
               Tillich</rs> sicherlich auch <rs ref="#tillich_person_id__1307" type="person">Carl
-              Mennicke</rs>, der sich ebenfalls auf Rügen aufhielt.</note> dagegen habe ich nach
+                 Mennicke</rs> und seine <rs ref="#tillich_person_id__1308" type="person">Trude</rs>, die sich ebenfalls auf Rügen aufhielen.</note> dagegen habe ich nach
           Euren Briefen<note type="ea">Liegen nicht vor.</note> etwas Angst. Ich habe das Gefühl,
           daß <rs ref="L01243" type="letter">
                   <rs ref="L01244" type="letter">meine Briefe</rs>
@@ -124,7 +119,7 @@
             <p>1) Von einer Überredung durch <rs type="person"
                    ref="#tillich_person_id__1498 #tillich_person_id__1499 #tillich_person_id__1211 #tillich_person_id__1212">die
                 Küssel-Leute</rs> ist schon deswegen keine Rede, weil sie dagegen
-          waren, daß ich zu <rs ref="#tillich_person_id__2421" type="person">G.</rs> ging und
+               waren, daß ich zu G.<note type="ea">Meint entweder Ministerialdirektor <rs ref="#tillich_person_id__2421" type="person">Georg Gerullis</rs> oder aber <rs ref="#tillich_person_id__718" type="person">Adolf Grimme</rs>.</note> ging und
           dagegen, daß ich den Urlaub einreiche. <hi rend="u">Nur darum</hi> drehte sich die
           Unterhaltung mit ihnen. Denn daß ich ohne Entscheidung nicht wegfahre, das war mir so
           selbstverständlich, daß wir darüber gar nicht gesprochen haben. Ich habe in bewußtem <hi rend="u">Gegensatz zu ihnen</hi> gehandelt.</p>
@@ -145,7 +140,7 @@
                <hi rend="u">niemanden</hi> einschließlich die wildesten Leute, die auch nur einen
           Augenblick anderer Meinung waren.</p>
             <p>Alles andere mündlich! Auf Wiedersehen!</p>
-            <p>Anbei mein Brief<note type="ea">Liegt nicht vor.</note> an <rs ref="#tillich_person_id__2316" type="person">Lederer</rs> ins Unreine und eine Anfrage
+            <p>Anbei mein <rs ref="L01245" type="letter">Brief</rs> an <rs ref="#tillich_person_id__2316" type="person">Lederer</rs> ins Unreine und eine Anfrage<note type="ea">Liegt nicht vor.</note>
           von <rs ref="#tillich_person_id__1498" type="person">Lilly</rs> an <rs ref="#tillich_person_id__1307" type="person">Carolus</rs>. </p>
             <closer>
                <salute>Ich liebe Dich!</salute> Dein <signed>

@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Paul Tillich und (verm.) Claire Löwenfeld an Hannah Tillich
+            <title>Postkarte von Paul Tillich und Claire Löwenfeld an Hannah Tillich
                <lb/>vom 3. August 1933 [PS]
            </title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
@@ -62,6 +62,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1211">Claire Löwenfeld</persName>
                <placeName ref="#tillich_place_id__37">Berlin</placeName>
                <date when="1933-08-03">03.08.1933</date>
             </correspAction>
@@ -77,6 +78,7 @@
       <revisionDesc status="approved">
          <change who="SK" when="2023-12-19">Initiale Auszeichnung des Transkripts</change>
          <change who="FS" when="2024-02-21">Endabnahme</change>
+         <change when="2025-12-09" who="FS">Erklärende Anmerkungen überprüft und ergänzt</change>
       </revisionDesc>
    </teiHeader>
    <text type="postcard">
@@ -94,10 +96,10 @@
          </div>
          <div type="Paul-Tillich">
             <p>
-               <note type="ea">Dieser Abschnitt stammt von Paul Tillichs Hand.</note>
+               
                <hi rend="uu">2</hi> Anzüge bei <rs ref="#tillich_person_id__2682" type="person">
                   <hi rend="uu">Hoffmann</hi>
-               </rs>(!!!) Das sagt alles         
+               </rs>(!!!) Das sagt alles<note type="ea">Dieser Abschnitt stammt von Paul Tillichs Hand.</note>         
         </p>
             <closer>Dein <signed>
                   <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
