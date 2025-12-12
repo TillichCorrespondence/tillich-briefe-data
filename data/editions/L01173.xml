@@ -3,7 +3,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Paul Tillich an Verlag Mohr Siebeck <lb/>vom 22. Dezember 1932</title>
+            <title>Postkarte von Paul Tillich an den Verlag Mohr Siebeck <lb/>vom 22. Dezember
+               1932</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -44,14 +45,16 @@
                   <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Postkarte, an den Verlag Mohr <placeName ref="#tillich_place_id__448">Tübingen</placeName> Württemberg, handschriftlich</p>
+                  <p>Postkarte, eigenhändig <lb/>Adressiert:
+                        <!-- Abs.: <q>Professor D. Dr. Paul Tillich, Frankfurt a. M.-Niederrad, Vogelstraße 11</q> --><q>An
+                        den Verlag Mohr, Tübingen, Württemberg</q></p>
                </physDesc>
             </msDesc>
             <biblStruct type="journal">
                <monogr>
                   <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
-                     Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                  <title><q>Beweise einer unsichtbaren Beziehung</q>. Die Korrespondenz zwischen
+                     Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
                   <imprint>
                      <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
                      <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
@@ -84,6 +87,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__2440">Verlag Mohr Siebeck</persName>
+               <placeName ref="#tillich_place_id__448">Tübingen</placeName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -100,14 +104,11 @@
          <div type="writingSession">
             <pb n="1"/>
             <p>Hierdurch bitte ich um <hi rend="i">möglichst umgehende</hi> Zusendung von 5
-               Exemplaren meiner Schrift <q>
-                  <rs type="work" ref="#tillich__G8CYBFWE">Das
-                  Dämonische</rs>
-               </q> zum Autorenpreis.</p>
+               Exemplaren meiner Schrift <q><rs type="work" ref="#tillich__G8CYBFWE">Das
+                     Dämonische</rs></q> zum Autorenpreis.</p>
             <closer>
                <signed>
-                  <rs ref="#tillich_person_id__1928" type="person">Prof. D.
-                  Tillich</rs>.</signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Prof. D. Tillich</rs>.</signed>
             </closer>
          </div>
       </body>

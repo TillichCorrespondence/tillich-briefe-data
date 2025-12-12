@@ -50,8 +50,8 @@
             <biblStruct type="journal">
                <monogr>
                   <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
-                     Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                  <title><q>Beweise einer unsichtbaren Beziehung</q>. Die Korrespondenz zwischen
+                     Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
                   <imprint>
                      <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
                      <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
@@ -84,6 +84,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
+               <!--<placeName ref="#tillich_place_id__448">Tübingen</placeName>-->
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -101,26 +102,27 @@
             <pb n="1"/>
             <opener>
                <dateline>
-                  <rs ref="#tillich_place_id__143" type="place">Frankfurt a.M.</rs> den
-                     <date when="1933-04-26">26. 4. 33</date> Vogelstr. 11</dateline>
+                  <rs ref="#tillich_place_id__143" type="place">Frankfurt a. M.</rs> den <date
+                     when="1933-04-26">26.4.33</date> Vogelstr. 11<note type="ea">Der Brief trägt
+                     den handschriftlichen Vermerk: <q><hi rend="hand">29.IV.
+                  beantw</hi></q></note></dateline>
                <salute>Sehr geehrter <rs ref="#tillich_person_id__1780" type="person">Herr
                      Siebeck</rs>!</salute>
             </opener>
             <p>Die Ereignisse der letzten Wochen scheinen mir zur Folge zu haben, dass ich die
-               Veröffentlichung des Idealismus-Vortrages<note type="ea">Vgl. die vorherigen Briefe in der Korrespondez und das Manuskript <rs ref="#tillich__5J2FGJ3T" type="work">Der deutsche Idealismus und das proletarische Schicksal</rs>
-               </note> auf unbestimmte Zeit verschiebe, es sei
-               denn, dass Sie, wenn auch unter einem anderen Titel, daran festhalten. Dagegen nehme
-               ich an, dass sich in bezug auf die Metaphysik nichts geändert hat, vielleicht könnte
-               sogar die mir durch meine Beurlaubung gewonnene Zeit der Arbeit zugute kommen. Doch
-               bitte ich Sie um ein paar Worte, damit ich Direktiven für meine kommende Arbeit
-               treffen kann.</p>
+               Veröffentlichung des Idealismus-Vortrages<note type="ea">Vgl. die vorherigen Briefe
+                  in der Korrespondez und das Manuskript <rs ref="#tillich__5J2FGJ3T" type="work"
+                     >Der deutsche Idealismus und das proletarische Schicksal</rs>.</note> auf
+               unbestimmte Zeit verschiebe, es sei denn, dass Sie, wenn auch unter einem anderen
+               Titel, daran festhalten. Dagegen nehme ich an, dass sich in bezug auf die Metaphysik
+               nichts geändert hat, vielleicht könnte sogar die mir durch meine Beurlaubung
+               gewonnene Zeit der Arbeit zugute kommen. Doch bitte ich Sie um ein paar Worte, damit
+               ich Direktiven für meine kommende Arbeit treffen kann.</p>
             <closer>
                <salute>Mit bestem Grusse<lb/>Ihr sehr ergebener</salute>
                <signed>
-                  <rs ref="#tillich_person_id__1928" type="person">
-                     <hi rend="hand">P.
-                        Tillich</hi>
-                  </rs>.</signed>
+                  <hi rend="hand"><rs ref="#tillich_person_id__1928" type="person">P.
+                     Tillich</rs>.</hi></signed>
             </closer>
          </div>
       </body>
