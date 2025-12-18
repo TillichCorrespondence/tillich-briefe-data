@@ -45,14 +45,16 @@
                   <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Postkarte, an Herrn Verleger Siebeck Mohr-Verlag <placeName ref="#tillich_place_id__448">Tübingen</placeName>, maschinenschriftlich</p>
+                  <p>Postkarte, maschinenschriftlich <lb/>Adressiert:
+                        <!-- Abs.: <q>Professor D. Dr. Tillich, Frankfurt a. M.-Niederrad, Vogelstraße 11</q> --><q>Herrn
+                        Verleger Siebeck, Mohr-Verlag, <hi rend="u">Tübingen</hi></q></p>
                </physDesc>
             </msDesc>
             <biblStruct type="journal">
                <monogr>
                   <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
-                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
-                     Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                  <title><q>Beweise einer unsichtbaren Beziehung</q>. Die Korrespondenz zwischen
+                     Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
                   <imprint>
                      <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
                      <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
@@ -85,6 +87,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
+               <placeName ref="#tillich_place_id__448">Tübingen</placeName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -101,33 +104,32 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <salute>
-                  <note type="eb">Erklärende Anmerkungen zu vorliegendem Brief wurden (ggf.
-                     geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note>Sehr
-                  geehrter <rs ref="#tillich_person_id__1780" type="person">Herr
-                  Siebeck</rs>!</salute>
+               <salute>Sehr geehrter <rs ref="#tillich_person_id__1780" type="person">Herr
+                     Siebeck</rs>!</salute>
             </opener>
-            <p>Auf Ihre Anfrage betr. <rs ref="#tillich_person_id__2082" type="person">Windelbands</rs> einbändigem <rs type="work" ref="#tillich__Z6KUNKAD">Lehrbuch
-                  der Geschichte der Philosophie</rs> möchte ich feststellen, dass ich persönlich
-               bis jetzt, wenn ich nach einem brauchbaren Lehrbuch gefragt werde, auf <rs ref="#tillich_person_id__2082" type="person">Windelband</rs> verweise. Ich glaube
-               nicht, dass etwas annähernd ebenso Bedeutendes seitdem erschienen ist. Allerdings ist
-               das Niveau der Durchschnittsstudenten heute so gering, dass ihnen das Buch vielfach
-               zu schwer ist. Ich persönlich jedenfalls würde die Neuauflage sehr begrüssen.<note type="ea">In erster Auflage war Wilhelm Windelbands Lehrbuch der Geschichte der
-                  Philosophie 1892 bei J. C. B. Mohr (Paul Siebeck) erschienen. Es folgten 1900 eine
-                  durchgesehene erweiterte Aufl.; 1903, 1907, 1910 und 1912 durchgesehene Aufl.;
-                  1916 und 1919 unveränderte; dann 1921 durchgesehen von Erich Rothacker eine 9. und
-                  10. Aufl.; 1924 und 1928 zwei durchgesehene Aufl. und 1935 eine 13., erweitert und
-                  ergänzt von Heinz Heimsoeth; gegenwärtig lieferbar ist als Nachdruck der 6. Aufl.
-                  von 1912, der letzten, die Windelband noch selbst zum Druck gegeben hat, eine 18.
-                  Aufl. von 1993.</note>
+            <p>Auf Ihre Anfrage betr. <rs ref="#tillich_person_id__2082" type="person"
+                  >Windelbands</rs> einbändigem <rs type="work" ref="#tillich__Z6KUNKAD">Lehrbuch
+                  der Geschichte der Philosophie</rs><note type="ea">Liegt nicht vor.</note> möchte
+               ich feststellen, dass ich persönlich bis jetzt, wenn ich nach einem brauchbaren
+               Lehrbuch gefragt werde, auf <rs ref="#tillich_person_id__2082" type="person"
+                  >Windelband</rs> verweise. Ich glaube nicht, dass etwas annähernd ebenso
+               Bedeutendes seitdem erschienen ist. Allerdings ist das Niveau der
+               Durchschnittsstudenten heute so gering, dass ihnen das Buch vielfach zu schwer ist.
+               Ich persönlich jedenfalls würde die Neuauflage sehr begrüssen.<note type="ea">In
+                  erster Auflage ist <rs ref="#tillich_person_id__2082" type="person">Wilhelm
+                     Windelbands</rs>
+                  <rs type="work" ref="#tillich__4DXH2NQV">Geschichte der Philosophie</rs> 1892 bei
+                  J. C. B. Mohr (Paul Siebeck) erschienen. Diese wurde zwischen 1900 bis 1928, nun
+                  unter dem Titel <q>Lehrbuch der Geschichte der Philosophie</q>, immer wieder
+                  aufgelegt und erschien 1935 in 13. Auflage, herausgegeben von <rs
+                     ref="#tillich_person_id__4313" type="person">Heinz Heimsoeth</rs>. Noch heute
+                  ist das Werk in inzwischen 18. Auflage von 1993 verfügbar.</note>
             </p>
             <closer>
                <salute>Mit bestem Gruss<lb/>Ihr<lb/>sehr ergebener</salute>
                <signed>
-                  <rs ref="#tillich_person_id__1928" type="person">
-                     <hi rend="hand">P.
-                        Tillich</hi>
-                  </rs>
+                  <hi rend="hand"><rs ref="#tillich_person_id__1928" type="person">P.
+                     Tillich</rs></hi>
                </signed>
             </closer>
          </div>
