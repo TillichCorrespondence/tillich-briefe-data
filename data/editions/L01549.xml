@@ -3,9 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Paul Tillich an Theodor Siegfried
-                    <lb/>vom 5. Mai 1930 [PS]
-               </title>
+            <title>Postkarte von Paul Tillich an Theodor Siegfried <lb/>vom 5. Mai 1930 [PS] </title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -14,7 +12,8 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -30,7 +29,8 @@
                </address>
             </publisher>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -54,7 +54,8 @@
             <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
          </projectDesc>
          <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -75,6 +76,7 @@
       </profileDesc>
       <revisionDesc status="approved">
          <change when="2025-10-07" who="FS">Initiale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2025-12-16">Erklärenende Anmerkungen überprüft und ergänzt</change>
       </revisionDesc>
    </teiHeader>
    <text type="postcard">
@@ -82,12 +84,24 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <salute>Lieber Herr <rs ref="#tillich_person_id__1783" type="person">Siegfried</rs>!</salute>
+               <salute>Lieber Herr <rs ref="#tillich_person_id__1783" type="person"
+                  >Siegfried</rs>!</salute>
             </opener>
-            <p>Ich werde tun, was ich kann, wenn ich Ende dieser Woche in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> bin.</p>
+            <p>Ich werde tun, was ich kann, wenn ich Ende dieser Woche in <rs
+                  ref="#tillich_place_id__37" type="place">Berlin</rs> bin.<note type="ea">Der
+                  genaue Anlass der Postkarte ist nicht bekannt. Aus dem zeitlichen Kontext lässt
+                  sich vermuten, dass es um <rs ref="#tillich_person_id__1783" type="person"
+                     >Siegfrieds</rs> Beitrag zur RGG geht: <rs ref="#tillich_person_id__1783"
+                     type="person">Siegfried</rs> war im Gespräch für den historischen Teil des
+                  Artikels <q>Religiöser Sozialismus</q>, für den <rs ref="#tillich_person_id__1928"
+                     type="person">Tillich</rs> den systematischen Teil übernehmen sollte.
+                  Letztendlich übernahm <rs ref="#tillich_person_id__1783" type="person"
+                     >Siegfried</rs> den Personalartikel über <rs ref="#tillich_person_id__1928"
+                     type="person">Tillich</rs> und dessen Bedeutung für den Religiösen Sozialismus
+                  (vgl. <rs ref="L01066" type="letter">Tillich an Oskar Rühle</rs> vom <date when="1930-04-07">7. April
+                        1930</date>).</note></p>
             <closer>
-               <salute>Herzliche Grüsse<lb/>
-    In Eile Ihr</salute>
+               <salute>Herzliche Grüsse<lb/> In Eile Ihr</salute>
                <signed>
                   <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
             </closer>
