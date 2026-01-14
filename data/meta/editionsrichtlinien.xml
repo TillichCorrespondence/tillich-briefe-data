@@ -194,20 +194,19 @@
               Element <code>&lt;sic/&gt;</code> markiert.</p>
           </div>
           <div type="level3">
-            <head><code>&lt;q/&gt;</code> und Zeichensetzung bei Anführungszeichen und
-              Apostrophen</head>
+            <head><code>&lt;q/&gt;</code> und Zeichensetzung bei Anführungszeichen und Apostrophen</head>
             <p>In der Edition werden Anführungszeichen und Apostrophe vereinheitlicht und nach
               Möglichkeit mit geeigneten TEI-Elementen ausgezeichnet, um eine konsistente
               Darstellung und bessere Weiterverarbeitung zu gewährleisten. Wenn sich öffnende und
               schließende Anführungszeichen (einfach oder doppelt) paaren lassen und zur Markierung
               von wörtlicher Rede, Zitaten, technischen Begriffen oder ähnlichen Hervorhebungen
               dienen, werden sie durch das TEI-Element <code>&lt;q&gt;</code> gekennzeichnet.</p>
-            <p>Beispiel: <code>&lt;q&gt;Das ist ein Zitat&lt;/q&gt;</code></p>
-            <p>In Sonderfällen, in denen eine Auszeichnung mit <code>&lt;q&gt;</code> nicht möglich
-              ist, werden einfache Anführungszeichen, die als Apostroph verwendet werden, durch
-                <code>&amp;apos;</code> ersetzt. Doppelte Anführungszeichen, die kein zugehöriges
-              öffnendes oder schließendes Zeichen haben, werden durch <code>&amp;quot;</code>
-              ersetzt.</p>
+            <p>Doppelte Anführungszeichen werden als <code>&lt;q&gt;Das ist ein Zitat&lt;/q&gt;</code>
+              ausgezeichnet, einfache Anführungszeichen als <code>&lt;q rend="single"&gt;Das ist ein
+                Zitat&lt;/q&gt;</code>.</p>
+            <p>Apostrophe (z. B. in Großpapa's) werden durch <code>&amp;apos;</code> ersetzt. Doppelte
+              Anführungszeichen, die kein zugehöriges öffnendes oder schließendes Zeichen haben,
+              werden durch <code>&amp;quot;</code> ersetzt.</p>
           </div>
           <div type="level3">
             <head><code>&lt;p/&gt;</code></head>
