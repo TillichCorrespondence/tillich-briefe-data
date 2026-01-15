@@ -1,89 +1,107 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00583">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Erich Schlegel an Paul Tillich <lb/>vom 7. Dezember 1918</title>
-<author ref="#tillich_person_id__1713">Erich Schlegel</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bMS 218(9)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, maschinenschriftlich</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1713">Erich Schlegel</persName>
-<placeName ref="#tillich_place_id__37">Berlin</placeName>
-<date when="1918-12-07">07.12.1918</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
-<change who="EL" when="2025-12-16">Erklärende Anmerkungen überprüft und ergänzt</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<pb n="1"/>
-<div type="writingSession">
-<opener><dateline><rs type="place" ref="#tillich_place_id__37">Berlin C. 2</rs>, den <date when="1918-12-07">7.12.1918</date><lb/>Hinter der Garnisonkirche 1.</dateline></opener>
-<p><add>An <unclear>b.</unclear> weiter 8.12.18 mit dem Ersuchen einer gleichzeitigen Rückgabe der Kleiderkarte <unclear>-4481</unclear> <unclear>[unleserliche Unterschrift].</unclear></add></p>
-<p>Euer Hochehrwürden werden hierdurch unter dankbarer Anerkennung der von Ihnen geleisteten Dienste mit <del><date notBefore="1918-12-01" notAfter="1918-12-31">Ende dieses Monats</date></del> <add><date when="1918-12-15">dem 15. Dezember d. Js.</date></add> aus dem Militärkirchendienst entlassen. Der Eingang dieser Verfügung ist zu bestätigen. Ihrer vorgesetzten Kirchenbehörde ist von Ihrer Entlassung sogleich Meldung zu erstatten.</p>
-<closer><salute>F.W.</salute><signed><unclear cert="low" resp="Transkription"><rs type="person" ref="#tillich_person_id__1713">Erich Schlegel</rs></unclear><lb/>Militäroberpfarrer u Geh. Konsistorialrat</signed></closer>
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Erich Schlegel an Paul Tillich <lb/>vom 7. Dezember 1918</title>
+                <author ref="#tillich_person_id__1713">Erich Schlegel</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                        <idno>bMS 218(9)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1713">Erich Schlegel</persName>
+                    <placeName ref="#tillich_place_id__37">Berlin</placeName>
+                    <date when="1918-12-07">07.12.1918</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
+            <change who="EL" when="2025-12-16">Erklärende Anmerkungen überprüft und ergänzt</change>
+            <change who="GM" when="2026-01-14">Kollationierung</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <pb n="1"/>
+            <div type="writingSession">
+                <opener>Evangelischer Feldprobst der Armee<lb/>No. 11236 Es wird gebeten, bei
+                    beantwortung obige Nummer anzugeben.<dateline><rs type="place"
+                            ref="#tillich_place_id__37">Berlin C. 2</rs>, den <date
+                            when="1918-12-07">7.12.1918</date><lb/>Hinter der Garnisonkirche
+                        1.</dateline></opener>
+                <p><add rend="hand">An <unclear>b.</unclear> weiter 8.12.18 mit dem Ersuchen einer
+                        gleichzeitigen Rückgabe der Kleiderkarte <unclear>-4481</unclear>
+                        <unclear>[unleserliche Unterschrift].</unclear></add></p>
+                <p>Euer Hochehrwürden werden hierdurch unter dankbarer Anerkennung der von Ihnen
+                    geleisteten Dienste mit <del><date notBefore="1918-12-01" notAfter="1918-12-31"
+                            >Ende dieses Monats</date></del>
+                    <add place="left"><date when="1918-12-15">dem 15. Dezember d. Js.</date></add>
+                    aus dem Militärkirchendienst entlassen. Der Eingang dieser Verfügung ist zu
+                    bestätigen. Ihrer vorgesetzten Kirchenbehörde ist von Ihrer Entlassung sogleich
+                    Meldung zu erstatten.</p>
+                <closer><salute>F.W.</salute><signed><rs type="person"
+                            ref="#tillich_person_id__1713"> Schlegel</rs><lb/>Militäroberpfarrer u
+                        Geh. Konsistorialrat</signed></closer>
+            </div>
+        </body>
+    </text>
 </TEI>

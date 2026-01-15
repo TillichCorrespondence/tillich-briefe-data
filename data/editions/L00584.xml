@@ -1,89 +1,106 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00584">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Hermann Steinhausen an Paul Tillich <lb/>vom 12. Dezember 1918</title>
-<author ref="#tillich_person_id__1852">Hermann Steinhausen</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-<idno>bMS 218(9)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1852">Hermann Steinhausen</persName>
-<placeName ref="#tillich_place_id__37">Berlin</placeName>
-<date when="1918-12-12">12.12.1918</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
-<change who="EL" when="2025-12-16">Erklärende Anmerkungen überprüft und ergänzt</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<pb n="1"/>
-<div type="writingSession">
-<opener><dateline>Königliches Evangelisches Konsistorium<lb/>der <rs type="place" ref="#tillich_place_id__41">Provinz Brandenburg</rs><lb/>Abteilung <rs type="place" ref="#tillich_place_id__37">Berlin</rs>.<lb/>K. II No 4682.<lb/><rs type="place" ref="#tillich_place_id__37">Berlin S.W. 68</rs>, den <hi rend="u"><date when="1918-12-12">12. Dezember 1918</date></hi>.<lb/>Lindenstr. 14</dateline></opener>  <p/>
-<p>Wir übertragen Ihnen vom <date when="1919-01-01">1. Januar 1919</date> ab jederzeit widerruflich die Obliegenheiten eines Stadtvikars für <rs type="place" ref="#tillich_place_id__37">Berlin</rs>, indem wir Sie zur Verfügung des Herrn Generalsuperintendenten <rs type="person" ref="#tillich_person_id__749">D. Haendler</rs> stellen, bei dem Sie sich rechtzeitig melden wollen.</p>
-<p>Wegen Ihrer Besoldung wird besondere Verfügung ergehen, sobald Sie uns den Tag Ihres Dienstantrittes angezeigt haben.</p>
-<closer><salute><rs type="person" ref="#tillich_person_id__1852">Steinhausen</rs></salute></closer>
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Hermann Steinhausen an Paul Tillich <lb/>vom 12. Dezember
+                    1918</title>
+                <author ref="#tillich_person_id__1852">Hermann Steinhausen</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                        <idno>bMS 218(9)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1852">Hermann Steinhausen</persName>
+                    <placeName ref="#tillich_place_id__37">Berlin</placeName>
+                    <date when="1918-12-12">12.12.1918</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
+            <change who="EL" when="2025-12-16">Erklärende Anmerkungen überprüft und ergänzt</change>
+            <change who="GM" when="2026-01-14">Kollationierung</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <pb n="1"/>
+            <div type="writingSession">
+                <opener><del rend="s">Königliches</del> Evangelisches Konsistorium<lb/>der Provinz
+                        <rs type="place" ref="#tillich_place_id__581">Brandenburg</rs><lb/>Abteilung
+                        <rs type="place" ref="#tillich_place_id__37">Berlin</rs>.<lb/>K. II No
+                            4682.<lb/><dateline><rs type="place" ref="#tillich_place_id__37">Berlin
+                            S.W. 68</rs>, den <date when="1918-12-12">12. Dezember
+                                1918</date>.<lb/>Lindenstr. 14</dateline></opener>
+                <p/>
+                <p>Wir übertragen Ihnen vom <date when="1919-01-01">1. Januar 1919</date> ab
+                    jederzeit widerruflich die Obliegenheiten eines Stadtvikars für <rs type="place"
+                        ref="#tillich_place_id__37">Berlin</rs>, indem wir Sie zur Verfügung des
+                    Herrn Generalsuperintendenten <rs type="person" ref="#tillich_person_id__749">D.
+                        Haendler</rs> stellen, bei dem Sie sich rechtzeitig melden wollen.</p>
+                <p>Wegen Ihrer Besoldung wird besondere Verfügung ergehen, sobald Sie uns den Tag
+                    Ihres Dienstantrittes angezeigt haben.</p>
+                <closer><salute><rs type="person" ref="#tillich_person_id__1852"
+                        >Steinhausen</rs></salute></closer>
+            </div>
+        </body>
+    </text>
 </TEI>
