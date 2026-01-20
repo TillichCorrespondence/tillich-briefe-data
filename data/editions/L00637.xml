@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Gustav Radbruch an Paul Tillich <lb/>vom 25. Juli 1919</title>
+            <title>Postkarte von Gustav Radbruch an Paul Tillich <lb/>vom 25. Juli 1919 [PS]</title>
             <author ref="#tillich_person_id__1548">Gustav Radbruch</author>
             <respStmt>
                <resp>Editor</resp>
@@ -60,7 +60,7 @@
             <correspAction type="sent">
                <persName ref="#tillich_person_id__1548">Gustav Radbruch</persName>
                <placeName ref="#tillich_place_id__238">Kiel</placeName>
-               <date when="1919-07-25">25.07.1919</date>
+               <date when="1919-07-25">25.07.1919 [PS]</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
@@ -72,6 +72,7 @@
       </profileDesc>
       <revisionDesc status="approved">
          <change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2026-01-19">Erklärende Anmerkungen überprüft und ergänzt</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -80,7 +81,7 @@
             <pb n="1"/>
             <opener>
                <dateline>
-                  <rs ref="#tillich_place_id__238" type="place">Kiel</rs>, d. <date when="1919-07-25">25.7.19</date>
+                  <rs type="place" ref="#tillich_place_id__238">Kiel</rs> Feldstraße 122
                </dateline>
                <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr Tillich</rs>,</salute>
             </opener>
