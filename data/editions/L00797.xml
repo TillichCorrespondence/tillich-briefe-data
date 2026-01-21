@@ -37,13 +37,35 @@
 <country>Deutschland</country>
 <settlement ref="#tillich_place_id__37">Berlin</settlement>
 <institution>Geheimes Staatsarchiv Preußischer Kulturbesitz</institution>
-<repository>Geheimes Staatsarchiv Preußischer Kulturbesitz</repository>
+<repository></repository>
 <collection></collection>
 <idno>Sekt. 12 Tit IV Nr. 5 Bd. 2</idno>
 </msIdentifier>
 <physDesc>
-<p>Brief, eigenhändig</p>
+<p>Brief, maschinenschriftlich</p>
 </physDesc>
+    <additional>
+        <listBibl>
+            <biblStruct n="firstPrint" type="journal">
+                <monogr>
+                    <author>Erdmann Sturm</author>
+                    <title> An der engen Pforte der historischen Methode vorbeit.
+                        Paul Tillichs Habilitation in Halle (1916) und seine
+                        Umhabilitierungen nach Berlin (1919) und Marburg (1924). </title>
+                    <imprint>
+                        <pubPlace ref="#tillich_place_id__485"
+                            >Berlin/Boston</pubPlace>
+                        <date when="2015">2015</date>
+                        <biblScope>325</biblScope>
+                    </imprint>
+                </monogr>
+                <series>
+                    <title>International Yearbook for Tillich Research</title>
+                    <biblScope>Bd. 10/1</biblScope>
+                </series>
+            </biblStruct>
+        </listBibl>
+    </additional>
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -59,11 +81,12 @@
 <correspDesc>
 <correspAction type="sent">
 <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__38">Berlin-Friedenau, Taunusstr. 1</placeName>
+<placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
 <date when="1923-07-10">10.07.1923</date>
 </correspAction>
 <correspAction type="received">
-<persName ref="#XXXX">Regierungsrat im Ministerium für Wissenschaft, Kunst und Volksbildung</persName>
+    <persName ref="#tillich_person_id__2457">Regierungsrat im Ministerium für Wissenschaft, Kunst und Volksbildung</persName>
+    <placeName ref="#tillich_place_id__37">Berlin</placeName>
 </correspAction>
 </correspDesc>
 <langUsage>
@@ -72,16 +95,18 @@
 </profileDesc>
 <revisionDesc status="approved">
 <change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
+    <change who="FS" when="2026-01-21">Erklärende Anmerkungen überprüft und ergänzt</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
 <body>
 <pb n="1"/>
 <div type="writingSession">
-<opener><dateline><rs type="place" ref="#tillich_place_id__38">Berlin-Friedenau</rs>, Taunusstr. 1 den <date when="1923-07-10">10. Juli 1923</date>.</dateline><salute>Sehr verehrter <rs type="person" ref="#XXXX">Herr Regierungsrat</rs>!</salute></opener>
+<opener><dateline><rs type="place" ref="#tillich_place_id__38">Berlin-Friedenau</rs>, Taunusstr. 1 den <date when="1923-07-10">10. Juli 1923</date>.</dateline><salute>Sehr verehrter Herr Regierungsrat!<note type="ea">Die Identität des adressierten Regierungsrates konnte nicht ermittelt werden.</note></salute></opener>
 <p>Auf Grund unserer Unterhaltung über meine eventuelle Umhabilitierung nach <rs type="place" ref="#tillich_place_id__279">Marburg</rs> habe ich mich nach den Umzugskosten erkundigt. Sie betragen nach den Julisätzen 8.7000.000 M ohne Versicherung und Packerkosten in <rs type="place" ref="#tillich_place_id__279">Marburg</rs>, insgesamt also etwa 10 Millionen Mark.</p>
 <p>Inzwischen habe ich nach <rs type="place" ref="#tillich_place_id__279">Marburg</rs> meine grundsätzliche Zustimmung zu einer Umhabilitierung geäussert und die Voraussetzungen ausgesprochen, die auch nach Meinung von <rs type="person" ref="#tillich_person_id__1602">Herrn Professor Richter</rs>, den ich <date when="1923-07-06">am Freitag</date> im Sprechzimmer der Universität sprach, nicht zu umgehen sind. Ich nehme an, dass die Fakultät, falls sie die Voraussetzungen überhaupt für erfüllbar hält, sich bald mit Ihnen in Verbindung setzen wird, und hoffe, dass es möglich sein wird sich ein Weg finden wird, der es mir möglich macht, dem Wunsch der Marburger Folge zu leisten.</p>
 <closer><salute>Ihr sehr ergebener</salute><signed><rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs><lb/>Privatdozent der Theologie an der <rs type="place" ref="#tillich_place_id__37">Universität Berlin</rs></signed></closer>
+    <postscript><p><add rend="hand"><choice><abbr>ZdA</abbr><expan>Zu den Akten</expan></choice>ZdA/ Tillich will nicht mehr</add><note type="ea">Handschriftliche Notiz des Ministeriums.</note></p></postscript>
 </div>
 </body>
 </text>

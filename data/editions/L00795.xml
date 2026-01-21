@@ -3,7 +3,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Brief von Ministerium für Wissenschaft, Kunst und Volksbildung an Paul Tillich <lb/>vom 15. Juni 1923</title>
+<title>Brief vom Ministerium für Wissenschaft, Kunst und Volksbildung an Paul Tillich <lb/>vom 15. Juni 1923</title>
 <author ref="#tillich_person_id__2457">Ministerium für Wissenschaft, Kunst und Volksbildung</author>
 <respStmt>
 <resp>Editor</resp>
@@ -37,13 +37,35 @@
 <country>Deutschland</country>
 <settlement ref="#tillich_place_id__37">Berlin</settlement>
 <institution>Geheimes Staatsarchiv Preußischer Kulturbesitz</institution>
-<repository>Geheimes Staatsarchiv Preußischer Kulturbesitz</repository>
+<repository></repository>
 <collection></collection>
 <idno>Sekt. 12 Tit IV Nr. 44 Bd. 8 Bl. 277.</idno>
 </msIdentifier>
 <physDesc>
-<p>Brief, eigenhändig</p>
+<p>Brief, maschinenschriftlich</p>
 </physDesc>
+    <additional>
+        <listBibl>
+            <biblStruct n="firstPrint" type="journal">
+                <monogr>
+                    <author>Erdmann Sturm</author>
+                    <title> An der engen Pforte der historischen Methode vorbeit.
+                        Paul Tillichs Habilitation in Halle (1916) und seine
+                        Umhabilitierungen nach Berlin (1919) und Marburg (1924). </title>
+                    <imprint>
+                        <pubPlace ref="#tillich_place_id__485"
+                            >Berlin/Boston</pubPlace>
+                        <date when="2015">2015</date>
+                        <biblScope>325</biblScope>
+                    </imprint>
+                </monogr>
+                <series>
+                    <title>International Yearbook for Tillich Research</title>
+                    <biblScope>Bd. 10/1</biblScope>
+                </series>
+            </biblStruct>
+        </listBibl>
+    </additional>
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -64,6 +86,7 @@
 </correspAction>
 <correspAction type="received">
 <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+    <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
 </correspAction>
 </correspDesc>
 <langUsage>
@@ -72,13 +95,14 @@
 </profileDesc>
 <revisionDesc status="approved">
 <change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
+    <change who="FS" when="2026-01-21">Erklärende Anmerkungen überprüft und ergänzt</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
 <body>
 <pb n="1"/>
 <div type="writingSession">
-<opener><dateline>An den Privatdozenten <rs type="place" ref="#tillich_place_id__37">Berlin</rs>, <date when="1923-06-15">15. Juni 1923</date><lb/>Herrn <rs type="person" ref="#tillich_person_id__1928">Dr. Lic. Tillich</rs><lb/><rs type="place" ref="#tillich_place_id__38">Berlin-Friedenau</rs></dateline></opener>
+<opener><dateline><rs type="place" ref="#tillich_place_id__37">Berlin</rs>, <date when="1923-06-15">15. Juni 1923</date><lb/>An den Privatdozenten Herrn <rs type="person" ref="#tillich_person_id__1928">Dr. Lic. Tillich</rs><lb/><rs type="place" ref="#tillich_place_id__38">Berlin-Friedenau</rs></dateline></opener>
 <p>Ich habe Ihnen mit Wirkung vom <date when="1923-06-01">1. Juni d. J.</date> die Vergütung für den Ihnen erteilten Lehrauftrag auf monatlich 700 000 (i. W.) erhöht.</p>
 <closer><salute>hochachtungsvoll und ergebenst</salute><signed><rs type="person" ref="#tillich_person_id__4107">Der Minister für Wissenschaft, Kunst und Volksbildung</rs><lb/>i. V.<lb/>[unleserlich]</signed></closer>
 </div>

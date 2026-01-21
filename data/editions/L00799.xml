@@ -37,13 +37,35 @@
 <country>Deutschland</country>
 <settlement ref="#tillich_place_id__37">Berlin</settlement>
 <institution>Geheimes Staatsarchiv Preußischer Kulturbesitz</institution>
-<repository>Geheimes Staatsarchiv Preußischer Kulturbesitz</repository>
+<repository></repository>
 <collection></collection>
 <idno>Sekt. 12 Tit IV Nr. 5 Bd. 6 Bl. 172a.</idno>
 </msIdentifier>
 <physDesc>
-<p>Brief, eigenhändig</p>
+<p>Brief, maschinenschriftlich</p>
 </physDesc>
+    <additional>
+        <listBibl>
+            <biblStruct n="firstPrint" type="journal">
+                <monogr>
+                    <author>Erdmann Sturm</author>
+                    <title> An der engen Pforte der historischen Methode vorbeit.
+                        Paul Tillichs Habilitation in Halle (1916) und seine
+                        Umhabilitierungen nach Berlin (1919) und Marburg (1924). </title>
+                    <imprint>
+                        <pubPlace ref="#tillich_place_id__485"
+                            >Berlin/Boston</pubPlace>
+                        <date when="2015">2015</date>
+                        <biblScope>328f.</biblScope>
+                    </imprint>
+                </monogr>
+                <series>
+                    <title>International Yearbook for Tillich Research</title>
+                    <biblScope>Bd. 10/1</biblScope>
+                </series>
+            </biblStruct>
+        </listBibl>
+    </additional>
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -63,7 +85,7 @@
 <date when="1923-08-21">21.08.1923</date>
 </correspAction>
 <correspAction type="received">
-<persName ref="#tillich_person_id__1602">Ministerialrat Prof Werner Richter, Ministerium für Wissenschaft, Kunst und Volksbildung</persName>
+<persName ref="#tillich_person_id__1602">Werner Richter</persName>
 </correspAction>
 </correspDesc>
 <langUsage>
@@ -72,6 +94,7 @@
 </profileDesc>
 <revisionDesc status="approved">
 <change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
+    <change who="FS" when="2026-01-21">Erklärende Anmerkungen überprüft und ergänzt</change>
 </revisionDesc>
 </teiHeader>
 <text type="letter">
@@ -79,10 +102,10 @@
 <pb n="1"/>
 <div type="writingSession">
 <opener><dateline><rs type="place" ref="#tillich_place_id__532">Kloster auf Hiddensee</rs> (<rs type="place" ref="#tillich_place_id__380">Rügen</rs>) <date when="1923-08-21">den 21. August 1923</date><lb/>bei <rs type="person" ref="#XXXX">Frau Dittmann</rs></dateline><salute>Hochverehrter <rs type="person" ref="#tillich_person_id__1602">Herr Professor</rs>!</salute></opener>
-<p>Ihren Brief vom <date when="1923-08-17">17.</date> habe ich heute erhalten. Ich habe nach Schluss des Semesters meine <rs type="place" ref="#tillich_place_id__37">Berliner</rs> Wohnung auf drei Monate vermietet, bin mit meiner ganzen Wirtschaft, Büchern und Schreibmaschine hierher übergesiedelt und wohne jetzt hier besser und billiger als in <rs type="place" ref="#tillich_place_id__37">Berlin</rs>. Infolge der teuren Reise ist es mir leider unmöglich, zur Besprechung mit Ihnen nach <rs type="place" ref="#tillich_place_id__37">Berlin</rs> herüberzukommen, was ich um der Sache willen sehr bedauere. Ich möchte mir jedoch erlauben, auf diese Weise die Gesichtspunkte noch einmal zum Ausdruck zu bringen, die mich in der <rs type="place" ref="#tillich_place_id__279">Marburger</rs> Angelegenheit bestimmen.</p>
-<p>Ich bin entschlossen, dem Ruf der <rs type="place" ref="#tillich_place_id__279">Marburger</rs> zu folgen, wenn ich die Möglichkeit einer einigermassen gesicherten wirtschaftlichen Existenz in <rs type="place" ref="#tillich_place_id__279">Marburg</rs> habe. Eine Privatdozentur in <rs type="place" ref="#tillich_place_id__37">Berlin</rs> ist meiner Überzeugung nach etwas völlig Anderes als eine Privatdozentur in einer kleinen Stadt, und zwar innerlich und äusserlich. Es ist mir seit dem Ende des Krieges trotz aller Schwierigkeiten immer wieder möglich gewesen, Arbeiten und Hülfen zu finden, die mir die wirtschaftliche Existenz ermöglichten. Ich brauche für meinen Haushalt über das Doppelte des Lehrauftrages. Das wird sich noch steigern, wenn ich im Lauf des Winters heiraten werde. Da meine künftige Frau berufstätig ist, würde sich auch dann in <rs type="place" ref="#tillich_place_id__37">Berlin</rs> eine Existenzgrundlage ergeben. All das kann ich nur aufgeben, wenn ich in <rs type="place" ref="#tillich_place_id__279">Marburg</rs> eine entsprechende Sicherung erhalte. Hinzu kommt, dass infolge der Grösse der <rs type="place" ref="#tillich_place_id__37">Berliner</rs> Universität auch eine weitere Jahre lange Privatdozentur sehr viel weniger drückend wäre als die gleiche Lage in der Enge einer kleinen Universität. Auch in dieser Beziehung würde eine wirtschaftliche Sicherstellung den Druck erheblich vermindern.</p>
+<p>Ihren Brief vom <date when="1923-08-17">17.</date> habe ich heute erhalten.<note type="ea">Dieses Schreiben liegt nicht vor.</note> Ich habe nach Schluss des Semesters meine <rs type="place" ref="#tillich_place_id__37">Berliner</rs> Wohnung auf drei Monate vermietet, bin mit meiner ganzen Wirtschaft, Büchern und Schreibmaschine hierher übergesiedelt und wohne jetzt hier besser und billiger als in <rs type="place" ref="#tillich_place_id__37">Berlin</rs>. Infolge der teuren Reise ist es mir leider unmöglich, zur Besprechung mit Ihnen nach <rs type="place" ref="#tillich_place_id__37">Berlin</rs> herüberzukommen, was ich um der Sache willen sehr bedauere. Ich möchte mir jedoch erlauben, auf diese Weise die Gesichtspunkte noch einmal zum Ausdruck zu bringen, die mich in der <rs type="place" ref="#tillich_place_id__279">Marburger</rs> Angelegenheit bestimmen.</p>
+    <p>Ich bin entschlossen, dem Ruf der <rs type="place" ref="#tillich_place_id__279">Marburger</rs> zu folgen, wenn ich die Möglichkeit einer einigermassen gesicherten wirtschaftlichen Existenz in <rs type="place" ref="#tillich_place_id__279">Marburg</rs> habe. Eine Privatdozentur in <rs type="place" ref="#tillich_place_id__37">Berlin</rs> ist meiner Überzeugung nach etwas völlig Anderes als eine Privatdozentur in einer kleinen Stadt, und zwar innerlich und äusserlich. Es ist mir seit dem Ende des Krieges trotz aller Schwierigkeiten immer wieder möglich gewesen, Arbeiten und Hülfen zu finden, die mir die wirtschaftliche Existenz ermöglichten. Ich brauche für meinen Haushalt über das Doppelte des Lehrauftrages. Das wird sich noch steigern, wenn ich im Lauf des Winters heiraten werde.<note type="ea">Paul und <rs ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs> heirateten am <date when="1924-03-22">22. März 1924</date>.</note> Da meine künftige <rs ref="#tillich_person_id__1923" type="person">Frau</rs> berufstätig ist, würde sich auch dann in <rs type="place" ref="#tillich_place_id__37">Berlin</rs> eine Existenzgrundlage ergeben. All das kann ich nur aufgeben, wenn ich in <rs type="place" ref="#tillich_place_id__279">Marburg</rs> eine entsprechende Sicherung erhalte. Hinzu kommt, dass infolge der Grösse der <rs type="place" ref="#tillich_place_id__37">Berliner</rs> Universität auch eine weitere Jahre lange Privatdozentur sehr viel weniger drückend wäre als die gleiche Lage in der Enge einer kleinen Universität. Auch in dieser Beziehung würde eine wirtschaftliche Sicherstellung den Druck erheblich vermindern.</p>
 <p>Ich würde gern nach <rs type="place" ref="#tillich_place_id__279">Marburg</rs> gehen, denn ich glaube, dass ich dort ein sehr günstiges Arbeitsfeld finden würde, und dass diese Arbeit auch für meine eigene Entwicklung von grösster Bedeutung sein könnte. Ich wäre Ihnen darum dankbar, wenn Sie einen Weg fänden, der mir den Uebergang nach <rs type="place" ref="#tillich_place_id__279">Marburg</rs> ermöglichte.</p>
-<p>Ich habe gleichzeitig an meinen Freund <rs type="person" ref="#tillich_person_id__2020">Dr. Wegener</rs> geschrieben, der meine persönliche und wissenschaftliche Lage genau kennt und der, wenn Sie es wünschen sollten, bereit wäre, mit Ihnen über die Dinge zu reden und mir evtl. Nachricht zu geben.</p>
+    <p>Ich habe gleichzeitig an meinen Freund <rs type="person" ref="#tillich_person_id__2020">Dr. Wegener</rs> geschrieben,<note type="ea">Dieses Schreiben liegt nicht vor. Tillichs Freund <rs type="person" ref="#tillich_person_id__2020">Richard Wegener</rs> war zeitweise im preußischen Kultusministerium angestellt, um die Volkshochschulbewegung in Preußen zu organisieren.</note> der meine persönliche und wissenschaftliche Lage genau kennt und der, wenn Sie es wünschen sollten, bereit wäre, mit Ihnen über die Dinge zu reden und mir evtl. Nachricht zu geben.</p>
 <closer><salute>Indem ich Ihnen für Ihre Bemühungen herzlich danke<lb/>bin ich Ihr sehr ergebener</salute><signed><rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs></signed></closer>
 </div>
 </body>
