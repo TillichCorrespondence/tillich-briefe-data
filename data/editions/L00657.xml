@@ -3,7 +3,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Brief von Paul Tillich an Verlag Vandenhoeck &amp; Ruprecht <lb/>vom d. 5. März 1920</title>
+            <title>Brief von Paul Tillich an den Verlag Vandenhoeck &amp; Ruprecht <lb/>vom 5. März
+               1920</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -12,7 +13,8 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -28,7 +30,8 @@
                </address>
             </publisher>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -36,13 +39,37 @@
                <msIdentifier>
                   <country>Deutschland</country>
                   <settlement ref="#tillich_place_id__37">Berlin</settlement>
-                  <institution>Stiftung Preußischer Kulturbesitz</institution>
-                  <repository>Staatsbibliothek zu Berlin</repository>
-                  <collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
+                  <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Nachlass 494 (Archiv des Verlages Vandenhoeck
+                     &amp; Ruprecht)</collection>
+                  <idno>Nachl. 494, G 1888-1936. G 1920. 126; Blatt 350-395</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Brief, eigenhändig</p>
+                  <p>Brief, eigenhändig <lb/>Adressiert: <q>An den Verlag Vandenhoeck &amp;
+                        Ruprecht.</q></p>
                </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal">
+                        <monogr>
+                           <author>Friedrich Wilhelm Graf</author>
+                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur
+                              Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach
+                              Gegenständen und Methoden</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                              <date when="2020">2020</date>
+                              <biblScope>S. 26–170, hier: 61f.</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Zeitschrift für Neuere Theologiegeschichte</title>
+                           <biblScope>27/1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -51,7 +78,8 @@
             <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
          </projectDesc>
          <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -63,6 +91,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__2301">Verlag Vandenhoeck &amp; Ruprecht</persName>
+               <!-- <placeName ref="#tillich_place_id__186">Göttingen</placeName> -->
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -79,17 +108,79 @@
          <div type="writingSession">
             <opener>
                <dateline>
-                  <rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau, Taunusstr. 1</rs> d. <date when="1920-03-05">5. März 1920</date>
+                  <rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>, Taunusstr. 1.
+                  D. <date when="1920-03-05">5. März 1920</date><note type="ea">Die Unterstreichung
+                     in diesem Brief stammt vom Empfänger.</note>
                </dateline>
                <salute>An den Verlag Vandenhoeck &amp; Ruprecht.</salute>
             </opener>
-            <p>Auf Ihren Brief vom 3. März betr. die <q>Wege zur Philosophie</q> möchte ich antworten, daß ich Ihrem Vorschlage, ein Heft über den Gottesbegriff zu schreiben, gern zustimme, und auch dem weitergehenden Vorschlage, falls Sie ihn nach Ablieferung meines Manuskriptes aufrecht erhalten wollen, näher treten würde. Ehe ich einen Vorschlag über Art und Titel meines Heftes machen kann, müßte ich die übrigen Hefte noch einmal genau durchlesen und bitte, da ich sie nicht besitze, um ihre Zusendung. Zugleich bitte ich, mir diejenigen Hefte zu nennen, die am meisten Ihrer Idee entsprechen, und die ich mir formal irgendwie zum Vorbild nehmen könnte.</p>
-            <p>Der Gedanke, eine allgemein verständliche Einführung in die philosophischen Probleme zu geben, ist mir außerordentlich sympathisch, und ein Problem, mit dem ich mich seit vielen Jahren z. T. auch in Form von Vorträgen beschäftige. Das Bedürfnis – ich kann das aus meinen vielseitigen gesellschaftlichen Erfahrungen in <rs type="place" ref="#tillich_place_id__37">Berlin</rs> bestätigen – ist groß und ständig wachsend. Es geht aber immer mehr vom Formal-Philosophischen weg zum Weltanschauungsmäßigen. Hier eine Leiterin und <hi rend="u">zugleich eine Bewahrerin vor falschem Mysticismus zu sein</hi>, der sich allenthalben regt, wäre eine der wichtigsten Kulturaufgaben.</p>
+            <p>Auf <rs ref="L00656" type="letter">Ihren Brief vom 3. März</rs> betr. die <q>Wege zur
+                  Philosophie</q> möchte ich antworten, daß ich Ihrem Vorschlage, ein Heft über den
+               Gottesbegriff zu schreiben, gern zustimme, und auch dem weitergehenden Vorschlage,
+               falls Sie ihn nach Ablieferung meines Manuskriptes aufrecht erhalten wollen, näher
+               treten würde.<note type="ea">Ein solches Heft ist nie publiziert worden.</note> Ehe
+               ich einen Vorschlag über Art und Titel meines Heftes machen kann, müßte ich die
+               übrigen Hefte noch einmal genau durchlesen und bitte, da ich sie nicht besitze, um
+               ihre Zusendung. Zugleich bitte ich, mir diejenigen Hefte zu nennen, die am meisten
+               Ihrer Idee entsprechen,<note type="ea">Hier ist von unbekannter Hand interlinear
+                  eingefügt: <q>Ges. <date when="1920-03-13">13.III.20</date>. Wege z. Phil. <rs
+                        type="person" ref="#tillich_person_id__1314">Messer</rs>?</q><lb/>Gemeint
+                  ist: <rs type="person" ref="#tillich_person_id__1314">August Messer</rs>: <rs
+                     type="work">Das Problem der Willensfreiheit</rs> (1911).</note> und die ich mir
+               formal irgendwie zum Vorbild nehmen könnte.<note type="ea"><rs
+                     ref="#tillich_person_id__2569" type="person">Wilhelm Ruprecht</rs> setzte <rs
+                     type="person" ref="#tillich_person_id__2735">August Albers</rs>, einem
+                  ehemaligen Mitarbeiter des Verlags, zu dem auch nach seinem Wechsel zum C. H. Beck
+                  Verlag in <rs ref="#tillich_place_id__306" type="place">München</rs> enger Kontakt
+                  bestand, am <date when="1920-03-08">8. März 1920</date> von <rs type="person"
+                     ref="#tillich_person_id__1928">Tillichs</rs> Brief und der Überlegung, ihn mit
+                  der Redaktion der Reihe zu betrauen, in Kenntnis mit der Erwartung <rs
+                     type="person" ref="#tillich_person_id__2735">Albers</rs>' Stellungnahme. <rs
+                     ref="#tillich_person_id__2569" type="person">Ruprecht</rs> schrieb: <q>Wir
+                     schicken ihm die Hefte, verschieben aber eine Antwort auf seine Frage noch, bis
+                     Sie uns geantwortet haben, da Sie sich ja gern dazu äußern werden.</q><lb/>Die
+                  Hefte, die <rs ref="#tillich_person_id__2569" type="person">Ruprecht</rs>
+                  <rs type="person" ref="#tillich_person_id__1928">Tillich</rs> zur Orientierung
+                  geschickt hat waren vermutlich: <rs type="person" ref="#tillich_person_id__1314"
+                     >August Messer</rs>: <rs ref="#tillich__TAMRE88S" type="work">Das Problem der
+                     Willensfreiheit</rs> (1911); sowie: <rs type="person"
+                     ref="#tillich_person_id__4506">Edmund König</rs>: <rs ref="#tillich__NX8NPFN9"
+                     type="work">Die Materie</rs> (1911).</note></p>
+            <p>Der Gedanke, eine allgemein verständliche Einführung in die philosophischen Probleme
+               zu geben, ist mir außerordentlich sympathisch, und ein Problem, mit dem ich mich seit
+               vielen Jahren z. T. auch in Form von Vorträgen beschäftige. Das Bedürfnis – ich kann
+               das aus meinen vielseitigen gesellschaftlichen Erfahrungen in <rs type="place"
+                  ref="#tillich_place_id__37">Berlin</rs> bestätigen – ist groß und ständig
+               wachsend. Es geht aber immer mehr vom Formal-Philosophischen weg zum
+               Weltanschauungsmäßigen. Hier eine Leiterin und <hi rend="u">zugleich eine Bewahrerin
+                  vor falschem Mysticismus zu sein,</hi> der sich allenthalben regt, wäre eine der
+               wichtigsten Kulturaufgaben.</p>
             <closer>
                <salute>Ergebenst</salute>
                <signed>
-                  <rs type="person" ref="#tillich_person_id__1928">Dr. P. Tillich</rs>.
-Privatdozent</signed>
+                  <rs type="person" ref="#tillich_person_id__1928">Dr. P. Tillich</rs>.<lb/>
+                     Privatdozent.<note type="ea">Unter den Text <rs type="person"
+                        ref="#tillich_person_id__1928">Tillichs</rs> notiert <rs
+                        ref="#tillich_person_id__2569" type="person">Wilhelm Ruprecht</rs>: <q>Neue
+                        Aufl. werden nötig von <rs ref="#tillich_person_id__1376" type="person"
+                           >Natorp</rs> etwa früh Nachricht <rs ref="#tillich_person_id__2745"
+                           type="person">Kinkel</rs>
+                        <rs ref="#tillich_person_id__4506" type="person">König</rs>
+                        <rs type="person" ref="#tillich_person_id__2735">Albers</rs> zugleich Plan
+                        überlegen NB. <rs type="person" ref="#tillich_person_id__1377">Naumann</rs>
+                        <rs type="person">Wieder</rs><!-- Konnte nicht ermittelt werden. -->
+                        <rs type="person">Frenssen</rs><!-- Vermutlich: Gustav Frenssen, ID: 4507 -->
+                        <rs type="person" ref="#tillich_person_id__2735">Albers</rs>
+                        <del rend="s">gebeten</del> bitten.</q> Gemeint sind <rs
+                        ref="#tillich_person_id__1376" type="person">Paul Natorp</rs>, <rs
+                        ref="#tillich__NTRF83U2" type="work">Philosophie. Ihr Problem und ihre
+                        Probleme. Einführung in den kritischen Idealismus</rs> (1911); <rs
+                        ref="#tillich_person_id__2745" type="person">Walter Kinkel</rs>, <rs
+                        ref="#tillich__G8SHB5VX" type="work">Idealismus und Realismus. Eine
+                        Einführung in ihr Wesen und in ihre kulturgeschichtliche Entwicklung</rs>
+                     (1911); <rs ref="#tillich_person_id__4506" type="person">Edmund König</rs>: <rs
+                        ref="#tillich__NX8NPFN9" type="work">Die Materie</rs>
+                  (1911).</note></signed>
             </closer>
          </div>
       </body>
