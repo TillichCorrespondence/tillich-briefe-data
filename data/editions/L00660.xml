@@ -12,7 +12,8 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -28,7 +29,8 @@
                </address>
             </publisher>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -36,13 +38,38 @@
                <msIdentifier>
                   <country>Deutschland</country>
                   <settlement ref="#tillich_place_id__37">Berlin</settlement>
-                  <institution>Stiftung Preußischer Kulturbesitz</institution>
-                  <repository>Staatsbibliothek zu Berlin</repository>
-                  <collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
+                  <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Nachlass 494 (Archiv des Verlages Vandenhoeck
+                     &amp; Ruprecht)</collection>
+                  <idno>Nachl. 494, G 1888-1936. G 1920. 126; Blatt 350-395 [Archivangabe
+                     unsicher]</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Brief, eigenhändig</p>
+                  <p>Brief, maschinenschriftlicher Durchschlag<lb/>Adressiert: <q>20. März 1920.
+                        Herrn Dr.Tillich<!-- sic -->, Berlin-Friedenau.</q></p>
                </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal">
+                        <monogr>
+                           <author>Friedrich Wilhelm Graf</author>
+                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur
+                              Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach
+                              Gegenständen und Methoden</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                              <date when="2020">2020</date>
+                              <biblScope>S. 26–170, hier: 63f.</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Zeitschrift für Neuere Theologiegeschichte</title>
+                           <biblScope>27/1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -51,17 +78,20 @@
             <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
          </projectDesc>
          <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
+               <!-- <placeName ref="#tillich_place_id__186">Göttingen</placeName> -->
                <date when="1920-03-20">20.03.1920</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -77,15 +107,64 @@
          <pb n="1"/>
          <div type="writingSession">
             <opener>
-               <salute>Sehr geehrter <rs type="person" ref="#tillich_person_id__1928">Herr</rs>!</salute>
+               <salute>Sehr geehrter <rs type="person" ref="#tillich_person_id__1928"
+                  >Herr</rs>!</salute>
             </opener>
-            <p>Ihr Brief vom 5. März ist merkwürdigerweise erst am 12. in unsere Hände gelangt. Am 13. haben wir Ihnen gern ein Freiexemplar der sämtlichen Hefte der <q>Wege zur Philosophie</q> zugesandt, damit Sie sich zunächst über das Unternehmen näher informieren können. Inzwischen war die Post gesperrt.</p>
-            <p>Wir freuen uns sehr, daß Sie unsern Vorschlag aufgreifen und sich zunächst über ein von Ihnen zu schreibendes Heft klar werden wollen. Von den vorhandenen Heften ist nach unserer Ueberzeugung das gelungenste wohl das von <rs type="person" ref="#tillich_person_id__1314">Messer</rs> über die <rs type="work" ref="#tillich__TAMRE88S">Willensfreiheit</rs>, nächst diesem <rs type="work" ref="#tillich__NX8NPFN9">das</rs> von <rs type="person" ref="#tillich_person_id__4004">König</rs>. Auch <rs type="work" ref="#tillich__DFPU46IW">das</rs> von <rs type="person" ref="#tillich_person_id__2745">Kinkel</rs> erfreut sich einiger Beliebtheit. <rs type="person" ref="#tillich_person_id__1376">Natorps</rs> <rs type="work" ref="#tillich__NTRF83U2">Heft</rs> fällt ja ganz aus dem Rahmen heraus, sodaß wir ihm zuliebe eine Ergänzungsreihe einrichten mußten, die von <rs type="person" ref="#tillich_person_id__4005">Ferd. Jakob Schmidt</rs> nicht ganz glücklich <rs type="work" ref="#tillich__HUF82G5J">fortgesetzt</rs> worden ist.</p>
-            <p>Wenn wir uns, wie wir hoffen, nicht nur über ein weiteres Heft, sondern die Herausgabe der ganzen Sammlung einigen, so wird es besonders darauf ankommen, daß ein wirklicher Plan festgestellt wird und nicht wie bisher eine Anzahl von Thematen, wie es kommt, herausgegriffen wird. Urheber des ganzen Planes ist <rs type="person" ref="#tillich_person_id__2735">Herr A. Albers</rs> in <rs type="place" ref="#tillich_place_id__306">München</rs>, Römerstraße 15 I. welcher längere Jahre, bis 1915, bei uns tätig war. Er hat uns dann nach freundschaftlicher Uebereinkunft verlassen, um mit unserer Hilfe einen Posten zu finden, auf dem sich ihm eine größere Selbständigkeit bot. Er ist philosophischer Autodidakt, aber von ganz außerordentlichem Wissen, und hatte am eigenen Leibe das Bedürfnis einer solchen Sammlung erfahren. Er interessiert sich nach wie vor für die Sammlung, und ich werde ihn bitten, Ihnen seine Gedanken zu schreiben. Das wird für Sie unter allen Umständen eine wertvolle Anregung sein, auch wenn Sie nachher selbständig den Weg für die <q>Wege</q> vorschlagen wollen.</p>
-            <p>Daß Ihr Interesse weniger dem Formal-Philosophischen im Gegensatz zum Weltanschauungsmäßigen gilt, ist uns sehr willkommen, da wir dieses Gebiet für unseren Verlag noch mehr ausbauen wollen, umsomehr als mit dem reinwissenschaftlichen Verlag sich erhebliche Beschränkungen aufzuerlegen man gezwungen ist. Mit <rs type="person" ref="#tillich_person_id__4003">Heußners</rs> populärem Buch über die <q><rs type="work" ref="#tillich__VAZ4FCMG">Philosophischen Weltanschauungen und ihre Hauptvertreter</rs></q> haben wir einen ausgezeichneten Griff getan.</p>
+            <p>Ihr <rs ref="L00657" type="letter">Brief vom 5. März</rs> ist merkwürdigerweise erst
+               am <date when="1920-03-12">12.</date> in unsere Hände gelangt. Am <date
+                  when="1920-03-13">13.</date> haben wir Ihnen gern ein Freiexemplar der sämtlichen
+               Hefte der <q>Wege zur Philosophie</q> zugesandt, damit Sie sich zunächst über das
+               Unternehmen näher informieren können. Inzwischen war die Post gesperrt.</p>
+            <p>Wir freuen uns sehr, daß Sie unsern Vorschlag aufgreifen und sich zunächst über ein
+               von Ihnen zu schreibendes Heft klar werden wollen. Von den vorhandenen Heften ist
+               nach unserer Ueberzeugung das gelungenste wohl das von <rs type="person"
+                  ref="#tillich_person_id__1314">Messer</rs> über die Willensfreiheit,<note
+                  type="ea">Gemeint ist: <rs type="person" ref="#tillich_person_id__1314">August
+                     Messer</rs>: <rs ref="#tillich__TAMRE88S" type="work">Das Problem der
+                     Willensfreiheit</rs> (1911).</note> nächst diesem das von <rs type="person"
+                  ref="#tillich_person_id__4506">König</rs>.<note type="ea">Gemeint ist: <rs
+                     type="person" ref="#tillich_person_id__4506">Edmund König</rs>: <rs
+                     ref="#tillich__NX8NPFN9" type="work">Die Materie</rs> (1911).</note> Auch das
+               von <rs type="person" ref="#tillich_person_id__2745">Kinkel</rs> erfreut sich einiger
+                  Beliebtheit.<note type="ea">Gemeint ist: <rs ref="#tillich_person_id__2745"
+                     type="person">Walter Kinkel</rs>: <rs ref="#tillich__G8SHB5VX" type="work"
+                     >Idealismus und Realismus. Eine Einführung in ihr Wesen und in ihre
+                     kulturgeschichtliche Entwicklung</rs> (1911).</note>
+               <rs type="person" ref="#tillich_person_id__1376">Natorps</rs> Heft<note type="ea"
+                  >Gemeint ist: <rs ref="#tillich_person_id__1376" type="person">Paul Natorp</rs>:
+                     <rs ref="#tillich__NTRF83U2" type="work">Philosophie. Ihr Problem und ihre
+                     Probleme. Einführung in den kritischen Idealismus</rs> (1911).</note> fällt ja
+               ganz aus dem Rahmen heraus, sodaß wir ihm zuliebe eine Ergänzungsreihe einrichten
+               mußten, die von <rs type="person" ref="#tillich_person_id__4005">Ferd. Jakob
+                  Schmidt</rs> nicht ganz glücklich fortgesetzt worden ist.<note type="ea">Gemeint
+                  ist: <rs type="person" ref="#tillich_person_id__4005">Ferdinand Jakob
+                  Schmidt</rs>, <rs type="work" ref="#tillich__HUF82G5J">Der philosophische Sinn.
+                     Programm des energetischen Idealismus</rs> (1912).</note></p>
+            <p>Wenn wir uns, wie wir hoffen, nicht nur über ein weiteres Heft, sondern die
+               Herausgabe der ganzen Sammlung einigen, so wird es besonders darauf ankommen, daß ein
+               wirklicher Plan festgestellt wird und nicht wie bisher eine Anzahl von Thematen, wie
+               es kommt, herausgegriffen wird. Urheber des ganzen Planes ist <rs type="person"
+                  ref="#tillich_person_id__2735">Herr A. Albers</rs> in <rs type="place"
+                  ref="#tillich_place_id__306">München</rs>, Römerstraße 15 I. welcher längere
+               Jahre, bis 1915, bei uns tätig war. Er hat uns dann nach freundschaftlicher
+               Uebereinkunft verlassen, um mit unserer Hilfe einen Posten zu finden, auf dem sich
+               ihm eine größere Selbständigkeit bot. Er ist philosophischer Autodidakt, aber von
+               ganz außerordentlichem Wissen, und hatte am eigenen Leibe das Bedürfnis einer solchen
+               Sammlung erfahren. Er interessiert sich nach wie vor für die Sammlung, und ich werde
+               ihn bitten, Ihnen seine Gedanken zu schreiben. Das wird für Sie unter allen Umständen
+               eine wertvolle Anregung sein, auch wenn Sie nachher selbständig den Weg für die
+                  <q>Wege</q> vorschlagen wollen.</p>
+            <p>Daß Ihr Interesse weniger dem Formal-Philosophischen im Gegensatz zum
+               Weltanschauungsmäßigen gilt, ist uns sehr willkommen, da wir dieses Gebiet für
+               unseren Verlag noch mehr ausbauen wollen, umsomehr als mit dem reinwissenschaftlichen
+               Verlag sich erhebliche Beschränkungen aufzuerlegen man gezwungen ist. Mit <rs
+                  type="person" ref="#tillich_person_id__4003">Heußners</rs> populärem Buch über die
+                     <q><rs type="work" ref="#tillich__VAZ4FCMG">Philosophischen Weltanschauungen
+                     und ihre Hauptvertreter</rs></q> haben wir einen ausgezeichneten Griff
+               getan.</p>
             <closer>
-               <salute>In der Hoffnung, in nicht zu ferner Zeit von Ihnen zu hören,
-hochachtungsvoll und ergebenst</salute>
+               <salute>In der Hoffnung, in nicht zu ferner Zeit von Ihnen zu hören, hochachtungsvoll
+                  und ergebenst</salute>
             </closer>
          </div>
       </body>
