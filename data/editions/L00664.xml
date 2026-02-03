@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 28. April 1920</title>
+            <title>Postkarte von Paul Tillich an Hannah Werner <lb/>vom 28. April 1920</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -59,7 +59,7 @@
                <date when="1920-04-28">28.04.1920</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <persName ref="#tillich_person_id__1923">Hannah Werner</persName>
                <placeName ref="#tillich_place_id__43">Berlin-Neukölln</placeName>
             </correspAction>
          </correspDesc>
@@ -70,20 +70,17 @@
       <revisionDesc status="approved">
          <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
          <change when="2024-02-01" who="AA">Initiale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2026-02-03">Erklärende Anmerkungen überprüft und ergänzt</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <opener>
-</opener>
-            <p>
-     Hier sitzen wir, und lassen es über uns regnen<del rend="s">;</del>: Wasser, Vorträge, Blüten, und sehnen uns
-     nach Sonne, nach mancherlei Sonne. Bald auf Wiedersehen und Gruß an die <rs ref="#tillich_person_id__2586" type="person">Schwester</rs>!
+            <p>Hier sitzen wir, und lassen es über uns regnen<del rend="s">;</del>: Wasser, Vorträge, Blüten, und sehnen uns nach Sonne, nach mancherlei Sonne. Bald auf Wiedersehen und Gruß an die <rs ref="#tillich_person_id__2586" type="person">Schwester</rs>!
     </p>
             <closer>
-               <signed>P. Tillich.</signed>
+               <signed><rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs>.</signed>
             </closer>
          </div>
       </body>
