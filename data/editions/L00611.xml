@@ -1,89 +1,110 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00611">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Hermann Steinhausen an Paul Tillich <lb/>vom 16. Mai 1919</title>
-<author ref="#tillich_person_id__1826">Hermann Steinhausen</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886‒1965. Papers, 1894‒1974</collection>
-<idno>bMS 649/218(9)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, maschinenschriftlich</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1826">Hermann Steinhausen (Evangelisches Konsistorium der Mark Brandenburg, Abteilung Berlin)</persName>
-<placeName ref="#tillich_place_id__37">Berlin S.W. 68, Lindenstr.14</placeName>
-<date when="1919-05-16">16.05.1919</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
-<change who="EL" when="2026-01-07">Erklärende Anmerkungen überprüft und ergänzt</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<pb n="1"/>
-<div type="writingSession">
-<opener><dateline><rs type="place" ref="#tillich_place_id__37">Berlin S.W. 68</rs>, den <date when="1919-05-16">16. Mai 1919</date><lb/>Lindenstr.14</dateline></opener>
-<p>Im Zehlendorfer Anzeiger<note type="ea">Eine entsprechende Ausgabe dieses Tageblatts ließ sich nicht ermitteln.</note> vom <date when="1919-05-12">12. d. Mts.</date> ist eine Versammlung der Unabhängigen Sozialdemokratischen Partei (Ortsgruppe <rs ref="#tillich_place_id__52" type="place">Zehlendorf</rs>) für den <date when="1919-05-14">14. d. Mts.</date> mit dem Verhandlungsgegenstand: <q>Christentum und Sozialismus</q><note type="ea">Am 14. Mai 1919 hielt <rs type="person" ref="#tillich_person_id__1928">Paul Tillich </rs> zusammen mit <rs type="person" ref="#tillich_person_id__2020">Richard Wegener</rs> bei einer Versammlung der Ortsgruppe der USPD in <rs ref="#tillich_place_id__52" type="place">Zehlendorf</rs> eine Rede über <q>Christentum und Sozialismus</q>.</note> angezeigt, in der Ew. Hochwürden mit als Referent genannt sind.</p>
-<p>Sie wollen sich hierüber baldigst äußern.</p>
-<closer><signed><rs type="person" ref="#tillich_person_id__1826">Steinhausen</rs>.</signed></closer>
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Hermann Steinhausen an Paul Tillich <lb/>vom 16. Mai 1919</title>
+                <author ref="#tillich_person_id__1826">Hermann Steinhausen</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886‒1965. Papers, 1894‒1974</collection>
+                        <idno>bMS 649/218(9)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1826">Hermann Steinhausen (Evangelisches
+                        Konsistorium der Mark Brandenburg, Abteilung Berlin)</persName>
+                    <placeName ref="#tillich_place_id__37">Berlin S.W. 68, Lindenstr.14</placeName>
+                    <date when="1919-05-16">16.05.1919</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
+            <change who="EL" when="2026-01-07">Erklärende Anmerkungen überprüft und ergänzt</change>
+            <change who="GM" when="2026-02-04">Kollationierung</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <pb n="1"/>
+            <div type="writingSession">
+                <opener>Evangelisches Konsistorium der Mark Brandenburg, <lb/> Abteilung <rs
+                        type="place" ref="#tillich_place_id__37">Berlin</rs>. <lb/> k.VI. No
+                            2741.<dateline><rs type="place" ref="#tillich_place_id__37">Berlin S.W.
+                            68</rs>, den <date when="1919-05-16">16. Mai
+                        1919</date><lb/>Lindenstr.14</dateline>.</opener>
+                <p>Im Zehlendorfer Anzeiger<note type="ea">Eine entsprechende Ausgabe dieses
+                        Tageblatts ließ sich nicht ermitteln.</note> vom <date when="1919-05-12">12.
+                        d. Mts.</date> ist eine Versammlung der Unabhängigen Sozialdemokratischen
+                    Partei (Ortsgruppe <rs ref="#tillich_place_id__52" type="place">Zehlendorf</rs>)
+                    für den <date when="1919-05-14">14. d. Mts.</date> mit dem
+                    Verhandlungsgegenstand: <q>Christentum und Sozialismus</q><note type="ea">Am 14.
+                        Mai 1919 hielt <rs type="person" ref="#tillich_person_id__1928">Paul Tillich
+                        </rs> zusammen mit <rs type="person" ref="#tillich_person_id__2020">Richard
+                            Wegener</rs> bei einer Versammlung der Ortsgruppe der USPD in <rs
+                            ref="#tillich_place_id__52" type="place">Zehlendorf</rs> eine Rede über
+                            <q>Christentum und Sozialismus</q>.</note> angezeigt, in der Ew.
+                    Hochwürden mit als Referent genannt sind.</p>
+                <p>Sie wollen sich hierüber baldigst äußern.</p>
+                <closer><signed><rs type="person" ref="#tillich_person_id__1852"
+                        >Steinhausen</rs>.</signed></closer>
+            </div>
+        </body>
+    </text>
 </TEI>

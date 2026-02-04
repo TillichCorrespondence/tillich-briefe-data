@@ -12,7 +12,8 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -28,7 +29,8 @@
                </address>
             </publisher>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -43,6 +45,30 @@
                <physDesc>
                   <p>Brief, eigenhändig</p>
                </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="monograph" n="firstPrint">
+                        <monogr>
+                           <author>Paul Tillich</author>
+                           <editor> Renate Albrecht/Margot Hahl (Hg.)</editor>
+                           <title>Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge,
+                              Berichte</title>
+                           <edition>Erste Auflage</edition>
+                           <imprint>
+                              <publisher>Evangelisches Verlagswerk Stuttgart</publisher>
+                              <pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
+                              <date when="1980">1980</date>
+                              <biblScope>128f.</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Ergänzungs- und Nachlassbände zu den Gesammelten Werken von Paul
+                              Tillich</title>
+                           <biblScope>V</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -51,7 +77,8 @@
             <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
          </projectDesc>
          <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -72,6 +99,7 @@
       <revisionDesc status="approved">
          <change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
          <change who="EL" when="2026-01-07">Erklärende Anmerkungen überprüft und ergänzt</change>
+         <change who="GM" when="2026-02-04">Kollationierung</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -80,18 +108,48 @@
             <pb n="1"/>
             <opener>
                <dateline>
-                  <rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>, d. <date when="1919-05-29">29. Mai 19.</date>
+                  <rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>, Taunusstr. 1.
+                  d. <date when="1919-05-29">29. Mai 19.</date>
                </dateline>
-               <salute>Liebe <rs ref="#tillich_person_id__3577" type="person">Anna-Margareta Bahr</rs>!</salute>
+               <salute>Liebe <rs ref="#tillich_person_id__3577" type="person">Anna-Margareta
+                     Bahr</rs>!</salute>
             </opener>
-            <p>So, nun habe auch ich das <q>Fräulein</q> vermieden, was vielleicht noch <q>bedenklicher</q> ist, als der Verlust des <q>Herr</q>, weswegen ich zur Strafe auch dem demnächstigen Verlust des <q>Doktor</q> noch entgegenhoffe... Vielen Dank für Ihren Brief, der mir eine große Freude war und mich an den Nachmittag mit den gelben Blumen auf der roten Seidendecke erinnerte, die reizende Einweihung meines Zimmers...</p>
-            <p>Der Abend in <rs ref="#tillich_place_id__52" type="place">Zehlendorf</rs> war wirklich sehr nett für mich; man hatte das Gefühl, gern gehört zu werden; leider war das Gespräch mit Ihrer Frau Mutter und Frl. Schwester zu kurz; es kamen andere dazwischen und auf einmal waren sie weg, sodaß ich keinen rechten Eindruck gewinnen konnte; um so mehr freut mich, daß meine Rede Ihnen gefallen hat. – – –</p>
-            <p>Ich sitze jetzt so viel wie möglich auf meinem Balkon, der von blauen Glycinien märchenhaft überrankt ist, und mir nach 4 Kriegsjahren zum ersten Mal wieder das Gefühl einer Freude an der Natur gibt; denn im Krieg war die Natur entweiht; man hatte das Gefühl, daß ein Riß durch sie hindurchgeht; in jedes unvorstellbare Glücksgefühl über ihre Schönheit mischte sich die Reflexion auf das Grauenvolle...</p>
-            <p>An Ihren Ritten möchte ich wirklich teilnehmen, und wäre bereit sogar noch mehr als meine ganzen Kollegeinnahmen (!?) zu opfern; doch würde ich wohl das Segeln vorziehen...</p>
-            <p>Wie es Pfingsten wird, kann ich noch nicht sagen; meine Schwester ist nämlich auf 3 Monate nach <rs ref="#tillich_place_id__396" type="place">Schweden</rs> gereist und mein Schwager will nun mit mir zusammensein; ein Wunsch, dem ich mich vielleicht nicht versagen kann! – Vor allem aber warte ich von Tag zu Tag vergeblich auf Nachricht von <rs ref="#tillich_person_id__1679" type="person">Lotte Salz</rs>; ist mein letzter Brief nicht angekommen; oder ist was mit ihr los? Sagen Sie ihr doch bitte, daß ich sehr warte, um mich entschließen zu können.</p>
+            <p>So, nun habe auch ich das <q>Fräulein</q> vermieden, was vielleicht noch
+                  <q>bedenklicher</q> ist, als der Verlust des <q>Herr</q>, weswegen ich zur Strafe
+               auch dem demnächstigen Verlust des <q>Doktor</q> noch entgegenhoffe... Vielen Dank
+               für Ihren Brief,<note type="ea">Korrespondenz liegt nicht vor.</note> der mir eine
+               große Freude war und mich an den Nachmittag mit den gelben Blumen auf der roten
+               Seidendecke erinnerte, die reizende Einweihung meines Zimmers – – –</p>
+            <p>Der Abend in <rs ref="#tillich_place_id__52" type="place">Zehlendorf</rs> war
+               wirklich sehr nett für mich; man hatte das Gefühl, gern gehört zu werden; leider war
+               das Gespräch mit Ihrer <rs ref="#tillich_person_id__4592" type="person">Frau
+                  Mutter</rs> und <rs ref="#tillich_person_id__4593" type="person">Frl.
+                  Schwester</rs> zu kurz; es kamen andere dazwischen und auf einmal waren sie weg,
+               sodaß ich keinen rechten Eindruck gewinnen konnte; um so mehr freut mich, daß meine
+               Rede Ihnen gefallen hat. – – –<note type="ea">Einen Bericht über das Kennenlernen mit
+                  Tillich gibt <rs ref="#tillich_person_id__3577" type="person">Anna-Magarete Bahr
+                     (spätere Fehling)</rs> in <rs ref="#tillich__GBVRLWQM" type="work">EW V,
+                     126f.</rs></note></p>
+            <p>Ich sitze jetzt so viel wie möglich auf meinem Balkon, der von blauen Glycinien
+               märchenhaft überrankt ist, und mir nach 4 Kriegsjahren zum ersten Mal wieder das
+               Gefühl einer<pb n="2"/> Freude an der Natur gibt; denn im Krieg war die Natur entweiht; man
+               hatte das Gefühl, daß ein Riß durch sie hindurchgeht; in jedes unvorstellbare
+               Glücksgefühl über ihre Schönheit mischte sich die Reflexion auf das
+               Grauenvolle – – –</p>
+            <p>An Ihren Ritten möchte ich wirklich teilnehmen, und wäre bereit sogar noch mehr als
+               meine ganzen Kollegeinnahmen (!?) zu opfern; doch würde ich wohl das Segeln
+               vorziehen.– – –</p>
+            <p>Wie es Pfingsten wird, kann ich noch nicht sagen; meine <rs type="person" ref="#tillich_person_id__644">Schwester</rs> ist nämlich auf 3
+               Monate nach <rs ref="#tillich_place_id__396" type="place">Schweden</rs> gereist und
+               mein <rs type="person" ref="#tillich_person_id__641">Schwager</rs> will nun mit mir zusammensein; ein Wunsch, dem ich mich vielleicht
+               nicht versagen kann! – Vor allem aber warte ich von Tag zu Tag vergeblich auf
+               Nachricht von <rs ref="#tillich_person_id__1679" type="person">Lotte Salz</rs>; ist
+               mein letzter Brief nicht angekommen; oder ist was mit ihr los? Sagen Sie ihr doch
+               bitte, daß ich sehr warte, um mich entschließen zu können.</p>
             <closer>
                <salute>Herzliche Grüße und spätestens im Sommer<lb/>auf Wiedersehn!</salute>
-               <signed>Ihr <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
+               <signed>Ihr <rs ref="#tillich_person_id__1928" type="person">P.
+                  Tillich</rs>.</signed>
             </closer>
          </div>
       </body>

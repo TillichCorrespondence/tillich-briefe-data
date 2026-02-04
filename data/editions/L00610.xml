@@ -12,7 +12,8 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -28,21 +29,23 @@
                </address>
             </publisher>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="#tillich_place_id__tillich_place_id__82">Cambridge, MA</settlement>
+                  <settlement ref="#tillich_place_id__tillich_place_id__82">Cambridge,
+                     MA</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886‒1965. Papers, 1894‒1974</collection>
                   <idno>bMS 649/163(20)</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Postkarte, eigenhändig</p>
+                  <p>Postkarte, maschinenschriftlich mit handschriftlichen Ergänzungen</p>
                </physDesc>
             </msDesc>
          </sourceDesc>
@@ -52,7 +55,8 @@
             <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
          </projectDesc>
          <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -73,27 +77,55 @@
       <revisionDesc status="approved">
          <change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
          <change who="EL" when="2026-01-07">Erklärende Anmerkungen überprüft und ergänzt</change>
+         <change who="GM" when="2026-02-04">Kollationierung</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
       <body>
-         <div type="writingSession" resp="#tillich_person_id__3591">
+         <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr Doctor Tillich</rs>.</salute>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr Doctor
+                     Tillich</rs><note type="eb">Die Karte ist eine gedruckte Einladung des
+                     Lyceum-Clubs Berlin mit handschriftlicher Beifügung von <rs
+                        ref="#tillich_person_id__3591" type="person">H. Kolle</rs>.</note>.</salute>
             </opener>
-            <p>Lyceum-Club <rs ref="#tillich_place_id__37" type="place">Berlin W. , Lützowplatz 8.</rs> Einladung. Am <date when="1919-05-19">Montag, den 19. Mai 1919</date>, 8 Uhr abends, werden im großen Saal des Lyceum-Clubs Vorträge stattfinden über <q>Die Ideen der Jungen in der Politik</q>. Leitung: <rs ref="#tillich_person_id__4371" type="person">Möller van der Bruck</rs>. Es werden sprechen die Herren: </p>
-            <p>1. <rs ref="#tillich_person_id__3593" type="person">Dr. Albert Dietrich</rs> über: <q>Sind wir ein junges Volk?</q>
-            </p>
-            <p>2. <rs ref="#tillich_person_id__3594" type="person">Carl Georg Bruns</rs>: <q>Idealismus und Realismus in der Politik</q>.</p>
-            <p>3. <rs ref="#tillich_person_id__3595" type="person">Dr. Max Hildebert Boehm</rs>: <q>Die Annäherung von Rechts und Links</q>.</p>
-            <p>4. <rs ref="#tillich_person_id__3596" type="person">Dr. Roeseler</rs>: <q>Die Studentenschaft</q>.</p>
-            <p>5. <rs ref="#tillich_person_id__3597" type="person">Freiherr von Gleichen</rs>: <q>Die Auslese der Führer</q>.</p>
-            <p>6. Aussprache.</p>
-            <p>Ich sende Ihnen mit bestem Gruss die Karte die mir <rs ref="#tillich_person_id__3598" type="person">Frau Bauer</rs> zur Verteilung sandte. Hoffentlich kommen Sie. Ich hatte Sie immer einmal zu Tisch erwartet. Die Sache mit den Kartoffeln war ja nur ein Scherz.</p>
+            <p>Ich sende Ihnen mit bestem Gruss die Karte die mir <rs ref="#tillich_person_id__3598"
+                  type="person">Frau Bauer</rs> zur Verteilung sandte. Hoffentlich kommen Sie. Ich
+               hatte Sie immer einmal zu Tisch erwartet. Die Sache mit den Kartoffeln war ja nur ein
+               Scherz.</p>
             <closer>
                <signed>
-                  <rs ref="#tillich_person_id__3591" type="person">H. Kolle</rs><note type="ea">Konnte nicht ermittelt werden.</note>
+                  <rs ref="#tillich_person_id__3591" type="person">H. Kolle</rs><note type="ea"
+                     >Konnte nicht ermittelt werden.</note>
+               </signed>
+            </closer>
+         </div>
+         <div type="writingSession">
+            <dateline>Lyceum-Club <rs ref="#tillich_place_id__37" type="place">Berlin W.,
+                  Lützowplatz 8.</rs></dateline>
+            <p>Einladung.</p>
+            <p>Am <date when="1919-05-19">Montag, den 19. Mai 1919</date>, 8 Uhr abends, werden im
+               großen Saal des Lyceum-Clubs Vorträge stattfinden über</p>
+            <p><q>Die Ideen der Jungen in der Politik</q>.</p>
+            <p>Leitung: <rs ref="#tillich_person_id__4371" type="person">Möller van der Bruck</rs>.
+               Es werden sprechen die Herren: </p>
+            <p>1. <rs ref="#tillich_person_id__3593" type="person">Dr. Albert Dietrich</rs> über:
+                  <q>Sind wir ein junges Volk?</q><lb/>2. <rs ref="#tillich_person_id__3594"
+                  type="person">Carl Georg Bruns</rs>: <q>Idealismus und Realismus in der
+                  Politik</q>.<lb/>3. <rs ref="#tillich_person_id__3595" type="person">Dr. Max
+                  Hildebert Boehm</rs>: <q>Die Annäherung von Rechts und Links</q>.<lb/>4. <rs
+                  ref="#tillich_person_id__3596" type="person">Dr. Roeseler</rs>: <q>Die
+                  Studentenschaft</q>.<lb/>5. <rs ref="#tillich_person_id__3597" type="person"
+                  >Freiherr von Gleichen</rs>: <q>Die Auslese der Führer</q>.<lb/>6. Aussprache.</p>
+            <p>Ich sende Ihnen mit bestem Gruss die Karte die mir <rs ref="#tillich_person_id__3598"
+                  type="person">Frau Bauer</rs> zur Verteilung sandte. Hoffentlich kommen Sie. Ich
+               hatte Sie immer einmal zu Tisch erwartet. Die Sache mit den Kartoffeln war ja nur ein
+               Scherz.</p>
+            <closer>
+               <signed>
+                  <rs ref="#tillich_person_id__3591" type="person">H. Kolle</rs><note type="ea"
+                     >Konnte nicht ermittelt werden.</note>
                </signed>
             </closer>
          </div>
