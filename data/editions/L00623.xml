@@ -12,7 +12,8 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -28,7 +29,8 @@
                </address>
             </publisher>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -52,7 +54,8 @@
             <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
          </projectDesc>
          <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -64,6 +67,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -73,6 +77,7 @@
       <revisionDesc status="approved">
          <change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
          <change who="EL" when="2026-01-13">Erklärende Anmerkungen überprüft und ergänzt</change>
+         <change who="GM" when="2026-02-05">Kollationierung</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -80,20 +85,40 @@
          <div type="writingSession" resp="tillich_person_id__644">
             <pb n="1"/>
             <opener>
-               <dateline>
-                  <unclear>??? ???</unclear>, <date when="1919-07-08">8. Juli</date>
+               <dateline><rs type="place" ref="#tillich_place_id__1350">Sjösa</rs>
+                  <unclear>Horn.</unclear><lb/>
+                  <unclear>ach. di.</unclear>
+                  <rs ref="#tillich_person_id__2416" type="person"><rs ref="#tillich_person_id__219"
+                        type="person">Billström</rs></rs>, Schweden.<lb/><date when="1919-07-08">8.
+                     Juli</date>
                </dateline>
-               <salute>
-                  M. lb. <rs ref="#tillich_person_id__1928" type="person">J.</rs>
+               <salute> M. lb. <rs ref="#tillich_person_id__1928" type="person">J.</rs>
                </salute>
             </opener>
-            <p>einen Gruß mußt du doch haben. Ich denke aber, du hast genug sonst v. mir gehört, und ich erspare mir alles Uebrige aufs Mündliche. Hoffentl. sind wir eine lange Zeit zus. Wir sind hauptsächlichst in <rs ref="#tillich_place_id__129" type="place">Dölzig</rs>, weil <unclear>¿¿¿</unclear> zu teuer für uns wird. Viell. gehen <rs ref="#tillich_person_id__641" type="person">Frede</rs> u ich mal 8 Tage hin. Wir müssen unbedingt zus. sein. <rs ref="#tillich_person_id__1928" type="person">m. J.</rs>!! Ich denke so viel an Dich u über alles nach. Es ist eine zu komische wirre Welt.</p>
-            <p>Selbst in diese Einsamkeit am Meeresstrand dringen die traurigen deutschen Nachrichten u bringen es fertig mich elend zu machen. Schreib&apos; mir mal 1 Brief über innenpolitische Zustände u Aussichten u schick&apos; mir Gedrucktes daß ich <rs ref="#tillich_person_id__3580" type="person">A.</rs> u <rs ref="#tillich_person_id__3579" type="person">J.</rs> erzählen kann. Ich wünschte dich her. Es ist so unendlich schön und ich lebe v. einem Festtag zum andern. <rs ref="#tillich_person_id__2416" type="person">Astrid</rs> u ich denken so oft an dich erzählender Weise. – In <rs ref="#tillich_place_id__417" type="place">Stockholm</rs> hatte ich feine Tage. Es liegt ganz <unclear cert="low">herrlich</unclear> inmitten v. Wassern u Felshügeln.</p>
-            <p>Die Welt ist doch bedeutend schöner u erträglicher, wenn man nicht immer in den Städten sein muß. Nun schreibe mir mal bitte, ehe ich reise.</p>
+            <p>einen Gruß mußt du doch haben. Ich denke aber, du hast genug sonst v. mir gehört, und
+               ich erspare mir alles Uebrige aufs Mündliche. Hoffentl. sind wir eine lange Zeit zus.
+               Wir sind hauptsächlichst in <rs ref="#tillich_place_id__129" type="place"
+               >Dölzig</rs>, weil <unclear>¿¿¿</unclear> zu teuer für uns wird. Viell. gehen <rs
+                  ref="#tillich_person_id__641" type="person">Frede</rs> u ich mal 8 Tage hin. Wir
+               müssen unbedingt zus. sein. <rs ref="#tillich_person_id__1928" type="person">m.
+                  J.</rs>!! Ich denke so viel an Dich u über alles nach. Es ist eine zu komische
+               wirre Welt.</p>
+            <p>Selbst in diese Einsamkeit am Meeresstrand dringen die traurigen deutschen
+               Nachrichten u bringen es fertig mich elend z. machen. Schreib&apos; mir mal 1 Brief
+               über innenpolitische Zustände u Aussichten u schick&apos; mir Gedrucktes, daß ich <rs
+                  ref="#tillich_person_id__2416" type="person">A.</rs> u <rs
+                  ref="#tillich_person_id__219" type="person">J.</rs> erzählen kann. Ich wünschte
+               dich her. Es ist so unendlich schön und ich lebe v. einem Festtag zum andern. <rs
+                  ref="#tillich_person_id__2416" type="person">Astrid</rs> u ich denken so oft an
+               dich erzählender Weise. – In <rs ref="#tillich_place_id__417" type="place"
+                  >Stockholm</rs> hatte ich feine Tage. Es liegt ganz <unclear cert="low"
+                  >herrlich</unclear> inmitten v. Wassern u Felshügeln.<pb n="2"/></p>
+            <p>Die Welt ist doch bedeutend schöner u erträglicher, wenn man nicht immer in den
+               Städten sein muß. Nun schreibe mir mal bitte, ehe ich reise.</p>
             <closer>
-               <salute>Tausend Grüße,</salute>
-               <signed>m. l. J. a . v. <rs ref="#tillich_person_id__2416" type="person">Astrid</rs></signed>
-               stets <unclear>Sein</unclear> <signed><rs type="person" ref="#tillich_person_id__644 #tillich_person_id__644">Wumming</rs>.</signed>
+               <salute>Tausend Grüße, m. l. J. a . v. <rs ref="#tillich_person_id__2416"
+                     type="person">Astrid</rs> stets</salute><signed>Deine <rs type="person"
+                     ref="#tillich_person_id__644 #tillich_person_id__644">Wumming</rs>.</signed>
             </closer>
          </div>
       </body>

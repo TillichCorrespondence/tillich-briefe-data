@@ -12,7 +12,8 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -28,14 +29,16 @@
                </address>
             </publisher>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="#tillich_place_id__tillich_place_id__82">Cambridge, MA</settlement>
+                  <settlement ref="#tillich_place_id__tillich_place_id__82">Cambridge,
+                     MA</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886‒1965. Papers, 1894‒1974</collection>
@@ -52,7 +55,8 @@
             <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
          </projectDesc>
          <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -73,17 +77,32 @@
       <revisionDesc status="approved">
          <change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
          <change who="EL" when="2026-01-13">Erklärende Anmerkungen überprüft und ergänzt</change>
+         <change who="GM" when="2026-02-05">Kollationierung</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
       <body>
-         <div type="writingSession" resp="#tillich_person_id__3599">
-            <pb n="1"/>
-            <p>An <lb/>Herrn Pastor Liz. Dr. <rs type="person" ref="#tillich_person_id__1928">Tillich</rs> <lb/>Hochehrwürden in <lb/><rs type="place" ref="#tillich_place_id__37">Berlin-Friedenau</rs>, <lb/>Taunusstr. 1.</p>
-            <p>Auf den Bericht vom <date when="1919-05-27">27. Mai 1919</date>.<note type="ea">Korrespondenz liegt nicht vor.</note></p>
-            <p>Von Ew. Hochehrwürden Ausführungen haben wir eingehend Kenntnis genommen. Wir können Ihnen in vielen Punkten nicht beistimmen, haben jedoch zur Zeit keinen Anlaß, näher darauf einzugehen.</p>
-            <p>Jedenfalls aber steht fest, daß die Anschauungen über den von Ihnen behandelten Stoff in weitgehendem Maße noch ungeklärt sind, daß die Gefahr schädlicher Verquickung von Politik und Religion dabei sehr nahe liegt und daß zweifellos viele Glieder der Kirche an dem Auftreten von Geistlichen in der Weise, wie Sie es getan haben, Anstoß nehmen.</p>
-            <p>In Rücksicht hierauf müssen wir es als unerwünscht bezeichnen, wenn Geistliche unserer Landeskirche in derartigen Versammlungen als Vortragende mitwirken.</p>
+         <pb n="1"/>
+         <div type="writingSession">
+            <opener> Evangelisches Konsistorium der Mark Brandenburg,<lb/> Abteilung <rs
+                  type="place" ref="#tillich_place_id__37">Berlin</rs>.<lb/> k.VI. No 3077. <dateline>
+                  <rs type="place" ref="#tillich_place_id__37">Berlin S.W. 68</rs> , den <date
+                     when="1919-05-16">12. Juli 1919</date>
+                  <lb/> Lindenstr. 14.</dateline></opener>
+            <p>Auf den Bericht vom <date when="1919-05-27">27. Mai 1919</date>.<note type="ea"
+                  >Korrespondenz liegt nicht vor.</note></p>
+            <p>Von Ew. Hochehrwürden Ausführungen haben wir eingehend Kenntnis genommen. Wir können
+               Ihnen in vielen Punkten nicht beistimmen, haben jedoch zur Zeit keinen Anlaß, näher
+               darauf einzugehen.</p>
+            <p>Jedenfalls aber steht fest, daß die Anschauungen über den von Ihnen behandelten Stoff
+               in weitgehendem Maße noch ungeklärt sind, daß die Gefahr schädlicher Verquickung von
+               Politik und Religion dabei sehr nahe liegt und daß zweifellos viele Glieder der
+               Kirche an dem Auftreten von Geistlichen in der Weise, wie Sie es getan haben, Anstoß
+               nehmen.</p>
+            <p>In Rücksicht hierauf müssen wir es als unerwünscht bezeichnen, wenn Geistliche
+               unserer Landeskirche in derartigen Versammlungen als Vortragende mitwirken.<note
+                  type="ea">Für den Kontext vgl. <rs type="letter" ref="L00611">Brief von Hermann
+                     Steinhausen vom 16. Mai 1919.</rs></note></p>
             <closer>
                <salute>Im Auftrage.</salute>
                <signed>
@@ -91,11 +110,17 @@
                </signed>
             </closer>
             <postscript>
-               <p>Superintendentur <rs ref="#tillich_place_id__48" type="place">Kölln-Land I Teltow</rs>, <date when="1919-07-16">d. 16.7.1919</date>
-                  <lb/>Tgb. Nr. 2331<lb/>I.V. <rs ref="#tillich_person_id__3600" type="person">
-                     <unclear cert="low">Leyhaus</unclear>
-                  </rs>
-               </p>
+               <p>An <lb/>Herrn Pastor Liz. Dr. <rs type="person" ref="#tillich_person_id__1928"
+                     >Tillich</rs>
+                  <lb/>Hochehrwürden in <lb/><rs type="place" ref="#tillich_place_id__38"
+                     >Berlin-Friedenau</rs>, <lb/>Taunusstr. 1.</p>
+               <figure>
+                  <figDesc>[Stempel: Superintendentur <rs ref="#tillich_place_id__48" type="place"
+                        >Kölln-Land I Teltow</rs>, <date when="1919-07-16">d. 16.7.1919</date> Tgb.
+                     Nr. 2331 I.V.] <rs ref="#tillich_person_id__3600" type="person">
+                        <unclear cert="low">Leyhaus</unclear>
+                     </rs></figDesc>
+               </figure>
             </postscript>
          </div>
       </body>

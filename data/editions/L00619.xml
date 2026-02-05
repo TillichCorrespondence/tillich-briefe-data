@@ -12,7 +12,8 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -28,7 +29,8 @@
                </address>
             </publisher>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -51,7 +53,8 @@
             <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
          </projectDesc>
          <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -63,6 +66,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -72,6 +76,7 @@
       <revisionDesc status="approved">
          <change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
          <change who="EL" when="2026-01-13">Erklärende Anmerkungen überprüft und ergänzt</change>
+         <change who="GM" when="2026-02-05">Kollationierung</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -79,13 +84,18 @@
          <div type="writingSession" resp="tillich_person_id__777">
             <pb n="1"/>
             <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__370" type="place">Rostock i. M.</rs>, d. <date when="1919-07-01">1.VII.19</date>
-               </dateline>
+               <dateline><date when="1919-07-01">1.VII.19</date><lb/>Friedrichstr. 23a </dateline>
                <salute>
                   <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
             </opener>
-            <p>es hat mir so leid getan, dass ich Dich damals nicht erreichen konnte. Ich wollte so vieles mit Dir besprechen und musste Dich vor allen Dinge einmal sehen.<lb/>Ich habe Dich etwa zehnmal angeklingelt – doch immer vergebens.<lb/>War vom 20.-25. zum Sozialisten-Kongress in <rs ref="#tillich_place_id__37" type="place">Berlin</rs>.<lb/>Ich würde mich freuen, ein Wort von Dir zu hören.<lb/>Du würdest mir einen Gefallen tun, wenn Du <rs type="work" ref="#tillich__QLP3L5UF">die Schrift</rs> schicktest, die Du mit <rs ref="#tillich_person_id__2020" type="person">Wegener</rs> zusammen rausgegeben hast.</p>
+            <p>es hat mir so leid getan, dass ich Dich damals nicht erreichen konnte. Ich wollte so
+               vieles mit Dir besprechen und musste Dich vor allen Dinge einmal sehen.<lb/>Ich habe
+               Dich etwa zehnmal angeklingelt – doch immer vergebens.<lb/>War vom 20.-25. zum
+               Sozialisten-Kongress in <rs ref="#tillich_place_id__37" type="place"
+               >Berlin</rs>.<lb/>Ich würde mich freuen, ein Wort von Dir zu hören.<lb/>Du würdest
+               mir einen Gefallen tun, wenn Du <rs type="work" ref="#tillich__QLP3L5UF">die
+                  Schrift</rs> schicktest, die Du mit <rs ref="#tillich_person_id__2020"
+                  type="person">Wegener</rs> zusammen rausgegeben hast.</p>
             <closer>
                <salute>Herzlichst</salute>
                <signed>
