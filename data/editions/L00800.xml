@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Hermann Keyserling an Paul Tillich <lb/>vom 27. August 1923</title>
+            <title>Postkarte von Hermann Keyserling an Paul Tillich <lb/>vom 25. August 1923 [PS]</title>
             <author ref="#tillich_person_id__1048">Hermann Keyserling</author>
             <respStmt>
                <resp>Editor</resp>
@@ -59,11 +59,12 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#tillich_person_id__1048">Hermann Keyserling</persName>
-               <placeName ref="#tillich_place_id__532">Kloster a/ Hiddensee</placeName>
-               <date when="1923-08-27">27.08.1923</date>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1923-08-25">25.08.1923</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__532">Kloster auf Hiddensee (Rügen)</placeName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -72,6 +73,7 @@
       </profileDesc>
       <revisionDesc status="approved">
          <change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2026-01-28">Erklärende Anmerkungen überprüft und ergänzt</change>
       </revisionDesc>
    </teiHeader>
    <text type="postcard">
@@ -79,21 +81,14 @@
          <div type="writingSession" resp="#tillich_person_id__1048">
             <pb n="1"/>
             <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__532" type="place">Kloster a/ Hiddensee</rs> (<rs ref="#tillich_place_id__380" type="place">Rügen</rs>), d. <date when="1923-08-25">25.8.23</date>
-               </dateline>
-               <salute>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr Privatdozent</rs>!</salute>
+               <salute>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr Privatdozent</rs>!<note type="ea">Die vorliegende Postkarte wurde laut Poststempel am <date when="1923-08-25">25. August 1923</date> von Berlin aus an Tillichs Berliner Adresse (Taunusstr. 1, <rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>) gesendet. Ein weiterer Poststempel vom <date when="1923-08-27">27. August 1923</date> trägt den Vermerk "Entlastet". Tillichs Berliner Adresse wurde durchgestrichen und mit Bleistift durch seine aktuelle Aufenthaltsadresse ersetzt: <rs ref="#tillich_place_id__532" type="place">Kloster auf Hiddensee (Rügen)</rs>, bei <rs ref="#tillich_person_id__4505" type="person">Frau Dittmann</rs>.</note></salute>
             </opener>
-            <p>Hoffentlich treffen Sie diese Zeilen beim besten Wohlsein. Ich wäre Ihnen sehr dankbar, wenn Sie die Güte haben würden, mir mein Buch zurückzus<supplied>enden</supplied>.</p>
+            <p>Hoffentlich treffen Sie diese Zeilen beim besten Wohlsein. Ich wäre Ihnen sehr dankbar, wenn Sie die Güte haben würden, mir mein<add type="footnote"><hi rend="aq"><rs ref="#tillich__QETUFZVA" type="work">Assyrische u. babylonische Dichtungen (Religiöse Stimmen d. Völker)</rs></hi></add> Buch <choice><abbr>zurückzusd</abbr><expan>zurückzusenden</expan></choice>.</p>
             <closer>
                <salute>Mit d. best Gruß</salute>
                <signed>Ihr sehr ergebener <rs ref="#tillich_person_id__1048" type="person">Keyserling</rs>. <unclear cert="medium">Mohnstr.</unclear> 69</signed>
             </closer>
-            <postscript>
-               <p>Assyrische u. babylonische Dichtungen (Religiöse Stimmen d. Völker)<note type="ea">von fremder Hand hinzugefügt.</note>
-                  <note type="ea">Konnte nicht ermittelt werden.</note>
-               </p>
-            </postscript>
+          
          </div>
       </body>
    </text>
