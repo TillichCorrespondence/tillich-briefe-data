@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Paul Tillich an Hannah Werner <lb/>wahrscheinlich von
+            <title>Undatierte Postkarte von Paul Tillich an Hannah Werner <lb/>vermutlich von
                     1920</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
@@ -60,7 +60,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date notBefore="1920-01-01">01.01.1920</date>
+               <date notBefore="1920-01-01" notAfter="1920-12-31">1920</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1923">Hannah Werner</persName>
@@ -73,6 +73,7 @@
       <revisionDesc status="approved">
          <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
          <change when="2023-02-03" who="AA">Initiale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2026-02-11">Erklärende Anmerkungen überprüft und ergänzt</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -80,9 +81,7 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline> den <date notBefore="1920-01-01">01.01.1920</date>
-               </dateline>
-               <salute>Hannah! Geliebte!</salute>
+               <salute><rs type="person" ref="#tillich_person_id__1923">Hannah</rs>! Geliebte!</salute>
             </opener>
             <p>Meine Sehnsucht ist groß nach Dir. Du solltest hier sein und Geist und Schönheit
                     mit mir genießen. Es ist wundervoll; aber ich habe viel zu tun, da mir noch ein
