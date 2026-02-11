@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Brief von Paul Tillich an Hannah Gottschow <lb/>ohne Datum, vermutlich 1923</title>
+            <title>Undatierter Brief von Paul Tillich an Hannah Gottschow <lb/>vermutlich aus dem Jahr 1923</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -63,7 +63,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1923">Hannah Gottschow</persName>
-               <placeName ref="#tillich_place_id__38">Berlin-Friedenau Taunusstr. 1</placeName>
+               <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -73,6 +73,7 @@
       <revisionDesc status="approved">
          <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
          <change when="2024-02-02" who="AA">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2026-02-11">Erklärende Anmerkungen überprüft und ergänzt</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -90,8 +91,8 @@
                Dich; ich fahre dann mit ihr nach <rs ref="#tillich_place_id__566" type="place">Friedersdorf</rs>, um die neue Pfarre zu sehen. – – – </p>
             <closer>
                <salute>Auf Wiedersehen, süße liebe <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>. Ich denk an Dich und freue mich auf Dich und liebe Dich über
-                  alles Denken!</salute>
-               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+                  alles Denken! Dein<lb/></salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
             </closer>
          </div>
       </body>
