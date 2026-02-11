@@ -1,89 +1,104 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01571">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Postkarte von Paul Tillich an Fräulein Maria und Lisa Klein </title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886‒1965. Papers, 1894‒1974</collection>
-<idno>bMS 649/178(5)</idno>
-</msIdentifier>
-<physDesc>
-<p>Postkarte, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__1107">Strausberg</placeName>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1594">Fräulein Maria u. Lisa Klein</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<pb n="1"/>
-<div type="writingSession">
-<opener><salute>An <rs type="person" ref="#tillich_person_id__1594">Fräulein Maria u. Lisa Klein</rs></salute></opener>
-<p>Heute von <rs type="place" ref="#tillich_place_id__1108">Erkner</rs> über <rs type="place" ref="#tillich_place_id__1109">Woltersdorfer</rs> Schleuse, <rs type="place" ref="#tillich_place_id__1110">Rüdersdorf</rs>, <rs type="place" ref="#tillich_place_id__1111">Tasdorf</rs>, <rs type="place" ref="#tillich_place_id__1112">Stienitzsee</rs> bis Bahnhof <rs type="place" ref="#tillich_place_id__1107">Strausberg</rs> gegangen. Ich <unclear cert="low" resp="Transkription">stand</unclear> an derselben Stelle wie damals gesessen und an die <unclear cert="low" resp="Transkription">vielen</unclear> gefallenen Kämpfer gedacht. –</p>
-<closer><salute>Herzlich grüßt Euch</salute><signed>Euer <rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs></signed></closer>
-</div>
-<postscript>
-<p>Gruß auch an Eure liebe <rs type="person" ref="#tillich_person_id__1063">Mutter</rs> und <unclear reason="illegible">¿¿¿</unclear>.</p>
-</postscript>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Paul Tillich an Fräulein Maria und Lisa Klein </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886‒1965. Papers, 1894‒1974</collection>
+                        <idno>bMS 649/178(5)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__1107">Strausberg</placeName>
+                    <date notAfter="1965"></date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1594">Fräulein Maria u. Lisa Klein</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <pb n="1"/>
+            <div type="writingSession">
+                <opener><salute>An <rs type="person" ref="#tillich_person_id__1594">Fräulein Maria
+                            u. Lisa Klein</rs></salute></opener>
+                <p>Heute von <rs type="place" ref="#tillich_place_id__1108">Erkner</rs> über <rs
+                        type="place" ref="#tillich_place_id__1109">Woltersdorfer</rs> Schleuse, <rs
+                        type="place" ref="#tillich_place_id__1110">Rüdersdorf</rs>, <rs type="place"
+                        ref="#tillich_place_id__1111">Tasdorf</rs>, <rs type="place"
+                        ref="#tillich_place_id__1112">Stienitzsee</rs> bis Bahnhof <rs type="place"
+                        ref="#tillich_place_id__1107">Strausberg</rs> gegangen. Ich <unclear
+                        cert="low" resp="Transkription">stand</unclear> an derselben Stelle wie
+                    damals gesessen und an die <unclear cert="low" resp="Transkription"
+                        >vielen</unclear> gefallenen Kämpfer gedacht. –</p>
+                <closer><salute>Herzlich grüßt Euch</salute><signed>Euer <rs type="person"
+                            ref="#tillich_person_id__1928">P. Tillich</rs></signed></closer>
+            </div>
+            <postscript>
+                <p>Gruß auch an Eure liebe <rs type="person" ref="#tillich_person_id__1063"
+                        >Mutter</rs> und <unclear reason="illegible">¿¿¿</unclear>.</p>
+            </postscript>
+        </body>
+    </text>
 </TEI>
