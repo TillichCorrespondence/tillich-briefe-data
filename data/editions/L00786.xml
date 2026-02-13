@@ -12,7 +12,8 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -25,7 +26,8 @@
                </address>
             </publisher>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -36,7 +38,8 @@
                   <institution>Stiftung Preußischer Kulturbesitz</institution>
                   <repository>Staatsbibliothek zu Berlin</repository>
                   <collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
-                  <idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
+                  <idno>Nachl. 494, G 1888–1936. G 1923. 138; Blatt
+                     493–517 <!-- Archivsignatur evtl. falsch, laut Kalliope Korrespondenz ab 09.01.1924, von 1923 kein Datensatz vorhanden – aber: Blattangabe passt nicht zur 1924 Korrespondenz, sondern mehr zur Korrespondenz von 1923 und 1924. --></idno>
                </msIdentifier>
                <physDesc>
                   <p>Postkarte, eigenhändig</p>
@@ -46,7 +49,9 @@
                      <biblStruct type="journal">
                         <monogr>
                            <author>Friedrich Wilhelm Graf</author>
-                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur
+                              Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach
+                              Gegenständen und Methoden</title>
                            <imprint>
                               <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
                               <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
@@ -69,7 +74,8 @@
             <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
          </projectDesc>
          <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -81,6 +87,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
+               <!-- <placeName ref="#tillich_place_id__186">Göttingen</placeName> -->
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -98,15 +105,27 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <salute>Sehr geehrter <rs ref="#tillich_person_id__2569" type="person">Herr Ruprecht</rs>!</salute>
+               <salute>Sehr geehrter <rs ref="#tillich_person_id__2569" type="person">Herr
+                     Ruprecht</rs>!</salute>
             </opener>
-            <p>Bis heute, Donnerstag, sind keine neuen Korrekturen an mich gegangen. Ich hoffe, daß weder etwas von mir an Sie noch von Ihnen an mich verloren gegangen
-ist. Es wäre sehr schön, wenn ich bis spätestens Montag d. 16ten die letzten Sachen in den Händen hätte. Ich fahre dann hier ab und könnte vielleicht die
-zweite Korrektur in <rs ref="#tillich_place_id__186" type="place">Göttingen</rs> lesen, wo ich etwa am 20ten bei <rs ref="#tillich_person_id__904" type="person">Hirsch</rs> sein will.</p>
+            <p>Bis heute, Donnerstag, sind keine neuen Korrekturen an mich gegangen. Ich hoffe, daß
+               weder etwas von mir an Sie noch von Ihnen an mich verloren gegangen ist. Es wäre sehr
+               schön, wenn ich bis spätestens <date when="1923-04-16">Montag d. 16ten</date> die
+               letzten Sachen in den Händen hätte. Ich fahre dann hier ab und könnte vielleicht die
+               zweite Korrektur in <rs ref="#tillich_place_id__186" type="place">Göttingen</rs>
+               lesen, wo ich etwa am <date when="1923-04-20">20ten</date> bei <rs
+                  ref="#tillich_person_id__904" type="person">Hirsch</rs> sein will.</p>
             <closer>
                <salute>Mit ergebenstem Gruß!</salute>
-               <signed>Ihr <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
+               <signed>Ihr <rs ref="#tillich_person_id__1928" type="person">P.
+                  Tillich</rs>.</signed>
             </closer>
+            <postscript>
+               <p>Abs. <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> bei <rs
+                     ref="#tillich_person_id__641" type="person">Pfarrer Fritz</rs>
+                  <rs ref="#tillich_place_id__143" type="place">Frankfurt a. M.</rs> Goetheplatz
+                  7.</p>
+            </postscript>
          </div>
       </body>
    </text>

@@ -12,7 +12,8 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -25,7 +26,8 @@
                </address>
             </publisher>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -36,9 +38,8 @@
                   <institution>Stiftung Preußischer Kulturbesitz</institution>
                   <repository>Staatsbibliothek zu Berlin</repository>
                   <collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
-                  <idno>
-                        <!-- Identifikationsnummer des Dokuments in dem Archiv -->
-                  </idno>
+                  <idno>Nachl. 494, G 1888–1936. G 1923. 138; Blatt
+                     493–517 <!-- Archivsignatur evtl. falsch, laut Kalliope Korrespondenz ab 09.01.1924, von 1923 kein Datensatz vorhanden – aber: Blattangabe passt nicht zur 1924 Korrespondenz, sondern mehr zur Korrespondenz von 1923 und 1924. --></idno>
                </msIdentifier>
                <physDesc>
                   <p>Brief, eigenhändig</p>
@@ -48,9 +49,9 @@
                      <biblStruct type="journal">
                         <monogr>
                            <author>Friedrich Wilhelm Graf</author>
-                           <title>
-                                          Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden
-                                   </title>
+                           <title> Ein unbekannter Systementwurf Paul Tillichs. Zur
+                              Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach
+                              Gegenständen und Methoden </title>
                            <imprint>
                               <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
                               <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
@@ -73,7 +74,8 @@
             <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
          </projectDesc>
          <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -85,7 +87,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
-               <placeName ref="#tillich_place_id__"/>
+               <!-- <placeName ref="#tillich_place_id__186">Göttingen</placeName> -->
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -104,43 +106,96 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <salute>
-                              Sehr geehrter <rs ref="#tillich_person_id__2569" type="person">Herr Ruprecht</rs>!<note type="ea">Rechts daneben sind ein Datum, <q>14 / 5</q> und eine Verlags-Berechnung, <q>3.575 oder 35750</q>, unbekannter Bedeutung notiert.</note>
+               <salute> Sehr geehrter <rs ref="#tillich_person_id__2569" type="person">Herr
+                     Ruprecht</rs>!<note type="ea">Rechts daneben sind ein Datum, <q><date
+                           when="1923-05-14">14 / 5</date></q> und eine Verlags-Berechnung, <q>3.575
+                        oder 35750</q>, unbekannter Bedeutung notiert.</note>
                </salute>
             </opener>
-            <p>Hierdurch möchte ich Ihnen noch einmal die Namen derer nennen, die Recensionen meines  <rs ref="#tillich__WLVL28EI" type="work">Buches</rs> übernommen haben. Außer den schon genannten sind noch einige dazu gekommen. Ich wiederhole alle noch einmal:</p>
-            <p>1. Professor <rs ref="#tillich_person_id__1723" type="person">Dr. Karl Ludwig Schmidt</rs>, <rs ref="#tillich_place_id__175" type="place">Gießen</rs>, Goethestr. 33. Theologische Blätter, Theologischer Teil.<note type="ea">Dieser und die folgenden Namen mit Ausnahme des <q>Cand. Theol. <rs ref="#tillich_person_id__2758" type="person">Hüllmann</rs></q> sind abgehakt. Von Karl Ludwig Schmidt lässt sich keine Rezension von Tillichs <hi rend="i">System der Wissenschaften</hi> nachweisen. Aber als Herausgeber der <hi rend="i">Theologischen Blätter</hi> gab er das Buch zur Besprechung an <rs ref="#tillich_person_id__2570" type="person">August Dell</rs>.</note>
+            <p>Hierdurch möchte ich Ihnen noch einmal die Namen derer nennen, die Recensionen <rs
+                  ref="#tillich__WLVL28EI" type="work">meines Buches</rs> übernommen haben. Außer
+               den schon genannten sind noch einige dazu gekommen. Ich wiederhole alle noch
+               einmal:</p>
+            <p>1. <rs ref="#tillich_person_id__1723" type="person">Professor Dr. Karl Ludwig
+                  Schmidt</rs>, <rs ref="#tillich_place_id__175" type="place">Gießen</rs>,
+               Goethestr. 33. Theologische Blätter, Theologischer Teil.<note type="ea">Dieser und
+                  die folgenden Namen mit Ausnahme des <q><rs ref="#tillich_person_id__2758"
+                        type="person">Cand. theol. Hüllmann</rs></q> sind abgehakt. Von <rs
+                     ref="#tillich_person_id__1723" type="person">Karl Ludwig Schmidt</rs> lässt
+                  sich keine Rezension von <rs ref="#tillich_person_id__1928" type="person"
+                     >Tillichs</rs>
+                  <hi rend="i"><rs ref="#tillich__WLVL28EI" type="work">System der
+                        Wissenschaften</rs></hi> nachweisen. Aber als Herausgeber der <hi rend="i"
+                     >Theologischen Blätter</hi> gab er das Buch zur Besprechung an <rs
+                     ref="#tillich_person_id__2570" type="person">August Dell</rs>.</note>
             </p>
-            <p>2. <rs ref="#tillich_person_id__2356" type="person">Dr. Christian Herrmann</rs>,
-                        <rs ref="#tillich_place_id__96" type="place">Charlottenburg</rs>, Schillerstr. 111. Theologische Blätter, Philosophischer Teil.</p>
-            <p>3. Lic.<rs ref="#tillich_person_id__1696" type="person">
-                  <sic>Herrmann</sic> Schafft</rs>, <rs ref="#tillich_place_id__236" type="place">Cassel</rs>, Humboldtstr. 4. Neues Werk.</p>
-            <p>4. <rs ref="#tillich_person_id__1307" type="person">Karl Mennike</rs>, <rs ref="#tillich_place_id__51" type="place">Berlin N.</rs> 20, Prinzenallee 25/26, Blätter für religiösen Sozialismus,</p>
-            <p>5. <rs ref="#tillich_person_id__2020" type="person">Dr. Richard Wegener</rs>, <rs ref="#tillich_place_id__504" type="place">Berlin C.</rs> 2, An der Schleuse 2. Centralblatt für Erziehung und Unterricht.</p>
-            <p>6. Cand. theol. <rs ref="#tillich_person_id__2758" type="person">Hüllmann</rs>, <rs ref="#tillich_place_id__96" type="place">Charlottenburg</rs>, Pestalozzistr 88b Sonderartikel über mich und das Buch in der Vossischen Zeitung (wichtig und eilig)</p>
-            <p>7. Lic. <rs ref="#tillich_person_id__1154" type="person">Leese</rs>, <rs ref="#tillich_place_id__198" type="place">Hamburg</rs>, Koppel 11.<note type="ea">Kurt Leese publizierte keine Besprechung des <hi rend="i">Systems der Wissenschaften</hi>. Doch hatte er wenige Wochen nach Tillichs Brief an Ruprecht, am 28. Juni 1923, in <rs ref="#tillich_person_id__2592" type="person">Martin Rades</rs>
-                  <hi rend="i">Christlicher Welt</hi> eine ausführliche <rs ref="#tillich__FVXDI6UA" type="work">Analyse</rs> der religiös-sozialistischen Geschichtstheorie seines Freundes veröffentlicht.</note>
+            <p>2. <rs ref="#tillich_person_id__2356" type="person">Dr. Christian Herrmann</rs>, <rs
+                  ref="#tillich_place_id__96" type="place">Charlottenburg</rs>, Schillerstr. 111.
+               Theologische Blätter, Philosophischer Teil.</p>
+            <p>3. <rs ref="#tillich_person_id__1696" type="person">Lic. <sic>Herrmann</sic>
+                  Schafft</rs>, <rs ref="#tillich_place_id__236" type="place">Cassel</rs>,
+               Humboldtstr. 4. Neues Werk.</p>
+            <p>4. <rs ref="#tillich_person_id__1307" type="person">Karl Mennike</rs>, <rs
+                  ref="#tillich_place_id__51" type="place">Berlin N.</rs> 20, Prinzenallee 25/26,
+               Blätter für religiösen Sozialismus,</p>
+            <p>5. <rs ref="#tillich_person_id__2020" type="person">Dr. Richard Wegener</rs>, <rs
+                  ref="#tillich_place_id__504" type="place">Berlin C.</rs> 2, An der Schleuse 2.
+               Centralblatt für Erziehung und Unterricht.</p>
+            <p>6. <rs ref="#tillich_person_id__2758" type="person">Cand. theol. Hüllmann</rs>, <rs
+                  ref="#tillich_place_id__96" type="place">Charlottenburg</rs>, Pestalozzistr 88b
+               Sonderartikel über mich und das Buch in der Vossischen Zeitung (wichtig und
+               eilig)</p>
+            <p>7. <rs ref="#tillich_person_id__1154" type="person">Lic. Leese</rs>, <rs
+                  ref="#tillich_place_id__198" type="place">Hamburg</rs>, Koppel 11.<note type="ea"
+                     ><rs ref="#tillich_person_id__1154" type="person">Kurt Leese</rs> publizierte
+                  keine Besprechung des <hi rend="i"><rs ref="#tillich__WLVL28EI" type="work"
+                        >Systems der Wissenschaften</rs></hi>. Doch hatte er wenige Wochen nach <rs
+                     ref="#tillich_person_id__1928" type="person">Tillichs</rs> Brief an <rs
+                     ref="#tillich_person_id__2569" type="person">Ruprecht</rs>, am <date
+                     when="1923-06-28">28. Juni 1923</date>, in <rs ref="#tillich_person_id__2592"
+                     type="person">Martin Rades</rs>
+                  <hi rend="i">Christlicher Welt</hi> eine ausführliche <rs ref="#tillich__FVXDI6UA"
+                     type="work">Analyse der religiös-sozialistischen Geschichtstheorie</rs> seines
+                  Freundes veröffentlicht.</note>
                <lb/>
                <q>Christliche Welt</q> und <q>Furche</q>.</p>
-            <p>8. <rs ref="#tillich_person_id__1887" type="person">Dr. E. v. Sydow</rs>, <rs ref="#tillich_place_id__200" type="place">Hannover</rs>, Kl. Pfahlstr. 6.<lb/>
-               <q>Das neue Deutschland</q>, die <q>Arbeitsgemeinschaft</q>.<note type="ea">Eine Rezension Eckart von Sydows lässt sich nicht nachweisen. Aber er hatte dem engen Freunde schon im Frühjahr 1922 Aufmerksamkeit zu verschaffen versucht: <rs ref="#tillich__WPM4VDGS" type="work">Eckart von Sydow, Rezension zu: Paul Tillich: Masse und Geist (1.Heft von <q>Volk und Geist</q>, Schriften des Volksbildungsarchivs, hg. von R. v. Erdberg), Verlag der Arbeitsgemeinschaft Berlin und Frankfurt a. M., 1922 (55 Seiten), in: Die Arbeitsgemeinschaft. Monatsschrift für das gesamte Volkshochschulwesen 3 (1922), 283–285.</rs>
-               .</note>
+            <p>8. <rs ref="#tillich_person_id__1887" type="person">Dr. E. v. Sydow</rs>, <rs
+                  ref="#tillich_place_id__200" type="place">Hannover</rs>, Kl. Pfahlstr. 6.<lb/>
+               <q>Das neue Deutschland</q>, die <q>Arbeitsgemeinschaft</q>.<note type="ea">Eine
+                  Rezension <rs ref="#tillich_person_id__1887" type="person">Eckart von Sydows</rs>
+                  lässt sich nicht nachweisen. Aber er hatte dem engen Freunde schon im Frühjahr
+                  1922 Aufmerksamkeit zu verschaffen versucht: <rs ref="#tillich_person_id__1887"
+                     type="person">Eckart von Sydow</rs>, <rs ref="#tillich__WPM4VDGS" type="work"
+                     >Rezension zu: Paul Tillich: Masse und Geist</rs> (1922).</note>
             </p>
-            <p>9. Professor <rs ref="#tillich_person_id__310" type="person">D Büchsel</rs>, <rs ref="#tillich_place_id__370" type="place">Rostock</rs>, Universität.<note type="ea">Zwischen 8 und 9 notiert der Verlag: <q>14 / 5 23</q>.</note>
+            <p>9. <rs ref="#tillich_person_id__310" type="person">Professor D Büchsel</rs>, <rs
+                  ref="#tillich_place_id__370" type="place">Rostock</rs>, Universität.<note
+                  type="ea">Zwischen 8 und 9 notiert der Verlag: <q>14/5 23</q>.</note>
                <lb/>Ihmels Litteraturblatt, Jordans Litteraturbericht</p>
-            <p>10. Professor <rs ref="#tillich_person_id__1178" type="person">Dr. Liebert</rs>, <rs ref="#tillich_place_id__51" type="place">Berlin W.</rs> 15. Fasanenstr. 48 Kantstudien.<note type="ea">Eine Rezension in den Kant-Studien der Jahre 1923 bis 1925 lässt sich nicht nachweisen.</note>
+            <p>10. <rs ref="#tillich_person_id__1178" type="person">Professor Dr. Liebert</rs>, <rs
+                  ref="#tillich_place_id__51" type="place">Berlin W.</rs> 15. Fasanenstr. 48
+                  Kantstudien.<note type="ea">Eine Rezension in den Kant-Studien der Jahre 1923 bis
+                  1925 lässt sich nicht nachweisen.</note>
             </p>
-            <p>Da sämtliche Herren zu ausführlichen Besprechungen bereit sind, und die Veröffentlichung immer ziemlich lange dauert, so bitte ich Sie um möglichst baldige Zusendung der Recensions-Exemplare, vor allem an Nr. 1 und 6. – Von <rs ref="#tillich_person_id__808" type="person">Harnack</rs> habe ich eine sehr günstige Beurteilung erhalten.<note type="ea">Weder im Harnack-Nachlass noch in den Tillich-Sammlungen in Harvard und Marburg haben
-sich Korrespondenzen zwischen den beiden Theologen finden lassen. Aber natürlich begegneten
-sie sich in Tillichs Berliner Jahren immer wieder in der Universität und speziell der Theologischen
-Fakultät, gerade auch im sog. <q>Dozentenzimmer</q>.</note>
+            <p>Da sämtliche Herren zu ausführlichen Besprechungen bereit sind, und die
+               Veröffentlichung immer ziemlich lange dauert, so bitte ich Sie um möglichst baldige
+               Zusendung der Recensions-Exemplare, vor allem an Nr. 1 und 6. – Von <rs
+                  ref="#tillich_person_id__808" type="person">Harnack</rs> habe ich eine sehr
+               günstige Beurteilung erhalten.<note type="ea">Weder im Harnack-Nachlass noch in den
+                  Tillich-Sammlungen in Harvard und <rs ref="#tillich_place_id__279" type="place"
+                     >Marburg</rs> haben sich Korrespondenzen zwischen den beiden Theologen finden
+                  lassen. Aber natürlich begegneten sie sich in <rs ref="#tillich_person_id__1928"
+                     type="person">Tillichs</rs> Berliner Jahren immer wieder in der Universität und
+                  speziell der Theologischen Fakultät, gerade auch im sog.
+                  <q>Dozentenzimmer</q>.</note>
             </p>
-            <p>Ich selbst bitte Sie um Zusendung von <hi rend="u">5 Exemplaren</hi><note type="ea">Darunter ist notiert: <q>45420,–14/V 23</q>.</note> zum Autorenpreis mit Beifügung der Rechnung.<note type="ea">Darunter sind – von zwei Händen – einige Zahlen notiert: <q>15000 16500 7200 2500 40%
-<choice>
+            <p>Ich selbst bitte Sie um Zusendung von <hi rend="u">5 Exemplaren</hi><note type="ea"
+                  >Darunter ist notiert: <q>45420,– 14/V 23</q>.</note> zum Autorenpreis mit
+               Beifügung der Rechnung.<note type="ea">Darunter sind – von zwei Händen – einige
+                  Zahlen notiert: <q>15000 16500 7200 2500 40% <choice>
                         <abbr>R</abbr>
                         <expan>Rabatt</expan>
-                     </choice>
-                  </q>.</note>
+                     </choice></q>.</note>
             </p>
             <closer>
                <salute>Mit ergebenstem Gruß!</salute>
