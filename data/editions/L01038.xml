@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Paul Tillich an Verlag Vandenhoeck &amp; Ruprecht <lb/>vom 29.
+            <title>Postkarte von Paul Tillich an den Verlag Vandenhoeck &amp; Ruprecht <lb/>vom 29.
                Oktober 1929 </title>
             <author ref="#tillich_person_id__1928">Paul Tillich </author>
             <respStmt>
@@ -39,14 +39,14 @@
                <msIdentifier>
                   <country>Deutschland</country>
                   <settlement ref="#tillich_place_id__37">Berlin</settlement>
-                  <repository>Staatsbibliothek zu Berlin – Preußischer Kulturbesitz</repository>
-                  <collection>Handschriftenabteilung, Archiv des Verlages Vandenhoeck &amp; Ruprecht
-                     – Autorenkorrespondenz/G 1888-1936</collection>
-                  <idno>Nachl. 494, G 1923. 138; 493-517</idno>
+                  <institution>Stiftung Preußischer Kulturbesitz</institution>
+                  <repository>Staatsbibliothek zu Berlin</repository>
+                  <collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
+                  <idno>Nachl. 494, G 1888–1936. G 1929. 162; Blatt 380 </idno>
                </msIdentifier>
                <physDesc>
-                  <p>Postkarte; maschinenschriftlich mit eigenhändiger Unterschrift; Unterstreichung
-                     des Empfängers</p>
+                  <p>Postkarte, maschinenschriftlich; Unterschrift eigenhändig; Unterstreichung des
+                     Empfängers</p>
                </physDesc>
                <additional>
                   <listBibl>
@@ -90,6 +90,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__2301">Verlag Vandenhoeck &amp; Ruprecht</persName>
+               <!-- <placeName ref="#tillich_place_id__186">Göttingen</placeName> -->
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -106,23 +107,19 @@
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <p> Hierdurch<note type="eb">Erklärende Anmerkungen zu vorliegendem Schreiben wurden
-                  (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note>
-               bitte ich Sie, <hi rend="u">zum Autorenpreis</hi><note type="ea">Unterstreichung des Empfängers.</note> ein Exemplar meiner Schrift
-                     <q><rs ref="#tillich__WLVL28EI" type="work">System der Wissenschaften</rs></q>,
-               zu senden an das Freie deutsche Hochstift <rs ref="#tillich_place_id__143"
-                  type="place">Frankfurt/M</rs> Goethehaus </p>
+            <p> Hierdurch bitte ich Sie, <hi rend="u">zum Autorenpreis</hi><note type="ea"
+                  >Unterstreichung des Empfängers.</note> ein Exemplar meiner Schrift <q><rs
+                     ref="#tillich__WLVL28EI" type="work">System der Wissenschaften</rs></q>, zu
+               senden an das Freie deutsche Hochstift <rs ref="#tillich_place_id__143" type="place"
+                  >Frankfurt/M</rs> Goethehaus </p>
             <closer>
-               <salute>
-                  <rs ref="#tillich_person_id__1928" type="person">Professor D. Dr. Paul
-                     Tillich</rs>
-                  <note type="ea">Darunter findet sich der Erledigungsvermerk des Verlages <q>4,15
-                        30 / X. 29</q> sowie der Eingangsstempel <q>
-                        <date when="1929-10-30">30. Okt. 1929</date>
-                     </q>.</note>
-               </salute>
                <signed>
-                  <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>.</signed>
+                  <rs ref="#tillich_person_id__1928" type="person">Professor D. Dr. Paul
+                     Tillich</rs><note type="ea">Darunter findet sich der Erledigungsvermerk des
+                     Verlages <q>4,15 30 / X. 29</q> sowie der Eingangsstempel <q><date
+                           when="1929-10-30">30. Okt. 1929</date></q>.</note><lb/>
+                  <hi rend="hand"><rs ref="#tillich_person_id__1928" type="person"
+                     >Tillich</rs>.</hi></signed>
             </closer>
          </div>
       </body>

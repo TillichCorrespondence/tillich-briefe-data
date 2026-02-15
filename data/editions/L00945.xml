@@ -12,7 +12,8 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -28,27 +29,32 @@
                </address>
             </publisher>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc type="typescript">
                <msIdentifier>
                   <country>Deutschland</country>
-                  <settlement>Berlin</settlement>
-                  <repository>Verlagsarchiv Vandenhoeck &amp; Ruprecht</repository>
-                  <collection>Autorenkorrespodenz</collection>
-                  <idno>G 1923.138</idno>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <institution>Stiftung Preußischer Kulturbesitz</institution>
+                  <repository>Staatsbibliothek zu Berlin</repository>
+                  <collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
+                  <idno>Nachl. 494, G 1888–1936. G 1927. 153; Blatt 511–518 </idno>
                </msIdentifier>
                <physDesc>
-                  <p>Briefdurchschlag, maschinenschriftlich</p>
+                  <p>Brief, maschinenschriftlicher Durchschlag <lb/>Adressiert: <q>8. Oktober 1927.
+                        Herrn Professor D. Paul Tillich, Dresden. Techn. Hochschule.</q></p>
                </physDesc>
                <additional>
                   <listBibl>
                      <biblStruct type="journal">
                         <monogr>
                            <author>Friedrich Wilhelm Graf</author>
-                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur
+                              Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach
+                              Gegenständen und Methoden</title>
                            <imprint>
                               <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
                               <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
@@ -71,13 +77,15 @@
             <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
          </projectDesc>
          <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#tillich_person_id__2518">Gustav Ruprecht</persName>
+               <!-- <placeName ref="#tillich_place_id__186">Göttingen</placeName> -->
                <date when="1927-10-08">08.10.1927</date>
             </correspAction>
             <correspAction type="received">
@@ -100,15 +108,27 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline>
-                  <date when="1927-10-08">8. Oktober 1927</date>. Herrn Professor D. <rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs>, <rs ref="#tillich_place_id__126" type="place">Dresden</rs>. Techn. Hochschule.<note type="eb">Erklärende Anmerkungen zu vorliegendem Brief wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note>
-               </dateline>
-               <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>.</salute>
+               <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr
+                     Professor</rs>.</salute>
             </opener>
-            <p>Es tut uns sehr leid, Ihr beabsichtigtes Buch <q>Wissenschaft vom religiösen Symbol</q> wegen Ihrer Bindung mit ihm an den Darmstädter Verlag nicht von Ihnen für unsern Verlag bekommen zu können.<note type="ea">Vgl. den <rs ref="L00944" type="letter">Brief Tillichs an Ruprecht vom 6. Oktober 1927</rs>.</note> Möchte sich künftig nun wenigstens Ihr Satz erfüllen, daß sich vielleicht weiterhin einmal Gelegenheit finde, etwas bei uns erscheinen zu lassen.</p>
-            <p>Von Ihrem <q><rs ref="#tillich__WLVL28EI" type="work">System der Wissenschaften</rs></q> haben wir rund 600 Stück bislang verkauft, und die Nachfrage der letzten Jahre läßt erwarten, daß auch weiterhin noch einige Nachfrage sein wird.</p>
-            <p>Es würde mich freuen, Sie auf dem Theologentage in <rs ref="#tillich_place_id__132" type="place">Eisenach</rs><note type="ea">Der erste deutsche Theologentag fand vom <date from="1927-10-19" to="1927-10-21">19. bis 21. Oktober 1927</date> in <rs ref="#tillich_place_id__132" type="place">Eisenach</rs> statt. Dazu siehe: <rs ref="#tillich__2NCBKDNN" type="work">Titius (Hg.), Deutsche Theologie</rs>.</note>, an dem ich mit meinem Sohn <rs ref="#tillich_person_id__1660" type="person">Günther</rs> teilzunehmen gedenke, zu sprechen.     
-        </p>
+            <p>Es tut uns sehr leid, Ihr beabsichtigtes Buch <q>Wissenschaft vom religiösen
+                  Symbol</q> wegen Ihrer Bindung mit ihm an den Darmstädter Verlag nicht von Ihnen
+               für unsern Verlag bekommen zu können.<note type="ea">Vgl. den <rs ref="L00944"
+                     type="letter">Brief Tillichs an Ruprecht vom 6. Oktober 1927</rs>.</note>
+               Möchte sich künftig nun wenigstens Ihr Satz erfüllen, daß sich vielleicht weiterhin
+               einmal Gelegenheit finde, etwas bei uns erscheinen zu lassen.</p>
+            <p>Von Ihrem <q><rs ref="#tillich__WLVL28EI" type="work">System der
+                  Wissenschaften</rs></q> haben wir rund 600 Stück bislang verkauft, und die
+               Nachfrage der letzten Jahre läßt erwarten, daß auch weiterhin noch einige Nachfrage
+               sein wird.</p>
+            <p>Es würde mich freuen, Sie auf dem Theologentage in <rs ref="#tillich_place_id__132"
+                  type="place">Eisenach</rs><note type="ea">Der erste deutsche Theologentag fand vom
+                     <date from="1927-10-19" to="1927-10-21">19. bis 21. Oktober 1927</date> in <rs
+                     ref="#tillich_place_id__132" type="place">Eisenach</rs> statt. Siehe dazu: <rs
+                     ref="#tillich_person_id__2213" type="person">Arthur Titius</rs> (Hg.): <rs
+                     ref="#tillich__2NCBKDNN" type="work">Deutsche Theologie</rs> (1928).</note>, an
+               dem ich mit meinem Sohn <rs ref="#tillich_person_id__1660" type="person">Günther</rs>
+               teilzunehmen gedenke, zu sprechen. </p>
             <closer>
                <salute>In vorzüglicher Hochachtung</salute>
             </closer>

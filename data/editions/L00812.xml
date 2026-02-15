@@ -37,14 +37,38 @@
             <msDesc type="typescript">
                <msIdentifier>
                   <country>Deutschland</country>
-                  <settlement>Berlin</settlement>
-                  <repository>Verlagsarchiv Vandenhoeck Ruprecht</repository>
-                  <collection>Autorenkorrespodenz</collection>
-                  <idno>G 1923.138</idno>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <institution>Stiftung Preußischer Kulturbesitz</institution>
+                  <repository>Staatsbibliothek zu Berlin</repository>
+                  <collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
+                  <idno>Nachl. 494, G 1888–1936. G 1923. 138; Blatt 493–517</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Briefdurchschlag, maschinenschriftlich</p>
+                  <p>Brief, maschinenschriftlicher Durchschlag <lb/>Adressiert: <q>Herrn
+                        Privatdozent Dr. Tillich, Berlin-Friedenau.</q></p>
                </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal">
+                        <monogr>
+                           <author>Friedrich Wilhelm Graf</author>
+                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur
+                              Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach
+                              Gegenständen und Methoden</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                              <date when="2020">2020</date>
+                              <biblScope>S. 27–170, hier: 139f.</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Zeitschrift für Neuere Theologiegeschichte</title>
+                           <biblScope>27/1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -61,6 +85,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
+               <!-- <placeName ref="#tillich_place_id__186">Göttingen</placeName> -->
                <date when="1924-01-22">22.01.1924</date>
             </correspAction>
             <correspAction type="received">
@@ -78,16 +103,17 @@
          <change who="PS" when="2024-01-05">Endabnahme (1)</change>
          <change when="2024-01-17" who="AA">XML Datei generiert von Metadata (2)</change>
          <change when="2024-01-18" who="AR">Initiale Auszeichnung des Transkripts (2)</change>
-         <change when="2024-04-10" who="FS">Zusammenführung der beiden vorliegenden Versionen</change>
+         <change when="2024-04-10" who="FS">Zusammenführung der beiden vorliegenden
+            Versionen</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <opener>Herrn Privatdozent Dr. <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>, <rs ref="#tillich_place_id__38" type="place">Berlin-Friedenau</rs>.
+            <opener>
                <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr
-                  Doktor</rs>!</salute>
+                     Doktor</rs>!</salute>
             </opener>
             <p>Die vier bestellten Stücke sind Ihnen nebst den sehr wenigen Besprechungs-Belegen
                vorgestern zugesandt worden. Der Absatz beträgt bisher rund 280 Stück. Vielleicht
@@ -98,11 +124,38 @@
                die Betriebsmittel, wie Sie sich denken können, gegenwärtig knapp sind. Besprechungen
                erfolgen leider bei dem Raummangel der meisten Zeitschriften jetzt sehr langsam.
                Vorsichtige Rezensenten halten gerade in Ihrem Falle auch wohl etwas zurück.
-               Letzterer Grund wird für Herrn Prof. <rs ref="#tillich_person_id__2571" type="person">M.</rs> nicht vorliegen, und Ihrem Wunsche gemäß
-               bitten wir ihn durch Herrn Prof. <rs ref="#tillich_person_id__904" type="person">Hirsch</rs>, 
-               die Besprechung etwas zu beschleunigen. Weiter eingehende
-               Besprechungen erhalten Sie ebenfalls. Die aufgesammelten hatten gerade in diesen
-               Tagen notiert und Ihnen geschickt werden sollen.</p>
+               Letzterer Grund wird für <rs ref="#tillich_person_id__2571" type="person">Herrn Prof.
+                  M.</rs> nicht vorliegen, und Ihrem Wunsche gemäß bitten wir ihn durch <rs
+                  ref="#tillich_person_id__904" type="person">Herrn Prof. Hirsch</rs>, die
+               Besprechung etwas zu beschleunigen.<note type="ea">In der Tat schrieb einer der <rs
+                     ref="#tillich_person_id__2569 2518" type="person">Gebrüder Ruprecht</rs> am
+                     <date when="1924-01-11">11. Januar 1924</date> an <rs
+                     ref="#tillich_person_id__904" type="person">Emanuel Hirsch</rs>
+                  (Archivsignatur: Nachl. 494, G 1888–1936. G 1923. 135; Blatt 1131–1155 ): <q><rs
+                        ref="#tillich_person_id__1928" type="person">Herr Dr. Tillich</rs> hat den
+                     berechtigten Wunsch, daß seine Schrift <rs ref="#tillich__WLVL28EI" type="work"
+                        >Das System der Wissenschaften</rs> in der Theol. Literaturzeitung doch
+                     recht bald besprochen werden möchte. Vielleicht können Sie den von Ihnen
+                     gewonnenen Referenten (wenn wir nicht irren, <rs ref="#tillich_person_id__2571"
+                        type="person">Herrn Prof. Misch</rs>) bitten, die Besprechung etwas zu
+                     beschleunigen.</q><lb/>Zu einer Besprechung in der Theologischen
+                  Literaturzeitung kam es jedoch nicht. Erst im März 1926, in seiner <rs
+                     ref="#tillich__DEB6ZCBS" type="work">Rezension</rs> von <rs
+                     ref="#tillich_person_id__1928" type="person">Tillichs</rs> Beitrag <q><rs
+                        ref="#tillich__3CAALVPL" type="work">Religionsphilosophie</rs></q>, der in
+                  dem von <rs ref="#tillich_person_id__454" type="person">Max Dessoir</rs>
+                  herausgegebenen <rs ref="#tillich__66CNGDAS" type="work">Lehrbuch der
+                     Philosophie</rs> erschien, erklärte <rs ref="#tillich_person_id__904"
+                     type="person">Emanuel Hirsch</rs>: <q><rs ref="#tillich_person_id__1928"
+                        type="person">P. Tillichs</rs> <q rend="single"><rs ref="#tillich__WLVL28EI" type="work">System der
+                           Wissenschaften nach Gegenständen und Methoden</rs></q> (<rs
+                        ref="#tillich_place_id__186" type="place">Göttingen</rs> 1923) – eine der
+                     reifsten Leistungen neuerer deutscher systematischer Philosophie – ist in
+                     dieser Zeitschrift nicht besprochen worden. Ohne meine Schuld – zwei von mir
+                     nacheinander betraute Rezensenten sind an der Schwierigkeit der Aufgabe zu
+                     schanden geworden.</q></note> Weiter eingehende Besprechungen erhalten Sie
+               ebenfalls. Die aufgesammelten hatten gerade in diesen Tagen notiert und Ihnen
+               geschickt werden sollen.</p>
             <closer>
                <salute>Mit hochachtungsvoller Empfehlung</salute>
             </closer>

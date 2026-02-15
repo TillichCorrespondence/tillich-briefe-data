@@ -37,20 +37,24 @@
             <msDesc type="typescript">
                <msIdentifier>
                   <country>Deutschland</country>
-                  <settlement>Berlin</settlement>
-                  <repository>Verlagsarchiv Vandenhoeck Ruprecht</repository>
-                  <collection>Autorenkorrespodenz</collection>
-                  <idno>G 1923.138</idno>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <institution>Stiftung Preußischer Kulturbesitz</institution>
+                  <repository>Staatsbibliothek zu Berlin</repository>
+                  <collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
+                  <idno>Nachl. 494, G 1888–1936. G 1923. 138; Blatt 493–517</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Briefdurchschlag, maschinenschriftlich</p>
+                  <p>Brief, maschinenschriftlicher Durchschlag <lb/>Adressiert: <q>Herrn
+                        Privatdozent Dr. Tillich, Friedenau.</q></p>
                </physDesc>
                <additional>
                   <listBibl>
                      <biblStruct type="journal">
                         <monogr>
                            <author>Friedrich Wilhelm Graf</author>
-                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur
+                              Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach
+                              Gegenständen und Methoden</title>
                            <imprint>
                               <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
                               <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
@@ -81,6 +85,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
+               <!-- <placeName ref="#tillich_place_id__186">Göttingen</placeName> -->
                <date when="1924-02-26">26.02.1924</date>
             </correspAction>
             <correspAction type="received">
@@ -98,7 +103,8 @@
          <change who="PS" when="2024-01-05">Endabnahme (1)</change>
          <change when="2024-01-17" who="AA">XML Datei generiert von Metadata (2)</change>
          <change when="2024-01-18" who="AR">Initiale Auszeichnung des Transkripts (2)</change>
-         <change when="2024-04-10" who="FS">Zusammenführung der beiden vorliegenden Versionen</change>
+         <change when="2024-04-10" who="FS">Zusammenführung der beiden vorliegenden
+            Versionen</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -106,25 +112,22 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline>
-                  <rs ref="#tillich_person_id__1928" type="person">Herrn Privatdozent Dr. P.
-                     Tillich</rs>, <rs ref="#tillich_place_id__37" type="place">Friedenau</rs>.</dateline>
                <salute>Hochgeehrter <rs ref="#tillich_person_id__1928" type="person">Herr
                      Doktor</rs>!</salute>
             </opener>
-            <p>Erst durch Ihre <rs type="letter" ref="L00814">Karte</rs> erfahre ich, daß Ihnen
+            <p>Erst durch <rs type="letter" ref="L00814">Ihre Karte</rs> erfahre ich, daß Ihnen
                ungeschickter Weise wegen eines kleinen rückständigen Posten ein gewöhnliches
                Mahnformular zugeschickt worden ist. Das war von uns selbstverständlich nicht
                beabsichtigt. Haben Sie nur die Freundlichkeit, sobald es Ihnen paßt, den
                Gesamtbetrag, welcher auf der Ihnen heute mit den zwei Exemplaren zugehenden Rechnung
                vermerkt wird, gelegentlich auf unser Postscheckkonto Hannover Nr. 6729
                einzuzahlen.</p>
-            <p>Mit Herrn <rs ref="#tillich_person_id__2978" type="person">Dr. Dietrich</rs> habe ich neulich wieder angeknüpft. Er
-               wollte uns schon längst ausführlich schreiben, ist aber leider noch immer nicht dazu
-               gekommen. </p>
+            <p>Mit <rs ref="#tillich_person_id__2978" type="person">Herrn Dr. Dietrich</rs> habe ich
+               neulich wieder angeknüpft. Er wollte uns schon längst ausführlich schreiben, ist aber
+               leider noch immer nicht dazu gekommen. </p>
             <closer>
-               <salute>Mit hochachtungsvollem Gruße<lb/>
-               Ihr</salute>
+               <salute>Mit hochachtungsvollem Gruße</salute>
+               <signed>Ihr</signed>
             </closer>
          </div>
       </body>
