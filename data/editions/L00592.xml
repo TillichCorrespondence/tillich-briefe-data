@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00592">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Reinhold Seeberg <lb/>vom 06. Januar 1919</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__37">Berlin</settlement>
+<institution>Humboldt-Universität Berlin, Universitätsarchiv</institution>
+<repository>Humboldt-Universität Berlin, Universitätsarchiv</repository>
+<idno>Theol. Fak. 142, Bl. 164</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct n="firstPrint" type="journal">
+<monogr>
+<author>Erdmann Sturm</author>
+<title>An der engen Pforte der historischen Methode vorbeit. Paul
+Tillichs Habilitation in Halle (1916) und seine Umhabilitierungen nach
+Berlin (1919) und Marburg (1924).</title>
+<imprint>
+<pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+<pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+<date when="2015">2015</date>
+<biblScope>317</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>International Yearbook for Tillich Research</title>
+<biblScope>Bd. 10/1</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
+<date when="1919-01-06">06.01.1919</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1761">Reinhold Seeberg</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change who="AA" when="2026-02-16">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<pb n="1"/>
+<div type="writingSession">
+<opener>
+<dateline><rs type="place" ref="#tillich_place_id__38">Berlin-Friedenau</rs>, Taunusstr. 1
+d. <date when="1919-01-06">6. Jan. 1919</date></dateline>
+<salute>Hochverehrter Herr Geheimrat!</salute>
+</opener>
+<p>Leider war es mir infolge starker Erkältung nicht möglich, am <date when="1919-01-05">Sonntag</date> an Ihrem offenen Abend teilzunehmen. Ich hoffe, daß ich in 14 Tagen werde kommen können! - Wenn sich die Angelegenheit der Zusammenkünfte an den Sonnabenden des <date notBefore="1919-02-03" notAfter="1919-04-10">Zwischensemesters</date> geregelt hat, wäre ich für eine Orientierung dankbar, damit ich immer mit der Vorbereitung beginnen kann.</p>
+<closer>
+<salute>Ihr sehr ergebener</salute>
+<signed>Dr. <rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs></signed>
+</closer>
+</div>
+</body>
+</text>
+</TEI>

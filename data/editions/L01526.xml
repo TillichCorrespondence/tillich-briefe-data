@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01526">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Margot Müller <lb/>vermutlich aus dem Zeitraum 31. Oktober bis 2. November 1921</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Universitätsbibliothek Marburg</repository>
+<collection>Nachlass Margot Hahl (Tillichiana 1)</collection>
+<idno>Ms. 1041/1</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date notBefore="1921-10-31" notAfter="1921-11-02">zwischen dem 31.10. und 02.11.1921</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__757">Margot Müller</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change who="AA" when="2026-02-16">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<pb n="1"/>
+<div type="writingSession">
+<opener>
+<dateline><rs type="place" ref="#tillich_place_id__38">Berlin - Friedenau</rs>, Taunusstr. 1.</dateline>
+<salute>Liebe <rs type="person" ref="#tillich_person_id__757">Margot Müller</rs>!</salute>
+</opener>
+<p>Sie würden mir eine große Freude machen, wenn Sie am <date when="1921-11-04">Freitag Abend</date> zu mir kommen könnten, je nach Ihrer Zeit, gleich nach dem Kolleg oder später. Frl. <del>Walter</del><!--PERSON-TODO--> würde sich auch freuen, wenn Sie bei uns Abendbrot äßen. Nach unserer Aussprache im Juli drängt es mich, Ihnen einiges von Dingen zu sagen, die mein persönliches Leben belasten, weitaus mehr als alles Damalige. Ob es mir möglich sein wird, weiß <pb n="2"/> ich freilich nicht. Aber Sie werden es auch verstehen, wenn ich schweige. Ich fahre am <date when="1921-11-05">Sonnabend</date> zu einem Vortrag nach <rs type="place" ref="#tillich_place_id__260">Leipzig</rs><note type="ea">Die Hochschulblätter der Vossischen Zeitung<!--WORK-TODO--> Nr. 502 (25. Oktober 1921) berichten: <q>An der <rs type="place" ref="#tillich_place_id__260">Leipziger</rs> Universität findet vom 1. bis zum 5. Nov. die <q>Soziale Woche</q><!--WORK-TODO--> statt. Als Referenten werden Gertrud Bäumer<!--PERSON-TODO-->, Sigmund Schultze<!--PERSON-TODO-->, Hermann Gramm<!--PERSON-TODO--> und Paul Tillich vertreten sein. Die Veranstaltung steht im Zusammenhang mit der Ferientagung des Akademischen Sozialen Verbandes in Benneckenstein, die vom 6. bis 11. Oktober eine Reihe akademisch-sozialer Vereine zur Beratung zusammengeführt hat.</q></note> und wäre dankbar, wenn ich Sie vorher gesprochen hätte.</p>
+<p>Sollte es Ihnen möglich und Sie willens sein, zu kommen, so bitte ich Sie, mich im Laufe des <date when="1921-11-03">Donnerstag Vormittag</date> anzuklingeln. Ich habe einen neuen Hauptanschluß <rs type="place" ref="#tillich_place_id__366">Rheingau</rs> 8347. Sonst bitte ich um sofortige Absage.</p>
+<closer>
+<salute>Herzliche Grüße!</salute>
+<signed>Ihr <rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs></signed>
+</closer>
+</div>
+</body>
+</text>
+</TEI>
