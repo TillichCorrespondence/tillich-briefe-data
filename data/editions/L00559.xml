@@ -29,8 +29,9 @@
                </address>
             </publisher>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
-                  Attribution 4.0 International (CC BY 4.0)</licence>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">
+                  Creative Commons Attribution 4.0 International (CC BY 4.0)
+               </licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -39,7 +40,7 @@
                   <country>USA</country>
                   <settlement ref="#tillich_place_id__82">Cambridge</settlement>
                   <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library </repository>
+                  <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886‒1965. Papers, 1894‒1974</collection>
                   <idno>bMS 649/237(8)</idno>
                </msIdentifier>
@@ -62,7 +63,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#tillich_person_id__507">Arthur Ebermann</persName>
-               <date notBefore="1918-08-20" notAfter="1918-08-31">08.1918</date>
+               <date when="1918-08">August 1918</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
@@ -83,13 +84,16 @@
             <pb n="1"/>
             <opener>
                <dateline>
-                  <date notBefore="1918-01-01" notAfter="1918-12-31">1918</date>
+                  <date when="1918">1918</date>
                </dateline>
                <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>!</salute>
             </opener>
             <p>zum Geburtstag meinen herzlichsten Glückwunsch zum dauernden Angedenk mein
-               Bildnis<note type="ea">Auf der Motivseite ist ein Portraitfoto von <rs ref="#tillich_person_id__507" type="person">Arthur Ebermann</rs>
-                  in Uniform mit Eisernem Kreuz am Revers abgebildet.</note>
+               Bildnis
+               <note type="ea">Auf der Motivseite ist ein Portraitfoto von 
+                  <rs ref="#tillich_person_id__507" type="person">Arthur Ebermann</rs>
+                  in Uniform mit Eisernem Kreuz am Revers abgebildet.
+               </note>
             </p>
             <closer>
                <salute>Stets Ihr</salute>
