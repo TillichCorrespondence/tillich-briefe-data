@@ -1,88 +1,186 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00697">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Fritz Medicus <lb/>vom 8. Dezember 1920</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Schweiz</country>
-<settlement ref="#tillich_place_id__480">Zürich</settlement>
-<institution>ETH-Bibliothek Zürich</institution>
-<repository>ETH-Bibliothek Zürich</repository>
-<collection></collection>
-<idno>Hs 1377:935</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
-<date when="1920-12-08">08.12.1920</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1291">Fritz Medicus</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<pb n="1"/>
-<div type="writingSession">
-<opener><dateline><rs type="place" ref="#tillich_place_id__38">Berlin-Friedenau</rs>, Taunusstr. 1.<lb/><date when="1920-12-08">d. 8. Dez. 1920.</date><lb/><date when="1921-01-08">d. 8. Jan. 1921</date></dateline><salute>Hochverehrter, lieber Herr <rs type="person" ref="#tillich_person_id__1291">Professor</rs>!</salute></opener>
-<p>Die Ankunft Ihres Briefes<note type="ea">Die Korrespondenz liegt nicht vor.</note> und Ihrer Sendungen war mir eine große Freude! Inzwischen war auch mein <rs type="person" ref="#tillich_person_id__1763">Schwager</rs> hier und hat mir von dem schönen Abend mit Ihnen erzählt.<note type="ea">Vgl. <rs type="letter" ref="L00696">Brief von Alfred Fritz an Paul Tillich vom 10. November 1920</rs>.</note> – So weit kam ich, dann wurde ich krank, und dann fuhr ich nach <rs type="place" ref="#tillich_place_id__74">Bremen</rs>, und nun ist gerade ein Monat vergangen, den ich Sie zu verzeihen bitte. – Haben Sie herzlichsten Dank für den Brief mit seinen kritischen Bemerkungen, für die Übersendung der beiden Aufsätze<note type="ea"><rs type="person" ref="#tillich_person_id__1291">Medicus</rs> sendete Tillich seinen Aufsatz <rs type="work" ref="#tillich__395CR6I6"><q>Naturforschung und Philosophie</q></rs> zu. Er ging auf einen Vortrag zurück, den Medicus anlässlich der Hauptversammlung der Naturforschenden Gesellschaft in Zürich gehalten hatte (zur Mitgliedschaft Medicus&apos; in dieser Gesellschaft s. <rs type="work" ref="#tillich__M37I7HMN">Friedrich Wilhelm Graf, Alf Christophersen: Neukantianismus (2004)</rs>, S. 68 Anm. 53). Darüber hinaus kommt als weiterer Aufsatz in Frage: <rs type="work" ref="#tillich__3PAKTZQ3">Fritz Medicus: J. G. Fichte als Anhänger und als Kritiker des Völkerbundgedankens (1920)</rs>.</note> und auch – ich schreibe das wieder mit der Bitte um Verzeihung – für den Aufsatz über <rs type="work" ref="#tillich__EBJX4XNQ">die religiöse Mystik</rs>, den ich während der Ferien erhielt und dann den Dank versäumte! Er enthält ja so vieles, was meinem <rs type="work" ref="#tillich__DHQTCG8Z">Buch über Mystik und Schuldbewußtsein</rs> entspricht, daß es mir eine besondere Freude war!</p>
-<p>Ihr <rs type="work" ref="395CR6I6">Logos-Aufsatz</rs> war mir sehr wertvoll; denn ich fand in Ihren Ausführungen genau die gleiche Methode, wie ich sie jetzt im Kolleg verwende bei der Behandlung meines Themas: <q><rs type="work" ref="#tillich__HJP8PPH2">der religiöse Gehalt und die religionsgeschichtliche Bedeutung der griechischen und abendländischen Philosophie</rs></q>, woran ich zwei Semester 4-stündig lese,<note type="ea">Tillich las jeweils mit Besprechungsstunden im Wintersemester 1920/21 vierstündig:<q>Der religiöse Gehalt und die religionsgeschichtliche Bedeutung der griechischen und abendländischen Philosophie</q>. Im Sommersemester 1921 folgte: <q>Der religiöse Gehalt und die religionsgeschichtliche Bedeutung der abendländischen Philosophie seit der Renaissance</q>; s. dazu <rs type="work" ref="#tillich__A4XZ2V3B">Paul Tillich: Berliner Vorlesungen I (1919–1920) (2001), S. 297</rs>.</note> als Anwendung meines <q>kulturtheologischen</q> Programms. – Unser Unterschied zeigt sich gleich darin, daß Sie dabei von simpler Naturwissenschaft reden. Das ist es aber nicht; denn Sie richten Ihr Augenmerk nicht auf die Natur, sondern auf den naturbetrachtenden Geist, und auch das nicht in irgend einem empirischen Sinne, sondern im Sinne, darin die Grundstellung des Geistes zum Unbedingt-Wirklichen zu entdecken. Das aber ist eine gehaltsphilosophische oder <q>theologische</q> Analyse. Ich würde deswegen auch Ihrer Definition des Religiösen nicht zustimmen können (<q>die autonome Kultur (Form und Gehalt) haben als hätte man sie nicht.</q>) Gehalt ist für mich eine Fundamentalstellung des Bewußtseins zum Unbedingten, deren Ausdruck die Form ist. Damit ist aber Gehalt das Religiöse in aller Kultur; und die Form ist zwar nichtig im Verhältnis zum Gehalt, aber sie ist doch zugleich sein <q>Ausdruck</q> und damit Trägerin des Religiösen.<note type="ea">Vgl. in diesem Zusammenhang auch Tillichs Vortrag <rs type="work" ref="#tillich__5H4R8QWZ"><q>Religion und Kultur</q> (1999)</rs>.</note> Sie ist <q>heilig</q> um des Gehalts willen, der durch sie spricht; aber sie ist <q>profan</q> weil sie das Unbedingte einengt auf eine Form; und darum muß jede Form durchbrochen werden. Weil aber der Gehalt nicht anders existieren kann, als durch die Form, darum ist Kultur schaffen ein <q>heiliges</q> Werk und eine unbedingte, also religiöse Forderung. – Darum kann ich auch den Gegensatz von Individuum und Gemeinschaft in dieser Beziehung nicht anerkennen. Wir bleiben in der Tat immer der Kultur (z. B. der Gestaltung des Gemeinschaftslebens) verpflichtet, und wir können das Absolute gar nicht anders erleben als durch irgend eine Form hindurch, die zugleich als unbedingt gefordert und unzulänglich erlebt wird. Daß dabei immer Eros und Agape beteiligt sind, macht die konkrete Lebendigkeit dieses Heiligkeitserlebens aus. Demgegenüber empfinde ich Ihre Formulierung als einen abstrakten Individualismus, der eine gemeinschaftsfremde Weltüberlegenheit schafft und den Einzelnen in eine Höhe schraubt, die ihm nicht zukommt vor dem Absoluten. – Da liegen auch die tiefsten Wurzeln meiner <q>sozialistischen</q> Sozialethik. Für mich offenbart sich Gott nicht nur und nicht primär durch das geformte Individuum, sondern durch die Schicksal-tragende allgemein geformte Masse, dem Mutterboden aller Mystik. – Dennoch fühle auch ich die Einheit mit Ihnen und freue mich dessen; denn ich stehe noch einsam genug hier in Deutschland. Ich hoffe, daß ich diese Gedanken bald einmal besser werde sagen können, als in dem Vortrag. Aber ich weiß auch, daß so etwas viel Zeit braucht. Und es ist mir unmöglich, mich durch Berufungsrücksichten zu voreiliger Produktion treiben zu lassen.<note type="ea">Vgl. die Aufnahme dieses Satzes in: <rs type="work" ref="#tillich__RJAGHBWG">Fritz Medicus: Paul Tillich (1929)</rs>; vgl. dazu <rs type="work" ref="#tillich__M37I7HMN">Friedrich Wilhelm Graf, Alf Christophersen: Neukantianismus (2004)</rs>, Abschnitt III.</note> – Ich danke Ihnen noch einmal für Ihr gütiges Gedenken und hoffe, daß Sie es mir wahren werden.</p>
-<closer><salute>Ihr dankbarer Schüler</salute><signed><rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs></signed></closer>
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Fritz Medicus <lb/>vom 8. Dezember 1920</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>Schweiz</country>
+                        <settlement ref="#tillich_place_id__480">Zürich</settlement>
+                        <institution>ETH-Bibliothek Zürich</institution>
+                        <repository>ETH-Bibliothek Zürich</repository>
+                        <collection/>
+                        <idno>Hs 1377:935</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
+                    <date when="1920-12-08">08.12.1920</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1291">Fritz Medicus</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <pb n="1"/>
+            <div type="writingSession">
+                <opener><dateline><rs type="place" ref="#tillich_place_id__38"
+                        >Berlin-Friedenau</rs>, Taunusstr. 1.<lb/><date when="1920-12-08">d. 8. Dez.
+                            1920.</date><lb/><date when="1921-01-08">d. 8. Jan.
+                        1921</date></dateline><salute>Hochverehrter, lieber <rs type="person"
+                            ref="#tillich_person_id__1291">Herr Professor</rs>!</salute></opener>
+                <p>Die Ankunft Ihres Briefes<note type="ea">Die Korrespondenz liegt nicht
+                        vor.</note> und Ihrer Sendungen war mir eine große Freude! Inzwischen war
+                    auch mein <rs type="person" ref="#tillich_person_id__1763">Schwager</rs> hier
+                    und hat mir von dem schönen Abend mit Ihnen erzählt.<note type="ea">Vgl. <rs
+                            type="letter" ref="L00696">Brief von Alfred Fritz an Paul Tillich vom
+                            10. November 1920</rs>.</note> – So weit kam ich, dann wurde ich krank,
+                    und dann fuhr ich nach <rs type="place" ref="#tillich_place_id__74">Bremen</rs>,
+                    und nun ist gerade ein Monat vergangen, den ich Sie zu verzeihen bitte. – Haben
+                    Sie herzlichsten Dank für den Brief mit seinen kritischen Bemerkungen, für die
+                    Übersendung der beiden Aufsätze<note type="ea"><rs type="person"
+                            ref="#tillich_person_id__1291">Medicus</rs> sendete <rs type="person"
+                            ref="#tillich_person_id__1928">Tillich</rs> seinen Aufsatz <q><rs
+                                type="work" ref="#tillich__395CR6I6">Naturforschung und
+                                Philosophie</rs></q> zu. Er ging auf einen Vortrag zurück, den <rs
+                            type="person" ref="#tillich_person_id__1291">Medicus</rs> anlässlich der
+                        Hauptversammlung der Naturforschenden Gesellschaft in <rs type="place"
+                            ref="#tillich_place_id__480">Zürich</rs> gehalten hatte (zur
+                        Mitgliedschaft <rs type="person" ref="#tillich_person_id__1291"
+                        >Medicus</rs>&apos; in dieser Gesellschaft s. <rs type="person"
+                            ref="#tillich_person_id__4547">Friedrich Wilhelm Graf</rs>, <rs
+                            type="person" ref="#tillich_person_id__4548">Alf Christophersen</rs>:
+                            <rs type="work" ref="#tillich__M37I7HMN">Neukantianismus</rs> (2004), S.
+                        68 Anm. 53). Darüber hinaus kommt als weiterer Aufsatz in Frage: <rs
+                            type="person" ref="#tillich_person_id__1291">Fritz Medicus</rs>: <rs
+                            type="work" ref="#tillich__3PAKTZQ3">J. G. Fichte als Anhänger und als
+                            Kritiker des Völkerbundgedankens</rs> (1920).</note> und auch – ich
+                    schreibe das wieder mit der Bitte um Verzeihung – für den Aufsatz über <rs
+                        type="work" ref="#tillich__EBJX4XNQ">die religiöse Mystik</rs>, den ich
+                    während der Ferien erhielt und dann den Dank versäumte! Er enthält ja so vieles,
+                    was meinem <rs type="work" ref="#tillich__DHQTCG8Z">Buch über Mystik und
+                        Schuldbewußtsein</rs> entspricht, daß es mir eine besondere Freude war!</p>
+                <p>Ihr <rs type="work" ref="#tillich__395CR6I6">Logos-Aufsatz</rs> war mir sehr
+                    wertvoll; denn ich fand in Ihren Ausführungen genau die gleiche Methode, wie ich
+                    sie jetzt im Kolleg verwende bei der Behandlung meines Themas: <q>der religiöse
+                        Gehalt und die religionsgeschichtliche Bedeutung der griechischen und
+                        abendländischen Philosophie</q>, woran ich zwei Semester 4-stündig
+                        lese,<note type="ea"><rs type="person" ref="#tillich_person_id__1928"
+                            >Tillich</rs> las jeweils mit Besprechungsstunden im Wintersemester
+                        1920/21 vierstündig:<q>Der religiöse Gehalt und die religionsgeschichtliche
+                            Bedeutung der griechischen Philosophie</q>. Im Sommersemester 1921
+                        folgte: <q>Der religiöse Gehalt und die religionsgeschichtliche Bedeutung
+                            der abendländischen Philosophie seit der Renaissance</q>; s. dazu <rs
+                            type="person" ref="#tillich_person_id__1928">Paul Tillich</rs>: <rs
+                            type="work" ref="#tillich__PDM3XRGS">Berliner Vorlesungen II
+                            (1920–1924)</rs> (2003).</note> als Anwendung meines
+                        <q>kulturtheologischen</q> Programms. – Unser Unterschied zeigt sich gleich
+                    darin, daß Sie dabei von simpler Naturwissenschaft reden. Das ist es aber nicht;
+                    denn Sie richten Ihr Augenmerk nicht auf die Natur, sondern auf den
+                    naturbetrachtenden Geist, und auch das nicht in irgend einem empirischen Sinne,
+                    sondern im Sinne, darin die Grundstellung des Geistes zum Unbedingt-Wirklichen
+                    zu entdecken. Das aber ist eine gehaltsphilosophische oder <q>theologische</q>
+                    Analyse. Ich würde deswegen auch Ihrer Definition des Religiösen nicht zustimmen
+                    können (<q>die autonome Kultur (Form und Gehalt) haben als hätte man sie
+                        nicht.</q>) Gehalt ist für mich eine Fundamentalstellung des Bewußtseins zum
+                    Unbedingten, deren Ausdruck die Form ist. Damit ist aber Gehalt das Religiöse in
+                    aller Kultur; und die Form ist zwar nichtig im Verhältnis zum Gehalt, aber sie
+                    ist doch zugleich sein <q>Ausdruck</q> und damit Trägerin des Religiösen.<note
+                        type="ea">Vgl. in diesem Zusammenhang auch <rs type="person"
+                            ref="#tillich_person_id__1928">Tillichs</rs> Vortrag <q><rs type="work"
+                                ref="#tillich__5H4R8QWZ">Religion und Kultur</rs></q> (1999).</note>
+                    Sie ist <q>heilig</q> um des Gehalts willen, der durch sie spricht; aber sie ist
+                        <q>profan</q> weil sie das Unbedingte einengt auf eine Form; und darum muß
+                    jede Form durchbrochen werden. Weil aber der Gehalt nicht anders existieren
+                    kann, als durch die Form, darum ist Kultur schaffen ein <q>heiliges</q> Werk und
+                    eine unbedingte, also religiöse Forderung. – Darum kann ich auch den Gegensatz
+                    von Individuum und Gemeinschaft in dieser Beziehung nicht anerkennen. Wir
+                    bleiben in der Tat immer der Kultur (z. B. der Gestaltung des
+                    Gemeinschaftslebens) verpflichtet, und wir können das Absolute gar nicht anders
+                    erleben als durch irgend eine Form hindurch, die zugleich als unbedingt
+                    gefordert und unzulänglich erlebt wird. Daß dabei immer Eros und Agape beteiligt
+                    sind, macht die konkrete Lebendigkeit dieses Heiligkeitserlebens aus.
+                    Demgegenüber empfinde ich Ihre Formulierung als einen abstrakten
+                    Individualismus, der eine gemeinschaftsfremde Weltüberlegenheit schafft und den
+                    Einzelnen in eine Höhe schraubt, die ihm nicht zukommt vor dem Absoluten. – Da
+                    liegen auch die tiefsten Wurzeln meiner <q>sozialistischen</q> Sozialethik. Für
+                    mich offenbart sich Gott nicht nur und nicht primär durch das geformte
+                    Individuum, sondern durch die Schicksal-tragende allgemein geformte Masse, dem
+                    Mutterboden aller Mystik. – Dennoch fühle auch ich die Einheit mit Ihnen und
+                    freue mich dessen; denn ich stehe noch einsam genug hier in <rs type="place"
+                        ref="#tillich_place_id__122">Deutschland</rs>. Ich hoffe, daß ich diese
+                    Gedanken bald einmal besser werde sagen können, als in dem Vortrag. Aber ich
+                    weiß auch, daß so etwas viel Zeit braucht. Und es ist mir unmöglich, mich durch
+                    Berufungsrücksichten zu voreiliger Produktion treiben zu lassen.<note type="ea"
+                        >Vgl. die Aufnahme dieses Satzes in: <rs type="person"
+                            ref="#tillich_person_id__1291">Fritz Medicus</rs>: <rs type="work"
+                            ref="#tillich__RJAGHBWG">Paul Tillich</rs> (1929); vgl. dazu <rs
+                            type="person" ref="#tillich_person_id__4547">Friedrich Wilhelm
+                        Graf</rs>, <rs type="person" ref="#tillich_person_id__4548">Alf
+                            Christophersen</rs>: <rs type="work" ref="#tillich__M37I7HMN"
+                            >Neukantianismus</rs> (2004), Abschnitt III.</note> – Ich danke Ihnen
+                    noch einmal für Ihr gütiges Gedenken und hoffe, daß Sie es mir wahren
+                    werden.</p>
+                <closer><salute>Ihr dankbarer Schüler</salute><signed><rs type="person"
+                            ref="#tillich_person_id__1928">P. Tillich</rs></signed></closer>
+            </div>
+        </body>
+    </text>
 </TEI>
