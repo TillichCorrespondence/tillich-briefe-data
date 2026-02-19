@@ -46,6 +46,25 @@
                     <physDesc>
                         <p>Brief, eigenhändig</p>
                     </physDesc>
+                    <additional>
+                        <listBibl>
+                            <biblStruct n="firstPrint" type="journal">
+                                <monogr>
+                                    <author>Friedrich Wilhelm Graf/Alf Christophersen</author>
+                                    <title>Die Korrespondenz zwischen Fritz Medicus und Paul Tillich</title>
+                                    <imprint>
+                                        <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                                        <date when="2004">2004</date>
+                                        <biblScope>126-147, hier: 129-131</biblScope>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>Zeitschrift für neuere Theologiegeschichte</title>
+                                    <biblScope>Bd. 11, H. 1</biblScope>
+                                </series>
+                            </biblStruct>
+                        </listBibl>
+                    </additional>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -75,6 +94,7 @@
         </profileDesc>
         <revisionDesc status="approved">
             <change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
+            <change who="GM" when="2026-02-18">Kollationierung</change>
         </revisionDesc>
     </teiHeader>
     <text type="letter">
@@ -88,8 +108,8 @@
                             ref="#tillich_person_id__1291">Herr Professor</rs>!</salute></opener>
                 <p>Die Ankunft Ihres Briefes<note type="ea">Die Korrespondenz liegt nicht
                         vor.</note> und Ihrer Sendungen war mir eine große Freude! Inzwischen war
-                    auch mein <rs type="person" ref="#tillich_person_id__1763">Schwager</rs> hier
-                    und hat mir von dem schönen Abend mit Ihnen erzählt.<note type="ea">Vgl. <rs
+                    auch mein <rs type="person" ref="#tillich_person_id__641">Schwager</rs> hier und
+                    hat mir von dem schönen Abend mit Ihnen erzählt.<note type="ea">Vgl. <rs
                             type="letter" ref="L00696">Brief von Alfred Fritz an Paul Tillich vom
                             10. November 1920</rs>.</note> – So weit kam ich, dann wurde ich krank,
                     und dann fuhr ich nach <rs type="place" ref="#tillich_place_id__74">Bremen</rs>,
@@ -128,10 +148,9 @@
                             Bedeutung der griechischen Philosophie</q>. Im Sommersemester 1921
                         folgte: <q>Der religiöse Gehalt und die religionsgeschichtliche Bedeutung
                             der abendländischen Philosophie seit der Renaissance</q>; s. dazu <rs
-                            type="person" ref="#tillich_person_id__1928">Paul Tillich</rs>: <rs
-                            type="work" ref="#tillich__PDM3XRGS">Berliner Vorlesungen II
+                            type="work" ref="#tillich__PDM3XRGS">Paul Tillich: Berliner Vorlesungen II
                             (1920–1924)</rs> (2003).</note> als Anwendung meines
-                        <q>kulturtheologischen</q> Programms. – Unser Unterschied zeigt sich gleich
+                    <rs type="work" ref="#tillich__QAB7TWW3"><q>kulturtheologischen</q> Programms</rs>. – Unser Unterschied zeigt sich gleich
                     darin, daß Sie dabei von simpler Naturwissenschaft reden. Das ist es aber nicht;
                     denn Sie richten Ihr Augenmerk nicht auf die Natur, sondern auf den
                     naturbetrachtenden Geist, und auch das nicht in irgend einem empirischen Sinne,
