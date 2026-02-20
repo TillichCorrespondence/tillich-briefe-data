@@ -1,962 +1,522 @@
-<TEI xml:id="L00561.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at" prev="https://tillich-briefe.acdh.oeaw.ac.at/L00560.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/L00562.xml">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>
-Brief von Paul Tillich an Emanuel Hirsch vom 20. Februar 1918
-</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">
-Edition der Korrespondenz von Paul Tillich 1887-1933
-</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>
-Institut für Systematische Theologie und Religionswissenschaft
-</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">
-Creative Commons Attribution 4.0 International (CC BY 4.0)
-</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__82">Cambdridge, MA</settlement>
-<institution>Harvard University</institution>
-<repository>Harvard Divinity School Library</repository>
-<collection>Tillich, Paul, 1886‒1965. Papers, 1894‒1974</collection>
-<idno>bMS 649/152(53)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-<additional>
-<listBibl>
-<biblStruct type="monograph" n="firstPrint">
-<monogr>
-<author>Emanuel Hirsch/Paul Tillich</author>
-<editor>Hans Walter (Hg.)</editor>
-<title>
-Emanuel Hirsch – Paul Tillich. Briefwechsel 1917–1918
-</title>
-<edition>Erste Auflage</edition>
-<imprint>
-<publisher>Verlag Die Spur</publisher>
-<pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
-<date when="1973">1973</date>
-<biblScope>21–27</biblScope>
-</imprint>
-</monogr>
-</biblStruct>
-<biblStruct type="monograph" n="secondPrint">
-<monogr>
-<author>Paul Tillich</author>
-<editor>Renate Albrecht/René Trautmann (Hg.)</editor>
-<title>
-Briefwechsel und Streitschriften. Theologische, philosophische und politische Stellungnahmen und Gespräche
-</title>
-<edition>Erste Auflage</edition>
-<imprint>
-<publisher>De Gruyter</publisher>
-<pubPlace ref="#tillich_place_id__143">
-Frankfurt a.M.
-</pubPlace>
-<date when="1983">1983</date>
-<biblScope>114-123</biblScope>
-</imprint>
-</monogr>
-<series>
-<title>
-Ergänzungs- und Nachlassbände zu den gesammelten Werken von Paul Tillich
-</title>
-<biblScope>VI</biblScope>
-</series>
-</biblStruct>
-</listBibl>
-</additional>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>
-online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.
-</p>
-</projectDesc>
-<editorialDecl>
-<p>
-Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/
-</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<date when="1918-02-20">20.02.1918</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__904">Emanuel Hirsch</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-<creation>
-<date type="sort" when="1918-02-20"/>
-</creation>
-</profileDesc>
-<revisionDesc status="approved">
-<change who="FS" when="2022-06-20">Initiale Auszeichnung des Transkripts</change>
-<change who="GM" when="2024-02-09">Endabnahme</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<div type="writingSession">
-<pb n="1"/>
-<opener>
-<dateline>
-D.
-<date when="1918-02-20">20. Feb. 1917</date>
-<note type="ea">
-<rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs>
-schreibt fälschlicherweise 1917, der Kontext der Hirsch-Briefwechsels macht deutlich, dass der Brief am 20. Februar 1918 verfasst wurde.
-</note>
-</dateline>
-<note type="ea">
-Die erklärenden Anmerkungen zu vorliegendem Brief wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.
-</note>
-<salute>
-Lieber
-<rs ref="#tillich_person_id__904" type="person">Emmanuel</rs>
-!
-</salute>
-</opener>
-<p>
-Verzeih, daß ich mit einem Kompliment beginne: Dein Brief
-<note type="ea">Die Korrespondenz liegt nicht vor.</note>
-ist das Tiefste, was seit
-<rs ref="#tillich_person_id__1705" type="person">Schellings</rs>
-<q>
-<sic>posiver</sic>
-Philosophie
-</q>
-ein Theologe geschrieben hat! Wie zwergenhaft erscheinen zwischen solchen Höhen die dazwischen liegenden Geschlechter der systematischen Theologen,
-<rs ref="#tillich_person_id__1954" type="person">Tröltsch</rs>
-nicht ausgenommen! Ich bin stolz, daß ich die Ehre habe, als erster gegen diese Höhe anrennen zu dürfen, ganz gleich, ob es zum Sieg oder zur Niederlage oder zu einem Dritten führt! Ich fühle mich berechtigt, gegen Dich zu kämpfen, denn nicht umsonst stand mein bisheriges wissenschaftliches Leben unter der Führung
-<rs ref="#tillich_person_id__1705" type="person">Schellings</rs>
-.
-<note type="ea">
-<rs ref="#tillich_person_id__1928" type="person">Tillich</rs>
-hat sowohl seine
-<rs ref="#tillich__DHQTCG8Z" type="work">
-theologische Dissertation
-</rs>
-als auch seine
-<rs ref="#tillich__9CSAXH7U" type="work">philosophische Dissertation</rs>
-zu
-<rs ref="#tillich_person_id__1705" type="person">Schelling</rs>
-geschrieben.
-</note>
-Ich denke noch daran, wie ich, aus der Frühlingsstimmung und dem Frühlingszauber der Naturphilosophie
-<add place="superlinear">kommend,</add>
-von der düsteren Kraft der
-<q>positiven Philosophie</q>
-gepackt wurde, und wie mich der große Satz, der diese ganze Philosophie beherrscht:
-<q>
-<hi rend="aq">deitas est dominatio dei</hi>
-</q>
-<note type="ea">
-Vgl.
-<rs ref="#tillich__L8VWSCTP" n="261" type="work">
-Schelling, Sämtliche Werke, Erste Abteilung, Band X, Stuttgart/Augsburg 1861, S. 261
-</rs>
-.
-</note>
-<q>Gott ist der Herr</q>
-tief religiös erschütterte. Und dann kam die
-<hi rend="aq">ratio</hi>
-, und erst deutete ich
-<rs ref="#tillich_person_id__1705" type="person">Schelling</rs>
-II
-<pb n="2"/>
-aus
-<rs ref="#tillich_person_id__1705" type="person">Schelling</rs>
-I
-<note type="ea">
-<rs ref="#tillich_person_id__1928" type="person">Tillich</rs>
-unterscheidet in
-<rs ref="#tillich_person_id__1705" type="person">Schellings</rs>
-philosophischem Werk zwei Perioden. Die
-<rs ref="#tillich__NAK7SAKI" type="work">Freiheitsschrift</rs>
-bildet dabei die Zäsur.
-</note>
-, dann verließ ich ihn, ging zu
-<rs ref="#tillich_person_id__839" type="person">Hegel</rs>
-– und schließlich zu
-<rs ref="#tillich_person_id__1394" type="person">Nietzsche</rs>
-. Aus Deinem Brief
-<note type="ea">Die Korrespondenz liegt nicht vor.</note>
-wehte der Hauch jener Tage mir entgegen, darum verstehe ich ihn so tief! – Es war gut so; erst mußte das Prinzip des ersten
-<rs ref="#tillich_person_id__1705" type="person">Schelling</rs>
-sich ganz in mi
-<del rend="s">ch</del>
-r auswirken, es mußte die Formen der modernen Philosophie annehmen und sich zu dem Prinzip der autonomen Lebens-Immanenz verdichten, wie es in der ganzen modernen
-<sic>Litteratur</sic>
-und Dichtung widerklingt. – – –
-</p>
-<p>
-Ich lebe in diesem Prinzip und suche mich immer tiefer hineinzuleben in seinen drei wichtigsten Momenten: Autonomie statt Beugung; Leben statt Selbstaufgabe, Immanenz statt Transscendenz! Und nun kommst Du und rufst mir zu: Vergiß nicht
-<rs ref="#tillich_person_id__1705" type="person">Schelling</rs>
-II! Habe ich ihn vergessen? Niemals ganz, sonst hätte ich schon vor Jahren, d. h. zur Zeit meiner Ausarbeitung der
-<rs ref="#tillich__L4IYRQJ3" type="work">
-<q>Dogmatik</q>
-(1914)
-</rs>
-da gestanden, wo ich jetzt stehe, und würde nicht auch heute noch dem Mißtrauen von
-<rs ref="#tillich_person_id__2020" type="person">Wegener</rs>
-und
-<rs ref="#tillich_person_id__1887" type="person">v. Sydow</rs>
-<pb n="3"/>
-gegenüberstehen, oder vielmehr etwas ihnen Fremdes in mir fühlen. Als ich in diesem Januar mit
-<rs ref="#tillich_person_id__2020" type="person">Wegener</rs>
-bei
-<q>Trarbach</q>
-<note type="ea">Bremer Café.</note>
-eine große Debatte über meine religionsphilosophische Stellung hatte, versuchte ich, außer dem
-<q>relativen Transscendieren</q>
-das ich in jedem Geistesleben sehe, noch ein
-<q>absolutes Transscendieren</q>
-zu statuieren, das in einer negativen Stellung zur gesamten Kultur
-<del rend="s">begründet ist</del>
-<add place="superlinear">gipfelt</add>
-, und seine Begründung allein in dem
-<q>Über-Geistesbewußtsein</q>
-der Persönlichkeit hat. Auch wirst Du Dich an die eschatologische Stimmung der ersten Kriegsjahre erinnern, wo ich Dir schrieb:
-<q>Ich habe die Persönlichkeit gefunden</q>
-und Du mir antwortetest:
-<q>
-Dann habe ich Dir nichts mehr zu sagen.
-</q>
-Du siehst, in mir selbst ist etwas, das dem rationalen Prinzip zuwider ist, dagegen anrennt und doch Schritt für Schritt weichen mußte. Und gleichsam bist Du mir die Objektivation dieses Prinzips, das auch bei Dir besser aufgehoben ist, zumal in
-<pb n="4"/>
-der gegenwärtigen Lage. Wenn ich also jetzt gegen Dich kämpfe, so ist es die Objektivierung dieses Kampfes in mir, und was ich gegen Dich sage, sind die machtvollen Waffen, mit denen das rationale Prinzip sich in mir Sieg auf Sieg errungen hat! – – – –
-</p>
-<p>
-Es gibt eine flachköpfige Rede, daß die
-<q>
-menschliche Vernunft aus architektonisch-ästhetischen Gründen monistisch
-</q>
-sei. Sie ist es aber so notwendig, daß ihre Existenz daran hängt. Angenommen, sie bejahte die denkbar größte Dualität, so würde doch sie es immer sein, die bejaht, und da sie nicht über ihren Schatten springen kann, nach ihres Wesens Gesetz bejaht. Das
-<q>Gedachtsein</q>
-ist das
-<q>monistische</q>
-Band, das selbst noch größere Gegensätze als die von Himmel und Erde verbinden würde. Was das im einzelnen heißt, habe ich in meiner
-<rs ref="#tillich__SUDM8XG3" type="work">Supranaturalismus-Arbeit</rs>
-durchgeführt. Ich habe dort versucht, eine
-<q>Dialektik des Supra</q>
-zu geben. (Forts. folgt)
-<rs ref="#tillich_person_id__1928" type="person">P.</rs>
-<pb n="5"/>
-</p>
-<p>
-Der Gedankengang war folgender: Das Supra ist erstens eine Negation, ein Non-A; ist nun A die Totalität alles Immanenten, so wird das
-<q>Supra</q>
-inhaltslos; einen Inhalt gewinnt es nur durch Anleihe des von ihm negierten A; dadurch wird es nun entweder ein verblaßtes Abbild von A (die transscendente Welt), oder es wird selbst ein Teil von A durch Eingehen in die Gesetze der Immanenz (Wunder – Inspiration, Offenbarung) oder es wird eine Beurteilungsform von A (Gott = die Welt als Unbedingtes betrachtet). – – – Kein theologischer Gedanke hat sich mir so gleichmäßig seitdem bestätigt, wie dieser. Obgleich jene Arbeit formell so schlecht gelungen ist, daß ich sie nicht veröffentlicht habe, ist es die einzige, deren Positionen ich unverändert anerkenne. Fast ungewollt haben sie sich mir überall aufgedrängt, und die ganze
-<rs type="work" ref="#tillich__A592FW36">Kritik</rs>
-von
-<rs ref="#tillich_person_id__586" type="person">Feuerbach</rs>
-hat mir nicht nur nichts Neues gegeben, sondern mich von der größeren Schärfe und Systematik meiner
-<pb n="6"/>
-Kritik überzeugt. – – – Du wirst natürlich die Bezeichnung des Supranaturalismus im üblichen Sinne mit Recht ablehnen. Aber es ist etwas, worin Ihr übereinstimmt, und was unter meine Kritik fällt: Das
-<q>zweite</q>
-Erlebnis; das Erlebnis des
-<q>Fremden</q>
-; die Kritik hat doppelseitig zu sein, erstens gegen das
-<q>
-<hi rend="u">zweite</hi>
-</q>
-Erlebnis, zweitens gegen das Erlebnis des
-<q>
-<hi rend="u">Fremden</hi>
-</q>
-; das erste ist mehr subjektiv, das zweite mehr objektiv.
-</p>
-<p>
-Zwei Erlebnisse können sich so verhalten, daß sie in einer Reihe stehen, die prinzipiell noch mehrere zuläßt, oder sie sind einzigartig, und stehen unter einem Gesichtspunkt von dem aus verständlich wird, daß sie notwendig, und zugleich einzig möglich sind. Die erste Reihe ist rein empirisch, die zweite transscendental-deduktiv; aber auch die erste Reihe hat einen Gesichtspunkt, der es notwendig macht, aus den verschiedenen Erlebnissen eine
-<hi rend="u">Reihe</hi>
-zu machen. Fiele auch diese Möglichkeit
-<pb n="7"/>
-hin, so wäre die Einheit des Bewußtseins gesprengt, zwei reine Heterogenitäten hätten es zerstört; dann bliebe aber nicht einmal die Möglichkeit von Erlebnissen zu reden, da diese Rede die Einheit des erlebenden Bewußtseins voraussetzt. Unter allen Umständen muß also ein Punkt dasein, von dem aus beide Erlebnisse zu betrachten sind. Nun ist laut Deiner Definition das erste das der Totalität des Geisteslebens, jedes andere stände dazu in dem Verhältnis des
-<q>Supra</q>
-und verfiele der Dialektik des
-<q>Supra</q>
-. In doppelter Beziehung kann ich das in Deinen Worten zeigen. Du sagst, der Geist sei nur die Form, die das Gotteserlebnis aufnehme, der Inhalt stamme nicht von ihm. Diese Trennung von Form und Inhalt aufgehoben zu haben, ist nun aber das Verdienst der modernen philosophischen Entwicklung, insonderheit
-<rs ref="#tillich_person_id__1020" type="person">Kants</rs>
-. In den Geist kann nichts hinein, was nicht aus ihm kommt; denn er ist niemals leere Form, sondern immer lebendige Aktualität: Er ist in
-<pb n="8"/>
-sich unendlich und zieht alles in sich hinein. Deutliche Analogie zu Deiner These (die natürlich sehr viel höher steht), ist der Inspirationsgedanke, der faktisch den Geist entweder zerbricht oder
-<unclear reason="illegible">von</unclear>
-ihm überwunden wird. Die Inspiration geschieht in Begriffen; sind diese nicht leere Wortbildungen, so sind sie sinnvolle Zusammenhänge, die stetig fortleiten zu dem Gesamtzusammenhang des Begreifens – – – . Aber Dein Gedanke zerbricht nicht nur die intellektuelle Seite des Geistes, sondern – ausdrücklich – auch die sittliche Autonomie. Und doch könnte dieses
-<q>Beugen</q>
-, von dem Du sprichst, nie sittlich sein, wenn es sich dem Gewissen nicht bezeugte, d. h. wenn es nicht selbst die Form der Autonomie annähme. Dann ist also diese doch die letzte Instanz und der Geist, vor dem
-<q>Fremden</q>
-sich beugend, bleibt doch in sich. – Hier ist die Analogie das Wunder, das äußere und innere: das Gesetz der Natur oder der Seele wird aufgehoben, um einem anderen Platz zu machen, was dann doch wieder Natur und Seele ist. (Forts. folgt)
-<pb n="9"/>
-</p>
-<p>
-Das Gleiche gilt nun für die objektive Seite: Gott ist das
-<q>Fremde</q>
-; das dem Geiste Fremde, das An-Sich; aber von diesem Fremden macht der Geist Aussagen; er nennt es Gott; und er versteht etwas unter diesem Wort, es ist ein Begriff im System der Begriffe: Bei Dir der Begriff des
-<q>anderen Absoluten</q>
-<supplied>.</supplied>
-Du sagst
-<add place="superlinear">vielleicht</add>
-, das ist nicht Begriff sondern Erlebnis. Ich kann mir dabei nichts denken; denn jedes
-<hi rend="u">Er</hi>
--lebnis hat doch einen Charakter, einen Unterschied, also ein Verhältnis zum Begriff; und Du präcisierst es ja auch ganz scharf, ja gerade sein Unterschiedensein macht sein Wesen aus. Soll nun dieser Begriff als
-<hi rend="aq">caput mortuum</hi>
-im Strom der Begriffe, des Geisteslebens herumschwimmen? Du verlangst es nicht, sondern konstituierst das Verhältnis von absolut und relativ zwischen Gott und dem Geist; damit aber bist Du mitten im Geist, er hat, wie alles, auch das ihm wesensgemäß Fremde in sich eingesogen; dagegen gibt es kein Mittel! Ja, das Verhältnis wird noch enger.
-<pb n="10"/>
-</p>
-<p>
-Du machst gleichsam Gott zu dem Subjekt, zu dem personalen Träger des absoluten Geistes (ähnlich
-<rs ref="#tillich_person_id__1705" type="person">Schelling</rs>
-: Gott hat den Geist als 2.
-<hi rend="sup">te</hi>
-Potenz in sich, seine erste Potenz aber ist sein reines Sein). Damit hast Du
-<hi rend="aq">de facto</hi>
-eine Philosophie des Geistes gegeben. Die dritte Potenz wäre für Dich der sittliche Wille; nun ist auch nach Deiner Meinung der sittliche Wille dem Geist evident, d. h. Geisteswert; aber nicht erfüllbar; was heißt das?
-<q>Der Geist</q>
-ist eine Abstraktion, also ethisch indifferent. Sittliches Handeln gibt es nur in Personen. Die Person hat aber
-<q>das Fremde</q>
-als Existentialprinzip in sich selbst. Die Person hat nicht nur Freiheit, sondern sie ist definiert durch Freiheit. Diese letzten Erwägungen führen nun zu der Darstellung meines positiven Standpunktes: Ich erkenne Dein doppeltes Erlebnis an, aber als Ausdruck der Polarität im Geiste selbst.
-</p>
-<p>
-Doch ehe ich darauf eingehe, noch einige kritische Bemerkungen:
-<pb n="11"/>
-</p>
-<p>
-1. Du sagst, der Geist erkenne sich in seinem zweiten Erlebnis als relativ gegen das Absolute, Fremde; nun hast Du schon eine Relativität statuiert, nämlich die zwischen der absoluten Evidenz und dem individuellen Geist. Sollte das nicht darin seinen Grund haben, daß Du eine realistische Begriffsmythologie mit dem Geist-Begriff treibst. Ist es nicht auch im zweiten Falle der individuelle Geist, der seine Relativität erkennt und dem ebendadurch die Absolutheit des Geistes zu etwas Fremden wird? Dann wäre das erste und zweite Erlebnis identisch. Jedenfalls wüßte ich nicht, wie sich in einem Individuum
-<q>der Geist</q>
-gegenüber einem Dritten als relativ erleben soll. Was ist überhaupt
-<hi rend="u">der</hi>
-Geist? Welch schwieriger Begriff, und von diesem werden Erlebnisse ausgesagt, die in Wahrheit das Individuum hat! – –
-</p>
-<p>
-2. Du beschreibst Dein zweites Erlebnis als vor aller begrifflichen Deutung stehend. Das ist einfach ein Irrtum. Ich habe in den
-<pb n="12"/>
-letzten Wochen das Verhältnis von Unmittelbarkeit und Evidenz zu analysieren versucht. Da ist mir zunächst klar geworden, daß eine Beschreibung niemals nur unmittelbar ist. Sie erfolgt in Begriffen, und jeder Begriff ist eine
-<q>Zurechtmachung</q>
-und führt über die Unmittelbarkeit hinaus. Ich gehe noch weiter; schon das Erleben selbst, vom sinnlichen Eindruck anfangend, ist nicht mehr unmittelbar, sondern hat, insofern es in das Licht des Bewußtseins tritt, seiner selbst Deutung in sich.
-<hi rend="u">Wir erleben Sinn- und Wertbelastetes</hi>
-. Sinn und Wert sind aber Schöpfungen des Geistes. So ist auch Dein zweites Erlebnis Deutung und Schöpfung – – –
-</p>
-<p>
-Das erste aber ist überhaupt kein besonderes Erlebnis (wenigstens nicht, insoweit es evident ist) sondern das jedem Erlebnis immanente Identitätsbewußtsein. – – Nimm nun von diesen Voraussetzungen einen Satz wie den:
-<q>
-Daß ich Gottes inne werde, ist Gottes Werk
-</q>
-–
-<pb n="13"/>
-Hier sind vorausgesetzt die Kategorien des Seins, der Kausalität, es ist vorausgesetzt eine bestimmte Erkenntnistheorie: das An-Sich macht sich bemerkbar durch Tätigkeit im Ich – – – und dies soll noch unmittelbare Evidenz sein? – – –
-</p>
-<p>
-3. Du sagst: Die Immanenz ist
-<q>nur</q>
-formal. Siehst Du die Welt von Voraussetzungen und Problemen, die in diesem
-<q>nur</q>
-stecken? –
-</p>
-<p>
-4.
-<q>
-Nur, wo der Geist in sich selber gebrochen wird, kommt es in ihm zur Liebe
-</q>
-denn das Gute ist derjenige
-<q>Geisteswert</q>
-,
-<q>der dem Geiste wahrhaft fremd ist</q>
-– – – so sagst Du! Siehst Du die Paradoxie des letzten Satzes? Wie kannst Du sie rechtfertigen? Nur dadurch, daß Du den Geist intellektualisierst zur
-<foreign xml:lang="grc">νόησις νοήσεως</foreign>
-und das Handeln von ihm abtrennst. Aber mit Unrecht, von beiden Seiten her. Ich erinnere an die
-<rs ref="#tillich_person_id__2135" type="person">Rickertsche</rs>
-Urteilslehre,
-<note type="ea">
-Vgl.
-<rs type="work" ref="#tillich__8TCXNFE2">
-Rickert, Gegenstand der Erkenntnis, Kap 3
-</rs>
-.
-</note>
-nach der jedes richtige Urteil der Vollzug eines Wertes ist, andererseits an intuitionistische Philosophien, bei
-<pb n="14"/>
-denen alles Intellektuelle, nicht nur das Religiös-Sittliche intuitiv begründet ist.
-</p>
-<p>
-Doch nun zur positiven Seite: Ich ignoriere das doppelte Erlebnis nicht, aber ich deute es anders. Ich sehe in ihm den Ausdruck der Polarität im Geistesleben, die ich durch die beiden Begriffe: Wertbewußtsein und Unendlichkeitsbewußtsein bezeichnen möchte. Das eine Quelle der sittlichen Religion, das andere Quelle der Naturreligion. Beide ergeben eine grundverschiedene Transscendenz, das eine die absolute Transscendenz der Persönlichkeit, das andere die relative Transscendenz des Mythos. Das Unendlichkeitsbewußtsein ist dem Geist immanent im Verhältnis zu allem Gegenständlichen, nichts ist seine Grenze, über alles geht er hinaus, auch über alle Oberfläche und in immer tiefere Tiefen der Dinge. Unter dem Bilde der quantitativen und qualitativen Unendlichkeit können wir uns dieses Wesen des
-<pb n="15"/>
-Geistes denken. Weil der Geist das Unendlichkeitsbewußtsein hat, darum
-<q>transscendiert</q>
-er notwendig; er setzt Transscendentes als gegenständlich, denn die Reflexion auf seine eigne Transscendenz bleibt auch für den abstraktesten Philosophen, eine Abstraktion, die sobald sie aktuell wird, sich in mythisches Gewand kleidet. Er setzt als etwas Endliches als transscendent; es entsteht so die faktische Immanenz jedes konkreten Gottesgedankens, die verbunden ist mit dem Ideal, ihn transscendent zu denken – welches unmöglich ist. Daraus entsteht dann die Dialektik jedes Gottesgedankens, die in
-<rs ref="#tillich_person_id__1020" type="person">Kants</rs>
-berühmten Satz gipfelt, in dem er das Absolute zu sich selbst sprechen läßt:
-<q>Und woher bin ich?</q>
-<note type="ea">
-Vgl.
-<rs ref="#tillich__MJJW8KDJ" type="work">
-Kant, Kritik der reinen Vernunft, B641 (A613)
-</rs>
-.
-</note>
-</p>
-<p>
-Innerhalb dieser Dialektik steht nun die Kultur. Die Wissenschaft, welche die quantitative Unendlichkeit betrachtet und Begriffe bildet, die Kunst, welche die qualitative Unendlichkeit betrachtet und Anschauungen bildet, das
-<pb n="16"/>
-Gemeinschaftsleben, das die Unendlichkeit der Freiheit zum Ausdruck bringt. Für alle drei gilt die Dialektik des Negativen und Positiven, die im Unendlichkeitsbewußtsein liegt; ihre positive Einheit ist die
-<q>Schöpfung</q>
-, ihre negative der
-<q>Zerfall</q>
-. In jeder Kulturschöpfung liegen die negativen Elemente und in jeder Zerfallserscheinung die positiven. In diesem Geburt und Grab; Blüte und Dekadence; Optimismus und Pessimismus umfassenden Kreislauf liegt aller Reichtum und aller Gehalt des Lebens beschlossen. – Deine Auffassung der Kunst scheint mir recht exoterisch zu sein! Ob man mit den Idealisten das Schöne als das Durchscheinen der Idee in der Erscheinung, oder mit den Impressionisten als die dem Begriff gleichwertige Bemächtigungsform der Anschauung, oder mit den Expressionisten als den Ausdruck der bewegten Innerlichkeit in Linie, Farbe, Ton und Wort auffaßt, immer ist die Kunst offenbarerisch und hat als solche den gleichen Ernst wie die Wissenschaft, ist Schöpfung.
-<pb n="17"/>
-Die Analogie mit dem Spiel beruht auf einer der Kunst äußerlichen Ähnlichkeit, daß sie formal Schein ist. Und doch sehen wir durch diesen Schein mehr Wirklichkeit, als durch die Wahrnehmung des ganzen Lebens. Die gesamte Ästhetik hat sich von der Analogie mit dem Spiel deshalb abgewendet. –
-</p>
-<p>
-Das Transscendieren enthält ein positives und ein negatives Urteil, doch so, daß das negative überwiegt, wofür der Tod der konkrete Ausdruck ist. Dies ist die Leere der Kultur, die Leere des reinen Unendlichkeitsbewußtsein, die Leere der reinen Naturreligion. Aber das
-<hi rend="u">ist</hi>
-ja gar nicht, das ist nur eine Idee, ein Pol, der nie ist ohne den anderen Pol, das Wertbewußtsein.
-</p>
-<p>
-Damit tritt etwas völlig Neues, etwas wahrhaft Transscendentes in die Sphäre des Unendlichkeitsbewußtseins, durchdringt diese Sphäre, und gibt dem Ja das Übergewicht, löst sich von ihr los und behauptet sich gegen jede ihrer Negationen, und hat die Kraft des reinen In-sich-Ruhens! –
-<pb n="18"/>
-Nun sind Wertbewußtsein, wie Unendlichkeitsbewußtsein zugleich als Genitivus
-<hi rend="aq">objectivus</hi>
-und
-<hi rend="aq">subjectivus</hi>
-gemeint. Das Unendliche wie der Wert sind als Gegenstände und als Eigenschaften des Subjektes gewußt: In seiner Unendlichkeit ist sich der Geist des Unendlichen bewußt, und als absolut wertvoll ist sich die Persönlichkeit des absoluten Wertes bewußt. Das läßt sich beidemale nicht trennen, ist reine Identität. Zugleich aber ist in beiden Fällen der individuelle Geist sich seiner Endlichkeit und Unwertigkeit bewußt. Das ergibt die Grundparadoxie, deren Lösung die Rechtfertigung ist.
-</p>
-<p>
-Durch diese Paradoxie entsteht nun eine neue Objektivierung im Wertbewußtsein; es tritt das Gefühl der absoluten Verantwortung auf, und dieses kann nicht die Form der Selbstverantwortlichkeit annehmen, denn dann wäre es entweder Willkür oder es zwänge zu einer Spaltung im Ich, wobei die eine Seite ins absolute Wertbewußtsein er
-<pb n="19"/>
-hoben und daselbst objektiviert würde. Diese aus dem Wertbewußtsein stammende Objektivierung tritt nun zusammen mit der aus dem Unendlichkeitsbewußtsein und gibt dieser die
-<q>Fremdheit</q>
-und ungeheure Wucht der religiösen Objektivierung. So verbindet sich im Gottesgedanken die ontologische Objektivierung des Unendlichkeitsbewußtseins mit der axiologischen des Wertbewußtseins. Die Trägerin der Transscendenz ist die Geltung der Werte, nur ihre Geltung, ihr
-<q>daß</q>
-, nicht ihr
-<q>was</q>
-denn das System der Werte selbst ist intuitives Geistesprodukt, ist
-<q>Schöpfung</q>
-und steht unter der Rechtfertigung, auch die
-<q>Liebe</q>
-.
-<rs ref="#tillich_person_id__1394" type="person">Nietzsches</rs>
-Kampf gegen die
-<q>Liebe</q>
-geht aus einer ungeheuren Kraft des Wertbewußtseins hervor; sein Wert heißt
-<q>Wahrhaftigkeit</q>
-. Die Entscheidung ist für unsere Frage gleichgültig; Dein Einwand, daß der Geist von sich zur Liebe unfähig ist, könnte genau so von der Wahrhaftigkeit gelten. In beiden Fällen ist es nicht der Geist, der un
-<pb facs="20"/>
-fähig ist, sondern die Person, die
-<q>schwach</q>
-ist.
-</p>
-<p>
-Wie wird sich nun der Gottesgedanke inhaltlich gestalten? Er ist bestimmt durch die beiden Pole des Geistes, die Unendlichkeit und den Wert. Die Anschauung des Unendlichen als ein Endliches gipfelt in der Idee des absoluten Geistes, die Anschauung des Wertes als aktuell in der Idee der absoluten Persönlichkeit. Darum ist in dem immanentesten Gottesbegriff, etwa
-<q>Leben</q>
-eine Personalisierung:
-<q>Hymnen an das Leben</q>
-, in dem es als
-<q>Du</q>
-empfunden wird. Das
-<q>Du</q>
-in
-<rs ref="#tillich_person_id__1611" type="person">Rilkes</rs>
-Gedichten; und umgekehrt kommt selbst
-<rs ref="#tillich_person_id__1614" type="person">Ritschl</rs>
-nicht über eine Ontologisierung und damit logisch Immanentisierung des Gottesgedankens hinaus: Dies Schweben zwischen der Transscendenz des Wertbewußtseins mit seiner Schroffheit, Weltabgewendetheit, Überlegenheit des personalen Bewußtsein über Kultur, Dekadence und Tod, auf der einen Seite, und der Hingabe an den Reichtum, die Anschauung Gottes als Lebensimmanenz ... macht den Inhalt unserer Religiosität aus.
-<pb n="21"/>
-Gott ist die Liebe, d. h. Gott läßt sich finden in der Lebensimmanenz, in der Unendlichkeit des Geistes, und Gott ist der Zorn, d. h. Gott läßt sich finden in der Negativität des Lebens, in Verfall und Tod; und Gott ist der Heilige, d. h. er fordert und gibt zugleich das absolute Wertbewußtsein; und beides vereinigt, die letzte Vertiefung des Unendlichkeits- durch das Wertbewußtsein ist vielleicht am besten ausgedrückt in dem Wort Gott ist
-<hi rend="u">der</hi>
-Ewige und
-<hi rend="u">das</hi>
-Ewige. – Nur so läßt sich das Problem des
-<q>Supra</q>
-lösen; sobald dagegen der Wert als ontologisch realiter transscendent gedacht wird, wie bei Dir, entsteht die unabwendbare Dialektik des
-<q>Supra</q>
-.
-</p>
-<p>
-Wo bekommst Du eigentlich die ethischen Normen her? Durch Intuition! Einverstanden! Subjekt und Objekt der Intuition ist aber der Geist; woher bekommt nun der Geist die Norm des Sich-Beugens vor einem Fremden? Weil er ohne dieses Fremde
-<q>nichtig</q>
-ist, d. h. weil dieses Fremde zu ihm gehört, nicht etwas Fremdes ist; und weiter: In welchem Sinne sich beugen? Vor
-<pb n="22"/>
-Normen, die aus dem Fremden stammen? Aber alle Normen stammen aus dem Geist, sonst könnte er sie nicht
-<q>anschauen</q>
-; nur wo Subjekt und Objekt zur Identität kommen, ist Evidenz! Das Fremde bringt also gar nichts Neues; es ist nur der Ausdruck für die
-<q>Existenz</q>
-des Geistes; denn nur weil der Geist
-<q>existiert</q>
-gibt es Tod, Dekadence und absolutes Wertbewußtsein. Gott als das Fremde ist nichts anderes als der Ausdruck für die Urparadoxie der Existenz des Geistes – – – worüber noch vieles zu sagen wäre, z. B. daß Existenz auch eine Kategorie des Geistes ist u. s. f.
-</p>
-<p>
-Doch nun sind wir weit von unserm Ausgangspunkte abgekommen, dem Problem des Zweiflers. Der Zweifler befindet sich auf dem Wege von einer Objektivation zur andern, denn einen Atheisten gibt es nicht, es ist nur ein Grenzbegriff. Eine genaue Analyse aller Begriffe, wie Absolutes, Leben, Natur, Entwicklung, Kultur, Kosmos, Totalität etc.
-<pb n="23"/>
-zeigen deutlich, daß Wert- und Unendlichkeitsbewußtsein in ihnen objektiviert sind. Auch diese Begriffe sind Dogmen und wer an ihnen zweifelt, glaubt doch noch an die Wahrheit, die ihn zweifeln läßt und hat darin seine Objektivation. So kann man sagen: An Gott zu zweifeln ist unmöglich und an Gott nicht zu zweifeln ist unmöglich. Das erste bezieht sich auf den Gehalt, das zweite auf die Objektivationsform. Die Frömmigkeit wächst intensiv mit der Kraft des Wertbewußtseins, extensiv mit dem Reichtum und der Tiefe des Weltgefühls. Die Gefahr vergangener Zeiten war der Verlust des zweiten, unsere Gefahr ist der Verlust des ersten. Das erste treibt zu immer schärferer Personalisierung Gottes, bis zur Christologie, das zweite zu immer
-<sic>stärker</sic>
-Immanenz bis zu
-<rs ref="#tillich_person_id__1394" type="person">Nietzsche</rs>
-–
-</p>
-<p>
-Der Katholicismus ist der weltgeschichtliche Versuch, aus der Transscendenz Gottes einen selbstständigen, den
-<q>immanenten</q>
-Geist beugenden Gehalt abzuleiten. Daher Kirche gegen Staat, Dogma gegen Wissen
-<pb n="24"/>
-schaft, Wunder gegen Naturgesetz, geistliches gegen weltliches Leben. Hier beugt sich der Geist und zerbricht: Jesuitismus und Wahrheitsbewußtsein. Hier ist der Zweifel unreligiös, im Protestantismus (soweit er nicht die Halbheit des Übergangs ist) ist der Zweifel religiös normal, d. h. das Bewußtsein geht über
-<hi rend="u">jede besondere</hi>
-Form des Gottesgedankens und Erlebens hinaus, wie im Rechtfertigungsgedanken enthalten! – – –
-</p>
-<p>
-Zuletzt liegt all meinen Ausführungen der Gedanke des
-<rs ref="#tillich_person_id__589" type="person">Fichteschen</rs>
-Atheismusstreites
-<note type="ea">
-Der Atheismusstreit war eine bedeutende intellektuelle Kontroverse im späten 18. Jahrhundert, die von
-<rs ref="#tillich_person_id__2839" type="person">Friedrich Karl Forberg</rs>
-und
-<rs ref="#tillich_person_id__589" type="person">Johann Gottlieb Fichte</rs>
-initiiert wurde. Diese Auseinandersetzung führte letztendlich zum Rücktritt von
-<rs ref="#tillich_person_id__589" type="person">Fichte</rs>
-von seiner Professur an der Universität Jena.
-</note>
-zu Grunde, daß es logisch wie religiös unmöglich ist, Gott unter die Gegenstände einzureihen, und daß der Satz:
-<q>Gott ist</q>
-, nur
-<hi rend="aq">per paradoxiam</hi>
-möglich ist.
-</p>
-<closer>
-<salute>
-Nun leb wohl! Ich habe den Eindruck, daß wir nicht so weit von einander entfernt sind, als ich zuerst dachte! Die
-<q>Quarte</q>
-in das System der Kultur will auch ich schlagen; nur nicht durch eine Supra-Kultur –
-</salute>
-Dein
-<signed>
-<rs ref="#tillich_person_id__1928" type="person">Paul</rs>
-!
-</signed>
-</closer>
-</div>
-</body>
-<back>
-<listBibl>
-<biblStruct type="book" xml:id="tillich__MJJW8KDJ" corresp="http://zotero.org/groups/5701116/items/MJJW8KDJ" n="Kant, Kritik der reinen Vernunft, 1998">
-<monogr>
-<title level="m">Kritik der reinen Vernunft</title>
-<author>
-<forename>Immanuel</forename>
-<surname>Kant</surname>
-</author>
-<editor>
-<forename>Jens</forename>
-<surname>Timmermann</surname>
-</editor>
-<imprint>
-<pubPlace>Hamburg</pubPlace>
-<date>1998</date>
-</imprint>
-</monogr>
-</biblStruct>
-<biblStruct type="book" xml:id="tillich__8TCXNFE2" corresp="http://zotero.org/groups/5701116/items/8TCXNFE2" n="Rickert, Der Gegenstand der Erkenntnis. Einführung in die Transzendentalphilosophie, 1915">
-<monogr>
-<title level="m">
-Der Gegenstand der Erkenntnis. Einführung in die Transzendentalphilosophie
-</title>
-<author>
-<forename>Heinrich</forename>
-<surname>Rickert</surname>
-</author>
-<edition>3. völlig umgearbeitete und erweiterte Auflage</edition>
-<imprint>
-<date>1915</date>
-</imprint>
-</monogr>
-</biblStruct>
-<biblStruct type="book" xml:id="tillich__NAK7SAKI" corresp="http://zotero.org/groups/5701116/items/NAK7SAKI" n="Schelling, Philosophische Untersuchungen über das Wesen der menschlichen Freiheit, 1809">
-<monogr>
-<title level="m">
-Philosophische Untersuchungen über das Wesen der menschlichen Freiheit
-</title>
-<author>
-<forename>Friedrich Wilhelm Joseph</forename>
-<surname>Schelling</surname>
-</author>
-<imprint>
-<pubPlace>München</pubPlace>
-<date>1809</date>
-</imprint>
-</monogr>
-</biblStruct>
-<biblStruct type="book" xml:id="tillich__9CSAXH7U" corresp="http://zotero.org/groups/5701116/items/9CSAXH7U" n="Tillich, Die religionsgeschichtliche Konstruktion in Schellings positiver Philosophi..., 1910">
-<monogr>
-<title level="m">
-Die religionsgeschichtliche Konstruktion in Schellings positiver Philosophie, ihre Voraussetzungen und Prinzipien
-</title>
-<author>
-<forename>Paul</forename>
-<surname>Tillich</surname>
-</author>
-<imprint>
-<pubPlace>Breslau</pubPlace>
-<date>1910</date>
-</imprint>
-</monogr>
-</biblStruct>
-<biblStruct type="book" xml:id="tillich__DHQTCG8Z" corresp="http://zotero.org/groups/5701116/items/DHQTCG8Z" n="Tillich, Mystik und Schuldbewußtsein in Schellings philosophischer Entwicklung, 1912">
-<monogr>
-<title level="m">
-Mystik und Schuldbewußtsein in Schellings philosophischer Entwicklung
-</title>
-<author>
-<forename>Paul</forename>
-<surname>Tillich</surname>
-</author>
-<imprint>
-<pubPlace>Gütersloh</pubPlace>
-<biblScope unit="volume">Erstes Heft</biblScope>
-<publisher>Druck und Verlag von C. Bertelsmann</publisher>
-<date>1912</date>
-</imprint>
-</monogr>
-<series>
-<title level="s">Beiträge zur Förderung christlicher Theologie</title>
-<biblScope unit="volume">Sechzehnter Jahrgang</biblScope>
-</series>
-</biblStruct>
-<biblStruct type="bookSection" xml:id="tillich__L4IYRQJ3" corresp="http://zotero.org/groups/5701116/items/L4IYRQJ3" n="Tillich, Systematische Theologie von 1913, 1998">
-<analytic>
-<title level="a">Systematische Theologie von 1913</title>
-<author>
-<forename>Paul</forename>
-<surname>Tillich</surname>
-</author>
-</analytic>
-<monogr>
-<title level="m">Frühe Werke (EW IX)</title>
-<editor>
-<forename>Gerd</forename>
-<surname>Hummel</surname>
-</editor>
-<editor>
-<forename>Doris</forename>
-<surname>Lax</surname>
-</editor>
-<imprint>
-<pubPlace>Berlin/New York</pubPlace>
-<biblScope unit="page">273–434</biblScope>
-<date>1998</date>
-</imprint>
-</monogr>
-</biblStruct>
-<biblStruct type="book" xml:id="tillich__L8VWSCTP" corresp="http://zotero.org/groups/5701116/items/L8VWSCTP" n="Schelling, Sämtliche Werke, Erste Abteilung, 1861">
-<monogr>
-<title level="m">Sämtliche Werke, Erste Abteilung</title>
-<author>
-<forename>Friedrich Wilhelm Joseph</forename>
-<surname>Schelling</surname>
-</author>
-<imprint>
-<pubPlace>Stuttgart/Augsburg</pubPlace>
-<biblScope unit="volume">X</biblScope>
-<date>1861</date>
-</imprint>
-</monogr>
-</biblStruct>
-<biblStruct type="book" xml:id="tillich__A592FW36" corresp="http://zotero.org/groups/5701116/items/A592FW36" n="Feuerbach, Das Wesen des Christentums, None">
-<monogr>
-<title level="m">Das Wesen des Christentums</title>
-<author>
-<forename>Ludwig</forename>
-<surname>Feuerbach</surname>
-</author>
-<edition>Erstauflage</edition>
-<imprint>
-<pubPlace>Leipzig</pubPlace>
-<date/>
-</imprint>
-</monogr>
-</biblStruct>
-<biblStruct type="book" xml:id="tillich__SUDM8XG3" corresp="http://zotero.org/groups/5701116/items/SUDM8XG3" n="Tillich, Der Begriff des übernatürlichen, sein dialektischer Charakter und das Prinz..., 1915">
-<monogr>
-<title level="m">
-Der Begriff des übernatürlichen, sein dialektischer Charakter und das Prinzip der Identität, dargestellt an der supranaturalistischen Theologie vor Schleiermacher
-</title>
-<author>
-<forename>Paul</forename>
-<surname>Tillich</surname>
-</author>
-<imprint>
-<pubPlace>Königsberg</pubPlace>
-<date>1915</date>
-</imprint>
-</monogr>
-</biblStruct>
-</listBibl>
-<listPerson>
-<person xml:id="tillich_person_id__1887">
-<persName>Sydow, Eckart von</persName>
-<birth>
-<date>1885</date>
-</birth>
-<death>
-<date>1942</date>
-</death>
-<occupation>Kunsthistoriker</occupation>
-<idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-<note type="bio">
-<p>
-1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever (die Ehe wurde später geschieden). Gemeinsam hatten sie eine Tochter, Ulrike. Um 1931 hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise Werner. Er war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus..
-</p>
-</note>
-</person>
-<person xml:id="tillich_person_id__1020">
-<persName>Kant, Immanuel</persName>
-<note type="bio">
-<p>
-Kant, Immanuel (22.4.1724 Königsberg – 12.2.1804 ebd.) war der bedeutendste Philosoph der Aufklärung und Begründer der kritischen Philosophie. Aus einfachen Verhältnissen stammend und pietistisch erzogen, studierte er in Königsberg und wirkte dort seit 1770 als Professor. Unter dem Eindruck von Rousseau und Hume entwickelte er seine drei »Kritiken«: die »Kritik der reinen Vernunft« (1781) als Grundlegung des transzendentalen Idealismus, die »Kritik der praktischen Vernunft« (1788) mit der Morallehre des kategorischen Imperativs und die »Kritik der Urteilskraft« (1790) mit der Theorie von Ästhetik und Teleologie. Mit diesen Werken schuf er eine Philosophie, die Erkenntnis, Moral und Naturzweckmäßigkeit in der Vernunft begründet, und prägte damit nachhaltig den Deutschen Idealismus und das moderne Denken.
-</p>
-</note>
-</person>
-<person xml:id="tillich_person_id__1611">
-<persName>Rilke, Rainer Maria</persName>
-<note type="bio">
-<p>
-Rilke, Rainer (René) Maria (4.12.1875 Prag – 29.12.1926 Val-Mont bei Montreux) war ein österreichischer Dichter. Er wuchs in Prag auf, studierte in Prag und München und pflegte seit 1897 eine lebenslange Freundschaft mit Lou Andreas-Salomé. Reisen nach Russland, Italien, Frankreich und Nordafrika prägten sein Werk. 1901 heiratete er Clara Westhoff, mit der er eine Tochter hatte. Ab 1902 lebte er überwiegend in Paris, wo er sich mit der Kunst von Rodin und Cézanne auseinandersetzte. Ab 1921 fand er in Muzot im Wallis einen festen Wohnsitz. Er starb 1926 an Leukämie. Zu seinen bekanntesten Werken gehören Das Stunden-Buch (1905), Die Aufzeichnungen des Malte Laurids Brigge (1910), die Duineser Elegien (1923) und die Sonette an Orpheus (1923). Seine Lyrik kreist um Religion, Tod, Kunst und die Deutung menschlicher Existenz.
-</p>
-</note>
-</person>
-<person xml:id="tillich_person_id__904">
-<persName>Hirsch, Emanuel</persName>
-<birth>
-<date>1888-06-14</date>
-<settlement>
-<placeName>Bentwisch</placeName>
-</settlement>
-</birth>
-<death>
-<date>1972-07-17</date>
-<settlement>
-<placeName key="#tillich_place_id__743">Göttingen</placeName>
-</settlement>
-</death>
-<occupation>Systematischer Theologe</occupation>
-<idno type="gnd">https://d-nb.info/gnd/118551477</idno>
-<note type="bio">
-<p>
-Emanuel Hirsch (14. Juni 1888, Benwisch / Prignitz – 17. Juli 1972, Göttingen) war ein deutscher evangelischer Theologe, der nach Studien in Berlin und Göttingen von 1921 bis 1945 als Professor für Kirchengeschichte, später für Systematische Theologie, an der Universität Göttingen wirkte. Auf Fichte, Luther und Kierkegaard zurückgreifend, verband er historische Forschung mit transzendentaler Reflexion zu einer „ethischen Geschichtsansicht“, deren Kern er in Werken wie dem „Leitfaden zur christlichen Lehre“ (1938) und der fünfbändigen „Geschichte der neueren evangelischen Theologie“ (1949–1954) entfaltete. Hirsch begrüßte 1933 den Nationalsozialismus, unterstützte die „Deutschen Christen“ und sah in Hitlers Bewegung die Überwindung einer von ihm diagnostizierten Kultur- und Staatskrise, was sein Nachwirken schwer belastete. Nach 1945 blieb er publizistisch aktiv und leitete eine private Sozietät zur Relecture theologischer Klassiker, ohne seine politische Haltung grundsätzlich zu revidieren.
-</p>
-</note>
-</person>
-<person xml:id="tillich_person_id__839">
-<persName>Hegel, Georg Wilhelm Friedrich</persName>
-<birth>
-<date>1770-08-27</date>
-<settlement>
-<placeName key="#tillich_place_id__420">Stuttgart</placeName>
-</settlement>
-</birth>
-<death>
-<date>1831-11-14</date>
-<settlement>
-<placeName key="#tillich_place_id__37">Berlin</placeName>
-</settlement>
-</death>
-<idno type="gnd">https://d-nb.info/gnd/118547739</idno>
-<note type="bio">
-<p>
-Georg Wilhelm Friedrich Hegel (27. August 1770, Stuttgart – 14. November 1831, Berlin) war ein deutscher idealistischer Philosoph, der nach einem Theologie- und Philosophiestudium in Tübingen gemeinsam mit Hölderlin und Schelling zunächst als Hauslehrer in Bern und Frankfurt arbeitete. 1801 habilitierte er sich in Jena, verfasste dort die „Phänomenologie des Geistes“ (1807), leitete anschließend ein Gymnasium in Nürnberg und wurde 1816 Professor in Heidelberg sowie 1818 Nachfolger Fichtes an der Universität Berlin, wo seine Vorlesungen zu Logik, Rechts-, Geschichts- und Religionsphilosophie großen Einfluss gewannen. Als Hauptvertreter des Deutschen Idealismus prägte Hegel mit seinem dialektischen System das philosophische Denken des 19. Jahrhunderts und starb 1831 während einer Choleraepidemie in Berlin.
-</p>
-</note>
-</person>
-<person xml:id="tillich_person_id__2839">
-<persName>Forberg, Friedrich Karl</persName>
-<birth>
-<date>1770</date>
-</birth>
-<death>
-<date>1848</date>
-</death>
-<occupation>Philosoph;</occupation>
-<idno type="gnd">https://d-nb.info/gnd/119059479</idno>
-</person>
-<person xml:id="tillich_person_id__1614">
-<persName>Ritschl, Albrecht</persName>
-<note type="bio">
-<p>
-Ritschl, Albrecht (25.3.1822 Stettin – 20.3.1889 Göttingen) war evangelischer Theologe und Professor in Bonn und Göttingen. In seiner Christlichen Lehre von der Rechtfertigung und Versöhnung (1870–1874) deutete er Versöhnung als Versöhnung der Menschen, nicht Gottes. Er verstand Offenbarung als praktische Weltanschauung, die in der Gemeinde durch die Bibel präsent bleibt, und begründete damit eine einflussreiche, am biblischen Quellenstudium orientierte Theologie ohne metaphysische Spekulation.
-</p>
-</note>
-</person>
-<person xml:id="tillich_person_id__589">
-<persName>Fichte, Johann Gottlieb</persName>
-<birth>
-<date>1762-05-19</date>
-<settlement>
-<placeName>Rammenau</placeName>
-</settlement>
-</birth>
-<death>
-<date>1814-01-29</date>
-<settlement>
-<placeName key="#tillich_place_id__37">Berlin</placeName>
-</settlement>
-</death>
-<idno type="gnd">https://d-nb.info/gnd/118532847</idno>
-<note type="bio">
-<p>
-Johann Gottlieb Fichte (19. Mai 1762 – 29. Januar 1814) war ein deutscher Philosoph und Erzieher. Als Professor in Jena und Berlin prägte er die Frühphase des Deutschen Idealismus und bereitete mit seiner Wissenschaftslehre den Übergang von Kants Kritizismus zu Hegels Systemdenken vor. Fichte verband theoretische Philosophie mit einer Ethik der Freiheit und gilt als einer der geistigen Wegbereiter des modernen Selbstbewusstseins.
-</p>
-</note>
-</person>
-<person xml:id="tillich_person_id__2020">
-<persName>Wegener, Carl Richard</persName>
-<birth>
-<date>1883-08-03</date>
-<settlement>
-<placeName key="#tillich_place_id__370">Rostock</placeName>
-</settlement>
-</birth>
-<death>
-<date>1967-07-11</date>
-<settlement>
-<placeName>Neuruppin</placeName>
-</settlement>
-</death>
-<occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
-<idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
-</person>
-<person xml:id="tillich_person_id__586">
-<persName>Feuerbach, Ludwig</persName>
-<note type="bio">
-<p>
-Ludwig Feuerbach (28. Juli 1804 – 13. September 1872) war ein deutscher Philosoph, der nach Studien bei Hegel und einer akademischen Frühkarriere vor allem durch „Gedanken über Tod und Unsterblichkeit“ (1830) und „Das Wesen des Christentums“ (1841) zum scharfen Kritiker der Theologie und Begründer der Projektionstheorie wurde. Sein Programm, die Religion als Selbstentfremdung des Menschen zu entlarven und die Philosophie „vom Himmel auf die Erde“ zu holen, prägte den linken Hegelianismus und beeinflusste Marx, Engels, spätere Religionskritik sowie moderne Anthropologie. Nach dem Verlust universitärer Perspektiven lebte Feuerbach, unterstützt von seiner Frau Berta Löw, als Privatgelehrter in Bruckberg und Rechenberg, wo er in materieller Enge weiter publizierte und die Idee einer sinnlich-leiblich fundierten „Philosophie der Zukunft“ entwickelte.
-</p>
-</note>
-</person>
-<person xml:id="tillich_person_id__1394">
-<persName>Nietzsche, Friedrich</persName>
-<idno type="gnd">https://d-nb.info/gnd/118587943</idno>
-<note type="bio">
-<p>
-Nietzsche, Friedrich (15.10.1844 Röcken bei Leipzig – 25.8.1900 Weimar) war ein deutscher Philosoph und Schriftsteller. Er studierte klassische Philologie, erhielt 1869 eine Professur in Basel und veröffentlichte 1872 Die Geburt der Tragödie. Nach seinem Bruch mit Richard Wagner und dem Rückzug aus der Universität lebte er als freier Autor, geprägt von Krankheit und Vereinsamung. In Schriften wie Menschliches, Allzumenschliches, Also sprach Zarathustra, Jenseits von Gut und Böse und Zur Genealogie der Moral entfaltete er seine Kritik an Metaphysik und Christentum, entwickelte die Gedanken von Wille zur Macht, ewiger Wiederkunft und Übermensch. 1889 verfiel er in geistige Umnachtung und verbrachte die letzten Jahre bis zu seinem Tod in Weimar.
-</p>
-</note>
-</person>
-<person xml:id="tillich_person_id__1928">
-<persName>Tillich, Paul</persName>
-<birth>
-<date>1886-08-20</date>
-</birth>
-<death>
-<date>1965-10-22</date>
-<settlement>
-<placeName>Chicago, Ill.</placeName>
-</settlement>
-</death>
-<occupation>Theologe; Religionsphilosoph; Pfarrer</occupation>
-<idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-<note type="bio">
-<p>
-Tillich, Paul (20.8.1886 Starzeddel – 22.10.1965 Chicago), war evangelischer Theologe und Religionsphilosoph. Er wirkte als Feldprediger im Ersten Weltkrieg, lehrte in Deutschland und nach seiner Entlassung 1933 am Union Theological Seminary in New York, später an Harvard und in Chicago. Tillich verband Einflüsse von Schelling, Nietzsche, Otto und der Existenzphilosophie zu einer Theologie der Kultur, die Religion als das „was uns unbedingt angeht“ verstand. In seiner „Systematic Theology“ entwickelte er die Methode der Korrelation von menschlicher Frage und theologischer Antwort und deutete Gott als „Macht des Seins“. Bekannt wurde er auch durch „The Courage to Be“ (1952), in dem er Angst und Mut zum Sein existentiell deutete. Tillich suchte stets die Grenze zwischen Theologie, Philosophie und Kultur und prägte nachhaltig das Verständnis von Symbol, Mythos und Religionsbezug in der Moderne.
-</p>
-</note>
-</person>
-<person xml:id="tillich_person_id__2135">
-<persName>Rickert, Heinrich</persName>
-<birth>
-<date>1853-05-25</date>
-<settlement>
-<placeName key="#tillich_place_id__548">Danzig</placeName>
-</settlement>
-</birth>
-<death>
-<date>1936-07-25</date>
-<settlement>
-<placeName>Heidelberg</placeName>
-</settlement>
-</death>
-<occupation>Philosoph;</occupation>
-<idno type="gnd">https://d-nb.info/gnd/118600605</idno>
-<note type="bio">
-<p>Er spezialisierte sich auf den Neukantianismus.</p>
-</note>
-</person>
-<person xml:id="tillich_person_id__1954">
-<persName>Troeltsch, Ernst</persName>
-<birth>
-<date>1865-02-17</date>
-<settlement>
-<placeName>Haunstetten</placeName>
-</settlement>
-</birth>
-<death>
-<date>1923-02-01</date>
-<settlement>
-<placeName key="#tillich_place_id__37">Berlin</placeName>
-</settlement>
-</death>
-<idno type="gnd">https://d-nb.info/gnd/118624024</idno>
-<note type="bio">
-<p>
-Troeltsch, Ernst Peter Wilhelm (17.2.1865 Haunstetten – 1.2.1923 Berlin) war ein deutscher Theologe, Religionshistoriker und Kulturphilosoph. Nach Studien in mehreren deutschen Universitäten wurde er 1894 Professor für Systematische Theologie in Heidelberg und 1915 Professor für Philosophie in Berlin. Er verstand das Christentum als eine Religion unter anderen und forderte, es mit historischen und vergleichenden Methoden zu untersuchen. Damit verband er Theologie mit Soziologie und Philosophie und reagierte auf die Herausforderungen der Moderne. In Berlin trat er auch politisch hervor, engagierte sich für die junge Demokratie und sprach über die Neuordnung Europas nach dem Ersten Weltkrieg. Sein Werk umfasst über 20 Bände und machte ihn zu einem der bedeutendsten Religions- und Kulturtheoretiker seiner Zeit.
-</p>
-</note>
-</person>
-<person xml:id="tillich_person_id__1705">
-<persName>Schelling, Friedrich Wilhelm Joseph</persName>
-<birth>
-<date>1775-01-27</date>
-<settlement>
-<placeName>Leonberg (Landkreis Böblingen)</placeName>
-</settlement>
-</birth>
-<death>
-<date>1854-08-20</date>
-<settlement>
-<placeName>Bad Ragaz</placeName>
-</settlement>
-</death>
-<idno type="gnd">https://d-nb.info/gnd/118607057</idno>
-<note type="bio">
-<p>
-Schelling, Friedrich Wilhelm Joseph (27.1.1775 Leonberg – 20.8.1854 Bad Ragaz) war ein deutscher Philosoph und Hauptvertreter des Deutschen Idealismus. Nach Studien in Tübingen wurde er 1798 Professor in Jena, später in Würzburg, München, Erlangen und Berlin. Er entwickelte verschiedene Systementwürfe, die von der Transzendentalphilosophie über Natur- und Identitätsphilosophie bis zur Freiheits- und Spätphilosophie reichen. In seiner „Freiheitsschrift“ von 1809 deutete er den Menschen als frei, zum Guten wie zum Bösen fähig, und verstand den Willen als Ursein. Später unterschied er eine „negative“ Philosophie der Begriffe von einer „positiven“ Philosophie der Mythologie und Offenbarung. Schellings Denken beeinflusste Schopenhauer, Kierkegaard, Jaspers, Heidegger und Tillich.
-</p>
-</note>
-</person>
-</listPerson>
-</back>
-</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00633">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Brief von Paul Tillich an Emanuel Hirsch vom 20. Februar 1918 </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel"> Edition der Korrespondenz von Paul Tillich
+                        1887-1933 </title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name> Institut für Systematische Theologie und Religionswissenschaft </name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> Creative
+                        Commons Attribution 4.0 International (CC BY 4.0) </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambdridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886‒1965. Papers, 1894‒1974</collection>
+                        <idno>bMS 649/152(53)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <biblStruct type="monograph" n="firstPrint">
+                                <monogr>
+                                    <author>Emanuel Hirsch/Paul Tillich</author>
+                                    <editor>Hans Walter (Hg.)</editor>
+                                    <title> Emanuel Hirsch – Paul Tillich. Briefwechsel 1917–1918 </title>
+                                    <edition>Erste Auflage</edition>
+                                    <imprint>
+                                        <publisher>Verlag Die Spur</publisher>
+                                        <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                                        <date when="1973">1973</date>
+                                        <biblScope>21–27</biblScope>
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            <biblStruct type="monograph" n="secondPrint">
+                                <monogr>
+                                    <author>Paul Tillich</author>
+                                    <editor>Renate Albrecht/René Trautmann (Hg.)</editor>
+                                    <title> Briefwechsel und Streitschriften. Theologische,
+                                        philosophische und politische Stellungnahmen und Gespräche </title>
+                                    <edition>Erste Auflage</edition>
+                                    <imprint>
+                                        <publisher>De Gruyter</publisher>
+                                        <pubPlace ref="#tillich_place_id__143"> Frankfurt a.M. </pubPlace>
+                                        <date when="1983">1983</date>
+                                        <biblScope>114-123</biblScope>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title> Ergänzungs- und Nachlassbände zu den gesammelten Werken
+                                        von Paul Tillich </title>
+                                    <biblScope>VI</biblScope>
+                                </series>
+                            </biblStruct>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933. </p>
+            </projectDesc>
+            <editorialDecl>
+                <p> Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/ </p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1918-02-20">20.02.1918</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__904">Emanuel Hirsch</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2022-06-20">Initiale Auszeichnung des Transkripts</change>
+            <change who="GM" when="2024-02-09">Endabnahme</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline> D. <date when="1918-02-20">20. Feb. 1917</date>
+                        <note type="ea">
+                            <rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs>
+                            schreibt fälschlicherweise 1917, der Kontext der Hirsch-Briefwechsels
+                            macht deutlich, dass der Brief am 20. Februar 1918 verfasst wurde.
+                        </note>
+                    </dateline>
+                    <note type="ea"> Die erklärenden Anmerkungen zu vorliegendem Brief wurden (ggf.
+                        geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen. </note>
+                    <salute> Lieber <rs ref="#tillich_person_id__904" type="person">Emmanuel</rs> !
+                    </salute>
+                </opener>
+                <p> Verzeih, daß ich mit einem Kompliment beginne: Dein Brief <note type="ea">Die
+                        Korrespondenz liegt nicht vor.</note> ist das Tiefste, was seit <rs
+                        ref="#tillich_person_id__1705" type="person">Schellings</rs>
+                    <q>
+                        <sic>posiver</sic> Philosophie </q> ein Theologe geschrieben hat! Wie
+                    zwergenhaft erscheinen zwischen solchen Höhen die dazwischen liegenden
+                    Geschlechter der systematischen Theologen, <rs ref="#tillich_person_id__1954"
+                        type="person">Tröltsch</rs> nicht ausgenommen! Ich bin stolz, daß ich die
+                    Ehre habe, als erster gegen diese Höhe anrennen zu dürfen, ganz gleich, ob es
+                    zum Sieg oder zur Niederlage oder zu einem Dritten führt! Ich fühle mich
+                    berechtigt, gegen Dich zu kämpfen, denn nicht umsonst stand mein bisheriges
+                    wissenschaftliches Leben unter der Führung <rs ref="#tillich_person_id__1705"
+                        type="person">Schellings</rs> . <note type="ea">
+                        <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> hat sowohl
+                        seine <rs ref="#tillich__DHQTCG8Z" type="work"> theologische Dissertation
+                        </rs> als auch seine <rs ref="#tillich__9CSAXH7U" type="work">philosophische
+                            Dissertation</rs> zu <rs ref="#tillich_person_id__1705" type="person"
+                            >Schelling</rs> geschrieben. </note> Ich denke noch daran, wie ich, aus
+                    der Frühlingsstimmung und dem Frühlingszauber der Naturphilosophie <add
+                        place="superlinear">kommend,</add> von der düsteren Kraft der <q>positiven
+                        Philosophie</q> gepackt wurde, und wie mich der große Satz, der diese ganze
+                    Philosophie beherrscht: <q>
+                        <hi rend="aq">deitas est dominatio dei</hi>
+                    </q>
+                    <note type="ea"> Vgl. <rs ref="#tillich__L8VWSCTP" n="261" type="work">
+                            Schelling, Sämtliche Werke, Erste Abteilung, Band X, Stuttgart/Augsburg
+                            1861, S. 261 </rs> . </note>
+                    <q>Gott ist der Herr</q> tief religiös erschütterte. Und dann kam die <hi
+                        rend="aq">ratio</hi> , und erst deutete ich <rs
+                        ref="#tillich_person_id__1705" type="person">Schelling</rs> II <pb n="2"/>
+                    aus <rs ref="#tillich_person_id__1705" type="person">Schelling</rs> I <note
+                        type="ea">
+                        <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> unterscheidet
+                        in <rs ref="#tillich_person_id__1705" type="person">Schellings</rs>
+                        philosophischem Werk zwei Perioden. Die <rs ref="#tillich__NAK7SAKI"
+                            type="work">Freiheitsschrift</rs> bildet dabei die Zäsur. </note> , dann
+                    verließ ich ihn, ging zu <rs ref="#tillich_person_id__839" type="person"
+                        >Hegel</rs> – und schließlich zu <rs ref="#tillich_person_id__1394"
+                        type="person">Nietzsche</rs> . Aus Deinem Brief <note type="ea">Die
+                        Korrespondenz liegt nicht vor.</note> wehte der Hauch jener Tage mir
+                    entgegen, darum verstehe ich ihn so tief! – Es war gut so; erst mußte das
+                    Prinzip des ersten <rs ref="#tillich_person_id__1705" type="person"
+                        >Schelling</rs> sich ganz in mi <del rend="s">ch</del> r auswirken, es mußte
+                    die Formen der modernen Philosophie annehmen und sich zu dem Prinzip der
+                    autonomen Lebens-Immanenz verdichten, wie es in der ganzen modernen
+                        <sic>Litteratur</sic> und Dichtung widerklingt. – – – </p>
+                <p> Ich lebe in diesem Prinzip und suche mich immer tiefer hineinzuleben in seinen
+                    drei wichtigsten Momenten: Autonomie statt Beugung; Leben statt Selbstaufgabe,
+                    Immanenz statt Transscendenz! Und nun kommst Du und rufst mir zu: Vergiß nicht
+                        <rs ref="#tillich_person_id__1705" type="person">Schelling</rs> II! Habe ich
+                    ihn vergessen? Niemals ganz, sonst hätte ich schon vor Jahren, d. h. zur Zeit
+                    meiner Ausarbeitung der <rs ref="#tillich__L4IYRQJ3" type="work">
+                        <q>Dogmatik</q> (1914) </rs> da gestanden, wo ich jetzt stehe, und würde
+                    nicht auch heute noch dem Mißtrauen von <rs ref="#tillich_person_id__2020"
+                        type="person">Wegener</rs> und <rs ref="#tillich_person_id__1887"
+                        type="person">v. Sydow</rs>
+                    <pb n="3"/> gegenüberstehen, oder vielmehr etwas ihnen Fremdes in mir fühlen.
+                    Als ich in diesem Januar mit <rs ref="#tillich_person_id__2020" type="person"
+                        >Wegener</rs> bei <q>Trarbach</q>
+                    <note type="ea">Bremer Café.</note> eine große Debatte über meine
+                    religionsphilosophische Stellung hatte, versuchte ich, außer dem <q>relativen
+                        Transscendieren</q> das ich in jedem Geistesleben sehe, noch ein
+                        <q>absolutes Transscendieren</q> zu statuieren, das in einer negativen
+                    Stellung zur gesamten Kultur <del rend="s">begründet ist</del>
+                    <add place="superlinear">gipfelt</add> , und seine Begründung allein in dem
+                        <q>Über-Geistesbewußtsein</q> der Persönlichkeit hat. Auch wirst Du Dich an
+                    die eschatologische Stimmung der ersten Kriegsjahre erinnern, wo ich Dir
+                    schrieb: <q>Ich habe die Persönlichkeit gefunden</q> und Du mir antwortetest:
+                        <q> Dann habe ich Dir nichts mehr zu sagen. </q> Du siehst, in mir selbst
+                    ist etwas, das dem rationalen Prinzip zuwider ist, dagegen anrennt und doch
+                    Schritt für Schritt weichen mußte. Und gleichsam bist Du mir die Objektivation
+                    dieses Prinzips, das auch bei Dir besser aufgehoben ist, zumal in <pb n="4"/>
+                    der gegenwärtigen Lage. Wenn ich also jetzt gegen Dich kämpfe, so ist es die
+                    Objektivierung dieses Kampfes in mir, und was ich gegen Dich sage, sind die
+                    machtvollen Waffen, mit denen das rationale Prinzip sich in mir Sieg auf Sieg
+                    errungen hat! – – – – </p>
+                <p> Es gibt eine flachköpfige Rede, daß die <q> menschliche Vernunft aus
+                        architektonisch-ästhetischen Gründen monistisch </q> sei. Sie ist es aber so
+                    notwendig, daß ihre Existenz daran hängt. Angenommen, sie bejahte die denkbar
+                    größte Dualität, so würde doch sie es immer sein, die bejaht, und da sie nicht
+                    über ihren Schatten springen kann, nach ihres Wesens Gesetz bejaht. Das
+                        <q>Gedachtsein</q> ist das <q>monistische</q> Band, das selbst noch größere
+                    Gegensätze als die von Himmel und Erde verbinden würde. Was das im einzelnen
+                    heißt, habe ich in meiner <rs ref="#tillich__SUDM8XG3" type="work"
+                        >Supranaturalismus-Arbeit</rs> durchgeführt. Ich habe dort versucht, eine
+                        <q>Dialektik des Supra</q> zu geben. (Forts. folgt) <rs
+                        ref="#tillich_person_id__1928" type="person">P.</rs>
+                    <pb n="5"/>
+                </p>
+                <p> Der Gedankengang war folgender: Das Supra ist erstens eine Negation, ein Non-A;
+                    ist nun A die Totalität alles Immanenten, so wird das <q>Supra</q> inhaltslos;
+                    einen Inhalt gewinnt es nur durch Anleihe des von ihm negierten A; dadurch wird
+                    es nun entweder ein verblaßtes Abbild von A (die transscendente Welt), oder es
+                    wird selbst ein Teil von A durch Eingehen in die Gesetze der Immanenz (Wunder –
+                    Inspiration, Offenbarung) oder es wird eine Beurteilungsform von A (Gott = die
+                    Welt als Unbedingtes betrachtet). – – – Kein theologischer Gedanke hat sich mir
+                    so gleichmäßig seitdem bestätigt, wie dieser. Obgleich jene Arbeit formell so
+                    schlecht gelungen ist, daß ich sie nicht veröffentlicht habe, ist es die
+                    einzige, deren Positionen ich unverändert anerkenne. Fast ungewollt haben sie
+                    sich mir überall aufgedrängt, und die ganze <rs type="work"
+                        ref="#tillich__A592FW36">Kritik</rs> von <rs ref="#tillich_person_id__586"
+                        type="person">Feuerbach</rs> hat mir nicht nur nichts Neues gegeben, sondern
+                    mich von der größeren Schärfe und Systematik meiner <pb n="6"/> Kritik
+                    überzeugt. – – – Du wirst natürlich die Bezeichnung des Supranaturalismus im
+                    üblichen Sinne mit Recht ablehnen. Aber es ist etwas, worin Ihr übereinstimmt,
+                    und was unter meine Kritik fällt: Das <q>zweite</q> Erlebnis; das Erlebnis des
+                        <q>Fremden</q> ; die Kritik hat doppelseitig zu sein, erstens gegen das <q>
+                        <hi rend="u">zweite</hi>
+                    </q> Erlebnis, zweitens gegen das Erlebnis des <q>
+                        <hi rend="u">Fremden</hi>
+                    </q> ; das erste ist mehr subjektiv, das zweite mehr objektiv. </p>
+                <p> Zwei Erlebnisse können sich so verhalten, daß sie in einer Reihe stehen, die
+                    prinzipiell noch mehrere zuläßt, oder sie sind einzigartig, und stehen unter
+                    einem Gesichtspunkt von dem aus verständlich wird, daß sie notwendig, und
+                    zugleich einzig möglich sind. Die erste Reihe ist rein empirisch, die zweite
+                    transscendental-deduktiv; aber auch die erste Reihe hat einen Gesichtspunkt, der
+                    es notwendig macht, aus den verschiedenen Erlebnissen eine <hi rend="u"
+                        >Reihe</hi> zu machen. Fiele auch diese Möglichkeit <pb n="7"/> hin, so wäre
+                    die Einheit des Bewußtseins gesprengt, zwei reine Heterogenitäten hätten es
+                    zerstört; dann bliebe aber nicht einmal die Möglichkeit von Erlebnissen zu
+                    reden, da diese Rede die Einheit des erlebenden Bewußtseins voraussetzt. Unter
+                    allen Umständen muß also ein Punkt dasein, von dem aus beide Erlebnisse zu
+                    betrachten sind. Nun ist laut Deiner Definition das erste das der Totalität des
+                    Geisteslebens, jedes andere stände dazu in dem Verhältnis des <q>Supra</q> und
+                    verfiele der Dialektik des <q>Supra</q> . In doppelter Beziehung kann ich das in
+                    Deinen Worten zeigen. Du sagst, der Geist sei nur die Form, die das
+                    Gotteserlebnis aufnehme, der Inhalt stamme nicht von ihm. Diese Trennung von
+                    Form und Inhalt aufgehoben zu haben, ist nun aber das Verdienst der modernen
+                    philosophischen Entwicklung, insonderheit <rs ref="#tillich_person_id__1020"
+                        type="person">Kants</rs> . In den Geist kann nichts hinein, was nicht aus
+                    ihm kommt; denn er ist niemals leere Form, sondern immer lebendige Aktualität:
+                    Er ist in <pb n="8"/> sich unendlich und zieht alles in sich hinein. Deutliche
+                    Analogie zu Deiner These (die natürlich sehr viel höher steht), ist der
+                    Inspirationsgedanke, der faktisch den Geist entweder zerbricht oder <unclear
+                        reason="illegible">von</unclear> ihm überwunden wird. Die Inspiration
+                    geschieht in Begriffen; sind diese nicht leere Wortbildungen, so sind sie
+                    sinnvolle Zusammenhänge, die stetig fortleiten zu dem Gesamtzusammenhang des
+                    Begreifens – – – . Aber Dein Gedanke zerbricht nicht nur die intellektuelle
+                    Seite des Geistes, sondern – ausdrücklich – auch die sittliche Autonomie. Und
+                    doch könnte dieses <q>Beugen</q> , von dem Du sprichst, nie sittlich sein, wenn
+                    es sich dem Gewissen nicht bezeugte, d. h. wenn es nicht selbst die Form der
+                    Autonomie annähme. Dann ist also diese doch die letzte Instanz und der Geist,
+                    vor dem <q>Fremden</q> sich beugend, bleibt doch in sich. – Hier ist die
+                    Analogie das Wunder, das äußere und innere: das Gesetz der Natur oder der Seele
+                    wird aufgehoben, um einem anderen Platz zu machen, was dann doch wieder Natur
+                    und Seele ist. (Forts. folgt) <pb n="9"/>
+                </p>
+                <p> Das Gleiche gilt nun für die objektive Seite: Gott ist das <q>Fremde</q> ; das
+                    dem Geiste Fremde, das An-Sich; aber von diesem Fremden macht der Geist
+                    Aussagen; er nennt es Gott; und er versteht etwas unter diesem Wort, es ist ein
+                    Begriff im System der Begriffe: Bei Dir der Begriff des <q>anderen Absoluten</q>
+                    <supplied>.</supplied> Du sagst <add place="superlinear">vielleicht</add> , das
+                    ist nicht Begriff sondern Erlebnis. Ich kann mir dabei nichts denken; denn jedes
+                        <hi rend="u">Er</hi> -lebnis hat doch einen Charakter, einen Unterschied,
+                    also ein Verhältnis zum Begriff; und Du präcisierst es ja auch ganz scharf, ja
+                    gerade sein Unterschiedensein macht sein Wesen aus. Soll nun dieser Begriff als
+                        <hi rend="aq">caput mortuum</hi> im Strom der Begriffe, des Geisteslebens
+                    herumschwimmen? Du verlangst es nicht, sondern konstituierst das Verhältnis von
+                    absolut und relativ zwischen Gott und dem Geist; damit aber bist Du mitten im
+                    Geist, er hat, wie alles, auch das ihm wesensgemäß Fremde in sich eingesogen;
+                    dagegen gibt es kein Mittel! Ja, das Verhältnis wird noch enger. <pb n="10"/>
+                </p>
+                <p> Du machst gleichsam Gott zu dem Subjekt, zu dem personalen Träger des absoluten
+                    Geistes (ähnlich <rs ref="#tillich_person_id__1705" type="person">Schelling</rs>
+                    : Gott hat den Geist als 2. <hi rend="sup">te</hi> Potenz in sich, seine erste
+                    Potenz aber ist sein reines Sein). Damit hast Du <hi rend="aq">de facto</hi>
+                    eine Philosophie des Geistes gegeben. Die dritte Potenz wäre für Dich der
+                    sittliche Wille; nun ist auch nach Deiner Meinung der sittliche Wille dem Geist
+                    evident, d. h. Geisteswert; aber nicht erfüllbar; was heißt das? <q>Der
+                        Geist</q> ist eine Abstraktion, also ethisch indifferent. Sittliches Handeln
+                    gibt es nur in Personen. Die Person hat aber <q>das Fremde</q> als
+                    Existentialprinzip in sich selbst. Die Person hat nicht nur Freiheit, sondern
+                    sie ist definiert durch Freiheit. Diese letzten Erwägungen führen nun zu der
+                    Darstellung meines positiven Standpunktes: Ich erkenne Dein doppeltes Erlebnis
+                    an, aber als Ausdruck der Polarität im Geiste selbst. </p>
+                <p> Doch ehe ich darauf eingehe, noch einige kritische Bemerkungen: <pb n="11"/>
+                </p>
+                <p> 1. Du sagst, der Geist erkenne sich in seinem zweiten Erlebnis als relativ gegen
+                    das Absolute, Fremde; nun hast Du schon eine Relativität statuiert, nämlich die
+                    zwischen der absoluten Evidenz und dem individuellen Geist. Sollte das nicht
+                    darin seinen Grund haben, daß Du eine realistische Begriffsmythologie mit dem
+                    Geist-Begriff treibst. Ist es nicht auch im zweiten Falle der individuelle
+                    Geist, der seine Relativität erkennt und dem ebendadurch die Absolutheit des
+                    Geistes zu etwas Fremden wird? Dann wäre das erste und zweite Erlebnis
+                    identisch. Jedenfalls wüßte ich nicht, wie sich in einem Individuum <q>der
+                        Geist</q> gegenüber einem Dritten als relativ erleben soll. Was ist
+                    überhaupt <hi rend="u">der</hi> Geist? Welch schwieriger Begriff, und von diesem
+                    werden Erlebnisse ausgesagt, die in Wahrheit das Individuum hat! – – </p>
+                <p> 2. Du beschreibst Dein zweites Erlebnis als vor aller begrifflichen Deutung
+                    stehend. Das ist einfach ein Irrtum. Ich habe in den <pb n="12"/> letzten Wochen
+                    das Verhältnis von Unmittelbarkeit und Evidenz zu analysieren versucht. Da ist
+                    mir zunächst klar geworden, daß eine Beschreibung niemals nur unmittelbar ist.
+                    Sie erfolgt in Begriffen, und jeder Begriff ist eine <q>Zurechtmachung</q> und
+                    führt über die Unmittelbarkeit hinaus. Ich gehe noch weiter; schon das Erleben
+                    selbst, vom sinnlichen Eindruck anfangend, ist nicht mehr unmittelbar, sondern
+                    hat, insofern es in das Licht des Bewußtseins tritt, seiner selbst Deutung in
+                    sich. <hi rend="u">Wir erleben Sinn- und Wertbelastetes</hi> . Sinn und Wert
+                    sind aber Schöpfungen des Geistes. So ist auch Dein zweites Erlebnis Deutung und
+                    Schöpfung – – – </p>
+                <p> Das erste aber ist überhaupt kein besonderes Erlebnis (wenigstens nicht,
+                    insoweit es evident ist) sondern das jedem Erlebnis immanente
+                    Identitätsbewußtsein. – – Nimm nun von diesen Voraussetzungen einen Satz wie
+                    den: <q> Daß ich Gottes inne werde, ist Gottes Werk </q> – <pb n="13"/> Hier
+                    sind vorausgesetzt die Kategorien des Seins, der Kausalität, es ist
+                    vorausgesetzt eine bestimmte Erkenntnistheorie: das An-Sich macht sich bemerkbar
+                    durch Tätigkeit im Ich – – – und dies soll noch unmittelbare Evidenz sein? – – – </p>
+                <p> 3. Du sagst: Die Immanenz ist <q>nur</q> formal. Siehst Du die Welt von
+                    Voraussetzungen und Problemen, die in diesem <q>nur</q> stecken? – </p>
+                <p> 4. <q> Nur, wo der Geist in sich selber gebrochen wird, kommt es in ihm zur
+                        Liebe </q> denn das Gute ist derjenige <q>Geisteswert</q> , <q>der dem
+                        Geiste wahrhaft fremd ist</q> – – – so sagst Du! Siehst Du die Paradoxie des
+                    letzten Satzes? Wie kannst Du sie rechtfertigen? Nur dadurch, daß Du den Geist
+                    intellektualisierst zur <foreign xml:lang="grc">νόησις νοήσεως</foreign> und das
+                    Handeln von ihm abtrennst. Aber mit Unrecht, von beiden Seiten her. Ich erinnere
+                    an die <rs ref="#tillich_person_id__2135" type="person">Rickertsche</rs>
+                    Urteilslehre, <note type="ea"> Vgl. <rs type="work" ref="#tillich__8TCXNFE2">
+                            Rickert, Gegenstand der Erkenntnis, Kap 3 </rs> . </note> nach der jedes
+                    richtige Urteil der Vollzug eines Wertes ist, andererseits an intuitionistische
+                    Philosophien, bei <pb n="14"/> denen alles Intellektuelle, nicht nur das
+                    Religiös-Sittliche intuitiv begründet ist. </p>
+                <p> Doch nun zur positiven Seite: Ich ignoriere das doppelte Erlebnis nicht, aber
+                    ich deute es anders. Ich sehe in ihm den Ausdruck der Polarität im Geistesleben,
+                    die ich durch die beiden Begriffe: Wertbewußtsein und Unendlichkeitsbewußtsein
+                    bezeichnen möchte. Das eine Quelle der sittlichen Religion, das andere Quelle
+                    der Naturreligion. Beide ergeben eine grundverschiedene Transscendenz, das eine
+                    die absolute Transscendenz der Persönlichkeit, das andere die relative
+                    Transscendenz des Mythos. Das Unendlichkeitsbewußtsein ist dem Geist immanent im
+                    Verhältnis zu allem Gegenständlichen, nichts ist seine Grenze, über alles geht
+                    er hinaus, auch über alle Oberfläche und in immer tiefere Tiefen der Dinge.
+                    Unter dem Bilde der quantitativen und qualitativen Unendlichkeit können wir uns
+                    dieses Wesen des <pb n="15"/> Geistes denken. Weil der Geist das
+                    Unendlichkeitsbewußtsein hat, darum <q>transscendiert</q> er notwendig; er setzt
+                    Transscendentes als gegenständlich, denn die Reflexion auf seine eigne
+                    Transscendenz bleibt auch für den abstraktesten Philosophen, eine Abstraktion,
+                    die sobald sie aktuell wird, sich in mythisches Gewand kleidet. Er setzt als
+                    etwas Endliches als transscendent; es entsteht so die faktische Immanenz jedes
+                    konkreten Gottesgedankens, die verbunden ist mit dem Ideal, ihn transscendent zu
+                    denken – welches unmöglich ist. Daraus entsteht dann die Dialektik jedes
+                    Gottesgedankens, die in <rs ref="#tillich_person_id__1020" type="person"
+                        >Kants</rs> berühmten Satz gipfelt, in dem er das Absolute zu sich selbst
+                    sprechen läßt: <q>Und woher bin ich?</q>
+                    <note type="ea"> Vgl. <rs ref="#tillich__MJJW8KDJ" type="work"> Kant, Kritik der
+                            reinen Vernunft, B641 (A613) </rs> . </note>
+                </p>
+                <p> Innerhalb dieser Dialektik steht nun die Kultur. Die Wissenschaft, welche die
+                    quantitative Unendlichkeit betrachtet und Begriffe bildet, die Kunst, welche die
+                    qualitative Unendlichkeit betrachtet und Anschauungen bildet, das <pb n="16"/>
+                    Gemeinschaftsleben, das die Unendlichkeit der Freiheit zum Ausdruck bringt. Für
+                    alle drei gilt die Dialektik des Negativen und Positiven, die im
+                    Unendlichkeitsbewußtsein liegt; ihre positive Einheit ist die <q>Schöpfung</q> ,
+                    ihre negative der <q>Zerfall</q> . In jeder Kulturschöpfung liegen die negativen
+                    Elemente und in jeder Zerfallserscheinung die positiven. In diesem Geburt und
+                    Grab; Blüte und Dekadence; Optimismus und Pessimismus umfassenden Kreislauf
+                    liegt aller Reichtum und aller Gehalt des Lebens beschlossen. – Deine Auffassung
+                    der Kunst scheint mir recht exoterisch zu sein! Ob man mit den Idealisten das
+                    Schöne als das Durchscheinen der Idee in der Erscheinung, oder mit den
+                    Impressionisten als die dem Begriff gleichwertige Bemächtigungsform der
+                    Anschauung, oder mit den Expressionisten als den Ausdruck der bewegten
+                    Innerlichkeit in Linie, Farbe, Ton und Wort auffaßt, immer ist die Kunst
+                    offenbarerisch und hat als solche den gleichen Ernst wie die Wissenschaft, ist
+                    Schöpfung. <pb n="17"/> Die Analogie mit dem Spiel beruht auf einer der Kunst
+                    äußerlichen Ähnlichkeit, daß sie formal Schein ist. Und doch sehen wir durch
+                    diesen Schein mehr Wirklichkeit, als durch die Wahrnehmung des ganzen Lebens.
+                    Die gesamte Ästhetik hat sich von der Analogie mit dem Spiel deshalb abgewendet.
+                    – </p>
+                <p> Das Transscendieren enthält ein positives und ein negatives Urteil, doch so, daß
+                    das negative überwiegt, wofür der Tod der konkrete Ausdruck ist. Dies ist die
+                    Leere der Kultur, die Leere des reinen Unendlichkeitsbewußtsein, die Leere der
+                    reinen Naturreligion. Aber das <hi rend="u">ist</hi> ja gar nicht, das ist nur
+                    eine Idee, ein Pol, der nie ist ohne den anderen Pol, das Wertbewußtsein. </p>
+                <p> Damit tritt etwas völlig Neues, etwas wahrhaft Transscendentes in die Sphäre des
+                    Unendlichkeitsbewußtseins, durchdringt diese Sphäre, und gibt dem Ja das
+                    Übergewicht, löst sich von ihr los und behauptet sich gegen jede ihrer
+                    Negationen, und hat die Kraft des reinen In-sich-Ruhens! – <pb n="18"/> Nun sind
+                    Wertbewußtsein, wie Unendlichkeitsbewußtsein zugleich als Genitivus <hi
+                        rend="aq">objectivus</hi> und <hi rend="aq">subjectivus</hi> gemeint. Das
+                    Unendliche wie der Wert sind als Gegenstände und als Eigenschaften des Subjektes
+                    gewußt: In seiner Unendlichkeit ist sich der Geist des Unendlichen bewußt, und
+                    als absolut wertvoll ist sich die Persönlichkeit des absoluten Wertes bewußt.
+                    Das läßt sich beidemale nicht trennen, ist reine Identität. Zugleich aber ist in
+                    beiden Fällen der individuelle Geist sich seiner Endlichkeit und Unwertigkeit
+                    bewußt. Das ergibt die Grundparadoxie, deren Lösung die Rechtfertigung ist. </p>
+                <p> Durch diese Paradoxie entsteht nun eine neue Objektivierung im Wertbewußtsein;
+                    es tritt das Gefühl der absoluten Verantwortung auf, und dieses kann nicht die
+                    Form der Selbstverantwortlichkeit annehmen, denn dann wäre es entweder Willkür
+                    oder es zwänge zu einer Spaltung im Ich, wobei die eine Seite ins absolute
+                    Wertbewußtsein er <pb n="19"/> hoben und daselbst objektiviert würde. Diese aus
+                    dem Wertbewußtsein stammende Objektivierung tritt nun zusammen mit der aus dem
+                    Unendlichkeitsbewußtsein und gibt dieser die <q>Fremdheit</q> und ungeheure
+                    Wucht der religiösen Objektivierung. So verbindet sich im Gottesgedanken die
+                    ontologische Objektivierung des Unendlichkeitsbewußtseins mit der axiologischen
+                    des Wertbewußtseins. Die Trägerin der Transscendenz ist die Geltung der Werte,
+                    nur ihre Geltung, ihr <q>daß</q> , nicht ihr <q>was</q> denn das System der
+                    Werte selbst ist intuitives Geistesprodukt, ist <q>Schöpfung</q> und steht unter
+                    der Rechtfertigung, auch die <q>Liebe</q> . <rs ref="#tillich_person_id__1394"
+                        type="person">Nietzsches</rs> Kampf gegen die <q>Liebe</q> geht aus einer
+                    ungeheuren Kraft des Wertbewußtseins hervor; sein Wert heißt
+                        <q>Wahrhaftigkeit</q> . Die Entscheidung ist für unsere Frage gleichgültig;
+                    Dein Einwand, daß der Geist von sich zur Liebe unfähig ist, könnte genau so von
+                    der Wahrhaftigkeit gelten. In beiden Fällen ist es nicht der Geist, der un <pb
+                        facs="20"/> fähig ist, sondern die Person, die <q>schwach</q> ist. </p>
+                <p> Wie wird sich nun der Gottesgedanke inhaltlich gestalten? Er ist bestimmt durch
+                    die beiden Pole des Geistes, die Unendlichkeit und den Wert. Die Anschauung des
+                    Unendlichen als ein Endliches gipfelt in der Idee des absoluten Geistes, die
+                    Anschauung des Wertes als aktuell in der Idee der absoluten Persönlichkeit.
+                    Darum ist in dem immanentesten Gottesbegriff, etwa <q>Leben</q> eine
+                    Personalisierung: <q>Hymnen an das Leben</q> , in dem es als <q>Du</q> empfunden
+                    wird. Das <q>Du</q> in <rs ref="#tillich_person_id__1611" type="person"
+                        >Rilkes</rs> Gedichten; und umgekehrt kommt selbst <rs
+                        ref="#tillich_person_id__1614" type="person">Ritschl</rs> nicht über eine
+                    Ontologisierung und damit logisch Immanentisierung des Gottesgedankens hinaus:
+                    Dies Schweben zwischen der Transscendenz des Wertbewußtseins mit seiner
+                    Schroffheit, Weltabgewendetheit, Überlegenheit des personalen Bewußtsein über
+                    Kultur, Dekadence und Tod, auf der einen Seite, und der Hingabe an den Reichtum,
+                    die Anschauung Gottes als Lebensimmanenz ... macht den Inhalt unserer
+                    Religiosität aus. <pb n="21"/> Gott ist die Liebe, d. h. Gott läßt sich finden
+                    in der Lebensimmanenz, in der Unendlichkeit des Geistes, und Gott ist der Zorn,
+                    d. h. Gott läßt sich finden in der Negativität des Lebens, in Verfall und Tod;
+                    und Gott ist der Heilige, d. h. er fordert und gibt zugleich das absolute
+                    Wertbewußtsein; und beides vereinigt, die letzte Vertiefung des Unendlichkeits-
+                    durch das Wertbewußtsein ist vielleicht am besten ausgedrückt in dem Wort Gott
+                    ist <hi rend="u">der</hi> Ewige und <hi rend="u">das</hi> Ewige. – Nur so läßt
+                    sich das Problem des <q>Supra</q> lösen; sobald dagegen der Wert als ontologisch
+                    realiter transscendent gedacht wird, wie bei Dir, entsteht die unabwendbare
+                    Dialektik des <q>Supra</q> . </p>
+                <p> Wo bekommst Du eigentlich die ethischen Normen her? Durch Intuition!
+                    Einverstanden! Subjekt und Objekt der Intuition ist aber der Geist; woher
+                    bekommt nun der Geist die Norm des Sich-Beugens vor einem Fremden? Weil er ohne
+                    dieses Fremde <q>nichtig</q> ist, d. h. weil dieses Fremde zu ihm gehört, nicht
+                    etwas Fremdes ist; und weiter: In welchem Sinne sich beugen? Vor <pb n="22"/>
+                    Normen, die aus dem Fremden stammen? Aber alle Normen stammen aus dem Geist,
+                    sonst könnte er sie nicht <q>anschauen</q> ; nur wo Subjekt und Objekt zur
+                    Identität kommen, ist Evidenz! Das Fremde bringt also gar nichts Neues; es ist
+                    nur der Ausdruck für die <q>Existenz</q> des Geistes; denn nur weil der Geist
+                        <q>existiert</q> gibt es Tod, Dekadence und absolutes Wertbewußtsein. Gott
+                    als das Fremde ist nichts anderes als der Ausdruck für die Urparadoxie der
+                    Existenz des Geistes – – – worüber noch vieles zu sagen wäre, z. B. daß Existenz
+                    auch eine Kategorie des Geistes ist u. s. f. </p>
+                <p> Doch nun sind wir weit von unserm Ausgangspunkte abgekommen, dem Problem des
+                    Zweiflers. Der Zweifler befindet sich auf dem Wege von einer Objektivation zur
+                    andern, denn einen Atheisten gibt es nicht, es ist nur ein Grenzbegriff. Eine
+                    genaue Analyse aller Begriffe, wie Absolutes, Leben, Natur, Entwicklung, Kultur,
+                    Kosmos, Totalität etc. <pb n="23"/> zeigen deutlich, daß Wert- und
+                    Unendlichkeitsbewußtsein in ihnen objektiviert sind. Auch diese Begriffe sind
+                    Dogmen und wer an ihnen zweifelt, glaubt doch noch an die Wahrheit, die ihn
+                    zweifeln läßt und hat darin seine Objektivation. So kann man sagen: An Gott zu
+                    zweifeln ist unmöglich und an Gott nicht zu zweifeln ist unmöglich. Das erste
+                    bezieht sich auf den Gehalt, das zweite auf die Objektivationsform. Die
+                    Frömmigkeit wächst intensiv mit der Kraft des Wertbewußtseins, extensiv mit dem
+                    Reichtum und der Tiefe des Weltgefühls. Die Gefahr vergangener Zeiten war der
+                    Verlust des zweiten, unsere Gefahr ist der Verlust des ersten. Das erste treibt
+                    zu immer schärferer Personalisierung Gottes, bis zur Christologie, das zweite zu
+                    immer <sic>stärker</sic> Immanenz bis zu <rs ref="#tillich_person_id__1394"
+                        type="person">Nietzsche</rs> – </p>
+                <p> Der Katholicismus ist der weltgeschichtliche Versuch, aus der Transscendenz
+                    Gottes einen selbstständigen, den <q>immanenten</q> Geist beugenden Gehalt
+                    abzuleiten. Daher Kirche gegen Staat, Dogma gegen Wissen <pb n="24"/> schaft,
+                    Wunder gegen Naturgesetz, geistliches gegen weltliches Leben. Hier beugt sich
+                    der Geist und zerbricht: Jesuitismus und Wahrheitsbewußtsein. Hier ist der
+                    Zweifel unreligiös, im Protestantismus (soweit er nicht die Halbheit des
+                    Übergangs ist) ist der Zweifel religiös normal, d. h. das Bewußtsein geht über
+                        <hi rend="u">jede besondere</hi> Form des Gottesgedankens und Erlebens
+                    hinaus, wie im Rechtfertigungsgedanken enthalten! – – – </p>
+                <p> Zuletzt liegt all meinen Ausführungen der Gedanke des <rs
+                        ref="#tillich_person_id__589" type="person">Fichteschen</rs>
+                    Atheismusstreites <note type="ea"> Der Atheismusstreit war eine bedeutende
+                        intellektuelle Kontroverse im späten 18. Jahrhundert, die von <rs
+                            ref="#tillich_person_id__2839" type="person">Friedrich Karl Forberg</rs>
+                        und <rs ref="#tillich_person_id__589" type="person">Johann Gottlieb
+                            Fichte</rs> initiiert wurde. Diese Auseinandersetzung führte
+                        letztendlich zum Rücktritt von <rs ref="#tillich_person_id__589"
+                            type="person">Fichte</rs> von seiner Professur an der Universität Jena.
+                    </note> zu Grunde, daß es logisch wie religiös unmöglich ist, Gott unter die
+                    Gegenstände einzureihen, und daß der Satz: <q>Gott ist</q> , nur <hi rend="aq"
+                        >per paradoxiam</hi> möglich ist. </p>
+                <closer>
+                    <salute> Nun leb wohl! Ich habe den Eindruck, daß wir nicht so weit von einander
+                        entfernt sind, als ich zuerst dachte! Die <q>Quarte</q> in das System der
+                        Kultur will auch ich schlagen; nur nicht durch eine Supra-Kultur – </salute>
+                    Dein <signed>
+                        <rs ref="#tillich_person_id__1928" type="person">Paul</rs> ! </signed>
+                </closer>
+            </div>
+        </body>
+       
+    </text>
 </TEI>
