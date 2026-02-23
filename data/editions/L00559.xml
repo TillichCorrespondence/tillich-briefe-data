@@ -63,7 +63,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#tillich_person_id__507">Arthur Ebermann</persName>
-               <date when="1918-08">August 1918</date>
+               <date notBefore="1918-08-01" notAfter="1918-08-31">08.1918</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
@@ -84,7 +84,7 @@
             <pb n="1"/>
             <opener>
                <dateline>
-                  <date when="1918">1918</date>
+                  <date notBefore="1918-08-01" notAfter="1918-08-31">08.1918</date>.
                </dateline>
                <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>!</salute>
             </opener>
