@@ -3,7 +3,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Albert Gottschow an Paul Tillich <lb/>vom 18. April 1921</title>
+            <title>Postkarte von Albert Gottschow an Paul Tillich <lb/>vom 18. April 1921
+               [PS]</title>
             <author ref="#tillich_person_id__705">Albert Gottschow</author>
             <respStmt>
                <resp>Editor</resp>
@@ -12,7 +13,8 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -28,14 +30,16 @@
                </address>
             </publisher>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc type="manuscript">
                <msIdentifier>
                   <country>USA</country>
-                  <settlement ref="#tillich_place_id__tillich_place_id__82">Cambridge, MA</settlement>
+                  <settlement ref="#tillich_place_id__tillich_place_id__82">Cambridge,
+                     MA</settlement>
                   <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Paul, 1886‒1965. Papers, 1894‒1974</collection>
@@ -52,7 +56,8 @@
             <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
          </projectDesc>
          <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -72,6 +77,7 @@
       </profileDesc>
       <revisionDesc status="approved">
          <change who="AA" when="2025-06-16">Initiale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2026-02-19">Kollationierung</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -79,20 +85,23 @@
          <div type="writingSession" resp="#tillich_person_id__705">
             <pb n="1"/>
             <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__567" type="place">Greiz</rs>, d. <date when="1921-04-18">18.4.21</date>
-               </dateline>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Doktor Tillich</rs>!</salute>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Doktor
+                  Tillich</rs>!</salute>
             </opener>
-            <p>Heil gelandet – ohne alle Zwischenfälle – gut u. viel gegessen ist <rs ref="#tillich_person_id__1923" type="person">die Frau</rs> sehr heil u. mobil.</p>
+            <p>Heil gelandet – ohne alle Zwischenfälle – gut u. viel gegessen ist <rs
+                  ref="#tillich_person_id__1923" type="person">die Frau</rs> sehr heil u. mobil.</p>
             <closer>
-               <salute>Viele beste Grüße<lb/>u. Dank<lb/>für Sie u. <rs ref="#tillich_person_id__2085" type="person">Tante Toni</rs>
+               <salute>Viele beste Grüße<lb/>u. Dank<lb/>für Sie u. <rs
+                     ref="#tillich_person_id__2085" type="person">Tante Toni</rs>
                </salute>
-               <signed>Ihre <rs ref="#tillich_person_id__2775 #tillich_person_id__705" type="person">Gottschows</rs>.</signed>
+               <signed>Ihre <rs ref="#tillich_person_id__1923 #tillich_person_id__705" type="person"
+                     >Gottschows</rs>.</signed>
             </closer>
             <postscript>
                <p>
-                  <rs ref="#tillich_person_id__3638" type="person">Ilse Margot</rs> hat an <rs ref="#tillich_person_id__1923" type="person">Hannah</rs> geschrieben in Entschuldigungen.</p>
+                  <rs ref="#tillich_person_id__3638" type="person">Ilse Margot</rs> hat an <rs
+                     ref="#tillich_person_id__1923" type="person">Hannah</rs> geschrieben in
+                  Entschuldigungen.</p>
             </postscript>
          </div>
       </body>
