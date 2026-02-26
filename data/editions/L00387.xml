@@ -1,90 +1,176 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00387">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an die theologische Fakultät der Vereinigten Friedrichs-Universität Halle-Wittenberg <lb/>vom 30. Mai 1914</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__189">Halle</settlement>
-<institution>Universitätsarchiv Halle</institution>
-<repository>Universitätsarchiv Halle</repository>
-<idno>Rep. 27 Nr. 876</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__37">Berlin</placeName>
-<date when="1914-05-30">30.05.1914</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_place_id__4208">theologische Fakultät zu Halle a. d. Saale</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<pb n="1"/>
-<div type="writingSession">
-<opener><dateline><rs type="place" ref="#tillich_place_id__37">Berlin</rs>, d. <date when="1914-05-30">30te Mai 1914</date><lb/>S.W. 68. Neuenburgerstr. 3.</dateline></opener>
-<p>Auf Grund der Beilagen bitte ich die hochwürdige theologische Fakultät zu <rs type="place" ref="#tillich_place_id__189">Halle a. S</rs> mir die Genehmigung zu erteilen, daß ich mich als Privatdozent für systematische Theologie und für die Zeit, wo systematische Vorlesungen mir statutengemäß noch nicht erlaubt sind, für Dogmengeschichte und Geschichte der Theologie habilitiere.</p>
-<p>Anlagen:</p>
-<p>Eine wissenschaftliche Arbeit über das Thema: <q>Das Übernatürliche im älteren Supranaturalismus</q><note type="ea">Der ursprünglich geplante Titel von <rs type="person" ref="#tillich_person_id__1928">Paul Tillichs</rs> Habilitation lautete: <q>Die Entwicklung des Begriffs des Übernatürlichen im älteren Supranaturalismus</q>. Auf Anraten von <rs ref="#tillich_person_id__1227" type="person">Wilhelm Lütgert</rs>  passte Tillich den Titel an, übernahm ihn jedoch nicht wörtlich. Am 3. Juli 1916 wurde Tillichs Habilitationsverfahren abgeschlossen; seine Habilitationsschrift trug schließlich den Titel <rs type="work" ref="#tillich__SUDM8XG3"><q>Der Begriff des Übernatürlichen, sein dialektischer Charakter und das Prinzip der Identität, dargestellt an der supranaturalistischen Theologie vor Schleiermacher.</q></rs> <rs type="work" ref="#tillich__U4FVNX34"> Vgl. hierzu Wenz, Gunther: Philosophical Writings / Philosophische Schriften, Bd. 1, Berlin/Boston: De Gruyter 1989, S. 23 f.</rs> .</note>, historisch-kritische Studie.</p>
-<p>Das Lizentiaten-Diplom.</p>
-<p>Ein kurzer Lebens</p>
-<closer><salute>Gehorsamst</salute><signed><rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs>.</signed></closer>
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an die theologische Fakultät der Vereinigten
+                    Friedrichs-Universität Halle-Wittenberg <lb/>vom 30. Mai 1914</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement ref="#tillich_place_id__189">Halle</settlement>
+                        <institution>Universitätsarchiv Halle</institution>
+                        <repository>Universitätsarchiv Halle</repository>
+                        <idno>Rep. 27 Nr. 876</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <biblStruct type="journal">
+                                <monogr>
+                                    <author>Erdmann Sturm</author>
+                                    <title>An der engen Pforte der historischen Methode vorbei ...
+                                        .Paul Tillichs Habilitation in Halle (1916) und seine
+                                        Umhabilitierungen nach Berlin (1919) und Marburg
+                                        (1924)</title>
+                                    <imprint>
+                                        <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                                        <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                                        <date when="2015">2015</date>
+                                        <biblScope>S. 273–332, hier: 291</biblScope>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>International Yearbook for Tillich Research</title>
+                                    <biblScope>10/1</biblScope>
+                                </series>
+                            </biblStruct>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__37">Berlin</placeName>
+                    <date when="1914-05-30">30.05.1914</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_place_id__4208">theologische Fakultät zu Halle a. d.
+                        Saale</persName>
+                    <placeName ref="#tillich_place_id__189">Halle a. d. Saale</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <pb n="1"/>
+            <div type="writingSession">
+                <opener><dateline><rs type="place" ref="#tillich_place_id__37">Berlin</rs>, d. <date
+                            when="1914-05-30">30te Mai 1914</date><lb/>S.W. 68. Neuenburgerstr.
+                            3.<note type="ea">Der Brief trägt den handschriftlichen Vermerk:
+                                <q>Erhalten d. 8.VI.14<lb/>Cornill</q>
+                        </note></dateline></opener>
+                <p>Auf Grund der Beilagen bitte ich die hochwürdige theologische Fakultät zu <rs
+                        type="place" ref="#tillich_place_id__189">Halle a. S</rs> mir die
+                    Genehmigung zu erteilen, daß ich mich als Privatdozent für systematische
+                    Theologie und für die Zeit, wo systematische Vorlesungen mir statutengemäß noch
+                    nicht erlaubt sind, für Dogmengeschichte und Geschichte der Theologie
+                        habilitiere.<note type="ea">§ 49 der Statuten der Theologischen Fakultät der
+                        Universität Halle-Wittenberg vom <date when="1885-11-24">24.11.1885</date>
+                        (Archivsignatur: UA Halle, Rep. 27/843, UH 14) lautet: <q>Umfang der
+                            Lehrberechtigung. Dem Doctor der Theologie steht die Berechtigung zu
+                            Vorlesungen über alle Fächer der Theologie zu; dem Licentiaten dagegen
+                            nur für das Gebiet der exegetischen und historischen Theologie. Doch
+                            kann einem Licentiaten, der sich einige Jahre als Privat-Dozent bewährt
+                            und durch ein tüchtiges Werk seine Befähigung in der systematischen oder
+                            praktischen Theologie bewiesen hat, von der Fakultät die Berechtigung,
+                            auch über diese Wissenschaften Vorlesungen zu halten, ertheilt
+                            werden.</q></note></p>
+                <p>Anlagen:</p>
+                <p>1. Eine wissenschaftliche Arbeit über das Thema: <q>Das Übernatürliche im älteren
+                        Supranaturalismus</q>, historisch-kritische Studie.<note type="ea">Der
+                        ursprünglich geplante Titel von <rs type="person"
+                            ref="#tillich_person_id__1928">Tillichs</rs> Habilitation lautete:
+                            <q>Das Übernatürliche im älteren Supranaturalismus. Historisch-kritische
+                            Studie</q>. Da die Arbeit den Gutachtern – trotz Anerkennung von <rs
+                            type="person" ref="#tillich_person_id__1928">Tillich</rs> geistiger
+                        Leistung – zu wenig historisch gewesen ist, konnte sie nur unter der
+                        Bedingung einer Titeländerung angenommen werden. <rs
+                            ref="#tillich_person_id__1227" type="person">Wilhelm Lütgert</rs> schlug
+                        daher als neuen Titel <q>Der Begriff des Übernatürlichen im älteren
+                            Supranaturalismus beurteilt vom Standpunkt der Schellingschen
+                            Identitätsphilosophie aus</q> vor. <rs type="person"
+                            ref="#tillich_person_id__1928">Tillich</rs> akzeptierte die Bedingung
+                        der Titeländerung, widersprach der Fakultät jedoch darin, dass seine Arbeit
+                        vom Standpunkt der Schellingschen Identitätsphilosophie ausginge, den er
+                        bereits in seiner Lizentiatenarbeit abgelehnt hatte. Stattdessen schlug <rs
+                            type="person" ref="#tillich_person_id__1928">Tillich</rs> drei Themata
+                        vor, darunter: <q>Der Begriff des Übernatürlichen, sein dialektischer
+                            Charakter und das Prinzip der Identität, dargestellt an der Theologie
+                            des älteren Supranaturalismus</q>. Mit diesem Thema war die Fakultät
+                        einverstanden und am 3. Juli 1916 wurde <rs type="person"
+                            ref="#tillich_person_id__1928">Tillichs</rs> Habilitationsverfahren
+                        abgeschlossen. Die Habilitationsschrift trug schließlich den Titel <q><rs
+                                type="work" ref="#tillich__SUDM8XG3">Der Begriff des
+                                Übernatürlichen, sein dialektischer Charakter und das Prinzip der
+                                Identität, dargestellt an der supranaturalistischen Theologie vor
+                                Schleiermacher</rs></q>. Vgl. hierzu <rs type="person"
+                            ref="#tillich_person_id__2702">Erdmann Sturm</rs>: <q><rs type="work"
+                                ref="#tillich__JGIV267D">An der engen Pforte der historischen
+                                Methode vorbei ...</rs></q> (2015), 276–281; den <rs ref="L00444"
+                            type="letter">Brief von Wilhelm Lütgert an Paul Tillich vom 8. Juli
+                            1915</rs> sowie den <rs ref="L00446" type="letter">Brief von Paul
+                            Tillich an Johannes Tillich vom 9. August 1915</rs>.</note><lb/> 2. Das
+                        Lizentiaten-Diplom.<note type="ea">Hierzu ist auf der linken Blatthälfte
+                        notiert: <q>2 Zurückgeben!</q></note><lb/> 3. Ein kurzer Lebenslauf.<note
+                        type="ea">Hierzu ist auf der linken Blatthälfte notiert: <q>3 Liegt nicht
+                            (mehr?) bei!</q>; darunter: <unclear>M</unclear>
+                        <date when="1917-02-20">20/2 17</date></note></p>
+                <closer><salute>Gehorsamst</salute>
+                    <signed><rs type="person" ref="#tillich_person_id__1928">P.
+                        Tillich</rs>.</signed></closer>
+            </div>
+        </body>
+    </text>
 </TEI>
