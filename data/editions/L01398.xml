@@ -1,92 +1,146 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01398">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief des Kurators der vereinigten Friedrichs-Universität Halle-Wittenberg an Paul Tillich <lb/>vom 26. Juni 1914</title>
-<author ref="#tillich_person_id__2708">Der Kurator der vereinigten Friedrichs-Universität Halle-Wittenberg</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__189">Halle</settlement>
-<institution>Universitätsarchiv Halle</institution>
-<repository>Universitätsarchiv Halle</repository>
-<collection></collection>
-<idno>Rep. 27 Nr. 876 (3)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__2708">Der Kurator der vereinigten Friedrichs-Universität Halle-Wittenberg</persName>
-<placeName ref="#tillich_place_id__189">Halle a. S.</placeName>
-<date when="1914-06-26">26.06.1914</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<pb n="1"/>
-<div type="writingSession">
-<opener><dateline><rs type="person" ref="#tillich_person_id__2708">Der Kurator</rs><lb/>der vereinigten Friedrichs-Universität <rs type="place" ref="#tillich_place_id__189">Halle a. S.</rs>, <date when="1914-06-26">den 26, Juni 1914</date><lb/><rs type="place" ref="#tillich_place_id__189">Halle-Wittenberg</rs> An der Universität 10. Fernruf 541<lb/>I.-No. <hi rend="u">2884</hi><lb/><hi rend="u">Abschrift.</hi></dateline></opener>
-<p>Auf den Antrag vom <date when="1914-06-14">14. Juni d. Js.</date></p>
-<p>Nach Anhörung des <rs type="person" ref="#tillich_person_id__4103">Herrn Rektors</rs> und des akademischen Senats erkläre ich mich mit Ihrer Zulassung zu den Habilitationsleistungen bei der Theologischen Fakultät einverstanden. Sie wollen sich unter Vorlage dieser Verfügung dem <rs type="person" ref="#tillich_person_id__402">Herrn Dekan</rs> der Theologischen Fakultät vorstellen.</p>
-<closer><salute>Unterschrift.</salute><signed>An Herrn Lic. theol. Dr. <rs type="person" ref="#tillich_person_id__1928">Paul T i l l i c h</rs> <rs type="place" ref="#tillich_place_id__37">Berlin S.W.</rs><lb/>68 Neuenburgerstraße 3</signed></closer>
-</div>
-<div type="writingSession">
-<p>Abschrift übersende ich der Fakultät zur gefälligen Kenntnisnahme.</p>
-<closer><salute>[Unterschrift]</salute><signed>An<lb/>die Theologische Fakultät<lb/><hi rend="u">hier</hi>.</signed></closer>
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief vom Kurator der vereinigten Friedrichs-Universität Halle-Wittenberg an
+                    Paul Tillich <lb/>vom 26. Juni 1914</title>
+                <author ref="#tillich_person_id__2708">Der Kurator der vereinigten
+                    Friedrichs-Universität Halle-Wittenberg</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887–1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement ref="#tillich_place_id__189">Halle</settlement>
+                        <institution>Universitätsarchiv Halle</institution>
+                        <repository>Universitätsarchiv Halle</repository>
+                        <collection/>
+                        <idno>Rep. 27 Nr. 876 (3)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; Unterschrift eigenhändig</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <biblStruct type="journal">
+                                <monogr>
+                                    <author>Erdmann Sturm</author>
+                                    <title>An der engen Pforte der historischen Methode vorbei ... .
+                                        Paul Tillichs Habilitation in Halle (1916) und seine
+                                        Umhabilitierungen nach Berlin (1919) und Marburg
+                                        (1924)</title>
+                                    <imprint>
+                                        <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                                        <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                                        <date when="2015">2015</date>
+                                        <biblScope>S. 273–332, hier: 292</biblScope>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>International Yearbook for Tillich Research</title>
+                                    <biblScope>10/1</biblScope>
+                                </series>
+                            </biblStruct>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887–1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__2708">Der Kurator der vereinigten
+                        Friedrichs-Universität Halle-Wittenberg</persName>
+                    <placeName ref="#tillich_place_id__189">Halle a. d. Saale</placeName>
+                    <date when="1914-06-26">26.06.1914</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__37">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <pb n="1"/>
+            <div type="writingSession">
+                <opener><rs type="person" ref="#tillich_person_id__2708">Der Kurator</rs><lb/>der
+                    vereinigten Friedrichs-Universität<lb/><rs type="place"
+                        ref="#tillich_place_id__189">Halle-Wittenberg</rs><lb/>I.-No. <hi rend="u"
+                        >2884</hi>
+                    <dateline><rs type="place" ref="#tillich_place_id__189">Halle a. S.</rs>, den
+                            <date when="1914-06-26">26. Juni 1914</date>.<lb/>An der Universität 10.
+                        Fernruf 541.</dateline></opener>
+                <p><hi rend="u">Abschrift.</hi><note type="ea">Am linken Blattrand ist hier der
+                        handschriftliche Vermerk: <lb/><q><hi rend="hand">Erhalten d. <date
+                                    when="1914-06-29">29.VI.14</date>
+                                <lb/><rs type="person" ref="#tillich_person_id__402"
+                                >Cornill</rs></hi></q>.</note></p>
+                <p>Auf den Antrag vom <date when="1914-06-14">14. Juni d. Js</date>.</p>
+                <p>–––––––––––</p>
+                <p>Nach Anhörung des <rs type="person" ref="#tillich_person_id__4103">Herrn
+                        Rektors</rs> und des akademischen Senats erkläre ich mich mit Ihrer
+                    Zulassung zu den Habilitationsleistungen bei der Theologischen Fakultät
+                    einverstanden. Sie wollen sich unter Vorlage dieser Verfügung dem <rs
+                        type="person" ref="#tillich_person_id__402">Herrn Dekan der Theologischen
+                        Fakultät</rs> vorstellen.</p>
+                <p>Unterschrift.<lb/>An <rs type="person" ref="#tillich_person_id__1928">Herrn Lic.
+                        theol. Dr. Paul <hi rend="g">Tillich</hi></rs>
+                    <rs type="place" ref="#tillich_place_id__37">Berlin</rs> S.W. 68
+                    Neuenburgerstraße 3</p>
+                <p>––––––</p>
+                <p>Abschrift übersende ich der Fakultät zur gefälligen Kenntnisnahme.</p>
+                <closer><signed><hi rend="hand"><rs type="person" ref="#tillich_person_id__2708"
+                                >Meyer</rs></hi></signed></closer>
+                <postscript>
+                    <p>An<lb/>die Theologische Fakultät<lb/><hi rend="g"
+                        >hier.</hi><lb/>–––––––––––</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
 </TEI>
