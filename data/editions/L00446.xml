@@ -13,7 +13,7 @@
          <editionStmt>
             <edition>
                <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
-                        1887-1933</title>
+                  1887-1933</title>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -29,8 +29,8 @@
                </address>
             </publisher>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
-                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -51,19 +51,19 @@
                      <biblStruct n="first print" type="journal">
                         <monogr>
                            <author>Erdmann Sturm</author>
-                           <title>An der engen Pforte der historischen Methode vorbei.
-                                        Paul Tillichs Habilitation in Halle (1916) und seine
-                                        Umhabilitierungen nach Berlin (1919) und Marburg
-                                        (1924).</title>
+                           <title>An der engen Pforte der historischen Methode vorbei ... . Paul
+                              Tillichs Habilitation in Halle (1916) und seine Umhabilitierungen nach
+                              Berlin (1919) und Marburg (1924)</title>
                            <imprint>
-                              <pubPlace ref="#tillich_place_id__485">Berlin/Boston</pubPlace>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
                               <date when="2015">2015</date>
-                              <biblScope>302f.</biblScope>
+                              <biblScope>S. 273–332, hier: 302f.</biblScope>
                            </imprint>
                         </monogr>
                         <series>
                            <title>International Yearbook for Tillich Research</title>
-                           <biblScope>Bd. 10/1</biblScope>
+                           <biblScope>10/1</biblScope>
                         </series>
                      </biblStruct>
                   </listBibl>
@@ -77,7 +77,7 @@
          </projectDesc>
          <editorialDecl>
             <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
-                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -89,6 +89,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -98,7 +99,7 @@
       <revisionDesc status="approved">
          <change when="2022-05-05" who="FS">Initiale Auszeichnung des Transkripts</change>
          <change when="2022-05-18" who="FS">Anpassungen auf Basis der Projektbesprechung vom
-                9.5.2022</change>
+            9.5.2022</change>
          <change when="2023-10-24" who="GM">Endabnahme</change>
       </revisionDesc>
    </teiHeader>
@@ -108,33 +109,41 @@
             <pb n="1"/>
             <opener>
                <dateline>
-                  <rs ref="#tillich_place_id__227" type="place">Juvigny</rs> d. <date when="1915-08-09">9. August. 1915</date>. </dateline>
-               <salute> Lieber <rs ref="#tillich_person_id__1928" type="person">Papa</rs>!
-                    </salute>
+                  <rs ref="#tillich_place_id__227" type="place">Juvigny</rs> d. <date
+                     when="1915-08-09">9. August. 1915</date>. </dateline>
+               <salute> Lieber <rs ref="#tillich_person_id__1928" type="person">Papa</rs>! </salute>
             </opener>
-            <p>Habe herzlichen Dank für Deinen
-                        Brief<note type="ea">Die Korrespondenz liegt nicht vor.</note>, der mir eine große Freude
-                    war, wie jeder Deiner Briefe.
-                    Inzwischen habe ich mit der
-                    Hallenser Fakultät Verhandlungen üb<unclear cert="high" reason="damage">er</unclear> meine <rs ref="#tillich__SUDM8XG3" type="work">Arbeit</rs>
-                    gehabt, deren Resultat die Annahme der Dissertation mit einer kleinen
-                    Veränderung des Titels ist. Etwa Anfang Juli schrieb mir <rs ref="#tillich_person_id__1227" type="person">Lütgert</rs> einen <rs ref="L00444" type="letter">längeren Brief</rs>, worin er mir mitteilte, daß
-                    meine Arbeit angenommen sei, allerdings nicht ohne starke Bedenken seitens der
-                    Fakultät, da sie nicht, wie gewünscht, und im Titel gesagt historisch, sondern
-                    lediglich logisch-kritisch sei. Außerdem sei die Kritik ausgegangen vom
-                    Standpunkt der Identitätsphilosophie. Die Arbeit müsse also heißen: <q>Der Begriff
-                    des Übernatürlichen, darg. und kritisiert vom Standpunkt der <rs ref="#tillich_person_id__1705" type="person">Schellingschen</rs>
-                    Identitätsphilosophie.</q> Unter dieser Bedingung sei die Fakultät einverstanden.
-                    Ich schrieb zurück, daß ich nicht auf diesem Standpunkt stände, ihn vielmehr in
-                    meiner <rs ref="#tillich__DHQTCG8Z" type="work">Lizentiatenarbeit</rs> abgelehnt
-                    hätte etc. und schlug drei andere Themata vor, darunter <q>Der Begriff des <pb n="2"/> Übernatürlichen, sein <del rend="s">logischer</del>
+            <p>Habe herzlichen Dank für Deinen Brief<note type="ea">Die Korrespondenz liegt nicht
+                  vor.</note>, der mir eine große Freude war, wie jeder Deiner Briefe. Inzwischen
+               habe ich mit der Hallenser Fakultät Verhandlungen üb<unclear cert="high"
+                  reason="damage">er</unclear> meine <rs ref="#tillich__SUDM8XG3" type="work"
+                  >Arbeit</rs> gehabt, deren Resultat die Annahme der <sic>Dissertation</sic> mit
+               einer kleinen Veränderung des Titels ist. Etwa Anfang Juli schrieb mir <rs
+                  ref="#tillich_person_id__1227" type="person">Lütgert</rs> einen <rs ref="L00444"
+                  type="letter">längeren Brief</rs>, worin er mir mitteilte, daß meine Arbeit
+               angenommen sei, allerdings nicht ohne starke Bedenken seitens der Fakultät, da sie
+               nicht, wie gewünscht, und im Titel gesagt historisch, sondern lediglich
+               logisch-kritisch sei. Außerdem sei die Kritik ausgegangen vom Standpunkt der
+               Identitätsphilosophie. Die Arbeit müsse also heißen: <q>Der Begriff des
+                  Übernatürlichen, darg. und kritisiert vom Standpunkt der <rs
+                     ref="#tillich_person_id__1705" type="person">Schellingschen</rs>
+                  Identitätsphilosophie.</q> Unter dieser Bedingung sei die Fakultät einverstanden.
+               Ich schrieb zurück, daß ich nicht auf diesem Standpunkt stände, ihn vielmehr in
+               meiner <rs ref="#tillich__DHQTCG8Z" type="work">Lizentiatenarbeit</rs> abgelehnt
+               hätte etc. und schlug drei andere Themata vor, darunter <q>Der Begriff des<pb n="2"/>
+                  Übernatürlichen, sein <del rend="s">logischer</del>
                   <add place="sublinear">dialektischer</add> Charakter und das Prinzip der
-                    Identität, dargestellt an der Theologie des älteren Supranaturalismus</q><note type="ea">Dieser Titel weicht vom endgültigen Titel ab. In der gedruckten
-                            <rs ref="#tillich__SUDM8XG3" type="work">Habilitationsschrift</rs> heißt
-                        es an dieser Stelle: <q>[…] dargestellt an der supranaturalistischen Theologie
-                        vor <rs ref="#tillich_person_id__1717" type="person">Schleiermacher</rs>.</q> .</note> Gestern schrieb <rs ref="#tillich_person_id__1227" type="person">Lütgert</rs><note type="ea">Die Korrespondenz liegt nicht vor.</note>, daß sie mit
-                    diesem Titel einverstanden wären. Ich bin sehr froh und erwarte die <rs ref="#tillich__SUDM8XG3" type="work">Arbeit</rs> zur Drucklegung in den
-                    nächsten Tagen. Dann Näheres. – Sonst alles gut!</p>
+                  Identität, dargestellt an der Theologie des älteren Supranaturalismus</q><note
+                  type="ea">Der endgültige Titel der <rs ref="#tillich__SUDM8XG3" type="work"
+                     >Habilitationsschrift</rs> lautete: <q>Der Begriff des Übernatürlichen, sein
+                     dialektischer Charakter und das Prinzip der Identität, dargestellt an der
+                     supranaturalistischen Theologie vor <rs ref="#tillich_person_id__1717"
+                        type="person">Schleiermacher</rs></q>.</note> Gestern schrieb <rs
+                  ref="#tillich_person_id__1227" type="person">Lütgert</rs><note type="ea">Die
+                  Korrespondenz liegt nicht vor.</note>, daß sie mit diesem Titel einverstanden
+               wären. Ich bin sehr froh und erwarte die <rs ref="#tillich__SUDM8XG3" type="work"
+                  >Arbeit</rs> zur Drucklegung in den nächsten Tagen. Dann Näheres. – Sonst alles
+               gut!</p>
             <closer>
                <salute>In Liebe Dein</salute>
                <signed>
