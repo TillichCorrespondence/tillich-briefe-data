@@ -1,95 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00294">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Adolf von Harnack <lb/>vermutlich aus dem Jahr 1912</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__37">Berlin</settlement>
-<repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
-<collection>Handschriftenabteilung, Nachlass Adolf von Harnack</collection>
-<idno>K. 43</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__80">Butterfelde</placeName>
-<date notBefore="1912-10-01" notAfter="1912-12-31">1912</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__808">Adolf von Harnack</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change who="AA" when="2026-02-16">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<pb n="1"/>
-<div type="writingSession">
-<opener>
-<dateline><rs type="place" ref="#tillich_place_id__80">Butterfelde</rs> bei <rs type="place" ref="#tillich_place_id__297">Mohrin</rs><lb/>
-Neumark</dateline>
-<salute>Ew. Exzellenz</salute>
-</opener>
-<p>möchte ich in dieser Form noch einmal Dank sagen für die mir außerordentlich wertvolle Unterhaltung im <date notBefore="1912-10-01" notAfter="1912-10-15">Anfang dieses Monats</date>. Längeres Abwägen der Gesichtspunkte, die ich dort über die Gestaltung meiner Zukunft und der apologetischen Arbeit erhalten habe, haben mich jetzt zu dem Entschluß gebracht, die Vortragstätigkeit im nächsten Winter nicht fortzusetzen, sondern mich ausschließlich oder doch in der <pb n="2"/> Hauptsache der wissenschaftlichen Arbeit zu widmen. Über den Ort, wo ich eine Habilitation versuchen will, konnte ich mir noch nicht schlüssig werden. ---</p>
-<p>Jedenfalls bitte ich Ew. Exzellenz, meinen Wunsch in dem Bekanntenkreise Ew. Exzellenz einen neuen Kreis zu gewinnen, als nicht geschehen zu betrachten, und bitte um Entschuldigung für irgendwelche Mühe, die ich in dieser Richtung veranlaßt hätte. Es war mir nicht möglich, die Entscheidung früher zu treffen.</p>
-<closer>
-<salute>In vorzüglicher Hochachtung<lb/>
-Ew. Exzellenz ergebenster</salute>
-<signed><rs type="person" ref="#tillich_person_id__1928">P. Tillich</rs>.</signed>
-</closer>
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Adolf von Harnack <lb/>verm. vom Dezember
+                    1912</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                        <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                        <collection>Handschriftenabteilung, Nachlass Adolf von Harnack</collection>
+                        <idno>K. 43</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <biblStruct type="journal">
+                                <monogr>
+                                    <author>Erdmann Sturm</author>
+                                    <title>An der engen Pforte der historischen Methode vorbei ... .
+                                        Paul Tillichs Habilitation in Halle (1916) und seine
+                                        Umhabilitierungen nach Berlin (1919) und Marburg
+                                        (1924)</title>
+                                    <imprint>
+                                        <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                                        <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                                        <date when="2015">2015</date>
+                                        <biblScope>S. 273–332, hier: 290</biblScope>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>International Yearbook for Tillich Research</title>
+                                    <biblScope>10/1</biblScope>
+                                </series>
+                            </biblStruct>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__80">Butterfelde</placeName>
+                    <date notBefore="1912-12-01" notAfter="1912-12-31">12.1912</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__808">Adolf von Harnack</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="AA" when="2026-02-16">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline><rs type="place" ref="#tillich_place_id__80">Butterfelde</rs> bei <rs
+                            type="place" ref="#tillich_place_id__297">Mohrin</rs><lb/>
+                        Neumark</dateline>
+                    <salute>Ew. Exzellenz</salute>
+                </opener>
+                <p>möchte ich in dieser Form noch einmal Dank sagen für die mir außerordentlich
+                    wertvolle Unterhaltung im <date notBefore="1912-12-01" notAfter="1912-12-15"
+                        >Anfang dieses Monats</date>. Längeres Abwägen der Gesichtspunkte, die ich
+                    dort über die Gestaltung meiner Zukunft und der apologetischen Arbeit erhalten
+                    habe, haben mich jetzt zu dem Entschluß gebracht, die Vortragstätigkeit im
+                    nächsten Winter nicht fortzusetzen, sondern mich ausschließlich oder doch in
+                        der<pb n="2"/> Hauptsache der wissenschaftlichen Arbeit zu widmen.<note
+                        type="ea">Aus zwei Aufzeichnungen <rs type="person"
+                            ref="#tillich_person_id__2020">Richard Wegeners</rs> von Dezember 1912
+                        geht hervor, dass <rs type="person" ref="#tillich_person_id__1928"
+                            >Tillich</rs> und er planten, einen Apologeten-Orden zu gründen. <rs
+                            type="person" ref="#tillich_person_id__1928">Tillich</rs> bewarb sich zu
+                        dieser Zeit um die zweite Pfarrstelle in der Erlöserkirche in <rs
+                            type="place" ref="#tillich_place_id__677">Berlin-Moabit</rs>, in der er
+                        als Hilfsprediger tätig war, zog die Bewebung Ende Dezember jedoch,
+                        zugunsten einer wissenschaftlichen Karriere, wieder zurück (siehe dazu: <rs
+                            ref="#tillich__87Q3HQIJ" type="work">GW, XIII</rs>, S. 544). In dem
+                        erwähnten Gespräch mit <rs type="person" ref="#tillich_person_id__808"
+                            >Harnack</rs> ging es vermutlich um <rs type="person"
+                            ref="#tillich_person_id__1928">Tillichs</rs> berufliche Zukunft und
+                        weitere apologetische Vortragstätigkeit. <rs type="person"
+                            ref="#tillich_person_id__808">Harnack</rs> hatte <rs type="person"
+                            ref="#tillich_person_id__1928">Tillich</rs> geraten, die
+                        Vortragstätigkeit für im Winter 1913/14 nicht fortzusetzen und sich
+                        konzentriert der wissenschaftlichen Arbeit zu widmen (vgl. <rs type="person"
+                            ref="#tillich_person_id__2702">Erdmann Sturm</rs>: <rs
+                            ref="#tillich__JGIV267D" type="work">An der engen Pforte der
+                            historischen Methode vorbei ...</rs>, S. 274f.).</note> Über den Ort, wo
+                    ich eine Habilitation versuchen will, konnte ich mir noch nicht schlüssig
+                    werden. – – –</p>
+                <p>Jedenfalls bitte ich Ew. Exzellenz, meinen Wunsch in dem Bekanntenkreise Ew.
+                    Exzellenz einen neuen Kreis zu gewinnen, als nicht geschehen zu betrachten, und
+                    bitte um Entschuldigung für irgendwelche Mühe, die ich in dieser Richtung
+                    veranlaßt hätte. Es war mir nicht möglich, die Entscheidung früher zu
+                    treffen.</p>
+                <closer>
+                    <salute>In vorzüglicher Hochachtung<lb/> Ew. Exzellenz ergebenster</salute>
+                    <signed><rs type="person" ref="#tillich_person_id__1928">P.
+                        Tillich</rs>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
 </TEI>
