@@ -52,19 +52,20 @@
                             <biblStruct n="firstPrint" type="journal">
                                 <monogr>
                                     <author>Erdmann Sturm</author>
-                                    <title> An der engen Pforte der historischen Methode vorbei.
+                                    <title>An der engen Pforte der historischen Methode vorbei ... .
                                         Paul Tillichs Habilitation in Halle (1916) und seine
-                                        Umhabilitierungen nach Berlin (1919) und Marburg (1924). </title>
+                                        Umhabilitierungen nach Berlin (1919) und Marburg
+                                        (1924)</title>
                                     <imprint>
-                                        <pubPlace ref="#tillich_place_id__485"
-                                            >Berlin/Boston</pubPlace>
+                                        <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                                        <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
                                         <date when="2015">2015</date>
-                                        <biblScope>315f.</biblScope>
+                                        <biblScope>S. 273–332, hier: 315f.</biblScope>
                                     </imprint>
                                 </monogr>
                                 <series>
                                     <title>International Yearbook for Tillich Research</title>
-                                    <biblScope>Bd. 10/1</biblScope>
+                                    <biblScope>10/1</biblScope>
                                 </series>
                             </biblStruct>
                         </listBibl>
@@ -90,6 +91,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="#tillich_person_id__2829">Friedrich Mahling</persName>
+                    <!-- <placeName ref="#tillich_place_id__37">Berlin</placeName> -->
                 </correspAction>
             </correspDesc>
             <langUsage>
@@ -107,16 +109,17 @@
             <pb n="1"/>
             <div type="writingSession">
                 <opener><dateline><rs type="place" ref="#tillich_place_id__74">Bremen</rs>,
-                        Georg-Gröningstr. 40 d.<date when="1918-12-18">18. Dez. 1918</date><lb/>(bei
-                            <rs type="person" ref="#tillich_person_id__641">Pastor
-                        Fritz</rs>)</dateline><salute>Hochverehrter <rs type="person"
+                        Georg-Gröningstr. 40 d. <date when="1918-12-18">18. Dez.
+                        1918</date><lb/>(bei <rs type="person" ref="#tillich_person_id__641">Pastor
+                            Fritz</rs>)</dateline><salute>Hochverehrter <rs type="person"
                             ref="#tillich_person_id__2829">Herr Geheimrat</rs>!</salute></opener>
                 <p>Anbei sende ich neue Themata zur Antrittsvorlesung; sie sind wesentlich konkreter
-                    als die ersten in Eile zusammengerafften. Sollte sich die Fakultät noch vor
-                    Weihnachten für eins davon entscheiden, so wäre ich für Mitteilung an obige
-                    Adresse dankbar, andernfalls an meine <rs type="place"
-                        ref="#tillich_place_id__37">Berliner</rs> Adresse: <rs type="place"
-                        ref="#tillich_place_id__38">Berlin-Friedenau</rs>, Taunusstr. 1.</p>
+                    als die ersten in Eile zusammengerafften.<note type="ea">Die Korrespondenz
+                        hierzu liegt nicht vor.</note> Sollte sich die Fakultät noch vor Weihnachten
+                    für eins davon entscheiden, so wäre ich für Mitteilung an obige Adresse dankbar,
+                    andernfalls an meine <rs type="place" ref="#tillich_place_id__37">Berliner</rs>
+                    Adresse: <rs type="place" ref="#tillich_place_id__38">Berlin-Friedenau</rs>,
+                    Taunusstr. 1.</p>
                 <p>Die Zeugnisse habe ich zur Abschrift gegeben und werde alles einreichen, sobald
                     die offizielle Antwort aus <rs type="place" ref="#tillich_place_id__189"
                         >Halle</rs> da ist.</p>
@@ -127,33 +130,42 @@
                     nachträgliche Hinzufügung wäre ich sehr dankbar. Auf ein Publikum habe ich
                     dieses Mal verzichtet.</p>
                 <closer><salute>Ihr sehr ergebener</salute><signed><rs type="person"
-                            ref="#tillich_person_id__1928">Dr. P. Tillich</rs></signed></closer>
+                            ref="#tillich_person_id__1928">Dr. P. Tillich</rs><note type="ea"
+                            >Darunter handschriftlich von <rs type="person"
+                                ref="#tillich_person_id__2829">Dekan Mahling</rs> ergänzt: <q>Hochw.
+                                Fakultät zur Abstimmung vorgelegt <lb/><rs type="person"
+                                    ref="#tillich_person_id__2829">Mahling</rs>
+                                <date when="1918-12-20"
+                    >20.12.18</date></q>.</note></signed></closer>
             </div>
             <postscript>
-                <p>[Hochw. Fakultät zur Abstimmung vorgelegt <rs type="person"
-                        ref="#tillich_person_id__2829">Mahling</rs>
-                    <date when="1918-12-20">20. 12. 18</date>]<note type="ea">Handschriftlich von
-                        Dekan Mahling ergänzt.</note></p>
-                <p>Themata zur Antrittsvorlesung [von <rs type="person"
-                        ref="#tillich_person_id__1928">Lic. Dr. Tillich</rs>]<note type="ea"
-                        >Handschriftlich von Dekan Mahling ergänzt.</note></p>
-                <p>1. Apologetik. <q>Die Bedeutung der phänomenologischen Methode für Theologie
+                <p>Themata zur Antrittsvorlesung<note type="ea">Darunter handschriftlich von <rs
+                            type="person" ref="#tillich_person_id__2829">Dekan Mahling</rs> ergänzt:
+                            <q>von <rs type="person" ref="#tillich_person_id__1928">Lic. Dr.
+                                Tillich</rs></q>.</note></p>
+                <p>1. Apologetik. <lb/><q>Die Bedeutung der phänomenologischen Methode für Theologie
                         &amp; Religionswissenschaft.</q></p>
-                <p>2. Dogmatik. <rs type="work" ref="#tillich__FG234RJE" n="141–160"><q>Das Dasein
-                            Gottes und die Religionspsychologie.</q></rs><note type="ea">Tillich hielt seine Antrittsvorlesung zu diesem Thema am 24. Janunar
-                    1919.</note></p>
-                <p>3. Ethik. <q>Der Pazifismus u. die Lehre von der Sünde.</q></p>
-                <p>Für Nr. 2<lb/>
-                    <rs type="person" ref="#tillich_person_id__1761">Sbg.</rs><lb/> Ebenso <rs
-                        type="person" ref="#tillich_person_id__1009">Kf.</rs><lb/>
-                    <rs type="person" ref="#tillich_person_id__445">D</rs>
-                    <date when="1918-12-20">20/12 18</date><lb/>
-                    <rs type="person" ref="#tillich_person_id__808">v. Harnack</rs>
-                    <date when="1918-12-21">21/12.18</date><lb/>
-                    <rs type="person" ref="#tillich_person_id__923">Ho</rs>
-                    <date when="1918-12-26">26/12.</date><lb/>
-                    <rs type="person" ref="#tillich_person_id__4059">B</rs>. <date when="1919-01-06"
-                        >6.1.</date></p>
+                <p>2. Dogmatik. <lb/><rs type="work" ref="#tillich__FG234RJE" n="141–160"><q>Das
+                            Dasein Gottes und die Religionspsychologie.</q></rs></p>
+                <p>3. Ethik. <lb/><q>Der Pazifismus u. die Lehre von der Sünde.</q><note type="ea"
+                        >Darunter die Abstimmung und Unterschriften: <q>Für Nr. 2<lb/>
+                            <rs type="person" ref="#tillich_person_id__1761">Sbg.</rs><lb/> Ebenso
+                                <rs type="person" ref="#tillich_person_id__1009">Kf.</rs><lb/>
+                            <rs type="person" ref="#tillich_person_id__445">D</rs>
+                            <date when="1918-12-20">20/12 18</date><lb/>
+                            <rs type="person" ref="#tillich_person_id__808">v. Harnack</rs>
+                            <date when="1918-12-21">21/12.18</date><lb/>
+                            <rs type="person" ref="#tillich_person_id__923">Ho</rs>
+                            <date when="1918-12-26">26/12.</date><lb/>
+                            <rs type="person" ref="#tillich_person_id__4059">B</rs>. <date
+                                when="1919-01-06">6.1.</date></q></note><note type="ea"><rs
+                            type="person" ref="#tillich_person_id__1928">Tillich</rs> hielt seine
+                        Berliner Antrittsvorlesung am <date when="1919-01-24">24. Januar
+                            1919</date> über das Thema <q>Das Dasein Gottes und die
+                            Religionspsychologie</q>. Für das Einladungsplakat in lateinischer
+                        Sprache siehe: <rs type="person" ref="#tillich_person_id__2702">Erdmann
+                            Sturm</rs>: <rs ref="#tillich__JGIV267D" type="work">An der engen Pforte
+                            der historischen Methode vorbei ...</rs> (2015), S. 318f.</note></p>
             </postscript>
         </body>
     </text>
