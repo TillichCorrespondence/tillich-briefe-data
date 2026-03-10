@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00585">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Carl Cornill an Paul Tillich
+                    <lb/>vom 21. Dezember 1918</title>
+                <author ref="#tillich_person_id__402">Carl Cornill</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0002-8408-8657">Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                        <institution>Humboldt-Universität Berlin, Universitätsarchiv</institution>
+                        <repository>Humboldt-Universität Berlin, Universitätsarchiv</repository>
+                        <collection/>
+                        <idno>Theol. Fak. 142, Bl. 163</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <biblStruct n="firstPrint" type="journal">
+                                <monogr>
+                                    <author>Erdmann Sturm</author>
+                                    <title>An der engen Pforte der historischen Methode vorbei ... .
+                                        Paul Tillichs Habilitation in Halle (1916) und seine
+                                        Umhabilitierungen nach Berlin (1919) und Marburg
+                                        (1924)</title>
+                                    <imprint>
+                                        <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                                        <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                                        <date when="2015">2015</date>
+                                        <biblScope>S. 273–332, hier: 317</biblScope>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>International Yearbook for Tillich Research</title>
+                                    <biblScope>10/1</biblScope>
+                                </series>
+                            </biblStruct>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__402">Carl Cornill</persName>
+                    <placeName ref="#tillich_place_id__189">Halle a. d. Saale</placeName>
+                    <date when="1918-12-21">21.12.1918</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
+                   
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2026-03-10">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <pb n="1"/>
+            <div type="writingSession">
+                <opener><dateline><rs ref="#tillich_place_id__189" type="place">Halle a. S.</rs>, den <date when="1918-12-21">21. Dezember 1918</date></dateline><lb/>
+                Der Dekan<lb/>
+                der theologischen Fakultät<lb/>
+                der vereinigten<lb/>
+                Friedrichs-Universität Halle-Wittenberg<lb/>
+                Dok.-Nr. 82.<lb/><lb/>
+                <salute>Verehrter College!</salute></opener>
+                <p>Ich konnte gleich gestern abend der versammelten Fakultät Ihr <rs ref="L00585" type="letter">Schreiben</rs> vom 17. vorlegen u. theile Ihnen mit, dass unsere Hallische Fakultät in voller Würdigung der Gründe, die Sie dazu veranlaßt haben, ihr Einverständniß mit Ihrer Umhabilitierung in die Theologische Facultät der Berliner Universität erklärt u. Ihnen ihre besten Wünsche in die neue Stellung mitgiebt.</p>
+                <closer><signed><rs ref="#tillich_person_id__402" type="person">Cornill</rs></signed><lb/>
+                    <foreign xml:lang="lat">decanus</foreign>
+                </closer>
+                
+               <postscript><p>
+                   An den Hochwürden<lb/>
+                   Herrn Privatdocent<lb/>
+                   Lic. Dr. P. Tillich<lb/>
+                   <rs ref="#tillich_place_id__38">Berlin-Friedenau</rs>
+               </p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>
