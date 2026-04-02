@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01597">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von dem Sächsischen Ministerium für Volksbildung an Paul Tillich
+                    <lb/>vom 22. Dezember 1926</title>
+                <author ref="#tillich_person_id__2457">Sächsisches Ministerium für Wissenschaft,
+                    Kunst und Volksbildung</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887–1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement ref="#tillich_place_id__126">Dresden</settlement>
+                        <institution>Sächsisches Staatsarchiv</institution>
+                        <repository>Hauptstaatsarchiv Dresden</repository>
+                        <collection>Bestand 11125 Ministerium des Kultus und öffentlichen
+                            Unterrichts</collection>
+                        <idno>12/58</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__2457">Sächsisches Ministerium für
+                        Wissenschaft, Kunst und Volksbildung</persName>
+                    <placeName ref="#tillich_place_id__126">Dresden</placeName>
+                    <date when="1925-08-31">31.08.1925</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__126">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="CO" when="2026-04-02">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><hi rend="u">H: <unclear>¿¿¿</unclear>.</hi><lb/> Auf den <rs ref="L01596"
+                        type="letter"><unclear>Bericht</unclear> v. 12.12.26</rs>.<dateline><rs
+                            ref="#tillich_place_id__126" type="place">Dresden</rs>, <date
+                            when="1926-12-22">2¿. Dezembe. 1926</date>.</dateline>
+                </opener>
+                <p> Das Min. bewilligt stellt Ihnen zur Einrichtung einer Seminarbibliothek für
+                    Ihren Lehrstuhl für Religionswissenschaften auf das laufende Rechnungsjahr einen
+                    einmaligen Betrag von <del rend="s">500</del>
+                    <add place="superlinear">1000</add> RM zur Verfügung. <del rend="s">Einen
+                        höheren Betrag zu bewilligen ist das Min. im Hinblick auf die Knappheit der
+                        zur Verfügung stehenden Mittel in seinem ¿¿¿ nicht in der Lage</del> Es
+                    stellt Ihnen <del rend="s">eine</del>
+                    <add place="superlinear">außerdem</add> die <del rend="s">Errichtung</del>
+                    <add place="superlinear">Bewilligung</add> eines jährlichen Betriebs¿¿¿es von
+                    300 RM für Ihren Lehrstuhl vom Rechnungsjahr 1927 ab in Aussicht u. wird
+                    hierüber Anfang April 1927 weitere Verordnungen er<del rend="s"
+                    >gehen</del>lassen</p>
+                <p>Der Hochschul¿¿¿ ist ¿¿¿ angewiesen worden.</p>
+                <closer>
+                    <signed>Min. f. Volksb.<lb/>¿<lb/>¿<lb/>
+                        <rs ref="#tillich_person_id__4868" type="person">Dr. Kaiser</rs>.</signed>
+                </closer>
+                <salute>An<lb/>
+                    <rs ref="#tillich_person_id__1928" type="person">Herrn Professor DDr.
+                        Tillich</rs><lb/>a. d. Techn. Hochsch.<lb/><hi rend="u">hier.</hi><lb/><figure>
+                        <figDesc>[Stempel: <q>¿¿¿ 22. Dez. 1926</q>]</figDesc>
+                    </figure>
+                </salute>
+                <postscript><p></p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>
