@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01595">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von dem Sächsischen Ministerium für Volksbildung an Paul Tillich <lb/>vom
+                    31. August 1925</title>
+                <author ref="#tillich_person_id__2457">Sächsisches Ministerium für Wissenschaft,
+                    Kunst und Volksbildung</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887–1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement ref="#tillich_place_id__126">Dresden</settlement>
+                        <institution>Sächsisches Staatsarchiv</institution>
+                        <repository>Hauptstaatsarchiv Dresden</repository>
+                        <collection>Bestand 11125 Ministerium des Kultus und öffentlichen
+                            Unterrichts</collection>
+                        <idno>8/58</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, als maschinenschriftliche Abschrift überliefert</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__2457">Sächsisches Ministerium für
+                        Wissenschaft, Kunst und Volksbildung</persName>
+                    <placeName ref="#tillich_place_id__127">Dresden-Neustadt</placeName>
+                    <date when="1925-08-31">31.08.1925</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__230">Kampen</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="CO" when="2026-04-02">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>Abschrift.<lb/><rs ref="#tillich_person_id__2457" type="person">Ministerium
+                        für Volksbildung</rs>. <dateline>
+                        <rs ref="#tillich_place_id__127" type="place">Dresden-N.</rs> 6, den <date
+                            when="1925-08-31">31. August 1925</date>.</dateline>
+                </opener>
+                <p>
+                    <hi rend="u">H: 15 I. 1.</hi>
+                </p>
+                <p> Nachdem Sie sich zur Übernahme der ordentlichen Professur für
+                    Religionswissenschaften an der Technischen Hochschule zu <rs
+                        ref="#tillich_place_id__126" type="place">Dresden</rs> bereit erklärt haben,
+                    ernennt Sie das Ministerium im Anschluß an die Verordnung vom <date
+                        when="1925-08-20">20. August ds. Js.</date> – R: 9 i I. 1 – zum ordentlichen
+                    Professor für Religionswissenschaften in der Allgemeinen Abteilung dieser
+                    Hochschule.</p>
+                <p>An persönlichen Bezügen erhalten Sie vom <date when="1925-08-01">1. August ds.
+                        Js.</date> ab unter Zugrundelegung eines <unclear>BDA</unclear> vom <date
+                        when="1925-08-01">1. August 1921</date> ein Grundgehalt nach Gruppe XIII
+                        <unclear>BO</unclear> (zur Zeit 742,50 <unclear>RM</unclear> monatlich)
+                    nebst den gesetzlichen Zuschlägen sowie den geordneten Gebühren für Vorlesungen
+                    und Übungen.</p>
+                <p>Die über die Ernennung ausgefertigte Urkunde wird Ihnen durch den <rs
+                        ref="#tillich_person_id__2465" type="person">Rektor der Technischen
+                        Hochschule</rs> ausgehändigt werden. An Professor Dr. Tillich. </p>
+                <closer>
+                    <signed>Ministerium für Volksbildung.<lb/>gez. <rs
+                            ref="#tillich_person_id__4868" type="person">Dr. Kaiser</rs>.</signed>
+                </closer>
+                <salute>An<lb/>
+                    <rs ref="#tillich_person_id__1928" type="person">Herrn Professor Dr.
+                        Tillich</rs>. <lb/>z. Zt. <hi rend="u"><rs ref="#tillich_place_id__230"
+                            type="place">Kampen</rs>.</hi>
+                </salute>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,87 +1,143 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00727">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Carl Heinrich Becker an Paul Tillich <lb/>vom 23. Juli 1921</title>
-<author ref="#tillich_person_id__169">Carl Heinrich Becker</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>Deutschland</country>
-<settlement ref="#tillich_place_id__37">Berlin</settlement>
-<institution>Humboldt-Universität Berlin, Universitätsarchiv</institution>
-<repository>Humboldt-Universität Berlin, Universitätsarchiv</repository>
-<collection></collection>
-<idno>Theol. Fak. 142, Bl. 184</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__169">Carl Heinrich Becker</persName>
-<placeName ref="#tillich_place_id__37">Berlin</placeName>
-<date when="1921-07-23">23.07.1921</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<pb n="1"/>
-<div type="writingSession">
-<p>Dem Antrage der Theologischen Fakultät der Universität zu <rs type="place" ref="#tillich_place_id__37">Berlin</rs> entsprechend beauftrage ich Sie, vorbehaltlich des Widerrufs vom Wintersemester <date notBefore="1921-01-01" notAfter="1921-12-31">1921</date> ab in der genannten Fakultät die Geschichte der Religionsphilosophie in Vorlesungen und, soweit nötig, in Übungen zu vertreten.</p>
-<p>Für diese Lehrtätigkeit kann Ihnen außer den Ihnen zufließenden Vorlesungshonoraren eine Vergütung<note type="ea">Im Entwurf des Ministeriums vom gleichen Tage heißt es an dieser Stelle weiter: <q>gewährt werden von jährlich 2000 M (in M), die Ihnen die Universitätskasse vom 1. Oktober d. Jrs. ab bis auf weiteres in monatlichen Teilbeträgen zahlen wird.</q> (GStA PK, I. HA Rep. 76 Va Sekt. 12 Tit IV Nr. 44 Bd. 8 Bl. 186).</note> zur Zeit nicht gewährt werden, da mir Mittel hierzu z. Zt. nicht mehr zur Verfügung stehen.</p>
-<closer><salute>Im Auftrage</salute><signed><rs type="person" ref="#XXXX">Richter</rs></signed></closer>
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Carl Heinrich Becker an Paul Tillich <lb/>vom 23. Juli 1921</title>
+                <author ref="#tillich_person_id__169">Carl Heinrich Becker</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                        <institution>Humboldt-Universität Berlin</institution>
+                        <repository>Humboldt-Universität Berlin, Universitätsarchiv</repository>
+                        <collection/>
+                        <idno>Theol. Fak. 142, Bl. 184</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <biblStruct n="firstPrint" type="journal">
+                                <monogr>
+                                    <author>Erdmann Sturm</author>
+                                    <title>An der engen Pforte der historischen Methode<lb/>vorbei
+                                        ...: Paul Tillichs Habilitation in Halle (1916) und seine
+                                        Umhabilitierungen nach Berlin (1919) und Marburg
+                                        (1924)</title>
+                                    <imprint>
+                                        <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+                                        <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                                        <date when="2015">2015</date>
+                                        <biblScope>S. 273–332, hier: 324</biblScope>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>International Yearbook for Tillich Research</title>
+                                    <biblScope>10/1</biblScope>
+                                </series>
+                            </biblStruct>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__169">Carl Heinrich Becker</persName>
+                    <placeName ref="#tillich_place_id__37">Berlin</placeName>
+                    <date when="1921-07-23">23.07.1921</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
+            <change when="2026-03-12" who="GM">Kollationierung</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <pb n="1"/>
+            <div type="writingSession">
+                <opener>Der Minister <lb/>Für Wissenschaft, Kunst <lb/>und Volksbildung <lb/>U I Nr.
+                    6531. I<dateline><rs type="place" ref="#tillich_place_id__37">Berlin</rs> W8,
+                        den <date when="1921-07-23">23. Juli 1921</date></dateline></opener>
+                <p>Dem Antrage der Theologischen Fakultät der Universität zu <rs type="place"
+                        ref="#tillich_place_id__37">Berlin</rs> entsprechend beauftrage ich Sie,
+                    vorbehaltlich des Widerrufs vom Wintersemester <date notBefore="1921-01-01"
+                        notAfter="1921-12-31">1921</date> ab in der genannten Fakultät die
+                    Geschichte der Religionsphilosophie in Vorlesungen und, soweit nötig, in Übungen
+                    zu vertreten.</p>
+                <p>Für diese Lehrtätigkeit kann Ihnen außer den Ihnen zufließenden
+                    Vorlesungshonoraren eine Vergütung<note type="ea">Im Entwurf des Ministeriums
+                        vom gleichen Tage heißt es an dieser Stelle weiter: <q>gewährt werden von
+                            jährlich 2000 M (in M), die Ihnen die Universitätskasse vom 1. Oktober
+                            d. Jrs. ab bis auf weiteres in monatlichen Teilbeträgen zahlen wird.</q>
+                        (GStA PK, I. HA Rep. 76 Va Sekt. 12 Tit IV Nr. 44 Bd. 8 Bl. 186).</note> zur
+                    Zeit nicht gewährt werden, da mir Mittel hierzu z. Zt. nicht mehr zur Verfügung
+                    stehen.</p>
+                <closer><salute/><signed>[Unterschrift des Ministers]</signed></closer>
+                <postscript>
+                    <p>An den Privatdozenten <rs type="person" ref="#tillich_person_id__1928">Herrn
+                            Lic. Dr. phil. Paul Tillich</rs> in <rs type="place"
+                            ref="#tillich_place_id__38">Friedenau</rs>, Taunusstr. 1 <lb/>Auf den
+                        Bericht vom 18. Juni 1921<note type="ea">Vgl. dazu die Fußnote im <rs
+                                type="letter" ref="L00710">Brief von Paul Tillich an Theologische
+                                Fakultät der Universität Berlin vom 15. Mai 1921</rs>.</note>
+                        <lb/>Abschrift zur Kenntnisnahme und weiteren Veranlassung</p>
+                    <p>Im Auftrage <lb/><rs type="person" ref="#tillich_person_id__1602"
+                            >Richter</rs></p>
+                </postscript>
+            </div>
+
+
+        </body>
+    </text>
 </TEI>

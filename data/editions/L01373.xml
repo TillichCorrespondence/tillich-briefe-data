@@ -35,7 +35,7 @@
                <msIdentifier>
                   <country>USA</country>
                   <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard</institution>
+                  <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Hannah. Papers, 1896-1976</collection>
                   <idno>bMS 721/2(18)</idno>
@@ -72,6 +72,7 @@
       <revisionDesc status="approved">
          <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
          <change when="2024-02-08" who="AR">Initiale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2026-04-01">Kollationierung</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -80,10 +81,11 @@
             <pb n="1"/>
             <opener>
                <salute>
-                  <note type="ea"> Am oberen Rand des Briefes wurde von fremder Hand
-                     (wahrscheinlich <rs ref="#tillich_person_id__1923" type="person">Hannah
-                        Tillich</rs>) <q>Mittwoch – 2 März 22 – (Donnerstag –)</q> vermerkt.
-                  .</note>Geliebte, täglich ersehnte <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>! Liebes, süßes Menschenkind!</salute>
+                  <note type="ea">Am oberen Rand des Briefes wurde von fremder Hand (wahrscheinlich
+                        <rs ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs>)
+                        <q>Mittwoch – 2 März 22 – (Donnerstag –)</q> vermerkt.</note>Geliebte,
+                  täglich ersehnte <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!
+                  Liebes, süßes Menschenkind!</salute>
             </opener>
             <p> Ein Wort zwischen tausend Arbeiten dieser letzten und wildesten Woche des Semesters:
                Ich hab Dich lieb, und denk immer an Dich und in Dir und aus Dir! – –</p>
@@ -91,11 +93,13 @@
                das Schlußkolleg; dazu morgen, Donnerstag und Freitag den Möbelumzug, der alles in
                eine Wüste verwandeln wird bis auf mein Zimmer, das ich dem Mieter überlassen muß,
                bis das seine in Ordnung ist. </p>
-            <p>Deine Briefe habe ich erhalten; hab vielen, sehr vielen Dank! Ich habe Dein Stück 2x
+            <p>Deine Briefe habe ich erhalten;<note type="ea">Korrespondenz liegt nicht vor.</note> hab vielen, sehr vielen Dank! Ich habe Dein Stück 2x
                gelesen und von vielem einen starken Eindruck, muß aber noch in Ruhe in der nächsten
                Woche herangehen und schreibe Dir dann ausführlich.</p>
-            <p>Über Deine Reisepläne habe ich mit <rs ref="#tillich_person_id__2041" type="person">M. L.</rs> gesprochen; es ist vielleicht gut, wenn Du es möglichst lange
-               herausschiebst. Ende März habe ich einen Vortrag in <rs ref="#tillich_place_id__236" type="place">Kassel</rs>; vielleicht können wir es so einrichten, daß wir dann
+            <p>Über Deine Reisepläne habe ich mit <rs ref="#tillich_person_id__2041" type="person"
+                  >M. L.</rs> gesprochen; es ist vielleicht gut, wenn Du es möglichst lange
+               herausschiebst. Ende März habe ich einen Vortrag in <rs ref="#tillich_place_id__236"
+                  type="place">Kassel</rs>; vielleicht können wir es so einrichten, daß wir dann
                zusammen fahren. Aber ich muß erst den Tag wissen. </p>
             <p>Säuglingspflege kommt für Dich nicht in Betracht, da wenn Du hier bist, wir zusammen
                   <hi rend="u">leben</hi> wollen.<pb n="2"/>
@@ -104,14 +108,16 @@
                nun kann ich Dich wohl gar nicht mehr um Dein Bett beneiden, sondern muß Dich sehr
                darin bedauern. Bitte gib mir doch einmal eine nähere Schilderung, wie Dir körperlich
                zu Mut ist.</p>
-            <p>Am meisten aber fühle ich mit Dir in Deinen Seelenschmerzen, <rs ref="#tillich_person_id__1923" type="person">Hannahchen</rs>! Ich will mit Dir
+            <p>Am meisten aber fühle ich mit Dir in Deinen Seelenschmerzen; <rs
+                  ref="#tillich_person_id__1923" type="person">Hannahchen</rs>! Ich will mit Dir
                tragen, so weit <del rend="s">ich</del> es überhaupt ein anderer kann; aber ich weiß,
-               daß das nicht sehr weit ist. Sei stark, mein <rs ref="#tillich_person_id__1923" type="person">Hannahchen</rs> und wisse, daß es für mich keine Zweifel mehr gibt,
+               daß das nicht sehr weit ist. Sei stark, mein <rs ref="#tillich_person_id__1923"
+                  type="person">Hannahchen</rs> und wisse, daß es für mich keine Zweifel mehr gibt,
                zwischen Dir und mir.</p>
             <p>Alles was geschieht, geschieht in Dir, mit Dir für Dich. In allem bin ich Dir
                zugewandt.</p>
             <closer>
-               <salute>Ich liebe Dich. </salute>
+               <salute>Ich liebe Dich.</salute>
                <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
             </closer>
          </div>

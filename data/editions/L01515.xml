@@ -3,9 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Undatierter Brief von Paul Tillich an Hannah Tillich<lb/>
-                                vermutlich aus dem Jahr 1925
-</title>
+            <title>Brief von Paul Tillich an Hannah Tillich <lb/>ohne Datum, vermutlich aus dem Jahr 1925</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -61,7 +59,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date when="1925">1925</date>
+               <date notBefore="1925-01-01" notAfter="1925-12-31">1925</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
