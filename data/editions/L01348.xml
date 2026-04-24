@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Brief von Paul Tillich an Hannah Gottschow <lb/>von September 1920</title>
+            <title>Brief von Paul Tillich an Hannah Gottschow <lb/>ohne Datum, vermutlich September 1920</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -35,7 +35,7 @@
                <msIdentifier>
                   <country>USA</country>
                   <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard</institution>
+                  <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Hannah. Papers, 1896-1976</collection>
                   <idno>bMS 721/2(16)</idno>
@@ -59,7 +59,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date notBefore="1920-09-01">01.09.1920</date>
+               <date notBefore="1920-09-01">09.1920</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1923">Hannah Gottschow</persName>
@@ -72,6 +72,7 @@
       <revisionDesc status="approved">
          <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
          <change when="2024-02-08" who="AR">Initiale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2026-03-09">Erklärende Anmerkungen überprüft und ergänzt</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -80,12 +81,12 @@
             <pb n="1"/>
             <opener>
                <salute>
-                  <note type="ea"> Am oberen Rand des Briefes wurde von fremder Hand
+                  <note type="ea">Am oberen Rand des Briefes wurde von fremder Hand
                      (wahrscheinlich <rs ref="#tillich_person_id__1923" type="person">Hannah
                         Tillich</rs>) <q>Sept. 20</q> vermerkt. Aus dem Inhalt des Briefes lässt sich
                      schließen, dass <rs ref="#tillich_person_id__1923" type="person">Hannah
                         Tillich</rs> zu diesem Zeitpunkt von ihrer Schwangerschaft erfahren hat. Da
-                     sie im September 1921 schwanger gewesen ist und im Juni 1922 ein Kind geboren
+                     sie im September 1921 schwanger gewesen ist und im Juni 1922 ein <rs type="person" ref="#tillich_person_id__3227">Johannes Gottschow</rs> geboren
                      hat, ist unklar, ob von dieser Schwangerschaft die Rede ist oder ob bereits
                      1920 eine frühere Schwangerschaft vorlag.</note>
                   <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>! Geliebte!</salute>
@@ -107,7 +108,7 @@
                keine verlorene Sache und dient der Kraftkonzentration, die Du so nötig hast wie ich.
                – Ich fahre von <rs ref="#tillich_place_id__129" type="place">Dölzig</rs> über <rs ref="#tillich_place_id__594" type="place">Stargard</rs> nach <rs ref="#tillich_place_id__553" type="place">Rügenwaldermünde</rs>. Ursprünglich
                sollte <rs ref="#tillich_person_id__2047" type="person">Eva Wever</rs> mitkommen; sie
-               schrieb aber ab. Ich schrieb darauf an eine <rs ref="#tillich_person_id__2809" type="person">Frau <sic>Apelius</sic>-Erbslöh</rs>, die ich vor einiger Zeit
+               schrieb aber ab. Ich schrieb darauf an eine <rs ref="#tillich_person_id__2809" type="person">Frau <sic>Apelius</sic>-Erbslöh</rs><note type="ea">Die Korrespondenz liegt nicht vor.</note>, die ich vor einiger Zeit
                kennen gelernt hatte, eine Kriegerwitwe, deren ursprünglich starke Erotik, sich in
                mütterlichen Fürsorgewillen gewandelt hat, und die hier rührend für mich sorgt, mich
                nach Art der Rügenwalder Gänse geradezu stopft. – Sonst ist hier alles ganz friedlich
@@ -130,7 +131,7 @@
                Der Wirklichkeit entsprechen Gegenkräfte; die Zukunft ist stärker als wir; diese
                Einsicht hat mir diese Tage schöner gemacht, und ich denke, sie wird mir weiter
                helfen; sie wird aus einer Einsicht zu einer Lebensform werden. – Mein Schwager <rs ref="#tillich_person_id__641" type="person">Alfred</rs> schreibt mir zum
-               Geburtstag, daß er viel an Dich dächte und Dich liebgewonnen hätte. Aber ich hätte
+               Geburtstag<note type="ea">Die Korrespondenz liegt nicht vor.</note>, daß er viel an Dich dächte und Dich liebgewonnen hätte. Aber ich hätte
                nicht die volle Kraft der unbedingten Ausschließlichkeit gehabt, der <q>Treue</q>; hast Du
                es gespürt? In den letzten Wochen sicher nicht mehr. Da warst nur Du da! Es ist wohl
                dasselbe, was <rs ref="#tillich_person_id__643" type="person">Trude Horn</rs> von Dir

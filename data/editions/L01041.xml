@@ -45,7 +45,7 @@
                   <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Postkarte, maschinenschriftlich <lb/>Adressiert:
+                  <p>Postkarte, maschinenschriftlich, adressiert:
                         <!-- Abs.: <q>Professor D. Dr. Tillich, Frankfurt am Main, Feldbergstrasse 7</q> --><q>An
                         den Verlag Mohr, Tübingen</q></p>
                </physDesc>
@@ -103,7 +103,9 @@
    <text type="postcard">
       <body>
          <div type="writingSession">
-            <pb n="1"/>
+            <pb n="1"/><opener>An den Verlag<lb/>
+            Mohr<lb/>
+               <rs ref="#tillich_place_id__448" type="place">Tübingen</rs></opener>
             <p>Hierdurch bitte ich Sie, an mich zum Autorenpreis zu senden je ein Exemplar von
                      <q><rs type="work" ref="#tillich__G8CYBFWE">Das Dämonische</rs></q> und von
                      <q><rs type="work" ref="#tillich__3WM5MENM">Kirche und Kultur</rs></q>.</p>

@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>von 1929</title>
+            <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>ohne Datum, vermutlich Anfang April 1929</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -63,7 +63,7 @@
             <correspAction type="sent">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
                <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
-               <date when="1929">1929</date>
+               <date notBefore="1929-03-28" notAfter="1929-04-15">04.1929</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
@@ -77,6 +77,7 @@
          <change when="2023-11-29" who="PS">Initiale Auszeichnung des Transkripts</change>
          <change when="2023-11-29" who="PS">Endabnahme</change>
          <change who="GM" when="2025-12-02">Erklärenende Anmerkungen überprüft und ergänzt</change>
+         <change who="FS" when="2026-04-15">Genauere Datierung durch Korsika-Kontext</change>
       </revisionDesc>
    </teiHeader>
    <text type="postcard">
@@ -85,18 +86,11 @@
             <pb n="1"/>
             <opener>
                <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!<note
-                     type="ea">Undatierte Postkarte. Vermutlich stammt das Schreiben aus dem
-                     Frühjahr (März bis Mai) 1929. In diese Zeit fällt der Umzug der Tillichs von
-                     Dresden nach Frankfurt am Main.</note>
+                  type="ea">Das undatierte Schreiben stammt vermutlich von Anfang April des Jahres 1929. Am <date when="1928-03-28">28. März 1929</date> war Tillich an die Universität in <rs ref="#tillich_place_id__143" type="place">Frankfurt am Main</rs> berufen worden. Wie u.a. aus der <rs ref="#tillich__37CIHSJ6" type="work">Autobiographie</rs> von <rs ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs> (S. 132) hervorgeht, reiste das Ehepaar Tillich gemeinsam mit ihrer Tochter <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> sowie mit <rs ref="#tillich_person_id__688" type="person">Heinrich Goesch</rs> direkt vor Tillichs Antritt der neuen Stelle noch nach <rs ref="#tillich_place_id__242" type="place">Korsika</rs>. Offensichtlich stammt die vorliegende Postkarte aus dieser Zeit, wobei sich Paul Tillich vermutlich gerade noch in <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> aufhielt, während <rs ref="#tillich_person_id__1923" type="person">Hannah Tillich</rs> auf <rs ref="#tillich_place_id__242" type="place">Korsika</rs> weilte. Sie dürfte demnach mit <rs ref="#tillich_person_id__688" type="person">Goesch</rs> vorausgereist sein, während Tillich sich in <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> um Angelegenheiten die Professur und den Umzug betreffend kümmerte. Am 29. April 1929 <rs ref="#L01014" type="letter">schrieb</rs> Tillich jedenfalls an <rs ref="#tillich_person_id__1291" type="person">Fritz Medicus</rs>, dass er soeben aus <rs ref="#tillich_place_id__242" type="place">Korsika</rs> nach <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> zurückgekehrt sei.</note>
                </salute>
             </opener>
             <p>Anbei Post!<note type="ea">Diese Schreiben liegen nicht vor.</note> Was sagst Du zu
-                  <hi rend="aq">Punta Chiappa</hi>?<note type="ea">Aus dem Brief geht nicht hervor,
-                  worauf sich die Erwähnung von Punta Chiappa bezieht. Möglicherweise ist der Ort
-                     <rs type="place" ref="#tillich_place_id__1229">Punta di á Chiappa</rs> auf <rs
-                     type="place" ref="#tillich_place_id__242">Korsika</rs> gemeint oder <rs
-                     type="place" ref="#tillich_place_id__1228">Punta della Chiappa</rs> in der Nähe
-                  von <rs type="place" ref="#tillich_place_id__1230">Portofino</rs>.</note> Frau <hi
+               <hi rend="aq"><rs type="place" ref="#tillich_place_id__1229">Punta Chiappa</rs></hi>? Frau <hi
                   rend="aq">
                   <rs ref="#tillich_person_id__3105" type="person">Stensbeck</rs>
                </hi> habe ich versehentlich aufgemacht, aber nicht gelesen. Frau <rs

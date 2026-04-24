@@ -3,8 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Brieffragment von Paul Tillich an Hannah Gottschow <lb/>von September
-                              1920</title>
+            <title>Brieffragment von Paul Tillich an Hannah Gottschow <lb/>ohne Datum, vom 30. August 1920</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -38,7 +37,7 @@
                   <country>USA</country>
                   <settlement ref="#tillich_place_id__82">Cambridge,
                                           MA</settlement>
-                  <institution>Harvard</institution>
+                  <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Hannah. Papers, 1896-1976</collection>
                   <idno>bMS 721/2(16)</idno>
@@ -63,7 +62,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date notBefore="1920-09-01">01.09.1920</date>
+               <date when="1920-08-30">30.08.1920</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1923">Hannah Gottschow</persName>
@@ -76,13 +75,14 @@
       <revisionDesc status="approved">
          <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
          <change when="2024-02-08" who="AR">Initiale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2026-03-02">Erklärende Anmerkungen überprüft und ergänzt</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
       <body>
          <div type="writingSession">
             <pb n="3"/>
-            <p>[...]gerade in entgegengesetzter Richtung liegt Deine Aufgabe, freilich
+            <p>[...] gerade in entgegengesetzter Richtung liegt Deine Aufgabe, freilich
                               nur dann, wenn Du die Einheit des Paradox fühlst, wie ich sie in der
                               Tat fühle! Ich bin jederzeit zur Unbedingtheit bereit – wenn Du da
                               bist; ich wäre auch bereit, wartend für Dich zu verzichten, wenn die
@@ -106,8 +106,8 @@
                               ungebrochener Kraft heranwogten, sich aufbäumten, weit höher als mein
                               Kopf, wenn ich auf der ebenen Mauer stand, und dann, wie ein Pfeil
                               vorbeirasten mit stürzendem Getobe; was Wellen sind, habe ich nie
-                              gewußt bis zum Freitag dem 27<hi rend="sup">ten</hi> August Abends um
-                              7 und Sonntags dem 29<hi rend="sup">ten</hi> Nachmittags um 3. Ich
+                              gewußt bis zum <date when="1920-08-27">Freitag dem 27<hi rend="sup">ten</hi> August</date> Abends um
+                              7 und <date when="1920-08-29">Sonntags dem 29<hi rend="sup">ten</hi></date> Nachmittags um 3. Ich
                               ging immer mit innerer Angst dahin. Denn es ist nichts Kleines, der
                               Majestät des Gottes unmittelbar ins Auge zu sehen; <rs ref="#tillich_person_id__2809" type="person">Frau Apelius</rs>
                               brach darüber zusammen; ich war ein Wahnsinniger diese Tage, ohne Ruhe
@@ -125,7 +125,7 @@
                               nicht gewesen vor der verzehrenden Nähe des Gottes, auch Du nicht,
                               kein Mensch, auch kein Gedanke, kein Tun, kein Wollen, nicht einmal
                               ein Erleben, sondern nur ein Dasein, zu Gott-Sein! </p>
-            <p>Übermorgen fahre ich ab. Schreibe dann nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs>! Es wird
+            <p>Übermorgen fahre ich ab. Schreibe dann nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs>!<note type="ea">Das Brieffragment muss am 30. August 1920 entstanden sein, da <rs type="person" ref="#">Paul Tillich</rs> am 1. September 1920 nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> reiste. Vgl. <rs type="letter" ref="L01378">Brief von Paul Tillich an Hannah Gottschow ohne Datum, vermutlich aus der zweiten Augusthälfte 1920</rs>.</note> Es wird
                               nachgeschickt!</p>
             <closer>
                <salute>In tiefster Bewegung – des Gottes Knecht!</salute>

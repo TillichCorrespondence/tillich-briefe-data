@@ -3,7 +3,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Brief von Paul Tillich an Hannah Gottschow <lb/>wahrscheinlich vor Oktober 1922</title>
+            <title>Brief von Paul Tillich an Hannah Gottschow <lb/>wahrscheinlich vor Oktober
+               1922</title>
             <author ref="#tillich_person_id__1928">Paul Tillich</author>
             <respStmt>
                <resp>Editor</resp>
@@ -35,7 +36,7 @@
                <msIdentifier>
                   <country>USA</country>
                   <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard</institution>
+                  <institution>Harvard University</institution>
                   <repository>Harvard Divinity School Library</repository>
                   <collection>Tillich, Hannah. Papers, 1896-1976</collection>
                   <idno>bMS 721/2(18)</idno>
@@ -72,6 +73,7 @@
       <revisionDesc status="approved">
          <change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
          <change when="2024-02-03" who="AA">Initiale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2026-04-22">Kollationierung</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -79,25 +81,31 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline>Freitag</dateline>
-               <salute>Süße geliebte <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+               <dateline>Freitag.</dateline>
+               <salute>Süße geliebte <rs ref="#tillich_person_id__1923" type="person"
+                  >Hannah</rs>!</salute>
             </opener>
             <p> Noch sitzt mir die schreckliche Angst in den Gliedern, die ich heut früh im Bett
                empfand, als am dritten Morgen nichts von Dir da war; sie sitzt noch wie eine
-               Substanz in mir, obgleich Dein beglückender Brief,<note type="ea">Die Korrespondenz liegt nicht vor.</note> daß Du aufstehen kannst, mit der zweiten Post kam. Ich bin gegen alle
-               Dinge, die von Dir kommen, jetzt körperlich ganz widerstandsunfähig. Mein ganzes
-               Körpersystem ist zu durchtränkt durch die Sorge um Dich; eine leise Berührung und es
-               geht aus den Fugen. Ich habe aus tiefster Seele gedankt für den heutigen Brief; denn
-               ohne ihn nach <rs ref="#tillich_place_id__129" type="place">Dölzig</rs> zu fahren,
-               wäre drei Tage Hölle gewesen. Ich bin dort <hi rend="u">nur</hi> von Sonnabend früh
-               bis Montag Abend und hoffe, am Montag wieder Nachricht von Dir zu haben.</p>
+               Substanz in mir, obgleich Dein beglückender Brief,<note type="ea">Die Korrespondenz
+                  liegt nicht vor.</note> daß Du aufstehen kannst, mit der zweiten Post kam. Ich bin
+               gegen alle Dinge, die von Dir kommen, jetzt körperlich ganz widerstandsunfähig. Mein
+               ganzes Körpersystem ist zu durchtränkt durch die Sorge um Dich; eine leise Berührung
+               und es geht aus den Fugen. Ich habe aus tiefster Seele gedankt für den heutigen
+               Brief; denn ohne ihn nach <rs ref="#tillich_place_id__129" type="place">Dölzig</rs>
+               zu fahren, wäre drei Tage Hölle gewesen. Ich bin dort <hi rend="u">nur</hi> von
+               Sonnabend früh bis Montag Abend und hoffe, am Montag wieder Nachricht von Dir zu
+               haben.</p>
             <p>Du schreibst von einem gedrückten Brief über die äußeren Verhältnisse, und davon, daß
-               alles in der Luft schwebt. Mein <rs ref="#tillich_person_id__1923" type="person">Hannahchen</rs>, nun laß Dir für alle diese Dinge folgendes gesagt sein: <hi rend="u">Ich</hi> schwe<pb n="2"/>be nicht in der Luft, sondern in dem Augenblick,
+               alles in der Luft schwebt. Mein <rs ref="#tillich_person_id__1923" type="person"
+                  >Hannahchen</rs>, nun laß Dir für alle diese Dinge folgendes gesagt sein: <hi
+                  rend="u">Ich</hi> schwe<pb n="2"/>be nicht in der Luft, sondern in dem Augenblick,
                wo Du weder seelisch noch körperlich krank und dadurch unzugänglich für mich bist,
                   <hi rend="u">bin ich da</hi>! Und das heißt, daß ein entschlossener Wille da ist,
-               der sich gegen Dich und Deine <rs type="person" ref="#tillich_person_id__2039 #tillich_person_id__2040">Eltern</rs> und meine Leute
-               und die ganze Welt durchsetzt. Äußere Dinge können mich nicht drücken, sondern mir
-               nur Energie des Handelns geben. Du weißt: Solange nur die geringste seelische
+               der sich gegen Dich und Deine <rs type="person"
+                  ref="#tillich_person_id__2039 #tillich_person_id__2040">Eltern</rs> und meine
+               Leute und die ganze Welt durchsetzt. Äußere Dinge können mich nicht drücken, sondern
+               mir nur Energie des Handelns geben. Du weißt: Solange nur die geringste seelische
                Unentschlossenheit in Dir ist, halte ich mich zurück, antworte Dir höchstens mit Rat
                und eigenem Gefühl und stelle bewußt jeden Willen ab. Sobald Du seelisch klar bist,
                lege ich meine Hand auf Dich und meinen Willen in Dich. Ich habe Dir meine Vorschläge
@@ -108,8 +116,7 @@
                Freude sein.</p>
             <closer>
                <salute>Leb wohl unter Rechenschaft und Strömen der Liebe!</salute>
-               <signed>Dein
-                  <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
             </closer>
          </div>
       </body>
