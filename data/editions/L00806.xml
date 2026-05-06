@@ -1,120 +1,725 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00806">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Brief von Paul Tillich an Arnold Wolfers <lb/>vom 15. Dezember 1923</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-<resp>Editor</resp>
-<name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-</edition>
-</editionStmt>
-<publicationStmt>
-<publisher>
-<name>Institut für Systematische Theologie und Religionswissenschaft</name>
-<address>
-<street>Schenkenstraße 8-10</street>
-<postCode>1010</postCode>
-<placeName ref="#tillich_place_id__470">
-<settlement>Wien</settlement>
-<country>Österreich</country>
-</placeName>
-</address>
-</publisher>
-<availability>
-<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc type="manuscript">
-<msIdentifier>
-<country>USA</country>
-<settlement ref="#tillich_place_id__630">Princeton, NJ</settlement>
-<institution>Princeton Theological Seminary Libraries</institution>
-<repository>Special Collections</repository>
-<collection>The Wilhelm and Marion Pauck Collection</collection>
-<idno>Box 44, Folder 13 (1)</idno>
-</msIdentifier>
-<physDesc>
-<p>Brief, eigenhändig</p>
-</physDesc>
-</msDesc>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-</projectDesc>
-<editorialDecl>
-<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-</editorialDecl>
-</encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
-<date when="1923-12-15">15.12.1923</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__2094">Arnold Wolfers</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
-<text type="letter">
-<body>
-<pb n="1"/>
-<div type="writingSession">
-    <opener><dateline><rs type="place" ref="#tillich_place_id__38">Berlin- Friedenau</rs>, <date when="1923-12-15">den 15.12.1923</date> Tanusstr.I</dateline><salute>Lieber <rs type="person" ref="#tillich_person_id__2094">Arnold</rs>!<note type="ea">Hintergrund des vorliegenden Briefs ist Tillichs Vortrag <q><rs ref="#tillich__5WW6IDIV" type="work">Grundlinien des religiösen Sozialismus</rs></q>, den er auf einer <rs ref="#tillich_place_id__236" type="place">Kasseler</rs> Tagung verschiedener religiös-sozialer Gruppen (10.-12. Oktober 1923) gehalten hatte und der anschließend in den <q>Blättern für religiösen Sozialismus</q> abgedruckt worden war. Bereits auf der Tagung scheint der Vortrag kontrovers diskutiert worden zu sein, im Anschluss an seine Publikation in den <q>Blättern</q> meldete <rs ref="#tillich_person_id__2094" type="person">Arnold Wolfers</rs> brieflich scharfe Bedenken gegen den Inhalt des Textes an. <rs ref="#tillich_person_id__1307" type="person">Carl Mennicke</rs>, der die <q>Blätter</q> herausgab, kompilierte daraufhin für die Ausgabe vom Mai/Juni 1924 einen Text unter dem Title <q><rs ref="tillich__ BJ2BYHLV" type="work">Zu Tillichs Systematik</rs></q>. Er besteht aus zwei Teilen: Der erste Teil (<q>Eine Erläuterung</q>) zitiert und kommentiert wesentliche Passagen aus Wolfers&apos; Brief an Tillich bzw. Mennicke. Der zweite Teil (<q>Tillichs Antwort</q>) ist eine wortgetreue Wiedergabe des größten Teils des vorliegenden Briefes. Da der von Mennicke zitierte Brief von Wolfers, auf den Tillich hier reagiert, nicht im Original vorliegt, wird im Folgenden jener erste Teil von <q><rs ref="tillich__ BJ2BYHLV" type="work">Zu Tillichs Systematik</rs></q> wiedergegeben. Rechtschreibfehler und teils fehlende geschlossene Anführungszeichen sind dabei stillschweigend berichtigt bzw. ergänzt worden:<lb/>
-        <hi rend="b">Zu Tillichs Systematik.<lb/>
-            Eine Erläuterung.</hi><lb/>
-        Leider hat der Abdruck von Tillichs <rs ref="#tillich_place_id__236" type="place">Kasseler</rs> Vortrag (<q>Grundlinien des religiösen Sozialismus</q>, Heft 8, 9 u. 10 des vorigen Jahrgangs) für unsere Leser das einzige Zeichen von der Kasseler Tagung bleiben müssen. Wenn wir jetzt auf diesen Vortrag zurückkommen, so geschieht es nicht, um doch noch post festum über die Kasseler Diskussion zu unterrichten. Sondern deshalb, weil sich auf Grund der mündlichen Aussprache in Kassel eine schriftliche Auseinandersetzung entwickelt hat, die allgemeinere Betrachtung verdient. Sie besteht in einem Briefwechsel mit einem Freunde, der selbst nicht an der Kasseler Tagung hatte teilnehmen können, dem gegenüber Tillich brieflich sein Unbefriedigtsein mit dem Verlauf der Aussprache auf seinen Vortrag hin zum Ausdruck gebracht hatte. Ueber den kritischen Brief des Freundes soll hier nur kurz zusammenfassend berichtet werden. Tillichs Antwort kommt dann fast ungekürzt zum Abdruck, weil sie geeignet erscheint, wesentliche Erläuterungen zur Verständigung über Charakter und Richtung seiner Systematik überhaupt zu bieten. Gerade auch die persönlichen Vorbemerkungen werden unseren Freunden nicht unwillkommen sein und manche Mißverständnisse beseitigen können.<lb/> 
-        Daß Tillichs Darstellungs- und Ausdrucksweise zu abstrakt begrifflich sei, ist ihm oft vorgeworfen worden. In Kassel war ihm gegenüber das Wort <q>Dämonie des Begriffs</q> gefallen. Der Freund verleiht diesem Vorwurf verschärften Ausdruck. <q>Als Du mir schriebst, Du hättest jetzt <q rend="single">den Begriff der Dämonie begrenzt und festgelegt</q>, da legte sich das Wort wie ein kalter Reif auf mein Herz. Ich glaubte zu sehen, wie Deine durchaus ursprüngliche und also im Sein wurzelnde Stärke und lebendige Intuition, die berufen war, alte Ketten zu sprengen, selbst in den rostigen Panzer gesteckt würde.</q><lb/>
-        Aber der Freund empfindet natürlich selbst, daß mit diesem Vorwurf nichts Entscheidendes getan sei. Er will deshalb eine ernste sachliche Kritik versuchen. Dabei schickt er noch ein allgemeines Bedenken vorweg. <q>Mir will scheinen, als hättest Du Dich allzulange einer einmaligen, vor langer Zeit gehabten Erleuchtung hingegeben, jener Einsicht von der Zweiheit von Gehalt und Form, als hättest Du nun, wie ich zeigen möchte, teils wegen der Ungenüglichkeit dieser Einsicht, teils wegen der nun ganz auf Systematisierung, Durchführung, rational-konsequenter Zu-Ende-Führung dieser einst so unmittelbaren Intuition Dich in der <q rend="single"><hi rend="g">Wissenschaft von den letzten Dingen</hi></q> verloren. Die Einsicht von damals, und manche, die seither dazu gekommen sind, waren ein neues Licht, durchbrachen die alte Wissenschaft. Aber als Du Dich daran setztest, sie zum Weltprinzip zu machen, von dem alles und jegliches erklärt, eingeordnet und systematisiert werden sollte, da tatest Du zweierlei: Du überspanntest die Bedeutung des Geschauten und beruhigtest Dich deshalb damit, und Du verlorst die Wirklichkeit, die Schau in die Wirklichkeit, vor lauter Idee, vor lauter gefundenem Begriff.</q><lb/>
-        Die nun folgende sachliche Kritik hat als zentralen Grundgedanken den, daß Tillichs Philosophie von einer Geisteshaltung und nicht von einem Sein handele, oder doch jedenfalls immer wieder der Gefahr erliege, hinter der ersteren das letztere zurücktreten zu lassen oder gar zu vergessen. <q>Ich glaube philosophisch gesprochen müßte ich sagen, daß Deiner ganzen Lehre eine sie begründende Ontologie mangelt, besser vielleicht, daß Deine in den <q rend="single">Grundlinien</q> durchschimmernde Ontologie mangelhaft und lückenhaft ist, offenbar weil Du Dich mit dem <q rend="single">Sein</q> der Wirklichkeit gar nicht auseinandersetzest und immer wieder in die Betrachtung der Geisteshaltung verfällst.</q><lb/>
-        Welchen ernsten Hintergrund dieser Einwand hat, darauf führen die folgenden Sätze:<lb/>
-        <q>Du sagst von der sakramentalen <hi rend="g">Geisteslage</hi> oder <hi rend="g">Haltung</hi>, daß sie das Heilige habe, aber es sei mit dem Richtigen nicht eins, sie lehne also das Heilige nicht ab, wo es nicht zugleich das Richtige sei.</q><lb/>
-        <q>Dem setztest Du die <hi rend="g">kritisch-rationale Geisteslage</hi> gegenüber, die sich auf die Form richtet. Die <hi rend="g">prophetische Haltung</hi> schließlich habe das Heilige, aber durch die Form und das Recht. Sie ist losgelöst von der Indifferenz und Entleerung.</q><lb/>
-        <q>Hier befinden wir uns in voller Klarheit auf dem Boden der <q rend="single">Geisteshaltungen</q>. Es wird damit also nicht mehr gesagt, als daß Menschen in sakramentaler Geisteshaltung Wirklichkeiten heiligen, die nicht das Göttliche <hi rend="g">sind</hi>. Oder ist das nicht der einzige tiefere Sinn? Wenn sie nichts als das Göttliche heiligten, wie können sie Unrichtiges heiligen? Oder kann denn das Göttliche das Unrichtige, das Formlose sein? Wenn ich das frage, so leite ich dorthin über, wo die eigentlichen Fragen sich erheben. Steht unsere Ratio, die sich vermißt, das Richtige vom Unrichtigen zu scheiden, außerhalb und über Gott, daß sie sagen <pb n="18"/> darf, oder sagen dürfte, das Heilige, das Göttliche sei zu Unrecht angebetet worden, weil es das <q rend="single">Unrichtige</q> gewesen sei?</q><lb/>
-        Noch deutlicher wird der Sinn des Einwandes durch folgende Sätze:<lb/>
-        <q>Der Geist richtet sich auf die Form, sagst Du. Er geht der <q rend="single">unbedingten reinen Form</q> nach. Wäre es nicht richtiger zu sagen: er macht die Form, die sein eigenes Gesetz ist, er macht die Rationalität, die er allein versteht, zur unbedingten Form für alles. Er zwingt sie herrschaftlich allem auf. Er sieht das Göttliche nur noch, wo es in seine Form eingeht. Das Göttliche wird für ihn Geist. Aus der unbedingten Forderung an ihn, sich zu erheben gegen den Abfall des Ungeistigen, macht er die unbedingte Forderung an Gott selber, nur als ethisch fordernder und als vernunftgesetzlich Seiender wirklich zu sein.</q><lb/>
-        <q>Du stellst Dich nach Deiner Meinung weder auf die Seite der Form, noch auf die Seite des formlosen Gehaltes. Du willst ja die Synthese. Wäre es nicht möglich, daß es mit der <q rend="single">unbedingten rationalen Form</q>, wie Du sie nennst, keine Gehaltssynthese geben kann, weil damit schon ein ungöttlich rationales Element unterschoben ist, das alles Entgegengesetzte entgöttlicht, entwertet, zur Dämonie macht?</q><lb/>
-        Sehr klärend für das Problem, das der Briefschreiber sieht, sind dann endlich noch die folgenden Aeußerungen:<lb/>
-        <q>Wenn das Heilige, das Unbedingte <q rend="single">die Wesenswirklichkeit der Welt</q>, das <q rend="single">ganz Andere</q>, das Göttliche ist, so kann darin keine ursprüngliche Spaltung sein. Es muß der Gehalt formsetzender, mehr noch, es muß eben geformter Gehalt und gehalterfüllte Form das Wesen des Heiligen sein; und nur so weit es das ist, stehen wir in der Offenbarung des Unbedingten. Spricht man, wie Du es tust, von <q rend="single">der unbedingten Form an sich</q>, so spricht man nicht von der gehalterfüllten, aber darum auch nicht von der Formoffenbarung des Göttlichen, und darum überhaupt nicht vom Heiligen, Unbedingten, sondern von der konsequenten absoluten Rationalität des Rationalen, von der Allherrschaft des Rationalen, von der Ueberheblichkeit einer sich unbedingte Durchsetzung verschaffenden Rationalität und also von allem eher, denn vom Heiligen, vom Wesen. Spricht man vom Gehalt jenseits aller Form, vom mystischen Abgrund, so reißt man sich von aller Wirklichkeit los und flieht in eine leere Transzendenz. Man ergreift aber das Heilige nicht.</q><lb/>
-        Die einzelnen Beispiele, an denen der Briefschreiber seine kritischen Gedanken erläutert, kehren in Tillichs Antwort wieder und werden dort, wie ich denke, in ihrem Zusammenhang ganz deutlich. Der Briefschreiber selbst hat nach dem Durchlesen seines Briefes in dem Gefühl, nicht deutlich genug geworden zu sein, seine Gedanken noch einmal zusammengefaßt. Aus dieser Zusammenfassung möge auch hier noch eine klärende Stelle hergesetzt sein.<lb/>
-        <q>Ich habe behaupten wollen, daß Du mit Deinem Geiste das <hi rend="g">eine</hi> Wunder göttlicher Offenbarung oder göttlicher Wirklichkeit zersprengst in unbedingten Gehalt und unbedingte Form, die aber beide durch diese Spaltung nicht mehr das Heilige sind, weder das Gegebene noch das Gesollte, sondern beides Götzen, Abgefallene, Gesonderte. Statt auszugehen von dem <hi rend="g">Einen</hi>, Ursprünglichen, Heiligen, das gehalterfüllte Form und geformter Gehalt und doch weder das Eine noch das Andere – da die Begriffsbildung ja schon aus dem trennenden Geiste geworden und darum zweiwortig ist – sondern eben das <q rend="single">ganz Andere</q> ist, vor dem der Gedanken solcher Zweiheit in sich zusammenbricht. Konkret gesprochen: Es gibt eine <q rend="single">theonome</q> Gemeinschaft, die im Recht steht. Aber sie steht nicht im <q rend="single">richtigen Recht</q>, sie hat mit der <q rend="single">absoluten Rechtsidee</q>, mit der rationalen Gerechtigkeit nichts zu tun. Sie steht jenseits der Kampfstellung der <q rend="single">unbedingten Forderung</q> gegen das <q rend="single">Unrichtige</q>, gegen das <q rend="single">Deformierte</q>. Erst als, beispielsweise, die doch von je und je irrationale, gar nicht rational erfaßbare Abstufung des Ranges <q rend="single">nach innerer Mächtigkeit</q> verunwest war, entleert und überheblich, gemeinschaftssprengend und gegeneinander gestellt war, konnte auch nur der Gedanke <q rend="single">einer rationalen Rechtsidee</q>, einer Form des Gerechten, das gegen den <q rend="single">Gehalt</q> sich stellt, in einem menschlichen Geiste auftauchen. Nicht anders in der Sittlichkeit. Der kategorische Imperativ ist so wenig die Form ursprünglicher heiliger Sittlichkeit, als sich doch vielmehr die Forderung des <q rend="single">Du sollst</q> immer erst erhebt, wo die unmittelbar sittliche Tat nicht mehr aus dem Wesen des Menschen von selbst fließt. Die <q rend="single">Menschenrechte</q> sind nicht autonom und dämonisch geworden, weil ihnen der <q rend="single">Gehalt von oben</q> fehlte, mit dem wir sie nun zu vermählen haben, sondern weil das wahre Recht des Menschen verloren gegangen war, nahm sich die Ratio heraus, ihr rationales Recht zum Gesetz der Welt zu erheben. Sie tat es als heilige Tat, insoweit sie das <q rend="single">Recht der Personalität</q> rettete und emporhob. Sie tat es widergöttlich, soweit sie dieses eine Recht ausschließlich setzte und alles andere entwertete, zur bloßen irrationalen naturalen Dämonie entweste. Wir vermählen uns aber mit dem rationalen Abfall von Gott, wenn wir wieder, und wäre es auch theokratisch und nicht profan rational, die <q rend="single">absolute Rechtsidee</q> heiligten und predigten gegen das <q rend="single">Irrationale</q>. Tun wir es, so kann es auch für uns wieder nur <q rend="single">Irrationales von unten</q>, dämonische Kräfte geben, so sehr wir uns theoretisch bemühen, den <q rend="single">Gehalt von oben</q> heilig sein zu lassen. Es scheint mir das Verhängnisvolle zu sein, daß Du durch die Vergottung der unbedingten Form (nicht bloß als ewige göttliche Erhebung gegen den Abfall, sondern als Form des Göttlichen schlechthin) den Weg zu jener Einsicht versperrst, die die Spaltung des Irrationalen in Irrationales von oben und von unten wirklich aufhebt, und das <q rend="single">Irrationale</q>, <q rend="single">die schöpferischen Kräfte</q> oder wie Du sie sonst nennst, aus ihrer dämonischen Unform in ihre göttliche Wesensform stellen würde.</q></note></salute></opener>
-    
-<p>Erst noch einmal herzlichen Dank für die Mühe und Arbeit, die Du auf Deinen Brief<note type="ea">Dieser Brief liegt nicht vor, vgl. aber die obige Anmerkung.</note> verwendet hast, für die Intensität der Auseinandersetzung mit meinen Begriffen und für den Willen, auf diesem Wege zur Gemeinschaft zu kommen. Ich möchte darum damit beginnen, einiges Historisches und Persönliches zu Deinen Ausführungen zu sagen.</p>
-    <p>Zunächst etwas verhältnismäßiges Äusserliches: Mein Aufsatz über die <q><rs type="work" ref="#tillich__5WW6IDIV">Grundlinien des religiösen Sozialismus</rs></q> ist die Ausarbeitung des Vortrages von vor etwa einem Jahr. Nachdem ich ihn gehalten hatte, hatte ich das Gefühl, dass er liegen bleiben und ausreifen müßte zu einem grösseren Werk. Schon die letzten Kapitel meines <q><rs type="work" ref="#tillich__WLVL28EI">Systems der Wissenschaften</rs></q>, vor allem aber meine <q><rs type="work" ref="#tillich__3CAALVPL">Religionsphilosophie</rs></q>, die seit Oktober bei Ullstein liegt und des Druckes harrt, führen über ihn hinaus, ebenso meine <rs type="work" ref="#tillich__T5LXIT3W">Auseinandersetzung</rs> mit <rs type="person" ref="#tillich_person_id__137">Barth</rs>. Ich musste den Aufsatz fertig stellen, weil ich im August und September völlig ausser stande war, ein neues Referat für <rs type="place" ref="#tillich_place_id__236">Kassel</rs> zu machen und <rs type="person" ref="#tillich_person_id__1307">Mennicke</rs> drängte. Ich habe das selber bedauert, und der Erfolg hat mir recht gegeben. Es fehlt dem Aufsatz die Ursprünglichkeit und Frische, die der Vortrag im <date notBefore="1922-12-01" notAfter="1923-03-31">vorigen Winter</date> noch hatte. Dafür sind die Gedanken klarer gefasst und schärfer durchgeführt, und das war auch bei dem Begriff des Dämonischen nötig, von dem <rs type="person" ref="#tillich_person_id__1664">Rüstow</rs> mit Recht sagte, dass er im Vortrag durch zu weite Fassung unklar geworden wäre. Und die Forderung der absoluten Klarheit und Schärfe muss ja doch wohl bestehen bleiben, solange der Versuch wissenschaftlicher Begriffsbildung gemacht wird. Aber vielleicht war es überhaupt falsch, die <q><rs type="work" ref="#tillich__5WW6IDIV">Grundlinien des religiösen Sozialismus</rs></q> in wissenschaftliche Begriffe fassen zu wollen. Vielleicht wäre es hier der freie anschauliche Stil des politischen, ethischen oder religiösen Redners am Platze gewesen. Für <rs type="place" ref="#tillich_place_id__236">Kassel</rs> wenigstens wäre das sicher günstiger gewesen. Aber das ist nun einmal nicht meine Fähigkeit und meine Aufgabe; mich drängt mein ganzes Wesen dazu, die letzte wissenschaftliche Klarheit und Prägnanz zu suchen, und das hat immerhin die Wirkung gehabt, dass in <rs type="place" ref="#tillich_place_id__236">Kassel</rs>, wie in <rs type="place" ref="#tillich_place_id__37">Berlin</rs> und anderen Orten ein Teil meiner Begriffe gerade auch von den Gegnern immer wieder angewendet wurde, nachdem sie vorher gegen die Begrifflichkeit gekämpft hatten. Ich wäre Euch dankbar, wenn Ihr Euch gelegentlich einmal mit den fortgeschrittenen Begrifflichkeiten meines <q><rs type="work" ref="#tillich__WLVL28EI">Systems der Wissenschaften</rs></q> und, sobald sie gedruckt ist, meiner <q><rs type="work" ref="#tillich__3CAALVPL">Religionsphilosophie</rs></q> auseinandersetzen würdet. Hier würdest Du auch eine ausführliche Ontologie finden, die auf allen Seinsgebieten durchgeführt ist.</p>
-<p>Dazu ein zweites. Du meinst, ich hätte zu lange auf meiner ersten Intuition ausgeruht und sie hätte sich allmählich in abstrakten Begriffen entleert. Zweifellos besteht bei mir die Gefahr der deduktiven Gewaltsamkeit, der die bluthafte Fülle immer neuer Anschauungen der Wirklichkeit fehlt. Diese Gefahr kenne ich und suche ihr durch immer neues Eingehen in das Lebendige und seine verschiedenen Seiten zu entgehen. So stehe ich in einem ununterbrochenen und alljährlich mit größter Energie erneuertem Konnex der Natur, so kam ich zu einem intensiven Freundschaftsleben als Student, so kam ich zur Boheme, zum Krieg, zu den Frauen, zur Politik, zur Malerei und gegenwärtig in <date notBefore="1923-12-01" notAfter="1924-03-31">diesem Winter</date>, mit größter Leidenschaft zur Musik. Das sind die dauernden, Intergenerationen meiner Abstraktheit, die freilich oft nicht stark genug sind, um sie ganz bluthaft zu machen. Aber etwas ganz anderes ist es mit den einmaligen großen Durchbruchserlebnis das du andeutest. Ein solcher Durchbruch ist nur einmal möglich, er ist die individuell-schöpferische Selbsterfassung einer geistigen Gestalt, er ist der Ausdruck seiner Begrenztheit aber auch seiner Kraft. Man kann und muss immer wieder zu dieser Quelle zurückkehren, aber man darf nicht annehmen, dass diese Rückkehr einen neuen Durchbruch bedeutete. Das ist bei allen schöpferischen Geistern so gewesen, mit Ausnahme vielleicht von Erscheinungen wie <rs type="person" ref="tillich_person_id__690">Goethe</rs>, bei denen überhaupt kein typisches Durchbruchserlebnis vorliegt. Ob der Durchbruch stark oder schwach war, das entscheidet über die geschichtliche Wirksamkeit einer geistigen Gestalt.</p>
-<p>Und endlich ein Drittes: Mein Brief an Dich,<note type="ea">Dieser Brief liegt nicht vor.</note> in dem ich über Mangel an Sein klagte, war ein verzweifelter Ausdruck für unsere gesamte Geisteslage und eine verzweifelte Forderung, dass es uns vergönnt sein möge, in das gelobte Land einzugehen, das wir, nur von ferne sehen dürfen. Aber es war ein Stück Unglaube in dieser Verzweiflung. Mann kann und darf nicht so gegenständlich von dem Gott in sich reden. Man darf sich nicht auf sich selbst als Träger des Göttlichen, sondern muß sich auf Gott richten, und muß seine Werke dem Gericht und der Rechtfertigung Gottes überlassen. Es ist völlig richtig, wenn Du sagst, dass, wenn nichts Göttliches in mir wäre, jedes Wort, das ich sagte, dämonisch sein müßte. Es ist aber unmöglich. das eine oder das andere zu behaupten. Das Göttliche oder das Dämonische als Ganzes ist unanschaulich, verborgen wirksam in Jedem. Und das, was am Werk dem Dämonischen entstammt, fällt unter das Gericht der Selbstzerstörung. Uns aber bleibt nichts als in jedem Augenblick gerichtet zu sein auf das Göttliche. Dieses zur Selbstkorrektur meines Briefes.</p>
-<p>Und nun zu Deinen Einwänden: Eine logische Vorbemerkung: Die Notwendigkeit, selbständige Begriffe zu bilden, liegt überall da vor, wo die Elemente einer einheitlichen Wirklichkeit sich als unabhängig voneinander variabel erweisen. Auf diesem Tatbestand beruht überhaupt die Begriffsbildung, die Heraushebung bestimmter Objekte aus dem absolut einheitlichen Flusse der Wirklichkeit. Es besteht nun aber die Tatsache, sowohl in der Ontologie wie in der Geschichtsphilosophie, dass Sinnform und Sinngehalt auf allen Gebieten der Wirklichkeit in einem Spannungsverhältnis stehen und dass auf dieser Spannung der Reichtum sowohl der Gegenstände wie der Vorgänge beruht. Selbstverständlich gibt es keine isolierten Elemente. Die Wirklichkeit ist immer in Integration. Aber es gibt auch keine vollkommene Integration, keine absolute Synthesis. Gäbe es sie, so wäre weder die Dynamik des Geschehens, noch die Möglichkeit der Verunwesung gegeben. Alles Geschehene, alle Lebendigkeit beruht auf der Spannung der Elemente, auf der Variabilität ihrer Relation. Wer darum die Dynamik des Werdens verstehen will, muß diese Elemente in abstracto herausgreifen und ihre Spannungsverhältnisse beobachten. Dass er dabei sich klar ist, keine selbständigen Wirklichkeiten gegeneinander bestellt zu haben, ist so selbstverständlich wie die Integrationsmethode der Infinitesimalberechnung, bei der ja gleichfalls der Fehler, der für die Berechnungszwecke notwendig ist, in der Berechnung selbst sofort wieder integriert wird. Ich glaube, dass über diese logische Seite der Sache Einverständnis bei uns herrschen wird.</p>
-    <p>Von der Logik komme ich zur Dialektik. Leider kenne ich <rs type="person" ref="#tillich_person_id__3662">Schmidhauser</rs> nicht genug, um den eigentlichen Sinn seiner Integration zu verstehen.<note type="ea">Vgl. hierzu auch den vorhergehenden <rs ref="L00805" type="letter">Brief</rs> Tillichs an Wolfers vom 13. Dezember 1923.</note> Doch sehe ich hier eine Gefahr, die ich selbst glaube einmal überwunden zu haben, als ich von <rs type="person" ref="#tillich_person_id__839">Hegel</rs> zu dem zweiten <rs type="person" ref="#tillich_person_id__1705">Schelling</rs> des Irrationalismus überging. Was Ihr Integration nennt, das scheint mir im Wesentlichen die Hegelsche Synthesis zu sein. Nun aber ist es, wie bei <rs type="person" ref="#tillich_person_id__839">Hegel</rs> deutlich zu ersehen, die synthetische Betrachtung der Welt notwendig verbunden mit einer grundsätzlichen Ineinssetzung von Idee und Wirklichkeit, von Gott und Welt, ja auch von Gegenwart und wenigstens keimhaft vollendeter geschichtlicher Synthesis. Hier liegen die tiefsten Wurzeln der romantisch-konservativen Staats- und Gesellschaftslehre, der idealistisch-pantheistischen Ineinssetzung von Gott und Welt. Gegen diese Art der Integration hat <rs type="person" ref="tillich_person_id__1049">Kierkegaard</rs> leidenschaftlich reagiert, gegen sie reagiert gegenwärtig mit Recht <rs type="person" ref="#tillich_person_id__137">Barth</rs> und <rs type="person" ref="#tillich_person_id__694">Gogarten</rs>; und es ist merkwürdig, dass in dem Augenblick, wo Du mich mit <rs type="person" ref="#tillich_person_id__137">Barth</rs> zusammenfasstest, <rs type="person" ref="#tillich_person_id__137">Barth</rs> mich als Hegelianer und Theologen des Turmbaus zu Babel abtut. Ich stelle mich im Gegensatz dazu auf den Boden der Polarität, der dynamischen Spannung, des individuellen Schöpfertums, der Rechtfertigung und des Paradox. Es gäbe für mich nur eine Möglichkeit , den Integrationsgedanken zu bejahen, nämlich den, katholisch zu werden, wobei ich dann freilich das Schicksaal hätte die eine Seite, die zu integrieren wäre, den gesamten autonomen, humanistischen und theokratischen Geist ausschliessen zu müßen. Ich glaube, dass ich der Integration in Wahrheit gerechter werde, wenn ich mich für diese Alternative nicht entscheide und die vollendete Synthesis als regulatives Prinzip behandele, als Korrektiv nach beiden Seiten, ohne dass die Spannung der Elemente jemals aufgehoben wäre. Nicht Integration, sondern Polarität ist unser Schicksaal und Integration ist das Ideal, dem freilich eine Wurzel im Sein selber entspricht. Aber diese Wurzel, dieser verborgene Grund, diese Indifferenz der Gegensätze ist das noch Unentfaltete<supplied>,</supplied> Unindividuelle, Undynamische, es ist der Mutterschoß des Reichtums und des Werdens. Aber wir sind nicht dazu bestimmt, im Mutterschoß, im ewigen Grunde, in dem alles eins ist, zu ruhen, auch nicht wenn dieser Mutterschoß sich als heilige katholische Kirche oder heilige im Wesen stehende Gemeinschaft uns anbietet. Wir stehen in der Spannung, und nur im Paradox, im Durchbruch, im Glauben ist die Integration, die Synthesis der Fülle, die Einheit in Gott verwirklicht.</p>
-    <p>Daraus ergibt sich mein geschichtsphilosophisches Denken. Es ist durch und durch dynamisch und wenn ich von Theonomie rede, so bedeutet es immer nur, dass ich eine jeweilige, in gewissen historischen Momenten annähernd verwirklichte Integration der Spannungselemente annehme. Aber in jeder derartigen Synthesis sind eine solche Fülle neuer Spannungen enthalten, dass sie selbst gewißermaßen nur ein Augenblick, eines Messers Schneide ist, die keinerlei historische Breite hat, sondern nur symbolisch in einem gewißen Zeitraum angeschaut werden kann. Jede solche historisch-symbolische Theonomie ist das Abbild der absoluten Synthesis, der ewigen Integration. Sie ist das schöpferische Ziel, auf das alle Geschichte in jedem Augenblick sich hinbewegt. Ihr Wachsen ist der ewige Kairos, der freilich nur in Zeiten großer Krisen als Kairos bewußt wird. Ich leite die Dynamik der Geschichte also aus der Spannung der Wesenselemente und nicht aus dem Verhältnis von Wesen und Verunwesung ab. Ich muss Dich und <rs type="person" ref="#tillich_person_id__3662">Schmidhauser</rs> fragen, wie kommt Verunwesung zustande? Gemeint ist doch offenbar nicht die menschliche Unzugänglichkeit, Sündhaftigkeit, das Nachlassen der schöpferischen Kräfte, oder dergleichen. Denn das ist eine Angelegenheit, die in jedem Augenblick für jeden Einzelnen, jede Geisteshaltung und jede Zeit gültig ist. Es ist der Kampf des Schöpferischen gegen das Erstarrte, des Starken gegen das Schwache, des Sittlichen gegen das Unsittliche, des Wertvollen gegen das Wertwidrige; aber dieser Kampf kann doch niemals eine Dynamik der Geschichte ergeben. <q>Dem Herrlichsten, was auch der Geist empfangen, drängt immer fremd und fremder Stoff sich an.</q><note type="ea">Tillich zitiert hier Goethes <rs ref="#tillich__U9ZJIKR6" type="work">Faust</rs>, erster Teil, erste Szene (<q>Nacht</q>), Zeile 634f.</note> Das ist nicht das Problem, sondern die Frage ist die: Wie kommt es überhaupt zum Schaffen, zum Vorwärtsdrängen, zur Dynamik? Warum lebt der Geist nicht in beruhigter Einheit mit Gott, in ständiger Abwehr vielleicht des Ungöttlichen, aber doch in sich selbst gesättigt. Um diese Frage zu beantworten, müssen wir uns umsehen nach einem Element, das nicht ungöttlich, nicht einfach negativ und doch auch nicht gefüllt, gesättigt, beruhigt ist. Dieses Element aber, die göttliche Unruhe in Geistigen, nenne ich die Form.</p>
-<p>Damit bin ich auf den zentralen Punkt Deiner Kritik gekommen. Die Erfassung der Wesenselemente, Form und Gehalt, ist die Voraussetzung meiner polaren und dynamischen Weltauffassung. Vielleicht kann man die Polarität auch anders formulieren, etwa im Logischen als Denken und Sein, im Ethischen als Haben und Sollen. Mir sagt die aus der bildenden Kunst entnommene Formulierung <q>Form und Gehalt</q> am meisten zu. Ich glaube zu sehen dass im Wesen jeder Formung, aesthetischer wie logischer, sozialer wie rechtlicher, die unbedingte Forderung nach absoluter Formung enthalten ist. Dieses Element der unbedingten Geltung in allen Sinnfunktionen scheint mir der unendliche Antrieb der historischen Dynamik zu sein. Würde dieser Antrieb fehlen, so würden die großen Katastrophen, die die rein biologischen Kräfte jederzeit bewirken, keine Geschichte, sondern nur eine Reihe von Veränderungen ergeben. Aber selbst in der Natur können wir eine Formsteigerung feststellen und zwar, wie ich im <q><rs type="work" ref="#tillich__WLVL28EI">System der Wissenschaften</rs></q> nachzuweisen versuchte auf Grund der gleichen Polarität von Denken und Sein, die für die gesamte Geistesgeschichte maßgeblich ist. Wohl weiß ich, dass man die absolute Form niemals als eine Gegebenheit, etwas Wirkliches deuten darf. Sie ist der unendliche Antrieb, nicht weiter; und ich gebe zu, dass in meinen Formulierungen eine bestimmte Form der Rationalität anscheinend die Stelle der absoluten Form einnimmt. Hier sind Korrekturen möglich und notwendig. Atomismus, Gleichheitsgedanke und dergl. dürfen in der Tat nicht als Repräsentanten der absoluten Form aufgefasst werden, sondern als Formen exklusiver Polarität, als Formen, die, wenn sie realisierbar wären, gehaltlos sein würden, als Formen, deren Aufgabe es darum einzig und allein ist, das reine abstrakte und insofern absolut rationale Formprinzip im Gegensatz zu dämonischen Formzerstörungen aufrecht zu erhalten. Das Prinzip der griechisch-abendländischen Rationalität wird in dem Maße dämonisch, in dem es eine losgelöste Selbständigkeit erreicht. Und der Inhalt meiner Vorlesung über das Griechentum ist darum die Tragik der reinen rationalen Form. Ich würde also auf Grund Deiner Kritik mich dahin korrigieren, dass ich formulierte: <hi rend="u">Die reine rationale Form</hi> ist der losgelöste Gegenpol zur dämonischen Formzerstörung. Von ihm aber ist zu unterscheiden <hi rend="u">die absolute Formforderung</hi>, deren Inhalt absolut betrachtet im Idealen bleibt, konkret betrachtet <hi rend="u">sich in der Theonomie</hi> verwirklicht. Die reine rationale Form ist ein Korrektiv, dessen göttliches Recht eben in seinem Charakter als antidämonsisches Korrektiv besteht. Die Wirklichkeit aber lebt niemals im Korrektiv, und wo sie es versucht, da gerät sie gerade in das Gegenteil, die <q>naturale Dämonie</q>.</p>
-<p>Der falsche Anschein, den meine Ausführungen erweckt haben, beruht zum Teil darauf, dass ich es versäumt habe, den naturalen Dämonien die naturalen Göttlichkeiten gegenüberzustellen, die schöpferischen, aus den Nachwirkungen der Theonomie stammenden Kräfte, die auch gegenwärtig lebendig sind. Mir ist schon damals bei der Ausarbeitung des Aufsatzes dieser Gedanke gekommen, aber ich hatte das Gefühl, dass er die Prägnanz der Gedankenführung stören würde. Vielleicht wäre es doch besser gewesen, ich hätte diese Elemente aufgewiesen. Es würde sich dann gezeigt haben, dass z.B. in der wirklichen Demokratie, in der wirklichen rationalen Wissenschaft, in der wirklichen autonomen Kunst, Wirtschaft und Soziallehre das rationale Prinzip immer das geblieben ist, was es wesensmäßig ist: Korrektiv, und dass die genannten Erscheinungen eine Fülle göttlicher, erosgetragener Elemente in sich bergen. Ich hätte zeigen müssen, dass genau wie in der sakramentalen Geisteshaltung Göttliches und Dämonisches miteinander verknüpft sind, so auch in der autonomen Geisteslage. Ich hätte der <rs type="person" ref="#tillich_person_id__1946">Tönniesschen</rs> Verwirrung begegnen können, als ob es wirklich eine <q>Gesellschaft</q> gäbe, während auch Gesellschaft nur ein Korrektivbegriff ist, die Menschheit aber immer von der Einheit göttlicher und dämonischer Gemeinschafts-resp. Machtelemente lebt. Eine solche Darstellung hätte weiter den Vorteil, dass die Theonomie nicht wie ein Deus ex machina hervorbräche, sondern an dem gegebenen Anknüpfungspunkte finden könnte. So habe ich Z.B. in meiner <q><rs type="work" ref="#tillich__3CAALVPL">Religionsphilosophie</rs></q> die Theorie als das Prius und die immerwährende Voraussetzung von Autonomie und Heteronomie gedeutet. Damit ist, denke ich, auch Deiner ontologischen Forderung Genüge getan. Es handelt sich in der Tat nicht um sich ablösende Geisteshaltungen, sondern um soziale und geistige Realitäten, die in jedem Augenblick von den göttlichen Lebensgrunde fundiert sind, und insofern immer im Theonomen wurzeln, immer aber auch infolge der Dynamik der Geschichte die innere Spannung von Form und Gehalt in sich tragen, die sich auswirkt als Gegensatz von Autonomie und Dämonie. So vereinigt sich für mich die ontologische Basis alles Wirklichen in Gott mit der Dynamik der Geschichte.</p>
-<p>Von hier aus werden nun auch die symbolischen Begriffe Eros und Mächtigkeit (wie besser statt Macht zu sagen wäre) in ihrer Bedeutung offenkundig. Ich bin weit entfernt davon, in protestantischer Weise, oder besser in Kantisch-Fichtescher Weise die Natur zu entleeren. Seit meinem Schellingstudium bin ich über diesen Punkt keinen Moment im Unklaren gewesen. Er ist so entscheidend für mich, dass er mich nicht nur im Leben bestimmt hat, sondern auch bewirkt hat, dass meine Theologie von echten protestanten immer als heidnisch empfunden wurde. Hier hast du etwas Falsches in mich hereingelesen. Aber freilich, wir können nicht auf vergangenen Stufen des Heidnischen zurück, wir können nicht heilige Prostitution oder heilige Tyrannis wieder einführen. Wo sie wiederkehrt, und wir kennen ja Versuche sie wieder einzuführen, empfinden wir sie als schlechthin dämonisch, und zwar deswegen als dämonisch, weil sie das Prinzip des Ethischen selbst, und darum sowohl des Rechtes wie der Gemeinschaft zerstört: Die Persönlichkeit. Andererseits sehe ich, dass alle Schöpfungen theonomer Formen in Gemeinschaft und Recht nur möglich sind, insofern sie getragen sind von Eros und Mächtigkeit. Diese Dialektik des schöpferischen Prinzips, dass es immer zugleich göttlich und dämonisch kann, ist für mich der Ausdruck der Unmöglichkeit, Gott zu entgehen, und darum auch der Unmöglichkeit, eine Welt auf reine rationale Form zu gründen. Ich halte darum auch die Doppelheit von Eros und Mächtigkeit aufrecht.</p>
-    <p>Und als Theologe, der gewohnt ist, die göttlichen Eigenschaften um die beiden zentralen Begriffe, Macht und Liebe zu grappieren, brauche ich mich natürlich auch nicht zu scheuen, von heiliger Macht zu reden. Die Empfindung, aus der dein Widerspruch gegen die Nebenordnung hervorgeht, beruht auf dem Sprachgebrauch, der Liebe im Unterschied von Eros schon immer irgendwie im Sinne der Heiligkeit fasst, während Macht noch ungeschieden von der naturalen Bedeutung gebraucht wird. Es ist infolgedessen nicht anhängig, Macht und Liebe parallel zu setzen, dagegen ist es richtig, Macht mit Eros zusammen als Symbole der dialektischen, sowohl dem Dämonischen wie dem Göttlichen zugänglichen Lebensunmittelbarkeit zu fassen, Liebe und Mächtigkeit dagegen als Ausdruck für die theonome Verwirklichung zu reservieren. Aus diesen terminologischen Bemerkungen kannst Du nun auch meinen bildlichen Ausdruck <q>Gehalt von oben</q> und <q>Gehalt von unten</q> besser verstehen.<note type="ea">Diese Begriffe finden sich nicht im publizierten Text <q><rs ref="#tillich__5WW6IDIV" type="work">Grundlinien des religiösen Sozialismus</rs></q>, jedoch zumindest annähernd in einer Version des Textes, die unter dem Titel <q><rs ref="#tillich__F4H3T4RZ" type="work">Die religiöse Erneuerung des Sozialismus</rs></q> in Tillichs Nachlass liegt und im zehnten Band der Ergänzungs- und Nachlassbände publiziert worden ist, und die also womöglich dem Kasseler Vortrag entspricht. Auf S. 315 jenes Textes grenzt Tillich die Theonomie von <q>transcendenter</q> und <q>immanenter</q> Utopie ab: <q>Die transcendente Utopie ist tiefer als die immanente. Sie weiß, daß das Unbedingte im Zusammenhang des Bedingten keinen Platz hat; aber sie gibt ihm einen Platz überhaupt. Sie bejaht damit die Nebenordnung, die dem Unbedingten widerspricht. – Die immanente Utopie. Sie ist halb, insofern sie die Natur unangetastet läßt, in der Menschheit aber die irrationalen dämonischen Kräfte als nicht vorhanden betrachtet. Diese Kräfte: Macht, Eros, innere Unendlichkeit sind aber gerade die Träger jeder Form-Realisierung, wenn sie auch zugleich die Mittel jeder Formzerstörung sind. – Die Theonomie rechnet mit ihnen; nicht als ob sie sie bejaht im Sinn der Dämonie, sondern indem sie sie in die Irrationalität von oben überführt, die durch die Form hindurchgegangen ist.</q> Auf S. 323 heißt es schließlich über die <q>innenpolitische Lage der Autonomie</q>: <q>Je mehr Demokratie im rationalen Sinn, desto mehr Indifferenz. Die rationalisierte Beamtenhierarchie als verdinglichte Trägerin der Macht-Beziehungen jederzeit bereit, das gegenständliche rationale Gewaltverhältnis innerhalb der rationalen Grenzen auszuüben. Der Gegensatz von Subjekt und Objekt als Analogon zum technischen Verhältnis. – Aber auch diese leere Form bleibt nicht allein. Die irrationalen Mächte erheben sich von unten, und es entstehen Träger neuer Mächtigkeiten. Aber diese sind nicht von einem inneren Ethos getragen, sondern sie sind die Träger der höchsten rationalen Kraft: das Eros-lose wissensmächtige, theokratisch-rationale Bürgertum.</q></note> Gehalt von oben ist diejenige Offenbarung des unbedingt Wirklichen die gehorsam ist der unbedingten Form. Gehalt von unten ist diejenige Offenbarung des unbedingt Wirklichen, die im Widerspruch steht zur unbedingten Form, die Offenbarung des Göttlich-Widergöttlichen, des Dämonischen. Im übrigen bleibt es dabei, dass es das eine oder das andere in Isoliertheit nicht gibt, dass es aber Erscheinungen gibt, die für das eine oder das andere symbolkräftig sind, wie Christ und Antichrist. Und es ist für jede Zeit von entscheidender Wichtigkeit, nicht nur, worin sie das Göttliche, sondern auch, worin sie das Dämonische symbolisiert findet. Sehr stark und großartig ist diese Symbolik z.B. in der <q>Offenbarung Johannes</q>, wo <rs type="place" ref="#tillich_place_id__369">Rom</rs> immer abwechselnd als dämonische Macht unter dem Symbol des Tieres und als dämonischer Eros unter dem Symbol der grossen Hure angeschaut wird. Ähnliche Dinge können wir immer wieder in der Geistes- und Religionsgeschichte finden.</p>
-<p>Ich hoffe, dass Dir nunmehr meine Gedanken klarer geworden sind, als sie es bisher waren, und ich glaube auch, dass ich Dir in manchen Dingen näher gekommen bin. Von einem aber hast Du mich nicht überzeugen können, davon nämlich, dass meine abstrakte Unterscheidung von Form und Gehalt von mir aufgegeben werden müsse. Nur das gebe ich zu, dass es nicht richtig ist, die unbedingte Form, in der ja Form und Gehalt vollkommen eins sind, zu vermischen mit der rationalen, der dämonischen Formzerstörung entgegenstehenden Korrektivform. Die unbedingte Form ist konkret, sie ist das unbedingt Konkrete, die rationale Form hat von ihr die formale Unbedingtheit und das ist ihre Erhabenheit und Majestät, die <rs type="person" ref="#tillich_person_id__1020">Kant</rs> gesehen hat und die dem Rationalismus im Ethischen wie im Logischen das heroisch Theokratische gibt. Aber die rationale Form ist keine Form des Lebendigen, sondern ein Korrektiv des Dämonischen und sie ist aufgehoben im Göttlichen.</p>
-<p>Noch ein Problem wäre hier zu behandeln. Die Frage nämlich, wann eine Wirklichkeit, dämonischen Charakter annimmt, wann z.B. der Kannibalismus aus einem unmittelbar Göttlichen zu einem dämonischen Kult wurde. Der Begriff <q>Verwesung</q> ist hier nicht klärend, denn was heisst verunwester Kannibalismus? Meiner Überzeugung nach wird der Kannibalismus dämonisch in dem Augenblick, wo ein prophetisch-theokratisches Bewußtsein gegen die Persönlichkeit- und Gemeinschaft zerstörende Form dieser kultischen Ekstatik opponiert, und diese Opposition das religiöse Bewusstsein gestaltet. Natürlich ist es möglich, dass der Prophet in dem Augenblick auftritt, wo der Kannibalismus der ursprünglich vielleicht selbst einer prophetischen Aktion gegen eine andere Dämonie sein Leben verdankt, seinen schöpferischen Moment hinter sich hat, erstarrt, offenbarungsunfähig wird und in diesem Sinne verunwest. Aber auch dann wäre zu fragen, woher kommt diese Verunwesung, und wenn sie da ist, woher kommt es, dass die Opposition auch über den im Wesen stehenden Kannibalismus hinausgeht und den Ersatz des Menschenopfers durch das Tieropfer fordert? In allen diesen Dingen ist es die innere Dynamik der unbedingten Form, die weiter treibt und nicht das an und für sich bedeutungslose Auf und Ab von Wesen und Verunwesung, Schöpfung und Erstarrung.</p>
-    <p>Der dynamische Charakter meiner Gedanken kommt nun schliesslich noch in einem Begriffe zum Ausdruck, der vom Standpunkt der Integration und gegebenen Synthese aus wohl kaum eine Bedeutung hat, der Begriff des Durchbruchs. Sowohl in meiner <q><rs type="work" ref="#tillich__3CAALVPL">Religionsphilosophie</rs></q>, wie auch augenblicklich in meinem Augustinkolleg<note type="ea">Tillich hielt im Wintersemester 1923/1924 in Berlin eine Vorlesung über <q><rs type="work" ref="#tillich__AX3EQ2XX">Geistesgeschichte der altchristlichen und mittelalterlichen Philosophie</rs></q>, in der er fünf Vorlesungstermine lang <rs ref="#tillich_person_id__100" type="person">Augustinus</rs> besprach. Der Begriff des <q>Durchbruchs</q> findet sich im Manuskript zu diesen Stunden allerdings nur einmal an marginaler Stelle (S. 480). Allerdings resümiert Tillich, nachdem er die Behandlung von <rs ref="#tillich_person_id__100" type="person">Augustinus</rs> abgeschlossen hat: <q>Augustin als Anfang der abendländischen Entwicklung. In ihm unmittelbare Durchbrüche großer Ideen.</q> (S. 505).</note> spielt dieser Begriff eine sehr entscheidende Rolle. Er bringt das Verhältnis von Profanem und Heiligem zum Ausdruck, wobei profan zu definieren ist als Richtung auf die Einzelform der Dinge und ihren theoretischen und praktischen Zusammenhang, abgesehen von dem in ihren lebendigen unbedingt Wirklichen. Im Verhältnis zu dieser profanen Beziehung der Dinge untereinander und zu uns (und auch der Philosophie dieser profanen Relation) bedeutet das Göttliche und das Dämonische, wo immer es anschaubar wird, in einen Durchbruch und die symbolischen Begriffe, in denen es gefasst wird, sind echte Durchbruchsbegriffe. Sie sind rational betrachtet, nicht einzuordnen und doch ist an sich das Unbedingt-Wirkliche allenthalben und in jedem Augenblick das Fundierende, Tragende. Aber es ist als solches niemals direkt, unmittelbar in den Eigenformen der Dinge gegeben, sondern immer nur unanschaulich-paradox, eben als Durchbruch. Zu Deinem Brief an <rs type="person" ref="#tillich_person_id__1307">Mennicke</rs> noch folgendes:</p>
-<p>Wenn es richtig ist, dass die Liebe und Mächtigkeit die tragenden Kräfte auch einer theonomen Gesellschaftsordnung sind, und dass in jeder Liebe Eros, und in jeder Mächtigkeit Macht ist, so kann es keinen anderen Weg zur neuen Theonomie geben, als das die erosgetragene Gemeinschaft derer, in denen die größte theonome Mächtigkeit ist, sich als Macht durchsetzt. Ich gebe ohne weiteres zu, dass wir den Gedanken, die Arbeiter müßten erst in eine andere wirtschaftliche Lage gebracht werden, ehe sie religiös gefüllt werden können, unmöglich ist. Aber es handelt sich ja auch nicht darum, die Arbeiter religiös oder geistig zu füllen, sondern es handelt sich darum, eine Gestalt der Gesellschaft zu schaffen, die getragen ist von einer religiösen Idee, und wenn wir von der Arbeiterschaft insonderheit verlangen, dass sie die neue Gesellschaft trägt, so tun wir es deshalb, weil wir meinen, dass sie dadurch ihr Schicksaal mehr als die anderen Stände in jedem Augenblick dazu gedrängt wird, ihre gesamte seelische Intensität auf die Verwirklichung der neuen Theonomie zu richten. Im Urchristentum war die Vermischung dieser Intensität mit einem profanen Beutekrieg, einem Sklavenaufstand oder dergl. nicht möglich, weil die Idee transzendent und individualistisch war. Sie erlag dagegen der Gefahr, zu einer Sekte und Kulturgemeinschaft zu werden. Für die Arbeiterbewegung ist die Lage infolge der sozialen und immanenten Richtung der religiösen Idee sehr viel schwieriger. Sie ist in ihren Ursprüngen, wenigstens im Marxismus der Gefahr erlegen, eine politische Partei zu werden, Wir, die diese Gefahr gesehen haben, und doch nicht zu einem transzendenten Individualismus zurückkehren wollen, haben die ungeheuer schwer Aufgabe, dieses dialektische Verhältnis genau in der Schärfe herauszuarbeiten, wie es die Theologie und gegenwärtig vor allem <rs type="person" ref="#tillich_person_id__137">Barth</rs> und <rs type="person" ref="#tillich_person_id__694">Gogarten</rs> im Verhältnis zur Kirche getan haben. Dabei kann es geschehen, dass die Arbeiterschaft diese Wendung überhaupt nicht mitmacht und ihr Erbe auf andere Kreise übergeht. Wahrscheinlich ist das aber nicht, solange sie diejenige Schicht ist, die am stärksten unter der Dämonie unserer Zeit leidet.</p>
-<p>Noch ein Wort: Wenn Du das Gefühl hast, dass auch diese Ausführungen wieder unter der Dämonie des Begriffs stehen, so bin ich dagegen natürlich machtlos. Ich würde aber unter allen Umständen von dem Gott verlangen, dass er auch im Begrifflichen stärker ist als der Dämon und ihn mit seinen eigenen Waffen schlägt. Ich bin Dir dankbar, dass du den Windungen meiner Begriffsbildung gefolgt bist und ich hoffe, Du siehst, dass das nicht umsonst gewesen ist.</p>
-<closer><salute>Viele herzliche Grüsse</salute><signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs></signed></closer>
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Arnold Wolfers <lb/>vom 15. Dezember 1923</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__630">Princeton, NJ</settlement>
+                        <institution>Princeton Theological Seminary Libraries</institution>
+                        <repository>Special Collections</repository>
+                        <collection>The Wilhelm and Marion Pauck Collection</collection>
+                        <idno>Box 44, Folder 13 (1)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
+                    <date when="1923-12-15">15.12.1923</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__2094">Arnold Wolfers</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="AA" when="2025-10-19">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <pb n="1"/>
+            <div type="writingSession">
+                <opener><dateline><rs type="place" ref="#tillich_place_id__38">Berlin-
+                            Friedenau</rs>, den <date when="1923-12-15">15.12.1923</date> Taunusstr.
+                        I</dateline><salute>Lieber <rs type="person" ref="#tillich_person_id__2094"
+                            >Arnold</rs>!<note type="ea">Hintergrund des vorliegenden Briefs ist
+                            Tillichs Vortrag <q><rs ref="#tillich__5WW6IDIV" type="work">Grundlinien
+                                    des religiösen Sozialismus</rs></q>, den er auf einer <rs
+                                ref="#tillich_place_id__236" type="place">Kasseler</rs> Tagung
+                            verschiedener religiös-sozialer Gruppen (10.-12. Oktober 1923) gehalten
+                            hatte und der anschließend in den <q>Blättern für religiösen
+                                Sozialismus</q> abgedruckt worden war. Bereits auf der Tagung
+                            scheint der Vortrag kontrovers diskutiert worden zu sein, im Anschluss
+                            an seine Publikation in den <q>Blättern</q> meldete <rs
+                                ref="#tillich_person_id__2094" type="person">Arnold Wolfers</rs>
+                            brieflich scharfe Bedenken gegen den Inhalt des Textes an. <rs
+                                ref="#tillich_person_id__1307" type="person">Carl Mennicke</rs>, der
+                            die <q>Blätter</q> herausgab, kompilierte daraufhin für die Ausgabe vom
+                            Mai/Juni 1924 einen Text unter dem Title <q><rs ref="tillich__ BJ2BYHLV"
+                                    type="work">Zu Tillichs Systematik</rs></q>. Er besteht aus zwei
+                            Teilen: Der erste Teil (<q>Eine Erläuterung</q>) zitiert und kommentiert
+                            wesentliche Passagen aus Wolfers&apos; Brief an Tillich bzw. Mennicke.
+                            Der zweite Teil (<q>Tillichs Antwort</q>) ist eine wortgetreue
+                            Wiedergabe des größten Teils des vorliegenden Briefes. Da der von
+                            Mennicke zitierte Brief von Wolfers, auf den Tillich hier reagiert,
+                            nicht im Original vorliegt, wird im Folgenden jener erste Teil von
+                                    <q><rs ref="tillich__ BJ2BYHLV" type="work">Zu Tillichs
+                                    Systematik</rs></q> wiedergegeben. Rechtschreibfehler und teils
+                            fehlende geschlossene Anführungszeichen sind dabei stillschweigend
+                            berichtigt bzw. ergänzt worden:<lb/>
+                            <hi rend="b">Zu Tillichs Systematik.<lb/> Eine Erläuterung.</hi><lb/>
+                            Leider hat der Abdruck von Tillichs <rs ref="#tillich_place_id__236"
+                                type="place">Kasseler</rs> Vortrag (<q>Grundlinien des religiösen
+                                Sozialismus</q>, Heft 8, 9 u. 10 des vorigen Jahrgangs) für unsere
+                            Leser das einzige Zeichen von der Kasseler Tagung bleiben müssen. Wenn
+                            wir jetzt auf diesen Vortrag zurückkommen, so geschieht es nicht, um
+                            doch noch post festum über die Kasseler Diskussion zu unterrichten.
+                            Sondern deshalb, weil sich auf Grund der mündlichen Aussprache in Kassel
+                            eine schriftliche Auseinandersetzung entwickelt hat, die allgemeinere
+                            Betrachtung verdient. Sie besteht in einem Briefwechsel mit einem
+                            Freunde, der selbst nicht an der Kasseler Tagung hatte teilnehmen
+                            können, dem gegenüber Tillich brieflich sein Unbefriedigtsein mit dem
+                            Verlauf der Aussprache auf seinen Vortrag hin zum Ausdruck gebracht
+                            hatte. Ueber den kritischen Brief des Freundes soll hier nur kurz
+                            zusammenfassend berichtet werden. Tillichs Antwort kommt dann fast
+                            ungekürzt zum Abdruck, weil sie geeignet erscheint, wesentliche
+                            Erläuterungen zur Verständigung über Charakter und Richtung seiner
+                            Systematik überhaupt zu bieten. Gerade auch die persönlichen
+                            Vorbemerkungen werden unseren Freunden nicht unwillkommen sein und
+                            manche Mißverständnisse beseitigen können.<lb/> Daß Tillichs
+                            Darstellungs- und Ausdrucksweise zu abstrakt begrifflich sei, ist ihm
+                            oft vorgeworfen worden. In Kassel war ihm gegenüber das Wort <q>Dämonie
+                                des Begriffs</q> gefallen. Der Freund verleiht diesem Vorwurf
+                            verschärften Ausdruck. <q>Als Du mir schriebst, Du hättest jetzt <q
+                                    rend="single">den Begriff der Dämonie begrenzt und
+                                    festgelegt</q>, da legte sich das Wort wie ein kalter Reif auf
+                                mein Herz. Ich glaubte zu sehen, wie Deine durchaus ursprüngliche
+                                und also im Sein wurzelnde Stärke und lebendige Intuition, die
+                                berufen war, alte Ketten zu sprengen, selbst in den rostigen Panzer
+                                gesteckt würde.</q><lb/> Aber der Freund empfindet natürlich selbst,
+                            daß mit diesem Vorwurf nichts Entscheidendes getan sei. Er will deshalb
+                            eine ernste sachliche Kritik versuchen. Dabei schickt er noch ein
+                            allgemeines Bedenken vorweg. <q>Mir will scheinen, als hättest Du Dich
+                                allzulange einer einmaligen, vor langer Zeit gehabten Erleuchtung
+                                hingegeben, jener Einsicht von der Zweiheit von Gehalt und Form, als
+                                hättest Du nun, wie ich zeigen möchte, teils wegen der
+                                Ungenüglichkeit dieser Einsicht, teils wegen der nun ganz auf
+                                Systematisierung, Durchführung, rational-konsequenter
+                                Zu-Ende-Führung dieser einst so unmittelbaren Intuition Dich in der
+                                    <q rend="single"><hi rend="g">Wissenschaft von den letzten
+                                        Dingen</hi></q> verloren. Die Einsicht von damals, und
+                                manche, die seither dazu gekommen sind, waren ein neues Licht,
+                                durchbrachen die alte Wissenschaft. Aber als Du Dich daran setztest,
+                                sie zum Weltprinzip zu machen, von dem alles und jegliches erklärt,
+                                eingeordnet und systematisiert werden sollte, da tatest Du
+                                zweierlei: Du überspanntest die Bedeutung des Geschauten und
+                                beruhigtest Dich deshalb damit, und Du verlorst die Wirklichkeit,
+                                die Schau in die Wirklichkeit, vor lauter Idee, vor lauter
+                                gefundenem Begriff.</q><lb/> Die nun folgende sachliche Kritik hat
+                            als zentralen Grundgedanken den, daß Tillichs Philosophie von einer
+                            Geisteshaltung und nicht von einem Sein handele, oder doch jedenfalls
+                            immer wieder der Gefahr erliege, hinter der ersteren das letztere
+                            zurücktreten zu lassen oder gar zu vergessen. <q>Ich glaube
+                                philosophisch gesprochen müßte ich sagen, daß Deiner ganzen Lehre
+                                eine sie begründende Ontologie mangelt, besser vielleicht, daß Deine
+                                in den <q rend="single">Grundlinien</q> durchschimmernde Ontologie
+                                mangelhaft und lückenhaft ist, offenbar weil Du Dich mit dem <q
+                                    rend="single">Sein</q> der Wirklichkeit gar nicht
+                                auseinandersetzest und immer wieder in die Betrachtung der
+                                Geisteshaltung verfällst.</q><lb/> Welchen ernsten Hintergrund
+                            dieser Einwand hat, darauf führen die folgenden Sätze:<lb/>
+                            <q>Du sagst von der sakramentalen <hi rend="g">Geisteslage</hi> oder <hi
+                                    rend="g">Haltung</hi>, daß sie das Heilige habe, aber es sei mit
+                                dem Richtigen nicht eins, sie lehne also das Heilige nicht ab, wo es
+                                nicht zugleich das Richtige sei.</q><lb/>
+                            <q>Dem setztest Du die <hi rend="g">kritisch-rationale Geisteslage</hi>
+                                gegenüber, die sich auf die Form richtet. Die <hi rend="g"
+                                    >prophetische Haltung</hi> schließlich habe das Heilige, aber
+                                durch die Form und das Recht. Sie ist losgelöst von der Indifferenz
+                                und Entleerung.</q><lb/>
+                            <q>Hier befinden wir uns in voller Klarheit auf dem Boden der <q
+                                    rend="single">Geisteshaltungen</q>. Es wird damit also nicht
+                                mehr gesagt, als daß Menschen in sakramentaler Geisteshaltung
+                                Wirklichkeiten heiligen, die nicht das Göttliche <hi rend="g"
+                                    >sind</hi>. Oder ist das nicht der einzige tiefere Sinn? Wenn
+                                sie nichts als das Göttliche heiligten, wie können sie Unrichtiges
+                                heiligen? Oder kann denn das Göttliche das Unrichtige, das Formlose
+                                sein? Wenn ich das frage, so leite ich dorthin über, wo die
+                                eigentlichen Fragen sich erheben. Steht unsere Ratio, die sich
+                                vermißt, das Richtige vom Unrichtigen zu scheiden, außerhalb und
+                                über Gott, daß sie sagen <pb n="18"/> darf, oder sagen dürfte, das
+                                Heilige, das Göttliche sei zu Unrecht angebetet worden, weil es das
+                                    <q rend="single">Unrichtige</q> gewesen sei?</q><lb/> Noch
+                            deutlicher wird der Sinn des Einwandes durch folgende Sätze:<lb/>
+                            <q>Der Geist richtet sich auf die Form, sagst Du. Er geht der <q
+                                    rend="single">unbedingten reinen Form</q> nach. Wäre es nicht
+                                richtiger zu sagen: er macht die Form, die sein eigenes Gesetz ist,
+                                er macht die Rationalität, die er allein versteht, zur unbedingten
+                                Form für alles. Er zwingt sie herrschaftlich allem auf. Er sieht das
+                                Göttliche nur noch, wo es in seine Form eingeht. Das Göttliche wird
+                                für ihn Geist. Aus der unbedingten Forderung an ihn, sich zu erheben
+                                gegen den Abfall des Ungeistigen, macht er die unbedingte Forderung
+                                an Gott selber, nur als ethisch fordernder und als
+                                vernunftgesetzlich Seiender wirklich zu sein.</q><lb/>
+                            <q>Du stellst Dich nach Deiner Meinung weder auf die Seite der Form,
+                                noch auf die Seite des formlosen Gehaltes. Du willst ja die
+                                Synthese. Wäre es nicht möglich, daß es mit der <q rend="single"
+                                    >unbedingten rationalen Form</q>, wie Du sie nennst, keine
+                                Gehaltssynthese geben kann, weil damit schon ein ungöttlich
+                                rationales Element unterschoben ist, das alles Entgegengesetzte
+                                entgöttlicht, entwertet, zur Dämonie macht?</q><lb/> Sehr klärend
+                            für das Problem, das der Briefschreiber sieht, sind dann endlich noch
+                            die folgenden Aeußerungen:<lb/>
+                            <q>Wenn das Heilige, das Unbedingte <q rend="single">die
+                                    Wesenswirklichkeit der Welt</q>, das <q rend="single">ganz
+                                    Andere</q>, das Göttliche ist, so kann darin keine ursprüngliche
+                                Spaltung sein. Es muß der Gehalt formsetzender, mehr noch, es muß
+                                eben geformter Gehalt und gehalterfüllte Form das Wesen des Heiligen
+                                sein; und nur so weit es das ist, stehen wir in der Offenbarung des
+                                Unbedingten. Spricht man, wie Du es tust, von <q rend="single">der
+                                    unbedingten Form an sich</q>, so spricht man nicht von der
+                                gehalterfüllten, aber darum auch nicht von der Formoffenbarung des
+                                Göttlichen, und darum überhaupt nicht vom Heiligen, Unbedingten,
+                                sondern von der konsequenten absoluten Rationalität des Rationalen,
+                                von der Allherrschaft des Rationalen, von der Ueberheblichkeit einer
+                                sich unbedingte Durchsetzung verschaffenden Rationalität und also
+                                von allem eher, denn vom Heiligen, vom Wesen. Spricht man vom Gehalt
+                                jenseits aller Form, vom mystischen Abgrund, so reißt man sich von
+                                aller Wirklichkeit los und flieht in eine leere Transzendenz. Man
+                                ergreift aber das Heilige nicht.</q><lb/> Die einzelnen Beispiele,
+                            an denen der Briefschreiber seine kritischen Gedanken erläutert, kehren
+                            in Tillichs Antwort wieder und werden dort, wie ich denke, in ihrem
+                            Zusammenhang ganz deutlich. Der Briefschreiber selbst hat nach dem
+                            Durchlesen seines Briefes in dem Gefühl, nicht deutlich genug geworden
+                            zu sein, seine Gedanken noch einmal zusammengefaßt. Aus dieser
+                            Zusammenfassung möge auch hier noch eine klärende Stelle hergesetzt sein.<lb/>
+                            <q>Ich habe behaupten wollen, daß Du mit Deinem Geiste das <hi rend="g"
+                                    >eine</hi> Wunder göttlicher Offenbarung oder göttlicher
+                                Wirklichkeit zersprengst in unbedingten Gehalt und unbedingte Form,
+                                die aber beide durch diese Spaltung nicht mehr das Heilige sind,
+                                weder das Gegebene noch das Gesollte, sondern beides Götzen,
+                                Abgefallene, Gesonderte. Statt auszugehen von dem <hi rend="g"
+                                    >Einen</hi>, Ursprünglichen, Heiligen, das gehalterfüllte Form
+                                und geformter Gehalt und doch weder das Eine noch das Andere – da
+                                die Begriffsbildung ja schon aus dem trennenden Geiste geworden und
+                                darum zweiwortig ist – sondern eben das <q rend="single">ganz
+                                    Andere</q> ist, vor dem der Gedanken solcher Zweiheit in sich
+                                zusammenbricht. Konkret gesprochen: Es gibt eine <q rend="single"
+                                    >theonome</q> Gemeinschaft, die im Recht steht. Aber sie steht
+                                nicht im <q rend="single">richtigen Recht</q>, sie hat mit der <q
+                                    rend="single">absoluten Rechtsidee</q>, mit der rationalen
+                                Gerechtigkeit nichts zu tun. Sie steht jenseits der Kampfstellung
+                                der <q rend="single">unbedingten Forderung</q> gegen das <q
+                                    rend="single">Unrichtige</q>, gegen das <q rend="single"
+                                    >Deformierte</q>. Erst als, beispielsweise, die doch von je und
+                                je irrationale, gar nicht rational erfaßbare Abstufung des Ranges <q
+                                    rend="single">nach innerer Mächtigkeit</q> verunwest war,
+                                entleert und überheblich, gemeinschaftssprengend und gegeneinander
+                                gestellt war, konnte auch nur der Gedanke <q rend="single">einer
+                                    rationalen Rechtsidee</q>, einer Form des Gerechten, das gegen
+                                den <q rend="single">Gehalt</q> sich stellt, in einem menschlichen
+                                Geiste auftauchen. Nicht anders in der Sittlichkeit. Der
+                                kategorische Imperativ ist so wenig die Form ursprünglicher heiliger
+                                Sittlichkeit, als sich doch vielmehr die Forderung des <q
+                                    rend="single">Du sollst</q> immer erst erhebt, wo die
+                                unmittelbar sittliche Tat nicht mehr aus dem Wesen des Menschen von
+                                selbst fließt. Die <q rend="single">Menschenrechte</q> sind nicht
+                                autonom und dämonisch geworden, weil ihnen der <q rend="single"
+                                    >Gehalt von oben</q> fehlte, mit dem wir sie nun zu vermählen
+                                haben, sondern weil das wahre Recht des Menschen verloren gegangen
+                                war, nahm sich die Ratio heraus, ihr rationales Recht zum Gesetz der
+                                Welt zu erheben. Sie tat es als heilige Tat, insoweit sie das <q
+                                    rend="single">Recht der Personalität</q> rettete und emporhob.
+                                Sie tat es widergöttlich, soweit sie dieses eine Recht
+                                ausschließlich setzte und alles andere entwertete, zur bloßen
+                                irrationalen naturalen Dämonie entweste. Wir vermählen uns aber mit
+                                dem rationalen Abfall von Gott, wenn wir wieder, und wäre es auch
+                                theokratisch und nicht profan rational, die <q rend="single"
+                                    >absolute Rechtsidee</q> heiligten und predigten gegen das <q
+                                    rend="single">Irrationale</q>. Tun wir es, so kann es auch für
+                                uns wieder nur <q rend="single">Irrationales von unten</q>,
+                                dämonische Kräfte geben, so sehr wir uns theoretisch bemühen, den <q
+                                    rend="single">Gehalt von oben</q> heilig sein zu lassen. Es
+                                scheint mir das Verhängnisvolle zu sein, daß Du durch die Vergottung
+                                der unbedingten Form (nicht bloß als ewige göttliche Erhebung gegen
+                                den Abfall, sondern als Form des Göttlichen schlechthin) den Weg zu
+                                jener Einsicht versperrst, die die Spaltung des Irrationalen in
+                                Irrationales von oben und von unten wirklich aufhebt, und das <q
+                                    rend="single">Irrationale</q>, <q rend="single">die
+                                    schöpferischen Kräfte</q> oder wie Du sie sonst nennst, aus
+                                ihrer dämonischen Unform in ihre göttliche Wesensform stellen
+                                würde.</q></note></salute></opener>
+
+                <p>Erst noch einmal herzlichen Dank für die Mühe und Arbeit, die Du auf Deinen
+                        Brief<note type="ea">Korrespondenz liegt nicht vor, vgl. aber die obige
+                        Anmerkung.</note> verwendet hast, für die Intensität der Auseinandersetzung
+                    mit meinen Begriffen und für den Willen, auf diesem Wege zur Gemeinschaft zu
+                    kommen. Ich möchte darum damit beginnen, einiges Historisches und Persönliches
+                    zu Deinen Ausführungen zu sagen.</p>
+                <p>Zunächst etwas verhältnismäßiges Äusserliches: Mein Aufsatz über die <rs
+                        type="work" ref="#tillich__5WW6IDIV">Grundlinien des religiösen
+                        Sozialismus</rs> ist die Ausarbeitung des Vortrages von vor etwa einem Jahr.
+                    Nachdem ich ihn gehalten hatte, hatte ich das Gefühl, dass er liegen bleiben und
+                    ausreifen müßte zu einem grösseren Werk. Schon die letzten Kapitel meines <rs
+                        type="work" ref="#tillich__WLVL28EI">Systems der Wissenschaften</rs>, vor
+                    allem aber meine <rs type="work" ref="#tillich__3CAALVPL"
+                        >Religionsphilosophie</rs>, die seit Oktober bei Ullstein liegt und des
+                    Druckes harrt, führen über ihn hinaus, ebenso meine <rs type="work"
+                        ref="#tillich__T5LXIT3W">Auseinandersetzung</rs> mit <rs type="person"
+                        ref="#tillich_person_id__137">Barth</rs>. Ich musste den Aufsatz fertig
+                    stellen, weil ich im August und September völlig ausser stande war, ein neues
+                    Referat für <rs type="place" ref="#tillich_place_id__236">Kassel</rs> zu machen
+                    und <rs type="person" ref="#tillich_person_id__1307">Mennicke</rs> drängte. Ich
+                    habe das selber sehr bedauert, und der Erfolg hat mir recht gegeben. Es fehlt
+                    dem Aufsatz die Ursprünglichkeit und Frische, die der Vortrag im <date
+                        notBefore="1922-12-01" notAfter="1923-03-31">vorigen Winter</date> noch
+                    hatte. Dafür sind die Gedanken klarer gefasst und schärfer durchgeführt, und das
+                    war auch bei dem Begriff des Dämonischen nötig, von dem <rs type="person"
+                        ref="#tillich_person_id__1664">Rüstow</rs> mit Recht sagte, dass er im
+                    Vortrag durch zu weite Fassung unklar geworden wäre. Und die Forderung der
+                    absoluten Klarheit und Schärfe muss ja doch wohl bestehen bleiben, solange der
+                    Versuch wissenschaftlicher Begriffsbildung gemacht wird. Aber vielleicht war es
+                    überhaupt falsch, die <rs type="work" ref="#tillich__5WW6IDIV">Grundlinien des
+                        religiösen Sozialismus</rs> in wissenschaftliche Begriffe fassen zu wollen.
+                    Vielleicht wäre hier der freie anschauliche Stil des politischen, ethischen oder
+                    religiösen Redners am Platze gewesen. Für <rs type="place"
+                        ref="#tillich_place_id__236">Kassel</rs> wenigstens wäre das sicher
+                    günstiger gewesen. Aber das ist<pb n="2"/> nun einmal nicht meine Fähigkeit und
+                    meine Aufgabe; mich drängt mein ganzes Wesen dazu, die letzte wissenschaftliche
+                    Klarheit und Prägnanz zu suchen, und das hat immerhin die Wirkung gehabt, dass
+                    in <rs type="place" ref="#tillich_place_id__236">Kassel</rs>, wie in <rs
+                        type="place" ref="#tillich_place_id__37">Berlin</rs> und anderen Orten ein
+                    Teil meiner Begriffe gerade auch von den Gegnern immer wieder angewendet wurde,
+                    nachdem sie vorher gegen die Begrifflichkeit gekämpft hatten. Ich wäre Euch
+                    dankbar, wenn Ihr Euch gelegentlich einmal mit der fortgeschrittenen
+                    Begrifflichkeit meines <rs type="work" ref="#tillich__WLVL28EI">Systems der
+                        Wissenschaften</rs> und, sobald sie gedruckt ist, meiner <rs type="work"
+                        ref="#tillich__3CAALVPL">Religionsphilosophie</rs> auseinandersetzen würdet.
+                    Hier würdest Du auch eine ausführliche Ontologie finden, die auf allen
+                    Seinsgebieten durchgeführt ist.</p>
+                <p>Dazu ein zweites: Du meinst, ich hätte zu lange auf meiner ersten Intuition
+                    ausgeruht und sie hätte sich allmählich in abstrakten Begriffen entleert.
+                    Zweifellos besteht bei mir die Gefahr der deduktiven Gewaltsamkeit, der die
+                    bluthafte Fülle immer neuer Anschauungen der Wirklichkeit fehlt. Diese Gefahr
+                    kenne ich und suche ihr durch immer neues Eingehen in das Lebendige und seine
+                    verschiedenen Seiten zu entgehen. So stehe ich in einem ununterbrochenen und
+                    alljährlich mit größter Energie erneuertem Konnex mit der Natur, so kam ich zu
+                    einem intensiven Freundschaftsleben als Student, so kam ich zur Boheme, zum
+                    Krieg, zu den Frauen, zur Politik, zur Malerei und gegenwärtig in <date
+                        notBefore="1923-12-01" notAfter="1924-03-31">diesem Winter</date> mit
+                    größter Leidenschaft zur Musik. Das sind die dauernden, <q>Intergenerationen</q>
+                    meiner Abstraktheit, die freilich oft nicht stark genug sind, um sie ganz
+                    bluthaft zu machen. Aber etwas ganz anderes ist es mit den einmaligen großen
+                    Durchbruchserlebnis das du andeutest. Ein solcher Durchbruch ist nur einmal
+                    möglich, er ist die individuell-schöpferische Selbsterfassung einer geistigen
+                    Gestalt, er ist der Ausdruck seiner Begrenztheit aber auch seiner Kraft. Man
+                    kann und muss immer wieder zu dieser Quelle zurückkehren, aber man darf nicht
+                    annehmen, dass diese Rückkehr einen neuen Durchbruch bedeutete. Das ist bei
+                    allen schöpferi<pb n="3"/>schen Geistern so gewesen, mit Ausnahme vielleicht von
+                    Erscheinungen wie <rs type="person" ref="tillich_person_id__690">Goethe</rs>,
+                    bei denen überhaupt kein typisches Durchbruchserlebnis vorliegt. Ob der
+                    Durchbruch stark oder schwach war, das entscheidet über die geschichtliche
+                    Wirksamkeit einer geistigen Gestalt.</p>
+                <p>Und endlich ein Drittes: Mein Brief an Dich,<note type="ea">Korrespondenz liegt
+                        nicht vor.</note> in dem ich über Mangel an Sein klagte, war ein
+                    verzweifelter Ausdruck für unsere gesamte Geisteslage und eine verzweifelte
+                    Forderung, dass es uns vergönnt sein möge, in das gelobte Land einzugehen, das
+                    wir, nur von ferne sehen dürfen. Aber es war ein Stück Unglaube in dieser
+                    Verzweiflung. Mann kann und darf nicht so gegenständlich von dem Gott in sich
+                    reden. Man darf sich nicht auf sich selbst als Träger des Göttlichen, sondern
+                    muß sich auf Gott richten, und muß seine Werke dem Gericht und der
+                    Rechtfertigung Gottes überlassen. Es ist völlig richtig, wenn Du sagst, dass,
+                    wenn nichts Göttliches in mir wäre, jedes Wort, das ich sagte, dämonisch sein
+                    müßte. Es ist aber unmöglich, das eine oder das andere zu behaupten. Das
+                    Göttliche oder das Dämonische als Ganzes ist unanschaulich, verborgen wirksam in
+                    Jedem. Und das, was am Werk dem Dämonischen entstammt, fällt unter das Gericht
+                    der Selbstzerstörung. Uns aber bleibt nichts als in jedem Augenblick gerichtet
+                    zu sein auf das Göttliche. Dieses zur Selbstkorrektur meines Briefes.</p>
+                <p>Und nun zu Deinen Einwänden: Eine logische Vorbemerkung: Die Notwendigkeit,
+                    selbständige Begriffe zu bilden, liegt überall da vor, wo die Elemente einer
+                    einheitlichen Wirklichkeit sich als unabhängig voneinander variabel erweisen.
+                    Auf diesem Tatbestand beruht überhaupt die Begriffsbildung, die Heraushebung
+                    bestimmter Objekte aus dem absolut einheitlichen Flusse der Wirklichkeit. Es
+                    besteht nun aber die Tatsache, sowohl in der Ontologie wie in der
+                    Geschichtsphilosophie, dass Sinnform und Sinngehalt auf allen Gebieten der
+                    Wirklichkeit in einem Spannungsverhältnis stehen und dass auf dieser Spannung
+                    der Reichtum sowohl der Gegenstände wie der Vorgänge beruht. Selbstverständlich
+                    gibt es keine isolierten Ele<pb n="4"/>mente. Die Wirklichkeit ist immer in
+                    Integration. Aber es gibt auch keine vollkommene Integration, keine absolute
+                    Synthesis. Gäbe es sie, so wäre weder die Dynamik des Geschehens, noch die
+                    Möglichkeit der Verunwesung gegeben. Alles Geschehene, alle Lebendigkeit beruht
+                    auf der Spannung der Elemente, auf der Variabilität ihrer Relation. Wer darum
+                    die Dynamik des Werdens verstehen will, muß diese Elemente in abstracto
+                    herausgreifen und ihre Spannungsverhältnisse beobachten. Dass er dabei sich klar
+                    ist, keine selbständigen Wirklichkeiten gegeneinander gestellt zu haben, ist so
+                    selbstverständlich wie die Integrationsmethode der Infinitesimalberechnung, bei
+                    der ja gleichfalls der Fehler, der für die Berechnungszwecke notwendig ist, in
+                    der Berechnung selbst sofort wieder integriert wird. Ich glaube, dass über diese
+                    logische Seite der Sache Einverständnis bei uns herrschen wird.</p>
+                <p>Von der Logik komme ich zur Dialektik. Leider kenne ich <rs type="person"
+                        ref="#tillich_person_id__3662">Schmidhauser</rs> nicht genug, um<sic>d</sic>
+                    den eigentlichen Sinn seiner Integration zu verstehen.<note type="ea">Vgl.
+                        hierzu auch den vorhergehenden <rs ref="L00805" type="letter">Brief</rs>
+                        Tillichs an Wolfers vom 13. Dezember 1923.</note> Doch sehe ich hier eine
+                    Gefahr, die ich selbst glaube einmal überwunden zu haben, als ich von <rs
+                        type="person" ref="#tillich_person_id__839">Hegel</rs> zu dem zweiten <rs
+                        type="person" ref="#tillich_person_id__1705">Schelling</rs> des
+                    Irrationalismus überging. Was Ihr Integration nennt, das scheint mir im
+                    Wesentlichen die Hegelsche Synthesis zu sein. Nun aber ist, wie bei <rs
+                        type="person" ref="#tillich_person_id__839">Hegel</rs> deutlich zu ersehen,
+                    die synthetische Betrachtung der Welt notwendig verbunden mit einer
+                    grundsätzlichen Ineinssetzung von Idee und Wirklichkeit, von Gott und Welt, ja
+                    auch von Gegenwart und wenigstens keimhaft vollendeter geschichtlicher
+                    Synthesis. Hier liegen die tiefsten Wurzeln der romantisch-konservativen Staats-
+                    und Gesellschaftslehre, der idealistisch-pantheistischen Ineinssetzung von Gott
+                    und Welt. Gegen diese Art der Integration hat <rs type="person"
+                        ref="tillich_person_id__1049">Kierkegaard</rs> leidenschaftlich reagiert,
+                    gegen sie reagiert gegenwärtig mit Recht <rs type="person"
+                        ref="#tillich_person_id__137">Barth</rs> und <rs type="person"
+                        ref="#tillich_person_id__694">Gogarten</rs>; und es ist merkwürdig, dass in
+                    dem Augenblick, wo Du mich mit <rs type="person" ref="#tillich_person_id__137"
+                        >Barth</rs> zusammenfassest, <rs type="person" ref="#tillich_person_id__137"
+                        >Barth</rs> mich als Hegelianer und <q>Theologen des Turmbaus zu Babel</q>
+                    abtut. Ich stelle mich im Gegensatz dazu auf den Boden der Polarität, der
+                    dynamischen Spannung, des<pb n="5"/> individuellen Schöpfertums, der
+                    Rechtfertigung und des Paradox. Es gäbe für mich nur eine Möglichkeit, den
+                    Integrationsgedanken zu bejahen, nämlich den, katholisch zu werden, wobei ich
+                    dann freilich das Schicksaal hätte die eine Seite, die zu integrieren wäre, den
+                    gesamten autonomen, humanistischen und theokratischen Geist ausschliessen zu
+                    müßen. Ich glaube, dass ich der Integration in Wahrheit gerechter werde, wenn
+                    ich mich für diese Alternative nicht entscheide und die vollendete Synthesis als
+                    regulatives Prinzip behandele, als Korrektiv nach beiden Seiten, ohne dass die
+                    Spannung der Elemente jemals aufgehoben wäre. Nicht Integration, sondern
+                    Polarität ist unser Schicksal, und Integration ist das Ideal, dem freilich eine
+                    Wurzel im Sein selber entspricht. Aber diese Wurzel, dieser verborgene Grund,
+                    diese Indifferenz der Gegensätze ist das noch Unentfaltete<supplied>,</supplied>
+                    Unindividuelle, Undynamische, es ist der Mutterschoß des Reichtums und des
+                    Werdens. Aber wir sind nicht dazu bestimmt, im Mutterschoß, im ewigen Grunde, in
+                    dem alles eins ist, zu ruhen, auch nicht wenn dieser Mutterschoß sich als
+                    heilige katholische Kirche oder heilige im Wesen stehende Gemeinschaft uns
+                    anbietet. Wir stehen in der Spannung, und nur im Paradox, im Durchbruch, im
+                    Glauben ist die Integration, die Synthesis der Fülle, die Einheit in Gott
+                    verwirklicht.</p>
+                <p>Daraus ergibt sich mein geschichtsphilosophisches Denken. Es ist durch und durch
+                    dynamisch und wenn ich von Theonomie rede, so bedeutet es immer nur, dass ich
+                    eine jeweilige, in gewissen historischen Momenten annähernd verwirklichte
+                    Integration der Spannungselemente annehme. Aber in jeder derartigen Synthesis
+                    sind eine solche Fülle neuer Spannungen enthalten, dass sie selbst gewißermaßen
+                    nur ein Augenblick, eines Messers Schneide ist, die keinerlei historische Breite
+                    hat, sondern nur symbolisch in einem gewißen Zeitraum angeschaut werden kann.
+                    Jede solche historisch-symbolische Theonomie ist das Abbild der absoluten
+                    Synthesis, der ewigen Integration. Sie ist das schöpferische Ziel, auf das alle
+                        Geschichte<pb n="6"/> in jedem Augenblick sich hinbewegt. Ihr Wachsen ist
+                    der ewige Kairos, der freilich nur in Zeiten großer Krisen als Kairos bewußt
+                    wird. Ich leite die Dynamik der Geschichte also aus der Spannung der
+                    Wesenselemente und nicht aus dem Verhältnis von Wesen und Verunwesung ab. Ich
+                    muss Dich und <rs type="person" ref="#tillich_person_id__3662">Schmidhauser</rs>
+                    fragen, wie kommt Verunwesung zustande? Gemeint ist doch offenbar nicht die
+                    menschliche Unzulänglichkeit, Sündhaftigkeit, das Nachlassen der schöpferischen
+                    Kräfte, oder dergl. Denn das ist eine Angelegenheit, die in jedem Augenblick für
+                    jeden Einzelnen, jede Geisteshaltung und jede Zeit gültig ist. Es ist der Kampf
+                    des Schöpferischen gegen das Erstarrte, des Starken gegen das Schwache, des
+                    Sittlichen gegen das Unsittliche, des Wertvollen gegen das Wertwidrige; aber
+                    dieser Kampf kann doch niemals eine Dynamik der Geschichte ergeben. <q>Dem
+                        Herrlichsten, was auch der Geist empfangen, drängt immer fremd und fremder
+                        Stoff sich an.</q><note type="ea">Tillich zitiert hier Goethes <rs
+                            ref="#tillich__U9ZJIKR6" type="work">Faust</rs>, erster Teil, erste
+                        Szene (<q>Nacht</q>), Zeile 634f.</note> Das ist nicht das Problem, sondern
+                    die Frage ist die: Wie kommt es überhaupt zum Schaffen, zum Vorwärtsdrängen, zur
+                    Dynamik? Warum lebt der Geist nicht in beruhigter Einheit mit Gott, in ständiger
+                    Abwehr vielleicht des Ungöttlichen, aber doch in sich selbst gesättigt. Um diese
+                    Frage zu beantworten, müssen wir uns umsehen nach einem Element, das nicht
+                    ungöttlich, nicht einfach negativ und doch auch nicht gefüllt, gesättigt,
+                    beruhigt ist. Dieses Element aber, die göttliche Unruhe in Geistigen, nenne ich
+                    die Form.</p>
+                <p>Damit bin ich auf den zentralen Punkt Deiner Kritik gekommen. Die Erfassung der
+                    Wesenselemente, Form und Gehalt, ist die Voraussetzung meiner polaren und
+                    dynamischen Weltauffassung. Vielleicht kann man die Polarität auch anders
+                    formulieren, etwa im Logischen als Denken und Sein, im Ethischen als Haben und
+                    Sollen. Mir sagt die aus der bildenden Kunst entnommene Formulierung <q>Form und
+                        Gehalt</q> am meisten zu. Ich glaube zu sehen dass im Wesen jeder Formung,
+                    aesthetischer wie logischer, sozialer wie rechtlicher, die unbedingte Forderung
+                    nach absoluter Formung enthalten ist. Dieses Element der unbedingten Geltung in
+                    allen Sinnfunktionen<pb n="7"/> scheint mir der unendliche Antrieb der
+                    historischen Dynamik zu sein. Würde dieser Antrieb fehlen, so würden die großen
+                    Katastrophen, die die rein biologischen Kräfte jederzeit bewirken, keine
+                    Geschichte, sondern nur eine Reihe von Veränderungen ergeben. Aber selbst in der
+                    Natur können wir eine Formsteigerung feststellen und zwar, wie ich im <rs
+                        type="work" ref="#tillich__WLVL28EI">System der Wissenschaften</rs>
+                    nachzuweisen versuchte auf Grund der gleichen Polarität von Denken und Sein, die
+                    für die gesamte Geistesgeschichte maßgeblich ist. Wohl weiß ich, dass man die
+                    absolute Form niemals als eine Gegebenheit, etwas Wirkliches deuten darf. Sie
+                    ist der unendliche Antrieb, nicht weiter; und ich gebe zu, dass in meinen
+                    Formulierungen eine bestimmte Form der Rationalität anscheinend die Stelle der
+                    absoluten Form einnimmt. Hier sind Korrekturen möglich und notwendig. Atomismus,
+                    Gleichheitsgedanke und dergl. dürfen in der Tat nicht als Repräsentanten der
+                    absoluten Form aufgefasst werden, sondern als Formen exklusiver Polarität, als
+                    Formen, die, wenn sie realisierbar wären, gehaltlos sein würden, als Formen,
+                    deren Aufgabe es darum einzig und allein ist, das reine abstrakte und insofern
+                    absolut rationale Formprinzip im Gegensatz zu dämonischen Formzerstörungen
+                    aufrecht zu erhalten. Das Prinzip der griechisch-abendländischen Rationalität
+                    wird in dem Maße dämonisch, in dem es eine losgelöste Selbständigkeit erreicht.
+                    Und der Inhalt meiner Vorlesung über das Griechentum ist darum die Tragik der
+                    reinen rationalen Form. Ich würde also auf Grund Deiner Kritik mich dahin
+                    korrigieren, dass ich formulierte: <hi rend="u">Die reine rationale Form</hi>
+                    ist der losgelöste Gegenpol zur dämonischen Formzerstörung. Von ihm aber ist zu
+                    unterscheiden <hi rend="u">die absolute Formforderung</hi>, deren Inhalt absolut
+                    betrachtet im Idealen bleibt, konkret betrachtet <hi rend="u">sich in der
+                        Theonomie</hi> verwirklicht. Die reine rationale Form ist ein Korrektiv,
+                    dessen göttliches Recht eben in seinem Charakter als antidämonsisches Korrektiv
+                    besteht. Die Wirklichkeit aber lebt niemals im Korrektiv, und wo sie es
+                    versucht, da gerät sie gerade in das Gegenteil, die <q>naturale Dämonie</q>.<pb
+                        n="8"/></p>
+                <p>Der falsche Anschein, den meine Ausführungen erweckt haben, beruht zum Teil
+                    darauf, dass ich es versäumt habe, den naturalen Dämonien die naturalen
+                    Göttlichkeiten gegenüberzustellen, die schöpferischen, aus den Nachwirkungen der
+                    Theonomie stammenden Kräfte, die auch gegenwärtig lebendig sind. Mir ist schon
+                    damals bei der Ausarbeitung des Aufsatzes dieser Gedanke gekommen, aber ich
+                    hatte das Gefühl, dass er die Prägnanz der Gedankenführung stören würde.
+                    Vielleicht wäre es doch besser gewesen, ich hätte diese Elemente aufgewiesen. Es
+                    würde sich dann gezeigt haben, dass z.B. in der wirklichen Demokratie, in der
+                    wirklichen rationalen Wissenschaft, in der wirklichen autonomen Kunst,
+                    Wirtschaft und Soziallehre das rationale Prinzip immer das geblieben ist, was es
+                    wesensmäßig ist: Korrektiv, und dass die genannten Erscheinungen eine Fülle
+                    göttlicher, erosgetragener Elemente in sich bergen. Ich hätte zeigen müssen,
+                    dass genau wie in der sakramentalen Geisteshaltung Göttliches und Dämonisches
+                    miteinander verknüpft sind, so auch in der autonomen Geisteslage. Ich hätte der
+                        <rs type="person" ref="#tillich_person_id__1946">Tönniesschen</rs>
+                    Verwirrung begegnen können, als ob es wirklich eine Gesellschaft gäbe, während
+                    auch Gesellschaft nur ein Korrektivbegriff ist, die Menschheit aber immer von
+                    der Einheit göttlicher und dämonischer Gemeinschafts-resp. <del rend="s"
+                        >Gewalt</del><add place="superlinear">Macht</add>elemente lebt. Eine solche
+                    Darstellung hätte weiter den Vorteil, dass die Theonomie nicht wie ein Deus ex
+                    machina hervorbräche, sondern an dem Gegebenen Anknüpfungspunkte finden könnte.
+                    So habe ich z.B. in meiner <rs type="work" ref="#tillich__3CAALVPL"
+                            >Religionsphilosophie</rs> die Theonomie als das Prius und die
+                    immerwährende Voraussetzung von Autonomie und Heteronomie gedeutet. Damit ist,
+                    denke ich, auch Deiner ontologischen Forderung Genüge getan. Es handelt sich in
+                    der Tat nicht um sich ablösende Geisteshaltungen, sondern um soziale und
+                    geistige Realitäten, die in jedem Augenblick von dem göttlichen Lebensgrunde
+                    fundiert sind, und insofern immer im Theonomen wurzeln, immer aber auch infolge
+                    der Dynamik der Geschichte die innere Spannung von Form und Gehalt in sich
+                    tragen, die sich auswirkt als Gegensatz von Au<pb n="9"/>tonomie und Dämonie. So vereinigt
+                    sich für mich die ontologische Basis alles Wirklichen in Gott mit der Dynamik
+                    der Geschichte.</p>
+                <p>Von hier aus werden nun auch die symbolischen Begriffe Eros und Mächtigkeit (wie
+                    besser statt Macht zu sagen wäre) in ihrer Bedeutung offenkundig. Ich bin weit
+                    entfernt davon, in protestantischer Weise, oder besser in Kantisch-Fichtescher
+                    Weise die Natur zu entleeren. Seit meinem Schellingstudium bin ich über diesen
+                    Punkt keinen Moment im Unklaren gewesen. Er ist so entscheidend für mich, dass
+                    er mich nicht nur im Leben bestimmt hat, sondern auch bewirkt hat, dass meine
+                    Theologie von echten protestanten immer als heidnisch empfunden wurde. Hier hast
+                    du etwas Falsches in mich hereingelesen. Aber freilich, wir können nicht auf
+                    vergangenen Stufen des Heidnischen zurück, wir können nicht heilige Prostitution
+                    oder heilige Tyrannis wieder einführen. Wo sie wiederkehrt, und wir kennen ja
+                    Versuche sie wieder einzuführen, empfinden wir sie als schlechthin dämonisch,
+                    und zwar deswegen als dämonisch, weil sie das Prinzip des Ethischen selbst, und
+                    darum sowohl des Rechtes wie der Gemeinschaft zerstört: Die Persönlichkeit.
+                    Andererseits sehe ich, dass alle Schöpfungen theonomer Formen in Gemeinschaft
+                    und Recht nur möglich sind, insofern sie getragen sind von Eros und Mächtigkeit.
+                    Diese Dialektik des schöpferischen Prinzips, dass es immer zugleich göttlich und
+                    dämonisch kann, ist für mich der Ausdruck der Unmöglichkeit, Gott zu entgehen,
+                    und darum auch der Unmöglichkeit, eine Welt auf reine rationale Form zu gründen.
+                    Ich halte darum auch die Doppelheit von Eros und Mächtigkeit aufrecht.</p>
+                <p>Und als Theologe, der gewohnt ist, die göttlichen Eigenschaften um die beiden
+                    zentralen Begriffe, Macht und Liebe zu grappieren, brauche ich mich natürlich
+                    auch nicht zu scheuen, von heiliger Macht zu reden. Die Empfindung, aus der dein
+                    Widerspruch gegen die Nebenordnung hervorgeht, beruht auf dem Sprachgebrauch,
+                    der Liebe im Unterschied von Eros schon immer irgendwie im Sinne der Heiligkeit
+                    fasst, während Macht noch ungeschieden von der naturalen Bedeutung gebraucht
+                    wird. Es ist infolgedessen nicht anhängig, Macht und Liebe parallel zu setzen,
+                    dagegen ist es richtig, Macht mit Eros zusammen als Symbole der dialektischen,
+                    sowohl dem Dämonischen wie dem Göttlichen zugänglichen Lebensunmittelbarkeit zu
+                    fassen, Liebe und Mächtigkeit dagegen als Ausdruck für die theonome
+                    Verwirklichung zu reservieren. Aus diesen terminologischen Bemerkungen kannst Du
+                    nun auch meinen bildlichen Ausdruck <q>Gehalt von oben</q> und <q>Gehalt von
+                        unten</q> besser verstehen.<note type="ea">Diese Begriffe finden sich nicht
+                        im publizierten Text <q><rs ref="#tillich__5WW6IDIV" type="work">Grundlinien
+                                des religiösen Sozialismus</rs></q>, jedoch zumindest annähernd in
+                        einer Version des Textes, die unter dem Titel <q><rs
+                                ref="#tillich__F4H3T4RZ" type="work">Die religiöse Erneuerung des
+                                Sozialismus</rs></q> in Tillichs Nachlass liegt und im zehnten Band
+                        der Ergänzungs- und Nachlassbände publiziert worden ist, und die also
+                        womöglich dem Kasseler Vortrag entspricht. Auf S. 315 jenes Textes grenzt
+                        Tillich die Theonomie von <q>transcendenter</q> und <q>immanenter</q> Utopie
+                        ab: <q>Die transcendente Utopie ist tiefer als die immanente. Sie weiß, daß
+                            das Unbedingte im Zusammenhang des Bedingten keinen Platz hat; aber sie
+                            gibt ihm einen Platz überhaupt. Sie bejaht damit die Nebenordnung, die
+                            dem Unbedingten widerspricht. – Die immanente Utopie. Sie ist halb,
+                            insofern sie die Natur unangetastet läßt, in der Menschheit aber die
+                            irrationalen dämonischen Kräfte als nicht vorhanden betrachtet. Diese
+                            Kräfte: Macht, Eros, innere Unendlichkeit sind aber gerade die Träger
+                            jeder Form-Realisierung, wenn sie auch zugleich die Mittel jeder
+                            Formzerstörung sind. – Die Theonomie rechnet mit ihnen; nicht als ob sie
+                            sie bejaht im Sinn der Dämonie, sondern indem sie sie in die
+                            Irrationalität von oben überführt, die durch die Form hindurchgegangen
+                            ist.</q> Auf S. 323 heißt es schließlich über die <q>innenpolitische
+                            Lage der Autonomie</q>: <q>Je mehr Demokratie im rationalen Sinn, desto
+                            mehr Indifferenz. Die rationalisierte Beamtenhierarchie als
+                            verdinglichte Trägerin der Macht-Beziehungen jederzeit bereit, das
+                            gegenständliche rationale Gewaltverhältnis innerhalb der rationalen
+                            Grenzen auszuüben. Der Gegensatz von Subjekt und Objekt als Analogon zum
+                            technischen Verhältnis. – Aber auch diese leere Form bleibt nicht
+                            allein. Die irrationalen Mächte erheben sich von unten, und es entstehen
+                            Träger neuer Mächtigkeiten. Aber diese sind nicht von einem inneren
+                            Ethos getragen, sondern sie sind die Träger der höchsten rationalen
+                            Kraft: das Eros-lose wissensmächtige, theokratisch-rationale
+                            Bürgertum.</q></note> Gehalt von oben ist diejenige Offenbarung des
+                    unbedingt Wirklichen die gehorsam ist der unbedingten Form. Gehalt von unten ist
+                    diejenige Offenbarung des unbedingt Wirklichen, die im Widerspruch steht zur
+                    unbedingten Form, die Offenbarung des Göttlich-Widergöttlichen, des Dämonischen.
+                    Im übrigen bleibt es dabei, dass es das eine oder das andere in Isoliertheit
+                    nicht gibt, dass es aber Erscheinungen gibt, die für das eine oder das andere
+                    symbolkräftig sind, wie Christ und Antichrist. Und es ist für jede Zeit von
+                    entscheidender Wichtigkeit, nicht nur, worin sie das Göttliche, sondern auch,
+                    worin sie das Dämonische symbolisiert findet. Sehr stark und großartig ist diese
+                    Symbolik z.B. in der <q>Offenbarung Johannes</q>, wo <rs type="place"
+                        ref="#tillich_place_id__369">Rom</rs> immer abwechselnd als dämonische Macht
+                    unter dem Symbol des Tieres und als dämonischer Eros unter dem Symbol der
+                    grossen Hure angeschaut wird. Ähnliche Dinge können wir immer wieder in der
+                    Geistes- und Religionsgeschichte finden.</p>
+                <p>Ich hoffe, dass Dir nunmehr meine Gedanken klarer geworden sind, als sie es
+                    bisher waren, und ich glaube auch, dass ich Dir in manchen Dingen näher gekommen
+                    bin. Von einem aber hast Du mich nicht überzeugen können, davon nämlich, dass
+                    meine abstrakte Unterscheidung von Form und Gehalt von mir aufgegeben werden
+                    müsse. Nur das gebe ich zu, dass es nicht richtig ist, die unbedingte Form, in
+                    der ja Form und Gehalt vollkommen eins sind, zu vermischen mit der rationalen,
+                    der dämonischen Formzerstörung entgegenstehenden Korrektivform. Die unbedingte
+                    Form ist konkret, sie ist das unbedingt Konkrete, die rationale Form hat von ihr
+                    die formale Unbedingtheit und das ist ihre Erhabenheit und Majestät, die <rs
+                        type="person" ref="#tillich_person_id__1020">Kant</rs> gesehen hat und die
+                    dem Rationalismus im Ethischen wie im Logischen das heroisch Theokratische gibt.
+                    Aber die rationale Form ist keine Form des Lebendigen, sondern ein Korrektiv des
+                    Dämonischen und sie ist aufgehoben im Göttlichen.</p>
+                <p>Noch ein Problem wäre hier zu behandeln. Die Frage nämlich, wann eine
+                    Wirklichkeit, dämonischen Charakter annimmt, wann z.B. der Kannibalismus aus
+                    einem unmittelbar Göttlichen zu einem dämonischen Kult wurde. Der Begriff
+                        <q>Verwesung</q> ist hier nicht klärend, denn was heisst verunwester
+                    Kannibalismus? Meiner Überzeugung nach wird der Kannibalismus dämonisch in dem
+                    Augenblick, wo ein prophetisch-theokratisches Bewußtsein gegen die
+                    Persönlichkeit- und Gemeinschaft zerstörende Form dieser kultischen Ekstatik
+                    opponiert, und diese Opposition das religiöse Bewusstsein gestaltet. Natürlich
+                    ist es möglich, dass der Prophet in dem Augenblick auftritt, wo der
+                    Kannibalismus der ursprünglich vielleicht selbst einer prophetischen Aktion
+                    gegen eine andere Dämonie sein Leben verdankt, seinen schöpferischen Moment
+                    hinter sich hat, erstarrt, offenbarungsunfähig wird und in diesem Sinne
+                    verunwest. Aber auch dann wäre zu fragen, woher kommt diese Verunwesung, und
+                    wenn sie da ist, woher kommt es, dass die Opposition auch über den im Wesen
+                    stehenden Kannibalismus hinausgeht und den Ersatz des Menschenopfers durch das
+                    Tieropfer fordert? In allen diesen Dingen ist es die innere Dynamik der
+                    unbedingten Form, die weiter treibt und nicht das an und für sich bedeutungslose
+                    Auf und Ab von Wesen und Verunwesung, Schöpfung und Erstarrung.</p>
+                <p>Der dynamische Charakter meiner Gedanken kommt nun schliesslich noch in einem
+                    Begriffe zum Ausdruck, der vom Standpunkt der Integration und gegebenen Synthese
+                    aus wohl kaum eine Bedeutung hat, der Begriff des Durchbruchs. Sowohl in meiner
+                            <q><rs type="work" ref="#tillich__3CAALVPL"
+                        >Religionsphilosophie</rs></q>, wie auch augenblicklich in meinem
+                        Augustinkolleg<note type="ea">Tillich hielt im Wintersemester 1923/1924 in
+                        Berlin eine Vorlesung über <q><rs type="work" ref="#tillich__AX3EQ2XX"
+                                >Geistesgeschichte der altchristlichen und mittelalterlichen
+                                Philosophie</rs></q>, in der er fünf Vorlesungstermine lang <rs
+                            ref="#tillich_person_id__100" type="person">Augustinus</rs> besprach.
+                        Der Begriff des <q>Durchbruchs</q> findet sich im Manuskript zu diesen
+                        Stunden allerdings nur einmal an marginaler Stelle (S. 480). Allerdings
+                        resümiert Tillich, nachdem er die Behandlung von <rs
+                            ref="#tillich_person_id__100" type="person">Augustinus</rs>
+                        abgeschlossen hat: <q>Augustin als Anfang der abendländischen Entwicklung.
+                            In ihm unmittelbare Durchbrüche großer Ideen.</q> (S. 505).</note>
+                    spielt dieser Begriff eine sehr entscheidende Rolle. Er bringt das Verhältnis
+                    von Profanem und Heiligem zum Ausdruck, wobei profan zu definieren ist als
+                    Richtung auf die Einzelform der Dinge und ihren theoretischen und praktischen
+                    Zusammenhang, abgesehen von dem in ihren lebendigen unbedingt Wirklichen. Im
+                    Verhältnis zu dieser profanen Beziehung der Dinge untereinander und zu uns (und
+                    auch der Philosophie dieser profanen Relation) bedeutet das Göttliche und das
+                    Dämonische, wo immer es anschaubar wird, in einen Durchbruch und die
+                    symbolischen Begriffe, in denen es gefasst wird, sind echte Durchbruchsbegriffe.
+                    Sie sind rational betrachtet, nicht einzuordnen und doch ist an sich das
+                    Unbedingt-Wirkliche allenthalben und in jedem Augenblick das Fundierende,
+                    Tragende. Aber es ist als solches niemals direkt, unmittelbar in den Eigenformen
+                    der Dinge gegeben, sondern immer nur unanschaulich-paradox, eben als Durchbruch.
+                    Zu Deinem Brief an <rs type="person" ref="#tillich_person_id__1307"
+                        >Mennicke</rs> noch folgendes:</p>
+                <p>Wenn es richtig ist, dass die Liebe und Mächtigkeit die tragenden Kräfte auch
+                    einer theonomen Gesellschaftsordnung sind, und dass in jeder Liebe Eros, und in
+                    jeder Mächtigkeit Macht ist, so kann es keinen anderen Weg zur neuen Theonomie
+                    geben, als das die erosgetragene Gemeinschaft derer, in denen die größte
+                    theonome Mächtigkeit ist, sich als Macht durchsetzt. Ich gebe ohne weiteres zu,
+                    dass wir den Gedanken, die Arbeiter müßten erst in eine andere wirtschaftliche
+                    Lage gebracht werden, ehe sie religiös gefüllt werden können, unmöglich ist.
+                    Aber es handelt sich ja auch nicht darum, die Arbeiter religiös oder geistig zu
+                    füllen, sondern es handelt sich darum, eine Gestalt der Gesellschaft zu
+                    schaffen, die getragen ist von einer religiösen Idee, und wenn wir von der
+                    Arbeiterschaft insonderheit verlangen, dass sie die neue Gesellschaft trägt, so
+                    tun wir es deshalb, weil wir meinen, dass sie dadurch ihr Schicksaal mehr als
+                    die anderen Stände in jedem Augenblick dazu gedrängt wird, ihre gesamte
+                    seelische Intensität auf die Verwirklichung der neuen Theonomie zu richten. Im
+                    Urchristentum war die Vermischung dieser Intensität mit einem profanen
+                    Beutekrieg, einem Sklavenaufstand oder dergl. nicht möglich, weil die Idee
+                    transzendent und individualistisch war. Sie erlag dagegen der Gefahr, zu einer
+                    Sekte und Kulturgemeinschaft zu werden. Für die Arbeiterbewegung ist die Lage
+                    infolge der sozialen und immanenten Richtung der religiösen Idee sehr viel
+                    schwieriger. Sie ist in ihren Ursprüngen, wenigstens im Marxismus der Gefahr
+                    erlegen, eine politische Partei zu werden, Wir, die diese Gefahr gesehen haben,
+                    und doch nicht zu einem transzendenten Individualismus zurückkehren wollen,
+                    haben die ungeheuer schwer Aufgabe, dieses dialektische Verhältnis genau in der
+                    Schärfe herauszuarbeiten, wie es die Theologie und gegenwärtig vor allem <rs
+                        type="person" ref="#tillich_person_id__137">Barth</rs> und <rs type="person"
+                        ref="#tillich_person_id__694">Gogarten</rs> im Verhältnis zur Kirche getan
+                    haben. Dabei kann es geschehen, dass die Arbeiterschaft diese Wendung überhaupt
+                    nicht mitmacht und ihr Erbe auf andere Kreise übergeht. Wahrscheinlich ist das
+                    aber nicht, solange sie diejenige Schicht ist, die am stärksten unter der
+                    Dämonie unserer Zeit leidet.</p>
+                <p>Noch ein Wort: Wenn Du das Gefühl hast, dass auch diese Ausführungen wieder unter
+                    der Dämonie des Begriffs stehen, so bin ich dagegen natürlich machtlos. Ich
+                    würde aber unter allen Umständen von dem Gott verlangen, dass er auch im
+                    Begrifflichen stärker ist als der Dämon und ihn mit seinen eigenen Waffen
+                    schlägt. Ich bin Dir dankbar, dass du den Windungen meiner Begriffsbildung
+                    gefolgt bist und ich hoffe, Du siehst, dass das nicht umsonst gewesen ist.</p>
+                <closer><salute>Viele herzliche Grüsse</salute><signed>Dein <rs type="person"
+                            ref="#tillich_person_id__1928">Paul</rs></signed></closer>
+            </div>
+        </body>
+    </text>
 </TEI>
