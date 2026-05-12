@@ -3,10 +3,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Telegramm von Gustav Dürselen, Paul Rudolf Dürselen und Johanna Amalia Eugenia Dürselen an Paul Tillich <lb/>vom 20. Juli 1919</title>
-            <author ref="#tillich_person_id__2237">Gustav Dürselen</author>
-            <author ref="#tillich_person_id__2224">Paul Rudolf Dürselen</author>
-            <author ref="#tillich_person_id__2225">Johanna Amalia Eugenia Dürselen</author>
+            <title>Telegramm von Johannes Tillich, Johanna Fritz und Alfred Fritz an Paul Tillich <lb/>vom 20. Juli 1919</title>
+            <author ref="#tillich_person_id__1924">Johannes Tillich</author>
+            <author ref="#tillich_person_id__2224">Alfred Fritz</author>
+            <author ref="#tillich_person_id__1925">Johanna Fritz</author>
             <respStmt>
                <resp>Editor</resp>
                <name key="https://orcid.org/0009-0002-5479-2296">Alma Ament</name>
@@ -44,7 +44,7 @@
                   <idno>bMS 649/218(15)</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Telegramm</p>
+                  <p>Telegramm, maschinenschriftlich</p>
                </physDesc>
             </msDesc>
          </sourceDesc>
@@ -60,9 +60,9 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="#tillich_person_id__2237">Gustav Dürselen</persName>
-               <persName ref="#tillich_person_id__2224">Paul Rudolf Dürselen</persName>
-               <persName ref="#tillich_person_id__2225">Johanna Amalia Eugenia Dürselen</persName>
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+               <persName ref="#tillich_person_id__1925">Johanna Fritz</persName>
                <placeName ref="#tillich_place_id__129">Doelzig Kreis Soldin</placeName>
                <date when="1919-07-20">20.07.1919</date>
             </correspAction>
@@ -81,21 +81,21 @@
          <change who="GM" when="2026-02-11">Kollationierung</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text type="telegram">
       <body>
          <div type="writingSession"
-              resp="#tillich_person_id__2237 #tillich_person_id__2224 #tillich_person_id__2225">
+              resp="#tillich_person_id__1924 #tillich_person_id__1925 #tillich_person_id__641">
             <pb n="1"/>
             <opener>
                <dateline>
                   <rs ref="#tillich_place_id__129" type="place">doelzigkrSoldin 12</rs> <date when="1919-07-20">20/7</date> 5.-5.-n=
                </dateline>
             </opener>
-            <p>hoch lebe <rs ref="#tillich_person_id__1928" type="person">jung tillich</rs> =</p>
+            <p>hoch lebe <rs ref="#tillich_person_id__1935" type="person">jung tillich</rs> =</p>
             <closer>
-                  <rs ref="#tillich_person_id__2237" type="person">groszvater</rs>
-                  <rs ref="#tillich_person_id__2225" type="person">tante</rs>
-                  <rs ref="#tillich_person_id__2224" type="person">onkel</rs>. +
+                  <rs ref="#tillich_person_id__1924" type="person">groszvater</rs>
+                  <rs ref="#tillich_person_id__1925" type="person">tante</rs>
+                  <rs ref="#tillich_person_id__641" type="person">onkel</rs>. +
             </closer>
          </div>
       </body>
