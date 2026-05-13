@@ -80,20 +80,19 @@
          <change who="GM" when="2023-07-11">Initiale Auszeichnung des Transkripts</change>
          <change who="PS" when="20224-01-15">Endabnahme</change>
          <change who="EL" when="2025-10-29">Erklärende Anmerkungen überprüft und ergänzt</change>
+         <change when="2026-05-13" who="GM">Kollationierung</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <opener>
-               <hi rend="print">Der Preußische Minister für Wissenschaft, Kunst und Volksbildung<lb/>
-                  <hi rend="u">UI Nr. 5874.1</hi> Bei Beantwortung wird um Angabe der Geschäftsnummer gebeten.</hi>
-               <lb/>
+            <opener> Der Preußische Minister für Wissenschaft, Kunst und Volksbildung<lb/>
+               <hi rend="u">UI Nr. 5874.1</hi> Bei Beantwortung wird um Angabe der Geschäftsnummer
+               gebeten. <lb/>
                <dateline>
-                  <hi rend="print">
-                     <rs ref="#tillich_place_id__37" type="place">Berlin W8</rs> den</hi>
-                  <date when="1924-06-12">24. April 1924.</date>
+                  <rs ref="#tillich_place_id__37" type="place">Berlin W8</rs> den <date
+                     when="1924-06-12">24. April 1924.</date>
                   <hi rend="print">Unter den Linden 4 Fernsprecher: Zentrum 11340–11343</hi>
                </dateline>
             </opener>
@@ -106,45 +105,48 @@
                <salute>In Vertretung</salute>
                <signed>
                   <unclear reason="illegible">
-                     <rs type="person">???</rs>
-                 </unclear>
+                     <rs type="person">¿¿¿</rs>
+                  </unclear>
                </signed>
                <add resp="#tillich_person_id__2458">
                   <hi rend="u">
                      <unclear>tgl.</unclear> Nr. 1667</hi>
                   <lb/>Gesehen!<lb/>
-                  Marburg, den <date when="1924-04-29">29. April 1924</date>
+                  <rs ref="#tillich_place_id__279" type="place">Marburg</rs>, den <date
+                     when="1924-04-29">29. April 1924</date>
                   <figure type="stamp">
                      <p>[Stempel: Universitätskurator.]</p>
                   </figure>
                   <rs ref="#tillich_person_id__2458" type="person">v. Hülsen</rs>,<lb/> geheimer
-                  Regierungsrat.</add>
-               <dateline>An den außerordentlichen Professor <rs ref="#tillich_person_id__1928" type="person">Herrn Lic. Dr. Paul <hi rend="g">Tillich</hi>
+                  Regierungsrat.</add><lb/>
+               <dateline>An den außerordentlichen Professor <rs ref="#tillich_person_id__1928"
+                     type="person">Herrn Lic. Dr. Paul <hi rend="g">Tillich</hi>
                   </rs> zu <hi rend="u">
-                     <hi rend="g">Marburg</hi>
-                  </hi>.</dateline>
+                     <hi rend="g"><rs ref="#tillich_place_id__279" type="place">Marburg</rs></hi>
+                  </hi>.</dateline><!-- Adresse entfernen? -->
             </closer>
          </div>
          <div type="certificate">
             <pb n="2"/>
-            <p>Der Privatdozent Lic. Dr. <rs ref="#tillich_person_id__1928" type="person">Paul <hi rend="g">Tillich</hi>
-               </rs> wird zum nichtbeamteten außerordentlichen
-               Professor ernannt.<lb/>
+            <p>Der Privatdozent Lic. Dr. <rs ref="#tillich_person_id__1928" type="person">Paul <hi
+                     rend="g">Tillich</hi>
+               </rs> wird zum nichtbeamteten außerordentlichen Professor ernannt.<lb/>
                <rs ref="#tillich_place_id__37" type="place">
                   <hi rend="g">Berlin</hi>
                </rs> den <date when="1924-04-24">24. April 1924</date>. <figure type="seal">
-                  <p>[Darstellung: Drucksiegel des Preußisches Ministerium für Wissenschaft, Kunst und
-                     Volksbildung.]</p>
+                  <p>[Darstellung: Drucksiegel des Preußischen Ministerium für Wissenschaft, Kunst
+                     und Volksbildung.]</p>
                </figure>Der Preußische Minister für Wissenschaft, Kunst und Volksbildung<lb/> in Vertretung<lb/>
                <rs type="person">
                   <unclear reason="illegible">
-                     <hi rend="hand">???</hi>
-                 </unclear>
+                     <hi rend="hand">¿¿¿</hi>
+                  </unclear>
                </rs>
             </p>
             <p>
                <hi rend="u">Urkunde</hi>
-               <lb/> über die Ernennung des bisherigen Privatdozenten <rs ref="#tillich_person_id__1928" type="person">Lic. Dr. Paul Tillich</rs> zum
+               <lb/> über die Ernennung des bisherigen Privatdozenten <rs
+                  ref="#tillich_person_id__1928" type="person">Lic. Dr. Paul <hi rend="g">Tillich</hi></rs> zum
                nichtbeamteten außerordentlichen Professor in der Theologischen Fakultät der
                Universität zu <rs ref="#tillich_place_id__279" type="place">Marburg</rs>.<lb/> ––––––––<lb/>
                <hi rend="u">UI Nr. 5874.1</hi>
