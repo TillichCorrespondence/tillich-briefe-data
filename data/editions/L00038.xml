@@ -58,13 +58,15 @@
       </encodingDesc>
       <profileDesc>
          <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date when="1904-09-22">22.09.1904</date>
-            </correspAction>
-            <correspAction type="received">
+                        <correspAction type="sent">
                <persName ref="#tillich_person_id__4010">Ernst Glokke</persName>
                <persName ref="#tillich_person_id__4012">Bertha Glokke (geb. Tillich)</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1904-09-22">22.09.1904</date>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -80,7 +82,7 @@
          <div type="writingSession">
             <pb n="1"/>
             <opener>
-               <dateline>W. 15. Düsseldorferstr. 100
+               <dateline><rs ref="#tillich_place_id__504" type="place">W. 15. Düsseldorferstr. 100</rs>
                     <date when="1904-11-22">22.IX.04.</date>
                </dateline>
                <salute>Mein lieber <rs type="person" ref="#tillich_person_id__1928">Paul</rs>!</salute>
