@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Gustav und Elisabeth Dürselen an Paul Tillich <lb/>vom 21. September 1904</title>
+            <title>Postkarte von Gustav Dürselen an Paul Tillich <lb/>vom 21. September 1904</title>
             <author ref="#tillich_person_id__2237">Gustav Dürselen</author>
             <respStmt>
                <resp>Editor</resp>
@@ -61,6 +61,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -72,14 +73,13 @@
          <change when="2023-12-02" who="AA">Initiale Auszeichnung des Transkripts</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text type="postcard">
       <body>
          <div type="writingSession">
             <pb n="1"/>
             <opener>
                <dateline>
-                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs>
-   , den 
+                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs> den 
    <date when="1904-09-21">21.09.1904</date>
                </dateline>
                <salute>Lieber Paul!</salute>
@@ -87,15 +87,14 @@
             <p>
    Meinen herzlichen Glückwunsch!
    Habe mich über Deine Nachricht außerordentlich gefreut.
+   </p>
+<p>
    Dein <rs ref="#tillich_person_id__2224" type="person">Onkel Paul</rs> und <rs ref="#tillich_person_id__2236" type="person">Tante Else</rs> sind auf
    einem Hochzeitsmahl, sonst würden sie ja ohne Zweifel ein paar Worte hier beigeschrieben haben.
   </p>
             <closer>
-               <salute>Herzlichen Gruß von Haus zu Haus Dein <choice>
-                     <abbr>tr.</abbr>
-                     <expan>treuer</expan>
-                  </choice> Großvater</salute>
-               <signed>G. Dürselen</signed>
+               <salute>Herzlichen Gruß von Haus zu Haus</salute>
+               <signed>Dein tr. Großvater <rs ref="#tillich_person_id__2237" type="person">G. Dürselen</rs></signed>
             </closer>
          </div>
       </body>
