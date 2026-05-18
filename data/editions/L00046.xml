@@ -67,6 +67,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -84,14 +85,16 @@
             <pb n="1"/>
             <opener>
                <dateline>
-                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, <date when="1905-02-08">8/2 05.</date>
+                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs> <date when="1905-02-08">8/2 05.</date>
                </dateline>
                <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
             </opener>
             <p>Eben höre ich von Tante <rs ref="#tillich_person_id__2236" type="person">Else</rs>,
                daß Du gestern Abend nicht im Wingolf gewesen &amp; bitte ich Dich, mir umgehend ein
-               paar Zeilen zu schreiben, wie es Deinem l. <rs ref="#tillich_person_id__1924" type="person">Vater</rs> geht. Leider konnte ich nicht kommen. Herzl. Gruß von uns
-               Allen, besonders von Eurem Großpapa <rs ref="#tillich_person_id__2237" type="person">Dürselen</rs>.</p>
+               paar Zeilen zu schreiben, wie es Deinem l. <rs ref="#tillich_person_id__1924" type="person">Vater</rs> geht. Leider konnte ich nicht kommen.</p>
+               <closer>
+               Herzl. Gruß von uns Allen, besonders von Eurem <rs ref="#tillich_person_id__2237" type="person">Großpapa Dürselen</rs>
+               </closer>
          </div>
       </body>
    </text>
