@@ -3,10 +3,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Postkarte von Johanna Tillich an Paul
-                                                  Tillich <lb/>vom 11. Juli 1906</title>
-            <author ref="#tillich_person_id__644">Johanna
-                                                  Tillich</author>
+            <title>Postkarte von Johanna und Johannes Tillich an Paul Tillich <lb/>vom 11. Juli 1906</title>
+            <author ref="#tillich_person_id__644">Johanna Tillich</author>
+            <author ref="#tillich_person_id__1924">Johannes Tillich</author>
             <respStmt>
                <resp>Editor</resp>
                <name key="https://orcid.org/0009-0003-9642-5125">Paul Schömann</name>
@@ -50,7 +49,7 @@
                   <idno>bMS 649/193</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Postkarte, eigenhändig</p>
+                  <p>Postkarte, eigenhändig; Motiv: <q>Seebad Misdroy. Eine stolze Festung.</q></p>
                </physDesc>
             </msDesc>
          </sourceDesc>
@@ -69,14 +68,14 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="#tillich_person_id__644">Johanna
-                                                  Tillich</persName>
+               <persName ref="#tillich_person_id__644">Johanna Tillich</persName>
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
                <placeName ref="#tillich_place_id__293">Misdroy</placeName>
                <date when="1906-07-11">11.07.1906</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul
-                                                  Tillich</persName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__189">Halle (Saale)</placeName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -93,13 +92,13 @@
       <body>
          <div type="writingSession">
             <pb n="1"/>
+<hi rend="print">Seebad Misdroy. <del rend="s">Eine</del></hi> <rs ref="#tillich_person_id__1928" type="person">Pauls</rs> <hi rend="print">stolze Festung.</hi>
+<pb n="2"/>
             <opener>
                <dateline>
                   <rs ref="#tillich_place_id__293" type="place">Misdroy</rs>. Dünenstr. 1/ <date when="1906-07-11">11/7.06.</date>
                </dateline>
-               <salute>lieber <rs ref="#tillich_person_id__1928" type="person">
-                     <hi rend="aq">Paul</hi>
-                  </rs>
+               <salute>lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>
                </salute>
             </opener>
             <p>den ersten Gruß aus <rs ref="#tillich_place_id__293" type="place">Misdroy</rs>! Es ist hier sehr schön, wir haben
@@ -108,13 +107,10 @@
                                                   Herren- und Damenbad liegt, unsere alte Brücke
                                                   wird abgerissen! –</p>
             <p>
-               <hi rend="aq">
-                  <rs ref="#tillich_person_id__1310" type="person">Lucies</rs>
-               </hi> Hochzeit ist am <date when="1906-08-20">20! August</date>; <hi rend="u">bestimmt</hi>. Heut&apos; kommt H. <rs ref="#tillich_person_id__800" type="person">Harder</rs> u. wohnt neben uns. Schreibe bald,
-                                                  auch Karten! Viele <q>Meeresgrüße</q> v. D. S. </p>
+               <rs ref="#tillich_person_id__1310" type="person">Lucies</rs> Hochzeit ist am <date when="1906-08-20">20! August</date>; <hi rend="u">bestimmt</hi>. Heut&apos; kommt H. <rs ref="#tillich_person_id__800" type="person">Harder</rs> u. wohnt neben uns. Schreibe bald,
+                                                  auch Karten! Viele <q>Meeresgrüße</q> </p>
             <closer>
-               <signed>
-                  <rs ref="#tillich_person_id__644" type="person">Johanna</rs>
+               <signed>v. D. <rs ref="#tillich_person_id__644" type="person">S. Johanna</rs>
                </signed>
                <signed>
                   <rs type="person" ref="#tillich_person_id__1924">Papa</rs>
