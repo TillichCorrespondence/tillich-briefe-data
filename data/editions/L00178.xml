@@ -50,7 +50,7 @@
                   <idno>bMS 649/193</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Postkarte, eigenhändig</p>
+                  <p>Postkarte, eigenhändig; Motiv: <q>Kaffeeberg bei Misdroy</q>; <q>Durchblick nach dem <q>Weissenberg</q></q></p>
                </physDesc>
             </msDesc>
          </sourceDesc>
@@ -75,8 +75,9 @@
                <date when="1907-07-16">16.07.1907</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul
-                                                  Tillich</persName>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__189">adressiert nach Halle (Saale)</placeName>
+               <placeName ref="#tillich_place_id__418">weitergeleitet nach Straßburg</placeName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -97,8 +98,7 @@
             <pb n="1"/>
             <opener>
                <dateline>
-                  <rs ref="#tillich_place_id__293" type="place">
-                     <hi rend="aq">Misdroy</hi></rs>,
+                  <rs ref="#tillich_place_id__293" type="place">Misdroy</rs>,
                                                   <date when="1907-07-16">Juli 07</date>
                </dateline>
                <salute>M. l. <rs ref="#tillich_person_id__1928" type="person">P.</rs>
@@ -107,8 +107,8 @@
             <p>Viele Grüße aus Sturm und Regen! Es ist fein am
                                                   Strand. Das Meer ist in gewaltiger Aufregung. Meine
                                                   Finger sind noch ganz starr; wir kommen eben aus
-                                                  d. Strandkorb. Gestern waren wir bei d. <unclear cert="low">h.</unclear> Schmidts in <hi rend="u">
-                  <rs ref="#tillich_place_id__616" type="place">Osternothafen</rs></hi>, sehr nett, feine Schiffe
+                                                  d. Strandkorb. Gestern waren wir bei d. <rs ref="#tillich_person_id__XXXX" type="person">j. Schmidts</rs> in <hi rend="u">
+                  <rs ref="#tillich_place_id__616" type="place">Osternothafen</rs></hi><note type="ea">Auf der Insel <rs ref="#tillich_place_id__1541" type="place">Wollin</rs> gelegen, rechts der Swinemündung, bestand früher das deutsche Ostseebad <rs ref="#tillich_place_id__616" type="place">Osternothafen</rs>.  Die letzten Bewohner des Ortes wurden Ende der 1960er Jahre wegen der Hafenerweiterung ans Westufer der Swine umgesiedelt.</note>, sehr nett, feine Schiffe
                                                   gesehen. – Denke Sonnabend kommt – <hi rend="u">
                   <rs type="person" ref="#tillich_person_id__1930">Großmama</rs>
                </hi> mit <hi rend="aq">
@@ -121,6 +121,10 @@
                                                   dieser Stelle abgeschnitten, sodass der weitere
                                                   Text nicht eruiert werden konnte.</note>
                <hi rend="u">Die Typs</hi>?!! </p>
+               <pb n="2"/> Schreib' u. sei vorsichtig!!!! <signed>Deine
+                  <rs type="person" ref="#tillich_person_id__644">Johanna</rs>
+               </signed>
+
          </div>
       </body>
    </text>
