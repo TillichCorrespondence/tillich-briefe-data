@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Glückwunschkarte von Käte an Paul Tillich <lb/>vom 22. März 1902</title>
+            <title>Postkarte von Tante Käthe an Paul Tillich <lb/>vom 22. März 1902</title>
             <author ref="#tillich_person_id__2196">Käte</author>
             <respStmt>
                <resp>Editor</resp>
@@ -41,7 +41,7 @@
                   <idno>bMS 649/218(1)</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Glückwunschkarte, eigenhändig</p>
+                  <p>Postkarte, eigenhändig</p>
                </physDesc>
             </msDesc>
          </sourceDesc>
@@ -79,13 +79,10 @@
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, den <date when="1902-03-22">22.03.1902</date>
-               </dateline>
-            </opener>
-            <p>
-               <hi rend="print">Herzlichen Glückwunsch zur Confirmation</hi>
+             <p>
+               <hi rend="print">Herzlichen Glückwunsch zur Confirmation</hi><note type="ea">Paul Tillich wurde am 23.03.1902 in der Berliner 
+            lutherisch-böhmischen Bethlehemskirche durch seinen Vater konfirmiert. Der Konfirmationsspruch war 
+            <rs ref="Joh 8,31-32" type="bible">Joh. 8, 31-32</rs>: <q>So ihr bleiben werdet und die Wahrheit wird euch frei machen.</q></note>
             </p>
             <p>
                <hi rend="print">Er wird Deinen Fuss nicht gleiten lassen; und der Dich behütet,
@@ -94,20 +91,15 @@
          </div>
          <div>
             <pb n="2"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, den <date when="1902-03-22">22.03.1902</date>
-               </dateline>
-            </opener>
             <p>Schütze und geleite Dich Gott, mein Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>! </p>
-            <closer>
-               <salute>Mit innigster Liebe betet für Dich</salute>
+            Mit innigster Liebe betet für Dich
                <signed>Deine treue <rs ref="#tillich_person_id__2196" type="person">Tante <hi rend="u">Käthe</hi>
                   </rs>.</signed>
-            </closer>
+            
             <postscript>
-               <p>
-                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, den <date when="1902-03-22">22./3.02</date>.</p>
+               <dateline>
+                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, den <date when="1902-03-22">22./3. 02.</date>
+               </dateline>
             </postscript>
          </div>
       </body>
