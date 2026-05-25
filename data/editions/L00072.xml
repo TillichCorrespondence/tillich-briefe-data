@@ -50,7 +50,7 @@
                   <idno>bMS 649/193</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Postkarte, eigenhändig</p>
+                  <p>Postkarte, eigenhändig; Motiv: <q>Bludenz mit Elserköpfe, Vorarlberg</q>.</p>
                </physDesc>
             </msDesc>
          </sourceDesc>
@@ -92,7 +92,7 @@
    </teiHeader>
    <text type="postcard">
       <body>
-         <div type="writingSession">
+         <div type="firstsession">
             <pb n="1"/>
             <opener>
                <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">
@@ -100,37 +100,28 @@
                   </rs>
                </salute>
             </opener>
-            <p>1000 Grüße – Bist Du auch verständig? Denk an
-                                                  mich in d. <hi rend="u">herrlichen</hi> Allee d.
-                                                  <hi rend="u">schönen</hi>
-               <rs ref="#tillich_place_id__448" type="place">
-                  <hi rend="aq">Tübingen</hi></rs>. </p>
-            <closer>
-               <signed>Deine Schwester <rs ref="#tillich_person_id__644" type="person">
-                     <hi rend="aq">Johanna</hi>
-                  </rs>.</signed>
-            </closer>
+            <p>1000 Grüße – Bist Du auch verständig? Denk an mich in d. <hi rend="u">herrlichen</hi> Allee d.
+                                                  <hi rend="u">schönen</hi> <rs ref="#tillich_place_id__448" type="place">Tübingen</rs></p> 
+                          <signed>Deine Schwester <rs ref="#tillich_person_id__644" type="person">Johanna</rs>.</signed>
+            <pb n="2"/>
             <postscript>
-               <p>Heut abend fahren wir nach <rs ref="#tillich_place_id__409" type="place">St.
-                                                  Anton</rs>
+            Heut abend fahren wir nach <rs ref="#tillich_place_id__409" type="place">St. Anton</rs></postscript></div>
+            
+            <div type="handwriting2">
+               <p>Adresse von Freitag bis Sonntag: <rs ref="#tillich_place_id__423" type="place">Sulden, Trafoi, in Tirol</rs>. Hotel Eller.
                </p>
-               <p>Adresse von Freitag bis Sonntag: <hi rend="aq">
-                     <rs ref="#tillich_place_id__423" type="place">Sulden, Trafoi, in Tirol</rs>. Hotel Eller.</hi>
-               </p>
-            </postscript>
-         </div>
-         <div type="handwriting2">
-            <p>Herzlichen innigen Gruß mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs> von Deiner stets an Dich denkenden S.
-                                                  <rs ref="#tillich_person_id__1727" type="person">M. Schmidt</rs></p>
-         </div>
+            </div>
+         
          <div type="handwriting3">
-            <p>Herzl. Grüße Dir liebster <rs ref="#tillich_person_id__1928" type="person">Paul</rs> von Deiner <rs ref="#tillich_person_id__2236" type="person">Tante
-                                                  Else</rs> Gott behüte Dich.</p>
+            <p>Herzlichen innigen Gruß mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs> von Deiner stets an Dich denkenden <unclear cert="medium">S.</unclear> <rs ref="#tillich_person_id__1727" type="person">M. Schmidt</rs></p>
          </div>
          <div type="handwriting4">
-            <p>Viele Grüße Hanna.</p>
+            <p>Herzl. Grüße Dir liebster <rs ref="#tillich_person_id__1928" type="person">Paul</rs> von Deiner <rs ref="#tillich_person_id__2236" type="person"><unclear cert="medium">Tante Else</unclear></rs> Gott behüte Dich.</p>
          </div>
-         <div>
+         <div type="handwriting5">
+            <p>Viele Grüße <rs ref="#tillich_person_id__XXXX" type="person">Hanna</rs>.</p>
+         </div>
+         <div type="handwriting6">
             <p>Besten Gruß <rs ref="#tillich_person_id__2259" type="person">Adolf</rs>.</p>
          </div>
       </body>
