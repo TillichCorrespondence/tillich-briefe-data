@@ -4,10 +4,10 @@
       <fileDesc>
          <titleStmt>
             <title>Karte von Hans Burchard an Paul Tillich <lb/>vom 22. Februar 1919</title>
-            <author ref="#tillich_person_id__XXXX">Hans Burchard</author>
+            <author ref="#tillich_person_id__2737">Hans Burchard</author>
             <respStmt>
                <resp>Editor</resp>
-               <name key="https://orcid.org/0009-0002-5479-2296">Fotios Komotoglou</name>
+               <name key="https://orcid.org/0009-0004-5500-0611">Sara-Sophie Rosenheimer</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -34,12 +34,12 @@
          <sourceDesc>
             <msDesc type="manuscript">
                <msIdentifier>
-                  <country>XXXX</country>
-                  <settlement ref="#tillich_place_id__XXXX">XXXX</settlement>
-                  <institution>XXXX</institution>
-                  <repository>XXXX</repository>
-                  <collection>XXXX</collection>
-                  <idno>XXXX</idno>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886‒1965. Papers, 1894‒1974</collection>
+                  <idno>bMS 649/209(4)</idno>
                </msIdentifier>
                <physDesc>
                   <p>Karte, eigenhändig</p>
@@ -58,8 +58,8 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="#tillich_person_id__XXXX">Hans Burchard</persName>
-               <placeName ref="#tillich_place_id__XXXX">Berlin-Zehlendorf</placeName>
+               <persName ref="#tillich_person_id__2732">Hans Burchard</persName>
+               <placeName ref="#tillich_place_id__52">Berlin-Zehlendorf</placeName>
                <date when="1919-02-22">22.02.1919</date>
             </correspAction>
             <correspAction type="received">
@@ -77,14 +77,14 @@
    </teiHeader>
    <text type="letter">
       <body>
-         <div type="writingSession" resp="#tillich_person_id__XXXX">
+         <div type="writingSession" resp="#tillich_person_id__2732">
             <pb n="1"/>
             <opener>
                <address>
                   <addrLine>Abs</addrLine>
                   <addrLine>Dr. Burchard</addrLine>
                   <addrLine>Landrichter</addrLine>
-                  <addrLine><rs ref="#tillich_place_id__XXXX" type="place">Zehlendorf Mitte</rs></addrLine>
+                  <addrLine><rs ref="#tillich_place_id__52" type="place">Zehlendorf Mitte</rs></addrLine>
                   <addrLine>Hauptstr. 69</addrLine>
                </address>
                <address>
@@ -93,15 +93,13 @@
                   <addrLine><rs ref="#tillich_place_id__38" type="place">Friedenau</rs></addrLine>
                   <addrLine>Taunusstr. 1</addrLine>
                </address>
-               <dateline><date when="1919-02-22">22/II 19</date> <rs ref="#tillich_place_id__XXXX" type="place">Zehlendorf-Mitte</rs><lb/>Hauptstr. 69</dateline>
+               <dateline><date when="1919-02-22">22/II 19</date> <rs ref="#tillich_place_id__52" type="place">Zehlendorf-Mitte</rs><lb/>Hauptstr. 69</dateline>
                <salute>Lieber Tillich,</salute>
-            </opener>
-            <p>ich erfahre zufällig, daß Du seit einiger Zeit wieder in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> bist und Dich noch bei keinem der alten Freunde gemeldet hast. Warum?</p>
-            <p>Willst Du mit Deiner Frau, die <supplied reason="omitted">wir</supplied> ja nur vom Erzählen kennen, nicht mal zu uns kommen? Richtets Euch doch mal ein. (Sonntags oder Abends)</p>
-            <p>Telefon: Zehlendorf 997 Wohnung <unclear>XXXX</unclear></p>
+            </opener>ich erfahre zufällig, daß Du seit einiger Zeit wieder in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> bist und Dich noch bei keinem der alten Freunde gemeldet hast. Warum? Willst Du mit Deiner Frau, die <supplied reason="omitted">wir</supplied> ja nur vom Erzählen kennen, nicht mal zu uns kommen? Richtets Euch doch mal ein. (Sonntags oder Abends)<lb/>
+Telefon: Zehlendorf 997 Wohnung <unclear reason="illegible">¿¿¿</unclear></p>
             <closer>
                <salute>Herzl. Gruß</salute>
-               <signed>Dein <rs ref="#tillich_person_id__XXXX" type="person">Hans Burchard</rs></signed>
+               <signed>Dein <rs ref="#tillich_person_id__2737" type="person">Hans Burchard</rs></signed>
             </closer>
          </div>
       </body>
