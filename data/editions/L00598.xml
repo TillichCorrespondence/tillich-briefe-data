@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00598">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Karte von Hans Burchard an Paul Tillich vom 22. Februar 1919</title>
+            <author ref="#tillich_person_id__2737">Hans Burchard</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0004-5500-0611">Sara-Sophie Rosenheimer</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886‒1965. Papers, 1894‒1974</collection>
+                  <idno>bMS 649/209(4)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Karte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2732">Hans Burchard</persName>
+               <placeName ref="#tillich_place_id__52">Berlin-Zehlendorf</placeName>
+               <date when="1919-02-22">22.02.1919</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="AA" when="2025-05-29">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+
+   <text type="letter">
+      <body>
+         <div type="writingSession" resp="#tillich_person_id__2732">
+            <pb n="1"/>
+            <opener>
+               <salute>Lieber Tillich,</salute>
+            </opener>
+            <p>ich erfahre zufällig, daß Du seit einiger Zeit wieder in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> bist und Dich noch bei keinem der alten Freunde gemeldet hast. Warum? Willst Du mit Deiner Frau, die <supplied resp="Editor">wir</supplied> ja nur vom Erzählen kennen, nicht mal zu uns kommen? Richtets Euch doch mal ein. (Sonntags oder Abends)<lb/>
+Telefon: <rs type="place" ref="#tillich_place_id__52">Zehlendorf-Mitte</rs> 997 Wohnung <unclear reason="illegible">¿¿¿</unclear></p>
+            <closer>
+               <salute>Herzl. Gruß</salute>
+               <signed>Dein <rs ref="#tillich_person_id__2737" type="person">Hans Burchard</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
