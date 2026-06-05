@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01609">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brieffragment von Paul Tillich an Johannes Tillich aus dem Mai 1905</title>
+            <author>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0004-5500-0611">Sara-Sophie Rosenheimer</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="letter">
+               <physDesc>
+                  <p>Brieffragment, eigenhändig</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="monograph" n="firstPrint">
+                        <monogr>
+                           <author>Wilhelm Pauck</author>
+                           <author>Marion Pauck</author>
+                           <title>Paul Tillich. Sein Leben und Denken. Band I: Leben</title>
+                           <edition>1</edition>
+                           <imprint>
+                              <publisher>Evangelisches Verlagswerk Stuttgart / Verlag Otto Lembeck</publisher>
+                              <pubPlace ref="#tillich_place_id__420">Stuttgart / Frankfurt am Main</pubPlace>
+                              <date when="1978">1978</date>
+                              <biblScope>31</biblScope>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date notBefore="1905-05-01" notAfter="1905-05-31">Mai 1905</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="SSR" when="2025-06-17">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            Der Jammer ist nur, daß ich so wenig zur Arbeit komme. Der Vormittag ist von Kollegs besetzt, der Nachmittag von Spaziergängen. Denn ich kann es nicht übers Herz bringen, bei strahlendem, wolkenlosem Himmel und einer Natur, die mir bei jedem Schritt wie ein neues, unbekanntes Wunder entgegentritt, zu Hause zu bleiben. Stundenlang streife ich, meist allein, durch unbekannte Wälder, Wiesen und Berge und genieße, was ich ein halbes Jahr mit Schmerzen entbehrt habe. Die Obstblüte hat ihren Höhepunkt schon überschritten, die Stachelbeeren fangen an zu reifen, die Eichen sind ganz grün. Zum ersten Mal wird mir das Rätsel gelöst, warum der Mai von den Dichtern so gerühmt wird.<note type="ea">Das Brieffragment ist überliefert in: <rs type="work" ref="#tillich__SS8AVP2E">Wilhelm und Marion Pauck: Paul Tillich. Sein Leben und Denken. Band I: Leben (1978)</rs>, S. 31. Laut Quellenangabe der Herausgeber befand sich das Original im Archiv der Harvard Divinity School Library.</note>
+         </div>
+      </body>
+   </text>
+</TEI>
