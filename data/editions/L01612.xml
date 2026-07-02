@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01612">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brieffragment von Paul Tillich an Elisabeth Klein aus dem Jahr 1909</title>
+            <author>
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </author>
+<respStmt>
+   <resp>Editor</resp>
+   <name key="https://orcid.org/0009-0004-5500-0611">Sara-Sophie Rosenheimer</name>
+</respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="letter">
+               <msIdentifier>
+                  <country>XXXX</country> <!-- Archiv unklar-->
+                  <settlement>XXXX</settlement>
+                  <repository>XXXX</repository>
+                  <collection>XXXX</collection>
+                  <idno>XXXX</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brieffragment, eigenhändig</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct n="firstPrint" type="monograph">
+                        <monogr>
+                           <author>Paul Tillich</author>
+                           <editor>Renate Albrecht (Hg.)</editor>
+                           <title>Impressionen und Reflexionen</title>
+                           <edition>1</edition>
+                           <imprint>
+                              <publisher>Evangelisches Verlagswerk Stuttgart</publisher>
+                              <pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
+                              <date when="1972">1972</date>
+                              <biblScope>17</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Gesammelte Werke</title>
+                           <biblScope>XIII</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date notBefore="1909-01-01" notAfter="1909-12-31">1909</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1063">Elisabeth Klein</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <p>Ich möchte Ihnen und Herrn Pastor noch einmal meinen herzlichsten Dank aussprechen für die schöne Erinnerung, um die ich durch Sie reicher geworden bin, und den Vorrat an Kraft, aus dem ich hoffentlich noch lange schöpfen kann. Die Zeit in <rs type="place" ref="#tillich_place_id__41">Lichtenrade</rs> erscheint mir immer als eine Art Goldenes Zeitalter weit ungetrübten Naturgenusses und seliger Sorglosigkeit.</p>
+            <note type="ea">Das Brieffragment ist überliefert in: <rs type="work" ref="#tillich__87Q3HQIJ">Paul Tillich: <hi>Impressionen und Reflexionen</hi>. Hg. von Renate Albrecht. Stuttgart: Evangelisches Verlagswerk Stuttgart, 1972 (= Gesammelte Werke XIII), S. 20.</rs></note>
+         </div>
+      </body>
+   </text>
+</TEI>
