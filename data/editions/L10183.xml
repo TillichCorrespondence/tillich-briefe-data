@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10183">
+   <!-- ID DES BRIEFES GIBT ES DERZEUT NOCH NICHT-->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Johannes Tillich an Paul Tillich
+               <lb/>vom April 1935</title>
+            <author ref="#tillich_person_id__1924">Johannes Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/193</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1924">Johannes Tillch</persName>
+               <date when="1935-04">04.1935</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-04-24">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <!-- AB HIER GEHT DER EIGENTLICH BRIEF LOS -->
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>, <date when="1935-04">d. 4.35</date></dateline>
+               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person"
+                  >Paul</rs>!</salute>
+            </opener>
+            <p>Vielen Dank für Deine Karte <note type="ea">nicht überliefert</note> v. 22.03 aus <rs ref="#tillich_place_id__705" type="place">New-Orleans</rs>. Ich freue
+               mich, daß Du diese interessante Reise machen konntest. Vermutlich bist Du jetzt
+               wieder in <rs ref="#tillich_place_id__319" type="place">New York</rs> oder doch bald.
+               Darum sende ich Dir den anliegenden Brief von <rs type="person">Schulz</rs>. Ich habe
+               ihm geschrieben, daß ich diesen Brief zunächst Dir zusenden würde, daß ich aber
+               jedenfalls auf Fortlassung Deines Namens in d. 2. Auflage rechnete (damit haben wir
+               doch etwas Wesentliches erreicht). Ich kann Dir nicht raten, daß Du auf
+               "Berichtigung" in der 1. Aufl. dringst unter den Bedingungen, die <rs type="person"
+                  >Schulz</rs> dafür macht, u. die ein unnötiges u. schädliche Aufbauschen der Sache
+               veranlassen würden. Habeat sibi!</p>
+            <p>Ich plane, Mitte Mai nach <unclear>Nervi</unclear> zu gehen; <rs ref="#tillich_person_id__3251" type="person">Frau
+                  Krüger</rs> würde mich begleiten. Ich hoffe davon - mit ärtzlicher Zustimmung -
+               Kräftigung von Herz u. Nieren u. namentlich Erfrischung für das Gemüt. Doch hängt die
+               Ausführung der Reise noch sehr ab von meinem Kräftezustand und der äußeren Lage der
+               Dinge in Kirche u. Weltpolitik.</p>
+            <p>Dein Eintreffen in Europa wird <pb n="2"/> sich vermutlich bis Anfang Juli verzögern.
+               Wenn ich solange in Italien oder Schweitz nicht bleiben kann, würde ich -
+               vorausgesetzt, daß Du nicht nach Deutschland kommst - noch einmal reisen (mit <rs
+                  ref="#tillich_person_id__1762" type="person">Elisabeth</rs> ), um mit Dir zusammen
+               zu sein. Alles dies sub conditione Jacobaea.</p>
+            <p><rs ref="#tillich_person_id__1923" type="person">Hannah</rs> kommt nun in die letzten
+               Monate ihres Zustandes, die gewöhnlich leichter sind. Gott behüte sie und schenke
+               Euch die Erfüllung Euer Hoffnung. M.<unclear>L.</unclear> wird viel von uns erzählen
+               können. - <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> erweist
+               sich bei aller Arbeit, Unruhe u. Erregung als sehr tüchtige, intelligente u.
+                  charakter<unclear>hafte</unclear> Frau. Wir sehen uns oft, u. sie sorgt für mich
+               sehr liebevoll. - am 7.4. war ich in <rs ref="#tillich_place_id__356" type="place"
+                  >Potsdam</rs> zur Konfirmation von <unclear>Marg.</unclear> Tillichs ältester
+               Tochter. Am 12.4. nahm ich an dem Begräbnis von Frau v. <unclear>Schdom</unclear>
+               teil; ihr Tod ging mir sehr nahe.</p>
+            <p>Nun Gottbefohlen. Antworte mir bald wegen der Anlage, damit ich an <rs type="person"
+                  >Schulz</rs> noch vor meiner eventuellen Reise schreiben kann.</p>
+            <closer>
+               <salute>Viel innige Grüße an Euch <unclear>Drei</unclear><add place="unten links">gesegnete Ostern!</add></salute>
+               <signed><rs ref="#tillich_person_id__1924" type="person"
+                  >Dein tr. Vater.</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

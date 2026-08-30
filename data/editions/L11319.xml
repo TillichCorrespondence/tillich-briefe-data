@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11319">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Eulalia Williams<lb/> von 06. Februar 1950</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/204 (64)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1950-02-06">06.02.1950</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__5496">Eulalia Williams</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-06-28" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><date when="1950-02-06">February 6,
+                        1950</date></dateline><salute>Dear <rs type="person"
+                            ref="#tillich_person_id__5496">Mrs. Williams</rs>:</salute>
+                </opener>
+                <p>You are in a sharp competition with the Book Department of the Chicago Press. If
+                    I had to review the two books to which you refer now I could not finish the
+                    manuscript of my <rs type="work" ref="#tillich__IUGJQLWM">SYSTEMATIC THEOLOGY
+                        vol. 1.</rs> which is due to the end of February. I believe that it is
+                    better to postpone the review to the fall issue.<note type="ea"><rs
+                            type="person" ref="#tillich_person_id__1928">Tillich</rs> liefert keine
+                        Rezension zu den genannten Werken. In der Herbst-Ausgabe der Zeitschrift
+                        findet sich jedoch eine Rezension zu <rs type="person"
+                            ref="#tillich_person_id__5498">Cullmanns</rs>
+                        <rs type="work" ref="#tillich__CG3UIZ3V">Christus und die Zeit</rs>. Vgl.
+                            <rs type="person" ref="#tillich_person_id__2991">Amos N. Wilder</rs>:
+                            <rs type="work" ref="#tillich__TEIPZGDH">Christ and Time: The Primitive
+                            Christian Conception of Time and History by Oscar Cullmann</rs>
+                        (1950).</note> I think <rs type="person" ref="#tillich_person_id__404">Mr.
+                        Couch</rs> would agree with me in this decision. </p>
+                <closer><salute>Sincerely yours,</salute><signed><rs type="person"
+                            ref="#tillich_person_id__1928">Prof. Paul Tillich</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

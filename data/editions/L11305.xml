@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11305">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Renate Albrecht
+               <lb/>vom 22. November 1949 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 117(14)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschineschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1949-11-22">22.11.1949</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__29">Renate Albrecht</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-06-05">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1949-11-22">November 22, 1949</date></dateline>
+               <salute>Liebe <rs ref="#tillich_person_id__29" type="person">Renate</rs>:</salute>
+            </opener>
+            <p>Ich hoffe Sie haben die Copie meines <rs ref="#L11302" type="letter">Briefes</rs> an 
+            <rs ref="#tillich_person_id__1562" type="person">Rathmann</rs> bekommen. Daraus ersehen
+            Sie 1) wie glaenzend ich Ihre und <rs ref="#tillich_person_id__133" type="person">Nina</rs>&apos;s Uebersetzung finde, 2) dass ich
+            nicht im Stande bin, sie sorgfaeltig durchzugehen und 3) dass ich Ihnen und 
+            <rs ref="#tillich_person_id__1562" type="person">Rathmann</rs> das Ganze zu treuen
+            Haenden ueberlasse.</p>
+            <p>Ich sende Ihnen das Manuscript mit gewoehnlicher Post und bitte Sie, weiter zu
+               arbeiten wobei ich das Princip der selbststaendigen Ausdrucksform dem woertlichen
+               gegenueber bevorzuge. Sobald meine <rs ref="#" type="person"
+               >Sekretaerin</rs><!-- wahrscheinlich Hilde Frankel --> und ich Zeit haben werden wir
+               Ihnen und einigen andern Freunden, die englisch koennen, einige englische
+               Veroeffentlichungen schicken, von denen ich Copien habe. Meinen <rs ref="#L11295"
+                  type="letter">Rundbrief</rs> werden Sie erhalten haben.</p>
+            <p>Mein Kommen nach <rs ref="#tillich_place_id__122" type="place">Deutschland</rs> und
+               alles haengt jetzt davon ab, dass ich die zweite Form meines ersten Bandes <rs
+                  ref="#tillich_work_id__69" type="bib">SYSTEMATISCHER THEOLOGIE</rs>
+               niederschreibe. Was das in <rs ref="#tillich_place_id__319" type="place">New York</rs> bedeutet, kann sich
+               niemand in <rs ref="#tillich_place_id__122" type="place">Deutschland</rs>
+               vorstellen.</p>
+            <closer>
+               <salute>In herzlicher Dankbarkeit Ihnen, <rs ref="#tillich_person_id__133"
+                     type="person">Nina</rs> und <rs ref="#tillich_person_id__5306" type="person"
+                     >Frau Hoesch</rs>,<lb/>mit besten Gruessen,</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person"
+                  ><hi rend="hand">Ihr Paul T.</hi><lb/>Paul Tillich</rs></signed>
+            </closer>
+            <postscript><p>P.S. Die Bilder von der Elisen Strasse in <rs ref="#tillich_place_id__126" type="place"
+                     >Dresden</rs> haben mich sehr erschuettert. Ob das von Ihnen bezeichnete Haus
+                  mein frueheres ist, weiss ich nicht. Ich hatte es niedriger in Erinnerung.</p></postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11282">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Old Cambridge Baptist Church (Samuel H. Miller) an Paul Tillich
+               <lb/>vom 5. Februar 1949 </title>
+            <author ref="#tillich_person_id__5382">Samuel H. Miller</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 171(39)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__5382">Samuel H. Miller</persName>
+               <date when="1949-02-05">05.02.1949</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-06-12">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1949-02-05">February5, 1949</date></dateline><lb/>
+               <rs ref="#tillich_person_id__1928" type="person">Professor Paul Tillich</rs><lb/>
+               Union Theological Seminary<lb/>
+               <rs ref="#tillich_place_id__319" type="place">New York, New York</rs>
+               <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Professor
+                  Tillich</rs>:</salute>
+            </opener>
+            <p>This morning I talked with you by phone concerning our hope that we might have the
+            good fortune, Christianly speaking, of your presence on Sunday, March 13th.</p>
+            <p>We are trying to set before our community, particularly this Harvard University area,
+               a kind of mission, during which the Christian faith would be as decisively and as
+               definitely presented as it is possible. For ten days from March 11th to March 20th,
+               we are planning the programs. The opening meeting of a general character will be
+               addressed by <rs ref="#tillich_person_id__5383" type="person">President Harold
+                  Tribble</rs> of Andover-Newton Theological School. On Sunday we would like you to
+               preach at both the morning worship service in the sanctuary and at the Sunday Evening
+               Club for students in the East Chapel. I have used the term <q>preach</q> because we
+               would like to respect in both occasions the religious urgency of action and decision.
+               There will be many students in the morning service, and some adults in the evening
+               one; the former of course will be more formal, and the latter will be somewhat
+               informal, as you would expect.</p>
+            <p>Following Sunday, we expect to engage in visitation and personal evangelism, with a
+               meeting on Friday night where <rs ref="#tillich_person_id__5384" type="person">Dr. Raymond Calkins</rs> will
+               consider the daily discipline of being a Christian. On Sunday the 20th, we will
+               celebrate a service of commitment and consecration.</p>
+            <p>I think that we would have no difficulty in seeing that you arrive back in <rs
+                  ref="#tillich_place_id__319" type="place">New York</rs> for Monday morning
+               classes. You could return by sleeper, leaving here at midnight. Our honorarioum is
+               not as large as it should be, but we can give you fifty dollars and all expenses.</p>
+            <p>I need not say how deeply I hope you can come to us. This is more than a personal
+               wish. I am thinking of the general climate here of non-existential thought, and the
+               general academic urbanity which disavows all involvement and need on the
+               fundamentally human level. I have been much moved by your recent book of sermons and
+               the <q><rs ref="#tillich_work_id__747" type="bibl">Protestant Era</rs></q>. Certainly
+               the way in which you were able to <q>tighten up</q> the whole loose and irresponsive
+               chaos of present day experience is something which would greatly bless us.</p>
+            <closer>
+               <salute>Earnestly,</salute>
+               <signed><rs ref="#tillich_person_id__5382" type="person"
+                  ><hi rend="hand">Samuel H. Miller</hi><lb/>Samuel H. Miller,<lb/>Minister</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10119">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Hannah Tillich <lb/>von 1935</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933-1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                        <idno>bMS 721/3(6)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date notBefore="1935-01-01" notAfter="1935-12-31">1935</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-05-13" who="EL">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebstes <rs type="person" ref="#tillich_person_id__1923"
+                        >Hannahchen</rs>!</salute>
+                </opener>
+                <p>Ob das noch Sonnabend ankommt, weiss man ja leider nicht. Aber ich wills versuchen. Ich hätte gern heut früh etwas von Dir gehabt, aber es kam stattdessen beiliegender Brief von <rs type="person" ref="#tillich_person_id__1965">Ulich</rs><note type="ea">Nicht überliefert.</note>, kurz und lieb. – Gestern kam von Dir mnur der Gruss auf <rs type="person" ref="tillich_person_id__3253">Vess</rs>' Karte<note type="ea">Nicht überliefert.</note>. Grüss ihn sehr herzlich! Dafür kam der nette Brief von <rs type="person" ref="#tillich_person_id__3125">Delliehausen</rs><note type="ea">Nicht überliefert.</note>. Was bedeutet die Bemerkung über <rs type="person" ref="#tillich_person_id__3254">Rotary</rs>? Überlege Dir doch, wie wir es mit der Versicherung machen. Die Bücher schätze ich auf 5000 Mark sagen wir <unclear>???</unclear> 10000<supplied>.</supplied> Der Umsatzwert ist ja sehr gering in der Versicherung. Und das Porzellan? Ich kann es gar nicht beurteilen. Sagen wir alles zusammen 10000? Vielleicht besprichst <pb n="2"/>Du es mal mit Frau <rs type="person" ref="#tillich_person_id__3256">Saeb</rs>. – Darum der <rs type="letter" ref="#L10160">Brief</rs> von <rs type="person" ref="#tillich_person_id__907">Rose Hirsch</rs>. Sie ist weit zurückgewichen, was ich nett finde, zeigt aber, dass sie nicht verstehen <hi rend="u">kann</hi>, um was es mir geht. <rs type="person" ref="#tillich_person_id__904">Emanuel</rs>s Verhalten finde ich hysterisch. –––</p>
+                <p>Gestern war ein Essen des Seminary wo der Direktor von <rs type="place" ref="#tillich_place_id__739">Hartford</rs> als Trustee teilnahm. Er liess mich nachher rufen, und fragte mich, ob ich eventuell bereit wäre, im nächsten Jahre dort aushilfsweise zu lesen. Es ist aber noch nicht entschieden. Ich habe natürlich nicht gesagt, dass ich schon was wusste. – Sonntag Abend muss ich in einer Smoking-Gesellschaft von 40 Leuten meine Ideen entwickeln.</p>
+                <p>Was soll ich <rs type="person" ref="#tillich_person_id__570">Erdmuthe</rs> zum Geburtstag schenken<supplied>?</supplied> Mach Vorschläge!</p>
+                <closer>Lebt wohl Ihr süssen Beiden nach denen ich mich immer mehr sehne!
+                    <signed>Euer <rs type="person" ref="#tillich_person_id__1928"
+                        >Paul</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

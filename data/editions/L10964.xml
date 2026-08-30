@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10964">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Fritz Pincus an Paul Tillich <lb/>vom 2. August 1946</title>
+                <author ref="#tillich_person_id__1499">Fritz Pincus</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/208(4)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1499"> Fritz Pincus </persName>
+                    <placeName ref="#tillich_place_id__876">Harlech</placeName>
+                    <date when="1946-08-02">02.08.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-08-04" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><rs ref="#tillich_place_id__876" type="place">Harlech</rs>, <lb/>
+                        <date when="1946-08-02">2nd August, 1946</date>.</dateline>
+                    <salute>Lieber <rs ref="#tillich_person_id__1928" type="person"
+                        >Paulus</rs>,</salute>
+                </opener>
+                <p>es ist mir ein echtes und aufrichtiges Bedürfnis, Dir zu Deinem 60. Geburtstag
+                    meine herzlichsten Glückwünsche zu übermitteln. Du bist uns in diesen mehr als
+                    zehn Jahren zwar persönlich etwas fern gerückt, und wenn ich an unsere vielen
+                    erfrischenden Diskussionen zurückdenke, so bedaure ich es sehr, dich nicht näher
+                    zu haben. Aber Deine Stimme hat uns in den letzten Jahren immer häufiger
+                    erreicht und sie hat immer<pb n="2"/> genau das ausgesprochen, was gesagt werden
+                    musste und wie es gesagt werden musste. Diese Jahre der <q>Verbannung</q> haben ihr
+                    eine neue Kraft und Sammlung gegeben, für die alle Deine Freunde dem Schicksal
+                    dankbar sein müssen. <!-- evtl. Absatz -->Möge Dir diese Kraft und uns Deine
+                    Stimme noch lange erhalten bleiben.</p>
+                <closer><salute>Herzlichst</salute><signed>Dein <rs ref="#tillich_person_id__1499"
+                            type="person">Fritz</rs>.</signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

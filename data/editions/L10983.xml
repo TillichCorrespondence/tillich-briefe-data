@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10983">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Leo Löwenthal an Paul und Hannah Tillich <lb/>vom 20. August
+                    1946</title>
+                <author ref="#tillich_person_id__1213">Leo Löwenthal</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/162(40)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig; Motiv: Landschaft mit Blick auf den Grass Lake im
+                                <q>Glen Alpine Canyon</q> (heute <q>Desolation Wilderness</q>), im
+                            Vordergrund ein steiniger Abhang, mittig und fast versteckt hinter
+                            Bäumen der See, im Hintergrund Berge (Cracked Crag oder Jacks Peak)</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1213">Leo Löwenthal</persName>
+                    <placeName ref="#tillich_place_id__1078">Glen Alpine, Kalifornien</placeName>
+                    <!-- eigentlich keine Stadt, s. baserow working notes -->
+                    <date when="1946-08-20">20.08.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                    <placeName ref="#tillich_place_id__319">New York, N. Y.</placeName>
+                    <!-- weitergeleitet nach Easthampton -->
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-07-10" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><rs ref="#tillich_place_id__1078" type="place">Glen Alpine</rs>, Lake
+                        Tahoe, <date when="1946-08-20">Aug. 20<hi rend="sup">th</hi>,
+                        1946</date>.</dateline>
+                    <salute>Dear <rs ref="#tillich_person_id__1923" type="person"><rs
+                                ref="#tillich_person_id__1928" type="person"
+                        >Friends</rs></rs>,</salute>
+                </opener>
+                <p>In writing this date, I remembered your birthday, <rs
+                        ref="#tillich_person_id__1928" type="person">Paulus</rs> and send you all
+                    good wishes from these mountains over Lake Tahoe, where we have a short
+                    vacation. Do you know it? Where are you spending your vacation this year? Next
+                    week we will meet <rs ref="#tillich_person_id__" type="person">Dorothee</rs>
+                    with her husband in <rs ref="#tillich_place_id__831" type="place">Carmel</rs>.
+                    Wished you could come once again to the West.</p>
+                <closer>
+                    <salute>Good greetings</salute>
+                    <signed>yours <rs ref="#tillich_person_id__1213" type="person">L</rs>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

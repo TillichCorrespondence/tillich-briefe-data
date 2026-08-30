@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10986">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Gertrude Löwenthal an Paul Tillich <lb/>vom 22. August 1946</title>
+                <author ref="#tillich_person_id__3971">Gertrude Löwenthal</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/208(2)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__3971">Gertrude Löwenthal</persName>
+                    <placeName ref="#tillich_place_id__">G</placeName>
+                    <date when="1946-08-22">22.08.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-10-10" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><date when="1946-08-22">22. August 46</date>
+                        <lb/><unclear>Greyrock</unclear></dateline>
+                    <salute>Liebe <rs ref="#tillich_person_id__1928" type="person"><rs
+                                ref="#tillich_person_id__1923" type="person"
+                        >Freunde</rs></rs>,</salute>
+                </opener>
+                <p>nochmal unseren herzlichsten Dank für Eure schöne Gastlichkeit. Ich hoffe dieser
+                    Aufenthalt zu <rs ref="#tillich_person_id__1928" type="person">Paulus</rs> 60.
+                    Geburtstag hat uns nun endgültig in die Geschichte der Tilliche eingereiht. Dazu
+                    bedurfte es keines schöneren Beweises als die Erlaubnis die Biographie zu lesen.
+                        <unclear>Ihr müsst wissen</unclear>, dass wir das so empfinden. <rs
+                        ref="#tillich_person_id__570" type="person">Erdmuthe</rs> ist
+                    ausserordentlich begabt und einsichtig, eigentlich weit über ihre <unclear>Jahre</unclear>. Und was
+                    ihr Gesicht und ihr Wesen zu versprechen scheint ist <add place="superlinear"
+                        >in</add> ihrem kleinen Werk aufgeblinkt. Wundervolles Wesen. Wir danken Euch sehr,
+                    dass wir daran teilhaben dürfen.</p>
+                <closer>
+                    <salute>Mit schönen Grüssen und Wünschen für ein gutes Sommerende</salute>
+                    <signed><rs ref="#tillich_person_id__3971" type="person">Golde</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

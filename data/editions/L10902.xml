@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10902">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Siegfried Marck <lb/>vom 9. Januar 1945</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/164(12)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1946-01-09">20.10.1945</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1262"> Siegfried Marck</persName>
+                    <placeName ref="#tillich_place_id__105">Chicago, Illinois</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-06-02" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="top" type="Adressline"><rs ref="#tillich_person_id__1262"
+                            type="person">Dr. S. Marck</rs>
+                        <lb/>Roosevelt College <lb/>231 South Wells Street <lb/><rs
+                            ref="#tillich_place_id__105" type="place">Chicago</rs>, 4, <rs
+                            ref="#tillich_place_id__999" type="place">Ill</rs></fw><dateline><date
+                            when="1946-01-09">January 9, 1946</date></dateline>
+                    <salute>Lieber <rs ref="#tillich_person_id__1262" type="person">Herr
+                        Marck</rs>:</salute></opener>
+                <p>Auch wenn <rs ref="#L10897" type="letter">Ihr Brief</rs> mich heute nicht
+                    erreicht hätte, hätte ich Ihnen geschrieben, dass ich in der Mitte Ihrer Arbeit
+                    bin und sie glänzend finde. Ich habe einen Brief von <rs
+                        ref="#tillich_person_id__3324" type="person">Dr. Stevens</rs><note type="ea"
+                        >Liegt nicht vor.</note> erhalten und ihm mitgeteilt, dass ich ihn sofort
+                    nach Beendigung meiner <sic>Lekture</sic> anrufen werde, damit wir eine
+                    Besprechung haben können. Der Grund warum ich nicht schneller vorwärts gekommen
+                    bin, ist, dass mein Arzt mir streng verboten hat, die Stunden nach Mitternacht
+                    zu arbeiten und dadurch so ziemlich die einzige ruhige Zeit mir genommen ist.
+                    Ausserdem hatte ich während der Weihnachtsferien selbst zwei Vorträge zu
+                    machen.<!-- Gemeint sind wahrscheinlich die Vorträge, die er in Ann Arbor und in Chicago gehalten hat, vgl. Briefe L10888 und L10901 -->
+                </p>
+                <p>Ich hoffe, Sie um den <date when="1946-01-29">29.</date> herum, wenn ich in <rs
+                        ref="#tillich_place_id__105" type="place">Chicago</rs> reden werde, zu
+                    sprechen.</p>
+                <closer><salute>Mit herzlichem Gruss,</salute><signed><rs
+                            ref="#tillich_person_id__1928" type="person">Paul Tillich</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

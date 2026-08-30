@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11113">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Max Horkheimer an Paul Tillich
+               <lb/>vom 7. October 1947 </title>
+            <author ref="#tillich_person_id__931"> Max Horkheimer</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__143">Frankfurt a.M.</settlement>
+                  <institution>Goethe-Universität Frankfurt</institution>
+                  <repository>Universitätsbibliothek Frankfurt</repository>
+                  <collection>UBA Ffm</collection>
+                  <idno>Na 1 Nr.</idno> <!-- Horkheimernachlass (Na 1, 53 [9] 5r) -->
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__931">Max Horkheimer</persName>
+               <date when="1947-10-07">07.10.1947</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-02-20">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1947-10-07">October 7, 1947.</date></dateline><lb/>
+               <rs ref="#tillich_person_id__1928" type="person">Dr. Paul Tillich</rs><lb/> 99
+               Claremont Ave.<lb/>
+               <rs ref="#tillich_place_id__319" type="place">New York City,<lb/>New York.</rs>
+                  <salute>Dear <rs ref="#tillich_person_id__1928" type="person"
+                  >Paulus</rs>,</salute>
+            </opener>
+            <p>This is just to thank you wholeheartedly for your prompt and exhaustive answer to our
+               question on the Concept of Truth. Your <rs ref="#L11109" type="letter">letter</rs>
+               arrived during <rs ref="#tillich_person_id__932" type="person">Maidon</rs>&apos;s and
+               my trip to the <rs ref="#tillich_place_id__1389" type="place">Oregon</rs> forrests,
+               and I would have sent you greetings without delay had I remembered your address, so
+               please take my thanks now which are somewhat belated but not less warm.</p>
+            <p>Right now <rs ref="#tillich_person_id__15" type="person">Teddie</rs> and I will be
+               able to follow your various suggestions and look up the passages you indicated. We
+               hope that there will be an occasion when we can reciprocate -- but this hope is
+               probably vain: you know too much.</p>
+            <p>Our trip was beautiful. We drove without a definite aim, stayed wherever it pleased
+               us and enjoyed the life in little villages. On our return trip I had to remain in <rs
+                  ref="#tillich_place_id__768" type="place">San Francisco</rs> somewhat longer than
+               foreseen. At this moment <rs ref="#tillich_person_id__1263" type="person">Herbert
+                  Marcuse</rs> is here. As you probably know, he has travelled in <rs
+                  ref="#tillich_place_id__122" type="place">Germany</rs> for quite some time and his
+               reports are most interesting. We are discussing some of the most predominant problems
+               of these days.</p>
+            <p>Has <rs ref="#tillich_person_id__1923" type="person">Hannah</rs> returned? Kindly
+               give her our love and take good care of yourself.</p>
+            <closer>
+               <salute>Most affectionately,</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

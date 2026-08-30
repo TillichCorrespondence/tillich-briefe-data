@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10992">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Selma Meyer an Paul Tillich <lb/>vom 25. August 1946</title>
+                <author ref="#tillich_person_id__4015">Selma Meyer</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/166 (39)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__4015">Selma Meyer</persName>
+                    <placeName ref="#tillich_place_id__868">Crownsville, MD</placeName>
+                    <date when="1946-08-25">25.08.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-10-15" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><rs ref="#tillich_place_id__868" type="place">Crownsville</rs>, <rs
+                            ref="#tillich_place_id__869" type="place">Md</rs>,<date
+                            when="1946-08-25">25. Aug. 1946</date></dateline>
+                    <salute>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr
+                            Professor</rs>!</salute>
+                </opener>
+                <p>In der großen Zahl derer, die an Ihrem 60. Geburtstag sich erneut bewußt werden,
+                        <unclear>was</unclear> sie Ihrer großen Güte und aufopfernden
+                    Hilfsbereitschaft zu danken haben, stehe ich in erster Reihe! </p>
+                <p>Dadurch daß Sie mir ein Affidavit gegeben haben, haben Sie nicht nur mir sondern
+                    meiner ganzen Familie herübergeholfen! Ich kann aus dankbarstem Herzen nur immer
+                    wieder: Gottes Segen über Sie herabflehen!</p>
+                <p>Ich lege Ihnen hier eine Abschrift der <unclear>Cohoy</unclear> bei, die <rs
+                        ref="#tillich_person_id__4056" type="person">mein jüngerer Sohn</rs> mir mit
+                    seinem letzten Briefe sandte. Ich weiß, keiner wird sich mit mir so freuen wie
+                    die ganze Familie Tillich!</p>
+                <closer>
+                    <salute>Mit den herzlichsten Grüßen für Sie Alle!</salute>
+                    <signed>Ihre getreue <lb/><rs ref="#tillich_person_id__4015" type="person">Selma
+                            Meyer</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

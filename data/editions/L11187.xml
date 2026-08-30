@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11187">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Kathryn E. Wagner an Paul Tillich <lb/>vom 14. Juli 1948</title>
+                <author ref="#tillich_person_id__5318">Kathryn E. Wagner</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/201 (35)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; Unterschrift eigenhändig; Briefpapier von
+                                <q>The Westminster Press</q>, am oberen rechten Rand eine Auflistung
+                            der Verlagsorganisation; adressiert an: <q>Professor Paul Tillich, Union
+                                Theological Seminary, Broadway at 120th Street, New York 27, New
+                                York</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__5318">Kathryn E. Wagner</persName>
+                    <date when="1948-07-14">14.07.1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__319">New York, N. Y.</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-06-06" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><date when="1948-07-14">July 14, 1948</date></dateline>
+                    <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Dr.
+                        Tillich</rs>:</salute></opener>
+                <p>This is just to let you know that materials for the first fall issue of the
+                    Westminster Bookman are due in this office <date when="1948-07-26">July
+                        26</date>, and we are wondering if we can expect to receive the article on
+                        <rs ref="#tillich__U3DQJSPI" type="work">THE DEFINITION OF GOOD</rs>, by <rs
+                        ref="#tillich_person_id__5319" type="person">A. C. Ewing</rs>, which we sent
+                    you some time ago. We should like very much to have it then since the book has
+                    been out now for some time, and if your schedule will permit you to do it by
+                    then we shall appreciate it very much. If it will not be possible for you to do
+                    it, will you let us know so we can complete our plans for that issue of the
+                    Bookman?</p>
+                <closer><salute>Sincerely yours,</salute><signed><hi rend="hand"><rs
+                                ref="#tillich_person_id__5318" type="person">(Mrs.) Kathryn E.
+                                Wagner</rs></hi><lb/><rs ref="#tillich_person_id__5318"
+                            type="person">Kathryn E. Wagner</rs><lb/>RELIGIOUS BOOK
+                        DEPARTMENT</signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

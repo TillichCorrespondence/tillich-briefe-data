@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10496">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Frank Kingdon an Paul Tillich
+               <lb/>vom 1. Juli 1940 </title>
+            <author ref="#tillich_person_id__1054">Frank Kingdon</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__143">Frankfurt a.M.</settlement>
+                  <institution>Goethe-Universität Frankfurt</institution>
+                  <repository>Universitätsbibliothek Frankfurt</repository>
+                  <collection>UBA Ffm</collection>
+                  <idno>Na 1<!-- Johann Wolfgang Goethe-Universität, Universitätsbibliothek J. C. Senckenberg, Archivzentrum: UBA Ffm Bestand (Na 1, 52 [76] 231r) --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1054">Frank Kingdon</persName>
+               <date when="1940-07-01">01.07.1940</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-01-20">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1940-07-01">July 1, 1940</date></dateline><lb/>
+               <rs ref="#tillich_person_id__1928" type="person">Professor Paul Tillich</rs><lb/>
+               Union Theological Seminary<lb/>
+               <rs ref="#tillich_place_id__319" type="place">New York City</rs>
+               <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>:</salute>
+            </opener>
+            <p>Pardon me for not replying sooner about the research into anti-Semitism which you
+               sent me. I have read it with great interest and I am suggesting its use to several
+               groups.</p>
+            <p>The minds of our people are now so full of national policies and international
+               repercussions, however, that it is difficult to get a definition of what can be done
+               with a document like this. As the days wear on, perhaps something will emerge.</p>
+            <closer>
+               <salute>Cordially yours,</salute>
+               <signed><rs ref="#tillich_person_id__1054" type="person"
+                  ><hi rend="hand">Frank Kingdon</hi></rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

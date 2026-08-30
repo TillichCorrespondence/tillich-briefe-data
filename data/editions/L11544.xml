@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11544">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Harald Poelchau<lb/>vom 29. Januar 1949</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <!-- Nachlass Poelchau, Privatbesitz Harald Stephan Poelchau -->
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; Unterschrift eigenhändig; Briefkopf:
+                                <q>UNION THEOLOGICAL SEMINARY, BROADWAY AT 120TH STREET, NEW YORK
+                                27, N. Y.</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1949-01-29">29.01.1949</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1516">Harald Poelchau</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-06-28" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><date when="1949-01-29">January 29,
+                        1949</date></dateline><salute>Lieber <rs ref="#tillich_person_id__1516"
+                            type="person">Harald</rs>:</salute>
+                </opener>
+                <p>Vor langer Zeit habe ich einen wichtigen Brief an <rs
+                        ref="#tillich_person_id__278" type="person">Braune</rs> geschickt.<note
+                        type="ea">Vgl. den <rs type="letter" ref="L11242">Brief von Paul Tillich an
+                            Walther Braune vom 7. Oktober 1948</rs></note> Er bezog sich auf meine
+                    Teilnahme an dem Aufbau der Berliner Universität. Da ich nie eine Antwort
+                    erhalten habe, fürchte ich, dass der Brief, den ich durch die OMGUS
+                        <sic>geschicht</sic> habe, nicht angekommen ist. Ich habe auch <rs
+                        ref="#tillich_person_id__278" type="person">Braune</rs>&apos;s Adresse
+                    verloren und bitte Dich darum herzlich, ihm diesen Brief vorzulesen und ihn um
+                    Antwort zu bitten. So viel ich mich erinnere, ist er beinahe Dein Nachbar. Aber
+                    auch wenn nicht, wirst Du ihn zu erreichen wissen.</p>
+                <p>Hast Du meinen <rs ref="L11543" type="letter">Rundbrief</rs> mit Einlage
+                    erhalten? Ich habe bis jetzt noch keine Reaktion bekommen.</p>
+                <closer><salute>In alter Treue,</salute><signed><rs ref="#tillich_person_id__1928"
+                            type="person">Paul Tillich</rs><lb/><hi rend="hand">Dein <rs
+                                ref="#tillich_person_id__1928" type="person"
+                        >Paulus</rs></hi></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

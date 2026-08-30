@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10972">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Richard T. Baker an Paul Tillich <lb/>vom 15. August 1946</title>
+                <author ref="#tillich_person_id__3753">Richard Terrill Baker</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/122(37)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                        <p>Briefpapier der Zeitschrift <q>World Outlook</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__3753">Richard Terrill Baker</persName>
+                    <date when="1946-08-15">15.08.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__769">Easthampton, New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-09-15" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="top" type="letterhead">WORLD OUTLOOK <lb/>150 FIFTH AVENUE
+                            <lb/><rs ref="#tillich_place_id__319" type="place">NEW YORK</rs>
+                        <lb/></fw><fw place="left" type="adressline">Dr. <rs
+                            ref="#tillich_person_id__1928" type="person">Paul Tillich</rs>
+                        <lb/>Box 1419 <lb/><rs ref="#tillich_place_id__769" type="place"
+                            >Easthampton</rs>, L. I. <rs ref="#tillich_place_id__865" type="place"
+                            >N. Y.</rs></fw>
+                    <dateline><date when="1946-08-15">August 15, 1946</date></dateline>
+                    <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Dr.
+                        Tillich</rs>:</salute>
+                </opener>
+                <p>Your friends and mine have passed along the world that on <date when="1946-08-20"
+                        >August 20th</date> you reach your sixtieth birthday. I do not want to let
+                    the day go without a word of congratulation from me, and a personal tribute to
+                    you, your character, your teaching and your influence.</p>
+                <p>The older I grow the more convinced I am that one of man&apos;s frailest
+                    abilities is the ability to understand himself and his history. From <rs
+                        ref="#tillich_place_id__554" type="place">Washington</rs> to <rs
+                        ref="#tillich_place_id__343" type="place">Paris</rs> peace conferences to
+                    the disturbances in our own persons, the same lack of understanding is obvious.
+                    I am one who shares this lack, but I want to say that I may be more aware of it
+                    than some others, because of you. I remember your lectures on systematic
+                    theology.<!-- 1941 --> They were interesting to me, not because of the system
+                    they put forth, but because of the philosophy of history they revealed and the
+                    workings of your mind. They have been very influential on my thinking.</p>
+                <p>Don&apos;t think that you are old, <rs ref="#tillich_person_id__1928"
+                        type="person">Dr. Tillich</rs>. The best years are ahead, and I for one am
+                    glad that you are here to live <add place="superlinear">in</add> them and face
+                    their problems.</p>
+                <closer><salute>Every good wish to you on your anniversary, and to your family. God
+                        bless you.</salute>
+                    <signed>Faithfully yours,<rs ref="#tillich_person_id__3753" type="person"
+                            >Richard T. Baker</rs>
+                        <lb/>Assistant Editor</signed></closer>
+                <!-- darunter am linken Rand: <q>rtb.esb</q> -->
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10602">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an H. Buchwald
+               <lb/>vom 5. Februar 1943 </title>
+            <author ref="#tillich_person_id__4430">H. Buchwald</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno><!-- Reis-Rosenberg-Nachlass (Leo Baeck Institute New York) --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1943-02-05">05.02.1943</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__4430">H. Buchwald</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-01-17">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1943-02-05">Febr. 5. 1943</date><lb/>
+                  <rs ref="#tillich_person_id__4430" type="person">Mr. H. Buchwald.</rs><lb/> P.O.B.
+                  31<lb/> Station H<lb/>
+                  <rs ref="#tillich_place_id__319" type="place">New York City</rs></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__4430" type="person">Herr
+                  Buchwald</rs>:</salute>
+            </opener>
+            <p>Herzlichen Dank für Ihren Brief<note type="ea">liegt nicht vor</note> und die Copie
+               des Briefes von <rs ref="#tillich_person_id__4433" type="person">Herrn Breitner</rs>
+               an Sie. Ich habe das Gefühl, dass <rs ref="#tillich_person_id__4433" type="person"
+                  >Herr Breitner</rs><!-- unklar, wer gemeint ist -->, der Sie offenbar sehr gut
+               kennt, Ihre Situation richtig beurteilt und auch ich moechte mich seinem Urteil
+               anschließen. Es ist voellig ausgeschlossen, <rs ref="#tillich_person_id__1390"
+                  type="person">Prof. Niebuhr</rs> zu gewinnen fuer eine Sache Zeit zu geben, deren
+               Bedeutung ihm nicht vollkommen klar ist. Wie ich Ihnen schon schrieb, ist das in
+               Ihrer Sache in keiner Weise der Fall. Der einzige Weg, den ich Ihnen noch raten
+               koennte, falls Sie nicht das tun, was Ihnen <rs ref="#tillich_person_id__4433"
+                  type="person">Herr Breitner</rs> vorschlaegt, ist der Folgende: Sie schicken mir
+               oder <rs ref="#tillich_person_id__1390" type="person">Prof. Niebuhr</rs> ein <hi
+                  rend="gesperrt">getipptes</hi> Memorandum von nicht mehr als 5 Seiten, in dem Sie
+               den Inhalt Ihrer Informationen samt den Quellen klar angeben. Falls Ihnen das aus
+               Gruenden, die ich nicht kenne, unmoeglich ist, das zu tun, hat es keinen Zweck weiter
+               ueber die Sache zu korrespondieren, da ich keine Moeglichkeit habe, Ihnen zu
+               helfen.</p>
+            <closer>
+               <salute>Mit bestem Gruss<lb/> Ihr sehr ergebener</salute>
+               <signed><rs ref="#tillich_person_id__1928tillich_person_id__1390" type="person"
+                  >Paul Tillich</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

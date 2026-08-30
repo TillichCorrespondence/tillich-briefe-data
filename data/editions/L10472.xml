@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10472">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Allert de Lange
+               <lb/>vom 15. Oktober 1939 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno><!-- IISH, Uitgeverij Allert de Lange (Amsterdam) , 3348, Inventarnr. 41 --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1939-10-15">15.10.1939</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__">Allert de Lange</persName><!-- Geschäftsführer von Allert de Lange war 1939 Walter Landauer tillich_person_id__1126, der Brief ist aber addressiert an Allert der Lange und beginnt mit Sehr geehrter Herr de Lange -->
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-10-16">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1939-10-15">October 15 th 39</date></dateline>
+               <lb/> Allert de Lange
+               <lb/>62 Damrack
+               <lb/> <rs ref="#tillich_place_id__12" type="place">Amsterdam</rs>
+               <lb/> <rs ref="#tillich_place_id__818" type="place">Holland</rs>
+               <salute>Sehr geehrter <rs ref="#tillich_person_id__" type="person">Herr
+                  de Lange</rs><!-- siehe oben de Lange ist der Verlagsname -->,</salute>
+            </opener>
+            <p>Waehrend meiner Sommerferien habe ich ungefaehr 200 Seiten, handgeschrieben, des
+            Manuscripts Religion und Weltpolitik verfasst. Krieg und Semesteranfang haben die Arbeit
+            am Manuskript unterbrochen. Ich moechte auch erst weiterarbeiten, wenn ich weiss, welchen
+            Einfluss der Krieg auf Ihre Plaene mit dem Buch hat. Zur Orientierung moechte ich Ihnen mitteilen,
+            dass der erste Teil und Hauptteil des Buches, den ich nahezu fertig habe, sich mit dem 
+            Weltbegriff ueberhaupt und mit dem politischen und religioesen Weltbegriff insbesondere
+            beschäftigt. Waehrend der zweite Teil, zu dem das Material ziemlich vollstaendig vorliegt,
+            die verschiedenen und politischen Bewegungen behandeln soll, die auf Verwirklichung von <q>Welt</q>
+            als politische Realitaet gerichtet sind.  Ich koennte mir denken, dass von beiden Gesichtspunkten
+            aus  das Buch einen Beitrag zu der Frage sein koennte, die jetzt ueberall in der Welt als die
+            dringenste empfunden wird: Was soll <hi rend="underline">nachher</hi> werden, wie wird der
+            Frieden aussehen und wer kann ihn tragen?</p>
+            <p>Darf ich Sie bitten, moeglichst bald mitzuteilen, ob Sie die Weiterarbeit an dem Buch wuenschen.</p>
+            <closer>
+               <salute>Ihr sehr ergebener</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person"
+                  ><hi rend="hand">P. Tillich</hi></rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

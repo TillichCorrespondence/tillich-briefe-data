@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10987">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von William Harry Jellema an Paul Tillich <lb/>vom 22. August
+                    1946</title>
+                <author ref="#tillich_person_id__3988">William Harry Jellema</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/155(36)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__3988">William Harry Jellema</persName>
+                    <placeName ref="#tillich_place_id__1081">Holland, Michigan</placeName>
+                    <date when="1946-08-22">22.08.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-10-13" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="top" type="letterhead">INDIANA UNIVERSITY <lb/>DEPARTMENT OF
+                        PHILOSOPHY <lb/><rs ref="#tillich_place_id__1083" type="place"
+                            >BLOOMINGTON</rs>, <rs ref="#tillich_place_id__695" type="place"
+                            >INDIANA</rs></fw>
+                    <dateline>Holland, Mich. R. 4 <lb/><date when="1946-08-22">August 22,
+                            1946</date></dateline>
+                    <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Professor
+                            Tillich</rs>,</salute>
+                </opener>
+                <p>Thank you for your discerning letter of recommendation for Dr. <rs
+                        ref="#tillich_person_id__3989" type="person">William Young</rs> of <rs
+                        ref="#tillich_place_id__1082" type="place">Toronto</rs>.<note type="ea"
+                        >Liegt nicht vor.</note> I hope that he may be with us on our staff at <rs
+                        ref="#tillich_place_id__695" type="place">Indiana</rs> next
+                    year.<!-- wahrscheinlich ist die Indiana University gemeint --></p>
+                <closer>
+                    <salute>Sincerely,</salute>
+                    <signed><rs ref="#tillich_person_id__3988" type="person">W. H. Jellema</rs>
+                        <lb/><rs ref="#tillich_person_id__3988" type="person">W. H. Jellema</rs>
+                        <!-- Unterschrift, dann gedruckt. --></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

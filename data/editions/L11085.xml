@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11085">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Max Horkheimer an Paul Tillich <lb/>vom 28. Mai 1947</title>
+                <author ref="#tillich_person_id__931">Max Horkheimer</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement ref="#tillich_place_id__143">Frankfurt a. M.</settlement>
+                        <institution>Goethe-Universität Frankfurt</institution>
+                        <repository>Universitätsbibliothek Frankfurt</repository>
+                        <collection>UBA Ffm</collection>
+                        <idno>Na 1 Nr. 53, 18, 13r</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__931">Max Horkheimer</persName>
+                    <date when="1947-05-28">28.05.1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-04-29" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><date when="1947-05-28">28. Mai 1947</date>.</dateline><salute>Lieber
+                            <rs ref="#tillich_person_id__1928" type="person">Paulus</rs>!</salute>
+                </opener>
+                <p>Jahre scheinen vergangen zu sein, seit wir einander zuletzt gesehen haben. Die
+                    Sehnsucht ist gross. Wann wird es endlich einmal wieder wahr werden?</p>
+                <p>In den letzten Monaten habe ich hier fast noch mehr Abhaltungen von
+                    philosophischer Arbeit gehabt als in <rs ref="#tillich_place_id__319"
+                        type="place">New York</rs>: Vorträge, Projekte, Memos – – Geld verdienen!
+                    Nichts ist entstanden, was blühen könnte. In den nächsten drei Monaten will ich
+                    mir gewaltsam Zeit nehmen, um ernsthaft zu arbeiten, komme was da wolle.</p>
+                <p>Hat der Verlag Ihnen die <q><rs type="work" ref="#tillich__CB3JAUHT">Eclipse of
+                            Reason</rs></q> übersandt? Ich hatte Sie auf der Liste der <q>courtesy
+                        copies</q> gesetzt, erfahre jedoch von verschiedenen Seiten, dass nicht alle
+                    Genannten Exemplare erhalten haben. Sollte das Buch nicht eingetroffen sein,
+                    schicke ich es natürlich sogleich an Sie ab.</p>
+                <p>Wie geht es <rs ref="#tillich_person_id__1923" type="person">Hannah</rs> und den
+                        <rs ref="#tillich_person_id__570 #tillich_person_id__1927" type="person"
+                        >Kindern</rs>?</p>
+                <closer>
+                    <salute>Seien Sie alle, auch von <rs ref="#tillich_person_id__932" type="person"
+                            >Maidon</rs>, aufs herzlichste gegrüsst.</salute>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

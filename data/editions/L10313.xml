@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10313">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Johannes Tillich an Paul Tillich
+               <lb/>vom 30. September 1936</title>
+            <author ref="#tillich_person_id__1924">Johannes Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/193(17)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1924">Johannes Tillch</persName>
+               <date when="1936-02-26">30.09.1936</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-07-01">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <!-- AB HIER GEHT DER EIGENTLICH BRIEF LOS -->
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>. <date when="1936-09-30">30.09.36</date></dateline>
+               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+            </opener>
+            <p>Eben erhielt ich Deine Karte vom Schiff und danke Dir dafür vielmals. Nun bist Du
+               wieder bei Weib u. Kind. Das wird ein frohes Wiedersehen gewesen sein. Grüße <rs
+                  ref="#" type="person">Hannah</rs> u. die <rs ref="#tillich_person_id__570"
+                  type="person">
+                  <rs ref="#tillich_person_id__1927" type="person">Kinder</rs></rs>. – Ich
+               beschäftige mich viel mit Deiner Arbeit "an der Grenze", habe auch schon begonnen,
+               meine Meinung dazu zu diktieren, aber das geht langsam. Man muss viel durchdenken.
+               Dazu kommt, daß es mir gesundheitlich nicht gut geht; ich bin in ärztlicher
+               Behandlung und sehr schwach. Der Arzt rechnet auf Besserung, was mir <sic>etwas</sic> <pb n="2"/>
+               doch etwas zweifelhaft ist. – Wie Gott will! </p>
+            <p>Schön, daß Du für die Oxford-Konferenz in Aussicht genommen bist. Möchten die daran sich knüpfenden Wünsche in Erfüllung gehen.</p>
+            <closer>
+               <salute>Innige Grüße
+               Dein</salute>
+               <signed><rs ref="#tillich_person_id__1924" type="person"
+                  >tr. Vater</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10942">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Ernst F. Curtz <lb/>vom 09. Mai 1946</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/134(33)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1946-05-09">09.05.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__3489">E. F. Curtz</persName>
+                    <placeName ref="#tillich_place_id__319">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-07-11" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="top" type="adressline"><rs ref="#tillich_person_id__3489"
+                            type="person">Dr. E. F. Curtz</rs>
+                        <lb/>173 Broadway <lb/><rs ref="#tillich_place_id__319" type="place">New
+                            York</rs> 7, <rs ref="#tillich_place_id__865" type="place">N.
+                        Y.</rs></fw><dateline><date when="1946-05-09">May 9, 1946</date></dateline>
+                    <salute>Dear <rs ref="#tillich_person_id__3489" type="person">Dr.
+                        Curtz</rs>:</salute></opener>
+                <p>As I understand you have been kind enough to take interest in the career of my
+                    friend and former assistant, <rs ref="#tillich_person_id__2023" type="person"
+                        >Dr. Hans Weil</rs>.</p>
+                <p>I have known <rs ref="#tillich_person_id__2023" type="person">Hans Weil</rs>
+                    since 1929 when I was Professor of Philosophy at the University of <rs
+                        ref="#tillich_place_id__143" type="place">Frankfurt a/M</rs>. <rs
+                        ref="#tillich_person_id__2023" type="person">Dr. Weil</rs> was not only a
+                    well-known writer but he was also regarded as one of the best young teachers at
+                    the University in that time. He combines a great amount of creative thinking
+                    with practical educational abilities. He was a good speaker, having overcome the
+                    results of a childhood&apos;s accident with energy and passion for his work. </p>
+                <p>I would be grateful if you would help him to find a place in the field of
+                    education which, I believe, is his mission. I am sure he would do an excellent
+                    job as he has done it not only in <rs ref="#tillich_place_id__143" type="place"
+                        >Frankfurt a/M</rs> but also in <rs ref="#tillich_place_id__219"
+                        type="place">Italy</rs> where he founded and headed his own school.</p>
+                <p>I shall be happy to give you any further information you may desire.</p>
+                <closer><salute>Yours sincerely,</salute><signed><rs ref="#tillich_person_id__1928"
+                            type="person">Paul Tillich</rs>
+                        <lb/>Professor at Union Theological Seminary, <rs
+                            ref="#tillich_place_id__319" type="place">New York City</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10981">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Margaret Plaut an Paul Tillich <lb/>vom 20. August 1946</title>
+                <author ref="#tillich_person_id__3353">Margaret Plaut</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/175(5)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__3353">Margaret Plaut</persName>
+                    <date when="1946-08-20">20.08.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-10-10" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="telegram">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <fw place="top" type="letterhead"><rs ref="#tillich_person_id__3353" type="person"
+                        >MRS. ALFRED PLAUT</rs> 33 EAST END AVENUE <rs ref="#tillich_place_id__319"
+                        type="place">NEW YORK</rs> 28, <rs ref="#tillich_place_id__865" type="place"
+                        >N. Y.</rs></fw>
+                <opener>
+                    <dateline><date when="1946-08-20">Aug 20. 46</date></dateline>
+                    <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Professor
+                            Tillich</rs>,</salute>
+                </opener>
+                <p>Es tut mir leid, dass unsre Glückwünsche Sie nicht rechtzeitig erreicht
+                        haben,<note type="ea">Diesem Brief geht ein Telegramm voran, das <rs
+                            ref="#tillich_person_id__3963" type="person">Alfred</rs> und <rs
+                            ref="#tillich_person_id__3353" type="person">Margaret Plaut</rs> an das
+                        Union Theological Seminary gesendet haben, woraufhin sie von dem
+                        Lieferdienst die Rückmeldung erhalten haben, dass <rs
+                            ref="#tillich_person_id__1928" type="person">Tillich</rs> nicht mehr
+                        dort, sondern in <rs ref="#tillich_place_id__769" type="place">East
+                            Hampton</rs> gewesen ist.</note> aber ich hoffe Sie nehmen sie auch
+                    verspätet noch an. Also: von Herzen alles Gute!</p>
+                <closer>
+                    <signed>Ihre <rs ref="#tillich_person_id__3353" type="person">Margaret
+                            Plaut</rs>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

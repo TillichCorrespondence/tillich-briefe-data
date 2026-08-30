@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11006">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Jean-Arthur Jacker <lb/>vom 26. September
+                    1946</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/155 (3)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; Adresszeile: <q>Mr/ Jean-Arthur Jacker,
+                                Basle, Freidorf, Switzerland.</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1946-09-26">26.09.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__963">Jean-Arthur Jacker</persName>
+                    <placeName ref="#tillich_place_id__1392">Freidorf (Muttenz), Basel-Landschaft,
+                        Schweiz</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-03-20" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><date when="1946-09-26">September 26, 1946</date></dateline>
+                    <salute>Lieber <rs ref="#tillich_person_id__963" type="person">Herr
+                        Jacker</rs>:</salute>
+                </opener>
+                <p>Herzlichen Dank für <rs ref="L11004" type="letter">Ihren Brief</rs>. Ich habe die
+                    Sache überlegt mit Persönlichkeiten, die etwas davon verstehen. Es hat nach
+                    unserem Urteil keinen Sinn, in <rs ref="#tillich_place_id__554" type="place"
+                        >Washington</rs> eine Vorzugsbehandlung zu ersuchen, es würde im Gegenteil
+                    Ihre jetzigen Möglichkeiten gefährden. Ich bin der Meinung, dass Ihre Tochter
+                        <rs ref="#tillich_person_id__2690" type="person">Maria</rs> vorausfahren
+                    sollte, um die von Ihnen angedeutete Vorzugssituation zu schaffen und vor allem,
+                    um für sich selbst und für Sie eine Grundlage für die Zukunft zu legen. Aber
+                    selbstverständlich spielen bei solchen Entscheidungen auch Imponderabilien eine
+                    Rolle, die ich nicht kenne und über die ich nicht urteilen kann. Auf alle Fälle
+                    würde ich mich sehr freuen, wenn ich Sie bald in <rs
+                        ref="#tillich_place_id__319" type="place">New York</rs> begrüssen
+                    könnte.</p>
+                <closer>
+                    <salute>Getreulich Ihr,</salute>
+                    <signed><rs type="person" ref="#tillich_person_id__1928">Prof. Paul
+                        Tillich</rs></signed>
+                </closer>
+
+            </div>
+        </body>
+    </text>
+</TEI>

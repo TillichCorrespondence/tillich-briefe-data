@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10122">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Hannah Tillich <lb/>von 1935</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933-1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                        <idno>bMS 721/3(6)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date notBefore="1935-01-01" notAfter="1935-12-31">1935</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-05-19" who="EL">Initiale Auszeichnung des Transkripts</change>
+            <change when="2026-08-20" who="BJ">Archiv fehler korrigiert</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
+                        >Hannah</rs>!</salute>
+                </opener>
+                <p>Heut kam so viel Liebe von Dir herübergeströmt, dass ich nicht arbeiten kann ohne
+                    Dir wenigstens ein paar Worte geschrieben zu haben. Ich finde Deine neuen
+                    Gedichte unbeschreiblich süss im Duft und tief im Erleben. Bei dem einen von den
+                    regennassen Birkenreihen musste ich weinen und muss es wieder wo ich dies
+                    schreibe. Das Gedicht über Gott müsste, den härtesten Theologen bekehren können.
+                    Hab' Dank!</p>
+                <p>Ich schicke Dir einen sehr lieben sehr alten Brief von <rs type="person"
+                        ref="#tillich_person_id__1924">Vaterchen</rs> und zwei weinlich aufregende
+                    Sachen von <rs type="person" ref="#tillich_person_id__3279">Karl Ludwig</rs>.
+                    Schicke bitte beides zurück. Ich freue mich so, dass es <rs type="person"
+                        ref="#tillich_person_id__718">Grimme</rs> wieder gut geht. <pb n="2"/>Am
+                    wichtigsten ist der Brief<note type="ea">Nicht überliefert.</note> von <rs
+                        type="person" ref="#tillich_person_id__122">Baillie</rs>. Dass <rs
+                        type="person" ref="#tillich_person_id__298">Brüning</rs> über mich
+                        <unclear>???</unclear> war, hätte ich nicht gedacht. Und die Aufforderung
+                    von <rs type="person" ref="#tillich_person_id__1420">Oldham</rs> (der damals bei
+                    der grossen Christen-Heiden-Juden-Diskussion in unserm Haus war, ist nicht
+                    unwichtig.</p>
+                <p>Der heutige Versuch, eine Lederjacke zu kaufen, ist misslungen. Sie war so
+                    abgrundscheuslich und stand mir so schlecht, dass ich verzichtet habe. Dafür war
+                    ich in einem herzlichen Afrika-Tier-Film. Mein Gehirn brummt von der
+                    Anthropologie für Yale. Manchmal kann ich fast nicht mehr vor Sehnsucht!</p>
+                <closer>
+                    <signed>Dein <rs type="person" ref="#tillich_person_id__1928"
+                        >Paulus</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

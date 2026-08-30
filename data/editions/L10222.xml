@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10222">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Alfred Fritz an Paul Tillich <lb/>vom 12. August 1935</title>
+                <author ref="#tillich_person_id__641">Alfred Fritz</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933-1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                        <idno>bMS 649/143</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+                    <date when="1935-08-12">12.08.1935</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-10-20" who="EL">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline>
+                        <unclear>???</unclear> <date
+                            when="1935-08-12">12. Aug. 35</date></dateline>
+                    <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paulus</rs>!</salute></opener>
+                    <p>Es wird wohl Zeit, daß ich meine Grüße <unclear>ausrichte</unclear>, wenn sie noch rechtzeitig zu Deinem Geburtstag kommen sollen. Viel gute, herzliche Wünsche sollen ??? Tag ??? ???, Wünsche für Dich und die Deinen, bes. für die Kleinen Erdenbürger, von dessen ??? u. Taten dh. viele Wunder ??? hat, Wünsche auch für ??? ???, ??? drunten unter ??? Herz unseren Verhältnissen schaffst, – Er ist recht der <unclear>Schussel</unclear> unserer ???, daß unser ??? ein Jahr bleibt, <unclear>denn einer wird da ??? ???</unclear> abschlagen wird. Aber Dir soll es wenigstens ein anständiges Jahr sein, denn man ???, daß sich die im Wunsch </p>
+                <closer>In Liebe und wachsender Sehnsucht!
+                    <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

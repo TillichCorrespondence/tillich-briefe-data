@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10258">
+   <!-- ID DES BRIEFES GIBT ES DERZEUT NOCH NICHT-->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Johannes Tillich
+               <lb/>von Weihnachten 1936</title>
+            <author ref="#tillich_person_id__1924">Johannes Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/193(17)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+               <date when="1936-01-01">Weihnachten 1936</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-05-16">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <!-- AB HIER GEHT DER EIGENTLICH BRIEF LOS -->
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline> An <date when="1936-01-01">Weihnachten 36</date></dateline>
+               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul
+                </rs>,</salute>
+            </opener>
+            <p>schon längst hätte ich an Dich geschrieben und Dir für Deine Abschiedskarte aus <rs
+                  ref="#tillich_place_id__736" type="place">Europa</rs> gedankt, wenn mich nicht
+               meine Krankheit daran gehindert hätte. Du hast wohl davon schon gehört. Ich bin nun
+               in der 11. Woche bettlägerig, kann zwar zuweilen etwas aufstehen, aber das ist für
+               mich anstrengender, ich kann mich <del>schwer</del><add place="supralinear">nicht
+                  mehr</add> aufrechthalten. Ich habe sehr viel Schmerzen, die manchmal unerträglich
+               scheinen, namentlich seitdem ich neulich in der Nacht gefallen und mir einen
+               Bluterguss, beinah einen Rippenbruch, zugezogen habe. Schmerzen habe ich im Magen
+                  (<unclear>Ichthyas</unclear>) und in beiden Hüften, außerdem aber ist das
+               Grundübel - Nervenleiden mit Gemütsdepressionen.- Du kannst Dir denken, daß ich unter
+               diesen Umständen die Lebenslust verloren habe und ein baldiges Ende mir erwünscht
+               scheint; aber das Herz arbeitet noch tadellos und die inneren Organe sind gesund. So
+               muß ich denn das Schmerzenslager aushalten. Gehen kann ich kaum noch und nicht einmal
+               lange auf Stuhl <del>?</del>
+               <add place="supralinear">oder</add> Sofa sitzen. Glücklicherweise kann ich noch etwas
+               lesen. - Am Nachmittag werde ich häufig besucht, von den meisten Verwandten.
+               Regelmäßig kommt <rs ref="#tillich_person_id__3251" type="person">Fr. Krüger</rs>
+               mehrere Male in der Woche, um das Schriftliche zu erledigen und vorzulesen. <rs
+                  ref="#tillich_person_id__1762" type="person">Elisabeth </rs> kommt fast jeden 2.
+               Tag auf eine Stunde.</p>
+            <p>Mein Intellekt ist, Gott sei Dank, noch in Ordnung  bis aus <unclear>reichliche</unclear> Gedächtnisschwäche.</p>
+            <p>Die Krankenschwester pflegt mich jetzt Tag und Nacht, ich werde ohne sie nicht fertig.</p>
+            <p>Die politischen Ereignisse verfolge ich aus der Zeitung. Die Situation ist ja in der ganzen Welt überaus bedenklich, namentlich in 
+               <rs ref="#tillich_place_id__736" type="place">Europa</rs>. Näheres kann man darüber nicht schreiben.<pb n="2"/> Ebenso wenig möchte ich mich über unsere Kirchenfrage äußern,
+            wie ich stehe, weißt Du ohnehin. Aufs Ganze gesehen, glaube ich, eschatologische Vorzeichen zu sehen. Ich lebe sehr viel in Erinnerungen, die
+            zum Teil <unclear>wunderbar</unclear> scharf sind, die heutige Welt ist mir ziemlich versunken.</p>
+            <p>Ich weiß nicht, ob ich noch einmal an Dich schreiben oder diktieren kann, aber ich
+               danke Deiner und den Deinen viel. Frau Ministerialrat
+                  <rs><unclear>Landi</unclear></rs> hat mich neulich besucht und mir viel von Euch
+               erzählt, von Deiner angesehenen Stellung in N.<!-- vielleicht
+            New York?--> und von dem guten Aufblühen <rs
+                  ref="#tillich_person_id__1927" type="person">Stefans</rs>. Es ist traurig, daß ich
+               Euch hier nicht werde wiedersehen können. Familie und ein kleiner Freundeskreis ist
+               das Einzige, was mir auf Erden geblieben ist. Ich begehre auch nicht mehr und warte
+               einer besseren Heimat.</p>
+            <p>Über Euch wiederhole ich meinen väterlichen Segen, Gott führe und behüte Euch</p>
+            <closer>
+               <salute>Dein treuer</salute>
+               <signed><rs ref="#tillich_person_id__1924" type="person"
+                  >Vater</rs></signed>
+            </closer>
+            <postscript><p>Soeben Euren lieben Brief erhalten. Tausend Dank. 23/12</p></postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

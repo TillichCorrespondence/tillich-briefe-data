@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11312">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Undatierter Brief von Paul Tillich an Elisabeth Tillich<lb/>vermutlich von
+                    1950</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/184 (11)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1950">1950</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1762">Elisabeth Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-06-27" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><salute>Liebste <rs ref="#tillich_person_id__1762" type="person"
+                            >Elisabeth</rs>!</salute>
+                </opener>
+                <p>Dieser Brief sagt alles, was meine Absage begründet und nicht nur meine
+                        Absage<supplied>,</supplied> sondern auch mein dauerndes Schweigen. Es ist
+                    nun aber etwas Hoffnungsvolles geschehen: Die Universität <rs
+                        ref="#tillich_place_id__1826" type="place">Glasgow</rs> hat mich eingeladen
+                    im Juni 1951 bei ihrer 500 Jahr-Feier einen Ehren-Doktor in Empfang zu nehmen.
+                    Man muss dazu persönlich anwesend sein. Ich will alles tun, <add>um dabei auch
+                        nach <rs ref="#tillich_place_id__122" type="place">Deutschland</rs> zu
+                        kommen</add> um hinzukommen. In welcher Form das möglich sein wird, weiss
+                    ich noch nicht und bitte Dich, ausser mit <rs ref="#tillich_person_id__641"
+                        type="person">Frede</rs> und <rs ref="#tillich_person_id__2041"
+                        type="person">M. L.</rs> mit niemand darüber zu sprechen (<rs
+                        ref="#tillich_person_id__1922" type="person">E. Tillich</rs> und <rs
+                        ref="#tillich_person_id__278" type="person">Braune</rs> wissen es auch) –
+                        –<note type="ea"><rs ref="#tillich_person_id__1928" type="person"
+                            >Tillich</rs> erhielt im Juni 1951 die Ehrendoktorwürde der Universität
+                            <rs ref="#tillich_place_id__1826" type="place">Glasgow</rs> und verband
+                        die Reise nach <rs ref="#tillich_place_id__1313" type="place"
+                            >Schottland</rs> mit einem kurzen Besuch in <rs
+                            ref="#tillich_place_id__122" type="place"
+                        >Deutschland</rs>.<!-- Davor evtl. Gastvorlesungen an der Hochschule für Politik in <rs ref="#tillich_place_id__37" type="place">Berlin</rs>. --></note></p>
+                <p>Dieses Bild behalte oder gib es <rs ref="#tillich_person_id__3208" type="person"
+                        >Hans Jürgen</rs>, wenn er es gern hat. Ich finde es glänzend. Der Strand
+                    mit den Blüten heisst <q>Rose von Saaran</q>.</p>
+                <closer><salute>In Liebe und Wehmut!</salute><signed>Dein grosser Bruder.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

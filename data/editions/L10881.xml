@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10881">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Mary Watson <lb/>vom 24. November 1945</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/175(6)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1945-11-24">24.11.1945</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__3352"> Mary Watson</persName>
+                    <placeName ref="#tillich_place_id__319">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-06-05" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><date when="1945-11-24">November 24,
+                        1945</date></dateline><salute>Dear <rs ref="#tillich_person_id__3352"
+                            type="person">Miss Watson</rs>:</salute>
+                </opener>
+                <p>Referring to <rs ref="#L10879" type="letter">your request of November 21</rs>,
+                    concerning <rs ref="#tillich_person_id__3353" type="person">Mrs. Margaret
+                        Blumenfeld Plaut</rs> I would like to give you the following
+                    information:</p>
+                <p>I have known <rs ref="#tillich_person_id__3353" type="person">Mrs. Plaut</rs>
+                    already in <rs ref="#tillich_place_id__736" type="place">Europe</rs> and have
+                    then met her often in this country from <date when="1938">1938</date> on. <rs
+                        ref="#tillich_person_id__3353" type="person">Mrs. Plaut</rs> has been and
+                    still is one of the most efficient volunteer social workers of the SELFHELP OF
+                    EMIGRES FROM CENTRAL <rs ref="#tillich_place_id__736" type="place">EUROPE</rs>,
+                    Inc. of which organization I am the Chairman. She is excellent in interviewing
+                    people, has full understanding for their problems, a clear point of view and
+                    consequently always finds a way in rehabilitating refugees or placing them on
+                    the right job. Besides that she has creative abilities. She composes the
+                    pamphlet for Selfhelp, edits reports and appeals.</p>
+                <p>For the last three years she acts as Executive Secretary of the COOPERATIVE
+                    RESIDENCE CLUB, a home for elderly refugees, working in close cooperation with
+                    Selfhelp. She is doing this work independently and very efficiently.</p>
+                <p><rs ref="#tillich_person_id__3353" type="person">Mrs. Plaut</rs> stems from a
+                    highly cultured family. Both her educational background and her intellectual
+                    standard qualify her for whatever position you might secure for her. I know very
+                    few people whom I would recommend as strongly as I do recommend <rs
+                        ref="#tillich_person_id__3353" type="person">Mrs. Plaut</rs>.</p>
+                <closer><salute>Sincerely yours,</salute><signed><rs ref="#tillich_person_id__1928"
+                            type="person">Paul Tillich</rs>
+                        <lb/>Professor at Union Theological Seminary, <rs
+                            ref="#tillich_place_id__319" type="place">New York City</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

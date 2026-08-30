@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10563">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Horace Kallen
+               <lb/>vom 18. März 1942 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno><!-- YIVO Institute for Jewish Research, Horace M. Kallen Papers, Box 47, Folder 863 (Tewksbury, Donald G. to Tillich, Paul) --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1942-03-18">18.03.1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__4303">Horace Kallen</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-12-07">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1942-03-18">March 18. 1942</date></dateline><lb/>
+               <rs ref="#tillich_person_id__4303" type="person">Dr. Horace Kallen</rs><lb/> New
+               School of Social Research<lb/> 66 West 12 Str.<lb/>
+               <rs ref="#tillich_place_id__319" type="place">New York City</rs>
+               <salute>Dear <rs ref="#tillich_person_id__4303" type="person">Mr.
+                  Kallen</rs>:</salute>
+            </opener>
+            <p>I have received the enclosed letter <note type="ea">liegt nicht vor</note> and I do
+               not know what to answer. Have you any idea about a subject we could advise this man
+               to deal with, a subject which, of course, would demand more thought than reading
+               because he has no books in his camp. I would be very grateful in the interest of <rs
+                  ref="#tillich_person_id__4304" type="person">Mr. Manfred Saalheimer</rs> for a
+               suggestion coming from you.</p>
+            <closer>
+               <salute>Very sincerely yours</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person"
+                  ><hi rend="hand">Paul Tillich</hi><lb/>Paul Tillich</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

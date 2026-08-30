@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10971">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von J. Edward Dirks an Paul Tillich <lb/>vom 14. August 1946</title>
+                <author ref="#tillich_person_id__3752">John Edward Dirks</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/136(48)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__3752">John Edward Dirks</persName>
+                    <date when="1946-08-14">14.08.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-09-15" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="top" type="letterhead">Columbia University <lb/>in the City of <rs
+                            ref="#tillich_place_id__319" type="place">New York</rs> <lb/>[<rs
+                            ref="#tillich_place_id__319" type="place">NEW YORK</rs> 27, <rs
+                            ref="#tillich_place_id__865" type="place">N. Y.</rs>] <lb/>EXECUTIVE
+                        SECRETARY OF EARL HALL</fw>
+                    <dateline><date when="1946-08-14">August 14, 1946</date></dateline>
+                    <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Professor
+                            Tillich</rs>,</salute>
+                </opener>
+                <p>My congratulations and sincerest best wishes are extended to you on the occasion
+                    of your sixtieth birthday. I realize how much you think of this as an event of
+                    special importance. It is my earnest wish that it may carry with it a richness
+                    of blessing.</p>
+                <p>I believe this occasion can be used to express my deepest gratitude to you for
+                    your contributions to my life. Your lectures and theological formulations, your
+                    interpretation of the history of Philosophy of Religion, and your profound
+                    sermons – – all these and many other specific instances have revealed your depth
+                    of penetrating insight and the incomparable background of understanding and
+                    wisdom which you signify for me. I am, of course, humbled by my gross inability
+                    in using your constant guidance in a manner comparable to its worth. I often
+                    fear that in my desire to use your methodology I do it real injustice. I am,
+                    nevertheless, deeply grateful for its having so clearly set forth to me. </p>
+                <p>Your contribution to theological thought in <rs ref="#tillich_place_id__684"
+                        type="place">America</rs> is beyond measuring. I am convinced that it is a
+                    very real and far-reaching contribution. The recent war, and what it signified,
+                    brought you to us; we are grateful for that, and your coming represents a
+                        <q>good</q> which has come about because of the struggle in recent years,
+                    which may be the one and only <q>good.</q></p>
+                <p>May your sixtieth birthday be a happy one, and I trust that it will indicate anew
+                    your continuing role in our community, as one of our greatest teachers, and as a
+                    scholar whom we are grateful to in <rs ref="#tillich_place_id__684" type="place"
+                        >America</rs>.</p>
+                <closer><salute>Very sincerely yours, </salute><signed><rs
+                            ref="#tillich_person_id__3752" type="person">J. Edward
+                        Dirks</rs></signed></closer>
+                <fw place="bottom" type="adressline">Professor <rs ref="#tillich_person_id__1928"
+                        type="person">Paul Tillich</rs>, <lb/>Box 1419<lb/><rs
+                        ref="#tillich_place_id__769" type="place">Easthampton</rs>, <rs
+                        ref="#tillich_place_id__865" type="place">New York</rs></fw>
+            </div>
+        </body>
+    </text>
+</TEI>

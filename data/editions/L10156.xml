@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10156">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Hannah Tillich <lb/>von 1935</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933-1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                        <idno>bMS 721/3(6)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date notBefore="1935-01-01" notAfter="1935-12-31">1935</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-05-07" who="EL">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
+                        >Hannah</rs>!</salute>
+                </opener>
+                <p>Nun sitze ich auf gepackten Koffern vor der Abfahrt nach <rs type="place" ref="#tillich_place_id__731">Ann-Arbor</rs>. Anbei das Verdienst des gestrigen Arbeitstages. Ein Check von 20$ fehlt noch, einiges habe ich umwandeln müssen in bar Geld, um die Fahrten zu bezahlen. Bitte notiere doch alle Checks, die Du auf die Bank gibst. Die <unclear>Esom</unclear>-Rechnung von <unclear>???</unclear>-Club geht nach <rs type="place" ref="#tillich_place_id__319">New York</rs>, ca 12 $; Bezahle sie gleich per Check. Man hat jetzt keine Zeit, es zusammen zu rechnen.</p>
+                <p>Heut früh kamen ein paar Worte von Dir. Du hast mir noch nie so wenig und <rs type="person" ref="#tillich_person_id__570">Erdmuthe</rs> hat gar nicht geschrieben. Das macht mich sehr traurig, besonders wenn ich an Europa denke.</p>
+                <p>Gestern hatte ich einen schönen Tag in <rs type="place" ref="#tillich_place_id__732">Benoit</rs>: Schnee<pb n="2"/>schmelze und Frühlingswetter. Ich hatte Lunchen mit 3 Professoren-Ehepaaren, dann mit Spazierfahrt und Kaffee mit Kuchen bei der sehr netten Familie des Deutsch-Professors. Dann Vortrag mit Diskussion mit einem deutschen Nazi-Studenten, blond, nett und doof. Man war schneefrieden und brachte mich in netter Weise zur Bahn. 2 <formula notation="TeX">\frac{1}{2}</formula> Stunde Fahrt. Um <formula notation="TeX">\frac{1}{2}</formula>11 von <rs type="person" ref="#tillich_person_id__1463"><rs type="person" ref="#tillich_person_id__1464">Paucks</rs></rs> abgeholt zum letzten Glase Bier in <rs type="place" ref="#tillich_place_id__105">Chicago</rs>. Es war wieder eine reizende Zeit, obwohl mit schrecklich viel Arbeit.</p>
+                <p>Am 10<hi rend="sup">ten</hi> und 12<hi rend="sup">ten</hi> in <rs type="place" ref="#tillich_place_id__726">Connecticut</rs>. Am 13<hi rend="sup">ten</hi> zurück!</p>
+                <closer>Auf Wiedersehen! <rs type="person" ref="#tillich_person_id__1923"
+                    >Liebstes</rs>!
+                    <signed>Dein <rs type="person" ref="#tillich_person_id__1928"
+                        >Paul</rs>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

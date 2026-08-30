@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10484">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Marguerite Block an Paul Tillich
+               <lb/>vom 06. Februar 1940 </title>
+            <author ref="#tillich_person_id__4051">Marguertite Block</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 132(13)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__4051">Marguerite Block</persName>
+               <date when="1940-02-06">06.02.1940</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Pau Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-10-23">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               Columbia University<lb/>
+               in the City of <rs ref="#tillich_place_id__319" type="place">New York</rs><lb/>THE REVIEW OF RELIGION<lb/>
+               <dateline>401 Low Memorial Library<lb/> <date when="1940-02-06">February 6, 1940</date></dateline>
+               <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Professor
+                  Tillich</rs>:</salute>
+            </opener>
+            <p>Just to remind you that your review of <rs rend="#tillich_person_id__1783"
+                  type="person">Siegfried</rs>&apos;s <rs type="bibls">PROTESTANTISCHE PRINZIP IN
+                  KIRCHE UND WELT</rs> is due on March first. The book was published last August,
+               and we do not wish to delay any longer getting it reviewed, so we hope you can get
+               the review finished without too much trouble.</p>
+            <closer>
+               <salute>Sincerely yours,</salute>
+               <signed><rs ref="#tillich_person_id__4051" type="person"
+                  ><hi rend="hand">Marguerite Block</hi>Dr. Marguerite Block</rs><lb/>Secretary</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

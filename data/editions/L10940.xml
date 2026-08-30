@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10940">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Leo Löwenthal <lb/>vom 27. April 1946</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement ref="#tillich_place_id__143">Frankfurt a. M.</settlement>
+                        <institution>Goethe-Universität Frankfurt</institution>
+                        <repository>Universitätsbibliothek Frankfurt</repository>
+                        <collection>UBA Ffm</collection>
+                        <idno>Na 4 Nr. 27</idno>
+                        <!-- ? -->
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1946-04-27">27.04.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1213">Leo Löwenthal</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-07-07" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="top" type="letterhead">UNION THEOLOGICAL SEMINARY <lb/>BROADWAY
+                        AT 120TH STREET <lb/><rs ref="#tillich_place_id__319" type="place">NEW
+                            YORK</rs> 27, <rs ref="#tillich_place_id__865" type="place">N.
+                        Y.</rs></fw><dateline><date when="1946-04-27">April 27.,
+                        1946</date></dateline>
+                    <salute>Lieber <rs ref="#tillich_person_id__1213" type="person"
+                        >Leo</rs>:</salute></opener>
+                <p>Können Sie mir sagen, wo bei <rs ref="#tillich_person_id__690" type="person"
+                        >Goethe</rs> sich dieser Spruch befindet (und wie er exact heisst). Ein
+                    Doctorand hat mich gebeten, es festzustellen.</p><!-- Vermutlich ist das Zitat beigelegt worden, liegt aber nicht vor. -->
+                <closer><salute>Auf Wiedersehen,</salute><signed>Ihr, <rs
+                            ref="#tillich_person_id__1928" type="person">Paulus</rs>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10011">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Undatierter Brief von Paul Tillich an Elisabeth Seeberger <lb/>vermutlich von
+                    Frühjahr 1934</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                    <name key="https://orcid.org/0000-0003-4455-6804">Brach S. Jennings</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933-1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                        <idno>bMS 649/184(7)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date notBefore="1934-03-01" notAfter="1934-05-31">01.03.1934</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1762"> Elisabeth Seeberger</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-05-19" who="CO">Initiale Auszeichnung des Transkripts</change>
+            <change when="2026-08-28" who="BJ">Brief durchgelesen und geprüft</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><rs ref="#tillich_place_id__319" type="place">New York City</rs>
+                        <lb/>606 West, 122nd Street.</dateline>
+                    <salute>Liebe <rs ref="#tillich_person_id__1762" type="person"
+                        >Elisabeth</rs>!</salute>
+                </opener>
+                <p>Sonntag früh erhielten wir Dein Telegramm.<note type="ea">Liegt nicht vor.</note>
+                    Es war eine grosse Überraschung. Am <sic>mittag</sic> des selben Tages waren wir
+                    bei unserem <rs ref="#tillich_person_id__386" type="person">Präsidenten</rs> zum
+                    lunch und er fragte mich offiziell, ob ich ein weiteres Jahr bleiben wollte.
+                    Selbstverständlich habe ich keine endgültige Antwort gegeben, habe auch von dem
+                    Telegramm nicht erzählt, werde das erst tun, wenn das formelle Schreiben da ist,
+                    das, wie ich dringend hoffe, von einem ausführlichen Kommentar von Dir und evtl.
+                    anderen klugen Leuten begleitet ist. Die Entscheidung ist deswegen nicht ganz
+                    leicht, weil meine Vorlesungstätigkeit hier mit grossem Erfolg begonnen hat, und
+                    ich nicht weiss, ob es richtig ist, sie abzubrechen zugunsten der Existenz als
+                    Pensionär. Andererseits ist es gerade mein Wunsch, wie ich Dir schon schrieb,
+                    ruhig zu arbeiten. Vielleicht kann ich auch noch ein weiteres halbes oder ganzes
+                    Jahr Urlaub in <rs ref="#tillich_place_id__37" type="place">Berlin</rs>
+                    beantragen, um noch klarer über die weitere Entwicklung zu sehen. Falls sich
+                    schriftlich keine Klarheit gewinnen lässt, müsste ich unter Umständen im <date
+                        when="1934-06">Juni</date> herüberkommen. Sehr viel hängt von Deinen
+                    Mitteilungen ab. Gib sie also so gründlich wie möglich.</p>
+                <p>Für Deine Auslagen weise ich meine Bank an, Dir zwanzig Mark zu schicken.
+                    Hoffentlich klappt es.</p>
+                <p>Wir haben gestern den ersten Frühlingstag gehabt. Ich habe vier Stunden draussen
+                    gearbeitet wie an der Riviera. Wir sehnen uns sehr nach dem Frühling und etwas
+                    Landschaft</p>
+                <closer>
+                    <salute>Viele herzliche Grüsse und sehr sehr viel Dank</salute>
+                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

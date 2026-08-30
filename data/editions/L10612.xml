@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10612">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Robert Ulich an Paul Tillich
+               <lb/>vom 2. August 1943 </title>
+            <author ref="#tillich_person_id__1965">Robert Ulich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 194(55)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1965">Robert Ulich</persName>
+               <date when="1943-08-02">02.08.1943</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-12-14">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>LAWRENCE HALL, KIRKLAND STREET<lb/>
+                  <rs ref="#tillich_place_id__82" type="place">CAMBRIDGE, MASSACHUSETTS
+                     </rs><lb/><date when="1943-08-02">August 2, 1943</date></dateline>
+               <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Paul</rs>:</salute>
+            </opener>
+            <p>I hope you don&apos;t mind my bothering you with this letter but I wanted you to know
+               that I fully understand that you may consider its content with divided feelings. You
+               may think that the action as a whole may not have great practical effect and,
+               secondly, that it may endanger the people who are on the list. We have discussed
+               these questions many times in our committee meetings, not only within the smaller
+               committee itself but also with scholars from abroad on whose judgment we lay value.
+               They all agree that the step proposed in this letter is necessary and it is now
+               almost impossible to add more caution to the procedure than has been provided. So
+               please devote an hour to this letter and give me your reaction as soon as possible.
+               This letter has been sent to <rs ref="#tillich_person_id__1209" type="person"
+                  >Professor Löwe</rs>, <rs ref="#tillich_person_id__1099" type="person">Professor
+                  Kroner</rs>, <rs ref="#" type="person">Professor
+                  Salomon</rs><!-- unklar wer gemeint ist, vielleicht Gottfried Salomon oder Albert Salomon -->,<rs
+                  ref="#tillich_person_id__846" type="person">Professor Heimann</rs>, and <rs
+                  ref="#tillich_person_id__2095" type="person">Mr. Kurt Wolff</rs>.</p><closer>
+            <salute>Cordially yours,</salute>
+            <signed><rs ref="#tillich_person_id__1965" type="person"
+            ><hi rend="hand">Robert Ulich</hi><lb/>Robert Ulich</rs></signed>
+            <rs ref="#tillich_person_id__1928" type="person">Professor
+                  Paul Tillich</rs><lb/>
+               99 Claremont Avenue<lb/>
+               <rs ref="#tillich_place_id__319" type="place">New York, New York</rs><lb/>
+               u.s
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

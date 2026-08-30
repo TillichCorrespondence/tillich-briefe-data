@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10468">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul und Hannah Tillich an Max und Rose Christine Horkheimer
+               <lb/>vom 14. September 1939 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author><author ref="#tillich_person_id__1923">Hannah Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__143">Frankfurt a.M.</settlement>
+                  <institution>Goethe-Universität Frankfurt</institution>
+                  <repository>Universitätsbibliothek Frankfurt</repository>
+                  <collection>UBA Ffm</collection>
+                  <idno>Na 24</idno> <!-- Johann Wolfgang Goethe-Universität, Universitätsbibliothek J. C. Senckenberg, Archivzentrum: UBA Ffm Na 24  -->
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName><persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <date when="1939-09-14">14.09.1939</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__931">Max Horkheimer</persName> <persName ref="#tillich_person_id__932">Rose Christine Horkheimer</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-08-02">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebe <rs ref="#tillich_person_id__932" type="person"><rs ref="#tillich_person_id__931" type="person">Horkeimer</rs></rs>,</salute>
+            </opener>
+            <p>Wir denken viel an Euch und <rs ref="#tillich_person_id__1521" type="person">Fritz
+                  Pollock</rs> und wünschten, Ihr wäret hier! Mit den <rs
+                  ref="#tillich_person_id__570" type="person"><rs ref="#tillich_person_id__1927"
+                     type="person">Kindern</rs></rs> in den Bergen zu sein ist ganz wunderbar. – Am
+               22. sind wir in <rs ref="#tillich_place_id__319" type="place">New York</rs></p>
+            <closer>
+               <salute>Eure</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person"
+                  >Paulus</rs> <rs ref="#tillich_person_id__1923" type="person"
+                     >Hannah</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

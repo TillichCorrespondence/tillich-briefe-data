@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10481">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief Franz Boas an Paul Tillich
+               <lb/>vom 08. Januar 1940 </title>
+            <author ref="#tillich_person_id__235">Franz Boas</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno><!-- Franz Boas Papers --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__235">Franz Boas</persName>
+               <date when="1940-01-08">08.01.1940</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Pau Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-10-23">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1940-01-08">January 8, 1940</date>
+               <lb/> <rs ref="#tillich_person_id__1928" type="person">Dr.
+                 Paul Tillich</rs>
+            <lb/>Union Theological Seminary
+            <lb/>Broadway and 120th St.
+            <lb/><rs ref="#tillich_place_id__319" type="place">New York, N. Y.</rs></dateline>
+               <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Professor
+                  Tillich</rs>:</salute>
+            </opener>
+            <p>Would you have time to come around and see me some time in my office, perhaps on
+               Thursday of this week? I want very much to talk over with you conditions in the
+               Deutsch-amerikanischer Kulturverband.</p>
+            <p>I am sorry I cannot go to call on you, but I am very much hampered by my inability to
+               walk any distance.</p>
+            <closer>
+               <salute>With kindest regards,<lb/>
+               Yours very sincerely,</salute>
+               <signed><rs ref="#tillich_person_id__235" type="person"
+                  >Franz Boas</rs></signed><lb/>
+               fb-e
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

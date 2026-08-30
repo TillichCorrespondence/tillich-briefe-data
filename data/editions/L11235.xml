@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11235">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Horace Friess<lb/>vom 30. September 1948</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/143 (5)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; adressiert: <q>Prof. Horace L. Friess,
+                                Columbia University, Dept. of Philosophy, New York 27, N. Y.</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1948-09-30">30.09.1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__638">Horace Friess</persName>
+                    <placeName ref="#tillich_place_id__319">New York, N. Y.</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-06-09" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><date when="1948-09-30">September 30, 1948</date></dateline>
+                    <salute>Dear <rs ref="#tillich_person_id__638" type="person"
+                        >Horace</rs>:</salute></opener>
+                <p>I enclose two letters from a group of people in <rs ref="#tillich_place_id__279"
+                        type="place">Marburg</rs><note type="ea">Liegen nicht vor.</note> who would
+                    like to imitate our RELIGION AND HEALTH Seminar.<!--<note type="ea">Das Seminar
+                            <q>Religion and Health</q> fand im Jahr 1946 statt.</note>-->
+                    Since most of them are able to read English I suggest that we send them a copy
+                    of all our mimeographed contributions (I suppose that there are still some
+                    available) and that we ask them to send us in return their papers.</p>
+                <p>I hope to meeting you soon, latest in the Philosophy Club. I had an extremely
+                    interesting summer and met <rs>Herbert</rs> in <rs ref="#tillich_place_id__1233"
+                        type="place">Mainz</rs> and <rs ref="#tillich_person_id__5134" type="person"
+                        >Edman</rs> in <rs ref="#tillich_place_id__271" type="place"
+                    >London</rs>.</p>
+                <closer><salute>Cordially yours,</salute><signed><rs ref="#tillich_person_id__1928"
+                            type="person">Prof. Tillich</rs></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

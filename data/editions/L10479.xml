@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10479">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief Allert de Lange an Paul Tillich
+               <lb/>vom 22. Dezember 1939 </title>
+            <author ref="#tillich_person_id__">Allert de Lange</author><!-- Allert de Lange ist ein Verlag, unklar welche Person schrieb -->
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno><!-- IISH, Uitgeverij Allert de Lange (Amsterdam) , 3348, Inventarnr. 41  --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__">C.V. Allert de Lange</persName><!-- Der Brief ist mit C.V. ALBERT DE LANGE unterschrieben, es ist unklar welche Person ihn schrieb  -->
+               <date when="1939-12-22">22.12.1939</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Pau Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-10-17">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><rs ref="#tillich_place_id__12" type="place">Amsterdam</rs>, den <date when="1939-12-22">22. Dezember 1939</date>.</dateline>
+               <lb/> <rs ref="#tillich_person_id__1928" type="person">Herrn Prof. Dr. P. Tillich</rs>
+               <lb/>c/o Union Theological Seminary         
+               <lb/> Broadway at 102th Street
+               <lb/><hi rend="underline"><rs ref="#tillich_place_id__319" type="place">New York</rs>.</hi>
+               <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr
+                  Professor</rs>,</salute>
+            </opener>
+            <p>wir hatten <rs ref="#L10472" type="letter">Ihren Brief</rs> sofort beantwortet;
+               leider dauert jetzt oft die Post sehr lange. Inzwischen hoffen wir aber, dass Sie
+               unseren <rs ref="#L10474" type="letter">Brief</rs> vom 21.v.Mts. erhalten haben.</p>
+            <p>Wir können nur noch einmal wiederholen, dass wir den allergrössten Wert darauf legen, Ihr 
+            Buch herauszubringen und es wäre uns ausserordentlich lieb, wenn wir es schon im nächsten Frühjahr
+            publizieren könnten.</p>
+            <p>Falls Sie glauben, dass Sie Ihre Arbeit so abschliessen können, dass wir bis Anfang
+               März das Manuskript in Händen haben, so könnten wir noch an eine Herausgabe im
+               Frühjahr denken. In diesem Falle bitten wir Sie, uns jetzt schon den ersten Teil des
+               Manuskripts, falls er druckfertig ist, zuzusenden: wir werden dann sofort mit dem
+               Satz beginnen. Da die Post ausserordentlich lange dauert und wir die Vorbereitung
+               schon Anfang des nächsten Jahres treffen müssen, bitten wir Sie uns in diesem Falle
+               evtl. ein Telegramm zu senden: <q>Erscheinen Frühjahr möglich</q>, damit wir das Buch
+               schon jetzt in unseren Prospekten anzeigen können, und den Verkauf rechtzeitig
+               vorbereiten können.</p>
+            <closer>
+               <salute>Mit ergebener Hochachtung</salute>
+               <signed><rs ref="#tillich_person_id__" type="person"
+                  >C.V. ALLERT DE LANGE</rs>.</signed><!-- siehe oben -->
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

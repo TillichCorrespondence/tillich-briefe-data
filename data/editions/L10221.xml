@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10221">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Johannes Tillich an Paul Tillich
+               <lb/>vom 9. August 1935</title>
+            <author ref="#tillich_person_id__1924">Johannes Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/193</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1924">Johannes Tillch</persName>
+               <date when="1935-08-09">09.08.1935</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-06-08">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <!-- AB HIER GEHT DER EIGENTLICH BRIEF LOS -->
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>, <date when="1935-08-09">d. 9.8.35</date></dateline>
+               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+            </opener>
+            <p>Gerade als ich gestern in den Theol. Blättern die Artikel von <rs
+                  ref="#tillich_person_id__3380" type="person">Dr. Haberger</rs> über Deine
+               Religionsphilosophie zu Ende las, kam Dein lieber Brief <note type="ea">liegt nicht
+                  vor</note> vom 29. Juli, der mir große Freude bereitet hat. Ich danke Dir dafür
+               von Herzen und werde Dir auf den Brief später noch ausführlich antworten. </p>
+            <p>Heute aber schreibe ich diese Zeilen, damit Du am 20.08 <pb n="2"/> einen Gruß von mit hast; hoffentlich treffen sie noch rechtzeitig ein.</p>
+            <p>Nun also viel Segen zum neuen Lebensjahr! Gott, der Dich auf mancherlei Wegen gnädig
+               geführt hat, der Dir im vergangenen Lebensjahr soviel geschenkt hat, Er sei ferner
+               mit Dir und den Deinen, Er gebe Dir Gesundheit und Geisteskraft zu fernerem Wirken
+               für seine Wahrheit und Gnade, für Deutsche Wissenschaft <pb n="3"/> und Kultur, zum
+               Wirken im Glauben und – bei Deiner Lage – in Geduld. Er schenke Dir einen recht
+               frohen Tag mit den Deinen, den ich im Geist mitfeiern werde.</p>
+            <p>Zugleich danke ich auch <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>
+               für ihre lieben Zeilen mit dem Lichtbild. <rs ref="#tillich_person_id__1927"
+                  type="person">Stephanlein</rs> sieht darauf schon sehr intelligent aus. Möge er
+               sich zunächst nur animalisch weiter gut entwickeln. Ihr werdet Euch ja gewiß davor
+               hüten, <pb n="4"/> den schlummernden Geist zu früh zu wecken; lieber frühe Regungen
+               zurückhalten als schnell fördern, damit mens sana in corpore sano bleibe. Seit
+               einigen Tagen wohnt nun <rs ref="#tillich_person_id__2355" type="person">Gisela
+                  Fritz</rs> bei mir und besucht von hier aus Ihren Kursus in <rs ref="#tillich_place_id__799" type="place">Bethanien</rs>.
+               Sie ist mir ein lieber Gast. </p>
+            <p>Alle Gute, ob ihr in der Steppe oder am Meer oder in der Stadt weilt.</p>
+            <closer>
+               <salute>1000 Grüße! </salute>
+               <signed> Dein tr. <rs ref="#tillich_person_id__1924" type="person"
+                  >Vater.</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

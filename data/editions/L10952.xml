@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10952">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief<!-- -fragment --> von Eva Maria Neumeyer an Paul Tillich <lb/>vom 07.
+                    Juli 1946</title>
+                <author ref="#tillich_person_id__3513">Eva Maria Neumeyer</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/169(58)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                        <p>Briefpapier v. <q>FRIENDS OF THE MILLS COLLEGE ART GALLERY</q>, am oberen
+                            Blattrand v. l. n. r. aufgelistet: das <q>EXECUTIVE COMMITTEE</q>, am
+                            linken Blattrand v. o. n. u. aufgelistet: die <q>SPONSORS</q>.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__3513"> Eva Maria Neumeyer</persName>
+                    <!--<placeName ref="#tillich_place_id__860">Oakland, CA</placeName> – Ortsangabe gehört zum Briefpapier-->
+                    <date when="1946-07-07">07.07.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-07-24" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><rs ref="#tillich_place_id__860" type="place">OAKLAND</rs> 13
+                            <!-- Punkt in Zeilenmitte --><rs ref="#tillich_place_id__848"
+                            type="place">CALIFORNIA</rs>
+                        <lb/><date when="1946-07-07">July 7, 1946</date></dateline><salute>Dear <rs
+                            ref="#tillich_person_id__1928" type="person">Dr.
+                    Tillich</rs>:</salute></opener>
+                <p>It is a number of years since we met in <rs ref="#tillich_place_id__831"
+                        type="place">Carmel</rs>. <hi rend="g">That</hi> I met you encourages me to
+                    send you today a translation of mine which I have just completed.<note type="ea"
+                        >Liegt nicht vor.</note> It is <rs ref="#tillich_person_id__1407"
+                        type="person">Novalis</rs>&apos; <hi rend="u"><rs ref="#tillich__E8B2N8XT"
+                            type="work">Die Christenheit oder Europa</rs></hi>.</p>
+                <p>This essay seems to me one of the most beautiful pieces of German prose in regard
+                    to form as well as to content. It contains a good deal of timely and prophetic
+                    wisdom.</p>
+                <p>Don&apos;t<!-- im Text: <q>D'ont</q> --> you think that <hi rend="u">The Review of
+                        Religion</hi> would be an appropriate <sic>magazin</sic> for publication?
+                    And furthermore, in case you should like my translation would you be willing to
+                    hand it on with a <sic>recommandation</sic>? Do you feel that such a publication
+                    would ask for a general short introduction and if you think so would you have
+                    any suggestion who would be willing and equipped to write it?</p>
+                <p>You can imagine that I am most interested in your reaction since there are not
+                    many people in this country who can judge <rs ref="#tillich_person_id__1407"
+                        type="person">Novalis</rs> text from a literary as well as from a religious
+                    point of view.</p>
+                <p>Will you permit me to add one personal note, because this translation may come
+                    somewhat unexpectedly to you. In the fall or winter issue of the <hi rend="u"
+                        >Journal of the History of Ideas</hi> you will find an essay of mine <rs
+                        ref="#tillich__DHC64D5W" type="work"><q>The Landscape Garden as a Symbol in
+                        Rousseau, Goethe and Flaubert</q></rs>, this I am mentioning in order to give
+                    you an idea what I have done during these last years. <!--[...]--></p>
+            </div>
+        </body>
+    </text>
+</TEI>

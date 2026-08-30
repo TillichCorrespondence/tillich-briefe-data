@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11109">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Max Horkheimer
+               <lb/>vom  September 1947 </title>
+            <author ref="#tillich_person_id__
+               1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__143">Frankfurt a.M.</settlement>
+                  <institution>Goethe-Universität Frankfurt</institution>
+                  <repository>Universitätsbibliothek Frankfurt</repository>
+                  <collection>UBA Ffm</collection>
+                  <idno>Na 1 Nr.</idno> <!-- Horkheimernachlass (Na 1, 53 [5] 6r-[8] 7v) -->
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1947-09-01">Anfang 09.1947<!-- es war ein Donnerstag vor dem 16.09, der erste Donnerstag im September 1947 war der 4.09. --></date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__931">Max Horkheimer</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-02-19">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date><hi rend="underline">Donnerstag</hi></date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__931" type="person">Max</rs>!</salute>
+            </opener>
+            <p><add place="margin">In der späteren Theologie hat der Joh. Wahrheitsgedanke <hi
+                     rend="underline">keine</hi> Rolle gespielt. Er ist durch den Logos-Begriff
+                  aufgesogen worden. Und die Alexandriner sprechen von gnosis als mystisches
+                  Verstehen. </add>Der Eile wegen schreibe ich gleich und mit Bleistift (bin ohne
+               Schreibmaschine und ordentlichen Federhalter).</p>
+            <p>Herzlichen Dank für Ihren <rs ref="#L11108" type="letter">Brief</rs>! <rs
+                  ref="#tillich_person_id__932" type="person">Maidon</rs>&apos;s Sorge ist rührend, aber
+               ich esse täglich frisches Obst. Und am 16<hi rend="above">ten</hi> zieht <rs
+                  ref="#tillich_person_id__1923" type="person">Hannah</rs> hier ein. Sie kommt schon
+               morgen mit <rs ref="#tillich_person_id__1927" type="person">René</rs>, der hier in
+               die Schule geht, kann aber noch nicht hier wohnen.</p>
+            <p>Morgen oder Übermorgen fange ich meinen Paragraphen über den Wahrheitsgedanken an.
+               Wie schade, dass wir nicht sprechen können.</p>
+            <p>Nun schnell Ihre Anfrage:<lb/>Der Gedanke der &#x1F00;λήθεια spielt im ganzen
+                  Johan-<pb n="2"/> nesevangelium eine grosse Rolle. Eine Monographie von <rs
+                  ref="#tillich_person_id__310" type="person">Prof. Fr. Büchsel</rs> über den
+               Wahrheitsgedanken im 4<hi rend="overline">ten</hi> Evangelium glaube ich zu besitzen
+               (in <rs ref="#tillich_place_id__319" type="place">New York</rs>). <rs
+                  ref="#tillich_person_id__1807" type="person">Hans v. Soden</rs> hat eine
+               ausgezeichnete Monographie über den Wahrheitsgedanken im Alten und Neuen Testament
+               geschrieben. Der beste Kommentar zum Johannesevangelium ist von <hi rend="underline"
+                     ><rs ref="#tillich_person_id__4703" type="person">Walter Bauer</rs> (in jeder
+                  theologischen Bibliothek, z. B. Seminary in <rs ref="#tillich_place_id__815"
+                     type="place">Berkeley</rs></hi>. Das neueste grosse Werk über das 4<hi
+                  rend="above">te</hi> Evangelium stammt von <rs ref="#tillich_person_id__320"
+                  type="person">R. Bultman</rs>, ist aber meines Wissens nur in einem Exemplar hier
+               im Land und nicht erhältlich. Nach dem Bericht ist es <hi rend="underline">das</hi>
+               Standard-Werk. Er führt die wichtigste der 12 Quellen auf eine syrisch-gnostische
+               Tradition zurück.</p>
+            <p>Im Johannesevangelium finden sich nicht nur Phrasen wie <q>Ich bin die Wahrheit</q>,
+               sondern auch <q>Aus der Wahrheit sein</q>, <q>die Wahrheit <hi rend="underline"
+                     >tun</hi></q>, <q>von der Wahrheit zeugen</q>,<pb n="3"/>
+               <q>voller Gnade und Wahrheit</q>. All das zeigt wahrscheinlich, wie die ganze
+               gnostische d.h. spätantik-synkretistische Bewegung eine Verschmelzung des jüdischen
+               mit dem griechischen Wahrheitsgedanken. Der griechische Begriff
+               &#x1F00;ληθ&#x03AE;&#x03C2; bedeutet un-verborgen und bezieht sich auf das wahre
+               unveränderliche Sein, der hebräische Begriff héemīn bedeutet sicher sein, vertrauen
+               (das Wort Amen = gewisslich; hat denselben Stamm). Es bezieht sich immer auf die
+               menschliche oder göttliche Zuverlässigkeit in der Erfüllung von Zielen,
+               Versprechungen, kurz, das sich-selbst-gleich-bleiben auf das sich Vertrauen gründen
+               kann. Die <q>Wahrheit sein</q> bedeutet dann, das wahre Sein representieren, auf das
+               man sich verlassen <add place="supralinear">kann</add> und aus dessen Wesen heraus
+               man handeln soll. Dieses wahre Wesen ist Geschichte geworden <pb n="4"/> (wie wir am
+               gemässesten σαρξ &#x1F16;γένετο übersetzen). Man findet die Wahrheit nicht durch
+               Eindringen in ontologische Seinsschichten, sondern durch Sehen der Herrlichkeit
+               (δόξα) einer historischen Erscheinung. Und man sieht diese δόξα nur, wenn man ihrem
+               Wesen entsprechend handelt (Die Wahrheit <hi rend="underline">tut</hi>), und endlich
+               Man kann das nur, wenn man aus dem wahren Wesen stammt (aus der Wahrheit ist). Dies
+               scheint mir (auf ersten Anhieb) das Wesentliche des Johanneischen Wahrheitsgedankens
+               zu sein, der natürlich nichts mit Äusserungen des <q>historischen</q> Jesus zu tun
+               hat.</p>
+            <p>Seht doch auch im Kittell&apos;s Wörterbuch zum Neuen Testament unter &#x1F00;λήθεια
+               nach. Es ist das grosse Reifewerk der historisch-kritischen Bewegung seit 200
+               Jahren.</p>
+            <closer>
+               <salute>Alle Guten Wünsche!</salute>
+               <signed> Euer <rs ref="#tillich_person_id__1928" type="person"
+                  >Paulus</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

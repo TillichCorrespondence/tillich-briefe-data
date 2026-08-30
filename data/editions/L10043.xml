@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10043">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Kuratorium der Johann Wolfgang Goethe-Universität an Paul Tillich <lb/>vom 1.
+               März 1934</title>
+            <author>Kuratorium der Johann Wolfgang Goethe-Universität</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3229-6246">Ole Soldatow</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/175 (50)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Kuratorium der Johann Wolfgang Goethe-Universität</persName>
+               <date when="1934-03-01">01.03.1934</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="OS" when="2025-06-22">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>Kuratorium der Johann Wolfgang Goethe-Universität <hi rend="u">Tgb.-Nr.
+                  1640.</hi> Um Angabe der Nummer im Antwortschreiben wird gebeten. <dateline><rs
+                     ref="#tillich_place_id__147" type="place">Frankfurt (Main)</rs> 17, den <date
+                     when="1934-05-17">17. Mai 1934</date>. Mertonstraße 17, Fernruf: Maingau
+                  72216</dateline>
+               <salute>Herrn <rs ref="#tillich_person_id__1928" type="person">Professor Dr.
+                     Tillich</rs>
+                  <rs ref="#tillich_place_id__319" type="place"><hi rend="u">New
+                  York</hi></rs></salute>
+            </opener>
+            <p>Im Nachgang zu meinem <hi rend="u"><rs ref="L10042">Schreiben</rs></hi> vom <date
+                  when="1934-04-21">21.4.34</date> -Nr.1244-.</p>
+            <p>Nchdem der Herr Minister für Wissenschaft, Kunst und Volksbildung die Genehmigung für
+               Ihren Aufenthalt im Auslande erteilt hat, habe ich die Universitätskasse angewiesen,
+               das Ruhegehalt in der mit obigem <rs ref="L10042">Schreiben</rs> mitgeteilten Höhe
+               von <date when="1934-05-01">1. Mai 1934</date> ab an Sie zu zahlen.</p>
+            <p>zur Feststellung eines etwaigen Anrechnungseinkommens bitte ich beiligenden Vordruck
+               baldmöglichst ausgefüllt an mich zurück zu geben.</p>
+            <closer>
+               <signed><rs ref="#tillich_person_id__3443" type="person">Achelis</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

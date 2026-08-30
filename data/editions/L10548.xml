@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10548">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Sanford Archibald an Paul Tillich
+               <lb/>vom 17. Januar 1942 </title>
+            <author ref="#tillich_person_id__4219">Sanford Archibald</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
+                  <institution>Marburg</institution>
+                  <repository>Deutsches Paul-Tillich-Archiv</repository>
+                  <idno></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__4219">Sanford Archibald</persName>
+               <date when="1942-01-17">17.01.1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-11-26">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1942-01-17">January 17, 1942</date></dateline><lb/>
+               <rs ref="#tillich_person_id__1928" type="person">Dr. Paul Tillich</rs><lb/> Union
+               Theological Seminary<lb/> 120 St. &amp; Broadway<lb/>
+               <rs ref="#tillich_place_id__319" type="place">New York, N. Y.</rs>
+               <salute>Dear <rs
+                     ref="#tillich_person_id__1928" type="person">Dr. Tillich</rs>:</salute>
+            </opener>
+            <p>I am enclosing herewith a number of the letters that we have received on <q>War
+                  Aims</q>.</p>
+            <p>I know that you will be interested in reading them and would appreciate if you will
+               return tham when you have had a chance to look through them.</p><closer>
+               <salute>Sincerely,</salute>
+               <signed><rs ref="#tillich_person_id__4219" type="person"
+                  ><hi rend="hand">Sanford Archibald</hi> Sanford Archibald</rs></signed>
+            SA:KK</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

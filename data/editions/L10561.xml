@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10561">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Hermann Budzislawski an Paul Tillich
+               <lb/>vom 16. März 1942 </title>
+            <author ref="#tillich_person_id__313">Hermann Budzislawski</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__143">Frankfurt a.M.</settlement>
+                  <institution>Goethe-Universität Frankfurt</institution>
+                  <repository>Universitätsbibliothek Frankfurt</repository>
+                  <collection>UBA Ffm</collection>
+                  <idno>Na 1<!-- Johann Wolfgang Goethe-Universität, Universitätsbibliothek J. C. Senckenberg, Archivzentrum: UBA Ffm (Na 1, 52, [5]166r-[6]166v)  --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__313">Hermann Budzislawski</persName>
+               <date when="1942-03-16">16.03.1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-01-19">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><rs ref="#tillich_person_id__1928" type="person">Professor Paul
+               Tillich</rs><dateline><date when="1942-03-16">March 16th, 1942</date></dateline><lb/>
+               Theological Seminary<lb/>
+               Broadway &amp; 120th Street<lb/>
+               <rs ref="#tillich_place_id__319" type="place">New York City</rs>
+               <salute>My dear <rs ref="#tillich_person_id__1928" type="person">Professor
+                  Tillich</rs>:</salute>
+            </opener>
+            <p>As I told yesterday evening, we are beginning now with the short-wave broadcasting to
+                  <rs ref="#tillich_place_id__122" type="place">Germany</rs>, and we shall have
+               every sunday morning from 9:45 to 10:00 fifteen minutes for Protestant News.</p>
+            <p>As I told you some time ago, we have the following idea: the Protestant listeners in
+                  <rs ref="#tillich_place_id__122" type="place">Germany</rs> must get the impression
+               that this is not only a military war or a war for power politics, but that the
+               religious leaders all over the world are fighting <rs ref="#tillich_person_id__910"
+                  type="person">Hitler</rs> for spiritual reasons, and that they are advocating a
+               decent peace after the over-throwing of <rs ref="#tillich_person_id__910"
+                  type="person">Hitler</rs>. The best way to communicate with the German listeners
+               is not the straight appeal but the information about what happens abroad. Therefore,
+               the idea of sending news and not speeches.<pb n="2"/> It is not necessary to have a
+               lot of news for every broadcast. If you can take three events for instance, a
+               Protestant Congress somewhere in the world and the new primate of the British High
+               Church and perhaps an interesting article in a Protestant Magazine and if you add
+               some comments, that would be a perfect broadcast.</p>
+            <p>The first Protestant News will go on the air Sunday, March 29th. I should like to
+               have the script five or six days earlier for passing the censorship. You don't need
+               speaking it yourself, we have a speaker. If you cannot organize the Protestant News
+               for the first date, I propose that you begin with a speech, for instance, with a
+               Protestant comment on the treatment of the Jews in <rs ref="#tillich_place_id__122"
+                  type="place">Germany</rs>. Of course, I do not expect in this something for the
+               Jews; I expect something for the Protestants.</p>
+            <p>You may send the script to <rs ref="#tillich_person_id__1915" type="person">Dorothy Thompson</rs>. But if you
+            have some questions, you may call me up under my own number, Plaza 5-1293.</p>
+            <p>I thank you so much that you will spend some of your precious time for that purpose
+               and I am,</p>
+            <closer>
+               <salute>very truly yours,</salute>
+               <signed><rs ref="#tillich_person_id__313" type="person"
+                  >Budzislawski</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

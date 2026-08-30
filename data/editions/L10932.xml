@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10932">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Edward Morris <lb/>vom 17. April 1946</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/167(62)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1946-04-17">17.04.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__3342">Edward Morris</persName>
+                    <placeName ref="#tillich_place_id__770">New Haven, Connecticut</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-06-30" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="top" type="adressline"><rs ref="#tillich_person_id__3342"
+                            type="person">Mr. Edward Morris</rs>
+                        <lb/>404 A Yale Station <lb/><rs ref="#tillich_place_id__770" type="place"
+                            >New Haven</rs>, <rs ref="#tillich_place_id__726" type="place"
+                            >Conn.</rs></fw><dateline><date when="1946-04-17">April 17,
+                        1946</date></dateline>
+                    <salute>Dear <rs ref="#tillich_person_id__3342" type="person">Mr.
+                        Morris</rs>:</salute></opener>
+                <p>I have written to my friend <rs ref="#tillich_person_id__2094" type="person">Dr.
+                        Wolfers</rs>, Master of Pierson College, whether I could stay with him the
+                    night of Wednesday <date when="1946-05-08">May 8th</date> to Thursday <date
+                        when="1946-05-09">May 9th</date> and I have told him that you will get in
+                    touch with him about the date of my coming to <rs ref="#tillich_place_id__770"
+                        type="place">New Haven</rs>. If it is <sic>allright</sic> with you that I
+                    meet your group <date when="1946-05-08">Wednesday night</date> and if this fits
+                        <rs ref="#tillich_person_id__2094" type="person">Dr. Wolfers</rs> with whom
+                    I have to talk for quite a time also agrees with the date, we may leave it at
+                    that. If you find out from him that he would prefer another day in the same week
+                    it is <sic>allright</sic> with me. May I ask you to get in touch with him as
+                    soon as you have received this letter and let me know the day you have decided
+                    about since I have to plan an obligation in <rs ref="#tillich_place_id__835"
+                        type="place">New London</rs> in connection with that date.</p>
+                <p>I am looking forward to seeing you again, not only in Yale but also for a more
+                    important event in July in <rs ref="#tillich_place_id__769" type="place">East
+                        Hampton</rs>.<!--nicht ermittelt--></p>
+                <closer><salute>Cordially yours,</salute><signed><rs ref="#tillich_person_id__1928"
+                            type="person">Prof. Paul Tillich </rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

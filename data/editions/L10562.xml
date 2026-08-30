@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10562">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Ernst Bloch <!-- Zuordnung wahrscheinlich. Brief mit Ernst unterschrieben, erwähnt wird ein philosophisches
+            Buch über Hoffnung, an dem der Briefautor arbeitet--> an Paul Tillich
+               <lb/>vom 18. März 1942 </title>
+            <author ref="#tillich_person_id__228">Ernst Bloch</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 138(75)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="tillich_person_id__228">Ernst Bloch</persName>
+               <date when="1942-03-18">18.03.1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-01-19">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1942-03-18">18. III. 42</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paulus</rs>,</salute>
+            </opener>
+            <p>Du selbst ludest mich zu einer Korrektur ein. Das ist sehr freundlich; so bitte ich Dich 
+            um zwei Veränderungen.</p>
+            <p>Zum ersten Satz: <hi rend="underline">completion</hi> statt <hi rend="underline">publication</hi>. Ich soll den Grant für die
+               <hi rend="underline">Fertigstellung</hi> des Mskripts erhalten; dafür ist die Foundation da. Und da das Mskript
+               nie fertig ist, ist ja keine Unwahrheit bei der Sache.</p>
+            <p>Dann schlage ich vor die Stelle:<q>Althoug not being a school philosopher</q>
+               wegzulassen. Abgesehen davon, dass die Frage, ob ich ein school philosopher bin oder
+               nicht, für das, was ich mache, kaum relevant oder auch nur interessant sein dürfte,
+                  <hi rend="superlinear">*)</hi><add place="left"> *) (privat fühle ich mich allemal
+                  als Honorarprofessor, der keine Vorlesungen hält) </add>hört sich für
+               amerikanische Ohren, im Land der positions, die unbequeme bürgerliche
+                  <unclear>Eingruppierbarkeit</unclear> meiner wahrscheinlich leicht negativ an. Und
+               das sei für unser Vorhaben doch ferne. Des-<pb n="2"/>halb dachte ich, der Satz
+               beginnt besser mit: <q>He is one</q> und so weiter.</p>
+            <p>Und da die Liste niemals aufhört, gestatte ich mir eine dritte Bitte. <rs
+                  ref="#tillich_person_id__1209" type="person">Löwe</rs> schickte mir einen Brief
+                  (<q>recommendation</q>), worin er vor allem als <hi rend="underline"
+                  >Soziologe</hi> mir eine A gab. Vielleicht aber hast Du die Güte, im dritten
+               Absatz Deines Briefes noch einen Satz zuzufügen, worin Du als <hi rend="underline"
+                  >Philosoph</hi> eine warme Lanze für mein Hoffnungs-Buch-<q>Project</q> einlegst.
+               Wir Amerikaner (ich bin übrigens mit gestern Dein fellow-citizen geworden) glauben ja
+               nur an Spezialisten, wie Dir bekannt. </p>
+            <p>Habe herzlichen Dank, lieber Freund, auch für die <unclear>Großzügigkeit</unclear>, zu der ich Dich leider gezwungen
+            habe und wieder veranlassen muss. Du tust mir viel Gutes.</p>
+            <p>Herzliche Dir und <rs ref="#tillich_person_id__1923" type="person">Hannah</rs></p><closer>
+               <salute>Euer</salute>
+               <signed><rs ref="#tillich_person_id__228" type="person"
+                  >Ernst</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10274">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hannah Tillich<lb/>von Mai 1936</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3229-6246">Ole Soldatow</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 721/3(7)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date notBefore="1936-05-02" notAfter="1936-05-04">vermutlich zwischen 2. und 4. Mai
+                  1936</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="OS" when="2025-05-18">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebste <rs ref="#tillic_person_id__1923" type="person">Hannah</rs>!</salute>
+            </opener>
+            <p>Diese Reise ist die interessanteste, die ich bisher gemacht habe, weil sie nicht von
+               mir als Reisendem, sondern als Arbeitendem gemacht wird. <rs
+                  ref="#tillich_place_id__1"><!-- ID fehlt noch-->Schottland</rs> hat mir <hi
+                  rend="u">sehr</hi> gut gefallen. <rs ref="tillich_person_id__1" type="person"
+                  ><!-- ID fehlt noch-->Baille</rs> ist ein entzückender Mensch, sein Junge, 15
+               Jahre alt, einfach süss. Ich habe oft an <rs ref="#tillich_person_id__3158"
+                  type="person"><!-- René Sommer?-->René</rs> gedacht. Ich sehne mich oft
+               schrecklich nach ihm. _ Im übrigen bin ich so <unclear reason="illegible"
+                  >¿¿¿</unclear> frauenlos, wie Du es Dir <pb n="2"/> nur wünschen kannst. Und
+               ausser nach Dir habe ich nicht einmal Sehnsucht. _ Ich hoffe Du bist mit der
+               Tagebuch-Methode zufrieden. Nur in dieser Kürze kann ich überhaupt schreiben. Oft
+               möchte ich nach Hause kommen und sofort erzählen, Dir und <rs
+                  ref="#tillich_person_id__570" type="person">Erdmuthe</rs>.</p>
+            <closer>
+               <salute>In liebster Liebe</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">Euer Paulus</rs>.</signed>
+            </closer>
+
+         </div>
+      </body>
+   </text>
+</TEI>

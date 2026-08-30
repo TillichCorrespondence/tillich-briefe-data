@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11044">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Hugo Simons<lb/>vom 5. Februar 1947</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/186 (31)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; adressiert: <q>Mr. Hugo Simons, 1085 Borl
+                                Street, St. Rose West, P. Q. Co Lavel, Canada</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1947-02-05">05.02.1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__4916">Hugo Simons</persName>
+                    <placeName ref="#tillich_place_id__1439">Laval, Québec</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-04-13" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><date when="1947-02-05">February 5,
+                        1947</date>.</dateline><salute>Lieber <rs ref="#tillich_person_id__4916"
+                            type="person">Herr Simons</rs>:</salute>
+                </opener>
+                <p>Herzlichen Dank für <rs ref="L11042" type="letter">Ihren Brief</rs>. Ich möchte
+                    Ihre Fragen schnell beantworten so weit das möglich ist.</p>
+                <p>1) In Union Theological Seminary (einschließlich unserer Wohnung) ist keine
+                    Möglichkeit jemanden aufzunehmen, der nicht zum Seminary gehört.</p>
+                <p>2) Das International House, 500 Riverside Drive, <rs ref="#tillich_place_id__319"
+                        type="place">New York</rs> 27, <rs ref="#tillich_place_id__865" type="place"
+                        >N. Y.</rs> ist nicht teuer und Sie können dorthin schreiben unter Berufung
+                    auf Ihre Beziehung zu mir.</p>
+                <p>3) Falls Sie dort eine ablehnende Antwort bekommen, was ich leider befürchte,
+                    müsste <rs ref="#tillich_person_id__4917" type="person">Ihr Sohn</rs> vorerst in
+                    einem Hotel wohnen und von da aus auf die sehr schwierige Wohnungssuche gehen.
+                    In meinem ganzen Bekanntenkreis weiss ich niemand, der zur Zeit jemand aufnehmen
+                    könnte. Alles ist überfüllt, auch in den Familien. Aber man kann damit rechnen,
+                    dass durch Glückszufälle immer mal etwas frei wird und wir werden Ihnen
+                    Nachricht geben, falls etwas derartiges eintritt.</p>
+                <p>Es war sehr schön Sie bei uns zu haben. <rs ref="#tillich_person_id__1923"
+                        type="person">Hannah</rs> und ich hatten wirklich eine grosse Freude am
+                    Wiedersehen.</p>
+                <closer>
+                    <salute>Herzlichen Gruss Ihnen und <rs type="person">Ihrer Frau</rs>,</salute>
+                    <signed>Ihr,<lb/>
+                        <rs ref="#tillich_person_id__1928" type="person">Prof. Paul
+                        Tillich</rs></signed>
+                </closer>
+
+            </div>
+        </body>
+    </text>
+</TEI>
