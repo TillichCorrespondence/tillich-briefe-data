@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10550">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Sol Silverman an Paul Tillich
+               <lb/>vom 30. Januar 1942 </title>
+            <author ref="#tillich_person_id__4252">Sol Silverman</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
+                  <institution>Marburg</institution>
+                  <repository>Deutsches Paul-Tillich-Archiv</repository>
+                  <idno></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__4252">Sol Silverman</persName>
+               <date when="1942-01-30">30.01.1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-11-27">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1942-01-30">January 30, 1942</date></dateline>
+               <lb/><rs ref="#tillich_person_id__1928" type="person">Dr. Paul Tillich</rs><lb/>
+               Union Theological Seminary<lb/><lb/>
+               <rs ref="#tillich_place_id__319" type="place">New York, New York</rs>
+               <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Dr.
+                  Tillich</rs>:</salute>
+            </opener>
+            <p>Enclosed is a copy of a letter <note type="ea">liegt nicht vor</note> I have just
+               sent to <rs ref="#tillich_person_id__4253" type="person">Mr. Kenneth Leslie</rs>.</p>
+            <p>May I congratulate you personally on your brochure which I believe to be prophetic.</p>
+            <p>Already, it has inspired me to write two editorials, and I am now contemplating a
+               third.</p>
+            
+            <closer>
+               <salute>Sincerely yours,</salute>
+               <signed><rs ref="#tillich_person_id__4252" type="person"
+                  ><hi rend="hand">Sol Silverman</hi>Sol Silverman Publisher</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

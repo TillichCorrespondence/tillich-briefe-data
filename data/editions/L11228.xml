@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11228">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Raymond Philip Morris an Paul Tillich <lb/>vom 20. September
+                    1948</title>
+                <author ref="#tillich_person_id__5331">Raymond Philip Morris</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/167 (62)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; Unterschrift eigenhändig; Briefkopf:
+                                <q>LIBRARY OF THE YALE UNIVERSITY DIVINITY SCHOOL, 409 PROSPECT
+                                STREET<!-- Punkt --> NEW HAVEN<!-- Punkt --> 11<!-- Punkt -->
+                                CONNECTICUT, RAYMOND P. MORRIS, <hi rend="i">Librarian</hi></q>;
+                            adressiert: <q>Dr. Paul Tillich, Union Theological Seminary, Broadway at
+                                120th Street, New York 27, N. Y.</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__5331">Raymond Philip Morris</persName>
+                    <date when="1948-09-20">20.09.1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__319">New York, N. Y.</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-06-07" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><date when="1948-09-20">September 20, 1948</date></dateline>
+                    <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Professor
+                            Tillich</rs>:</salute></opener>
+                <p>Some months ago I came across a notation to the effect that a book entitled <hi
+                        rend="u">English</hi>
+                    <hi rend="u">Writings</hi>
+                    <hi rend="u">of</hi>
+                    <hi rend="u">Dr</hi>. <hi rend="u">Tillich</hi> by <rs
+                        ref="#tillich_person_id__3883" type="person">Dillenberger</rs> was to be
+                        published.<note type="ea">Vgl. <rs ref="#tillich_person_id__3883"
+                            type="person">John Dillenberger</rs>: <rs type="work"
+                            ref="#tillich__AAUZJFJ3">English Writings of Dr. Tillich</rs>
+                        (1947).</note> I have not been able to find additional information
+                    concerning this, and I am writing you to learn if you can supply me with the
+                    name of the publisher. I am enclosing a self-addressed envelope for your
+                    convenience in answering this.</p>
+                <p>I am</p>
+                <closer><salute>Very truly yours,</salute><signed><hi rend="hand"><rs
+                                ref="#tillich_person_id__5331" type="person">Raymond P.
+                            Morris.</rs></hi><lb/><rs ref="#tillich_person_id__5331" type="person"
+                            >Raymond P. Morris.</rs>, Librarian</signed></closer>
+                <postscript>
+                    <p>RPM:js</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

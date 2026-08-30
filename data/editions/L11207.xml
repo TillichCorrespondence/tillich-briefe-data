@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11207">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Wilhelm Gollub an Paul Tillich
+               <lb/>vom 4. August 1948 </title>
+            <author ref="#tillich_person_id__4930">Wilhelm Gollub</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 143(5)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__4930">Wilhelm Gollub</persName>
+               <date when="1948-08-04">04.08.1948</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-04-18">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><rs ref="#tillich_person_id__4930" type="person">Dr. Wilhelm Gollub</rs>
+               <rs ref="#tillich_place_id__198" type="place">Hamburg</rs> 20, den <dateline><date
+                     when="1948-08-04">4. VIII. 48</date><lb/>Eppenforferlandstr. 44<hi rend="above"
+                     >I.</hi></dateline>
+               <salute>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr
+                     Professor</rs>,–</salute>
+            </opener>
+            <p>Sie waren bei Ihrem letzten Hamburger Aufenthalt so gütig, mir zu erlauben, mich
+               wegen der Adresse von <rs ref="#tillich_person_id__4931" type="person">Frl. Dr.
+                  Natascha Halperin</rs> an Sie zu wenden. Ich mache nun heute von dieser Erlaubnis
+               Gebrauch und wäre Ihnen dankbar, wenn Sie mir ihre Anschrift zukommen lassen würden.
+               Ein schweres Kriegsleiden, das ich mir im letzten Monat des Krieges zuzog, hatte mich
+               leider davon Abstand nehmen lassen, irgendetwas in dieser Richtung zu unternehmen
+               oder überhaupt eine Verbindung zu Freunden in den <rs ref="#tillich_place_id__684"
+                  type="place">Vereinigten Staaten</rs> zu suchen. Nun, da das Ärgste, <pb n="2"
+               />wie ich hoffe, vorüber ist, möchte ich das Versäumte gern nachholen, und ich wäre
+               Ihnen dankbar, wenn Sie mir dabei behilflich sein würden.</p>
+            <p>Ich darf Ihnen noch sagen,  daß es mir eine besonders große Freude war, gelegentlich Ihrer Hamburger
+            Vorlesung wieder einmal Ihren Worten gelauscht zu haben.</p>
+            <closer>
+               <salute>Mit den besten Empfehlungen<lb/>Ihr sehr ergebener</salute>
+               <signed><rs ref="#tillich_person_id__4930" type="person"
+                  >Wilhelm Gollub</rs>.</signed>
+               <add hand="#tillich_person_id__1928"><rs ref="#tillich_person_id__4931" type="person">Mrs. Richard Hirsch</rs><lb/>4116 Arkansas Ave<lb/>N.W<lb/> <rs ref="#" type="place">Washington</rs> 11, U.S.</add>
+            </closer>
+           
+         </div>
+      </body>
+   </text>
+</TEI>

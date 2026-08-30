@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10980">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von John Dillenberger an Paul Tillich <lb/>vom 20. August 1946</title>
+                <author ref="#tillich_person_id__3883">John Dillenberger</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/136(36)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__3883">John Dillenberger</persName>
+                    <placeName ref="#tillich_place_id__1042">Dorset, Ontario</placeName>
+                    <date when="1946-08-20">20.08.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__769">Easthampton, New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-10-08" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><rs ref="#tillich_place_id__1042" type="place">Dorset</rs>, <rs
+                            ref="#tillich_place_id__1043" type="place">Ontario</rs>, <rs
+                            ref="#tillich_place_id__849" type="place">Canada</rs>
+                        <lb/><date when="1946-08-20">August 20, 1946</date>
+                    </dateline>
+                    <fw place="top-left" type="adressline"><rs ref="#tillich_person_id__1928"
+                            type="person">Dr. Paul Tillich</rs>
+                        <lb/>Box 1419 <lb/><rs ref="#tillich_place_id__769" type="place"
+                            >Easthampton</rs>, Long Island</fw>
+                    <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Dr.
+                        Tillich</rs>,</salute></opener>
+                <p>On this, your sixtieth birthday, I should like not only to tender my
+                    congratulations but more particularly to express my appreciation to you for the
+                    impact of your teaching upon so many of us. As witness to this admiration, I
+                    mention only that not a few of us, who in some way might qualify as former
+                    students, have returned to study under your direction.</p>
+                <p>The combination of devotion and hard thought, of freedom and discipline, that is
+                    so echoed in your lectures have held many of us, over against the distortions
+                    which are so prevalent in American theological orientation through the omission
+                    of one or the other of these factors.</p>
+                <p>In content, your thinking has welcomed because it is able to relate the Christian
+                    faith to the world in which men live without sacrificing the distinctive
+                    character of faith or ignoring the relative character of historical events and
+                    decisions. Because in a practical <rs ref="#tillich_place_id__684" type="place"
+                        >America</rs> you have shown the relevance of thought to action, more
+                    specifically Christian thought to the decisions of our time, you have made an
+                    invaluable contribution to the culture in which we live. </p>
+                <p>It is my hope, as it is of many, that the decade in which you are entering will
+                    see the publication of your theological thought. You are among the privileged
+                    few upon <add place="superlinear">whom</add> the necessity of publication is
+                    urged.</p>
+                <closer><salute>Respectfully yours,</salute>
+                    <signed><rs ref="#tillich_person_id__3883" type="person">John Dillenberger</rs>
+                        <lb/><rs ref="#tillich_person_id__3883" type="person">John
+                        Dillenberger</rs>. <!-- Unterschrift, dann gedruckt. --></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10557">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Joseph Lash an Paul Tillich
+               <lb/>vom 18. Februar 1942 </title>
+            <author ref="#tillich_person_id__4095">Joseph Lash</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno><!-- Marburg --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__4095">Joseph Lash</persName>
+               <date when="1942-11-24">18.02.1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Pau Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-11-08">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1942-02-18">February 18, 1942</date></dateline>
+               <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Professor
+                  Tillich</rs>,</salute>
+            </opener>
+            <p>Several weeks ago <rs ref="#tillich_person_id__1141" type="person">Trude</rs> gave me
+               a copy of your pamphlet <unclear>on</unclear>
+               <q>War Aims</q> which only tonight have I had a chance to read. I want to
+                  <unclear>hasten</unclear> to express my profound agreement with its views.</p>
+            <p>Unless we stand up now and are <unclear>counted</unclear> for the New Deal, the war will in a true sense be
+               lost, for we will be <unclear>reverting</unclear> to or perpetuating conditions that make inevitable the future growth of
+               reaction, militarism and nationalism. Unless we appeal now to the underground liberation
+               movements in <rs ref="#tillich_place_id__736" type="place">Europe</rs> and utilize the
+               anti-fascist-<unclear>emigre</unclear> groups, our hopes of European federation will be defeated. But
+               there is no need to harangue you on this subject!</p>
+            <p>How to make such a view politically effective – that is the question. Your pamphlet
+               is, I feel, a real contribution.</p>
+            <closer>
+               <salute>Sincerely</salute>
+               <signed><rs ref="#tillich_person_id__4095" type="person"
+                  >Jospeh Lash</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

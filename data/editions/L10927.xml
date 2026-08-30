@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10927">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Karl Löwith <lb/>vom 05. April 1946</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/162(43)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1946-04-05">05.04.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1214">Karl Löwith</persName>
+                    <placeName ref="#tillich_place_id__739">Hartford, Connecticut</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-06-28" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="top" type="adressline"><rs ref="#tillich_person_id__1214"
+                            type="person">Prof. Karl <sic>Lowith</sic></rs>
+                        <lb/>Hartford Theological Seminary <lb/><rs ref="#tillich_place_id__739"
+                            type="place">Hartford</rs>, <rs ref="#tillich_place_id__726"
+                            type="place">Conn.</rs></fw><dateline><date when="1946-04-05">April 5,
+                            1946</date></dateline><salute>Lieber <rs ref="#tillich_person_id__1214"
+                            type="person">Herr <sic>Lowith</sic></rs>:</salute>
+                </opener>
+                <p>Vor einigen Tagen habe ich Ihnen <rs ref="#tillich_person_id__320" type="person"
+                    >Bultmann</rs>&apos;s Brief zurückgeschickt. Ich bin inzwischen von einem
+                    wichtigen Kollegen gefragt worden, ob er ihn sehen könnte und ich wäre Ihnen
+                    sehr dankbar, wenn Sie ihn zurücksenden würden. Ich habe das Gefühl, dass es
+                    möglich wäre, durch ihn (<rs ref="#tillich_person_id__3466" type="person">Prof.
+                        Muilenberg</rs>, Alt Testamentler, der bei <rs ref="#tillich_person_id__320"
+                        type="person">Bultmann</rs> studiert hat<supplied>)</supplied> einen
+                    Austausch von Büchern etc. vorzubereiten.</p>
+                <p>Haben Sie sich mit den Chicagoern in Verbindung gesetzt?</p>
+                <closer><salute>Mit herzlichen Grüssen</salute><signed><rs
+                            ref="#tillich_person_id__1928" type="person">Prof. Paul
+                        Tillich</rs>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

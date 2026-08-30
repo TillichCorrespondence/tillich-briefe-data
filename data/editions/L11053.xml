@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11053">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Eugene Davidson<lb/>vom 10. März 1947</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/135 (22)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; adressiert: <q>Mr. Eugene Davidson, Editor,
+                                Yale University Press, New Haven, Conn</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1947-03-10">10.03.1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__4927">Eugene Arthur Davidson</persName>
+                    <placeName ref="#tillich_place_id__770">New Haven, Ct.</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-04-17" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><date when="1947-03-10">March 10, 1947</date></dateline><salute>Dear
+                            <rs ref="#tillich_person_id__4927" type="person">Mr.
+                        Davidson</rs>:</salute>
+                </opener>
+                <p>As I understand <rs ref="#tillich_person_id__752" type="person">Dr. Hannah
+                        Hafkesbrink</rs> of Connecticut College, <rs ref="#tillich_place_id__835"
+                        type="place">New London</rs>, <rs ref="#tillich_place_id__726" type="place"
+                        >Conn.</rs> has submitted to you a manuscript in which you might be
+                    interested for publication.<note type="ea">Es handelt sich hierbei um das
+                        Manuskript zu: <rs ref="#tillich_person_id__752" type="person">Hanna
+                            Hafkesbrink</rs>: <rs type="work" ref="#tillich__D2I2Q9TH">Unknown
+                            Germany: An Inner Chronicle of the First World War based on Letters and
+                            Diaries</rs> (1948).</note> I think it would be very important that <rs
+                        type="work" ref="#tillich__D2I2Q9TH">Dr. Hafkesbrink&apos;s book</rs> be
+                    published. I read it very carefully and was deeply impressed by the material
+                    used and the interpretation given. The book illuminates a period of the history
+                    of German culture and thought which is decisive for the understanding of the
+                    present situation and which inspite of this is very little known even to the
+                    scholars of history.</p>
+                <p>The selection of the letters and the other material is excellent and very
+                    representative; the style is warm and vivid but the author never oversteps the
+                    limit of scientific objectivity. Not only everybody who deals vocationally with
+                    the history of German culture, but a larger public interested in the state of
+                    mind of the German people in the period of the world wars would be potential
+                    readers of the book.</p>
+                <closer>
+                    <salute>Sincerely yours,</salute>
+                    <signed><rs ref="#tillich_person_id__1928" type="person">Paul
+                        Tillich</rs><lb/>Professor at Union Theological Seminary, <rs
+                            ref="#tillich_place_id__319" type="place">New York City</rs></signed>
+                </closer>
+
+            </div>
+        </body>
+    </text>
+</TEI>

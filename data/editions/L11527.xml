@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11527">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Margot Hahl
+               <lb/>vom 31. Juli 1947 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno><!-- Archiv der Universitätsbibliothek Marburg, Tillichiana 1, Ms. 1041/42 --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1947-07-31">31.07.1947</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__757">Margot Hahl</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-07-05">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline> 
+               <date when="1947-07-31">July 31, 1947</date></dateline>
+               <salute>Liebe <rs ref="#tillich_place_id__279" type="person">Margot</rs>:</salute>
+            </opener>
+            <p>Nachdem ich Deinen Brief<note type="ea">liegt nicht vor</note> jetzt zum zweiten Mal
+               gelesen habe, hat er mich noch mehr bewegt und mir die vielen schoenen Stunden
+               unserer gemeinsamen Vergangenheit ins helle Licht des Bewusstseins gestellt. Waehrend
+               ich es lese, blicke ich auf einen Apfelbaum und einen blauen Himmel dahinter. Ich
+               verstehe so voellig, was Du ueber die Landarbeit schreibst und ueber das Menschliche,
+               das geistige Differenzen ueberbruecken kann. Aber ich glaube nicht einmal, dass
+               solche Differenzen im Ernst zwischen uns bestehen. Unsere Erlebnis Basis in den
+               letzten 14 Jahren ist verschieden. Aber die geistige Deutung kann nicht im letzten
+               sein. Du wirst das aus beigefuegtem <rs ref="#L11086" type="letter">Rundbrief</rs> entnehmen, der neben einigem
+               Persoenlichen Mitteilungen, auch meine Reaktionen auf Deinen und anderer Freunde
+               Briefe zum Ausdruck bringt. Sehr interessiert hat mich Dein Satz ueber die
+               Freudlosigkeit der gegenwaertigen Jugend. Was bedeutet das fuer die Zukunft? Kannst
+               Du eigentlich englisch lesen. Wenn ja, koennte ich Dir vielleicht ein paar Copien
+               einiger meiner Aufsaetze schicken. – Im naechsten Jahr sollen 3 verschiedene Buecher
+               von mir erscheinen. Bei zweien ist es ziemlich sicher, bei dem dritten und
+               wichtigsten, ersten Band<note>der erste Band der Systematischen Theologie von Paul
+                  Tillich erschien 1951 bei The University of Chicago Press</note> der <rs
+                  ref="#tillich_work_id__69" type="work">Systematischen Theologie</rs>, ist es
+               unsicher. Gibt es heute fuer den normalen Menschen noch geschichtliches Handeln oder
+               sind die Zwangslaeufigkeiten allmaechtig geworden? Das letztere ist mein Gefuehl,
+               obgleich sich mein ganzer Verstand dagegen wehrt.</p>
+            <closer>
+               <salute>In alter Freundschaft,</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person"
+                  >Paulus<lb/><hi rend="hand">Paulus</hi></rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

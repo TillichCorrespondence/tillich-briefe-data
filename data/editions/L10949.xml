@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10949">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von R. Clarke Hannaford an Paul Tillich <lb/>vom 18. Juni 1946</title>
+                <author ref="#tillich_person_id__791">R. Clarke Hannaford</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/147(<!-- Archivangabe unvollständig -->)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__791">R. Clarke Hannaford</persName>
+                    <date when="1946-06-18">18.06.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__319">New York, N. Y.</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-07-14" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="top" type="letterhead">The Westminster Press <lb/>Witherspoon
+                        Building, <rs ref="#tillich_place_id__747" type="place">Philadelphia</rs> 7,
+                            <rs ref="#tillich_place_id__998" type="place">Pa.</rs></fw><fw
+                        place="left" type="adressline"><rs ref="#tillich_person_id__1928"
+                            type="person">Dr. Paul Tillich</rs>
+                        <lb/>99 Claremont Ave. <lb/><rs ref="#tillich_place_id__319" type="place"
+                            >New York</rs> 27, <rs ref="#tillich_place_id__865" type="place">N.
+                            Y.</rs></fw><dateline><date when="1946-06-18">June 18,
+                        1946</date>.</dateline><salute>Dear <rs ref="#tillich_person_id__1928"
+                            type="person">Dr. Tillich</rs>:</salute>
+                </opener>
+                <p>I am delighted with your favorable reply to my request<note type="ea">Liegt nicht
+                        vor.</note> for an advance review of <rs ref="#tillich_person_id__300"
+                        type="person">Emil Brunner</rs>&apos;s <rs ref="#tillich__ASPVVH5A"
+                        type="work">REVELATION AND REASON</rs> which we shall publish <date
+                        when="1946-10-01">October 1st</date> ($ 4.50).</p>
+                <p>A set of bound galleys has gone forward under separate cover and we shall, of
+                    course, replace this with a copy of the finished book as soon as it is off
+                    press.</p>
+                <p>I&apos;ll appreciate it if you will forward your review to my personal attention
+                    at which time the matter of an honorarium will be cleared promptly.</p>
+                <closer><salute>Cordially,</salute><signed><rs ref="#tillich_person_id__791"
+                            type="person">R. Clarke Hannaford</rs>
+                        <lb/>Director <lb/>Merchandising
+                    Division</signed><!--links, auf der anderen Seite von <q>Merchandising Division</q>: <q>RCHwm</q>-->
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

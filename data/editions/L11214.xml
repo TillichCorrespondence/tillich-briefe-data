@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11214">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Liesel Klahre an Paul Tillich<lb/>vom 13. August 1948</title>
+                <author ref="#tillich_person_id__2586">Liesel Klahre</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/158 (43)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; Unterschrift eigenhändig; Briefkopf: <q>Dr.
+                                Erich Klahre</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__2586">Liesel Klahre</persName>
+                    <placeName ref="#tillich_place_id__16">Augsburg</placeName>
+                    <date when="1948-08-13">13.08.1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-06-07" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><hi rend="print"><rs ref="#tillich_place_id__16" type="place"
+                                >Augsburg</rs>, den</hi>
+                        <date when="1948-08-13">13.8.48.</date><lb/>Derchingerstraße
+                        98</dateline><salute>Lieber <rs ref="#tillich_person_id__1928" type="person"
+                            >Paulus</rs>,</salute>
+                </opener>
+                <p>es wäre mir so besonders wertvoll, wenn du es ermöglichen könntest, mir 50.- an
+                        <rs ref="#tillich_person_id__2039" type="person">Mutters</rs> Adresse
+                    schicken zu können. Es besteht die Aussicht mit <rs
+                        ref="#tillich_person_id__5330" type="person">Brigitte</rs> nach <rs
+                        ref="#tillich_place_id__236" type="place">Kassel</rs> zu fahren, ich möchte
+                    aber für drei Tage weiter und da reicht mein Geld dann nicht und ich weiss
+                    Niemanden an den ich mich sonst wenden könnte. Und gerade der kleine Abstecher
+                    wäre mir so sehr erwünscht. Wenn ich nicht schon mit dir mal darüber in <rs
+                        ref="#tillich_place_id__306" type="place">München</rs> gesprochen hätte,
+                    könnte ich dich jetzt nicht bitten um das Geld.</p>
+                <p>Bei uns jagt eine Überraschung die andere und das ganze Leben sieht mal wieder
+                    finster aus, das ist auch ein Grund die herrlichen Augsburger Gefilde mal für
+                    ein paar Tage zu verlassen.</p>
+                <p>Ich hoffe es geht dir gut und <rs ref="#tillich_place_id__122" type="place"
+                        >Deutschland</rs> und die Deutschen sind nicht gar so enttäuschend
+                    gewesen.</p>
+                <p>Zu deinem Geburtstag am <date when="1948-08-20">20.</date> wünsche ich dir von
+                    Herzen alles Gute, komm gesund rüber und vergiss nicht ganz</p>
+                <closer><signed><hi rend="hand">Deine <rs ref="#tillich_person_id__2586"
+                                type="person">Liesel</rs></hi></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

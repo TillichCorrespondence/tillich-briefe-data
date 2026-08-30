@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11001">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Gerhard Heinzelmann an Paul Tillich <lb/>vom 2. September
+                    1946</title>
+                <author ref="#tillich_person_id__853">Gerhard Heinzelmann</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0002-0440-4008">Gerrit Mauritz</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933-1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                        <idno>bMS 649/151(52)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich mit handschriftlicher Unterschrift</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__853">Gerhard Heinzelmann</persName>
+                    <placeName ref="#tillich_place_id__189">Halle (Saale)</placeName>
+                    <date when="1946-09-02">02.09.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__319">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="GM" when="2025-10-09">Transkription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <head type="letterhead">Der Dekan<lb/>der theologischen Fakultät<lb/>der<lb/>Martin
+                    Luther-Universität<lb/>Halle-Wittenberg</head>
+                <opener>
+                    <dateline><rs type="place" ref="#tillich_place_id__189">Halle (Saale)</rs>, den
+                            <date when="1946-09-02">2.9. 1946</date></dateline>
+                    <address>
+                        <addrLine>Herrn Professor D. Dr. <rs type="person"
+                                ref="#tillich_person_id__1928">Paul Tillich</rs></addrLine>
+                        <addrLine><rs type="place" ref="#tillich_place_id__319">New York</rs> - City
+                            27</addrLine>
+                        <addrLine>Claremont Avenue 99 USA.</addrLine>
+                    </address>
+                    <salute>Hochgeehrter <rs type="person" ref="#tillich_person_id__1928">Herr
+                            Professor</rs>!</salute>
+                </opener>
+
+                <p>Zu Ihrem 60. Geburtstag beehrt sich die Theologische Fakultät der
+                    Martin-Luther-Universität Halle-Wittenberg Ihnen noch nachträglich die
+                    herzlichsten Glückwünsche auszusprechen. Möge es Ihnen vergönnt sein, in der
+                    kommenden Zeit noch manches wissenschaftliche Werk zu vollenden.</p>
+
+                <p>Die Fakultät verbindet mit diesem Glückwunsch zugleich den Ausdruck ihres
+                    lebhaften Bedauerns, dass Sie in der Zeit des nun vernichteten Gewaltregimentes
+                    genötigt wurden, Ihre deutsche Heimat zu verlassen und dass Ihnen - ohne
+                    Initiative unserer Fakultät oder Universität - durch die Staatsführung auch Ihre
+                    akademischen Ehren genommen wurden.</p>
+
+                <p>Die Fakultät ist einmütig der Ansicht, dass durch die Aufhebung der
+                    nationalsozialistischen Gesetzgebung Ihre akademischen Ehren und Titel
+                    automatisch wieder in Geltung sind und bittet Sie, das Ehrendoktorat unserer
+                    Fakultät nach wie vor mit Ihrem Namen öffentlich zum Ausdruck bringen zu
+                    wollen.</p>
+
+                <closer>
+                    <salute>Mit kollegialer Begrüssung und nochmaligen besten Wünschen für Ihre
+                        weitere Lebensarbeit</salute>
+                    <salute rend="right">Ihr<lb/>sehr ergebener</salute>
+                    <signed><rs type="person" ref="#tillich_person_id__853">Gerhard
+                        Heinzelmann</rs></signed> Dekan</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

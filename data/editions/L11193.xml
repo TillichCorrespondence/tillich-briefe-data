@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11193">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Johannes Kandeler an Paul Tillich
+               <lb/>vom 17. Juli 1948 </title>
+            <author ref="#tillich_person_id__4915">Johannes Kandeler</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 157(14)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__4915">Johannes Kandeler</persName>
+               <date when="1948-07-17">17.07.1948</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-04-12">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1948-07-17">17.7.48</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+            </opener>
+            <p>Heute sollst Du schon wieder <rs ref="#tillich_place_id__37" type="place">Berlin</rs>
+               verlassen! Es ist mir schmerzlich, zumal ich leider auch noch erst <hi
+                  rend="underline">ein</hi> weiteres Mal in Deinem Kolleg sein konnte. Man wird aber
+               schier ausgefressen von der <unclear>Technik</unclear> des Alltags. Ich fühle so
+               deutlich, daß ich noch und <unclear>wieder sovieles</unclear> bei Dir lernen müßte u.
+               daß ich zu dem <hi rend="underline">Gespräch</hi>, das ich mir wünschte hier Keinen
+               habe, mit dem ich mich sachlich – bei allen Unterschieden – so verbunden fühlte.<pb
+                  n="2"/> Und das ist doch die Voraussetzung jeden Gesprächs. Ich bin immer
+               erschrocken, wenn wir Nein zueinander sagen; aber es bringt mich doch wiederum auch
+               nicht außer Fassung, denn &quot;alle Dinge sind Ja u. Amen in Ihm.
+                  <unclear>Nur,</unclear> daß wir in Ihm eins sind steht außer Debatte, auch wenn
+               das von außen zur Kirche drängt, während ich <hi rend="underline">in</hi> der <hi
+                  rend="underline">Un</hi>-Kirche stehe. Anbei – ohne Dich belasten zu wollen – noch
+                  <hi rend="underline">einen</hi> kl. <unclear>Erguß</unclear> von mir, der gegen
+                  <unclear>Beck</unclear> zu wenig konkret ist, weil er anders
+                  <unclear>Vereins</unclear> folgt. Aber ich habe doch nichts für Dich – nicht
+               einmal als kl. Dank für Dein wohltuendes Mitgelingen!</p>
+            <p>Wärest Du hier, so wollte ich wohl mal arbeiten über die &quot;soziologische Struktur
+               einer vernünftigen Pädagogik – falls Du es mir absegnest<add place="left">Aber der
+                  2.te Teil Deiner Antwort auf unsere Fragen nach der <unclear>ariana</unclear> war
+                  mir aus der Seele gesprochen, ja fast das <unclear>erkorene</unclear> Prinzip für
+                  meine entstehende <unclear>Urages</unclear>!. Nun lebe wohl mit allen Deinen und bleibe der
+                     <q>Brücken-Bauer.</q></add></p>
+            <closer>
+               <salute>In Dankbarkeit und Liebe bleib ich Dein</salute>
+               <signed><rs ref="#tillich_person_id__4915" type="person"
+                  >Hans</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

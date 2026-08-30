@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11285">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul H. Hoch an Paul Tillich
+               <lb/>vom 4. März 1949 </title>
+            <author ref="#tillich_person_id__5091">Paul H. Hoch</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 120(09)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__5091">Paul H. Hoch</persName>
+               <date when="1949-03-04">04.03.1949</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-05-20">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1949-03-04">March 4, 1949</date></dateline><lb/>
+               <rs ref="#tillich_person_id__1928" type="person">Dr. Paul Tillich</rs><lb/>
+               Union Theological Seminary<lb/>
+               Colombia University<lb/>
+               Broadway and 120th Street<lb/>
+               <rs ref="#tillich_place_id__319" type="place">New York, New York</rs>
+               <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Dr. Tillich</rs>:</salute>
+            </opener>
+            <p>In behalf of the Program Committee of the American Psychopathological Association, I
+               would like to extend to you an invitation to participate in the Symposium on
+                  <q>Anxiety</q> to be held June 3rd and 4th at the Hotel Commodore here in <rs
+                  ref="#tillich_place_id__319" type="place">New York City</rs>. The program is
+               divided into four sessions: clinical aspects of anxiety, physiological aspects of
+               anxiety, social-anthropological aspects of anxiety, and with the experimental
+               approach. We would like to have you discuss the following topic:<q>Anxiety-Reducing
+                  Agencies in Our Culture.</q> The general thesis of this talk might be aimed at
+               pointing out how society attempts to organize institutions such as marriage,
+               religion, and customs and more which are intended to reduce the natural sources of
+               anxiety, and to indicate to what extend these institutions succeed in their general
+               purpose. While this thesis is what the Committee would like to have you discuss, you
+               are, of course, free to propose any other special aspect of the problem that might
+               appeal to you. These papers should be approximately forty-five minutes in length.</p>
+            <p>The previous symposia have been published and we are planning to publish this one
+               too, together with the discussion that arises during the course of this meeting.
+               Would you kindly let us know whether or not you can participate in this symposium at
+               your earliest convenience?</p>
+            <p>Thank you very much.</p>
+            <closer>
+               <salute>Sincerely yours,</salute>
+               <signed><rs ref="#tillich_person_id__5091" type="person"
+                  ><hi rend="hand">Paul Hoch</hi><lb/>Paul H. Hoch, M. D.</rs></signed>
+            PHH:HA</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

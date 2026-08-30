@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10260">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Edgar Sheffield Brightman <lb/>vom 27. Januar 1936</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3229-6246">Ole Soldatow</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>Box 126 (36)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1936-01-27">27.01.1936</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Edgar Sheffield Brightman</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="eng">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="OS" when="2025-05-08">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>99 Claremont-Avenue, New York City<date when="1936-01-27">27. Jan
+                     36</date></dateline>
+               <salute>Dear <rs type="person"><!-- Person muss noch angelegt werden--> Mr
+                     Brightman</rs>:</salute>
+            </opener>
+            <p>I feel extremely guilty that I did not answer your very kind <rs ref="L10243">letter</rs> from <date when="1935-12-01">Dez. 1.</date>
+               earlier. There were two reasons for that. First because I did not want to answer
+               without a rather large explanation of my ideas concerning the idea of God and that I
+               did not find any time for doing so in the last two months, because I to prepare the
+               publication of an own book of mine. Second because the difficulty of writing in
+               Englisch, which hampers me not so much in lecturing as in the attempts to express as
+               subtlime ideas as are implied in your proposed <unclear reason="illegible"
+                  >¿¿¿</unclear>. Now I want to tell you that I shall be in <!-- place id muss ergänzt werden-->
+               <rs ref="#tillich_place_id__1" type="place">Cambridge</rs> about 4 or 5 days between
+               the <date when="1936-02-11">11th</date> and the <date when="1936-02-16">16th</date> of February. In these days I think we should have a great
+               discussion concerning our common problems. I hope you will be able to give this time,
+               and most of all, I hope you pardon me for the terrible delay of my answer. It occured
+               as it usually does: <unclear reason="illegible">¿¿¿</unclear> I did not want to give
+               a short answer I did not answer at all. In every case i will try to call you as soon
+               as I have arrived in Boston.</p>
+            <closer><salute>Very cordially yours</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">Paul J. Tillich</rs>
+               </signed></closer>
+         </div>
+      </body>
+   </text>
+</TEI>

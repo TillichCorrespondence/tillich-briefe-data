@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10489">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Marguerite Block an Paul Tillich
+               <lb/>vom 22. Mai 1940 </title>
+            <author ref="#tillich_person_id__4051">Marguerite Block</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 132(13)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__4051">Marguerite Block</persName>
+               <date when="1940-05-22">22.05.1940</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Pau Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-10-24">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               Columbia University<lb/>
+               in the City of <rs ref="#tillich_place_id__319" type="place">New York</rs><lb/>THE REVIEW OF RELIGION<lb/>
+               <dateline>401 Low Memorial Library<lb/> <date when="1940-05-15">May 22nd, 1940</date></dateline>
+               <lb/><rs ref="#tillich_person_id__1928" type="person">Professor
+                 Paul Tillich</rs>
+               <lb/>Union Theological Seminary
+               <lb/> <rs ref="#tillich_place_id__319" type="place">New York City</rs>
+               <salute>My dear <rs ref="#tillich_person_id__1928" type="person">Professor
+                  Tillich</rs>:</salute>
+            </opener>
+            <p>I am afraid it is quite impossible for us to drop the review of <rs
+                  ref="#tillich_person_id__1783" type="person">Siegfried</rs>&apos;s book entirely.
+               When publishers send us books for review, and expensive books at that, they naturally
+               expect a review to be forthcoming. And when we accept a book we obligate ourselves to
+               print a review of it. We are entirely dependent upon the good will of publishers for
+               books, otherwise it would be impossible for us to have a Book Review section at all.
+               It is a matter of honor with us to make good to the publishers in this matter, and we
+               rely on the people who accept books for review to co-operate with us. I regret to
+               note that this is the third book which we have sent to you for which we have received
+               no review. Won't you please make an effort to send us a review of this book before
+               August fifteenth?</p>
+            <closer>
+               <salute>Sincerely yours,</salute>
+               <signed><rs ref="#tillich_person_id__4051" type="person"
+                  ><hi rend="hand">(Mrs.) Marguerite Block</hi></rs><lb/>Secretary</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

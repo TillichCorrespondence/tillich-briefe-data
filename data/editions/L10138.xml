@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10138">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Undatierter Brief von Paul Tillich an Hannah Tillich <lb/>vermutlich von Jannuar 1935</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933-1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                        <idno>bMS 721/3(6)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date notBefore="1935-01-01" notAfter="1935-01-31">01.1935</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-06-16" who="EL">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline>1155 East 57<hi rend="sup">th.</hi> Str. <unclear>Quadrangel</unclear>-Club.</dateline>
+                    <salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
+                        >Hannah</rs>!</salute>
+                </opener>
+                <p>Nach dem ersten Kolleg: <hi rend="u">Über</hi> 30 Leute von denen ca 2<del rend="ow">0</del>5 bleiben werden. Z.T. gute Gesichter. Heut noch ohne Discussion. Heut Morgen die ersten Besuche. Dabei 150 D. für Dich ergattert, die ich anbei sende. Du kannst Sie einfach dem Bureau-Office geben und soviel holen wie Du jeweilig willst. Ich hoffe es reicht bis <date when="1935-02-01">1. Febr.</date> – Mittag mit der Fakultät gegessen. Ich wohne vorläufig in den prunkvollen Gastzimmern des Klubs; später, wenn es frei wird, in einem kleineren (mit Shower statt Bad). Jetzt will ich spazieren gehn und später arbeiten, essen, arbeiten, ganz allein bis Morgen Nachmittag: Ein merk<pb n="2"/>würdiges Gefühl nach dem New Yorker Trubel. – Noch nichts von Dir! – Es ist hier eiskalt, Schnee und vereiste Strassen. Gut dass Du es besser hast!</p>
+                <closer>Ich liebe Dich! <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

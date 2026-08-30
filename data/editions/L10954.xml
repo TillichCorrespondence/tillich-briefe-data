@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10954">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Evald Benjamin Lawson <lb/>vom 11. Juli
+                    1946</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/151 (20)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1946-07-11">11.07.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__3521">Evald Benjamin Lawson</persName>
+                    <placeName ref="#tillich_place_id__866">East Orange, N. J.</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-07-28" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="left" type="adressline"><rs ref="#tillich_person_id__3521"
+                            type="person">Evald B. Lawson</rs>
+                        <lb/>Upsala College <lb/><rs ref="#tillich_place_id__866" type="place">East
+                            Orange</rs>, <rs ref="#tillich_place_id__867" type="place">N.
+                        J.</rs></fw><dateline><date when="1946-07-11">July 11,
+                        1946</date></dateline><salute>Dear <rs ref="#tillich_person_id__3521"
+                            type="person">President Lawson</rs>:</salute>
+                </opener>
+                <p>
+                    <rs ref="#tillich_person_id__829" type="person">Dr. Frederick
+                            Haussman<supplied>n</supplied></rs> has asked me to write to you a
+                    letter of recommendation.</p>
+                <p>I have known <rs ref="#tillich_person_id__829" type="person">Dr.
+                            Haussman<supplied>n</supplied></rs> for some years in his capacity as a
+                    member of the New School for Social Research and through personal contacts. <rs
+                        ref="#tillich_person_id__829" type="person">Dr.
+                            Haussman<supplied>n</supplied></rs> has a large practical experience in
+                    the economic field. At the same time he has both scholarly and educational
+                    abilities which would make him a useful member of every economic department.
+                    There will be no difficulty for him in adapting himself to college life. He is a
+                    very sociable personality.</p>
+                <p> His political attitude can be characterized as a liberal with conservative
+                    elements. <rs ref="#tillich_person_id__829" type="person">Dr.
+                            Haussman<supplied>n</supplied></rs> is also known to my collegue <rs
+                        ref="#tillich_person_id__1390" type="person">Dr. Reinhold Niebuhr</rs>.</p>
+                <closer><salute>Yours sincerely,</salute>
+                    <signed><rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs>
+                        <lb/> Professor at Union Theological Seminary, <rs
+                            ref="#tillich_place_id__319" type="place">New York
+                    City</rs></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10985">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Horace und Ruth Friess an Paul Tillich <lb/>vom 20. August
+                    1946</title>
+                <author ref="#tillich_person_id__638">Horace Friess</author>
+                <author ref="#tillich_person_id__3964">Ruth Friess</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/143(6)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig; Motiv: Landschaft, <q>View From Diamond Hill
+                                Cabins, Danville Vermont.</q> (Bewaldetes Hügelland, im Hintergrund
+                            Berge.)</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__638">Horace Friess</persName>
+                    <persName ref="#tillich_person_id__3964">Ruth Friess</persName>
+                    <placeName ref="#tillich_place_id__1079">Peacham, Vermont</placeName>
+                    <date when="1946-08-20">20.08.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__319">New York, N. Y.</placeName>
+                    <!-- weitergeleitet nach Easthampton -->
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-07-10" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><rs ref="#tillich_place_id__1079" type="place">Peacham</rs>, <rs
+                            ref="#tillich_place_id__730" type="place">Vermont</rs>, <lb/><date
+                            when="1946-08-20">August 20<hi rend="sup">th</hi>,
+                        1946</date></dateline>
+                    <salute>Dear <rs ref="#tillich_person_id__1928" type="person"
+                        >Paul</rs>,</salute>
+                </opener>
+                <p>About time for an <unclear reason="illegible">¿¿¿</unclear> of yours, isn&apos;t
+                    it? <rs ref="#tillich_person_id__3964" type="person">Ruth</rs>
+                    <unclear>&amp; I</unclear> remember when we celebrated one together with you on
+                    the <rs ref="#tillich_place_id__729" type="place">Vineyard</rs>, &amp; so send
+                    our congratulations &amp; very best wishes. We are today en route from <rs
+                        ref="#tillich_place_id__730" type="place">Vermont</rs> to the family place
+                    in <rs ref="#tillich_place_id__1080" type="place">Keene Valley</rs>, the
+                    Adirondacks. I hope you enjoy a vacation after your summer session labors, &amp;
+                    look forward to more seminars together in the fall.</p>
+                <closer>
+                    <salute>Love to you &amp; <rs ref="#tillich_person_id__1923" type="person"
+                            >Hannah</rs> from</salute>
+                    <signed><hi rend="u"><rs ref="#tillich_person_id__638" type="person">Horace</rs>
+                            &amp; <rs ref="#tillich_person_id__3964" type="person"
+                        >Ruth</rs></hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

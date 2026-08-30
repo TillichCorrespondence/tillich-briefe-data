@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11102">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Leo Löwenthal<lb/>vom 13. August 1947 [PS]</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <!-- Nachlass Löwenthal -->
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1947-08-13">13.08.1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1213">Leo Löwenthal</persName>
+                    <placeName ref="#tillich_place_id__319">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-05-13" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><salute>Dear <rs ref="#tillich_person_id__1213" type="person"
+                        >Leo</rs>:</salute>
+                </opener>
+                <p>Many thanks for <rs type="letter" ref="L11100">your letter</rs>! I am glad you
+                    will come in September! <rs
+                        ref="#tillich_person_id__931 #tillich_person_id__931" type="person">The
+                        Roberts</rs> will be here to at least the <date when="1947-09-15">15<hi
+                            rend="sup">th</hi></date><supplied>.</supplied>
+                    <rs ref="#tillich_person_id__1927" type="person">René</rs> will come the <date
+                        when="1947-09-06">6<hi rend="sup">th</hi></date>
+                    <del rend="s">and</del>
+                    <add place="superlinear">or</add>
+                    <date when="1947-09-07">7<hi rend="sup">th</hi></date> and sleep somewhere.
+                    Nothing is decided about <rs ref="#tillich_person_id__1923" type="person"
+                        >Hannah</rs>. <hi rend="u">After</hi> the <date when="1947-09-15">15<hi
+                            rend="sup">th</hi></date> you can stay in our home!
+                        <unclear>¿¿¿</unclear> weekend is all right with me. Please write when you
+                    are <unclear>¿¿¿</unclear> from <rs ref="#tillich_place_id__854" type="place"
+                        >Bar Harbor</rs>.</p>
+                <closer><salute>Yours</salute><signed><rs ref="#tillich_person_id__1928"
+                            type="person">Paulus</rs></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

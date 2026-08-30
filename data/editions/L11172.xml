@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11172">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Harold Friedlander an Paul Tillich<lb/>vom 28. Juni 1948</title>
+                <author ref="#tillich_person_id__5152">Harold Friedlander</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/142 (43)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; Unterschrift eigenhändig; Briefpapier der:
+                            Unicorn Press; Briefkopf <q>Unicorn Press Publishers, AUTHORIZED
+                                PUBLISHERS OF THE FUNK &amp; WAGNALLS NEW STANDARD ENCYCLOPEDIA, 53
+                                EAST 77TH STREET, NEW YORK 21, N. Y.</q> dazu die Darstellung eines
+                            Einhorns, das auf seinen Hinterbeinen steht; adressiert: <q>Mr. Paul
+                                Tillich, Union Theological Seminary, Broadway and 120th Street, New
+                                York, New York</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__5152">Harold Friedlander</persName>
+                    <date when="1948-06-28">28.06.1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__319">New York, N. Y.</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-05-26" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><date when="1948-06-28">June 28, 1948</date></dateline><salute>My
+                        dear <rs ref="#tillich_person_id__1928" type="person">Mr.
+                        Tillich</rs>:</salute>
+                </opener>
+                <p>We are preparing a new and completely revised edition of the Funk &amp; Wagnalls
+                    New Standard Encyclopedia. This new work will have a Consulting and Advisory
+                    Board whose members will read and criticize a small number of articles that fall
+                    in their particular fields. Their comments will then be sent on to us so that we
+                    may make whatever changes are necessary.</p>
+                <p>I am writing you to ask if you would care to join our Board.</p>
+                <p>Our fee for articles up to 1000 words is $ 10.; longer articles are remunerated
+                    at $ 15. each.</p>
+                <p>Would you please let me know at your earliest convenience whather we can count on
+                    your assistance.</p>
+                <closer><salute>Very truly yours,</salute><signed><hi rend="hand"><rs
+                                ref="#tillich_place_id__5152" type="person">Harold
+                            Friedlander</rs></hi><lb/><rs ref="#tillich_place_id__5152"
+                            type="person">Harold Friedlander</rs><lb/>Managing Editor<note type="ea"
+                            >Am oberen Blattrand steht maschinenschriftlich: <q>Have answered that
+                                he will receive a delayed reply from you</q>.</note></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

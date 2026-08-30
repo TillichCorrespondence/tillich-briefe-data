@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10910">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Siegfried Marck an Paul Tillich <lb/>vom 11. Februar 1946</title>
+                <author ref="#tillich_person_id__1262">Siegfried Marck</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/164(12)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1262"> Siegfried Marck</persName>
+                    <placeName ref="#tillich_place_id__105">Chicago, Illinois</placeName>
+                    <date when="1946-02-11">11.02.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-06-16" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="top" type="letterhead" rend="hand">6100 Stony Island</fw>
+                    <dateline><rs ref="#tillich_place_id__105" type="place">Chicago</rs> 37 <date
+                            when="1946-02-11">11/2 46</date></dateline><salute>Lieber <rs
+                            ref="#tillich_person_id__1928" type="person">Herr
+                    Tillich</rs></salute></opener>
+                <p>Nach unserer neulichen Unterhaltung habe ich gleich an <rs
+                        ref="#tillich_person_id__3324" type="person">Mr. Stevens</rs> geschrieben.
+                    Ich fragte ihn an 1) wegen des Dilemmas: Annahme des Mnskr durch einen Verlag
+                    vor der Übersetzung etc. 2) Ob er einen Übersetzer an der
+                        <unclear>Hand</unclear> habe oder ob ich mit jemandem in <rs
+                        ref="#tillich_place_id__105" type="place">Chicago</rs> (den ich erst suchen
+                    muß) etwas abmachen solle. Heute bestätigt mir seine Sekretärin den Brief und
+                    teilt mir zugleich mit, daß <rs ref="#tillich_person_id__3324" type="person"
+                        >St.</rs> mehrere Wochen an der Westküste in Geschäften ist und mir nach
+                    seiner Rückkehr antworten wird.</p>
+                <p>Was meinen Sie nun?<!-- evtl. Absatz --> Soll ich, da mir mehrere Wochen<pb n="2"
+                    /> weiterer Aufschub recht Leid sind, das Risiko einer Abmachung mit einem
+                    hiesigen Übersetzer (ev. unter Vorbehalt) eingehen oder die Wochen bis zur
+                    Rückkehr von <rs ref="#tillich_person_id__3324" type="person">St.</rs> nichts
+                    unternehmen?</p>
+                <p>Da Sie doch den <unclear>unmittelbaren</unclear> Eindruck von der
+                        <unclear>Einstellung</unclear>
+                    <rs ref="#tillich_person_id__3324" type="person">St.</rs> haben, wäre mir Ihr
+                    Rat wertvoll.</p>
+                <p>Bei täglichem <unclear>Studieren</unclear> der N. Y. Times und dieser
+                        <unclear>konfusen</unclear> Welt (wirklich, die Alternative: blutige
+                    Klarheit und unblutig-krebsartige Verwirrung <unclear>kommt</unclear> immer mehr
+                    zum Vorschein in diesem 20.<!-- meint vielleicht 20. Jahrhundert -->) teufel ich
+                    bisweilen im Ehejoch der <q>Autonomie</q>, der ich aber – im Gegensatze zu anderen
+                    Feminina – immer die Treue hielt!</p>
+                <closer><salute>Mit freundlichen Grüßen</salute><signed>Ihr <rs
+                            ref="#tillich_person_id__1262" type="person">S.
+                    Marck</rs></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

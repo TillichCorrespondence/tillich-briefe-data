@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11081">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Luther A. Weigle<lb/>vom 9. Mai 1947</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/154 (60)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; adressiert: <q>Dean Luther A. Weigle, The
+                                Divinity School, Yale University, New Haven, Conn.</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <!--<placeName ref="#tillich_place_id__">New Haven, Connecticut</placeName>-->
+                    <date when="1947-05-09">09.05.1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__4958">Luther Allan Weigle</persName>
+                    <placeName ref="#tillich_place_id__770">New Haven, Conn</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-04-29" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><date when="1947-05-09">May 9, 1947</date></dateline><salute>Dear <rs
+                            ref="#tillich_person_id__4958" type="person">Dean Weigle</rs>:</salute>
+                </opener>
+                <p>I have known <rs ref="#tillich_person_id__4959" type="person">Mr. Charles Libby
+                        Ives</rs> for the time he was studying in Union Theological Seminary. He is
+                    a very attractive and genial young man who was eagerly interested in theological
+                    and philosophical problems. He belonged to a group of students who dealt with
+                    difficult questions of the relationship between physics and religion.</p>
+                <p>His B. D. thesis dealing with the theology of <rs ref="#tillich_person_id__1382"
+                        type="person">Nestorius</rs> received an A-. Unfortunately I do not know
+                    much about the work he has done since his graduation from Union Theological
+                    Seminary.</p>
+                <closer>
+                    <salute>Very sincerely yours,</salute>
+                    <signed>
+                        <rs ref="#tillich_person_id__1928" type="person">Prof. Paul
+                        Tillich</rs></signed>
+                </closer>
+
+            </div>
+        </body>
+    </text>
+</TEI>

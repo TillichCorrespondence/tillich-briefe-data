@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11226">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Kurt Leese
+               <lb/>vom 17. September 1948 </title>
+            <author ref="#tillich_person_id__1154">Kurt Leese</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 160(?)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1154">Kurt Leese</persName>
+               <date when="1948-09-17">17.09.1948</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-04-26">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1948-09-17">17. Septbr. 1948.</date></dateline>
+               <salute>Mein lieber <rs ref="#tillich_person_id__1154" type="person"
+                  >Kurt</rs>!</salute>
+            </opener>
+            <p>Diese Tage auf dem Ozean sind – trotz 40 Fuss hohen Hurrikan-Wellen, durch die wir
+               wie durch eine Hügellandschaft gefahren sind – die ersten ruhigen seit dem 12.<hi
+                  rend="above">ten</hi> Mai! Ich habe in meinem Tagebuch festgestellt, dass ich als
+               mit Sicherheit zu zählen in weniger als drei Monaten 94 Vortragsstunden gehabt habe,
+               an 19 <pb n="2"/> verschiedenen Orten (mit den zahllosen Fahrten dazwischen), und
+               dass ich persönliche Gespräche und sonstige Begegnungen mit 357 Menschen gehabt habe;
+               jeder einzelne bedeutete etwas für mich und trug zu dem Strom bei, der in <rs
+                  rend="#tillich_place_id__122" type="place">Deutschland</rs> in mich
+               hereingeflossen ist. Eine der schönsten Perioden war die Hamburger. (Am aufregendsten
+               freilich war <rs rend="#tillich_place_id__37" type="place">Berlin</rs>!) und für sie
+               danke ich Dir ganz besonders. Du hast das Wichtigste, den Universitätsvortrag
+               arrangiert, und wir haben viele schö-<pb n="3"/>ne und einige phantastische Stunden
+               miteinander gehabt. Ich bedaure nur, dass der Frankfurter Kongress nicht zu Stande
+               kam. Dort hätten wir auch noch zusammen gegen die tyrannische Neu-Orthodoxie kämpfen
+               können, die mich wie Dich ausgeschlossen hat. Mir ist das was mich betrifft erst
+               allmählig und endgültig erst in <rs ref="#tillich_place_id__12" type="place"
+                  >Amsterdam</rs> klar geworden. Jemand <pb n="4"/> sehr Wichtiges, der dies
+               durchaus missbilligte, sagte mir, dass die Struktur meines Denkens so wäre, dass man
+               mich ablehnte, unbewusst, ohne mich auch nur zu hören, wie man es schon lange mit Dir
+               getan hätte. Dafür wurdest Du auf den Mainzer Philosophen-Kongress mit grosser
+               Zustimmung zitiert, und ich hatte dort meinen grössten Erfolg! Ich wünschte jetzt
+               direkt, ich könnte auf Eurem Kongress dasein und deutlich reden.</p>
+            <closer>
+               <salute>Herzlichen Gruss an <rs ref="#tillich_person_id__2885" type="person">Minna</rs>! <lb/>Sehr herzlich</salute>
+               <signed>Dein <rs ref="#tillich_person_id__1928" type="person"
+                  >Paulus</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

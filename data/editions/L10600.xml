@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10600">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Lewis F. Gittler
+               <lb/>vom 7. Januar 1943 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__143">Frankfurt a.M.</settlement>
+                  <institution>Goethe-Universität Frankfurt</institution>
+                  <repository>Universitätsbibliothek Frankfurt</repository>
+                  <collection>UBA Ffm</collection>
+                  <idno>Na 1<!-- Johann Wolfgang Goethe-Universität, Universitätsbibliothek J. C. Senckenberg, Archivzentrum: UBA Ffm Na 1 25 / (Na 1, 53 [174] 162r)  --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1943-01-05">05.01.1943</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__683">Lewis F. Gittler</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-01-16">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1943-01-07">January 7. 1943</date></dateline><lb/>
+               <rs ref="#tillich_person_id__683" type="person">Mr. Lewis F. Gittler</rs><lb/>
+               Office of War Information<lb/>
+               224 West 57 Str.<lb/>
+               <rs ref="#tillich_place_id__319" type="place">New York City</rs>
+               <salute>Dear <rs ref="#tillich_person_id__683" type="person">Mr. Gittler</rs>:</salute>
+            </opener>
+            <p>I have received your <rs ref="#L10598" type="letter">letter of January 5th</rs>. <rs ref="#tillich_person_id__3339" type="person">My
+               secretary</rs> has asked <rs ref="#" type="person">Mr.
+                  Nathan</rs><!-- unklar wer gemeint ist, vielleicht Robert R. Nathan --> about a pay for my radio speech because
+               <rs ref="tillich_person_id__1785" type="person">Mr. Siemsen</rs> was almost indignant when I doubted that I could ask for a
+               renumeration. You will understand that I am not interested in losing two hours of my
+               working time by registering $5- in order to receive $5 which may arrive after 2
+               month.</p>
+            <closer>
+               <salute>Very sincerely yours</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person"
+                  >Paul Tillich</rs></signed><lb/>
+               Professor at Union Theological Seminary. <rs ref="#tillich_place_id__319" type="place">New York City</rs>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

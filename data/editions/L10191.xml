@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10191">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Karl Ludwig Schmidt an Paul Tillich
+               <lb/>vom 26. April 1935</title>
+            <author ref="#">Karl Ludwig Schmidt</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 182(30)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#">Karl Ludwig Schmidt</persName>
+               <date when="1935-04-26">26.04.1935</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-08-03">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>Liechtensteig, <rs ref="#" type="place">St. Gallen</rs><date when="1935-04-26">26.4.35</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Freund
+                  Tillich</rs>,</salute>
+            </opener>
+            <p>gerade wollte ich <rs ref="#" type="person">Ihrer Frau</rs> schreiben und ihr für ihren
+            freundlichen Brief danken und ihr mitteilen, daß ich nun leider auch in der Mai-Nummer der
+            ThBl Ihre Antwort an <rs>Hirsch</rs> noch nicht bringen kann – da kommt nun soeben Ihre
+            Briefsendung vom 15.4. <note type="ea">liegt nicht vor</note> Ich habe Ihr Makr. stante pede
+            druckfertig und an unsere Druckerei geschickt. Mit knapper Not werde ich&apos;s einrichten,, daß
+            Ihre Auführungen in unserer Mai-Nummer und zwat an ihrer  Spitze erscheinen werden.</p>
+            <closer>
+               <salute>Lebe Wohl!</salute>
+               <signed><rs ref="#" type="person"
+                  ></rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10518">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Raymond Fosdick
+               <lb/>vom 20. Februar 1941 </title>
+            <author ref="#tillich_person_id__1928"> Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__143">Frankfurt a.M.</settlement>
+                  <institution>Goethe-Universität Frankfurt</institution>
+                  <repository>Universitätsbibliothek Frankfurt</repository>
+                  <collection>UBA Ffm</collection>
+                  <idno>Na 1<!-- Johann Wolfgang Goethe-Universität, Universitätsbibliothek J. C. Senckenberg, Archivzentrum, Nachlass Horkheimer: UBA Ffm Bestand Na 1 Nr. 52  --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1941-02-20">20.02.1941</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__605">Raymond Fosdick</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-11-23">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1941-02-20">February <hi rend="hand"><hi rend="above"
+                           >th</hi></hi> 1941.</date></dateline><lb/>
+               <rs ref="#tillich_person_id__605" type="person">Mr. Raymond B. Fosdick</rs><lb/> The
+               Rockefeller Foundation<lb/> 49 West 49th Street<lb/>
+               <rs ref="#tillich_place_id__319" type="place">New York City</rs>
+               <salute>Dear <rs ref="#tillich_person_id__605" type="person">Mr.
+                  Fosdick</rs>,</salute>
+            </opener>
+            <p>You have, I suppose, received the letter of my colleague, <rs
+                  ref="#tillich_person_id__4199" type="person">Dr. Harry Emerson Fosdick</rs>,
+               concerning the project of the International Institute of Social Research at Colombia
+               University.</p>
+            <p>Since, for the reasons given in my letter<note type="ea">liegt nicht vor</note> to <rs ref="#tillich_person_id__4199" type="person">Dr. Fosdick</rs>,
+            this project is very close to my heart and there may be some points which could be clarified
+            by a personal conversation, I should like very much to speak to you about the whole problem
+            at a time convenient to you.</p><closer>
+               <salute>Very sincerely yours,</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person"
+                  >Paul Tillich</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

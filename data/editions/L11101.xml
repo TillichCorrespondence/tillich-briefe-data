@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11101">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Leo Löwenthal an Paul Tillich<lb/>vom 13. August 1947</title>
+                <author ref="#tillich_person_id__1213">Leo Löwenthal</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <!-- Nachlass Löwenthal -->
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; Unterschrift eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1213">Leo Löwenthal</persName>
+                    <placeName ref="#tillich_place_id__319">New York</placeName>
+                    <date when="1947-08-13">13.08.1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-05-12" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><date when="1947-08-13">August 13,
+                        1947</date>.</dateline><salute>Lieber <rs ref="#tillich_person_id__1928"
+                            type="person">Paulus</rs>!</salute>
+                </opener>
+                <p>Gestern erhielt ich einen Brief von <rs ref="#tillich_person_id__931"
+                        type="person">Max</rs>, in dem er sich sehr traurig darüber ausspricht, dass
+                    er von Ihnen gar nichts gehört hat. Er habe Ihnen doch geschrieben und ausserdem
+                    sein Buch geschickt.<note type="ea">Vgl. den <rs type="letter" ref="L11085"
+                            >Brief von Max Horkheimer an Paul Tillich vom 28. Mai 1947</rs>.</note>
+                    Natürlich ist er sehr eager zu hören, was Sie über die <rs type="work"
+                        ref="#tillich__CB3JAUHT">Eclipse</rs> zu sagen haben. Wollen Sie ihm nicht
+                    eine Zeile schreiben, falls es Ihre Zeit erlaubt?</p>
+                <p>Wie ich Sie kenne, werden Sie seine Adresse nicht bei der Hand haben. Ich teile
+                    Sie Ihnen deshalb mit:<lb/>13524 D&apos;Este Drive<lb/><rs
+                        ref="#tillich_place_id__851" type="place">Pacific Palisades</rs>, <rs
+                        ref="#tillich_place_id__848" type="place">Cal.</rs></p>
+                <p>Nun habe ich noch eine grosse Bitte. Ich weiss, dass die Oxford University Press
+                    (Adresse: 114 Fifth Avenue, <rs ref="#tillich_place_id__319" type="place">N. Y.
+                        C.</rs>) grossen Wert darauf legt, Briefe von Gelehrten über das Buch von
+                        <rs ref="#tillich_person_id__931" type="person">Max</rs> zu bekommen. Sie
+                    würden mir einen grossen Dienst erweisen, wenn Sie dorthin einige nette Zeilen
+                    schrieben, falls es Ihnen entsprechend ums Herz ist.</p>
+                <p>Ich warte auf Ihre Antwort wegen September.<note type="ea">Vgl. <rs type="letter"
+                            ref="L11102">Brief von Paul Tillich an Leo Löwenthal vom 13. August
+                            1947</rs>.</note></p>
+                <closer><salute>Herzlichst</salute><signed><hi rend="hand"><rs
+                                ref="#tillich_person_id__1213" type="person"
+                    >L.</rs></hi></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

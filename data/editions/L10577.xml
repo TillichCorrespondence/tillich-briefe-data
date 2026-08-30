@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10577">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Davies an Paul Tillich
+               <lb/>vom 17. Juni 1942 </title>
+            <author ref="#tillich_person_id__4600">Davies</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 135(24)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich mit handschriftlichen Einfügungen</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__4600">Davies</persName>
+               <date when="1942-06-17">17.06.1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-12-08">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>3, St. John&apos;s House,<lb/>
+               <hi rend="s">THORNEY HOUSE</hi><lb/> SMITH SQUARE<lb/> WESTMINSTER<lb/>
+               <rs ref="#tillich_place_id__271" type="place"> LONDON.S.W.J.</rs><lb/><dateline><date
+                     when="1942-06-17">June 17th. 1942.</date></dateline>
+               <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Dr.
+                  Tillich</rs>,</salute>
+            </opener>
+            <p>I have just read with great interest your articles which appeared in the
+                  <q>Protestant</q>, and in the main I find myself in general agreement with the
+               views you have so clearly expressed. I am not quite sure, however, whether you are in
+               favour of a union of the English-speaking peoples as well as the federation of
+               Europe, or whether you want <rs ref="#tillich_place_id__1236" type="place">Great Britain</rs> to be one of
+               the members of the European federation.</p>
+            <p>I can&apos;t help feeling that in order to bring the <rs ref="#tillich_place_id__684" type="place">United
+               States</rs> permanently into a close association with <rs ref="#tillich_place_id__736" type="place"
+                  >Europe</rs>, the best approach would be through a World federation, of which the
+               English-speaking peoples, the <rs ref="#tillich_place_id__1352" type="place">Soviet Union</rs>, a
+               Far-Eastern federation, and a United States of Europe would be constituent
+               members.</p>
+            <p>I am taking the liberty of sending you <add place="superlinear"><hi rend="hand"
+                     >(under separate cover)</hi></add> a book which has recently been published in
+               which I have endeavoured to <pb n="2"/> outline this proposal. I imagine that our
+               views are more or less in common, and I shall be extremely grateful if you would send
+               me your comments and criticisms after you have read the book.</p>
+            <p>I must apologise for inflicting myself upon you without any formal introduction.</p><closer>
+               <salute>Believe me to be,<lb/> Yours very sincerely,</salute>
+               <signed><rs ref="#tillich_person_id__4600" type="person"><hi rend="hand"
+                     >Davies.</hi></rs></signed>
+               <rs ref="#tillich_person_id__1928" type="person">Dr.P. Tillich</rs>,<lb/> Union
+               Theological Seminary,<lb/> 3041,<lb/> Broadway, <lb/>
+               <rs ref="#tillich_place_id__319" type="place">New York</rs>. </closer>
+            <postscript><p>P.S. I am also enclosing some particulars of the New Commonwealth Society which you may find of
+               interest. <rs ref="#tillich_person_id__4600" type="person"><hi rend="hand">D.</hi></rs></p></postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11209">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Karola Bloch an Paul Tillich
+               <lb/>vom 7. August 1948 </title>
+            <author ref="#tillich_person_id__4932">Karola Bloch</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 125(24)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__4932">Karola Bloch</persName>
+               <date when="1948-08-07">07.08.1948</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-04-18">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>69 Vassal Lane<lb/><rs ref="#tillich_place_id__82" type="place">Cambrige</rs>
+               38, Mass.<lb/><dateline><date when="1948-08-07">7. en August 1948</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr
+                  Paulus</rs>!</salute>
+            </opener>
+            <p>Neulich kam ein <hi rend="underline">Couvert</hi> von Dir an und ich war nicht wenig
+               erstaunt, dass Du nicht einmal einen Gruss geschickt hast. Auf die Gefahr hin dass Du
+               auch jetzt kein Lebenszeichen von Dir geben wirst, will ich Dich doch bitten uns
+               wenigstens kurz über Deine Eindrücke in <rs ref="#tillich_place_id__122" type="place"
+                  >Deutschland</rs> zu berichten.</p>
+            <p>Wie Du weisst sind wir im Begriff dort hinzugehen. Ich persönlich habe keine zu
+               grossen Bedenken wegen <rs ref="#tillich_person_id__228" type="person">Ernst</rs> und
+               mir. Mache mir aber grosse Sorgen wegen unserem <rs ref="#tillich_person_id__4940"
+                  type="person">Sohn</rs>, der jetzt 11 Jahre alt wird. Ich habe Angst nicht nur
+               wegen der schlechten Lebens Bedingungen, aber wegen der menschlichen und seelischen
+               Atmosphäre, die vielleicht sehr <pb n="2"/> schwierig sein wird für ein Kind, das aus
+                  <rs ref="#tillich_place_id__684" type="place">Amerika</rs> kommt.</p>
+            <p>Ich glaube, dass Deine Meinung von Bedeutung sein kann. <del rend="s">, die Du
+                  aus</del> Würdest Du z.B. eher raten, dass <rs ref="#tillich_person_id__228"
+                  type="person">Ernst</rs> zunächst alleine vorfährt und ich <del rend="s"
+                  >nach</del>komme <del rend="s">?</del> mit dem <rs ref="#tillich_person_id__4940" type="person"
+                  >Sohn</rs> nach, wenn die Bedingungen normaler geworden sind?</p>
+            <p>Bist Du auch in die russische Zone geraten?</p>
+            <p>Bitte schreibe uns, wenn Dir die Zeit erlaubt. Für uns haben Deine Eindrücke kein rein akademisches
+            Interesse, sondern gehen ins Zentrum.</p>
+            <closer>
+               <salute>Mit herzlichen Grüßen<lb/>Deine</salute>
+               <signed><rs ref="#tillich_person_id__4932" type="person"
+                  >Karola</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11067">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von John D. Barrett an Paul Tillich<lb/>vom 3. April 1947</title>
+                <author ref="#tillich_person_id__4954">John David Barrett</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/125 (31)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; Unterschrift eigenhändig; adressiert:
+                                <q>Professor Paul Tillich, Union Theological Seminary, Broadway at
+                                120th Street, New York, N. Y.</q>; Briefkopf: <q>BOLLINGEN SERIES,
+                                41 Washington Square South, New York 12, New York</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__4954">John David Barrett</persName>
+                    <date when="1947-04-03">03.04.1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__319">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-04-26" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><date when="1947-04-03">April 3, 1947</date></dateline><salute>Dear
+                            <rs ref="#tillich_person_id__1928" type="person">Professor
+                        Tillich</rs>;</salute>
+                </opener>
+                <p><rs ref="L11055" type="letter">Your letter in support of</rs>
+                    <rs ref="#tillich_person_id__228" type="person">Dr. Ernest Bloch</rs>&apos;s
+                    application for grant in aid from Bollingen Foundation has been received. Thank
+                    you for your valuable estimate of <rs ref="#tillich_person_id__228"
+                        type="person">Dr. Bloch</rs>&apos;s qualifications. I wish to assure you, in
+                    behalf of the Trustees of the Foundation, that your recommendation will receive
+                    the most careful consideration.</p>
+                <closer>
+                    <salute>Sincerely yours,</salute>
+                    <signed>
+                        <hi rend="hand"><rs ref="#tillich_person_id__4954" type="person">John D.
+                                Barrett</rs></hi><lb/><rs ref="#tillich_person_id__4954"
+                            type="person">John D. Barrett</rs><lb/>Editor</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

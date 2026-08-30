@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10938">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paula Elkisch an Paul Tillich <lb/>vom 22. April 1946</title>
+                <author ref="#tillich_person_id__3470">Paula Elkisch</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/138(43)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__3470">Paula Elkisch</persName>
+                    <date when="1946-04-22">22.04.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-07-07" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="top" type="letterhead">PAULA ELKISCH, PH. D.</fw><dateline><date
+                            when="1946-04-22">April 22. 1946</date></dateline>
+                    <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Dr.
+                        Tillich</rs>:</salute></opener>
+                <p>I hope you agree with the enclosed letter.<note type="ea">Vermutlich ist eine
+                        Vorlage für den <rs ref="#L10939" type="letter">Brief von Paul Tillich an
+                            Elined Prys-Kotschnig vom 22. April 1946</rs> gemeint.</note> I had a
+                    hard time to write it. Please, consider carefully whether it is all right. I
+                    have been wondering whether you might mention that you have my <q>Education and
+                        Experience Record</q> (I enclose a copy of it, too) from which you got all
+                    the pertinent information. However, if you feel that you should mention this,
+                    the letter would have to be rewritten, I am afraid. Well, you know best how to
+                    handle this wisely. Please, keep in mind that, since I shall work in <rs
+                        ref="#tillich_place_id__747" type="place">Philadelphia</rs> in a group where
+                        <rs ref="#tillich_person_id__3469" type="person">Mrs. K.</rs> is well known
+                    and where she certainly has quite an influence, this letter <hi rend="u">is</hi>
+                    important, it will set the <q>stage</q> for me.</p>
+                <p>I called your office this morning for I thought I would come personally and bring
+                    the letter for you to sign it. Unfortunately you are not in your office today,
+                    so I send it all by mail. In case you should decide to change the letter in some
+                    way or other, would you kindly call me tomorrow morning in my office, early
+                    enough, so that I may be able to come to you between 12 and 1 p.m. Thank you
+                    ever so much for this great help.</p>
+                <p>I have read your sermon<!-- nicht ermittelt --> – breathlessly. Would it be
+                    possible to get a few more copies? I would be very grateful.</p>
+                <closer><salute>As ever,</salute><signed><rs ref="#tillich_person_id__3470"
+                            type="person">Paula Elkisch</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

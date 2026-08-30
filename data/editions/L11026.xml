@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11026">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Caroline Whiting an Paul Tillich <lb/>vom 10. Dezember 1946</title>
+                <author ref="#tillich_person_id__4825">Caroline Whiting</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__630">Princeton, NJ</settlement>
+                        <institution>Princeton University</institution>
+                        <repository>Princeton Theological Seminary. Library. Special
+                            Collections</repository>
+                        <collection>The Wilhelm and Marion H. Pauck papers, SCM 226.</collection>
+                        <idno>Box 44
+                            (6)<!-- laut Excel-Liste, in Pauck Papers ist die Tillich Korrespondenz von 1943–1949 in Folder 5 --></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; Unterschrift eigenhändig; Briefpapier von
+                                <q>The Nation</q>; adressiert an: <q>Dr. Paul Tillich, Union
+                                Theological Seminary, Broadway at 120th Street, New York 27, New
+                                York.</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__4825">Caroline Whiting</persName>
+                    <date when="1946-12-10">10.12.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__319">New York, N. Y.</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-04-10" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><date when="1946-12-10">December 10,
+                        1946</date></dateline><salute>Dear <rs type="person"
+                            ref="#tillich_person_id__1928">Dr. Tillich</rs>:</salute>
+                </opener>
+                <p>Your secretary telephoned me yesterday to say that you had not received payment
+                    for your review of <rs type="person" ref="#tillich_person_id__1683"
+                        >Santayana</rs>&apos;s <q><rs ref="#tillich__7WZP2N3A" type="work">The Idea
+                            of Christ in the Gospels</rs>.</q><note type="ea">Vgl. <rs type="person"
+                            ref="#tillich_person_id__1928">Paul Tillich</rs>: <rs
+                            ref="#tillich__SFFJNAI2" type="work">Christianity Without Paul</rs>
+                        (1946).</note></p>
+                <p>Your review appeared in our issue of <date when="1946-10-12">October 12</date>,
+                    and we have in our office your cancelled check for it. The check amounted to
+                    15.50$, and it has on it the stamp of the Union Theological Seminary besides
+                    your personal endorsement.</p>
+                <p>I hope that this information will straighten out your accounts.</p>
+                <closer>
+                    <salute>Sincerely yours,</salute>
+                    <signed><hi rend="hand"><rs type="person" ref="#tillich_person_id__4825"
+                                >Caroline Whiting</rs></hi><lb/> Assistant Literary Editor.</signed>
+                </closer>
+
+            </div>
+        </body>
+    </text>
+</TEI>

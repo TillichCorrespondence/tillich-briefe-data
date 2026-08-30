@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11165">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Walter Werner<lb/>vom 21. Juni 1948</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/203 (11)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__279">Marburg an der Lahn</placeName>
+                    <date when="1948-06-21">21.06.1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__2588">Walter Werner</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-05-24" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><rs ref="#tillich_person_id__1928" type="person">Prof. P.
+                            Tillich</rs><dateline><rs ref="#tillich_place_id__279" type="place"
+                            >Marburg</rs>, den <date when="1948-06-21">21. Juni
+                        1948</date><lb/>Hotel Ritter</dateline><salute>Lieber <rs
+                            ref="#tillich_person_id__2588" type="person">Walter</rs>!</salute>
+                </opener>
+                <p>Haben Sie herzlichen Dank für <rs ref="L11145" type="letter">Deinen Brief</rs>.
+                    Ich habe mit der Antwort so lange gezögert, weil meine Pläne ganz in der Luft
+                    schweben. Es scheint jetzt so zu sein, daß ich vom <date from="1948-06-24"
+                        to="1948-06-30">24. bis 30. Juni</date> das erste Mal und vom <date
+                        from="1948-07-05" to="1948-07-25">5. bis 25. Juli</date> das zweite Mal
+                    unterwegs bin. Für <rs ref="#tillich_place_id__236" type="place">Kassel</rs>
+                    käme also bis auf weiteres nur die Zeit um den <date notBefore="1948-07-02"
+                        notAfter="1948-07-03">2. oder 3. Juli</date> und dann wieder vom <date
+                        notBefore="1948-07-26">26. Juli</date> an in Frage. Ich habe die Dinge
+                    ausführlich mit <rs ref="#tillich_person_id__1696" type="person">Hermann
+                        Schafft</rs> besprochen und halte es für das Beste, daß Du mit ihm in
+                    Verbindung trittst und ihr einen gemeinsamen Plan ausarbeitet. Ich würde
+                    allerdings keinen politischen Vortrag halten, sondern etwa das Thema
+                    vorschlagen, das auch <rs ref="#tillich_person_id__1696" type="person">Hermann
+                        Schafft</rs> begünstigt: Über die Möglichkeit einer religiösen Kultur.</p>
+                <closer><salute>Herzlichen Dank für <rs ref="L11144" type="letter">Mutters Brief</rs> und
+                        hoffentlich auf Wiedersehen an einem der angegebenen
+                        Termine</salute><signed>Dein</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

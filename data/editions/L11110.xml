@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11110">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Robert Ulich an Paul Tillich <lb/>von September 1947</title>
+                <author ref="#tillich_person_id__1965">Robert Ulich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/194(56)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1965">Robert Ulich</persName>
+                    <placeName ref="#tillich_place_id__82">Cambridge, MA</placeName>
+                    <date when="1947-09">09.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-05-15" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><date when="1947-09">September, 1947</date></dateline>HARVARD
+                    UNIVERSITY<lb/>Graduate School of Education<lb/><rs ref="#tillich_place_id__82"
+                        type="place">Cambridge</rs> 38, <rs ref="#tillich_place_id__1445"
+                        type="place">Massachusetts</rs><salute>Dear <rs
+                            ref="#tillich_person_id__1928" type="person">Friend</rs>:</salute>
+                </opener>
+                <p>The grimmest aftermath of the war is that those who have survived in body are in
+                    so many instances broken in spirit. Especially is this true of people like
+                    ourselves, trained for intellectual pursuits, but unable like us to continue in
+                    the field of their choice and skill. The International Committee for Securing
+                    Employment to Refugee Professional Workers was organized a decade ago to assist
+                    such persons. Up to the end of 1946 aid had been given to 2.869 individuals.</p>
+                <p>The assistance is varied according to circumstance and is never in excess of the
+                    need. The tought is not to bring these persons to this country but to assist
+                    them where they are. Frequently a relatively small sum is enough to secure
+                    continuance in a profession, for it may be necessary only to secure the transfer
+                    of a student from a camp to a college, or to provide necessary instruments for a
+                    doctor or scientist. The scope of the committee is being enlarged in that aid
+                    will be extended to scholars and artists who do not belong strictly in the class
+                    of <q>refugee</q>, for so often those who have not been uprooted are
+                    nevertheless unable to carry on.</p>
+                <p>Funds for the continuation of this work are ever more difficult to secure. The
+                    committee is seeking, therefore, to enlist the help of a larger number of folk
+                    like ourselves, of modest income but deep concern for the rebuilding of the
+                    intellectual and professional life in the devastated lands. The hope is that a
+                    goodly number may see their way clear to contribute.</p>
+                <closer><salute>Sincerely yours</salute><signed><rs ref="#tillich_person_id__1965"
+                            type="person">Robert Ulich</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10512">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Alice Gregg an Paul Tillich
+               <lb/>vom 2. Januar 1941 </title>
+            <author ref="#tillich_person_id__4126"> Alice Gregg</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno><!-- Marburg --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__4126">Alice Gregg</persName>
+               <date when="1941-01-02">02.01.1941</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-11-20">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1941-01-02">January 2, 1941.</date></dateline>
+               <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Dr.
+                  Tillich</rs>,</salute>
+            </opener>
+            <p>As I am running downstairs to post an order for 30 copies of your WAR AIMS, I want to
+               take this opportunity to thank you for your courtesy in giving me the two copies, and
+               also to tell you how much I appreciate your INTERPRETATION OF HISTORY – such parts as
+               I have read! I only began it since returning from Christmas holidays.</p>
+            <p>I am going to see that quite a few people at Teachers College get copies – <rs
+                  ref="#tillich_person_id__4127" type="person">Dr. Goodwin Watson</rs> –(for whom I
+               happen to be doing this paper) – <rs ref="#tillich_person_id__4128" type="person">Dr.
+                  Ernest Johnson</rs> and a number of others. Also, some prominent Chinese leaders.
+               (As I am a missionary from <rs ref="#tillich_place_id__738" type="place"
+               >China</rs>.)</p>
+            <p>I am indeed grateful to my friend, <rs ref="#tillich_person_id__4129" type="person">Miss Scudder</rs>, for 
+            sending me this copy. (She despairs of converting me to Pacifism, however!)</p>
+            <closer>
+               <salute>Gratefully,</salute>
+               <signed><rs ref="#tillich_person_id__4126" type="person"
+                  ><hi rend="hand">Alice Gregg</hi></rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

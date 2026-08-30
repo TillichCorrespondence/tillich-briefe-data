@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10144">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Undatierter Brief von Paul Tillich an Hannah Tillich <lb/>vermutlich von 1935</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933-1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                        <idno>bMS 721/3(6)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date notBefore="1935-01-01" notAfter="1935-12-31">1935</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-06-24" who="EL">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline>Mittwoch früh – Abend.</dateline>
+                    <salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
+                        >Hannah</rs>!</salute>                </opener>
+                <p>Deine Postkarte ist verschwunden und das Paket nicht angekommen. Alle sagen, dass die Post sich keine Mühe gibt und nicht findig ist. Du musst also immer dafür sorgen, dass die Adresse gar nicht falsch gelesen werden <hi rend="u">kann</hi>. Und Pakete sagen sie müsste man <hi rend="u">immer</hi> 'Registered' schicken. Wir <del rend="s">werden nun</del> <add place="superlinear">können nicht</add> von hier reklamieren. <del rend="s">und</del> Du musst von <rs type="place" ref="#tillich_place_id__319">New York</rs> reklamieren, dabei natürlich angeben, dass Du eine falsche Adresse geschrieben hast. Vielleicht kriegen wir es noch, viel Hoffnung ist wohl nicht mehr. Gib genau an, was drin war! – Übrigens ist auch ein Brief<note type="ea">Nicht überliefert.</note> von Frau <rs type="person" ref="#tillich_person_id__2816">Stern</rs> aus <rs type="place" ref="#tillich_place_id__754">Detroit</rs> verloren gegangen. Sie laden mich mit Professor <rs type="person" ref="#tillich_person_id__3348">Laun</rs> <add place="superlinear">(<unclear>Campen!</unclear>)</add> zusammen zum Weekend Mitte Februar nach <rs type="place" ref="#tillich_place_id__754">Detroit</rs>, dass ich noch nicht kenne. Er hat die Fordwerke mit den <rs type="person" ref="#tillich_person_id__1618">Rivera</rs>-Murals, die in Deinem <rs type="person" ref="#tillich_person_id__1618">Rivera</rs>-Buch abge<pb n="2"/>bildet sind. Ich freue mich sehr darauf. Der Gedanke, da unten zu bleiben und etwa nach Florida zu fahren, ist sehr verlockend, scheitert aber am Geld. Sobald ich <rs type="person" ref="#tillich_person_id__1464">Pauck</rs>s Auto verlasse, muss ich die hohen Fahrpreise bezahlen, und dann lohnt es das Ganze nicht sehr. Aber vielleicht kann ich über <rs type="place" ref="#tillich_place_id__827">Baltimore</rs>-<rs type="place" ref="#tillich_place_id__554">Washington</rs> zurückfahren, ohne dass es mehr kostet als von hier. <rs type="person" ref="#tillich_person_id__1464">Pauck</rs> selbst ist an die Zeit gebunden.</p>
+                <p>Hier ist der frühere Berliner Nationalökonom <rs type="person" ref="#tillich_person_id__3448">Polgi</rs>, den ich von <rs type="place" ref="#tillich_place_id__122">Deutschland</rs> her flüchtig kannte. Seine <rs type="person" ref="#tillich_person_id__3449">Frau</rs> ist russische Emigrantin, ihrer Gesinnung nach aber links. Ich erzählte von der Idee, nach <rs type="place" ref="#tillich_place_id__376">Russland</rs> zu fahren. Sie berichtete von der Fahrt eines ihrer Brüder nach <rs type="place" ref="#tillich_place_id__376">Russland</rs>, dass es irrsinnig teuer sei. Ich fürchte, dass es daran vorläufig scheitern wird.</p>
+                <p>Mich macht das kalte Wetter müde. Die im Sommer angesammelte Arbeitskraft erschöpft sich allmählich. Dabei nehmen die Aufgaben immer zu. Aber man ist ja schon durch manchen Vortragswinter durchgekommen. So hoffentlich auch durch diesen.<pb n="3"/></p>
+                <p>Die Wartetage waren schrecklich. Dienstag Nachmittag um 3 die letzte Post, in der <del rend="s">St</del> stand, dass Du Dich schlecht fühlst; dann nichts mehr bis Montag um 3. Ich nahm sicher an, dass Du in der Klinik bist. Dann war mein erster Anruf vergeblich, was mir als Bestätigung schien. Leider war, als der Anruf dann endlich kam, ein Professor bei mir im Zimmer, so dass ich nicht lieb mit Dir reden konnte wie ich wollte. Aber es war so schön, Deine Stimme zu hören. Schreib doch immer Donnerstag Abend. Dann ist Aussicht, dass es Sonnabend noch ankommt. Freitag früh ist wohl schon zu spät: – Heut viele Drucksachen von Dir aber kein Wort dazu. Du darfst übrigens Geschriebenes und Getipptes wie als Drucksache schicken. ICh habe heut für die Briefsendung 36ct. Strafe zahlen müssen.</p>
+                <p>Es ist irrsinnig kalt. <rs type="person" ref="#tillich_person_id__1464">Pauck</rs> ist erkältet, liegt im Bett. Ich komme eben von einem Besuch bei Ihm. Die <rs type="work" ref="#tillich__AN8UJ3SQ">Selbst-Biographie</rs> ist nun endgültig geworden. Eigentlich passt sie genau in die Art meiner gegenwärtigen Reflexion. <pb n="4"/>Erinnerst Du Dich, dass ich in <unclear>???</unclear> stark das Bedürfnis hatte, so etwas zu schreiben? Nun hat der Brief an <rs type="person" ref="#tillich_person_id__904">Hirsch</rs><!--Brief--> schon viel davon geleistet. Der andere Teil ist für die Amerikaner. Die Frage ist nur woher die Zeit und fast noch mehr: Woher die Arbeitskraft?</p>
+                <p>Dein Brief<note type="ea">Nicht überliefert.</note> war so lieb; ich war so enttäuscht, dass in den beiden Drucksachensendungen nichts von Dir stand. Ich liebe jedes Wort von Dir ... und möchte auch mal eins von <rs type="person" ref="#tillich_person_id__570">Erdmuthe</rs> hören. –– Die Wäsche funktioniert regelmässig und tadellos. Die Anzüge sollen nächste Woche dran kommen. All das funktioniert hier ganz gut.</p>
+                <p>Was Du über das Entweder-Oder unserer Existenz sagst, ist ja dem merkwürdig nahe, was ich in meinem Brief an <rs type="person" ref="#tillich_person_id__1647">Rosenstock</rs><!--Brief--> entwickelt habe; nur dass ich dort absichtlich eine rein theologische Terminologie gebrauche. … Ich glaube nicht dass der 'Zeuge' auf Schönheit verzichten muss, da ja die Schönheit selbst Zeugnis der Wahrheit ist. Denk an die Katakombenbilder und an die altrömischen Kirchen, die von 'Blutzeugen' geschaffen sind; denk an die <del rend="s">Murals</del> Wandbilder von <rs type="person" ref="#tillich_person_id__1618">Rivera</rs>, vielleicht das einzig vollkommen Schöne in <rs type="place" ref="#tillich_place_id__319">New York</rs>!</p>
+                <closer>
+                    <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

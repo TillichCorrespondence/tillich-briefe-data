@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10294">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Fritz Medicus<lb/>vom 8. Juli 1936</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3229-6246">Ole Soldatow</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__480">Zürich</settlement>
+                  <institution>ETH Zürich</institution>
+                  <repository>ETH-Bibliothek Zürich</repository>
+                  <collection><!-- bitte ergänzen sobald möglich--></collection>
+                  <idno>Hs 1377:707</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1936-07-08">08.07.1936</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1291">Fritz Medicus</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="OS" when="2025-06-11">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>St. Valentino alla Venta, Prov. <rs ref="#tillich_place_id__813"
+                     type="place">Bolzano</rs>, <rs ref="#tillich_place_id__219" type="place"
+                     >Italia</rs><date when="1936-07-08">8.7.1936</date></dateline>
+               <salute>Lieber Freund <rs ref="#tillich_person_id__1291" type="person"
+                  >Medicus</rs>!</salute>
+            </opener>
+            <p>Inzwischen habe ich meine Schwester getroffen und es hat sich gezeigt, daß für einen
+               Besuch bei Ihnen aber leider kein Raum mehr bleibt. Außerdem muß ich noch um sehr
+               nahe Freunde zu sehen (die ich sonst überhaupt nicht sehen würde) bis <rs
+                  ref="#tillich_place_id__813" type="place">Bolzano</rs> oder <rs
+                  ref="#tillich_place_id__814" type="place">Cortina</rs> fahren. Es tut mir sehr
+               leid, denn ich hätte gern noch einige ruhige Tage zwischen Natur und Philosophie, mit
+               Ihnen gehabt. Herzlichen Dank für die Zusendungen der Zeitungen, der recht
+               anständigen Kritik (die allerdings im Schluß im Bezug auf Sozialismus verstümmelt
+               war, offenbar redaktionelle Streichung) und für Ihren schönen Artikel über
+               Verantwortlichkeit. Dabei fällt mir übrigens ein, daß ich Ihnen, dlaube ich noch
+               nicht, für die Zusendung des Parazelsus-Aufsatzes gedankt habe. Er war mir eine große
+               Freude, führt er doch in die Nähe meines alten Freundes Schelling.</p>
+            <p>Nun vor allem meinen sehr, sehr herzlichen Dank Ihnen und Ihrer Frau für die Tage in
+               Ihrem Haus, die Ihnen hoffentlich nicht allzu viel Unruhe gebracht haben. Sie sind
+               für mich so vollkommen, das Symbol einer besseren Zeit und einer anständigeren,
+               menschlichen Haltung als sie jetzt zu finden ist, daß mir das Zusammensein mit Ihnen
+               immer Freude und Stärkung zugleich ist.</p>
+            <p>In dem Gefühl tiefer Verbundenheit und mit sehr herzlichem Dank, zugleich in der
+               Hoffnung auf ein nicht allzu fernes Wiedersehen bin ich</p>
+            <closer>Ihr <salute><rs ref="#tillich_person_id__1928" type="person">Paul
+                  Tillich</rs></salute>
+            </closer>
+            <postscript>
+               <p>P.S. Für etwaige Mitteilungen bleibt die Adresse immer: c.o. <rs
+                     ref="#tillich_person_id__231" type="person">Blum</rs>, <rs
+                     ref="#tillich_place_id__55" type="place">Bern</rs>, Carl Spittelerstraße
+                  28.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

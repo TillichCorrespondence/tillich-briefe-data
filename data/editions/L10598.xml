@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10598">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Lewis F. Gittler an Paul Tillich
+               <lb/>vom 5. Januar 1943 </title>
+            <author ref="#tillich_person_id__683">Lewis F. Gittler</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__143">Frankfurt a.M.</settlement>
+                  <institution>Goethe-Universität Frankfurt</institution>
+                  <repository>Universitätsbibliothek Frankfurt</repository>
+                  <collection>UBA Ffm</collection>
+                  <idno>Na 1<!-- Johann Wolfgang Goethe-Universität, Universitätsbibliothek J. C. Senckenberg, Archivzentrum: UBA Ffm Bestand Na 1 Nr. 53 oder Na 1 25 / (Na 1, 53 [175] 163r)  --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__683">Lewis F. Gittler</persName>
+               <date when="1943-01-05">05.01.1943</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-12-14">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1943-01-05">Jauary 5, 1943.</date></dateline><lb/>
+               <rs ref="#tillich_person_id__1928" type="person">Professor Paul Tillich</rs><lb/>
+               Union Theological Seminary<lb/> Broadway &amp; 120 Street<lb/>
+               <rs ref="#" type="place">New York, N.Y.</rs>
+               <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Professor
+                  Tillich</rs>:</salute>
+            </opener>
+            <p>Referring to the telephone conversation your secretary had with our <rs ref="#"
+               type="person">Mr. Nathan</rs><!-- unklar wer gemeint ist, vielleicht Robert R. Nathan --> today, I would like to advise you that Special
+               Events broadcasts customarily are not paid for. They are considered a contribution to
+               the war effort.</p>
+            <p>There is, however, a possibility to compensate the speaker for expenses which he had
+               in order to prepare and record the talk. These expenses are being repaid on request
+               only. The approved rates vary from $5.- to $12.-.</p>
+            <p>We have requested your compensation from our agency, Short-Wave Research, but we must
+               ask you to register at Short-Wave Research, 730 Fifth Avenue, Room 1106. You can
+               register there at any time at your convenience. After you registered, the check will
+               be mailed to you within a period from several weeks to approximately two month.</p>
+            
+            <closer>
+               <salute>Sincerely yours,</salute>
+               <signed><rs ref="#tillich_person_id__683" type="person"
+                  ><hi rend="hand">Lewis F. Gittler</hi> <lb/>Lewis F. Gittler</rs><lb/>Acting Chief<lb/>
+               Special Events Department</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

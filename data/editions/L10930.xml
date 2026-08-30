@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10930">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich (Sekretariat) an Edward Morris <lb/>vom 12. April
+                    1946</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich Sekretariat</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/167(62)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__319">New York</placeName>
+                    <!-- Kein Ort angegeben, aber <q>secretary</q> -->
+                    <date when="1946-04-12">12.04.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__3342">Edward Morris</persName>
+                    <placeName ref="#tillich_place_id__770">New Haven, Connecticut</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-06-30" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="top" type="adressline"><rs ref="#tillich_person_id__3342"
+                            type="person">Mr. Edward Morris</rs>
+                        <lb/>404 A Yale Station <lb/><rs ref="#tillich_place_id__770" type="place"
+                            >New Haven</rs>, <rs ref="#tillich_place_id__726" type="place"
+                            >Conn.</rs></fw><dateline><date when="1946-04-12">April 12,
+                        1946</date></dateline>
+                    <salute>Dear <rs ref="#tillich_person_id__3342" type="person">Mr.
+                        Morris</rs>:</salute></opener>
+                <p><rs ref="#tillich_person_id__1928" type="person">Prof. Tillich</rs> who is out of
+                    town for a few days asked me to answer your <rs ref="#L10929" type="letter"
+                        >letter of April 10th</rs>.</p>
+                <p>All evenings in April are taken but he would like to come to <rs
+                        ref="#tillich_place_id__770" type="place">New Haven</rs>
+                    <date from="1946-05-06" to="1946-05-12">the week of May 6th</date>. As soon as
+                    he is back he shall write to you again.</p>
+                <closer><salute>Yours sincerely,</salute><signed>Secretary to <rs
+                            ref="#tillich_person_id__1928" type="person">Prof. Tillich
+                        </rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10969">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Eva Maria Neumeyer <lb/>vom 13. August 1946</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/169(58)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1946-07-07">07.07.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__3513"> Eva Maria Neumeyer</persName>
+                    <placeName ref="#tillich_place_id__860">Oakland, CA</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-09-08" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="left" type="adressline"><rs ref="#tillich_person_id__3513"
+                            type="person">Mrs. Alfred Neumeyer</rs>
+                        <lb/>Friends of the Mills College Art Gallery<lb/><rs
+                            ref="#tillich_place_id__860" type="place">Oakland</rs> 13, <rs
+                            ref="#tillich_place_id__848" type="place">California</rs>.</fw>
+                    <dateline><date when="1946-08-13">August 13, 1946</date></dateline><salute>Dear
+                            <rs ref="#tillich_person_id__3513" type="person">Mrs.
+                        Neumeyer</rs>:</salute></opener>
+                <p>Many thanks for <rs ref="#L10952" type="letter">your letter</rs> and your
+                        manuscript.<note type="ea">Liegt nicht vor.</note> The text you have
+                    translated has meant very much to me about the period of the development of my
+                    own political thinking.<note type="ea">Gemeint ist: <rs
+                            ref="#tillich_person_id__1407" type="person">Novalis</rs>, <rs
+                            ref="#tillich__E8B2N8XT" type="work">Die Christenheit und
+                        Europa</rs>.</note> I of course would like to have an English translation
+                    available in this country. I suppose that in the meantime you have received a
+                    letter from a friend of mine, <rs ref="#tillich_person_id__752" type="person"
+                        >Dr. <sic>Hannah</sic> Hafkesbrink</rs>, Head of the German Department in
+                    Connecticut College. I believe that you should follow her advice. I myself am
+                    sorry to say that I do not see any way for such a publication after an attempt
+                    to give your manuscript to liberal Catholics which was without success.</p>
+                <p>I would like to come once more to <rs ref="#tillich_place_id__848" type="place"
+                        >California</rs> but I do not see how this can be done within a reasonable
+                    time.</p>
+                <closer><salute>With my best wishes</salute><salute>Yours sincerely, <lb/>Prof. <rs
+                            ref="#tillich_person_id__1928" type="person">Paul
+                    Tillich</rs></salute></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

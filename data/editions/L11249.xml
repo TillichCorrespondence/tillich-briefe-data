@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11249">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Carl August Mennicke an Paul Tillich<lb/>vom 19. Oktober
+                    1948</title>
+                <author ref="#tillich_person_id__1307">Carl August Mennicke</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/166 (6)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; Unterschrift eigenhändig; Briefkopf:
+                                <q>PROF. DR. C. A. MENNICKE, AMERSFOORT, Doodenweg B 20, Telefoon
+                                5020 – Postgiro 430207</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1307">Carl August Mennicke</persName>
+                    <!-- <placeName ref="#tillich_place_id__11">Amersfoort</placeName> -->
+                    <date when="1948-10-19">19.10.1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-06-13" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline>Den <date when="1948-10-19">19. Oktober
+                        1948.</date></dateline><salute>Mein lieber <rs
+                            ref="#tillich_person_id__1928" type="person">Paulus</rs>,</salute>
+                </opener>
+                <p>Du hast mir versprochen den hier eingeschlossenen Brief an <rs
+                        ref="#tillich_person_id__1253" type="person">Thomas Mann</rs> mit der
+                    richtigen Adresse zu versehen und sofort weiter zu schicken. Da ich noch Kredit
+                    bei Dir habe nehme ich mit gutem Gewissen auch Deine Portokasse in Anspruch.</p>
+                <p>Vor einigen Tagen bin ich bei einem mir bekannten Internisten gewesen um mich
+                    einmal gründlich untersuchen zu lassen. Er war im Allgemeinen doch ganz
+                    zufrieden, hat aber feststellen müssen, daß ich immer noch blutarm bin. Bis zu
+                    welchem Grade will er mir nach genauer Verarbeitung der Untersuchungsergebnisse
+                    noch berichten, und ich denke mir, daß er mir dann auch Heilungsvorschriften
+                    machen wird. Auch er meinte übrigens, daß eine längere Reise in die Berge die
+                    beste Kur wäre.</p>
+                <closer><salute>Mit sehr herzlichen Grüßen und freundlichem Dank für den Beweis der
+                        erbetenen Gefälligkeit,</salute><signed>Dein<lb/><hi rend="hand"><rs
+                                ref="#tillich_person_id__1307" type="person"
+                        >Carolus</rs></hi></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

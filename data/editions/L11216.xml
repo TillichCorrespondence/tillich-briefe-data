@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11216">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Wally P. Schultz an Paul Tillich
+               <lb/>vom 18. August 1948 </title>
+            <author ref="#tillich_person_id__1744">Wally P. Schultz</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 183(19)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1744">Wally P. Schultz</persName>
+               <date when="1948-08-18">18.08.1948</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-05-02">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><rs ref="#tillich_place_id__306" type="place">München</rs> 23,
+                  Kaulbachstr 91/111 <date when="1948-08-18">18. August 1948</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paulus</rs>,</salute>
+            </opener>
+            <p>wie gehts, wie stehts? Bist Du noch in <rs ref="#tillich_place_id__122" type="place"
+                  >Deutschland</rs> oder schon fort? Wenn noch in <rs ref="#tillich_place_id__122"
+                  type="place">Deutschl</rs> bitte ich Dich, mir eine ADresse anzugeben, an die ich
+               etwas <hi rend="underline">ganz</hi>
+               <hi rend="underline">winziges</hi> schicken könnte, was du mir für <rs
+                  ref="#tillich_person_id__931" type="person">Horkheimer</rs> mitnehmen solltest.
+               Aber natürlich nur, wenn es Dich nicht allzusehr belastet. Aber ich denke dass du
+               nichts von alledem, was du mitnimmst auch tragen musst und also es gleichgültig ist,
+               wieviel es wiegt. Ist das zu viel?... Ich denke oft an die par guten Stunden, die Du
+               hier warst, aber es war halt doch blos wie ein Stern, der für kurze Zeit aufgeht und
+               dann im Weltall (das recht weit ist!) wieder untergeht. Und alle die grauslichen
+               Zeiten der Melancholie und der Vorstellung: alles ist ja doch vergebens, &quot; muss
+               man dann wieder allein überwinden, Und so geht das Leben dahin, und man bleibt in
+               seinem Sumpf, als ob man die Füsse drinnen unentrinnbar festgebunden hätte. So ist
+               mirs oft zumut.... Ansonsten aber <pb n="2"/> grüsse ich Dich heftig und wünsche dass
+               dein Aufenthalt in diesem dollen <rs ref="#tillich_place_id__736" type="place"
+                  >Europa</rs> doch recht erspriesslich war.</p>
+            <closer>
+               <salute>Und also Dir und <rs
+                  ref="#tillich_person_id__1923" type="person">Hannah</rs> und allen Bekannten
+                  tausend gute GrüsseUnd also Dir und <rs
+                     ref="#tillich_person_id__1923" type="person">Hannah</rs> und allen Bekannten
+                  tausend gute Grüsse</salute>
+               <signed><rs ref="#tillich_person_id__1744" type="person"
+                  ><hi rend="hand">Waly</hi></rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

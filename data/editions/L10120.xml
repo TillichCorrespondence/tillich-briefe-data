@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10120">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Hannah Tillich <lb/>von August/September 1935</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933-1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                        <idno>bMS 721/3(6)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date notBefore="1935-07-31" notAfter="1935-09-01">08.1935</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-05-13" who="EL">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
+                        >Hannah</rs>!</salute>
+                </opener>
+                <p>Heut Nachmittag Abschiedstee der Studenten mir zu Ehren 2 Stunden, dann Spaziergang mit Prof <rs type="person" ref="#tillich_person_id__3258">Mac Giffert</rs> (Sohn des Mannes, nach dem Euer Haus genannt ist), heut Abend Vortrag vor der Fakultät des Theological Seminary, dazwischen Zeit, Dir zu schreiben und die Briefe zu schicken: Den von <unclear>??? ???</unclear> <hi rend="u">sofort</hi> zurück! Ebenso die Gemeinheit von <rs type="person" ref="#tillich_person_id__1841">Stapel</rs>, die mich nicht aufregt, da sie nur Lümmelei ist. Meine Yale-Vorträge sind mir viel wichtiger als der ganze Dreck. <rs type="person" ref="#tillich_person_id__3260">Ilse</rs> sehr interessant, negativer als ich dachte. Herr <rs type="person" ref="#tillich_person_id__3243">Schulz</rs> sehr amüsant. Ich selbst rühre keinen Finger, stelle aber der Familie anheim, etwas zu machen.<pb n="2"/></p>
+                <p><rs type="person" ref="#tillich_person_id__641">Frede</rs>s <rs type="letter" ref="#L10222">Briefe</rs> sind sehr lieb. Er kommt über die engen Erfahrungen seiner Anstalt nicht weg. Sehr interessant und auserordentlich negativ, was er über die Kirche schreibt.</p>
+                <p>Wegen <rs type="person" ref="#tillich_person_id__1214">Löwith</rs> setze Dich <hi rend="u">gleich</hi> mit <rs type="person" ref="#tillich_person_id__846">Peter</rs> in Verbindung. Hier muss rasch geholfen werden. Telephoniere auch mit <rs type="person" ref="#tillich_person_id__931">Horkheimer</rs> darüber. – Eine gemeine Bande!</p>
+                <p>Dein Misstrauen gegen <rs type="person" ref="#tillich_person_id__3278">Klepper</rs> halte ich nachdem, was ich über ihn gehört habe, für berechtigt. Packet u.s.w. sind angekommen. Ich will versuchen, ob ich photographieren kann. – In diesen Tagen noch die <unclear>???</unclear>-Papers der Studenten: Ich weiss nicht wie ichs schaffen soll.</p>
+                <closer>Grüsse und Küsse Euch beiden! In viel Liebe! Euer
+                    <signed><rs type="person" ref="#tillich_person_id__1928"
+                        >Paul</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

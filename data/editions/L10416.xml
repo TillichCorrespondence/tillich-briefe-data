@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10416">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Walter Friedländer<lb/>vom 3. Juli 1938</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3229-6246">Ole Soldatow</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__319">New York City</settlement>
+                  <institution>University of Albany</institution>
+                  <repository>University of Albany Libraries</repository>
+                  <collection>Ger-3, Ser 2, Sub 2a<!-- stimmt das so?--></collection>
+                  <idno>Box 14, Folder 325</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, handschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1938-07-03">03.07.1938</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__627">Walter Friedländer</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="OS" when="2025-06-13">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>99 Claremont Avenue, <rs ref="#tillich_place_id__319" type="place">New
+                     York City</rs><date when="1936-07-03">3.7.1938</date></dateline>
+               <salute>Liebe <rs ref="#tillich_person_id__627" type="person"><rs
+                        ref="#tillich_person_id__3390" type="person"
+                  >Friedländers</rs></rs>!</salute>
+            </opener>
+            <p>Seit Ihr etwa am 15ten oder so herum in <rs ref="#tillich_place_id__105" type="place"
+                  >Chicago</rs>? Ich komme dann durch auf der Fahrt nach dem Westen. Wenn ja und Ihr
+               mich für einen Tag oder so haben könnt will ich versprechen zu stoppen. Ich bin zu
+               einem Kurs bis Sonnabend in <rs ref="#tillich_place_id__319" type="place">New
+                  York</rs>, obige Adresse. Bitte Antwortet gleich!</p>
+            <closer>Auf Wiedersehen! Euer <salute><rs ref="#tillich_person_id__1928" type="person"
+                     >Paul Tillich</rs></salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

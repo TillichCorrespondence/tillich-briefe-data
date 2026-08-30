@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10255">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Fritz Medicus<lb/>von 1936</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3229-6246">Ole Soldatow</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>Box 165(36)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date>Dezember 1935</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1291">Fritz Medicus</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="OS" when="2025-04-08">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><date>1936</date>
+               <salute>Lieber Freund <rs ref="#tillich_person_id__1291" type="person"
+                  >Medicus</rs>!</salute>
+            </opener>
+            <p>Es war so schade dass wir uns weder in Bromsberg noch in Arizona wiedersehen konnten.
+               Es war sehr schön in den Zürcher Tagen, nur dass ich das schlechte Gewissen hatte
+               Ihrem Hans zu viel metaphysische Unruhe gebracht zu haben durch Menschen und
+               Telephon. Aber das ist nun mal mein Schicksal zu dem ich <unclear reason="illegible"
+                  >¿¿¿ ¿¿¿</unclear>habe. Diese Welt hat sich inzwischen sehr verschlimmert. Unsere
+               Analysen und Prognosen sind durchweg - bedauerlicherweise - bestätigt worden.<pb n="2"/></p>
+            <p>Trotzdem will ich es wagen, im nächsten Jahr mit <unclear
+                  reason="illegible">¿¿¿</unclear> und <unclear reason="illegible">¿¿¿</unclear> in
+               dem alten Erdteil zu erscheinen, falls derselbe noch existiert. Ich soll nämlich zur
+               Oxford-Conferenz in Yale und da ist es das <unclear reason="illegible">¿¿¿</unclear>
+               und Nützlichste, wir fahren alle. Vielleicht können wir uns dann sogar wiedersehen!
+               Jedenfalls Ihnen und den Ihren Dank und Gruss und die besten Weihnachts- und
+               Neujahrswünsche!</p>
+            <closer>
+               <salute>Ihr <rs ref="#tillich_person_id__1928" type="person">P.
+                  Tillich</rs>.</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11294">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an August Rathmann
+               <lb/>vom 20. Mai 1949 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno><!-- Aus dem Privatbesitz August Rathmanns, publiziert in seiner Autobiographie „Ein Arbeiterleben“ --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, Transkription<!-- Original liegt nicht vor --></p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1949-05-20">20.05.1949</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1562">August Rathmann</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-06-28">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><rs ref="#tillich_place_id__319" type="place">New York 27.
+                     N.Y.</rs>,<date when="1949-05-20">May 20, 1949</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1562" type="person"
+                  >Rathmann</rs>!</salute>
+            </opener>
+            <p>Herzlichen Dank fuer Ihren Brief<note type="ea">liegt nicht vor</note> vom 30. Maerz.
+               mit den einliegenden Uebersetzungen. Ich schreibe am Tage vor meiner Abfahrt in die
+               wenigstens partiellen Ferienwochen wo ich hoffe, die Sachen lesen zu koennen. Hier in
+                  <rs ref="#tillich_place_id__319" type="place">New York</rs> konnte ich acht Tage
+               lang nicht einmal ihren Brief lesen bei 18 stuendiger Taetigkeit. Ich werde Ihnen
+               dann nicht nur das Manuscript zuruecksenden, sondern auch eine Uebersetzung die hier
+               freiwillig gemacht worden ist von meinem Aufsatz <q>Man in society in religious
+                  socialism</q><!-- unklar, wo und wann veröffentlicht -->. Ich werde dann auch
+               ueber die Organisation der Serien schreiben.</p>
+            <p>Ich hoffe, dass mit dem Ende der Blockade Drucksachen und Manuscripte nach <rs
+                  ref="#tillich_place_id__37" type="place">Berlin</rs> wieder angenommen werden,
+               wenn nicht geben Sie mir eine Hamburger oder Frankfurter Adresse. Die Dinge, von
+               denen ich am Ende meines <rs ref="#L11284" type="letter">Rundbrief</rs>s und Sie am
+               Ende Ihres Briefes schreiben, scheinen sich inzwischen außerordentlich verschaerft zu
+               haben. Ich habe das Gefuehl, dass Ihr gegen dieselben undurchdringlichen Mauern zu
+               kaempfen habt wie wir vor 20 Jahren. Es scheint als ob nicht einmal diese
+               grauenvollste aller Katastrophen die Deutschen politisch etwas gelehrt haette, und
+               dass, wenn die Deutschen etwas gelernt haetten, die Welt-Konstellation Ost-West die
+               Anwendung des Gelernten unmoeglich machen wuerde.</p>
+            <closer>
+               <salute>Bald mehr, mit herzlichem Gruss,<lb/>Ihr</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person"
+                  >Paul Tillich</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11082">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Eugen Kullmann an Paul Tillich <lb/>vom 20. Mai 1947</title>
+                <author ref="#tillich_person_id__4826">Eugen Kullmann</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/159 (59)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__4826">Eugen Kullmann</persName>
+                    <placeName ref="#tillich_place_id__779">New York-Brooklyn</placeName>
+                    <date when="1947-05-20">20.05.1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-04-29" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><rs ref="#tillich_person_id__4826" type="person">Eugen Kullmann</rs>
+                    <dateline><rs ref="#tillich_place_id__779" type="place">Brooklyn</rs>, <date
+                            when="1947-05-20">20. Mai 1947</date><lb/>15 Revere
+                        Place</dateline><salute>Sehr geehrter <rs ref="#tillich_person_id__1928"
+                            type="person">Herr Professor Tillich</rs>!</salute>
+                </opener>
+                <p>Von einer jungen Dame, der Tochter des Frankfurter
+                    Bürgermeisters,<!-- nicht ermittelt, Tochter des OB Ffm 1947 kann es nicht sein -->
+                    erhielt ich diesen Brief, den ich mit den hiesigen Verhältnissen so wenig ¿¿¿
+                    bin, erlaube ich mir, Ihnen den Brief zu schicken. Vielleicht wissen Sie einen
+                    Rat, sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr
+                        Professor</rs>.</p>
+                <p>Sie waren damals so freundlich, mich zu empfangen. Mittlerweise bin ich
+                        <q>Lecturer</q> an der Grad. Fac. der New School geworden und bin froh,
+                    einmal einen Anfang zu haben.</p>
+                <closer>
+                    <salute>Mit guten Wünschen zu Pfingsten<lb/>grüßt Sie</salute>
+                    <signed>Ihr ergebener<lb/><rs ref="#tillich_person_id__4826" type="person">Eugen
+                            Kullmann</rs>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11528">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Margot Hahl
+               <lb/>vom 3. Juni 1948 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno><!-- Archiv der Universitätsbibliothek Marburg, Tillichiana 1, Ms. 1041/44 --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1948-06-03">03.06.1948</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__757">Margot Hahl</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-07-05">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><rs ref="#tillich_place_id__279" type="place">Marburg, Lahn</rs>, Hotel Ritter<lb/>
+               <date when="1948-06-03">3. Juni 1948</date></dateline>
+               <salute>Liebe <rs ref="#tillich_place_id__279" type="person">Margot</rs>!</salute>
+            </opener>
+            <p>Seit 23<hi rend="superlinear">ten</hi> Mai bin ich hier und bleibe bis 23<hi
+                  rend="superlinear">ten</hi> Juni. Dann verschiedene Fahrten, z. B. <rs
+                  ref="#tillich_place_id__198" type="place">Hamburg</rs>, <rs
+                  ref="#tillich_place_id__37" type="place">Berlin</rs>, <rs
+                  ref="#tillich_place_id__203" type="place">Heidelberg</rs>, vielleicht auch <rs
+                  ref="#tillich_place_id__306" type="place">München</rs>. Bitte schreibe mir doch
+               gleich, ob eine Möglichkeit besteht, dass Du hierher kommst. Ich bin <hi
+                  rend="underline">wieder</hi> hier <unclear>|-</unclear> 10<hi rend="superlinear"
+                  >ten</hi> August. <rs ref="#tillich_place_id__306" type="place">München</rs> ist
+               unsicher und vielleicht auch zu kurz für wirkliches Sehen. Mir liegt <hi rend="hand"
+                  >sehr</hi> viel daran Dich wiederzusehen. Ich hoffe, die Adresse ist richtig. Da
+               ich das nicht genau<pb n="2"/> weiss, schreibe ich jetzt nicht mehr.</p>
+            <closer>
+               <salute>In alter Treue<lb/>Dein</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">Paulus</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

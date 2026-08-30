@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11115">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Hertha Kraus an Paul Tillich <lb/>vom 10. November 1947 </title>
+                <author ref="#tillich_person_id__4553">Hertha Kraus</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933-1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="typescript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/159(37)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; Unterschrift eigenhändig; Briefkopf:
+                                <q>Hertha Kraus. 233 North Roberts Road. Bryn Mawr, Pa.</q>;
+                            adressiert: <q>Prof. Paul Tillich, East Hampton, L. I., New York</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__4553">Hertha Kraus</persName>
+                    <date when="1947-11-10">10.11.1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__769">East Hampton, L. I., N. Y.</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="CO" when="2026-05-16">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><date when="1947-11-10">November 10, 1947</date></dateline>
+                    <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Paul
+                        Tillich</rs>:</salute>
+                </opener>
+                <p>Sorry to be very late in answering your letter of October 20.<note type="ea"
+                        >Liegt nicht vor.</note> A rather similar inquiry sent by <rs
+                        ref="#tillich_person_id__5066" type="person">Hedda Korsch</rs> has resulted
+                    in a longish letter, of which I enclose a copy for your information.</p>
+                <p>I am afraid that I can&apos;t be any more optimistic in thinking about <rs
+                        ref="#tillich_person_id__1923" type="person">Mrs. Tillich</rs>&apos;s
+                    chances than in regard to <rs ref="#tillich_person_id__5066" type="person">Hedda
+                        Korsch</rs>. The latter has worked with the <choice>
+                        <abbr>AFSC</abbr>
+                        <expan>American Friends Service Committee</expan>
+                    </choice> for years in the Nyack program,<!-- noch nicht ermittelt --> and is
+                    already very well known to the staff – – and yet – – She also has invitations,
+                    particularly for Grimme<!-- Adolf Grimme? -->.</p>
+                <p>I shall make some unofficial inquires at the office when we will discuss
+                    personnel later in the year, but as of now, I am afraid the chances of an
+                    appointment would be extremely low. Sorry.</p>
+                <closer>
+                    <salute>Good luck for your work. Greetings.<lb/>Cordially,</salute>
+                    <signed><hi rend="hand"><rs ref="#tillich_person_id__4553" type="person">Hertha
+                                Kraus</rs></hi><lb/><rs ref="#tillich_person_id__4553" type="person"
+                            >Hertha Kraus</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

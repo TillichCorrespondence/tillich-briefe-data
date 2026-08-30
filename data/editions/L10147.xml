@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10147">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Undatierter Brief von Paul Tillich an Hannah Tillich <lb/>vermutlich Januar/Februar 1935</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933-1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                        <idno>bMS 721/3(6)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date notBefore="1935-01-01" notAfter="1935-02-28">01.1935</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-07-14" who="EL">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
+                        >Hannah</rs>!</salute>                </opener>
+                <p>Briefe wie Elektrische kommen immer rudelweise; dazwischen ist leere Zeit; so geht es mir jetzt Freitag bis Montag; aber dazwischen kam ein ganzes 'Rudel'. Hab vielen Dank! Es ist so schön, wenn sie kommen.</p>
+                <p>Nun etwas Wichtiges: Du schriebst mir doch, ich solle einmal nach dem Süden fahren. Am nächsten Mittag fragte ich <rs type="person" ref="#tillich_person_id__1464">Pauck</rs>, ob ich mit ihm und der sozialethischen Abteilung der Fakultät einen wissenschaftlichen Ausflug im Auto nach <rs type="place" ref="#tillich_place_id__705">New Orleans</rs> am Golf <pb n="2"/> von Mexico machen wolle (da wo der Missisippi mündet)<supplied>.</supplied> Es geht am <date when="1935-03-14">14<hi rend="sup">ten</hi> März</date> los und dauert etwa 10 Tage. Ich habe natürlich angenommen, da der Autobeitrag wie er sagte sehr gering ist. Nun sollte ich eigentlich am <date when="1935-03-02">2<supplied>.</supplied> März</date> zu Euch zurückkommen. So würde ich drei Wochen länger bleiben, falls ich nicht einfach zurückkomme und dann wieder hierher fahre. Auch muss ich die Erlaubnis von Union haben. Vielleicht spricht Du mal über beides mit <rs type="person" ref="#tillich_person_id__1390">Niebuhr</rs> und schreibst mir dann, was er denkt und vor allem was Du denkst. – Hast du gelesen, dass <unclear>???</unclear> in <rs type="place" ref="#tillich_place_id__260">Leipzig</rs> nicht mehr lesen kann, da er kein Nazi sei!
+                </p>
+                <closer>Grüss <rs type="person" ref="#tillich_person_id__3496">Estelle</rs>! In grosser Liebe.
+                    <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed></closer>
+                <postscript><p>Über den <rs type="person" ref="#tillich_person_id__1611">Rilke</rs>-Brief<note type="ea">Nicht überliefert.</note> das nächste Mal! Ich denke immer zu darüber nach!</p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

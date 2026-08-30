@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11541">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Harald Poelchau an Paul Tillich<lb/>vom 23. Mai 1948</title>
+                <author ref="#tillich_person_id__1516">Harald Poelchau</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <!-- Nachlass Poelchau, Privatbesitz Harald Stephan Poelchau -->
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1516">Harald Poelchau</persName>
+                    <placeName ref="#tillich_place_id__52">Berlin-Zehlendorf</placeName>
+                    <date when="1948-05-23">23.05.1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-05-23" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><rs type="place" ref="#tillich_place_id__52">Bln Zehlendorf</rs>,
+                        am Heidehof 30, <date when="1948-05-23"
+                        >23.5.48</date></dateline><salute>Lieber <rs ref="#tillich_person_id__1928"
+                            type="person">Paulus</rs>,</salute>
+                </opener>
+                <p>wie schön ist es, dass Du hergekommen bist und wir nun die Hoffnung haben können,
+                    Dich auch in <rs type="place" ref="#tillich_place_id__37">Berlin</rs> zu sehen.
+                    Wann kommst Du? Wirst Du für die theol. Fakultät oder für die kirchliche
+                    Hochschule oder für die religiösen Sozialisten sprechen.<!-- sic --> Ist alles
+                    mit den Einladungspapieren in Ordnung oder soll ich eine der drei Stellen noch
+                    einmal anstossen und für welchen Termin? – <rs ref="#tillich_person_id__846"
+                        type="person">Heimanns</rs> Besuch hier war schön und etwas Wehmütig, weil
+                    soviel zwischen jetzt und damals liegt. Er wurde leider so lanciert, dass ihn
+                    keiner der für die Ostzonen verantwortlichen Männer gehört hat. Da der Grundsatz <choice>
+                        <abbr><foreign xml:lang="lat">cuius regio, eius religio</foreign></abbr>
+                        <expan>Wessen Land, dessen Religion.</expan>
+                    </choice> d. h. Amerikaner gleich Sozialdemokrat schon zu viel angewandt wird,
+                    tat mir das leid. Das Gespräch zwischen Ost und West wird ja sowieso immer
+                    spärlicher. Da ich viel auf Dienstreisen bin, bitte ich Dich, mir sobald wie
+                    möglich zu schreiben, wann Du hier bist, damit ich disponieren kann.</p>
+                <closer><salute>Herzlich</salute><signed>Dein</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

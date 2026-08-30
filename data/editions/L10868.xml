@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10868">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Ralph Eugene Diffendorfer an Paul Tillich <lb/>vom 15. Oktober
+               1945</title>
+            <author ref="#tillich_person_id__3882">Ralph Eugene Diffendorfer</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-0440-4008">Gerrit Mauritz</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/166(21)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__3882">Ralph Eugene Diffendorfer</persName>
+               <date when="1945-10-15">15.10.1945</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="eng">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="GM" when="2025-10-08">Transkription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <head type="letterhead">Board of Missions and Church Extension of The Methodist
+               Church<lb/> 150 Fifth Avenue Newyork 11, N.Y.<lb/>Division of Foreign Missions</head>
+            <opener><dateline rend="right"><date when="1945-10-15">October 15,
+                  1945</date></dateline>
+               <address>
+                  <addrLine><rs ref="#tillich_person_id__1928" type="person">Dr. Paul
+                     Tillich</rs><lb/> Union Theological Seminary<lb/> Broadway and 120 St.<lb/>
+                     <rs ref="#tillich_place_id__319" type="place">New York</rs> 27, <rs
+                        ref="#tillich_place_id__865" type="place">N.Y.</rs></addrLine>
+               </address>
+               <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Dr.
+                  Tillich</rs>,</salute>
+            </opener>
+
+            <p>Herewith is a copy of <rs ref="#tillich_person_id__3886" type="person">Dr.
+               Soper</rs>'s book.<note type="ea">Das erwähnte Buch kann nicht eindeutig identifiziert werden.</note> It is my hope that you may give it careful reading before we meet
+               <rs ref="#tillich_person_id__3886" type="person">Dr. Soper</rs> next week to
+               discuss it with him and others.</p>
+
+            <p>Assuring you of my gratitude for this service, I am</p>
+
+            <closer>
+               <salute>Sincerely yours</salute>
+               <signed><rs ref="#tillich_person_id__3882" type="person">R. E.
+                  Diffendorfer</rs></signed> Executive Secretary </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

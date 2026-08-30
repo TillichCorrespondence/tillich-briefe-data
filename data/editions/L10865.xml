@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10865">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Maurice Finkelstein an Paul Tillich <lb/>vom 19. September 1945</title>
+            <author ref="#tillich_person_id__3295">Maurice Finkelstein</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-0440-4008">Gerrit Mauritz</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/140(48)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich; Mitgliederliste des Central Board des Women's
+                     American ORT auf dem Briefpapier abgedruckt</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__3295">Maurice Finkelstein</persName>
+               <placeName ref="#tillich_place_id__319">New York City</placeName>
+               <date when="1945-09-19">19.09.1945</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="eng">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="GM" when="2025-05-21">Transkription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <fw place="top" type="letterhead"> WOMEN'S AMERICAN ORT<lb/>212 Fifth Avenue<lb/>
+               <rs type="place" ref="#tillich_place_id__319">New York</rs> 10, N.Y. </fw>
+            <opener><dateline><date when="1945-09-19">September 19, 1945</date></dateline>
+               <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Dr.
+                  Tillich</rs>:</salute>
+            </opener>
+            <p>You have been good enough in the past to sponsor the Annual Donor Luncheon given by
+               Women's American ORT.<note type="ea">Das Programm Organization of Rehabilitation
+                  through Training (ORT) diente der ökonomischen Rehabilitation jüdischer
+                  Geflüchteter und Kriegsopfer.</note> We have now undertaken a
+               Guardianship-Vocational Training Plan which calls for the adoption of at least 1000
+               European Jewish war orphans who will be trained in agriculture and industry, and
+               partially maintained for one year.</p>
+            <p>We feel sure this is a very timely project. Extending ORT service to a thousand
+               orphans will help so much to save the next generation.</p>
+            <p>Would you do us the honor of sponsoring this new plan?</p>
+            <closer>
+               <salute>Sincerely yours,</salute>
+               <signed>Maurice Finkelstein</signed>
+               <rs type="person" ref="#tillich_person_id__3295">Mrs. Maurice Finkelstein</rs>
+               National President</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

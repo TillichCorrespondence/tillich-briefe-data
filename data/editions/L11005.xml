@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11005">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Horst Baerensprung an Paul Tillich <lb/>vom 22. September
+                    1946</title>
+                <author ref="#tillich_person_id__115">Horst Wolfgang Baerensprung</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/122(20)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; Unterschrift eigenhändig; am oberen linken
+                            Blattrand: <q>H. W. Baerensprung, % Brofeld, 41 Washington Square,
+                                NYC.</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__115">Horst Wolfgang Baerensprung</persName>
+                    <placeName ref="#tillich_place_id__319">New York, N. Y.</placeName>
+                    <date when="1946-09-22">22.09.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="de">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-03-20" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><date when="1946-09-22">den 22. September
+                        1946</date></dateline><salute>Lieber <rs ref="#tillich_person_id__1928"
+                            type="person">Herr Tillich</rs>,</salute></opener>
+                <p>es scheint, dass wir nun, nachdem unsere Abreise immer wieder verschoben werden
+                    musste, doch Mitte oder Ende dieser kommenden Woche abfahren. Ich möchte es
+                    nicht unterlassen, Ihnen wenigstens im Geiste herzlich die Hand zu drücken und
+                    Ihnen zu sagen, dass es für mich eine grosse Freude und Genugtuung war, mit
+                    Ihnen einige Jahre lang an der Einigung der deutschen Emigration zu arbeiten,
+                    wenn auch unsere Arbeit leider keine unmittelbar greifbaren Erfolge hatte.
+                        <foreign xml:lang="lat">Ut desint vires, tamen est laudanda
+                        voluntas</foreign>.<note type="ea"><q>Wenn auch die Kräfte fehlen, ist der
+                            Wille dennoch zu loben</q> (<rs ref="#tillich_person_id__1440"
+                            type="person">Ovid</rs>: Epistulae ex Ponto III, 4, 79).</note></p>
+                <p>Sollten Sie irgendwie Fragen oder Anliegen haben, so stehe ich Ihnen
+                    selbstverständlich gern zur Verfügung. Über folgende Adresse werde ich immer zu
+                    erreichen sein: <rs ref="#tillich_place_id__1394" type="place">Watzum</rs> bei
+                        <rs ref="#tillich_place_id__1395" type="place">Schoeppenstedt</rs>, <rs
+                        ref="#tillich_place_id__1396" type="place"><sic>Braunscheig</sic>-Land</rs>
+                    (British Zone).</p>
+                <closer><salute>Mit den aufrichtigsten Wünschen für Sie und Ihre Familie bin
+                        ich<lb/>Ihr stets ergebener</salute><signed><hi rend="hand"><rs
+                                ref="#tillich_person_id__115" type="person">Horst
+                            Baerensprung</rs>.</hi></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>
