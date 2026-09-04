@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10597">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brieffragment von Paul Tillich an Hannah Tillich
+               <lb/>von 1943 <!-- Datum unvollständig --> </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah, 1896-1988. Papers.</collection>
+                  <idno>bMS 721/3(6)<!-- Harvard, Hannah Tillich Papers, bMS 721/3(6). Brief Nr. 67 --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1943-01-01">01.01.1943</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-01-11">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <date when="1943-01-01"><hi rend="underline">Dienstag.</hi>
+                     <!-- Datum unvollständig --></date><unclear>Fair</unclear> View Hall, <rs
+                     ref="#tillich_place_id__1309" type="place">Ocean City</rs>
+                  <rs ref="#tillich_place_id__867" type="place">New Jersey</rs>.</dateline>
+               <salute>Liebe <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+            </opener>
+            <p>Hab&apos; Dank für das entzückende Bild von <rs ref="#tillich_person_id__1927"
+                  type="person">René</rs> unter der Freiheitsstatue! Er soll mir mal darüber
+               schreiben! Ich habe heut sehr auf einen Brief von Dir gewartet. Du hast mir weder
+               geschrieben, was Du zu dem Tod von <rs ref="#tillich_person_id__4409" type="person"
+                     ><rs ref="#tillich_person_id__1965" type="person">Ulich</rs>s Sohn</rs> noch zu
+               dem Tod von <rs ref="#tillich_person_id__2034" type="person">Wendriner</rs> gesagt
+               hast! Ich füge die Anzeige und den Brief<note type="ea">liegt nicht vor</note> von
+                  <rs ref="#tillich_person_id__4410" type="person">Frau Wendriner</rs> bei. Ich lege
+               auch einen Times-Ausschnitt bei. Auch hast Du keinen der beiden Shecks bestätigt. <pb
+                  n="2"/>. Bitte tue es, da es mich beunruhigt! Auch weiss ich nichts von <rs
+                  ref="#tillich_person_id__570" type="person">Erdmuthe</rs> und ihrer Konferenz.
+               Seit heut fange ich an, mir über alles Sorge zu machen. Auch weiss ich nichts über
+                  <rs ref="#" type="person"
+               >Pauk</rs><!-- unklar wer gemeint ist, vielleicht Wilhelm Pauck--> und seine Reise
+               nach Washington<!-- unklar ob DC oder State -->. Mitteilen muss ich Dir noch, dass
+               ich gestern den Steuer-Sheck abgeschickt habe, der nach den Berechnungen von Wild
+               <!-- unklar wer gemeint ist --> dieses Mal 150$ beträgt. Ich habe sogar noch mehr
+               gefürchtet.</p>
+            <p>Bis heute war hier immer blauer Himmel und ein herrliches Meer. Heut ist zum ersten
+               Mal grau. Ich arbeite viel, bis fast </p>
+           
+         </div>
+      </body>
+   </text>
+</TEI>

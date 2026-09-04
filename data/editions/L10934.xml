@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10934">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Unbekannt, vermutlich Hanna Hafkesbrink <lb/>vom
+                    17. April 1946</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/167(62)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1946-04-17">17.04.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__752">Hanna Hafkesbrink</persName>
+                    <placeName ref="#tillich_place_id__835">New London, CT</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-07-03" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><date when="1946-04-17">April 17,
+                        1946</date></dateline><salute>Liebe <rs ref="#tillich_person_id__752"
+                            type="person">Freundin</rs>:</salute>
+                </opener>
+                <p>Herzlichen Dank für <rs ref="#L10931" type="letter">Ihren Brief</rs>. Ich werde
+                    in der Woche, die am <date when="1946-05-06">6. Mai</date> anfängt, an irgend einem der Tage (ausser
+                    Donnerstag) in <rs ref="#tillich_place_id__770" type="place">New Haven</rs>
+                    sein. Der Tag ist noch nicht entschieden. Ich werde dann vorher oder nachher
+                    nach <rs ref="#tillich_place_id__835" type="place">New London</rs> kommen. Ich
+                    entnehme aus <rs ref="#L10931" type="letter">Ihrem Brief</rs>, dass jeder Tag in
+                    dieser Woche möglich ist. Ich habe den New Havenern vorläufig Mittwoch
+                    vorgeschlagen, so dass ich Donnerstag Vormittag nach <rs
+                        ref="#tillich_place_id__835" type="place">New London</rs> kommen würde. Es
+                    hängt aber alles davon ab, wann ich bei <rs ref="#tillich_person_id__2094"
+                        type="person">Wolfers</rs> wohnen kann und wann er Zeit für mich hat. Ich
+                    habe ihn gebeten, sofort zu antworten und werde Ihnen dann Nachricht geben. Es
+                    kommt nur diese Woche in Frage (<date from="1946-05-06" to="1946-05-10">6.–10. Mai</date>)<supplied>.</supplied> In der
+                    darauffolgenden Woche haben wir commencement und dann will ich bis zum <date when="1946-07-08">8. July</date>
+                    für 6 Wochen nach <rs ref="#tillich_place_id__769" type="place">East
+                        Hampton</rs> gehen.</p>
+                <closer><salute>Ich freue mich auf das
+                    Wiedersehen,</salute><!-- keine Unterschrift erkennbar -->
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10923">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an John Marshall <lb/>vom 28. März 1946</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/164(12)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1946-03-28">28.03.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__3406">John Marshall</persName>
+                    <placeName ref="#tillich_place_id__319">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-06-28" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="top" type="adressline"><rs ref="#tillich_person_id__3406"
+                            type="person">Mr. John Marshall</rs>
+                        <lb/>The Rockefeller Foundation <lb/>49 West 49 Street <lb/><rs
+                            ref="#tillich_place_id__319" type="place">New York</rs> 20, <rs
+                            ref="#tillich_place_id__865" type="place">N. Y.</rs></fw><dateline><date
+                            when="1946-03-28">March 28, 1946</date></dateline><salute>Dear <rs
+                            ref="#tillich_person_id__3406" type="person">Mr. Marshall</rs>:</salute>
+                </opener>
+                <p>As I understand you represent for the time being <rs
+                        ref="#tillich_person_id__3324" type="person">Mr. Stevens</rs> in the
+                    Humanities of the Rockefeller Foundation. I write you in behalf of <rs
+                        ref="#tillich_person_id__1262" type="person">Prof. Siegfried Marck</rs> and
+                    his manuscript about which <rs ref="#tillich_person_id__3324" type="person">Mr.
+                        Stevens</rs> asked me to give a report. I have talked to him before he left
+                    for the West coast, and I have recommended the book which I think has a very
+                    high scholarly quality. I remember that <rs ref="#tillich_person_id__3324"
+                        type="person">Mr. Stevens</rs> had a rather favorable reaction.</p>
+                <p>I expressed at that occasion also some criticisms about the use of too much
+                    German material which is not known in this country. <rs
+                        ref="#tillich_person_id__1262" type="person">Prof. Marck</rs> agreed with me
+                    that the sections referred to<!-- hinter <q>referred to</q> etw. gestrichen -->
+                    had to be changed in order to make the book more
+                    readable<!-- eigentlich <q>readible</q> --> for the American public. I would
+                    like to know whether he can expect a financial help for a translator. Since the
+                    voyage of <rs ref="#tillich_person_id__3324" type="person">Mr. Stevens</rs> has
+                    delayed the matter for several months I would be grateful to you if you gave <rs
+                        ref="#tillich_person_id__1262" type="person">Prof. Marck</rs> a green signal
+                    that he can go ahead with the translation.</p>
+                <closer><salute>Yours sincerely,</salute><signed><rs ref="#tillich_person_id__1928"
+                            type="person">Prof. Paul Tillich</rs>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

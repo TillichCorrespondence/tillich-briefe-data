@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10311">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hannah Tillich<lb/>zwischen dem 8.-10. September
+               1936</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3229-6246">Ole Soldatow</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 721/3(7)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, handschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date notBefore="1936-09-08" notAfter="1936-09-10">zw. 08.09.-10.09.1936</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="OS" when="2025-05-26">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Geliebte <rs ref="#tillich_person_id__1923" type="person"
+                  >Hannah!</rs>!</salute>
+            </opener>
+            <p>Dein Telegramm war grossartig. Es kam erste halbe Stunde vor dem entscheidenden
+               Gespräch mit <rs ref="#tillich_person_id__1" type="person"><!-- ID fehlt-->Prof.
+                  Stocks</rs>, <rs ref="#tillich_place_id__1" type="place"
+                  ><!-- ID fehlt-->Manchester</rs>. Die Sache ist sehr zweifelhaft, aber auf alle
+               Fälle wichtig um in <unclear reason="illegible">¿¿¿</unclear> etwas zu erreichen.</p>
+            <p>Dies ist mein letzter Brief. Um 11 fahre ich von <rs ref="#tillich_place_id__1"
+                  type="place"><!-- ID fehlt-->Southhampton</rs> ab, am <date when="1936-09-19"
+                  >19ten</date> komme ich in <pb n="2"/><rs ref="#tillich_place_id__319"
+                  type="place">New York</rs> an. Meine <unclear reason="illegible">¿¿¿</unclear>
+               gibt dem Schiff voraus, zu Euch dreien. Es ist gut, dass es nun so weit ist. Länger
+               von Euch weg hätte ich nur noch schwer ausgehalten.</p>
+            <closer>
+               <salute>Bei Euch und nur bei Euch ist mein Zuhaus, sonst nirgends auf der Welt. Bald
+                  auf Wiedersehen!</salute>
+               <signed>Euer <rs ref="#tillich_person_id__1928" type="person">Paulus</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

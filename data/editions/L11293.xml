@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11293">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Werner Wolff an Paul Tillich
+               <lb/>vom 1. Mai 1949 </title>
+            <author ref="#tillich_person_id__5379">Werner Wolff</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 122(56)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich mit handschriflichen Einfügungen</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__5379">Werner Wolff</persName>
+               <date when="1949-05-01">01.05.1949</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-06-11">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1949-05-01">May 1st, 1949</date></dateline>
+               <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Dr.
+                  Tillich</rs>:</salute>
+            </opener>
+            <p>We are looking forward to seeing you next Friday <add place="left"><hi rend="hand"
+                        ><date when="1949-05-01">Fri 6 May 1949</date></hi></add>. Your Friday
+               lecture is supposed to start at 8.30, and the Saturday panel ends at noon.</p>
+            <p>I enclose a time table. You have to take a train to <rs ref="#tillich_place_id__1752" type="place">Rhinecliff</rs>,
+            the latest from <rs ref="#tillich_place_id__319" type="place">New York</rs> is 6.10 Daylight
+            Saving time (in the time table listed as 5.10), the same train leaves <rs ref="#tillich_place_id__946" type="place">Poughkeepsie</rs>
+            at 7.50 and arrives at <rs ref="#tillich_place_id__1752" type="place">Rhinecliff</rs> at 8.07.
+            A taxi will here wait for you and bring you directly to the place of your lecture.</p>
+            <p>The first return train on Saturday is 2.56 from <rs ref="#tillich_place_id__1753" type="place">Barrytown</rs>, arriving at 5.37
+            in <rs ref="#tillich_place_id__319" type="place">New York</rs>.</p>
+            <p>If you prefer to take other trains please let us know.</p><closer>
+               <salute>Cordially yours,</salute>
+               <signed><rs ref="#tillich_person_id__5379" type="person"
+                  ><hi rend="hand">Werner Wolff</hi><lb/>Werner Wolff</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

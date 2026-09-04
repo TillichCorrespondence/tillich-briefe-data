@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11100">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Leo Löwenthal an Paul Tillich<lb/>vom 11. August 1947</title>
+                <author ref="#tillich_person_id__1213">Leo Löwenthal</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <!-- Nachlass Löwenthal -->
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1213">Leo Löwenthal</persName>
+                    <placeName ref="#tillich_place_id__319">New York</placeName>
+                    <date when="1947-08-11">11.08.1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-05-12" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><hi rend="u">90 Morningside Drive</hi><date when="1947-08-11">August
+                            11, 1947</date></dateline><salute>Lieber <rs
+                            ref="#tillich_person_id__1928" type="person">Paulus</rs>:</salute>
+                </opener>
+                <p>Vielen Dank für Ihren lieben <rs type="letter" ref="L11099">Brief vom 6.
+                        August</rs>.<note type="ea">Liegt nicht vor.</note></p>
+                <p>Ich freue mich, wieder einmal von Ihnen zu hören. Glauben Sie mir, dass ich oft
+                    in den letzten Wochen mit grosser Sehnsucht an unsere gemeinsamen Gespräche
+                    denke.</p>
+                <p>In der Praxis haben sich die Kurse nicht als ganz so schwierig herausgestellt wie
+                    ich es befürchtet hatte, und eigentlich macht es mir Spass und schmeckt nach
+                    mehr.</p>
+                <p>Voll glühender Bewunderung, dem auch etwas Neid beigemischt ist, nehme ich
+                    Kenntnis vom Fortschritt des Buches. Dass Sie die Verlagssorge auch bereits los
+                    sind, ist grossartig. Ich gratuliere.</p>
+                <p>Ihr Plan mit dem Grundstück scheint mir recht vernünftig zu sein, Ich werde Ihren
+                    Brief an <rs ref="#tillich_person_id__1521" type="person">Fritz Pollock</rs>
+                    weiterschicken und ihn bitten, Ihnen direkt zu antworten. Vielleicht können wir
+                    auf der von Ihnen skizzierten Basis uns verständigen. Jedenfalls werden Sie
+                    bestimmt nicht durch uns in eine Situation kommen, in der das Haus für Sie und
+                        <rs ref="#tillich_person_id__1923" type="person">Hannah</rs> gefährdet sein
+                    könnte. Wir freuen uns viel zu sehr damit, dass es diese schöne Sache für Sie
+                    gibt.</p>
+                <p>Am Freitag ist das Semester zu Ende und am Montag morgen wollen wir für 14 Tage
+                    nach <rs ref="#tillich_place_id__854" type="place">Bar Harbor</rs> fahren. Falls
+                    Sie im September noch draussen sind, können wir z. B. ganz leicht an dem
+                    Wochenende des <date from="1947-09-06" to="1947-09-07">6. und 7.
+                        Septembers</date> zu Ihnen kommen oder auch eine Woche darnach. Bitte
+                    schreiben Sie mir doch eine Zeile, ob das geht.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

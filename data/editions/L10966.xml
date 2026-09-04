@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10966">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Stephen F. Bayne Jr. an Paul Tillich <lb/>vom 8. August
+                    1946</title>
+                <author ref="#tillich_person_id__162">Stephen Fielding Bayne Jr.</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/123(32)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__162">Stephen Fielding Bayne Jr.</persName>
+                    <date when="1946-08-08">08.08.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-09-08" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="top" type="letterhead">Columbia University <lb/>in the City of
+                            <rs ref="#tillich_place_id__319" type="place">New York</rs>
+                        <lb/>[<rs ref="#tillich_place_id__319" type="place">NEW YORK</rs> 27, <rs
+                            ref="#tillich_place_id__865" type="place">N. Y.</rs>] <lb/>OFFICE OF THE
+                        CHAPLAIN</fw><fw place="left" type="adressline">The Reverend <rs
+                            ref="#tillich_person_id__1928" type="person">Paul J. Tillich</rs>, Ph.
+                        D. <lb/>Union Theological Seminary <lb/><rs ref="#tillich_place_id__319"
+                            type="place">New York City</rs></fw>
+                    <dateline><date when="1946-08-08">August 8, 1946</date></dateline>
+                    <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Dr.
+                        Tillich</rs>:</salute>
+                </opener>
+                <p>I hope you know how tremendously gratified and moved we all were last Sunday at
+                    your magnificent sermon. You were good enough to tell me that the sermon had a
+                    certain personal bearing. Perhaps knowing that quickened my feelings about it a
+                    little. I must tell you that it has been many a long day since there have been
+                    said in Chapel such great and simple statements of fact. I don&apos;t suppose we
+                    shall hear them soon again I was myself much moved by what you said, because you
+                    seemed so clearly to be talking about myself and to have penetrated to a region
+                    in which I am not yet at home. Many, many thanks.</p>
+                <p>I hope you will not forget to let me have a copy of your manuscript, if that is
+                    convenient to you. I don&apos;t know what other plans you may have, but I should
+                    like at least the privilege of having it mimeographed and sent out to some in
+                    the Chapel family who would especially appreciate reading it.</p>
+
+                <closer><salute>With warm thanks again and best wishes for your birthday, believe
+                        me</salute><signed>Yours very sincerely, <rs ref="#tillich_person_id__162"
+                            type="person">Stephen F. Bayne, Jr.</rs><lb/>Chaplain</signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

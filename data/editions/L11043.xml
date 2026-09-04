@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11043">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Josef Maier an Paul Tillich <lb/>vom 5. Februar 1947</title>
+                <author ref="#tillich_person_id__4918">Josef Maier</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/163 (58)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; Unterschrift eigenhändig; Adresszeile:
+                                <q>Josef Maier, 385 Ft. Washington Ave., New York 33, NY</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__4918">Josef Maier</persName>
+                    <placeName ref="#tillich_place_id__319">New York</placeName>
+                    <date when="1947-02-05">05.02.1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-04-13" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline>Den <date when="1947-02-05">5. Februar
+                        1947</date></dateline><salute>Lieber <rs ref="#tillich_person_id__1928"
+                            type="person">Herr Tillich</rs>:</salute>
+                </opener>
+                <p>Anbei der Entwurf des Briefes, von dem wir gestern sprachen.<note type="ea">Es
+                        handelt sich bei dem hier erwähnten Brief vermutlich um den <rs ref="L11045"
+                            type="letter">Brief von Paul Tillich an Gideon I. Humphreys vom 7.
+                            Februar 1947</rs>.</note></p>
+                <p>Darf ich Sie bitten, ihn auf Seminar-Bogen zu übertragen und<lb/>1. an die
+                    angegebene Adresse <hi rend="u">direkt</hi> abzusenden<lb/>2. eine Kopie des
+                    gleichen Briefes an mich zu schicken.</p>
+                <p>Vielen herzlichen Dank für Ihre Mühewaltung.</p>
+                <closer>
+                    <salute>Mit den herzlichsten Grüssen an Sie und ihre Familie bin ich
+                        stets</salute>
+                    <signed>Ihr <hi rend="hand"><rs ref="#tillich_person_id__4918" type="person"
+                                >Josef Maier</rs></hi></signed>
+                </closer>
+
+            </div>
+        </body>
+    </text>
+</TEI>

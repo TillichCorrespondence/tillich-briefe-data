@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10501">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Unbekannt an Paul Tillich
+               <lb/>vom 27. September 1940 </title>
+            <author ref="#">Unbekannt</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno><!-- Horkheimernachlass (Na 1 [223]) --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__">Unbekannt</persName>
+               <date when="1940-09-27">27.09.1940</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-01-20">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1940-09-27">September 27,1940.</date></dateline><lb/>
+               <rs ref="#tillich_person_id__1928" type="person">Professor Paul Tillich</rs><lb/>
+               Union Theological Seminary<lb/>
+               <rs ref="#tillich_place_id__319" type="place">New York City</rs>
+               <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr Doktor
+                     Tillich</rs>:</salute>
+            </opener>
+            <p>Anliegend sende ich Ihnen im Auftrag von <rs ref="#tillich_person_id__1521"
+                  type="person">Dr. Pollock</rs> einen Brief <note type="ea">liegt nicht vor</note>
+               von <rs ref="#tillich_person_id__4436" type="person">Dr.
+               Strelewicz</rs><!-- Zuordnung unklar -->.</p>
+            <p><rs ref="#tillich_person_id__1521" type="person">Dr. Pollock</rs> lässt fragen, ob es Ihnen möglich ist, in der
+            Sache etwas zu tun, da das Institut hierzu leider ausserstande ist.</p>
+            <closer>
+               <salute>Mit verbindlichen Grüssen und <lb/>in vorzüglicher Hochachtung</salute>Anlage </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10340">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Fritz Medicus<lb/>vom 8. April 1937</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3229-6246">Ole Soldatow</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__480">Zürich</settlement>
+                  <institution>ETH Zürich</institution>
+                  <repository>ETH-Bibliothek Zürich</repository>
+                  <collection><!-- bitte ergänzen sobald möglich--></collection>
+                  <idno>Hs 1377:710</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1937-08-04">08.04.1937</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1291">Fritz Medicus</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="OS" when="2025-06-11">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1937-04-08">8. April 1937</date></dateline>
+               <salute>Lieber Freund <rs ref="#tillich_person_id__1291" type="person"
+                  >Medicus</rs>!</salute>
+            </opener>
+            <p>Als Mitglied der Welthirchenkonferenz in <rs ref="#tillich_place_id__788"
+                  type="place">Oxford</rs> muss ich in diesem Sommer, wie ich schon andeutete,
+               wieder nach <rs ref="#tillich_place_id__736" type="place">Europa</rs> kommen. Ich
+               habe mit meiner Frau beschlossen, dass es billiger ist, wenn die ganze Familie
+               mitkommt, und wir haben beiliegenden Reiseplan entworfen. Es wäre schön, wenn wir
+               irgend eine Möglichkeit finden würden, uns zu sehen. Die Schwierigkeit ist wohl, dass
+               wir diesmal die <rs ref="#tillich_place_id__397" type="place">Schweiz</rs> ist immer
+               noch relativ teuer. Auf alle Fälle aber möchte ich Ihnen von unseren Plänen und von
+               meiner europäischen Adresse Mitteilung machen. Ich denke noch sehr oft an die <rs
+                  ref="#tillich_place_id__480" type="place">Zürcher</rs> Tage, und hoffe dass wir
+               sie, wenn auch kurz, irgendwo wiederholen können.</p>
+            <closer>Viele herzliche Grüsse, Ihnen und Ihrer Familie, Ihr <salute><rs
+                     ref="#tillich_person_id__1928" type="person">Paul Tillich</rs></salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

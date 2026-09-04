@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10991">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Rudolf Kayser an Paul Tillich <lb/>vom 24. August 1946</title>
+                <author ref="#tillich_person_id__4011">Rudolf Kayser</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/157 (40)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__4011">Rudolf Kayser</persName>
+                    <placeName ref="#tillich_place_id__319">New York, N. Y.</placeName>
+                    <date when="1946-08-24">24.08.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-10-15" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><date when="1946-08-24">August 24, 46</date>
+                        <lb/>528 Riverside Drive</dateline>
+                    <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr Professor
+                            Tillich</rs>!</salute>
+                </opener>
+                <p>Der <q>Aufbau</q> bringt die – ein wenig unwahrscheinlich klingende – Nachricht
+                    Ihres sechzigsten Geburtstages.<note type="ea">Im Aufbau vom <date
+                            when="1946-08-23">23. August 1946</date> wurde ein Text von <rs
+                            ref="#tillich_person_id__1521" type="person">Friedrich Pollock</rs> zum
+                        60. Geburtstag von <rs ref="#tillich_person_id__1928" type="person"
+                            >Tillich</rs> veröffentlicht. </note></p>
+                <p>Bitte nehmen Sie verspätet meine und <rs ref="#tillich_person_id__4014"
+                        type="person">meiner Frau</rs> herzliche Geburtstagswünsche entgegen.</p>
+                <p>Wir würden uns freuen, diese bald mündlich wiederholen zu können.</p>
+                <closer>
+                    <salute>Mit schönen Grüssen <lb/>von uns an Ihnen</salute>
+                    <signed>Ihr ergebener <lb/><rs ref="#tillich_person_id__4011" type="person"
+                            >Rudolf Kayser</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

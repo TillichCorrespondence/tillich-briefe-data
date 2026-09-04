@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11075">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Paul H. Kempner an Paul Tillich<lb/>vom 17. April 1947</title>
+                <author ref="#tillich_person_id__3472">Paul H. Kempner</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/157 (59)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig; adressiert: <q>Prof. Dr. Paul Tillich, Union
+                                Theological Seminary, Broadway at 120. Street</q>; Briefpapier von:
+                                <q>Mr. Paul H. Kempner, 145 EAST 52nd STREET</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__3472">Paul H. Kempner</persName>
+                    <date when="1947-04-17">17.04.1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__319">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-04-26" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Lieber <rs ref="#tillich_person_id__1928" type="person"
+                        >Freund</rs>!</salute>
+                </opener>
+                <p><rs ref="#tillich_person_id__4957" type="person">Mrs. Lili Carey</rs> möchte
+                    Ihnen von<pb n="2"/>
+                    <rs ref="#tillich_place_id__122" type="place">Deutschland</rs> erzählen,
+                        <unclear>wo</unclear> sie herkommt. Ich empfehle Ihnen, <rs
+                        ref="#tillich_person_id__4957" type="person">Mrs. Carey</rs> eine Stunde
+                    eingehender Unterhaltung zu widmen. Sie ist mir von Freunden empfohlen.</p>
+                <closer>
+                    <signed><rs ref="#tillich_person_id__4925" type="person"
+                            >PK</rs></signed><dateline><date when="1947-04-17"
+                        >17.4.1947</date></dateline>
+                </closer>
+
+            </div>
+        </body>
+    </text>
+</TEI>

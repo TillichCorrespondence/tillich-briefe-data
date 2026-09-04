@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10872">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Arnold Wolfers an Paul Tillich <lb/>vom 29. Oktober 1945</title>
+                <author ref="#tillich_person_id__2094">Arnold Wolfers</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933-1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                        <idno>bMS 649/205(46)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__2094"> Arnold Wolfers</persName>
+                    <date when="1945-10-29">29.10.1945</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__319">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-06-02" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="top" type="letterhead">YALE UNIVERSITY<lb/><rs
+                            ref="#tillich_place_id__770" type="place">NEW HAVEN</rs>
+                        <rs ref="#tillich_place_id__726" type="place">CONNECTICUT</rs><lb/>PIERSON
+                        COLLEGE<lb/>THE MASTER</fw><dateline><date when="1945-10-29">October
+                            29th<lb/>1945</date><note type="ea">Unter dem Datum steht
+                            handschriftlich: <q><rs ref="#tillich_person_id__846" type="person"
+                                    >Heiman</rs></q>.</note></dateline>
+                    <salute>Dear <rs ref="#tillich_person_id__1928" type="person">
+                        Paulus</rs>:</salute></opener>
+                <p>I now have an opportunity to suggest to an officer in military government in <rs
+                        ref="#tillich_place_id__37" type="place">Berlin</rs> the names of <q>reliable
+                    persons whom I knew when I was living in <rs ref="#tillich_place_id__37"
+                        type="place">Berlin</rs> before the Nazis came into power.</q> Have you any
+                    names to suggest? If they are people I did not know, I would have to have a
+                    brief description from you.</p>
+                <p>I enjoyed the stay at your apartment the other day as much as ever. I can&apos;t tell
+                    you how much those hours of conversation mean to me every time. I love to have
+                        <rs ref="#tillich_person_id__1923" type="person">Hannah</rs> in on them
+                    because of her particular point of view and type of question.</p>
+                <closer><salute>With kindest regards to all of you, also from <rs
+                            ref="#tillich_person_id__2400" type="person"
+                        >Doris</rs>,</salute><signed>As ever yours, <rs
+                            ref="#tillich_person_id__2094" type="person">Arnold </rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

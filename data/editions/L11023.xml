@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11023">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Arnold Wolfers an Paul Tillich <lb/>vom 27. November 1946</title>
+                <author ref="#tillich_person_id__2094">Arnold Wolfers</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933-1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                        <idno>bMS 649/205(46)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; Unterschrift eigenhändig; Briefpapier der
+                            Yale University, Briefkopf: <q>YALE UNIVERSITY, NEW HAVEN
+                                CONNECTICUT</q>, darunter am linken Blattrand: <q>PIERSON COLLEGE,
+                                THE MASTER</q>; adressiert an: <q>Professor Paul Tillich, Union
+                                Theological Seminary, Broadway at 120th Street, New York 27, New
+                                York</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__2094"> Arnold Wolfers</persName>
+                    <date when="1946-11-27">27.11.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__319">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-06-02" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><date when="1946-11-27">November 27th<lb/><hi rend="g"
+                            >1945</hi></date></dateline>
+                    <salute>Dear <rs ref="#tillich_person_id__1928" type="person">
+                        Paulus</rs>:</salute></opener>
+                <p>Thanks for your note of <date when="1946-11-24">November 24</date>.<note
+                        type="ea">Liegt nicht vor.</note> When I spoke to <rs
+                        ref="#tillich_person_id__1923" type="person">Hannah</rs> I forgot that we
+                    had been informed through your secretary about the CARE packages. I apologize
+                    for asking again.</p>
+                <p>I am sad to report that we intend to go off to the country immediately after
+                    Christmas. We will not be here to see you on <date from="1946-12-26"
+                        to="1946-12-28">December 26–28</date>. I could put you up in the little
+                    guest room of Pierson College but no meals will be served in the college at that
+                    time. You would have no trouble, however, about picking up breakfast just around
+                    the corner at the drug store. Let me know if you intend to stay in Pierson.</p>
+                <p>I would be much interested to hear what you find out about guest professorships
+                    in <rs type="place" ref="#tillich_place_id__122">Germany</rs>. I have informed
+                        <rs ref="#tillich_person_id__770" type="person">the Rector of the University
+                        of</rs>
+                    <rs type="place" ref="#tillich_place_id__143">Frankfurt</rs> that I shall not be
+                    able to go there for some time to come. Apparently he got to assist in carrying
+                    out a program of guest professorships. It is not only a question of
+                    transportation but also of food and living quarters once one gets there. The
+                    Germans cannot provide either.</p>
+                <closer><salute>Hoping to see you soon, I remain,<lb/>As ever
+                            yours,</salute><signed><hi rend="hand"><rs
+                                ref="#tillich_person_id__2094" type="person"
+                            >Arnold</rs></hi><lb/><rs ref="#tillich_person_id__2094" type="person"
+                            >Arnold Wolfers</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

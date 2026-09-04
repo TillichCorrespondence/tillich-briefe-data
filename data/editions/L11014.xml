@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11014">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Emil Kauder <lb/>vom 11. Oktober 1946</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/157 (33)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; Adresszeile: <q>Mr. E. Kauder, 242 Newport,
+                                Detroit, 15, Mich</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1946-10-11">11.10.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__4724">Emil Kauder</persName>
+                    <placeName ref="#tillich_place_id__754">Detroit, MI</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-03-20" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><date when="1946-10-11">October 11, 1946</date></dateline>
+                    <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Mr.
+                        Kauder</rs>:</salute></opener>
+                <p>Thank you for <rs ref="L11009" type="letter">your letter of September 29th</rs>
+                    and <rs type="work" ref="#tillich__PIFTF5XH">your reprint</rs>. I liked it very
+                    much and learned a good deal from it. I have not answered your letter because I
+                    was not able to give you a weekend in which I was certain to be in <rs
+                        ref="#tillich_place_id__319" type="place">New York</rs>. Besides that I do
+                    not think that a conversation with me would be worthwhile a trip from <rs
+                        ref="#tillich_place_id__754" type="place">Detroit</rs> to <rs
+                        ref="#tillich_place_id__319" type="place">New York</rs>. Your reprint and
+                    your letter show me that I can recommend you as much as <rs
+                        ref="#tillich_person_id__1965" type="person">Ulich</rs> and <rs
+                        ref="#tillich_person_id__710" type="person">Prof. Grant</rs> did. But I want
+                    to give you a concrete advise. <rs ref="#tillich_person_id__1844" type="person"
+                        >Mrs. Else Staudinger</rs> has a Committee for Refugee Scholars. She has
+                    written to all universities and colleges and has received a large number of
+                    requests. I suggest that you send her your material and refer to <rs
+                        ref="#tillich_person_id__1965" type="person">Prof. Ulich</rs>, <rs
+                        ref="#tillich_person_id__710" type="person">Prof. Grant</rs> and myself in
+                    your letter to her. The address is: AMERICAN COMMITTEE FOR REFUGEE SCHOLARS, 66
+                    Fifth Avenue <rs ref="#tillich_place_id__319" type="place">New York
+                    City</rs>.</p>
+                <closer><salute>I am looking forward to <rs type="work" ref="#tillich__C5UTEQ4H"
+                            >your next reprint</rs>. With all my good wishes,<lb/>Yours
+                        sincerely,</salute><signed><rs ref="#tillich_person_id__1928" type="person"
+                            >Prof. Paul Tillich</rs></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

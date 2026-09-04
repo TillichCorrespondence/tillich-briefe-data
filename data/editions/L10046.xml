@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10046">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Ernst Seeberger an Paul Tillich <lb/>vom 28. Mai 1934</title>
+            <author ref="#tillich_person_id__3444">Ernst Seeberger</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3229-6246">Ole Soldatow</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/184(18)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, handschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__3444">Ernst Seeberger</persName>
+               <date when="1934-05-28">28.05.1934</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="OS" when="2025-06-24">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><rs ref="#tillich_place_id__504" type="place">Berlin
+                     Charlottenburg</rs> 9, Brombeerweg 32, 979902</dateline>
+               <salute>Lieber Onkel <rs ref="#tillich_person_id__1928" type="person"
+                  >Paul</rs>!</salute>
+            </opener>
+            <p>lass Dir bitte noch einmal für Deinen Besuch unf für alles das, was Du gesagt hast,
+               von Herzen danken. Ich will nicht viel Worte davon machen - vielleicht ist es ja auch
+               gar nicht gut, jemand zu sagen, wie sehr man ihn schätzt. Aber gegenüber so manchen
+               Blödigkeiten, die auch gestern Abend über Euer und unser Verhältnis zueinander - Ihr,
+               die Ihr so lange draussen wart und dort auch wirklich eine neue Heimat erworben habt,
+               und wir, die wir aus irgendwelchen Gründen hier bleiben dürften - gesagtworden ist,
+               möchte ich es noch einmal aussprechen, was ich auch schon gestern zu Dir persönlich
+               gesprochen wissen wollte: wir haben Euch wirklich nötig, nicht als Zurückkehrende,
+               aber als Gäste und Freunde. Die Zeit der Kämpfe geht nicht spurlos an uns vorrüber,
+               und wir haben viel Enigkeit und Leidenschaftlichkeit zu überwingden. Es ist eine sehr
+               grosse Belastung, schon wieder in solcher Not zu stehen, der wir entronnen zu sein
+               glaubten, und die Verantwortung in ihr zu tragen. Ich habe gewiss von da her eine
+               übertriebene sentimentale Sehnsucht nach Kameradschaft, und es fällt mir schwer
+               einzusehen, wie allein man in dieser Situation ist. Ich bin dem gar nicht gut
+               gewachsen und manche Empfindlichkeit für den Verdacht der Unlauterkeit mag sich
+               daraus erklären. So ist denn die Luft, die Du mitgebracht hast, die Lust der
+               Unberührtheit, der Sauberkeit und noblen Haltung, die Luft des freien Denkens, so
+               ausserordentlich heilsam, und ich habe sie - von allen Sachlichen abgesehen - in
+               diesen Tagen getrunken wie nie zuvor. Sie war das eigentliche Geschenk deines Daseins
+               hier für mich und dafür lass Dir danken.</p>
+            <closer><salute>Herzliche Grüsse und Wünsche für Deine Arbeit von Deinem</salute>
+               <signed><rs ref="#tillich_person_id__3444" type="person">Ernst</rs></signed>
+            </closer>
+            <postscript>
+               <p>Wie schwer sie errungen worden ist und welche Überwindung sie gekostet hat, das
+                  lass mich nur ahnen.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

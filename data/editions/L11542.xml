@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11542">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Harald Poelchau<lb/>vom 30. Mai 1948</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <!-- Nachlass Poelchau, Privatbesitz Harald Stephan Poelchau -->
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändiges Diktat</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__279">Marburg an der Lahn</placeName>
+                    <date when="1948-05-30">30.05.1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1516">Harald Poelchau</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-05-23" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><hi rend="u">Diktat.</hi><lb/><rs><rs ref="#tillich_person_id__1928"
+                            type="person">Tillich</rs></rs><dateline><rs
+                            ref="#tillich_place_id__279" type="place">Marburg/Lahn</rs><lb/>Hotel
+                            Ritter.<lb/><date when="1948-05-30"
+                        >30.5.48</date></dateline><salute>Lieber <rs ref="#tillich_person_id__1516"
+                            type="person">Harald</rs>.</salute>
+                </opener>
+                <p>Herzlichen Dank für <rs ref="L11541" type="letter">Deinen Brief</rs>, der Vieles
+                    enthält, was mich sehr nachdenklich macht. Ich werde alles tun, um zu Euch zu
+                    kommen, + zwar ohne Lancierung. Meine Schwester <rs
+                        ref="#tillich_person_id__1762" type="person">Elisabeth Seeberger</rs>, mit
+                    der Du ja vorher telefoniert hast, wird Dir alle Einzelheiten sagen. Ich bin von
+                    der kirchlichen Hochschule eingeladen, brieflich und telegrafisch,<note
+                        type="ea">Vgl. den <rs ref="L11136" type="letter">Brief von Erwin Reisner
+                            und Martin Fischer an Paul Tillich vom 5. Mai 1948</rs></note> + werde
+                    auf Grund dessen versuchen, einen Flugzeug-Platz zu bekommen.Ich<pb n="2"/>
+                    glaube, dass dies die günstigste Einladung ist von den drei Möglichkeiten, die
+                    Du erwähnst. Mir liegt wenig an öffentlichen Vorträgen, aber viel an kleinen
+                    Gruppen + Einzelpersonen. Bis jetzt habe ich das Gefühl, dass ich mehr von Euch,
+                    als Ihr von mir zu lernen habt, – das Gefühl, das ja auch hinter <rs
+                        type="letter" ref="L11535 L11537">meinen stotternden Rundbriefen</rs> stand.
+                    Du weisst garnicht, wieviel mir daran liegt: Dich, <rs
+                        ref="#tillich_person_id__641 #tillich_person_id__1763" type="person">meine
+                        beiden Schwäger</rs>, <rs ref="#tillich_person_id__2041" type="person"
+                        >Marieluise</rs> + <rs ref="#tillich_person_id__1922" type="person">Ernst
+                        Tillich</rs> zu sehen.</p>
+                <closer><salute>Hoffentlich, hoffentlich auf
+                            Wiedersehen!</salute><signed>Dein<lb/><hi rend="hand"
+                            resp="#tillich_person_id__1928"><rs ref="#tillich_person_id__1928"
+                                type="person">Paulus</rs></hi></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

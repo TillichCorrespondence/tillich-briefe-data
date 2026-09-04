@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10935">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Siegfried Marck <lb/>vom 18. April 1946</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/164(12)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1946-04-18">18.04.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1262"> Siegfried Marck</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-06-16" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <dateline><date when="1946-04-18">April 18, 1946</date></dateline>
+                    <salute>Lieber <rs ref="#tillich_person_id__1262" type="person">Herr
+                        Marck</rs>:</salute>
+                </opener>
+                <p>Nur einen kurzen doppelten Glückwunsch:</p>
+                <p>1) wegen der Heirat über die ich mich umso mehr gefreut habe als wir uns an jenem
+                    kalten Tag in <rs ref="#tillich_place_id__105" type="place">Chicago</rs> über
+                    Ihre Situation unterhalten haben. Bitte, übermitteln Sie meine Grüsse und
+                    Glückwünsche an <rs ref="#tillich_person_id__3407" type="person">Ihre
+                    Frau</rs></p>
+                <p>2) Meine Glückwünsche für die Nachricht von <rs ref="#tillich_person_id__3406"
+                        type="person">Marshall</rs> und die Möglichkeit, dass Sie nun an die
+                    Übersetzung ohne Beunruhigung herangehen können. Ich rate Ihnen noch einmal, die
+                    zu deutsch klingenden Partien zu ändern oder weg zu lassen.</p>
+                <closer>
+                    <salute>Mit herzlichem Gruss Ihr,</salute>
+                    <signed>
+                        <rs ref="#tillich_person_id__1928" type="person">Prof. Paul Tillich</rs>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

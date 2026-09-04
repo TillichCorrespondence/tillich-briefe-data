@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10507">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an L. Fahs
+               <lb/>vom 26. November 1940 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 140(4)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1940-11-24">24.11.1940</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__4071">S. L. Fahs</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-11-08">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1940-11-26">November 26. 40.</date></dateline>
+               <lb/><rs ref="#tillich_person_id__4071" type="person">Mrs. S.L. Fahs.</rs><lb/>
+               99 Claremont Ave<lb/>
+               <rs ref="#tillich_place_id__319" type="place">New York City</rs>
+               <salute>Dear <rs ref="#tillich_person_id__4071" type="person">Mrs. Fahs</rs>:</salute>
+            </opener>
+            <p>Many thanks for your letter which I read with the greatest interest and with the
+               certain hope to have very soon an occasion to discuss it with you. For the time being
+               I only like to deal with one of the paragraphs because it is based on a
+               misunderstanding. I certainly did not want to say that the religious educators of any
+               type have no personal religion, just the opposite is true; the seriousness of which
+               the whole group deals with the problem of religious education always has found my
+               full admiration. The point I made in this respect was that our period has all
+               different types of religion and that the mind of everybody is split between different
+               types. This is even more true of parents who have never dealt especially with
+               religious problems and do not know what to give their children because they have no
+               powerful religious symbols and rites themselves. I wanted to give a criticism of our
+               period with respect to uniting symbols of that strength which we find in earlier
+               periods of history. My purpose was not to criticize the religious educators, parents
+               as well as professional educators, but on the contrary, to apologize for them because
+               they can not be made responsible for the insatisfactory situation of the Church as a
+               whole. I feel myself entirely under this judgement which has the character of an
+               historical destiny to be conquered by new prophetic movements. I think the
+               educational development is very good but the tremendous difficulties of our education
+               is not the educational method but the religious content which is given to us by
+               history or which is taken away from us by history and which can not be created by
+               education. This was the meaning of the point you referred to. With respect to all the
+               other points we really should have a discussion as soon as possible.</p>
+            <closer>
+               <salute>Very cordially yours</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person"
+                  ><hi rend="hand">Paul Tillich</hi></rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

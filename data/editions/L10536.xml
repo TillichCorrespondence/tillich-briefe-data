@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10536">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Hannah Arendt an Paul Tillich
+               <lb/>vom 10. November 1941 </title>
+            <author ref="#tillich_person_id__75"> Hannah Arendt</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>Marburg</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__75">Hannah Arendt</persName>
+               <date when="1941-11-10">10.11.1941</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-07-05">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><rs ref="#tillich_place_id__319" type="place">New York</rs>, <date when="1941-11-10">den 10. November 1941</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr
+                  Tillich</rs>,</salute>
+            </opener>
+            <p>Ihre beiden Artikel habe ich mit grosser Freude gelesen. In dem allgemeinen Tohuwabohu von Meinungem, den Ausgeburten
+            der Verzweiflung, ist es sehr tröstlich jemanden sprechen zu hören, der nicht nur weiss, worum es in Europa wirklich geht,
+            sondern sich den politischen Willen intakt bewahrt hat.</p>
+            <p>Es war mir natürlich auch sehr willkommen, bei dieser Gelegenheit den Kampf kennen zu lernen, den der "Protestant Digest" gegen
+            den Antisemitismus führt. Ich wünschte nur, die Zeitschrift hätte in dieser Hinsicht eine politisch ebenso durchartikulierte 
+            Position wir es die Ihre ist.</p>
+            <closer>
+               <salute>Mit besten Grüssen</salute>
+               <signed>Ihre <rs ref="#tillich_person_id__75" type="person"
+                  >Hannha Arendt-Blücher</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

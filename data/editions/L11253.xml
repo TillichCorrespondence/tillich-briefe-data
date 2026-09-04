@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11253">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Nahum Norbert Glatzer<lb/>vom 20. Oktober
+                    1948</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier><!-- Privatbesitz Judith Wechsler (Tochter v. Glatzer) --></msIdentifier>
+                    <physDesc>
+                        <p>Brief, als Abschrift überliefert</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1948-10-20">20.10.1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__2872">Nahum Norbert Glatzer</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-06-13" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><salute>Dear <rs ref="#tillich_person_id__2872" type="person">Dr.
+                            Glatzer</rs>:</salute>
+                </opener>
+                <p>Many thanks for sending me <rs ref="#tillich_person_id__306" type="person"
+                        >Buber</rs>&apos;s new book which already has arrived and which I hope to be
+                    able to read<lb/>very soon.<note type="ea">Es ist unklar, welches Buch hier
+                        gemeint ist. Es könnte sich jedoch um: Martin Buber: Das Problem des
+                        Menschen (1948) handeln.</note></p>
+                <p>Of course I do remember you and I believe also to remember that once you have
+                    visited me in my office. Beyond this I have read very interesting articles of
+                    yours about medieval Arabic theology.</p>
+                <p>I hope there will be an occasion to meet you again in <rs
+                        ref="#tillich_place_id__319" type="place">New York</rs>,</p>
+                <closer><salute>Cordially,</salute><signed><rs ref="#tillich_person_id__1928"
+                            type="person">Prof. Paul Tillich</rs>.</signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

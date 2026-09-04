@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10136">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Undatierter Brief von Paul Tillich an Hannah Tillich <lb/>vermutlich aus dem
+                    Jahr 1935</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933-1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                        <idno>bMS 721/3(6)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date notBefore="1935-01-01" notAfter="1935-12-31">1935</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-06-16" who="EL">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebstes <rs type="person" ref="#tillich_person_id__1923"
+                        >Hannahchen</rs>!</salute>
+                </opener>
+                <p>Noch 3 Stunden von <rs type="place" ref="#tillich_place_id__105">Chicago</rs> entfernt! Erst 12 Stunden Schlaf und Dösen in weichem Schlafwagen-Bett. Dann Frühstück um <formula notation="TeX">\frac{1}{2}</formula>11 und Lunch um 2. (Um 1 nach Eurer Zeit) Inzwischen den Brief an <rs type="person" ref="#tillich_person_id__1965">Ulich</rs><note type="ea">Nicht überliefert.</note> fertig gemacht. Bitte schreibe beides ab, Brief <hi rend="u">und</hi> Entwurf, und schicke es ihm so schnell wie möglich. Falls Du etwas gar nicht lesen kannst, lass eine Lücke und schicke das Manuskript erst an mich. Machs wenn irgend möglich recht bald und mit einem Durchschlag. Zu dem Brief kannst Du ja von Dir aus noch allerhand hinzufügen –––</p>
+                <p>Das Wetter ist herrlich: Leichter Schnee und strahlende Sonne. Der Sturm hat mich nicht weggepustet.</p>
+                <closer>Ich denke an Euch und die schönen letzten Tage. Gruss auch an <rs type="person" ref="#tillich_person_id__570">Erdmuthe</rs>! <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paulus</rs></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

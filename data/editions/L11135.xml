@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11135">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich Alice Balivo<lb/>vom 3. Mai 1948 </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/122(39)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1948-05-03">03.05.1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__127">Alice Balivo</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="CO" when="2026-05-19">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><date when="1948-05-03">May 3, 1948</date></dateline>
+                    <salute>Liebe <rs ref="#tillich_person_id__127" type="person">Frau
+                        Balivo</rs>:</salute>
+                </opener>
+                <p>Herzlichen Dank für <rs ref="L11131" type="letter">Ihren Brief</rs>.
+                    Selbstverständlich erinnere ich mich an Sie. Als erstes fiel mir die tolle
+                    Sturmnacht ein, wo wir alle um Mitternacht zur Hochflut gingen. Wie weit ist
+                    diese vergangene Welt entfernt!</p>
+                <p>Ich bin hier seit 15 Jahren und so gut eingewöhnt, wie es für jemanden möglich
+                    ist, der mit 47 Jahren in ein fremdes Land geht (übrigens fahre ich diese Woche
+                    für 4 Monate nach <rs ref="#tillich_place_id__736" type="place">Europa</rs> und
+                    nach <rs ref="#tillich_place_id__122" type="place">Deutschland</rs> für
+                    Vorlesungen nach <rs ref="#tillich_place_id__279" type="place"
+                    >Marburg</rs>.)</p>
+                <p><rs ref="#tillich_person_id__1887" type="person">Eckart v. Sydow</rs> ist 1942 an
+                    einer Krankheit gestorben, nachdem ich ihn 1937 von hier aus noch einmal in der
+                        <rs ref="#tillich_place_id__397" type="place">Schweiz</rs> getroffen
+                    hatte.</p>
+                <p>Und nun zu Ihrer Frage. Der einzige Mensch, den ich im Augenblick in <rs
+                        ref="#tillich_place_id__768" type="place">San Francisco</rs> kenne, lebt
+                    diesseits der Brücke in <rs ref="#tillich_place_id__815" type="place"
+                        >Berkley</rs>, Professor for Economics an der dortigen Universität und
+                    heisst <rs ref="#tillich_person_id__4112" type="person">Carl Landau</rs>. Er hat
+                    vielen Emigranten geholfen und wird Sie sicher gern sehen. Grüssen Sie ihn und
+                    sagen Sie ihm, dass Sie auf meine Veranlassung kommen. Ich beabsichtige, Ende
+                    September zurück zu sein und würde dann gern hören, wie sich Ihre Dinge
+                    entwickelt haben.</p>
+                <closer>
+                    <salute>Mit herzlichem Gruss,</salute>
+                    <signed>Ihr,<lb/><rs ref="#tillich_person_id__1928" type="person">Prof. Paul
+                            Tillich</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

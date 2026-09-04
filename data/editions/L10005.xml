@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10005">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Emil Netter an Paul Tillich <lb/>vom 27. Dezember 1933</title>
+            <author ref="#tillich_person_id__2484">Emil Netter</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0000-0002-0440-4008">Gerrit Mauritz</name>
+               <name key="https://orchid.org/0000-0003-4455-6804">Brach S. Jennings</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/169(54)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2484">Emil Netter</persName>
+               <date when="1933-12-27">27.12.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="GM" when="2025-05-06">Transkription</change>
+         <change who="BJ" when="2026-08-27">Brief durchgelesen und geprüft.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><rs type="person" ref="#tillich_person_id__2484">Emil W. Netter</rs>
+               <dateline><rs type="place" ref="#tillich_place_id__143">Frankfurt a. Main</rs>, <date
+                     when="1933-12-27">27.12.33</date></dateline>
+               <salute>Lieber <rs type="person" ref="#tillich_person_id__1928">Herr
+                  Tillich</rs>,</salute>
+            </opener>
+            <p>Sie können sich nicht denken, wie sehr meine <rs type="person"
+                  ref="#tillich_person_id__3247">Frau</rs> und ich uns mit Ihrem Gruss gefreut
+               haben, den wir für Sie alle von ganzem Herzen erwidern, Wir konnten Ihnen nicht
+               vorher schreiben, weil nicht festzustellen war, wo Sie nun eigentlich sind. Es freut
+               uns, zu hören, dass Sie wenigstens zur Zeit untergebracht sind und nicht
+               unoptimistisch in die Zukunft sehen.</p>
+            <p> Bei uns hat sich seit Ihrem Weggang wenig verändert. Wir haben uns, wahrscheinlich
+               mit Unrecht, sehr eingekapselt, sehen ausserordentlich wenig Menschen, zumal ich
+               durch den Tod meines <rs type="person" ref="#tillich_person_id__3250">neuen
+                  Sozius</rs> mit Arbeit sehr überlastet bin. – Die <rs type="person"
+                  ref="#tillich_person_id__3248">Tochter</rs> meiner <rs type="person"
+                  ref="#tillich_person_id__3247">Frau</rs>, die in <rs type="place"
+                  ref="#tillich_place_id__343">Paris</rs> in einer Buchhandlung in Stellung war, hat
+               mutwilligerweise diese aufgegeben und will sich jetzt etwas neues suchen. Wir kleben
+               am Alten, waren überhaupt sehr wenig weg, wollen aber jetzt, Mitte Februar eine
+               Orientierungsreise nach <rs type="place" ref="#tillich_place_id__723">Ägypten</rs>,
+                  <rs type="place" ref="#tillich_place_id__582">Palästina</rs> und <rs type="place"
+                  ref="#tillich_place_id__725">Syrien</rs> antreten. Wir sind uns dabei völlig
+               bewusst, dass wir diese Reise nur machen, um einen Entschuldigungsgrund zu suchen,
+               unsere Alteingesessenheit nicht aufzugeben. Ob das richtig ist? Wie dem auch sei, wir
+               wollen uns gegenseitig ein Glückauf zurufen und die Fiktion aufrecht erhalten, dass
+                  das<pb n="2"/> Leben der Güter höchstes sei.</p>
+            <closer>
+               <salute>Allerherzlichst</salute> Ihr <signed><unclear reason="illegible" resp="GM"
+                        ><rs type="person" ref="#tillich_person_id__2484">Emil
+                  Netter</rs></unclear></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

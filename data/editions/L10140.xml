@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10140">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Undatierter Brief von Paul Tillich an Hannah Tillich <lb/>vermutlich von Jannuar 1935</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933-1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                        <idno>bMS 721/3(6)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date notBefore="1935-01-01" notAfter="1935-01-31">01.1935</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-06-18" who="EL">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
+                        >Hannah</rs>!</salute>
+                </opener>
+                <p>Auch heute früh ein Brief von <rs type="person" ref="#tillich_person_id__3430">Plathner</rs><note type="ea">Nicht überliefert.</note> und nichts von Dir. Ich bin ganz verzagt: Dies ist mein 5<hi rend="sup">ter</hi> Brief ohne Wiederhall. Wenn morgen nichts kommt, telephoniere ich.</p>
+                <p>Ich sende Dir den Brief von <rs type="person" ref="#tillich_person_id__3430">Plathner</rs>, weil er Dich interessieren wird; vielleicht schickst Du ihn gelegentlich mit (auch den von <rs type="person" ref="#tillich_person_id__1829">Friedrich Spiegelberg</rs>)</p>
+                <p>Gestern, Sonntag, war ich viele Stunden im Museum. Es hat sehr viele herrliche Sachen, besonders Franzosen. Ich schicke Dir ein paar Reproduktions-Karten, von denen beider mir eine kleine Auswahl vorhanden war. Bewahre sie bitte auf; denn sie waren ziemlich teuer. Schicke Du mir doch ein paar Lieblinge aus der New Yorker Gallerie! <pb n="2"/></p>
+                <p>Es ist warmes Tauwetter; die Strassen voll Wasser. Der eindruck der Wüstheit, den <rs type="place" ref="#tillich_place_id__105">Chicago</rs> macht, hat sich gestern bei mir verstärkt. Stelle Dir vor, dass hinter dem glänzenden Hauptstrassen ganz enge Hinterstrassen, wie die engsten neapolitanischen Gassen einherlaufen, auf beiden Seiten die Eisenleitern der 20-40 Stock hohen Häuser; die Leitern bleiben berühren sich fast und der Boden ist kaum mit Kopfsteinen gepflastert. Das sieht ebenso wüst und unheimlich aus; man traut sich nicht durchzugehen.</p>
+                <p>Gestern Abend habe ich im Pyama und Schlafrock gearbeitet, wie ein älterer Herr aus besseren Zeiten.</p>
+                <closer>Warum lässt Du mich verschmachten? Zeig und erkläre <rs type="person" ref="#tillich_person_id__570">Erdmuthe</rs> die Bilder. Einen Kuss Euch beiden!
+                    <signed><rs type="person" ref="#tillich_person_id__1928">Paulus</rs></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

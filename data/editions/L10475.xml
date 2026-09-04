@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10475">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief Gerard Dross an Paul Tillich
+               <lb/>vom 22. November 1939 </title>
+            <author ref="#tillich_person_id__4024">Gerard F. Dross</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 137(32)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__4024">Gerard F. Dross</persName>
+               <date when="1939-11-22">22.11.1939</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Pau Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-10-17">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <rs ref="#tillich_person_id__4024">GERARD F. DROSS</rs>
+               <lb/>PUBLISHERS AGENCY . DEALER IN NEW AND OLD BOOKS AND PRINTS <lb/> 2308 E. NEWTON
+               AVE. . <rs ref="#tillich_place_id__795" type="place">MILWAUKEE</rs>, <rs
+                  ref="#tillich_place_id__796" type="place">WISCONSIN</rs>, <rs
+                  ref="#tillich_place_id__684" type="place">U.S.A.</rs> . EDGEWOOD
+                     4557-J<lb/><dateline><date when="1939-11-22">November 22,
+                  1939</date></dateline>
+               <lb/><rs ref="#tillich_person_id__1928" type="person">Herrn Professor Dr.
+                  Tillich</rs>
+               <lb/>Union Theological Seminary <lb/>Broadway and 102th street <lb/><rs
+                  ref="#tillich_place_id__319" type="place">New York NY</rs>
+               <lb/><rs ref="#tillich_person_id__3339" type="person">Fräulein Hilde Frankel</rs>
+               <salute>Sehr geehrtes <rs ref="#tillich_person_id__3339" type="person">Fräulein
+                     Fränkel</rs>:</salute>
+            </opener>
+            <p>Besten Dank für die Aufstellung der Schriften von <rs ref="#tillich_person_id__1928"
+                  type="person">Prof. Tillich</rs>, die abgegeben werden können. Aber leider haben
+               Sie vergessen, mir mitzuteilen, was sie kosten. Ich wäre Ihnen sehr verbunden, wenn
+               Sie das recht bald nachholen wollten, damit ich meinem Klienten schreiben kann, der,
+               wenigstens etwas zu bekommen, sehr erfreut sein wird.</p>
+            <p>Sie schreiben mit <q>mit freundlichen Grüssen</q>, als kennten Sie mich. Kennen Sie mich?
+            Wenn Sie in <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> waren, ist es anzunehmen.
+            Ich kann mich aber, verzeihen Sie die Offenheit, nicht Ihrer entsinnen. Wenn, geben Sie mir d 
+            doch bitte einen Wink.</p>
+            <closer>
+               <salute>Mit freundlichen Grüssen</salute>
+               <signed><rs ref="#tillich_person_id__4024" type="person"
+                  ><hi rend="hand">GF Dross</hi></rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

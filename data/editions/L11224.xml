@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11224">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Adolf Keller an Paul Tillich
+               <lb/>vom 7.<!-- unleserlich, könnte auch 1. sein --> September 1948 </title>
+            <author ref="#tillich_person_id__1038">Adolf Keller</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 157(50)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1038">Adolf Keller <!-- Zurordnung recht sicher anhand der im Brief angegebenen Adresse Sonnenbergstrasse 19 Zürich --></persName>
+               <date when="1948-09-07">07.09.1948</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-04-30">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><rs ref="#tillich_place_id__480" type="place">Zürich</rs> 19
+                     Sonnenbergstr<add place="left">neue Adresse!</add>
+                  <date when="1948-09-07"><unclear>7</unclear>/9/48</date>.</dateline>
+               <salute><unclear>L<rs ref="#tillich_person_id__1928" type="person">Fr.</rs></unclear>,</salute>
+            </opener>
+            <p>Ich sandte Dir 2 Briefe<note type="ea">liegen nicht vor</note>, in einem stellte ich
+               die Bitte mir <unclear>deine Protest Erc</unclear> zur Recens. in der Schweiz.
+               Rdschau, die es gewünscht hatte, zusenden zu lassen, kam noch nicht. Das andere war
+               die ev. anfrage wegen Kursen in <rs ref="#tillich_place_id__480" type="place"
+                  >Zürich</rs>– mein Buch kann man nur gelegentlich erwähnen als
+                  <unclear>Beisp.</unclear> eines <q>transatlant. Dialogs</q>. Es soll jetzt eine 2.
+               Auflage in <unclear>Otuhad?</unclear> herauskommen, wo es viel gewünscht wird. Was Du
+               tun könntest, wäre eine Litteraturangabe von Büchern u. Artikel, um das Buch, seit 45
+               à jour<pb n="2"/> zu bringen. Welche <unclear>Ausserungen</unclear> sind für einen
+               Wandel in Theol. <unclear>Kirchlichkt</unclear>, ausser-kirchl. Einstellg.
+               charakteristisch? Ich kenne nat. die
+               Ch.-Crisis<!-- vielleicht die Zeitschrift Christianity and Crisis -->, Ch. Century.
+               also <unclear>aus den Handgelenk</unclear>. <rs ref="#tillich_place_id__12"
+                  type="place">Amsterdam</rs> war ausgezeichnet vorbereitet, aber keine
+                  <unclear>Ausgang</unclear> aus dem Kl. Geiste Angesichts der Theol. Wandlg hättest
+               Du <unclear>allerlei Kritiker zus</unclear></p>
+            <closer>
+               <salute>Immer Dein</salute>
+               <signed><rs ref="#tillich_person_id__1038" type="person"
+                  >AK</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10941">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Max Horkheimer an Paul Tillich <lb/>vom 08. Mai 1946</title>
+                <author ref="#tillich_person_id__931">Max Horkheimer</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement ref="#tillich_place_id__143">Frankfurt a. M.</settlement>
+                        <institution>Goethe-Universität Frankfurt</institution>
+                        <repository>Universitätsbibliothek Frankfurt</repository>
+                        <collection>UBA Ffm</collection>
+                        <idno>Na 1 Nr. 25</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                        <!-- Karteikarte, eigenhändig -->
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__931"> Max Horkheimer</persName>
+                    <date when="1946-05-08">08.05.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__319">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="de">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-07-11" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <fw place="top" type="adressline"><unclear>N. t.</unclear>
+                    <rs ref="#tillich_person_id__1928" type="person">Dr. Paul Tillich</rs> <lb/>Union
+                    Theological Seminary <lb/>B&apos;way at 120 Street <lb/><rs
+                        ref="#tillich_place_id__319" type="place">NYC</rs></fw>
+                <dateline><date when="1946-04-08">5/8/46</date><!-- dateline eigentlich am Schluss --></dateline>
+                <p>Thanks for <unclear>Easter</unclear> Sermon. Never <unclear>heard</unclear> a
+                    better one.</p>
+                <closer><salute>Cordially</salute><signed><rs ref="#tillich_person_id__931"
+                            type="person">Max</rs>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

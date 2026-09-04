@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11292">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an To Whom It May Concern
+               <lb/>vom 25. April 1949 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 172(11)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1949-04-25">25.04.1949</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#">To Whom It May Concern</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-05-20">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute><hi rend="underline">To Whom It May Concern</hi></salute>
+            </opener>
+            <p>I have known <rs ref="#tillich_person_id__5092" type="person">Dr. Anita ORIENTER</rs>
+               for more than 20 years and do consider her as an extraordinary gifted and intelligent
+               personality. She graduated summa cum laude having written an excellent theses on
+                  <q>The Evolution from Medieval to Renaissance Art</q>. Her career confirmed her
+               promising studies. As a painter she made several one man&apos;s shows and taught
+               History of Art and Painting in several colleges in <rs ref="#tillich_place_id__1540"
+                  type="place">Braail</rs> and <rs ref="#tillich_place_id__219" type="place"
+                  >Italy</rs>. Her great artistic talent, her pleasant personality – she has a
+               special talent to deal with young people – her ample experience in teaching combined
+               with her knowledge of languages (French, German, Italian, Portuguese) will enable her
+               to collaborate efficiently with American institutions of higher learning.</p>
+            <p>Some weeks ago she has completed a portrait of myself which shows her great artistic
+               talent and which has been received with enthusiasm by all my friends. I have seen
+               many of her paintings which impressed me very much. Specialized in restoration she
+               asked me to let her restore a completely ruined picture I own which had been declared
+               unrestorable by one of the official restorers of <rs ref="#tillich_place_id__319"
+                  type="place">New York</rs> and the result of her work seems to me almost
+               miraculous.</p>
+            <closer>
+               
+               <signed><rs ref="#tillich_person_id__1928" type="person"
+                  >Paul Tillich</rs><lb/>Professor at Union Theological<lb/>Seminary
+               and Colombia University</signed>
+               <rs ref="#tillich_place_id__319" type="place">New York</rs>, <dateline><date when="1949-04-25">April 25, 1949</date></dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

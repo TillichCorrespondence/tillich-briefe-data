@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10089">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Elisabeth Tillich
+               <lb/>vom Weihnachten 1935</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/184(9)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1935-01-01">Weihnachten Neujahr 1935</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1762">Elisabeth Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-05-22">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <!-- AB HIER GEHT DER EIGENTLICH BRIEF LOS -->
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline> <date when="1935">1935</date></dateline>
+               <salute>Liebste <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs>,</salute>
+            </opener>
+            <p><hi>Dir, <rs ref="#tillich_person_id__1763" type="person">Erhard</rs>, <rs
+                     ref="#tillich_person_id__3208" type="person">Hans-Jürgen</rs>, <rs
+                     ref="#tillich_person_id__3311" type="person">Adelhard</rs> und <rs
+                     ref="#tillich_person_id__3310" type="person">Waltraut</rs></hi> meinen
+               allerschönsten, Bruder= Schwager= <add place="supralinear">Paten=</add> und
+               Onkelhaften Weihnachts- und Neujahrsgruss. Seid fröhlich unter dem Weihnachtsbaum
+               zusammen, hoffentlich mit <rs ref="#tillich_person_id__1924" type="person"
+                  >Vaterchen</rs>, liebt Euch und denkt an uns, vergesst die Weltgeschichte und
+               hofft mit uns auf ein Wiedersehen im Sommer!</p>
+            <p><unclear>Ausser</unclear> dem großen Bild schicke ich noch einen Bericht über die Kinder, den
+               <rs ref="#tillich_person_id__1923" type="person">Hannah</rs> geschrieben hat. Von mir soll mein englisches Buch kommen,
+               hoffentlich klappt es. Im Übrigen sind wir arm wie die Kirchenmäuse und mit dem 'Onkel aus Amerika' ist es in diesem Jahr so
+               wenig wie im vorigen.
+            </p>
+            <p>Zu schreiben gibt es dieses Mal nicht viel. Denn auf die Verbindung von
+               Geschichtsphilosophie und Weihnachtsbaum <pb n="2"/>verzichte ich wohl lieber in
+               diesem Jahr. Das hat den doppelten Vorteil, dass der Weihnachtsbaum von dem Feuer der
+               Geschichtsphilosophie und diese von den Silber- <unclear>Tränlein</unclear> des
+               Weihnachtsbaum verschont bleibt.</p>
+            <p>Unsre Tage rasen und unsere Nächte sind zu kurz für die Unerschöpflichkeit der Anforderungen.
+               <rs ref="#tillich_person_id__1923" type="person">Hannah</rs> ist dauernd an der Grenze und ich zehre von
+               dem im Sommer aufgesparten Kapital.
+            </p>
+            <p>Nun lebt wohl ihr Lieben! Ich umarme Euch alle in Liebe und Sehnsucht. Geht gut und tapfer ins neue Jahr,
+            obgleich wir wissen, dass es den Namen 'anno domini' nur mit demselben Recht verdienen wird wie das und die entsprechenden
+            Jahre vor 3 Jahrhunderten! (Also doch noch Geschichtsphilosophie)</p>
+            <closer>
+               <salute>In Liebe</salute>
+               Eurer <signed><rs ref="#tillich_person_id__1928" type="person"
+                  >Paulus</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10908">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Gertrud Müller-Munk an Paul Tillich <lb/>vom 30. Januar 1946</title>
+                <author ref="#tillich_person_id__3354">Gertrud Müller-Munk</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/168(11)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__3354"> Gertrud Müller-Munk</persName>
+                    <placeName ref="#tillich_place_id__779">New York-Brooklyn</placeName>
+                    <date when="1946-01-30">30.01.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-06-05" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><rs ref="#tillich_place_id__779" type="place">Brooklyn</rs>, <date when="1946-01-30">Jan.
+                        30th 46</date><lb/>62 Willow Str.<lb/>Main 4 3481</dateline><salute>Dear <rs
+                            ref="#tillich_person_id__1928" type="person">Prof.
+                        Tillich</rs>:</salute>
+                </opener>
+                <p>Some weeks ago I sent you a letter from <rs ref="#tillich_person_id__3356"
+                        type="person">Walther Schindler</rs>,<note type="ea">Liegt nicht vor.</note>
+                    <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, and hope you have
+                    received it. I wonder whether you still need it for any purpose you have in
+                    mind. If not, would you be good enough to return it to me?</p>
+                <closer><salute>With best regards</salute><signed>sincerely yours <rs
+                            ref="#tillich_person_id__3354" type="person">Gertrud
+                        Müller-Munk</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

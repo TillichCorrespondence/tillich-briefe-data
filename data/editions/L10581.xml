@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10581">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Betty Drury
+               <lb/>vom 10. Juli 1942 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno><!-- The New York Public Library, Emergency Commitee in Aid Collection; Mss.&Archives Section --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich <!-- liegt als Transkript vor --></p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1942-07-06">06.07.1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__492">Betty Drury</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-02-15">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><rs ref="#tillich_place_id__854" type="place">Bar Harbor, Marne</rs>, General
+               Delivery <dateline>
+                  <date when="1942-07-10">July 10th. 1942</date></dateline>
+               <salute>Dear <rs ref="#tillich_person_id__492" type="person">Miss
+                  Drury</rs>:</salute>
+            </opener>
+            <p>I answer your question concerning <rs ref="#tillich_person_id__75"
+               type="person">Dr. Hannah Arendt-Bluecher</rs> quite informally, being in vacation,
+            without typewriter and secretary.</p>
+            <p>I have known her since about 1930 when I was Professor of Philosophy at the
+               University <rs ref="#tillich_place_id__143" type="place"> Frankfurt/Main</rs>. As
+               soon as she arrived in this country I got in touch with her and have met her several
+               times. She is an absolutely outstanding personality. In <rs
+                  ref="#tillich_place_id__143" type="place">Frankfurt</rs> she excelled amongst all
+               the studying women as the most learned and able one. After the discussions I had here
+               with her I had the impression that this has not changed at all, but that beyond this
+               she has become a mature, cultivated and strong personality. I also have met her
+               husband who impressed me deeply. May I add that I have heard similar judgments about
+                  <rs ref="#tillich_person_id__75" type="person">Mrs. Bluecher</rs> from other very
+               reliable persons. She deserves any kind of help you can give her.</p>
+            <closer>
+               <salute>Very sincerely yours,</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person"
+                  >Paul Tillich</rs></signed><lb/>
+               Executive Secretary<lb/>
+               Enclosure
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10502">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Max Horkheimer
+               <lb/>vom 01. Oktober 1940 </title>
+            <author ref="#tillich_person_id__1928"> Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__143">Frankfurt a.M.</settlement>
+                  <institution>Goethe-Universität Frankfurt</institution>
+                  <repository>Universitätsbibliothek Frankfurt</repository>
+                  <collection>UBA Ffm</collection>
+                  <idno>Na 1<!-- Johann Wolfgang Goethe-Universität, Universitätsbibliothek J. C. Senckenberg, Archivzentrum: UBA Ffm, Na 1 2 (240) / (Na 1, [206] 290r)--></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1940-10-01">01.10.1940</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__931">Max Horkheimer</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-09-23">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <date when="1940-10-01">October 1 st. 40.</date></dateline><lb/>
+               <rs ref="#tillich_person_id__931" type="person">Dr. Max Horkheimer.</rs><lb/>
+               Institute of Social Research<lb/> 429 West 117 Street.<lb/>
+               <rs ref="#tillich_place_id__319" type="place">New York City</rs>. <salute>Dear <rs
+                     ref="#tillich_person_id__931" type="person">friend </rs>:</salute>
+            </opener>
+            <p><rs ref="#tillich_person_id__168" type="person">Dr. Maximilian Beck</rs> writes to me
+               that his income in <rs ref="#tillich_place_id__767" type="place">Yale</rs> is only $
+               80- monthly and that his son is without a scholarship in <rs
+                  ref="#tillich_place_id__990" type="place">Cornell</rs>. He is very much concerned
+               about his situation and asks you whether there is any chance to get help either in a
+               form of a loan to be repaid not before two years or something like that. His address
+               is: 225 Whitney Avenue, <rs ref="#tillich_place_id__770" type="place">New Haven,
+                  Conn.</rs>
+            </p><p> I would be very grateful if you could do something in this matter.</p>
+            <closer>
+               <salute>Very sincerely yours</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person"
+                  ><hi rend="hand">Paul Tillich</hi></rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

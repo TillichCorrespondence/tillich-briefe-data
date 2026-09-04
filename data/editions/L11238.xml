@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11238">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Emil Blum
+               <lb/>vom 5. Oktober 1948 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 125(26)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1948-10-05">05.10.1948</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__231">Emil Blum</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-05-16">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1948-10-05">October 5, 1948</date></dateline><lb/>
+               <rs ref="#tillich_person_id__231" type="person">Prof. Emil Blum</rs><lb/> Spitteler
+               Str. 28<lb/>
+               <rs ref="#tillich_place_id__55" type="place">Bern, Switzerland</rs>
+               <salute>Lieber <rs ref="#tillich_person_id__231" type="person">Emil</rs>:</salute>
+            </opener>
+            <p>Haben Sie herzlichen Dank fuer Ihren <rs ref="#L11210" type="letter">Brief</rs> und
+               die Nachricht, dass Sie an <rs ref="#tillich_person_id__5009" type="person"
+                  >Wagners</rs> das gewuenschte Mittel geschickt haben. Ich habe natuerlich keinen
+               Moment gedacht, dass Sie die Sendung privat uebernehmen sollten. Ich werde unserer
+               Studentengruppe, die fuer solche Zwecke Geld zusammenbringt, Ihren Namen geben und
+               bitte Sie, wenn ueberhaupt nur das zu schicken, was von hier aus getragen wird. Vor
+               allem duerfen Sie nichts schicken, bevor nicht die Bestaetigung fuer die Sendung
+               angekommen ist, denn da es sich um <rs ref="#tillich_place_id__37" type="place"
+                  >Berlin</rs> handelt, weiss man nie wie die Dinge laufen. Jedenfalls danke ich
+               Ihnen sehr fuer Ihre schnelle Hilfe. Ich sah das Kind und die Mutter und es ist ein
+               schreckliches Erlebnis zu wissen, dass ein Kind rettungslos sterben muss, wenn eine
+               an sich verfuegbare Hilfe nicht geleistet werden kann.</p>
+            <p>Ich bin traurig, dass es <rs ref="#tillich_person_id__2424" type="person"
+                  >Susanne</rs> wieder schlecht geht. Sie war so wohl und lebendig als ich bei Eich
+               war, wie ueberhaupt der Abend bei Euch eine der schoensten Erinnerungen an <rs
+                  ref="#tillich_place_id__736" type="place">Europa</rs> ist. Spaeter kam viel
+               Schweres und noch heute bin ich sehr erschoepft von der ungeheuren Anstrengung des
+               deutschen Aufenthaltes.</p>
+            <p>Meine besten Wuensche fuer baldige Genesung an <rs ref="#tillich_person_id__2424" type="person">Susanne</rs> und Dank
+            und Gruss an Sie selbst,</p>
+            <closer>
+               <salute>Immer Ihr,</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person"
+                  >Paul Tillich</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

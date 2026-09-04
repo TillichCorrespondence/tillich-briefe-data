@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10517">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich, Robert Searle und Eva Sanderson Child an die Besucher des Friendship House
+               <lb/>vom 27. Januar 1941 </title>
+            <author ref="#tillich_person_id__1928"> Paul Tillich</author>
+            <author ref="#tillich_person_id__4165"> Robert W. Searle</author>
+            <author ref="#tillich_person_id__4166"> Eva Sanderson Child</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__143">Frankfurt a.M.</settlement>
+                  <institution>Goethe-Universität Frankfurt</institution>
+                  <repository>Universitätsbibliothek Frankfurt</repository>
+                  <collection>UBA Ffm</collection>
+                  <idno>Na 1<!-- Johann Wolfgang Goethe-Universität, Universitätsbibliothek J. C. Senckenberg, Archivzentrum: UBA Ffm, Na 1 ??? --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__4165">Robert Searle</persName>
+               <persName ref="#tillich_person_id__4166">Eva Sanderson Child</persName>
+               <date when="1941-01-27">27.01.1941</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#"></persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-11-23">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>TO THE VISITORS OF FRIENDSHIP HOUSE. <salute>Dear Friends:</salute>
+            </opener>
+            <p>The Executive Committee of Friendship House desires that there be a well-rounded
+               program of activities in Friendship House. To that end the following has been
+               accepted by the Committee. </p>
+            <p>Every second Monday, beginning Monday, Jan. 27th, a meeting will take place in
+               Friendship House where religious discussions of general interest will be discussed.
+               Professors of Union Theological Seminary and other outstanding religious leaders will
+               lead the discussion after a few words of introduction. Problems of the <q>Philosophy
+                  of Religion</q>, of <q>Religious Education</q>, of Church Membership, of religious
+               ethics in the present world, of State and Church in <rs ref="#tillich_place_id__736"
+                  type="place">Europe</rs> and <rs ref="#tillich_place_id__684" type="place"
+                  >America</rs> will be dealt with. (compare the enclosed program). Every visitor of
+               Friendship House, whether within or without a special religious tradition is urgently
+               invited to participate in these discussions. It is hoped that the Americans visiting
+               Friendship House will also participate in these programs. These meetings will start
+               at 8 P.M. and last as long as there are questions, but not beyond 10 P.M. The
+               discussion will be held in English but there will be usually a possibility of having
+               questions translated into other languages.</p>
+            <p>The one purpose of these meetings is to introduce to emigres the religious structure
+               and activities of the churches in this country. The other purpose is to find in
+               common search a religious interpretation of the present world situation and the fate
+               of the individual as determined by it.</p>
+            <closer>
+               <salute>Very sincerely yours</salute>
+               <signed><rs ref="#tillich_person_id__4165" type="person"
+                  ><hi rend="hand">Robert W. Searle</hi> Dr. Robert W. Searle General Secretary Greater N.Y. Federation of Churches</rs></signed>
+               <signed><rs ref="#tillich_person_id__4166" type="person"
+                  ><hi rend="hand">Eva Sanderson Child</hi> Mrs. Eva Sanderson Child Executive Secretary of Friendship House</rs></signed>
+               <signed><rs ref="#tillich_person_id__1928" type="person"
+                  ><hi rend="hand">Paul Tillich</hi> Dr. Paul Tillich Union Theological Seminary</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

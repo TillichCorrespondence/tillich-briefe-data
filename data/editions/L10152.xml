@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10152">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Undatierter Brief von Paul Tillich an Hannah Tillich <lb/>vermutlich aus dem Jahr 1935</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933-1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                        <idno>bMS 721/3(6)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date notBefore="1935-01-01" notAfter="1935-12-31">1935</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-09-22" who="EL">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebste <rs type="person" ref="#tillich_person_id__1923"
+                        >Hannah</rs>!</salute>                </opener>
+                <p>Du hast noch nicht verstanden, warum ich von hier nicht zahlen kann: Ich habe kein Checkbuch, kann also keinen Check schreiben. Wenn ich Geld schickne soll, muss ich erst auf das <unclear>Bureau</unclear>-Office gehen, wo ein Dutzend Studenten immer anstehen. Dann muss ich auf ein Postamt gehen und auf ebenso viele andere Leute warten, während Du es in einer Minute machen kannst. Wenn Du aber Geld unbedingt brauchst, weil auf der Bank wirklich nichts mehr ist, dann schicke ich Dir 100$ <pb n="2"/>auf einmal. Aber nur wenn die Bank wirklich nichts mehr hat, was Du im Augenblick erfahren kann. Sonst schicke bitte das Checkbuch! Ich habe augenblicklich in 3 Tagen ca 40 Exammsarbeiten durchzusehen und kann <hi rend="u">gar</hi> nichts anderes machen. Freitag Nachm bis Montag Abend in <rs type="place" ref="#tillich_place_id__754">Detroit</rs>. Von dort schreibe ich wieder; vorher geht es nicht mehr. – Vielen Dank für Dein schönes <unclear>Aron</unclear>-Gedicht. Gestern hier im Club wundervolles <rs type="person" ref="#tillich_person_id__173">Beethoven</rs>-<rs type="person" ref="#tillich_person_id__2822">Brahms</rs>-Quartett. Was sind wir für ein Volk!</p>
+                <closer>In viel Liebe
+                    <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paulus</rs></signed></closer>
+                <postscript>
+                    <p>Für den Brief mit <rs type="person" ref="#tillich_person_id__3125">Delliehausen</rs> bin ich Montag Abend zwischen 11 u 1 mit Eisenbahn und Autos umhergefahren, um ihn Dir rechtzeitig zukommen zu lassen</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11096">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Nina Baring <lb/>vom 29. Juli 1947</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/122(57)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; Unterschrift eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1947-07-29">29.07.1947</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__133"> Nina Baring</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-05-04" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline><date when="1947-07-29">July 29,
+                        1947</date></dateline><salute>Liebe <rs ref="#tillich_person_id__133"
+                            type="person">Nina</rs>:</salute>
+                </opener>
+                <p>Alle Deine Briefe sind
+                    angekommen,<!-- <note type="ea">Liegen nicht vor?</note> --> habe herzlichen
+                    Dank, auch für die Berichte die Du eingelegt hast. Alles ist brennend
+                    interessant für mich. Ich freue mich, dass Dir das Care Paket so viel Freude
+                    gemacht hat. Könnte ich doch mehr tun! Alles Persönliche und meine Probleme in
+                    Bezug auf die Lage wirst Du aus beiliegendem <rs ref="L11086" type="letter"
+                        >Rundbrief</rs> ersehen. Ich bin selbst in meinen Ferien so überlastet mit
+                    Korrespondenz und anderen Dingen, dass ich einfach nicht mehr schreiben kann und
+                        <rs ref="#tillich_person_id__1923" type="person">Hannah</rs> geht es noch
+                    schlimmer. Der <q>menschliche</q> Brief gehört zu einer bestimmten Zeitperiode
+                    die längst vorbei ist. Wir können uns nur noch Mitteilungen machen, persönliche
+                    oder sachliche. Mich interessiert sehr Deine veränderte Stellung zum
+                    Autoritätsprinzip und ich wünschte, ich könnte mehr darüber hören.</p>
+                <closer><salute>In alter Freundschaft,</salute><signed><hi rend="hand"><rs
+                                ref="#tillich_person_id__1928" type="person"
+                            >Paulus</rs></hi><lb/><rs ref="#tillich_person_id__1928" type="person"
+                            >Paulus</rs>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

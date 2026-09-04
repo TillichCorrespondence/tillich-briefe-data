@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10242">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Fritz Medicus<lb/>vom Dezember 1935</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3229-6246">Ole Soldatow</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>Box 165(35)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich mit handschriftlichen Änderungen</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date>Dezember 1935</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1291">Fritz Medicus</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="OS" when="2025-04-08">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>11.<hi rend="sup">23</hi>
+               <del rend="s">Von</del><del rend="s">Paul</del> Tillich an <del rend="s">Fritz</del>
+                  Medicus<dateline>99 Clairmont-Avenue, New York City, <del rend="s"
+                        >??</del><date>1935<note type="ea">eigenhändig
+                  umdatiert</note></date></dateline>
+               <salute>Lieber Freund!</salute>
+            </opener>
+            <p>Zuerst habe ich Ihnen zu danken für Ihre Zusendungen, die mir große Freude gemacht
+               haben, für den schönen Glückwunsch-Brief zur Geburt des Sohnes und für die Grüße, die
+               Sie mir durch Wendriner haben überbringen lassen!</p>
+            <p>Von mir ist nicht viel mehr zu sagen, als daß ich weiter als Gastprofessor hier am
+               Union Theological Seminary arbeite, ohne eine feste Stellung zu haben, oder in
+               Aussicht zu haben. Der Gedanke einer Rückkehr nach Deutschland ist inzwischen in
+               weitere Ferne gerückt denn je. Gibt es doch kaum etwas in der Geschichte, wozu ich
+               ein stärkeres Nein haben könnte als zu dem, was jetzt in Deutschland geschieht. Haben
+               Sie gelesen, daß jetzt auch der Wingolf zur Strecke gebracht ist, was freilich nicht
+               ganz unverdient war, da er dem Geist, der ihn nun getötet hat, ungehemmten Einstrom
+               gewährt hat. Genauso steht es ja mit den deutschen Universitäten, die in diesen
+               zweieinhalb Jahren so heruntergewirtschaftet sind, daß sei nur noch eine Karikatur
+               des <pb n="2"/>Vergangenen sind. Sie selbst aber waren vornan in dem Kampf gegen die Demokratie
+               und später in Unterwürfigkeit der Gleichschaltung.</p>
+            <p> </p>
+            <p>Ich hoffe, im Juni nächsten Jahres in die Schweiz zu kommen und sie dann zu sehen.
+               Wäre ein Vortrag in Zürich möglich, der wenigstens die Fahrtkosten Genf-Zürich deckt.
+               Ich schreibe wegen der ganzen Sache an meinen Freund <rs
+                  ref="#tillich_person_id__231" type="person">Dr. Emil Blum</rs>, <placeName ref="#tillich_place_id__55">Bern</placeName>,
+               Gesellschaftsstr.80 und würde Sie bitten, falls etwas zu machen ist, mit ihm über das
+               Weitere zu korrespondieren. Es wäre schön, wenn wir uns wiedersehen könnten. </p>
+            <p>Herzliche Weihnachts- und Neujahrsgrüße</p>
+            <p>Ihr</p>
+            <closer>
+               <salute><rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs>.</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

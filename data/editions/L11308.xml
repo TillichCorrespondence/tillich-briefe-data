@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11308">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Kenneth Gapp an Paul Tillich
+               <lb/>vom 9. Dezember 1949 </title>
+            <author ref="#tillich_person_id__656">Kenneth Gapp</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno><!-- NL Pauck, Box 44, Folder 6 --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__656">Kenneth Gapp</persName>
+               <date when="1949-12-09">09.12.1949</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-06-28">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1949-12-09">December 9, 1949</date></dateline><lb/>
+               <rs ref="#tillich_person_id__1928" type="person">Dr. Paul Tillich</rs><lb/>
+               Union Theological Seminary<lb/>
+               Broadway at 120th Street<lb/>
+               <rs ref="#tillich_place_id__319" type="place">New York 27, N.Y.</rs>
+               <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Dr.
+                  Tillich</rs>:</salute>
+            </opener>
+            <p>The Book Review Committee of THEOLOGY TODAY has been of the opinion that we should 
+            carry a long review upon the occasion of the reprinting of the <hi rend="underline">The Social Teaching
+            of the Christian Churches, by <rs ref="#tillich_person_id__1954" type="person">Ernst Troeltsch</rs></hi>.
+            There would be no fixed length for the review, and hope was expressed that the work of
+            <rs ref="#tillich_person_id__1954" type="person">Troeltsch</rs> might be reappraised in the light
+            of development since his day.</p>
+            <p>May I ask whether you would be interested in undertaking this review at your own
+               convenience?</p>
+            <closer>
+               <salute>Sincerely yours,</salute>
+               <signed><rs ref="#tillich_person_id__656" type="person"
+                  ><hi rend="hand">Kenneth S. Gapp</hi><lb/>Kenneth S. Gapp</rs><lb/>Book Review Editor</signed>
+            KSG:gv</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

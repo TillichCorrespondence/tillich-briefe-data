@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10044">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Henry S. Coffin an Paul Tillich <lb/>vom 21. Mai 1934</title>
+            <author ref="#tillich_person_id__386">Henry S. Coffin</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3229-6246">Ole Soldatow</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/195(2)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__386">Henry S. Coffin</persName>
+               <date when="1934-05-21">21.05.1934</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="OS" when="2025-06-24">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1934-05-21">May 21, 1934</date></dateline>
+               <salute>My dear <rs ref="#tillich_person_id__1928" type="person">Professor
+                     Tillich</rs></salute>
+            </opener>
+            <p>On behalf of the Board of Directors, may I extend to you a very cordial invitation to
+               deliver two courses in the first semester in the academic year 1934-1935 in the
+               sphere of the philosophy of religion and systematic theology.</p>
+            <p>We have greatly appreciated the service you have rendered this year and are confident
+               that with greater familiarity with English you will find yourself making an even
+               larger contribution to our students in the coming year.</p>
+            <closer><salute>Faithfully yours,</salute>
+               <signed>President <rs ref="#tillich_person_id__386" type="person">Henry S.
+                     Coffin</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

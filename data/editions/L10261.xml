@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10261">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Fritz Medicus<lb/>vom 30. Januar 1936</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3229-6246">Ole Soldatow</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 165(36)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1935-01-30">30.01.1936</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1291">Fritz Medicus</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="OS" when="2025-05-07">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>(New York City), 99 Claremont Avenue, <dateline><date when="1936-01-30">Jan. 30th
+                  1936</date></dateline>
+               <salute>Lieber Freund <rs ref="#tillich_person_id__1291" type="person"
+                  >Medicus!</rs></salute>
+            </opener>
+            <p>Durch <rs ref="#tillich_person_id__231" type="person"> Emil Blum</rs> höre ich, daß
+               er bei Ihnen angerufen hat, ich aber versäumt hatte, Sie zu orientieren. Ich hole es
+               jetzt nach: Also ich fahre Mitte April von hier nach England, bin bis Anfang <del
+                  rend="s">Jan.</del>Jun. in Holland und komme <hi rend="u">Ende Juni</hi> in die
+               Schweiz. Im Juli will ich irgendwo an einem Ort, der meinem Vater und meiner
+               Schwester angenehm ist, noch ausruhen und deutsche Freunde sehen. Ich kann das aber
+               jederzeit unterbrechen. Obgleich es nicht <hi rend="u">unbedingt</hi> nötig ist,
+               würde ich mich doch sehr freuen, wenn ich in der Schweiz ein paar Vorträge haben
+               könnte, durch die einige Kosten gedeckt werden könnten. Vielleicht wäre so etwas auch
+               in Zürich möglich. Als Themata kämen infrage: "Der Protestantismus und die
+               gegenwärtige Weltlage", "Philosophisch" oder "Theologische Geschichtsdeutung",
+               "Anthropologie und Religionsphilosophie", "Die soziale Funktion der Kirchen in Europa
+               und Amerika", "Christliche und Marxistische Anthropologie", "Staat und Geist", oder
+               Dinge, die in dem Rahmen von Philosophie, Theologie und Sozialethik speziell
+               gewünscht werden.--- Wegen der Termine ist es bei der <pb n="2"/>Schwierigkeit
+               direkter Korrespondenz am besten, wenn Sie mit <rs ref="#tillich_person_id__231"
+                  type="person">Dr. Emil Blum</rs>, Bern, Gesellschaftsstr. 80 gemeinsam
+               entscheiden. Es wäre schön, wenn ich Sie persönlich wiedersehen könnte!</p>
+            <p>Mit herzlichem Gruß!</p>
+            <salute>Ihr <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></salute>
+         </div>
+      </body>
+   </text>
+</TEI>

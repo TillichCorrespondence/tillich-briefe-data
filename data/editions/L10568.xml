@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10568">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hermann Budzislawski
+               <lb/>vom 21. April 1942 </title>
+            <author ref="#tillich_person_id__1928"> Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__143">Frankfurt a.M.</settlement>
+                  <institution>Goethe-Universität Frankfurt</institution>
+                  <repository>Universitätsbibliothek Frankfurt</repository>
+                  <collection>UBA Ffm</collection>
+                  <idno>Na 1<!-- 	Johann Wolfgang Goethe-Universität, Universitätsbibliothek J. C. Senckenberg, Archivzentrum, Nachlass Horkheimer: UBA Ffm (Na 1, 52 [2] 164r)  --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1942-04-21">21.04.1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__313">Hermann Budzislawski</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-12-08">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1942-04-21">April 21. 1942</date></dateline><lb/>
+               <rs ref="#tillich_person_id__313" type="person">Mr. H. Budzislawski</rs><lb/> c/o <rs
+                  ref="#tillich_person_id__1915" type="person">Mrs. Dorothy Thompson</rs>.<lb/> 237
+               East 48 Str.<lb/>
+               <rs ref="#tillich_place_id__319" type="place">New York City</rs><lb/>
+               <salute>Dear <rs ref="#tillich_person_id__313" type="person">Mr.
+                  Budzislawski</rs>:</salute>
+            </opener>
+            <p>When I accepted the collaboration in your shortwave broadcasting to <rs ref="#tillich_place_id__122"
+                  type="place">Germany</rs> I told you that I could do it only if I would find
+               collaboration. In the meantime I have asked some people whether they would help me in
+               preparing the weekly speeches. They expressed their willingness in principle but at
+               the same time they pointed to the fact that their financial situation would not allow
+               them to give time to such a work without receiving at least some financial help. I
+               myself am in a similar situation since I give already more than half of my time to
+               unpaid work. Therefore I ask you to get in touch with <rs ref="#tillich_person_id__1915" type="person">Mrs.
+                  Thompson</rs> and the people of the Columbia Broadcasting system in order to
+               provide some financial support. As I see the situation the entire work will break
+               down in the long run if this comparatively small sum can not be raised.</p>
+            <closer>
+               <salute>Cordially yours</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person"
+                  >Paul Tillich</rs></signed>
+               Professor at Union Theological Seminary. <rs ref="#tillich_place_id__319" type="place">New York City</rs><lb/>
+            D.D. h.c. Yale University.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

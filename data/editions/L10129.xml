@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10129">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Undatierter Brief von Paul Tillich an Hannah Tillich <lb/>vermutlich vom 13.
+                    März 1935</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0000-0001-5007-7397">Emil Lusser</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933-1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                        <idno>bMS 721/3(6)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1935-03-13">13.03.1935</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-06-03" who="EL">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Mein liebstes <rs type="person" ref="#tillich_person_id__1923"
+                            >Süsses</rs>!</salute>
+                </opener>
+                <p>Der letzte Brief von hier Mittwoch Nacht <formula notation="TeX"
+                        >\frac{1}{2}</formula>2, 30 Studenten-Papers durchgesehen; morgen Mittag um
+                    1 Uhr Abfahrt. Jetzt nur die Adressen:</p>
+                <p>1) <del rend="s">Mont</del> Zu <date when="1935-03-18">Montag d. 18<hi rend="sup"
+                            >ten</hi></date>-<date when="1935-03-19">Dienstag d. 19</date> schreibe
+                    einen Brief an mich % <unclear>Buele Galbagher</unclear>, President of the
+                    Talledega College, <rs type="place" ref="#tillich_place_id__778">Talledega
+                        (Ala)</rs>. Einstecken spätestens <date when="1935-03-15"><hi rend="u"
+                            >Freitag</hi> d. 15<hi rend="sup">ten</hi></date>.</p>
+                <p>2) Zu <date when="1935-03-22">Freitag 22</date>-<date when="1935-03-24"><del
+                            rend="ow">Montag</del> Sonntag 24.</date> schicke alle Post in <hi
+                        rend="u">einem</hi> dicken Brief an mich % <rs type="person"
+                        ref="#tillich_person_id__3347">Richard Bobb Whitten</rs>, 308 Chartres-Str.
+                        <rs type="place" ref="#tillich_place_id__705">New Orleans (La)</rs>.
+                    Einstecken <date when="1935-03-18">Montag den 18<hi rend="sup">ten</hi></date>
+                    und <date when="1935-03-20">Mittwoch den 20<hi rend="sup">ten</hi></date>.</p>
+                <p>3) Zu <date when="1935-03-27">Mittwoch d. 27</date>-<date when="1935-03-30"
+                        >Sonnabend d. 30<hi rend="sup">ten</hi></date> schicke alles nach <rs
+                        type="place" ref="#tillich_place_id__720">Miami (Flo)</rs> General Delivery.
+                    Einstecken 4 Tage vorher. (Tippe die Adressen, da sonst wie immer Tillich mit
+                        <pb n="2"/>'Fillich' verwechselt wird. – Soweit kann ich schreiben, weiter
+                    nicht.</p>
+                <closer>Heute früh keine Minute mehr! Leb wohl Liebste <signed>Dein <rs
+                            type="person" ref="#tillich_person_id__1928">Paulus</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

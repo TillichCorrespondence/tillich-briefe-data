@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10571">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Dorothy Thompson an Paul Tillich
+               <lb/>vom 7. Mai 1942 </title>
+            <author ref="#tillich_person_id__1915"> Dorothy Thompson</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__143">Frankfurt a.M.</settlement>
+                  <institution>Goethe-Universität Frankfurt</institution>
+                  <repository>Universitätsbibliothek Frankfurt</repository>
+                  <collection>UBA Ffm</collection>
+                  <idno>Na 1<!-- 	Johann Wolfgang Goethe-Universität, Universitätsbibliothek J. C. Senckenberg, Archivzentrum: UBA Ffm (Na 1, 52 [1] 163r)  --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1915">Dorothy Thompson</persName>
+               <date when="1942-05-07">07.05.1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-12-08">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline> <date when="1942-05-07">May 7, 1942</date></dateline>
+               <salute>My dear <rs ref="#tillich_person_id__1928" type="person">Professor
+                  Tillich</rs>:</salute>
+            </opener>
+            <p>When you were so kind as to agree to collaborate with me on a bit of political
+               warfare through the Columbia Broadcasting System our understanding was that we would
+               do this as a free contribution, and this was in a sense justified because the
+               Columbia Broadcasting System is actually spending $750,000 a year on short-wave
+               facilities for which it is in no way compensated by the Government. I also felt that
+               our little contribution might not come up to scratch–– I certainly felt it about
+               myself–– and I liked the freedom which our free gift gave us.</p>
+            <p>However, the broadcasts have been immensely successful both in the eyes of the
+               Government authorities and of Columbia, and Columbia this week has offered me $20 a
+               week for each of the collaborators to be regarded, of course, not as a payment for
+               services–– for it is totally inadequate for that–– but as a contribution to expenses.
+               I believe that Columbia is assigning the whole sum to me –– although there are some
+               possible disadvantages because of possible complications with the income authorities.
+               In any case I want to call attention that this small sum is given to you as <hi
+                  rend="underline">expenses</hi> and will be so entered on Columbia’s books, and
+               therefore is not taxable on your income tax.</p>
+            <closer>
+               <salute>Sincerely yours,</salute>
+               <signed><rs ref="#tillich_person_id__1915" type="person"
+                  ><hi rend="hand">Dorothy Thompson</hi></rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

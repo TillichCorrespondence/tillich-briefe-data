@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10348">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Johannes Tillich an Paul Tillich
+               <lb/>vom 16. Juni 1937</title>
+            <author ref="#tillich_person_id__1924">Johannes Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/193</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+               <date when="1937-06-16">16.06.1937</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="XX" when="2025-05-16">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <!-- AB HIER GEHT DER EIGENTLICH BRIEF LOS -->
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>, den <date when="1937-06-16">16. Juni 37</date></dateline>
+               <salute>Mein lieber<rs ref="#tillich_person_id__1928" type="person">Paul
+                 </rs>,</salute>
+            </opener>
+            <p>vor mir liegen Deine beiden Briefe vom 24. Mai<note type="ea"> liegt nicht vor</note> u. <rs ref="#L10346">1. Juni</rs>,
+            die ausführliche Antwort gaben.</p>
+            <p>Mein Dank und meine Erwiderung kann nur kurz sein, da selbst ein Diktat mich sehr
+               anstrengt. Es geht mir eben immer noch sehr schlecht und auch meinen 80. Geburtstag
+               konnte ich nur liegend im kleinsten Kreise feiern.</p> 
+            <p>Ich erhielt aber viele liebe Briefe, auch vom Oberkirchenrat und vom Konsistorium,
+               die mir Freude machten. Sonst ist mein Befinden dasselbe wie bisher und eher noch
+               schlechter geworden. Ich muß das aber tragen.</p>
+            <p>Dir und <rs type="person">Hannah</rs> wünsche <pb n="2"/> wünsche ich für Eure schöne
+               Reise alles Gute und den besten Erfolg.</p>
+            <closer>
+               <salute>Mit diesen Wünschen bleibe ich</salute>
+               <signed><rs ref="#tillich_person_id__1610" type="person"
+                  >Dein treuer Vater <unclear>Hans</unclear> Tillich</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

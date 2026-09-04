@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10982">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Charles D. Kean an Paul Tillich <lb/>vom 20. August 1946</title>
+                <author ref="#tillich_person_id__3906">Charles Duell Kean</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/157(42)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__3906">Charles Duell Kean</persName>
+                    <placeName ref="#tillich_place_id__1045">Kirkwood, Missouri</placeName>
+                    <date when="1946-08-20">20.08.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-10-08" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><dateline>143 East Adams avenue, <lb/><rs ref="#tillich_place_id__1045"
+                            type="place">Kirkwood</rs>, 22, <rs ref="#tillich_place_id__798"
+                            type="place">Missouri</rs>, <lb/><date when="1946-08-20">August 20,
+                            1946</date>
+                    </dateline>
+                    <salute>My dear <rs ref="#tillich_person_id__1928" type="person">Dr.
+                            Tillich</rs>:</salute>
+                </opener>
+                <p>Some of your former students have written to me to inform me that today is your
+                    birthday. While I have never had the privilege of studying under you directly, I
+                    am more than happy to be able to add my felicitations to theirs on this
+                    occasion.</p>
+                <p>Indeed, I take it as a very fine compliment that the nature of my writings is
+                    such that I am classified with those who have sat at your feet. As a matter of
+                    fact, your influence upon my thinking and writing has been very pronounced – –
+                    both through your books and articles, and through <rs
+                        ref="#tillich_person_id__1390" type="person">Niebuhr</rs> and <rs
+                        ref="#tillich_person_id__3918" type="person">Clifford Stanley</rs>.</p>
+                <p>When I was a student at the General Theological Seminary some ten or more years
+                    ago, I had the assignment to read a paper on the nature of the Church at an
+                    inter-seminary gathering at Union, with <rs ref="#tillich_person_id__1464"
+                        type="person">Pauck</rs> presiding and with you as discussion leader. That
+                    was my first direct contact with you. It was rather an awesome occasion for a
+                    young seminarian, no matter how brash he might be.</p>
+                <p>With these words of explanation, may I once more join with those who have studied
+                    directly under you, and express my wishes for many very happy returns of this
+                    day. I look forward to learning much more from your continued leadership in the
+                    field of relevant Christianity.</p>
+                <closer><salute>Very sincerely</salute>
+                    <signed><rs ref="#tillich_person_id__3883" type="person">Charles D.
+                        Kean</rs></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

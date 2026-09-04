@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11260">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Samuel McCrea Cavert<lb/>vom 23. November
+                    1948</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                        <idno>bMS 649/140 (21)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich; adressiert: <q>Mr. Sam <sic>McCaevert</sic>,
+                                Federal Council of Churches, 297 Fourth Avenue, New York, N.
+                            Y.</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1948-11-23">23.11.1948</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__4027">Samuel McCrea Cavert</persName>
+                    <placeName ref="#tillich_place_id__319">New York, N. Y.</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-06-14" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><salute>Dear <rs ref="#tillich_person_id__4027" type="person"
+                        >Sam</rs>:</salute>
+                </opener>
+                <p>I am enclosing my report in CHRISTIANITY AND CRISIS on the German situation.<note
+                    type="ea">Vgl. <rs ref="#tillich_person_id__1928"
+                        type="person">Paul Tillich</rs>: <rs type="work" ref="#tillich__AB6TMN6G">Visit
+                            to Germany</rs> (1948).</note> This of course is a very short article.
+                    So if you think I should send a larger typewritten report to CHURCH WORLD
+                    SERVICE, an acknowledgement for their sending me to <rs
+                        ref="#tillich_place_id__122" type="place">Germany</rs>, I shall be glad to
+                    do it. If you think the enclosed article does the job I should be grateful if
+                    you give it in my name to the office of CHURCH WORLD SERVICE.</p>
+                <p>May I add that I fully agreed with your paper in <rs ref="#tillich_place_id__554"
+                        type="place">Washington</rs> and regretted very much that you could not
+                    attend the other meetings. I think the discussion would have been more fruitful
+                    if you would ha<supplied>v</supplied>e been present. On Sunday morning I
+                    delivered a report on <rs ref="#tillich_place_id__122" type="place"
+                    >Germany</rs>.</p>
+                <closer><salute>Cordially yours,</salute><signed><rs ref="#tillich_person_id__1928"
+                            type="person">Prof. Paul Tillich</rs>.</signed></closer>
+                <postscript>
+                    <p>encl</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11311">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Harry W. Rosengrant an Paul Tillich
+               <lb/>vom 18. Dezember 1949 </title>
+            <author ref="#tillich_person_id__1645">Harry W. Rosengrant</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 180(6)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1645">Harry W. Rosengrant</persName>
+               <date when="1949-12-18">18.12.1949</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-06-11">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1948-12-18">Dec. 18, 1949.</date></dateline>
+               <salute>My dear <rs ref="#tillich_person_id__1928" type="person">Professor
+               Tillich</rs>;–</salute>
+            </opener>
+            <p>Your recent article in Theology Today on the Present Theological Situation was of great
+            interest to me. I want to express my appreciation for it.</p>
+            <p>It so happened that when I came to read your article I had just finished reading The
+               Continuity of the Christian
+               Faith<!-- wahrscheinlich gemeint The Continuity of Christian Thought --> by <rs
+                  ref="#tillich_person_id__5378" type="person">Alexander Allen</rs>. In the light of
+               your position I am wondering what you would think of <rs
+                  ref="#tillich_person_id__5378" type="person">Allen</rs>. The two pose a dialectic
+               for me which it seems to me must somehow be resolved, nor is the dialectic purely
+                  <unclear>accademic</unclear> but rather existential for it has to do with the
+               question as to what Christianity essentially is and therefore what we use to
+               preach.</p>
+            <closer>
+               <salute>With all good wishes I am<lb/>cordially yours</salute>
+               <signed><rs ref="#tillich_person_id__1645" type="person"
+                  >Harry W. Rosengrant</rs></signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

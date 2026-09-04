@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10569">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Fridel Stoetzner an Paul Tillich
+               <lb/>vom 24. April 1942 </title>
+            <author ref="#tillich_person_id__4596">Fridel Stoetzner</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno><!-- Marburg --></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich mit handschriflichen Einfügungen</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__4596">Fridel Stoetzner</persName>
+               <date when="1942-04-24">21.04.1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2026-02-04">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>My dear <rs ref="#tillich_person_id__1928" type="person">friends</rs>:</salute>
+            </opener>
+            <p>The War Aims arrived this morning and I read them immediately. They are excellent,
+               excellent, excellent. I shall use my energy to make them known in my circle of
+               friends and acquaintances. Tonight will be the monthly dinner of the <q>Fireside
+                  Friends,</q> a very potential group of younger (25-55 <add place="sublinear"><hi
+                     rend="hand">years of age</hi></add>) prominent Quakers, <add place="sublinear"
+                     ><hi rend="hand">including Federal Judge + College President.</hi></add> I
+               shall distribute the booklets there. -- Wish I had 100 copies, hope you get them in
+               millions of issues, they ought to be in every contemporary&apos;s hand and memory. I
+               am going to mail one to <rs ref="#tillich_person_id__4597" type="person">Harry
+                  Wright</rs>, City College, with an extra letter.</p>
+            <p>Man fühlt jetzt endlich, dass der Kreis sich schliesst, – der geistige, dessen, was wir alle erlebt haben
+            und was so schwer zu deuten war. Wunderbar und klar und richtig gesehen und ausgedrueckt, Sie verdienen
+            wirklich grossen Dank und Anerkennung Aller dafuer.</p>
+            <closer>
+               <salute>Gruesse</salute>
+               <signed><rs ref="#tillich_person_id__4596" type="person"
+                  ><hi rend="hand">Fridel Stoetzner.</hi></rs></signed>
+               <dateline><date when="1942-04-24">April 24, 1942.</date></dateline></closer>
+         </div>
+      </body>
+   </text>
+</TEI>

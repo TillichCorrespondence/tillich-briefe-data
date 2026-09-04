@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10925">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von John Marshall an Paul Tillich <lb/>vom 01. April 1946</title>
+                <author ref="#tillich_person_id__3406">John Marshall</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/164(12)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__3406">John Marshall</persName>
+                    <date when="1946-04-01">01.04.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__319">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="eng">Englisch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-06-28" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="top" type="letterhead">THE ROCKEFELLER FOUNDATION <lb/>49 WEST
+                        49th STREET,<rs ref="#tillich_place_id__319" type="place">NEW YORK</rs> 20
+                        <lb/><!-- kleiner und auf der linken Blattseite: -->THE HUMANITIES <lb/><rs
+                            ref="#tillich_person_id__3324" type="person">DAVID H. STEVENS</rs>,
+                        DIRECTOR <lb/><rs ref="#tillich_person_id__3406" type="person">John
+                            Marshall</rs>, ASSOCIATE DIRECTOR <lb/></fw><dateline><date
+                            when="1946-04-01">April 1, 1946</date></dateline><salute>Dear <rs
+                            ref="#tillich_person_id__1928" type="person">Professor
+                        Tillich</rs>:</salute>
+                </opener>
+                <p>Thank you for <rs ref="#L10923" type="letter">your letter of March 28</rs>, about
+                    <rs ref="#tillich_person_id__1262" type="person">Professor Marck</rs>&apos;s book
+                    and his need of help in getting parts of it translated to make it suitable for
+                    publication in this country.</p>
+                <p>You will understand this whole matter was left pending when <rs
+                        ref="#tillich_person_id__3324" type="person">Stevens</rs> went to <rs
+                        ref="#tillich_place_id__710" type="place">Japan</rs>, with a memorandum by
+                        <rs ref="#tillich_person_id__3324" type="person">Stevens</rs> in late
+                    January to the effect that you would let us have some recommendation after you
+                    had seen <rs ref="#tillich_person_id__1262" type="person">Professor Marck</rs>
+                    in <rs ref="#tillich_place_id__105" type="place">Chicago</rs>. Thus, with <rs
+                        ref="#L10923" type="letter">your letter of March 28</rs>, I think I have the
+                    basis I need for seeing what can be arranged and would be glad to explore that
+                    possibility as promptly as I can.</p>
+                <closer><salute>Yours sincerely,</salute><signed><rs ref="#tillich_person_id__3406"
+                            type="person">John Marshall</rs>.</signed>
+                    <fw place="bottom" type="adressline"><rs ref="#tillich_person_id__1928"
+                            type="person">Professor Paul Tillich</rs>
+                        <lb/>Union Theological Seminary <lb/>Broadway at 120th Street <lb/><rs
+                            ref="#tillich_place_id__319" type="place">New York</rs>, <rs
+                            ref="#tillich_place_id__865" type="place">New York</rs>
+                        <lb/>
+                        <lb/>JM: EHD</fw>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

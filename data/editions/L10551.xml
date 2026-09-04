@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10551">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Wilson Parkhill an Paul Tillich
+               <lb/>vom 30. Januar 1942 </title>
+            <author ref="#tillich_person_id__4254">Wilson Parkhill</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0000-3962-1240">Manuel Inselmann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1933-1951</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
+                  <institution>Marburg</institution>
+                  <repository>Deutsches Paul-Tillich-Archiv</repository>
+                  <idno></idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  <!-- SIEHE DAZU PHYSDECS-DOKUMENT AUF SERVER -->
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__4254">Wilson Parkhill</persName>
+               <date when="1942-01-30">30.01.1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="MI" when="2025-11-27">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><date when="1942-01-30">January 30, 1942</date>.</dateline>
+               <salute>Dear <rs ref="#tillich_person_id__1928" type="person">Doctor
+                  Tillich</rs>:</salute>
+            </opener>
+            <p>I have read over carefully your three articles in THE PROTESTANT. As a political
+               philosophy they really express the best in the American ideal but I do not see that
+               they are connected particularly with the Christian religion except that they are
+               printed in a religious publication.</p>
+            <p>It seems to me that you expressed in an authoritative way the philosophy which the
+               United States government has since picked up because of the war effort and gradually
+               out of this <hi rend="underline">is</hi> coming the war aims.</p>
+            <p>Your comments on the social changes seem to be the general trend. The idea of the
+               peace conference that can attain social, political and intellectual structure of life
+               in which the conditions of the present catastrophe are overcome is the ideal of
+               democracy. Are democracy and Christianity synonymous?</p>
+            <p>I enjoyed these articles very much.</p>
+            <closer>
+               <salute>Very sincerely yours,</salute>
+               <signed><rs ref="#tillich_person_id__4254" type="person"
+                  ><hi rend="hand">Wilson Parkhill</hi></rs></signed>
+               WP W
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

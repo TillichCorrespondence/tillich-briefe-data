@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L10988">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Wilfred C. Hulse an Paul Tillich <lb/>vom 23. August 1946</title>
+                <author ref="#tillich_person_id__3359">Wilfred C. Hulse</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1933–1951</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886–1965. Papers, 1894–1974.</collection>
+                        <idno>bMS 649/153(68)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, maschinenschriftlich</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933–1951.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__3359">Wilfred C. Hulse</persName>
+                    <date when="1946-08-23">23.08.1946</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__319">New York, N. Y.</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2025-10-13" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><fw place="top-left" type="letterhead">ACADEMY 2-8899</fw><fw
+                        place="top-right" type="letterhead">IF NO ANSWER CALL <lb/>RIVERSIDE
+                        9-1233</fw><fw place="top" type="letterhead">WILFRED C. HULSE, M. D.
+                        <lb/>333 CENTRAL PARK WEST <lb/><rs ref="#tillich_place_id__319"
+                            type="place">NEW YORK</rs> 25, <rs ref="#tillich_place_id__865"
+                            type="place">N. Y.</rs></fw>
+                    <dateline><date when="1946-08-23">August 23, 1946</date>.</dateline>
+                    <fw place="left" type="adressline">Prof. <rs ref="#tillich_person_id__1928"
+                            type="person">Paul Tillich</rs>
+                        <lb/>Union <sic>Psychological</sic>
+                        <lb/>Seminary <lb/><rs ref="#tillich_place_id__319" type="place">New York
+                            City</rs>, <rs ref="#tillich_place_id__865" type="place">N. Y.</rs></fw>
+                    <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr
+                            Professor Tillich</rs>:</salute>
+                </opener>
+                <p>Ich glaube zwar den Zeitungsmeldungen nicht, die Sie als einen 60jährigen
+                    bezeichnen, ich möchte aber trotzdem Ihnen meine herzlichsten Glückwünsche
+                    aussprechen, sozusagen wider besseres Wissen. Da ist wenig übrig geblieben, was
+                    man den anderen, die Sie feiern, hinzufügen kann. In dem Kampf gegen die
+                    Zerstörung der mitteleuropäischen Kultur haben Sie für mich eine besondere Rolle
+                    gespielt. Während alle anderen polemisch wurden, haben Sie durch die Tat und
+                    durch das Festhalten an dem von Ihnen gelehrten Ethos eine unerschütterliche
+                    positive Macht errichten geholfen gegen die Finsternis. Ich hoffe mit all den
+                    anderen, dass Sie so jugendlich wie bisher Ihr Werk fortsetzen werden. Sie
+                    wissen, wie sehr ich immer die Zusammenarbeit mit Ihnen in der
+                    Immigrantenconferenz und anderswo geschätzt habe.</p>
+                <closer>
+                    <salute>Mit den besten Wünschen und Grüssen bin ich</salute>
+                    <signed>Ihr sehr ergebener<rs ref="#tillich_person_id__3359" type="person"
+                            >Wilfred Hulse</rs>
+                        <lb/><rs ref="#tillich_person_id__3359" type="person">WILFRED C. HULSE, M.
+                            D.</rs>
+                        <!-- Unterschrift, dann gedruckt. --></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
