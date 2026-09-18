@@ -123,6 +123,9 @@
                 <valItem ident="letter">
                   <desc>Brief</desc>
                 </valItem>
+                <valItem ident="postcard">
+                  <desc>Postkarte</desc>
+                </valItem>
               </valList>
             </attDef>
           </attList>
@@ -185,7 +188,7 @@
         
         <constraintSpec ident="check_note_seg" scheme="schematron">
           <constraint xmlns:s="http://purl.oclc.org/dsdl/schematron">
-            <s:rule context="tei:rs[@type='letter']">
+            <s:rule context="tei:rs[@type='letter|postcard']">
               <s:assert test="starts-with(@ref, 'L')">
                 The @ref attribute must start with 'L'
               </s:assert>

@@ -3,7 +3,7 @@
    <s:title>Schematron rules extracted from Tillich-Briefe ODD</s:title>
    <s:ns prefix="tei" uri="http://www.tei-c.org/ns/1.0"/>
    <s:pattern id="check_note_seg">
-      <s:rule context="tei:rs[@type='letter']">
+      <s:rule context="tei:rs[@type='letter|postcard']">
          <s:assert test="starts-with(@ref, 'L')">The @ref attribute must start with 'L'</s:assert>
       </s:rule>
       <s:rule context="tei:rs[@type='bible']">
