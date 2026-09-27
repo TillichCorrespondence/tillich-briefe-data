@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01635">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01643">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Postkarte von dem Verlag Mohr Siebeck (Oskar Rühle) an Paul Tillich <lb/>vom
-                    22. August 1929</title>
+                <title>Brief von dem Verlag Mohr Siebeck (Oskar Rühle) an Paul Tillich <lb/>vom 19.
+                    August 1931</title>
                 <author ref="#tillich_person_id__1658">Oskar Rühle</author>
                 <respStmt>
                     <resp>Editor</resp>
@@ -42,11 +42,10 @@
                         <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
                         <collection>Handschriftenabteilung, Archiv des Verlages J. C. B. Mohr (Paul
                             Siebeck)</collection>
-                        <idno>Nachl. 488, RGG II; Korrespondenz 1929</idno>
+                        <idno>Nachl. 488, RGG II; Korrespondenz 1931</idno>
                     </msIdentifier>
                     <physDesc>
-                        <p>Postkarte, maschinenschriftlicher Durchschlag; Unterschrift
-                            eigenhändig</p>
+                        <p>Brief, maschinenschriftlicher Durchschlag; Unterschrift eigenhändig</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -64,12 +63,12 @@
             <correspDesc>
                 <correspAction type="sent">
                     <persName ref="#tillich_person_id__1658">Oskar Rühle</persName>
-                    <placeName ref="#tillich_place_id__448">Tübingen</placeName>
-                    <date when="1929-08-22">22.08.1929</date>
+                    <!--<placeName ref="#tillich_place_id__448">Tübingen</placeName>-->
+                    <date when="1931-08-19">19.08.1931</date>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__230">Kampen</placeName>
+                    <placeName ref="#tillich_place_id__144">Frankfurt a. M.-Niederrad</placeName>
                 </correspAction>
             </correspDesc>
             <langUsage>
@@ -84,24 +83,30 @@
         <body>
             <div type="writingSession" n="1">
                 <pb n="1"/>
-                <opener>R./gr.RGG.–<lb/>Herrn Professor D.Dr. <rs type="person"
-                        ref="#tillich_person_id__1928">Paul Tillich</rs>, <hi rend="u">zzt. <rs
-                            ref="#tillich_place_id__230" type="place">Kampen</rs></hi><lb/> auf <rs
-                        ref="#tillich_place_id__425" type="place">Sylt</rs>, Haus
-                            Schulze-Sembten.<dateline><rs ref="#tillich_place_id__448" type="place"
-                            >Tübingen</rs>, den <date when="1929-08-22">22. August
-                        1929</date>.</dateline><salute>Sehr verehrter <rs
+                <opener>R./be.RGG.–<dateline><date when="1931-08-19">19. August
+                        1931</date>.</dateline>Herrn Professor D.Dr. <rs type="person"
+                        ref="#tillich_person_id__1928">Paul <hi rend="g">Tillich</hi></rs>,<lb/><hi
+                        rend="u"><rs ref="#tillich_place_id__144" type="place">Frankfurt a.
+                            M.-Niederrad</rs></hi>.<lb/>Vogelstr. 11.<salute>Sehr verehrter <rs
                             ref="#tillich_person_id__1928" type="person">Herr
                         Professor</rs>,</salute></opener>
-                <p>mit verbindlichstem Dank für <rs type="letter" ref="L01027">Ihre freundlichen
-                        Zeilen vom 20. ds. Mts.</rs> bestätige ich Ihnen den Eingang des Manuskripts
-                        <q>Offenbarung, religionsphilosophisch</q>. Dass ich die Manuskripte
-                    &quot;Philosophie I und III<supplied>&quot;</supplied> im Laufe des September
-                    von Ihnen erwarten darf, habe ich mit Freuden zur Kenntnis genommen. Eine Anzahl
-                    Manuskriptblätter zur Niederschrift dieser Artikel schicke ich Ihnen mit
-                    gleicher Post.</p>
+                <p>da ich trotz wiederholt ausgesprochener Bitte noch immer nicht in den Besitz des
+                    längst verfallenen Artikels <q>Wissenschaft</q> für das Handwörterbuch <q>Die
+                        Religion in Geschichte und Gegenwart</q> gelangt bin, möchte ich heute meine
+                    Bitte um schnellste Uebersendung des Manuskriptes eindringlichst wiederholen.
+                    Wenn Sie bedenken, dass der letzte Band des Werkes noch vor Ende ds. Js.
+                    abgeschlossen sein muss, werden Sie gewiss verstehen, dass mir alles daran
+                    liegt, die letzten noch ausstehenden Manuskripte nunmehr auf schnellstem Wege
+                    herein zu bekommen. Ich bitte Sie freundlichst, alles daran setzen zu wollen,
+                    dass ich Ihren Artikel bis allerspätestens <date when="1931-08-28">28. ds.
+                        Mts.</date> in Händen habe. Sollte es Ihnen wider Erwarten nicht möglich
+                    sein, mir das Manuskript bis dahin zu übersenden, so bitte ich Sie, mir
+                    wenigstens kurz Nachricht zu geben, damit ich im äussersten Fall noch versuchen
+                        <sic>könnten</sic>, den Artikel von anderer Seite zu beschaffen. Ich hoffe
+                    aber zuversichtlich, dass Sie mich dieser Notwendigkeit entheben werden und das
+                    Manuskript werden rechtzeitig einschicken können.</p>
                 <closer>
-                    <salute>Mit höflichen Empfehlungen bin ich Ihr ganz ergebener</salute>
+                    <salute>In vorzüglicher Hochachtung ergebenst</salute>
                     <signed><hi rend="hand"><rs type="person" ref="#tillich_person_id__1658"
                                 >Rühle</rs></hi></signed></closer>
             </div>

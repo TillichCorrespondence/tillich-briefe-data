@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01635">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01644">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Postkarte von dem Verlag Mohr Siebeck (Oskar Rühle) an Paul Tillich <lb/>vom
-                    22. August 1929</title>
+                <title>Brief von dem Verlag Mohr Siebeck (Oskar Rühle) an Paul Tillich <lb/>vom 29.
+                    Mai 1931</title>
                 <author ref="#tillich_person_id__1658">Oskar Rühle</author>
                 <respStmt>
                     <resp>Editor</resp>
@@ -42,11 +42,10 @@
                         <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
                         <collection>Handschriftenabteilung, Archiv des Verlages J. C. B. Mohr (Paul
                             Siebeck)</collection>
-                        <idno>Nachl. 488, RGG II; Korrespondenz 1929</idno>
+                        <idno>Nachl. 488, RGG II; Korrespondenz 1931</idno>
                     </msIdentifier>
                     <physDesc>
-                        <p>Postkarte, maschinenschriftlicher Durchschlag; Unterschrift
-                            eigenhändig</p>
+                        <p>Brief, maschinenschriftlicher Durchschlag; Unterschrift eigenhändig</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -64,12 +63,12 @@
             <correspDesc>
                 <correspAction type="sent">
                     <persName ref="#tillich_person_id__1658">Oskar Rühle</persName>
-                    <placeName ref="#tillich_place_id__448">Tübingen</placeName>
-                    <date when="1929-08-22">22.08.1929</date>
+                    <!--<placeName ref="#tillich_place_id__448">Tübingen</placeName>-->
+                    <date when="1931-05-29">29.05.1931</date>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__230">Kampen</placeName>
+                    <placeName ref="#tillich_place_id__144">Frankfurt a. M.-Niederrad</placeName>
                 </correspAction>
             </correspDesc>
             <langUsage>
@@ -84,24 +83,25 @@
         <body>
             <div type="writingSession" n="1">
                 <pb n="1"/>
-                <opener>R./gr.RGG.–<lb/>Herrn Professor D.Dr. <rs type="person"
-                        ref="#tillich_person_id__1928">Paul Tillich</rs>, <hi rend="u">zzt. <rs
-                            ref="#tillich_place_id__230" type="place">Kampen</rs></hi><lb/> auf <rs
-                        ref="#tillich_place_id__425" type="place">Sylt</rs>, Haus
-                            Schulze-Sembten.<dateline><rs ref="#tillich_place_id__448" type="place"
-                            >Tübingen</rs>, den <date when="1929-08-22">22. August
-                        1929</date>.</dateline><salute>Sehr verehrter <rs
-                            ref="#tillich_person_id__1928" type="person">Herr
-                        Professor</rs>,</salute></opener>
-                <p>mit verbindlichstem Dank für <rs type="letter" ref="L01027">Ihre freundlichen
-                        Zeilen vom 20. ds. Mts.</rs> bestätige ich Ihnen den Eingang des Manuskripts
-                        <q>Offenbarung, religionsphilosophisch</q>. Dass ich die Manuskripte
-                    &quot;Philosophie I und III<supplied>&quot;</supplied> im Laufe des September
-                    von Ihnen erwarten darf, habe ich mit Freuden zur Kenntnis genommen. Eine Anzahl
-                    Manuskriptblätter zur Niederschrift dieser Artikel schicke ich Ihnen mit
-                    gleicher Post.</p>
+                <opener>R./be.RGG.–<dateline><date when="1931-05-29">29. Mai
+                    1931</date>.</dateline>Herrn Professor Dr. <rs type="person"
+                        ref="#tillich_person_id__1928">Paul <hi rend="g">Tillich</hi></rs>,<lb/><hi
+                        rend="u"><rs ref="#tillich_place_id__144" type="place"><hi rend="g"
+                                >Frankfurt</hi> a. M.-Niederrad</rs></hi>.<lb/>Vogelstr.
+                        11.<salute>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person"
+                            >Herr Professor</rs>,</salute></opener>
+                <p>um die rechtzeitige Fertigstellung des <rs type="work" ref="#tillich__JX6FBT3J"
+                        >5. Bandes der RGG</rs> bis Ende des laufenden Jahres sicher zu stellen,
+                    muss die redaktionelle Arbeit an den Artikeln zu den letzten Buchstaben des
+                    Alphabets nunmehr mit Beschleunigung durchgeführt werden. Mir würde deshalb sehr
+                    daran liegen, den von Ihnen noch ausstehenden Artikel <q>Wissenschaft</q> so
+                    bald als irgend möglich zu bekommen<supplied>.</supplied> Ich bitte Sie
+                    angelegentlichst, mir das Manuskript bis spätestens <date when="1931-06-30">30.
+                        Juni</date> zur Verfügung stellen zu wollen.</p>
                 <closer>
-                    <salute>Mit höflichen Empfehlungen bin ich Ihr ganz ergebener</salute>
+                    <salute>In der Hoffnung, dass es Ihnen möglich sein wird meiner Bitte zu
+                        entsprechen, empfehle ich mich Ihnen in vorzüglicher Hochachtung als Ihr
+                        ganz ergebener</salute>
                     <signed><hi rend="hand"><rs type="person" ref="#tillich_person_id__1658"
                                 >Rühle</rs></hi></signed></closer>
             </div>
