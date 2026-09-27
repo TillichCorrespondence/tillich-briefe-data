@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01634">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an den Verlag Mohr Siebeck (Oskar Rühle) <lb/>vom 19.
+                    September 1929 [PS]</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887–1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="typescript">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                        <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                        <collection>Handschriftenabteilung, Archiv des Verlages J. C. B. Mohr (Paul
+                            Siebeck)</collection>
+                        <idno>Nachl. 488, RGG II; Korrespondenz 1929</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, maschinenschriftlich; Unterschrift eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887–1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__230">Kampen</placeName>
+                    <date when="1929-09-19">19.09.1929</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1658">Oskar Rühle</persName>
+                    <placeName ref="#tillich_place_id__448">Tübingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="CO" when="2026-09-27">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <pb n="1"/>
+                <p>Es hat den Anschein, als ob ein Brief von Ihnen mit der Korrektur meines
+                        <rs>Offenbarungsartikels</rs> hier angekommen und ehe ich es durchgesehen
+                    habe verloren gegangen ist. Sollte das der Fall sein, so bitte ich, die
+                    Übersendung einer neuen Fahne zu veranlassen und zwar an die Adresse Pfarrer Lic
+                        <hi rend="g"><rs type="person" ref="#tillich_person_id__1154"
+                        >Leese</rs></hi> Koppel <add rend="hand">11</add>
+                    <del rend="s">11</del>
+                    <hi rend="g"><rs ref="#tillich_place_id__198" type="place">Hamburg</rs></hi>, wo
+                    ich mich einige Tage aufhalte.</p>
+                <closer>
+                    <salute>Ergebenst</salute>
+                    <signed>Professor D. Dr. <rs type="person" ref="#tillich_person_id__1928">Paul
+                                <hi rend="g">Tillich</hi></rs><lb/><hi rend="hand"><rs type="person"
+                                ref="#tillich_person_id__1928">Tillich</rs></hi><note type="ea">Die
+                            Postkarte trägt den Posteingangsstempel: <q>1. Post <date
+                                    when="1929-09-21">21. SEP. 1929</date></q> sowie den
+                            handschriftlichen Vermerk: <q>21.IX.29.
+                    beant.</q></note></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>
