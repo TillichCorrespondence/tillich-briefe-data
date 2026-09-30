@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01650">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Johanna Tillich an Paul Tillich <lb/> vom 16. Juli 1905</title>
+                <author ref="#tillich_person_id__644">Johanna Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887–1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886‒1965. Papers, 1894‒1974</collection>
+                        <idno>bMS 649/193)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig; Postkartenmotiv: <q>Der Ortler</q></p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887–1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__644">Johanna Tillich</persName>
+                    <placeName ref="#tillich_place_id__423">Sulden</placeName>
+                    <date when="1905-07-16">16.07.1905</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__448">Tübingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-09-27" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession1">
+                <pb n="1"/>
+                <dateline><rs ref="#tillich_place_id__423" type="place">Sulden</rs>
+                    <date when="1905-07-16">16. Juli</date>.</dateline>
+                <p>Deine Karte erhielten wir u. freuten uns sehr! Sulden ist zu schön, das Wetter
+                    kühl u. schön. <unclear>So</unclear> haben wir den Ortler vor uns. Erhol Dich
+                    nur weiter <unclear>recht</unclear>!</p>
+                <p>Postadresse <unclear>¿¿¿</unclear>
+                    <rs ref="#tillich_place_id__1681" type="place">Trafoi</rs> i. <rs
+                        ref="#tillich_place_id__438" type="place">Tirol</rs>.</p>
+                <signed>Deine Schwester <rs ref="#tillich_person_id__644" type="person"
+                    >Johanna</rs></signed>
+                <postscript>
+                    <p><unclear>¿¿¿</unclear>
+                        <rs ref="#tillich_place_id__1968" type="place">Bormio</rs> i. <rs
+                            ref="#tillich_place_id__219" type="place">Italien</rs>,
+                            <unclear>¿¿¿</unclear>. (Doppel Porto)</p>
+                </postscript>
+            </div>
+
+        </body>
+    </text>
+</TEI>
