@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01651">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Gottfried von Hanffstengel, Heinrich Samuel von Ragué und
+                    Wilhelm und Otto Schetelig an Paul Tillich <lb/> vom 20. August 1907</title>
+                <author ref="#tillich_person_id__788">Gottfried von Hanffstengel</author>
+                <author ref="#tillich_person_id__1552">Heinrich Samuel von Ragué</author>
+                <author ref="#tillich_person_id__1707">Wilhelm Schetelig</author>
+                <author ref="#tillich_person_id__2333">Otto Schetelig</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name key="https://orcid.org/0009-0000-1606-0460">Cem Ölmez</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887–1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8–10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886‒1965. Papers, 1894‒1974</collection>
+                        <idno>bMS 649/147</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887–1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__788">Gottfried von Hanffstengel</persName>
+                    <persName ref="#tillich_person_id__1552">Heinrich Samuel von Ragué</persName>
+                    <persName ref="#tillich_person_id__1707">Wilhelm Schetelig</persName>
+                    <persName ref="#tillich_person_id__2333">Otto Schetelig</persName>
+                    <placeName ref="#tillich_place_id__577">Ohlsdorf</placeName>
+                    <date when="1907-08-20">20.08.1907</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__37">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change when="2026-09-27" who="CO">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession1">
+                <p>Herzl. Glückwunsch senden Dir aus <rs type="place" ref="#tillich_place_id__577"
+                        >Ohlsdorf</rs> (Totenstadt <rs type="place" ref="#tillich_place_id__198"
+                        >Hamburgs</rs>):</p>
+                <signed><rs ref="#tillich_person_id__788" type="person">G. v. Hanffstengel</rs>.</signed>
+                <signed><rs ref="#tillich_person_id__1552" type="person">v. Ragué</rs></signed>
+                <signed><rs ref="#tillich_person_id__1707" type="person">Wilh. Schetelig</rs></signed>
+                <signed><rs ref="#tillich_person_id__2333" type="person">Otto Schetelig</rs></signed>
+            </div>
+        </body>
+    </text>
+</TEI>
