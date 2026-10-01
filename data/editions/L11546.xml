@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L011546">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L11546">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>Brief von Paul und Wilhelmina Mathilde Tillich an Oskar Tillich zwischen 1893 und 1896</title>
-<author>
-<persName ref="#1928">Paul Tillich</persName>
-und
-<persName ref="#1929">Wilhelmina Mathilde Tillich</persName>
-</author>
+<author ref="#1928">Paul Tillich</author>
+<author ref="#1929">Wilhelmina Mathilde Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name key="https://orcid.org/0009-0004-5500-0611">Sara-Sophie Rosenheimer</name>
+</respStmt>
 </titleStmt>
 <publicationStmt>
-<p>
-<name key="https://orcid.org/0009-0004-5500-0611">Sara-Sophie Rosenheimer</name>
-</p>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</licence>
+</availability>
 </publicationStmt>
 <sourceDesc>
 <msDesc type="manuscript">
@@ -31,6 +43,32 @@ und
 </msDesc>
 </sourceDesc>
 </fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1933-1951.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#1928">Paul Tillich</persName>
+<persName ref="#1929">Wilhelmina Mathilde Tillich</persName>
+<date notBefore="1893" notAfter="1896">zwischen 1893 und 1896</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#XXXX">Oskar Tillich</persName>
+</correspAction>
+</correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change who="SR" when="2026-10-01">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
 </teiHeader>
 <text type="letter">
 <body>
