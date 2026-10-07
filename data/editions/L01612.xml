@@ -4,11 +4,11 @@
       <fileDesc>
          <titleStmt>
             <title>Brieffragment von Paul Tillich an Elisabeth Klein aus dem Herbst 1909</title>
-<author ref="#tillich_person_id__1928">Paul Tillich</author>
-<respStmt>
-   <resp>Editor</resp>
-   <name key="https://orcid.org/0009-0004-5500-0611">Sara-Sophie Rosenheimer</name>
-</respStmt>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name key="https://orcid.org/0009-0004-5500-0611">Sara-Sophie Rosenheimer</name>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -33,6 +33,9 @@
          </publicationStmt>
          <sourceDesc>
             <msDesc type="letter">
+               <msIdentifier>
+                  <!-- Archiv unbekannt -->
+               </msIdentifier>
                <physDesc>
                   <p>Brieffragment, eigenhändig</p>
                </physDesc>
@@ -68,24 +71,24 @@
             <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
          </editorialDecl>
       </encodingDesc>
-<profileDesc>
-<correspDesc>
-<correspAction type="sent">
-<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-<date notBefore="1909-01-01" notAfter="1909-12-31">1909</date>
-</correspAction>
-<correspAction type="received">
-<persName ref="#tillich_person_id__1063">Elisabeth Klein</persName>
-</correspAction>
-</correspDesc>
-<langUsage>
-<language ident="deu">Deutsch</language>
-</langUsage>
-</profileDesc>
-<revisionDesc status="approved">
-<change who="SR" when="2026-10-01">Initiale Auszeichnung des Transkripts</change>
-</revisionDesc>
-</teiHeader>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date notBefore="1909-01-01" notAfter="1909-12-31">1909</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1063">Elisabeth Klein</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="SR" when="2026-10-01">Initiale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
    <text type="letter">
       <body>
          <div type="writingSession">
