@@ -13,6 +13,6 @@ jobs:
     - name: Install the latest version of uv and set the python version
       uses: astral-sh/setup-uv@v6
     - name: validate against schematron
-      run: uv run validate-schematron --files "data/editions/*.xml" --schematron "odd/out/tillich-briefe.sch" 
+      run: uv run validate-all --files "data/editions/*.xml" --schematron "odd/out/tillich-briefe.sch" 
     - name: validate against xsd
       run: ant
