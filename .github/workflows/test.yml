@@ -1,4 +1,4 @@
-name: test
+name: validate letters
 
 on:
   workflow_dispatch:
@@ -10,7 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - name: Install the latest version of uv and set the python version
-      uses: astral-sh/setup-uv@v6
-    - name: test
-      run: uv run validate-all --files "data/editions/*.xml" --rng "odd/out/tillich-briefe.rng" --schematron "odd/out/tillich-schematron.sch" 
+#    - name: Install the latest version of uv and set the python version
+#      uses: astral-sh/setup-uv@v6
+#    - name: validate against schematron
+#      run: uv run validate-all --files "data/editions/*.xml" --schematron "odd/out/tillich-briefe.sch" 
+    - name: validate against xsd
+      run: ant
