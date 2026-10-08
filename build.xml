@@ -3,7 +3,7 @@
     
     <target name="validate-all-xml-schema" description="Validate multiple XMLs against XML Schema">
         <schemavalidate failonerror="true" fullchecking="true">
-            <schema file="${basedir}/odd/out/tei_all.xsd" namespace="http://www.tei-c.org/ns/1.0"/>
+            <schema file="${basedir}/schema/tei_all.xsd" namespace="http://www.tei-c.org/ns/1.0"/>
             <fileset dir="${basedir}/data/editions">
                 <include name="*.xml"/>
             </fileset>
