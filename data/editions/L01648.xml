@@ -82,14 +82,17 @@
         <body>
             <div type="writingSession1">
                 <pb n="1"/>
-                <dateline><hi rend="print"><rs ref="#tillich_place_id__60" type="place"
+                <opener>
+                    <dateline><hi rend="print"><rs ref="#tillich_place_id__60" type="place"
                             >Bielefeld</rs></hi> d. <date when="1905-07-13">13 Juli.
                     05</date>.</dateline>
                 <salute>Meinem lieben <rs ref="#tillich_person_id__1928" type="person">Paul</rs>
                     herzl. Gruß!</salute>
-                <signed>Tante <rs ref="#tillich_person_id__2085" type="person">Toni</rs> u. <rs
+                </opener>
+                <closer>
+                    <signed>Tante <rs ref="#tillich_person_id__2085" type="person">Toni</rs> u. <rs
                         ref="#tillich_person_id__1762" type="person">Elisabeth</rs></signed>
-
+                </closer>
             </div>
         </body>
     </text>
